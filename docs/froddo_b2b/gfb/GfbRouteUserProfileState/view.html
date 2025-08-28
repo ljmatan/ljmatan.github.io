@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, user-scalable=no">
+  <meta name="description" content="API docs for the view method from the GfbRouteUserProfileState class, for the Dart programming language.">
+  <title>view method - GfbRouteUserProfileState class - gfb library - Dart API</title>
+
+
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" rel="stylesheet">
+  
+  <link rel="stylesheet" href="../../static-assets/github.css?v1">
+  <link rel="stylesheet" href="../../static-assets/styles.css?v1">
+  <link rel="icon" href="../../static-assets/favicon.png?v1">
+  
+</head>
+
+<body data-base-href="../../" data-using-base-href="false" class="light-theme">
+<div id="overlay-under-drawer"></div>
+<header id="title">
+  <span id="sidenav-left-toggle" class="material-symbols-outlined" role="button" tabindex="0">menu</span>
+  <ol class="breadcrumbs gt-separated dark hidden-xs">
+    <li><a href="../../index.html">generic_shop_app_froddo_b2b</a></li>
+    <li><a href="../../gfb/">gfb.dart</a></li>
+    <li><a href="../../gfb/GfbRouteUserProfileState-class.html">GfbRouteUserProfileState</a></li>
+    <li class="self-crumb">view method</li>
+  </ol>
+  <div class="self-name">view</div>
+  <form class="search navbar-right" role="search">
+    <input type="text" id="search-box" autocomplete="off" disabled class="form-control typeahead" placeholder="Loading search...">
+  </form>
+  <button class="toggle" id="theme-button" title="Toggle between light and dark mode" aria-label="Light and dark mode toggle">
+    <span id="dark-theme-button" class="material-symbols-outlined" aria-hidden="true">
+      dark_mode
+    </span>
+    <span id="light-theme-button" class="material-symbols-outlined" aria-hidden="true">
+      light_mode
+    </span>
+  </button>
+</header>
+<main>
+<div
+    id="dartdoc-main-content"
+    class="main-content"
+    data-above-sidebar="gfb&#47;GfbRouteUserProfileState-class-sidebar.html"
+    data-below-sidebar="">
+    <div>
+<h1><span class="kind-method">view</span> method 
+</h1></div>
+
+    <section class="multi-line-signature">
+      
+  <div>
+    <ol class="annotation-list">
+        <li>@<a href="https://api.flutter.dev/flutter/dart-core/override-constant.html">override</a></li>
+    </ol>
+  </div>
+<span class="returntype"><a href="https://api.flutter.dev/flutter/widgets/Widget-class.html">Widget</a></span>
+<span class="name ">view</span>(<wbr><ol class="parameter-list single-line"> <li><span class="parameter" id="view-param-context"><span class="type-annotation"><a href="https://api.flutter.dev/flutter/widgets/BuildContext-class.html">BuildContext</a></span> <span class="parameter-name">context</span></span></li>
+</ol>)
+
+      <div class="features"><span class="feature">override</span></div>
+
+    </section>
+    
+<section class="desc markdown">
+  <p>Describes the part of the user interface represented by this widget.</p>
+<p>The method is implemented in place of the <a href="../../gfb/GsaRouteState/build.html">build</a> method.</p>
+</section>
+
+
+    
+<section class="summary source-code" id="source">
+  <h2><span>Implementation</span></h2>
+  <pre class="language-dart"><code class="language-dart">@override
+Widget view(BuildContext context) {
+  return Scaffold(
+    body: Column(
+      children: [
+        GsaWidgetAppBar(
+          label: GfbRouteUserProfileI18N.appBarTitle.value.display,
+        ),
+        Expanded(
+          child: Row(
+            children: [
+              Expanded(
+                child: DecoratedBox(
+                  decoration: BoxDecoration(
+                    border: Border(
+                      right: Theme.of(context).dimensions.smallScreen
+                          ? BorderSide.none
+                          : BorderSide(
+                              color: Theme.of(context).dividerColor,
+                            ),
+                    ),
+                  ),
+                  child: ListView(
+                    padding: Theme.of(context).listViewPadding,
+                    children: [
+                      Row(
+                        children: [
+                          CircleAvatar(
+                            child: Icon(
+                              Icons.person,
+                              color: Colors.white,
+                            ),
+                          ),
+                          const SizedBox(width: 10),
+                          Flexible(
+                            child: Column(
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                if (GsaDataUser.instance.user?.personalDetails?.formattedName != null) ...[
+                                  GsaWidgetText(
+                                    GsaDataUser.instance.user!.personalDetails!.formattedName!,
+                                    interpolated: true,
+                                    style: Theme.of(context).textTheme.titleLarge,
+                                  ),
+                                ],
+                                if (GfbDataResponse.instance.user?.role?.name != null)
+                                  GsaWidgetText.rich(
+                                    [
+                                      GsaWidgetTextSpan(
+                                        &#39;${GfbDataResponse.instance.user?.role?.name?.toUpperCase()}&#39;,
+                                        interpolated: true,
+                                      ),
+                                      if (GfbDataResponse.instance.user?.id != null)
+                                        GsaWidgetTextSpan(
+                                          &#39; #${GfbDataResponse.instance.user!.id!}&#39;,
+                                          interpolated: true,
+                                          style: TextStyle(
+                                            color: Colors.grey,
+                                          ),
+                                        ),
+                                    ],
+                                    style: TextStyle(
+                                      fontWeight: FontWeight.w300,
+                                      fontSize: 10,
+                                    ),
+                                  ),
+                              ],
+                            ),
+                          ),
+                        ],
+                      ),
+                      if (1 == 2) ...[
+                        const Divider(height: 20),
+                        for (final userData in &lt;({
+                          String label,
+                          String value,
+                        })&gt;{
+                          if (GfbDataResponse.instance.user?.distributor?.name != null)
+                            (
+                              label: GfbRouteUserProfileI18N.distributorLabel.value.display,
+                              value: GfbDataResponse.instance.user!.distributor!.name!,
+                            ),
+                          if (GfbDataResponse.instance.user?.language?.name != null)
+                            (
+                              label: GfbRouteUserProfileI18N.languageLabel.value.display,
+                              value: GfbDataResponse.instance.user!.language!.name!,
+                            ),
+                          if (GfbDataResponse.instance.user?.region?.name != null)
+                            (
+                              label: GfbRouteUserProfileI18N.regionLabel.value.display,
+                              value: GfbDataResponse.instance.user!.region!.name!,
+                            ),
+                        }.indexed) ...[
+                          if (userData.$1 != 0) const SizedBox(height: 4),
+                          GsaWidgetText.rich(
+                            [
+                              GsaWidgetTextSpan(
+                                &#39;${userData.$2.label}: &#39;,
+                                style: TextStyle(
+                                  color: Colors.grey,
+                                ),
+                              ),
+                              GsaWidgetTextSpan(
+                                userData.$2.value,
+                                interpolated: true,
+                              ),
+                            ],
+                          ),
+                        ],
+                      ],
+                      const SizedBox(height: 20),
+                      for (final action in &lt;({
+                        String label,
+                        int value,
+                        IconData icon,
+                        GsaRoute Function() route,
+                      })&gt;{
+                        (
+                          label: GfbRouteUserProfileI18N.viewClientsButtonLabel.value.display,
+                          value: GfbDataRequest.instance.clientRegisters.length + GfbDataResponse.instance.clients.length,
+                          icon: Icons.group,
+                          route: () {
+                            return const GfbRouteClients();
+                          },
+                        ),
+                        (
+                          label: GfbRouteUserProfileI18N.viewOrdersButtonLabel.value.display,
+                          value: GfbDataResponse.instance.registeredOrders.length + GfbDataRequest.instance.checkoutRegisters.length,
+                          icon: Icons.shopping_basket,
+                          route: () {
+                            return const GfbRouteOrders();
+                          },
+                        ),
+                      }.indexed) ...[
+                        if (action.$1 != 0) const SizedBox(height: 14),
+                        SizedBox(
+                          width: MediaQuery.of(context).size.width,
+                          child: GsaWidgetButton.outlined(
+                            labelWidget: GsaWidgetText.rich(
+                              [
+                                GsaWidgetTextSpan(
+                                  action.$2.label,
+                                ),
+                                GsaWidgetTextSpan(
+                                  &#39; (${action.$2.value})&#39;,
+                                  interpolated: true,
+                                ),
+                              ],
+                            ),
+                            icon: action.$2.icon,
+                            foregroundColor: Theme.of(context).dimensions.smallScreen || action.$1 == _selectedViewTab
+                                ? Theme.of(context).primaryColor
+                                : Colors.grey,
+                            onTap: Theme.of(context).dimensions.smallScreen
+                                ? () async {
+                                    await action.$2.route().push();
+                                    setState(() {});
+                                  }
+                                : () {
+                                    _selectViewTab(action.$1);
+                                  },
+                          ),
+                        ),
+                      ],
+                      const SizedBox(height: 14),
+                      _WidgetSyncSection(
+                        synchronise: () async {
+                          _syncTimer?.cancel();
+                          _syncTimer = null;
+                          await _dataSync();
+                          _setSyncTimer();
+                        },
+                      ),
+                      const SizedBox(height: 14),
+                      GsaWidgetButton.outlined(
+                        label: GfbRouteUserProfileI18N.scannerSetupButtonLabel.value.display,
+                        icon: Icons.barcode_reader,
+                        onTap: () async {
+                          GsaRoute.state&lt;GfbRouteScanState&gt;()?.setDisplayEnabled(true);
+                        },
+                      ),
+                      const SizedBox(height: 14),
+                      GsaWidgetButton.outlined(
+                        label: GfbRouteUserProfileI18N.logoutButtonLabel.value.display,
+                        icon: Icons.logout,
+                        onTap: () async {
+                          final confirmed = await GsaWidgetOverlayConfirmation(
+                            GfbRouteUserProfileI18N.logoutButtonOverlayConfirmationDescription.value.display,
+                          ).openDialog();
+                          if (confirmed) {
+                            await GsaDataUser.instance.logout();
+                          }
+                        },
+                      ),
+                    ],
+                  ),
+                ),
+              ),
+              if (Theme.of(context).dimensions.largeScreen)
+                Expanded(
+                  flex: 2,
+                  child: _selectedViewTab == 0 ? const GfbRouteClients() : const GfbRouteOrders(),
+                ),
+            ],
+          ),
+        ),
+      ],
+    ),
+  );
+}</code></pre>
+</section>
+
+
+  </div> <!-- /.main-content -->
+  <div id="dartdoc-sidebar-left" class="sidebar sidebar-offcanvas-left">
+    <!-- The search input and breadcrumbs below are only responsively visible at low resolutions. -->
+<header id="header-search-sidebar" class="hidden-l">
+  <form class="search-sidebar" role="search">
+    <input type="text" id="search-sidebar" autocomplete="off" disabled class="form-control typeahead" placeholder="Loading search...">
+  </form>
+</header>
+<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
+    <li><a href="../../index.html">generic_shop_app_froddo_b2b</a></li>
+    <li><a href="../../gfb/">gfb</a></li>
+    <li><a href="../../gfb/GfbRouteUserProfileState-class.html">GfbRouteUserProfileState</a></li>
+    <li class="self-crumb">view method</li>
+</ol>
+
+    <h5>GfbRouteUserProfileState class</h5>
+    <div id="dartdoc-sidebar-left-content"></div>
+  </div><!--/.sidebar-offcanvas-->
+  <div id="dartdoc-sidebar-right" class="sidebar sidebar-offcanvas-right">
+</div><!--/.sidebar-offcanvas-->
+</main>
+<footer>
+  <span class="no-break">
+    generic_shop_app_froddo_b2b
+      0.0.1
+  </span>
+  
+</footer>
+
+
+<script src="../../static-assets/highlight.pack.js?v1"></script>
+<script src="../../static-assets/docs.dart.js"></script>
+
+</body>
+</html>
+
