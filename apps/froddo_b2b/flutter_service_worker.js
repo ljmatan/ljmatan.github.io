@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "0a23c8e7fe8542f57a346617847e1085",
+const RESOURCES = {"flutter_bootstrap.js": "dac5d2729926b36811ea1096688b0f14",
 "version.json": "a7eee6010b54435174df90a9706f3c34",
 "index.html": "7e3967bfeafbe9af34225c19085bcacc",
 "/": "7e3967bfeafbe9af34225c19085bcacc",
-"main.dart.js": "f25cb2c7c3c669c8c8b44de3015bdee3",
+"main.dart.js": "186280be0a74ee2f3e0bfdb0dfb5adb5",
 "flutter.js": "888483df48293866f9f41d3d9274a779",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -24,7 +24,7 @@ const RESOURCES = {"flutter_bootstrap.js": "0a23c8e7fe8542f57a346617847e1085",
 "assets/packages/generic_shop_app_froddo_b2b/assets/froddo_b2b/svg/shoe.svg": "e5ee0e5c323d40157867d403412e0475",
 "assets/packages/generic_shop_app_froddo_b2b/assets/froddo_b2b/svg/barcode_reset_settings.svg": "202075adc186423e9bb3da2114af3a6e",
 "assets/packages/generic_shop_app_froddo_b2b/assets/froddo_b2b/svg/barcode_set_name_mode.svg": "aa478239bfcd38725be3e6c3581432f3",
-"assets/packages/generic_shop_app_froddo_b2b/assets/froddo_b2b/svg/logo.svg": "0d7f74d175b09935019d932fe4daed3e",
+"assets/packages/generic_shop_app_froddo_b2b/assets/froddo_b2b/svg/logo.svg": "f285c4dd74db63b1ff26478cdce77555",
 "assets/packages/generic_shop_app_froddo_b2b/assets/froddo_b2b/svg/barcode_scanner_set_mode.svg": "50a54cd79c88a23e683a99a143a8b980",
 "assets/packages/generic_shop_app_froddo_b2b/assets/froddo_b2b/fonts/MerriweatherSans-VariableFont_wght.ttf": "9ca3378cf3a4d03361cf8630282524de",
 "assets/packages/generic_shop_app_content/assets/fonts/Quicksand-Bold.ttf": "e8dcee4bbf2288a2d264c76fa547f37a",
