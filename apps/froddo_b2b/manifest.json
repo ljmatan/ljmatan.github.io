@@ -1,6 +1,6 @@
 {
-    "name": "generic_shop_app_froddo_b2b_impl",
-    "short_name": "generic_shop_app_froddo_b2b_impl",
+    "name": "Froddo Business-to-Business Sales App.",
+    "short_name": "Froddo B2B",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
