@@ -1,0 +1,3758 @@
+{
+    "merchants": [
+        {
+            "name": "Ivo Horvat",
+            "address": {
+                "latitude": "45.8150",
+                "longitude": "15.9819"
+            },
+            "contact": {
+                "phoneNumber": "+385912345678"
+            },
+            "reviews": [
+                {
+                    "rating": "5",
+                    "message": "Kao Herbalife partner, Ivo mi je pomogao da postignem svoje ciljeve u prehrani.",
+                    "timeCreatedIso8601": "2025-09-20T14:23:00Z"
+                },
+                {
+                    "rating": "4",
+                    "message": "Dobar savjetnik, uvijek spreman objasniti detalje proizvoda.",
+                    "timeCreatedIso8601": "2025-09-21T10:12:00Z"
+                }
+            ],
+            "photoImageUrl": "https://picsum.photos/200"
+        },
+        {
+            "name": "Ana Marić",
+            "address": {
+                "latitude": "45.816837",
+                "longitude": "15.947987"
+            },
+            "contact": {
+                "phoneNumber": "+385913456789"
+            },
+            "reviews": [
+                {
+                    "rating": "5",
+                    "message": "Ana je izvrsna Herbalife partnerica, motivira me svaki tjedan.",
+                    "timeCreatedIso8601": "2025-09-18T09:12:00Z"
+                },
+                {
+                    "rating": "5",
+                    "message": "Velika podrška i pozitivna energija, preporučujem svakome.",
+                    "timeCreatedIso8601": "2025-09-19T16:30:00Z"
+                },
+                {
+                    "rating": "4",
+                    "message": "Dobro iskustvo, cijene proizvoda su jasne i fer.",
+                    "timeCreatedIso8601": "2025-09-22T12:00:00Z"
+                }
+            ],
+            "photoImageUrl": "https://picsum.photos/201"
+        },
+        {
+            "name": "Marko Novak",
+            "address": {
+                "latitude": "45.793382",
+                "longitude": "16.037866"
+            },
+            "contact": {
+                "phoneNumber": "+385914567890"
+            },
+            "reviews": [
+                {
+                    "rating": "5",
+                    "message": "Marko je pravi profesionalac, jako dobro poznaje Herbalife proizvode.",
+                    "timeCreatedIso8601": "2025-09-15T16:45:00Z"
+                },
+                {
+                    "rating": "4",
+                    "message": "Savjetovao mi je dobre shake kombinacije za mršavljenje.",
+                    "timeCreatedIso8601": "2025-09-16T09:00:00Z"
+                }
+            ],
+            "photoImageUrl": "https://picsum.photos/202"
+        },
+        {
+            "name": "Petra Kovač",
+            "address": {
+                "latitude": "45.841477",
+                "longitude": "16.040954"
+            },
+            "contact": {
+                "phoneNumber": "+385915678901"
+            },
+            "reviews": [
+                {
+                    "rating": "3",
+                    "message": "Petra je ljubazna, ali mislim da proizvodi nisu za svakoga.",
+                    "timeCreatedIso8601": "2025-09-12T11:30:00Z"
+                },
+                {
+                    "rating": "4",
+                    "message": "Dala mi je plan prehrane i osjećam se bolje već nakon dva tjedna.",
+                    "timeCreatedIso8601": "2025-09-13T15:45:00Z"
+                }
+            ],
+            "photoImageUrl": "https://picsum.photos/203"
+        },
+        {
+            "name": "Luka Jurić",
+            "address": {
+                "latitude": "45.785482",
+                "longitude": "15.930835"
+            },
+            "contact": {
+                "phoneNumber": "+385916789012"
+            },
+            "reviews": [
+                {
+                    "rating": "5",
+                    "message": "Odličan Herbalife partner, uvijek motivira na zdrav život.",
+                    "timeCreatedIso8601": "2025-09-10T08:50:00Z"
+                },
+                {
+                    "rating": "5",
+                    "message": "Savjetuje s puno strpljenja i znanja.",
+                    "timeCreatedIso8601": "2025-09-11T19:20:00Z"
+                },
+                {
+                    "rating": "4",
+                    "message": "Dobar izbor dodataka prehrani, preporučujem.",
+                    "timeCreatedIso8601": "2025-09-11T22:10:00Z"
+                }
+            ],
+            "photoImageUrl": "https://picsum.photos/204"
+        },
+        {
+            "name": "Ivana Babić",
+            "address": {
+                "latitude": "45.837650",
+                "longitude": "15.932893"
+            },
+            "contact": {
+                "phoneNumber": "+385917890123"
+            },
+            "reviews": [
+                {
+                    "rating": "4",
+                    "message": "Ivana je predana Herbalife partnerica i pruža jasne upute.",
+                    "timeCreatedIso8601": "2025-09-07T13:05:00Z"
+                },
+                {
+                    "rating": "5",
+                    "message": "Zahvaljujući njenim savjetima, osjećam se puno energičnije.",
+                    "timeCreatedIso8601": "2025-09-08T08:15:00Z"
+                }
+            ],
+            "photoImageUrl": "https://picsum.photos/205"
+        },
+        {
+            "name": "Tomislav Perić",
+            "address": {
+                "latitude": "45.794100",
+                "longitude": "16.005277"
+            },
+            "contact": {
+                "phoneNumber": "+385918901234"
+            },
+            "reviews": [
+                {
+                    "rating": "5",
+                    "message": "Tomislav ima veliko iskustvo i zna kako motivirati ljude.",
+                    "timeCreatedIso8601": "2025-09-05T10:15:00Z"
+                },
+                {
+                    "rating": "4",
+                    "message": "Preporučio mi je odlične kombinacije Herbalife proizvoda.",
+                    "timeCreatedIso8601": "2025-09-06T17:00:00Z"
+                }
+            ],
+            "photoImageUrl": "https://picsum.photos/206"
+        },
+        {
+            "name": "Marija Radić",
+            "address": {
+                "latitude": "45.841238",
+                "longitude": "15.944900"
+            },
+            "contact": {
+                "phoneNumber": "+385919012345"
+            },
+            "reviews": [
+                {
+                    "rating": "5",
+                    "message": "Marija je uvijek tu kad trebam podršku u svom planu.",
+                    "timeCreatedIso8601": "2025-09-03T17:40:00Z"
+                },
+                {
+                    "rating": "4",
+                    "message": "Jako simpatična i zna objasniti sve prednosti Herbalife programa.",
+                    "timeCreatedIso8601": "2025-09-04T14:25:00Z"
+                }
+            ],
+            "photoImageUrl": "https://picsum.photos/207"
+        },
+        {
+            "name": "Karlo Vuković",
+            "address": {
+                "latitude": "45.778778",
+                "longitude": "15.985380"
+            },
+            "contact": {
+                "phoneNumber": "+385911234567"
+            },
+            "reviews": [
+                {
+                    "rating": "5",
+                    "message": "Karlo ima puno znanja o zdravoj prehrani i dodacima.",
+                    "timeCreatedIso8601": "2025-09-01T12:25:00Z"
+                },
+                {
+                    "rating": "5",
+                    "message": "Osjećam se puno bolje otkad slijedim njegove savjete.",
+                    "timeCreatedIso8601": "2025-09-02T09:30:00Z"
+                },
+                {
+                    "rating": "4",
+                    "message": "Odlična komunikacija i podrška.",
+                    "timeCreatedIso8601": "2025-09-02T18:50:00Z"
+                }
+            ],
+            "photoImageUrl": "https://picsum.photos/208"
+        },
+        {
+            "name": "Sandra Milić",
+            "address": {
+                "latitude": "45.828799",
+                "longitude": "15.972001"
+            },
+            "contact": {
+                "phoneNumber": "+385912345679"
+            },
+            "reviews": [
+                {
+                    "rating": "3",
+                    "message": "Sandra je ok, ali mislim da proizvodi nisu za mene.",
+                    "timeCreatedIso8601": "2025-08-29T15:10:00Z"
+                },
+                {
+                    "rating": "4",
+                    "message": "Vrlo strpljiva i uvijek spremna odgovoriti na pitanja.",
+                    "timeCreatedIso8601": "2025-08-30T11:45:00Z"
+                }
+            ],
+            "photoImageUrl": "https://picsum.photos/209"
+        }
+    ],
+    "products": [
+        {
+            "flavours": "Smooth chocolate",
+            "sku_startdate": 1700871060000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Naš najprodavaniji i ukusan shake kao zamjena za obrok.</p>\n",
+            "category_id": [
+                "proteini",
+                "shakeovi",
+                "prema-potrebi",
+                "kontrola-tezine",
+                "prikladno-za-vegansku-prehranu",
+                "all-products",
+                "prema-vrsti",
+                "zamjenski-obrok",
+                "svakodnevna-prehrana"
+            ],
+            "product_name": "Formula 1 Nutritional shake mix",
+            "variant_size": "550 g",
+            "size_count": 1,
+            "flavor_count": 9,
+            "color_count": 0,
+            "swatch_flavor_urls": "creamy-chocolate---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "creamy-chocolate---pdp-locked",
+                "mint-chocolate---pdp-locked",
+                "pineapple-coconut---pdp-locked",
+                "raspberry-and-white-chocolate---pdp-locked",
+                "strawberry---pdp-locked",
+                "vanilla-dream---pdp-locked",
+                "banana-cream---pdp-locked",
+                "cafe-latte---pdp-locked",
+                "cookies-and-cream---pdp-locked"
+            ],
+            "permanentid": "4468_HR",
+            "seo_canonical_url": "formula-1-nutritional-shake-mix-smooth-chocolate-550g-4468",
+            "sku": "4468",
+            "product_id": "4468_HR",
+            "variant_tag": "Featured",
+            "thumbnail_image": {
+                "altText": "Herbalife Formula 1 Nutritional shake mix Smooth chocolate 550 g",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-4468-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Formula 1 Nutritional shake mix Smooth chocolate 550 g Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-f1-smooth-chocolate.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Banana cream",
+            "sku_startdate": 1700871060000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Naš najprodavaniji i ukusan shake kao zamjena za obrok.</p>\n",
+            "category_id": [
+                "proteini",
+                "shakeovi",
+                "prema-potrebi",
+                "kontrola-tezine",
+                "prikladno-za-vegansku-prehranu",
+                "all-products",
+                "prema-vrsti",
+                "zamjenski-obrok",
+                "svakodnevna-prehrana"
+            ],
+            "product_name": "Formula 1 Nutritional shake mix",
+            "variant_size": "550 g",
+            "size_count": 1,
+            "flavor_count": 9,
+            "color_count": 0,
+            "swatch_flavor_urls": "banana-cream---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "banana-cream---pdp-locked",
+                "cafe-latte---pdp-locked",
+                "cookies-and-cream---pdp-locked",
+                "creamy-chocolate---pdp-locked",
+                "mint-chocolate---pdp-locked",
+                "pineapple-coconut---pdp-locked",
+                "raspberry-and-white-chocolate---pdp-locked",
+                "strawberry---pdp-locked",
+                "vanilla-dream---pdp-locked"
+            ],
+            "permanentid": "4462_HR",
+            "seo_canonical_url": "formula-1-nutritional-shake-mix-banana-cream-550g-4462",
+            "sku": "4462",
+            "product_id": "4462_HR",
+            "variant_tag": "Featured",
+            "thumbnail_image": {
+                "altText": "Herbalife Formula 1 Nutritional shake mix Banana cream 550 g",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-4462-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Formula 1 Nutritional shake mix Banana cream 550 g Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-f1-banana.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Vanilije",
+            "sku_startdate": 1700863860000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Mješavina na biljnoj bazi s decentnim okusom vanilije za dodatno povećanje unosa proteina.</p>\n",
+            "category_id": [
+                "proteini",
+                "napitci",
+                "prema-potrebi",
+                "fitness",
+                "kontrola-tezine",
+                "prikladno-za-vegansku-prehranu",
+                "all-products",
+                "dodatni-proteini",
+                "dodatn-proteini",
+                "prema-vrsti",
+                "svakodnevna-prehrana"
+            ],
+            "product_name": "Protein Drink Mix Vegan",
+            "variant_size": "560 g",
+            "size_count": 2,
+            "flavor_count": 1,
+            "color_count": 0,
+            "swatch_flavor_urls": "vanilla---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "vanilla---pdp-locked"
+            ],
+            "permanentid": "172K_HR",
+            "seo_canonical_url": "protein-drink-mix-vegan-vanilije-560g-172k",
+            "sku": "172K",
+            "product_id": "172K_HR",
+            "variant_tag": "Featured",
+            "thumbnail_image": {
+                "altText": "Herbalife Protein Drink Mix Vegan Vanilije 560 g",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-172k-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Protein Drink Mix Vegan Vanilije 560 g Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-pdm-vanilla.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Unflavoured",
+            "sku_startdate": 1700871060000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "Podržite svoje ciljeve izvedbe, zdravlja i dobrobiti. ",
+            "category_id": [
+                "opca-dobrobit",
+                "prema-potrebi",
+                "dodaci-prehrani",
+                "prikladno-za-vegansku-prehranu",
+                "izvedba",
+                "all-products",
+                "prema-vrsti",
+                "energija",
+                "svakodnevna-prehrana"
+            ],
+            "product_name": "Herbalife24 Creatine+",
+            "variant_size": "228 g",
+            "size_count": 1,
+            "flavor_count": 1,
+            "color_count": 0,
+            "swatch_flavor_urls": "unflavored---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "unflavored---pdp-locked"
+            ],
+            "permanentid": "488K_HR",
+            "seo_canonical_url": "herbalife24-creatine-228g-488k",
+            "sku": "488K",
+            "product_id": "488K_HR",
+            "variant_tag": "Featured",
+            "thumbnail_image": {
+                "altText": "Herbalife24 Creatine+ 228 g",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-488k-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife24 Creatine+ 228 g Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/emeai/pp-h24-creatine.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Brusnice i bijele čokolade",
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Pločica za zamjenski obrok dok ste u pokretu pomoći će vam da ostvarite svoje ciljeve u prehrani.</p>\n",
+            "category_id": [
+                "grickalice-plocice",
+                "proteini",
+                "prema-potrebi",
+                "kontrola-tezine",
+                "prikladno-za-vegansku-prehranu",
+                "all-products",
+                "prema-vrsti",
+                "zamjenski-obrok",
+                "svakodnevna-prehrana"
+            ],
+            "product_name": "Formula 1 Express Pločice za hranjivi obrok",
+            "variant_size": "7 pločica",
+            "size_count": 1,
+            "flavor_count": 2,
+            "color_count": 0,
+            "swatch_flavor_urls": "cranberry-and-white-chocolate---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "cranberry-and-white-chocolate---pdp-locked",
+                "dark-chocolate---pdp-locked"
+            ],
+            "permanentid": "4473_HR",
+            "seo_canonical_url": "formula-1-express-plocice-za-hranjivi-obrok-brusnice-bijele-cokolade-7-plocica-4473",
+            "sku": "4473",
+            "product_id": "4473_HR",
+            "variant_tag": "Featured",
+            "thumbnail_image": {
+                "altText": "Herbalife Formula 1 Express Pločice za hranjivi obrok\tBrusnice i bijele čokolade 7 pločica",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-4473-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Formula 1 Express Pločice za hranjivi obrok\tBrusnice i bijele čokolade 7 pločica Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/emeai/pp-f1-eb-cwc-emea.jpg"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Jabuke",
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Ekskluzivna mješavina formulirana s topivim i netopivim vlaknima.</p>\n",
+            "category_id": [
+                "napitci",
+                "dodatna-vlakna",
+                "dobrobit-probave",
+                "prema-potrebi",
+                "ciljana-podrska",
+                "prikladno-za-vegansku-prehranu",
+                "all-products",
+                "prema-vrsti",
+                "svakodnevna-prehrana"
+            ],
+            "product_name": "Zob, jabuke i vlakna",
+            "variant_size": "204 g",
+            "size_count": 1,
+            "flavor_count": 1,
+            "color_count": 0,
+            "swatch_flavor_urls": "apple---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "apple---pdp-locked"
+            ],
+            "permanentid": "2554_HR",
+            "seo_canonical_url": "zob-jabuke-vlakna-jabuke-204g-2554",
+            "sku": "2554",
+            "product_id": "2554_HR",
+            "variant_tag": "Featured",
+            "thumbnail_image": {
+                "altText": "Herbalife Zob, jabuke i vlakna Jabuke 204 g",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-2554-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Zob, jabuke i vlakna Jabuke 204 g Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-afc-apple.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "sku_startdate": 1700871060000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Kapsula bogata fitonutrijentima formulirana s Fiit-NS™.</p>",
+            "category_id": [
+                "potpora-metabolizmu",
+                "prema-potrebi",
+                "ciljana-podrska",
+                "dodaci-prehrani",
+                "all-products",
+                "prema-vrsti"
+            ],
+            "product_name": "Phyto Complete",
+            "variant_size": "60 kapsula",
+            "size_count": 1,
+            "flavor_count": 0,
+            "color_count": 0,
+            "suppress_promotion": "false",
+            "permanentid": "236K_HR",
+            "seo_canonical_url": "phyto-complete-60 kapsula-236k",
+            "sku": "236K",
+            "product_id": "236K_HR",
+            "variant_tag": "Featured",
+            "thumbnail_image": {
+                "altText": "Herbalife Phyto Complete 60 kapsula",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-236k-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Phyto Complete 60 kapsula Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/emeai/pp-pc-emea.jpg"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Tamne čokolade",
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Vaša proteinska pločica nakon treninga.</p>\n",
+            "category_id": [
+                "grickalice-plocice",
+                "prema-potrebi",
+                "izvedba",
+                "razvoj-misica",
+                "all-products",
+                "prema-vrsti",
+                "proteinske-grickalice"
+            ],
+            "product_name": "Herbalife24® Achieve proteinska pločica",
+            "variant_size": "6 pločica",
+            "size_count": 1,
+            "flavor_count": 1,
+            "color_count": 0,
+            "swatch_flavor_urls": "dark-chocolate---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "dark-chocolate---pdp-locked"
+            ],
+            "permanentid": "150K_HR",
+            "seo_canonical_url": "herbalife24-achieve-proteinska-plocica-tamne-cokolade-6-plocica-150k",
+            "sku": "150K",
+            "product_id": "150K_HR",
+            "variant_tag": "Featured",
+            "thumbnail_image": {
+                "altText": "Herbalife24® Achieve proteinska pločica Tamne čokolade 6 pločica",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-150k-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife24® Achieve proteinska pločica Tamne čokolade 6 pločica Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/emeai/pp-h24-ab-dc-emea.jpg"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Acai bobica",
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Dodatak sportskoj prehrani ekskluzivno razvijen u suradnji s Cristianom Ronaldom.</p>\n",
+            "category_id": [
+                "napitci",
+                "hidratacija",
+                "prema-potrebi",
+                "izvedba",
+                "sportska-hidratacija",
+                "all-products",
+                "prema-vrsti",
+                "energija",
+                "izdrzljivost"
+            ],
+            "product_name": "Herbalife24® CR7 Drive",
+            "variant_size": "540 g",
+            "size_count": 1,
+            "flavor_count": 1,
+            "color_count": 0,
+            "swatch_flavor_urls": "acai-berry---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "acai-berry---pdp-locked"
+            ],
+            "permanentid": "1466_HR",
+            "seo_canonical_url": "herbalife24-cr7-drive-acai-bobica-540g-1466",
+            "sku": "1466",
+            "product_id": "1466_HR",
+            "variant_tag": "Featured",
+            "thumbnail_image": {
+                "altText": "Herbalife24® CR7 Drive Acai bobica\t540 g",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-1466-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife24® CR7 Drive Acai bobica\t540 g Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-h24cr7d-acai-berry.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Limuna ",
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Osvježavajući, niskokalorični instant napitak u kojem možete uživati tijekom dana.</p>\n",
+            "category_id": [
+                "napitci",
+                "hidratacija",
+                "prema-potrebi",
+                "fitness",
+                "kontrola-tezine",
+                "prikladno-za-vegansku-prehranu",
+                "all-products",
+                "dodatni-kofein",
+                "prema-vrsti",
+                "svakodnevna-prehrana"
+            ],
+            "product_name": "Instant biljni napitak s ekstraktima čaja",
+            "variant_size": "51 g",
+            "size_count": 1,
+            "flavor_count": 3,
+            "color_count": 0,
+            "swatch_flavor_urls": "lemon---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "lemon---pdp-locked",
+                "original---pdp-locked",
+                "peach---pdp-locked"
+            ],
+            "permanentid": "180K_HR",
+            "seo_canonical_url": "instant-biljni-napitak-s-ekstraktima-caja-limuna-51g-180k",
+            "sku": "180K",
+            "product_id": "180K_HR",
+            "variant_tag": "Featured",
+            "thumbnail_image": {
+                "altText": "Herbalife Instant biljni napitak s ekstraktima čaja\tLimuna 51 g",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-180k-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Instant biljni napitak s ekstraktima čaja\tLimuna 51 g Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-htc-lemon.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Jagode i limuna",
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Stručno razvijen dodatak prehrani za zdrav izgled kože.</p>\n",
+            "category_id": [
+                "dobrobit-koze",
+                "prema-potrebi",
+                "ciljana-podrska",
+                "dodaci-prehrani",
+                "all-products",
+                "prema-vrsti",
+                "njega-koze-tijela"
+            ],
+            "product_name": "Herbalife SKIN Collagen Skin Booster",
+            "variant_size": "171 g",
+            "size_count": 1,
+            "flavor_count": 1,
+            "color_count": 0,
+            "swatch_flavor_urls": "strawberry-lemonade---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "strawberry-lemonade---pdp-locked"
+            ],
+            "permanentid": "076K_HR",
+            "seo_canonical_url": "herbalife-skin-collagen-skin-booster-jagode-i-limuna-171g-076k",
+            "sku": "076K",
+            "product_id": "076K_HR",
+            "variant_tag": "Featured",
+            "thumbnail_image": {
+                "altText": "Herbalife SKIN Collagen Skin Booster\tJagode i limuna\t171 g",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-076k-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife SKIN Collagen Skin Booster Jagode i limuna\t171 g Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-bd-strawberry-lemonade.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Pineapple Coconut",
+            "sku_startdate": 1700863860000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "category_id": [
+                "proteini",
+                "shakeovi",
+                "prema-potrebi",
+                "kontrola-tezine",
+                "prikladno-za-vegansku-prehranu",
+                "all-products",
+                "prema-vrsti",
+                "zamjenski-obrok",
+                "svakodnevna-prehrana"
+            ],
+            "product_name": "Formula 1 Nutritional shake mix",
+            "variant_size": "550 g",
+            "size_count": 1,
+            "flavor_count": 9,
+            "color_count": 0,
+            "swatch_flavor_urls": "pineapple-coconut---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "pineapple-coconut---pdp-locked",
+                "raspberry-and-white-chocolate---pdp-locked",
+                "strawberry---pdp-locked",
+                "vanilla-dream---pdp-locked",
+                "banana-cream---pdp-locked",
+                "cafe-latte---pdp-locked",
+                "cookies-and-cream---pdp-locked",
+                "creamy-chocolate---pdp-locked",
+                "mint-chocolate---pdp-locked"
+            ],
+            "permanentid": "224K_HR",
+            "seo_canonical_url": "formula-1-nutritional-shake-mix-pineapple-coconut-550g-224k",
+            "sku": "224K",
+            "product_id": "224K",
+            "variant_tag": "Limited Edition",
+            "thumbnail_image": {
+                "altText": "Formula 1 Nutritional shake mix Pineapple Coconut 550 g",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-224k-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Formula 1 Nutritional shake mix Pineapple Coconut 550 g pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-f1-pina-colada.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "Pjenasti gel koji nježno čisti bez pretjeranog isušivanja.",
+            "category_id": [
+                "koza-tijelo",
+                "prema-potrebi",
+                "njega-koze",
+                "all-products",
+                "prema-vrsti",
+                "njega-koze-tijela"
+            ],
+            "product_name": "HL/Skin Gel za Ćišćenje i Obnavljanje Kože",
+            "variant_size": "147 ml",
+            "size_count": 1,
+            "flavor_count": 0,
+            "color_count": 0,
+            "suppress_promotion": "false",
+            "permanentid": "511K_HR",
+            "seo_canonical_url": "hl-skin-gel-za-ciscenje-obnavljanje-koze-147ml-511k",
+            "sku": "511K",
+            "product_id": "511K_HR",
+            "variant_tag": "New",
+            "thumbnail_image": {
+                "altText": "HL/Skin Gel za Ćišćenje i Obnavljanje Kože 147 ml",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-511k-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Muškarac pere svoje lice s HL/Skin Resurfacing Gelo Cleanserom.",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/lifestyle/emeai/li-person-with-herbalife-skin-resurfacing-gelo-cleanser.jpg"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "Bogata, baršunasta krema za lice koja cilja bore i poboljšava elastičnost kože.",
+            "category_id": [
+                "koza-tijelo",
+                "prema-potrebi",
+                "njega-koze",
+                "all-products",
+                "prema-vrsti",
+                "njega-koze-tijela"
+            ],
+            "product_name": "HL/Skin Krema za Učvršćivanje Kože",
+            "variant_size": "50 ml",
+            "size_count": 1,
+            "flavor_count": 0,
+            "color_count": 0,
+            "suppress_promotion": "false",
+            "permanentid": "513K_HR",
+            "seo_canonical_url": "hl-skin-krema-za-ucvrscivanje-koze-50ml-513k",
+            "sku": "513K",
+            "product_id": "513K_HR",
+            "variant_tag": "New",
+            "thumbnail_image": {
+                "altText": "HL/Skin Krema za Učvršćivanje Kože 50 ml",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-513k-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Žena nanosi HL/Skin Ultimate Tension kremu na svoje lice.",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/lifestyle/emeai/li-person-with-herbalife-skin-ultimate-tension-cream.jpg"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "Lagani, hranjivi losion za ruke i tijelo za dugotrajnu hidrataciju i omekšavanje.",
+            "category_id": [
+                "njega-tijela",
+                "koza-tijelo",
+                "prema-potrebi",
+                "njega-koze",
+                "all-products",
+                "prema-vrsti",
+                "njega-koze-tijela"
+            ],
+            "product_name": "HL/Skin Hranjivi Losion za Ruke i Tijelo",
+            "variant_size": "147 ml",
+            "size_count": 1,
+            "flavor_count": 0,
+            "color_count": 0,
+            "suppress_promotion": "false",
+            "permanentid": "514K_HR",
+            "seo_canonical_url": "hl-skin-hranjivi-losion-za-ruke-tijelo-147ml-514k",
+            "sku": "514K",
+            "product_id": "514K_HR",
+            "variant_tag": "New",
+            "thumbnail_image": {
+                "altText": "HL/Skin Hranjivi Losion za Ruke i Tijelo 147 ml",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-514k-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Žena nanosi HL/Skin Nourishing Hand & Body losion na svoju nogu.",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/lifestyle/emeai/li-women-applying-body-lotion.jpg"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "Brzo upijajuća, lagana i nemasna krema za nježnu kožu oko očiju.",
+            "category_id": [
+                "koza-tijelo",
+                "prema-potrebi",
+                "njega-koze",
+                "all-products",
+                "prema-vrsti",
+                "njega-koze-tijela"
+            ],
+            "product_name": "HL/Skin Hranjiva Krema za Kožu oko Očiju",
+            "variant_size": "15 ml",
+            "size_count": 1,
+            "flavor_count": 0,
+            "color_count": 0,
+            "suppress_promotion": "false",
+            "permanentid": "515K_HR",
+            "seo_canonical_url": "hl-skin-hranjiva-krema-za-kozu-oko-ociju-15ml-515k",
+            "sku": "515K",
+            "product_id": "515K_HR",
+            "variant_tag": "New",
+            "thumbnail_image": {
+                "altText": "HL/Skin Hranjiva Krema za Kožu oko Očiju 15 ml",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-515k-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Žena nanosi HL/Skin Nourishing Eye kremu na svoje lice.",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/lifestyle/emeai/li-person-with-herbalife-skin-nourishing-eye-cream.jpg"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Jagode",
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Energetski gel s visokim udjelom ugljikohidrata formuliran s mješavinom B vitamina.</p>\n",
+            "category_id": [
+                "prema-potrebi",
+                "izvedba",
+                "all-products",
+                "energija",
+                "izdrzljivost"
+            ],
+            "product_name": "Herbalife24 Prolong Energy Gel",
+            "variant_size": "10 vrećica",
+            "size_count": 1,
+            "flavor_count": 1,
+            "color_count": 0,
+            "swatch_flavor_urls": "strawberry-new---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "strawberry-new---pdp-locked"
+            ],
+            "permanentid": "402K_HR",
+            "seo_canonical_url": "herbalife24-prolong-energy-gel-jagode-10-vrecica-402k",
+            "sku": "402K",
+            "product_id": "402K_HR",
+            "variant_tag": "New",
+            "thumbnail_image": {
+                "altText": "Herbalife24 Prolong Energy Gel Jagode 10 vrećica",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-402k-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife24 Prolong Energy Gel Jagode - Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/emeai/pp-h24-p-eg-emea.jpg"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "Serum na bazi vode za jačanje kožne barijere i jačanje sjaja za zdrav, blistav ten.",
+            "category_id": [
+                "koza-tijelo",
+                "prema-potrebi",
+                "njega-koze",
+                "all-products",
+                "prema-vrsti",
+                "njega-koze-tijela"
+            ],
+            "product_name": "HL/Skin Serum s 10 % Niacinamida",
+            "variant_size": "30 ml",
+            "size_count": 1,
+            "flavor_count": 0,
+            "color_count": 0,
+            "suppress_promotion": "false",
+            "permanentid": "508K_HR",
+            "seo_canonical_url": "hl-skin-serum-s-10-niacinamida-30ml-508k",
+            "sku": "508K",
+            "product_id": "508K_HR",
+            "variant_tag": "New",
+            "thumbnail_image": {
+                "altText": "HL/Skin Serum s 10 % Niacinamida 30 ml",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-508k-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Žena nanosi HL/Skin Niacinamide serum na svoje lice.",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/lifestyle/emeai/li-woman-applying-facial-serum-dropper-skincare-routine.jpg"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Cookie crunch",
+            "sku_startdate": 1700871060000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Naš najprodavaniji i ukusan shake kao zamjena za obrok.</p>\n",
+            "category_id": [
+                "proteini",
+                "shakeovi",
+                "prema-potrebi",
+                "kontrola-tezine",
+                "prikladno-za-vegansku-prehranu",
+                "all-products",
+                "prema-vrsti",
+                "zamjenski-obrok",
+                "svakodnevna-prehrana"
+            ],
+            "product_name": "Formula 1 Nutritional shake mix",
+            "variant_size": "550 g",
+            "size_count": 1,
+            "flavor_count": 9,
+            "color_count": 0,
+            "swatch_flavor_urls": "cookies-and-cream---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "cookies-and-cream---pdp-locked",
+                "creamy-chocolate---pdp-locked",
+                "mint-chocolate---pdp-locked",
+                "pineapple-coconut---pdp-locked",
+                "raspberry-and-white-chocolate---pdp-locked",
+                "strawberry---pdp-locked",
+                "vanilla-dream---pdp-locked",
+                "banana-cream---pdp-locked",
+                "cafe-latte---pdp-locked"
+            ],
+            "permanentid": "4467_HR",
+            "seo_canonical_url": "formula-1-nutritional-shake-mix-cookie-crunch-550g-4467",
+            "sku": "4467",
+            "product_id": "4467_HR",
+            "variant_tag": "Best Seller",
+            "thumbnail_image": {
+                "altText": "Herbalife Formula 1 Nutritional shake mix Cookie crunch 550 g",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-4467-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Formula 1 Nutritional shake mix Cookie crunch 550 g Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-f1-cookies-n-cream.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Cafe latte",
+            "sku_startdate": 1700871060000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Naš najprodavaniji i ukusan shake kao zamjena za obrok.</p>\n",
+            "category_id": [
+                "proteini",
+                "shakeovi",
+                "prema-potrebi",
+                "kontrola-tezine",
+                "prikladno-za-vegansku-prehranu",
+                "all-products",
+                "prema-vrsti",
+                "zamjenski-obrok",
+                "svakodnevna-prehrana"
+            ],
+            "product_name": "Formula 1 Nutritional shake mix",
+            "variant_size": "550 g",
+            "size_count": 1,
+            "flavor_count": 9,
+            "color_count": 0,
+            "swatch_flavor_urls": "cafe-latte---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "cafe-latte---pdp-locked",
+                "cookies-and-cream---pdp-locked",
+                "creamy-chocolate---pdp-locked",
+                "mint-chocolate---pdp-locked",
+                "pineapple-coconut---pdp-locked",
+                "raspberry-and-white-chocolate---pdp-locked",
+                "strawberry---pdp-locked",
+                "vanilla-dream---pdp-locked",
+                "banana-cream---pdp-locked"
+            ],
+            "permanentid": "4465_HR",
+            "seo_canonical_url": "formula-1-nutritional-shake-mix-cafe-latte-550g-4465",
+            "sku": "4465",
+            "product_id": "4465_HR",
+            "variant_tag": "Best Seller",
+            "thumbnail_image": {
+                "altText": "Herbalife Formula 1 Nutritional shake mix Cafe latte 550 g",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-4465-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Formula 1 Nutritional shake mix Cafe latte 550 g Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-f1-cappuccino-cafe-latte.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Vanilla crème",
+            "sku_startdate": 1700871060000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Naš najprodavaniji i ukusan shake kao zamjena za obrok.</p>\n",
+            "category_id": [
+                "proteini",
+                "shakeovi",
+                "prema-potrebi",
+                "kontrola-tezine",
+                "prikladno-za-vegansku-prehranu",
+                "all-products",
+                "prema-vrsti",
+                "zamjenski-obrok",
+                "svakodnevna-prehrana"
+            ],
+            "product_name": "Formula 1 Nutritional shake mix",
+            "variant_size": "550 g",
+            "size_count": 3,
+            "flavor_count": 9,
+            "color_count": 0,
+            "swatch_flavor_urls": "vanilla-dream---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "vanilla-dream---pdp-locked",
+                "banana-cream---pdp-locked",
+                "cafe-latte---pdp-locked",
+                "cookies-and-cream---pdp-locked",
+                "creamy-chocolate---pdp-locked",
+                "mint-chocolate---pdp-locked",
+                "pineapple-coconut---pdp-locked",
+                "raspberry-and-white-chocolate---pdp-locked",
+                "strawberry---pdp-locked"
+            ],
+            "permanentid": "4466_HR",
+            "seo_canonical_url": "formula-1-nutritional-shake-mix-vanilla-creme-550g-4466",
+            "sku": "4466",
+            "product_id": "4466_HR",
+            "variant_tag": "Best Seller",
+            "thumbnail_image": {
+                "altText": "Herbalife Formula 1 Nutritional shake mix Vanilla crème 550 g",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-4466-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Formula 1 Nutritional shake mix Vanilla crème 550 g Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-f1-french-vanilla.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Vanilla crème",
+            "sku_startdate": 1700871060000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Naš najprodavaniji i ukusan shake kao zamjena za obrok.</p>\n",
+            "category_id": [
+                "proteini",
+                "shakeovi",
+                "prema-potrebi",
+                "kontrola-tezine",
+                "prikladno-za-vegansku-prehranu",
+                "all-products",
+                "prema-vrsti",
+                "zamjenski-obrok",
+                "svakodnevna-prehrana"
+            ],
+            "product_name": "Formula 1 Nutritional shake mix",
+            "variant_size": "780 g",
+            "size_count": 3,
+            "flavor_count": 9,
+            "color_count": 0,
+            "swatch_flavor_urls": "vanilla-dream---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "vanilla-dream---pdp-locked",
+                "banana-cream---pdp-locked",
+                "cafe-latte---pdp-locked",
+                "cookies-and-cream---pdp-locked",
+                "creamy-chocolate---pdp-locked",
+                "mint-chocolate---pdp-locked",
+                "pineapple-coconut---pdp-locked",
+                "raspberry-and-white-chocolate---pdp-locked",
+                "strawberry---pdp-locked"
+            ],
+            "permanentid": "048K_HR",
+            "seo_canonical_url": "formula-1-nutritional-shake-mix-vanilla-creme-780g-048k",
+            "sku": "048K",
+            "product_id": "048K_HR",
+            "variant_tag": "Best Seller",
+            "thumbnail_image": {
+                "altText": "Herbalife Formula 1 Nutritional shake mix Vanilla crème 780 g",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-048k-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Formula 1 Nutritional shake mix Vanilla crème 780 g Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-f1-french-vanilla.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Limuna ",
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Ukusna pločica osmišljena da vam pomogne povećati unos proteina.</p>\n",
+            "category_id": [
+                "grickalice-plocice",
+                "proteini",
+                "prema-potrebi",
+                "fitness",
+                "kontrola-tezine",
+                "all-products",
+                "prema-vrsti",
+                "proteinske-grickalice",
+                "svakodnevna-prehrana"
+            ],
+            "product_name": "Proteinska pločica",
+            "variant_size": "14 pločica",
+            "size_count": 1,
+            "flavor_count": 2,
+            "color_count": 0,
+            "swatch_flavor_urls": "lemon---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "lemon---pdp-locked",
+                "vanilla-almond---pdp-locked"
+            ],
+            "permanentid": "3976_HR",
+            "seo_canonical_url": "proteinska-plocica-limuna-14-plocica-3976",
+            "sku": "3976",
+            "product_id": "3976_HR",
+            "variant_tag": "Best Seller",
+            "thumbnail_image": {
+                "altText": "Herbalife Proteinska pločica Limuna 14 pločica",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-3976-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Proteinska pločica Limuna 14 pločica Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/emeai/pp-pb-cl-emea.jpg"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Vanilije",
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Mješavina s decentnim okusom vanilije za dodatno povećanje unosa proteina.</p>\n",
+            "category_id": [
+                "proteini",
+                "napitci",
+                "prema-potrebi",
+                "fitness",
+                "kontrola-tezine",
+                "all-products",
+                "dodatni-proteini",
+                "dodatn-proteini",
+                "prema-vrsti",
+                "svakodnevna-prehrana"
+            ],
+            "product_name": "Mješavina za proteinski napitak",
+            "variant_size": "588 g",
+            "size_count": 1,
+            "flavor_count": 1,
+            "color_count": 0,
+            "swatch_flavor_urls": "vanilla---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "vanilla---pdp-locked"
+            ],
+            "permanentid": "2600_HR",
+            "seo_canonical_url": "mjesavina-za-proteinski-napitak-vanilije-588g-2600",
+            "sku": "2600",
+            "product_id": "2600_HR",
+            "variant_tag": "Best Seller",
+            "thumbnail_image": {
+                "altText": "Herbalife Mješavina za proteinski napitak Vanilije 588 g",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-2600-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Mješavina za proteinski napitak Vanilije 588 g Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-pdm-vanilla.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Manga",
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Osvježavajući niskokalorični napitak od visokokvalitetnog soka Aloe vere.</p>\n",
+            "category_id": [
+                "napitci",
+                "hidratacija",
+                "prema-potrebi",
+                "fitness",
+                "kontrola-tezine",
+                "prikladno-za-vegansku-prehranu",
+                "all-products",
+                "prema-vrsti",
+                "svakodnevna-prehrana"
+            ],
+            "product_name": "Biljni koncentrat aloje",
+            "variant_size": "473 ml",
+            "size_count": 1,
+            "flavor_count": 2,
+            "color_count": 0,
+            "swatch_flavor_urls": "mango---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "mango---pdp-locked",
+                "original---pdp-locked"
+            ],
+            "permanentid": "1065_HR",
+            "seo_canonical_url": "biljni-koncentrat-aloje-manga-473ml-1065",
+            "sku": "1065",
+            "product_id": "1065_HR",
+            "variant_tag": "Best Seller",
+            "thumbnail_image": {
+                "altText": "Herbalife Biljni koncentrat aloje Manga 473 ml",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-1065-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Biljni koncentrat aloje Manga 473 ml Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-hac-mango.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Barbecue",
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Nije prženo.</p>\n",
+            "category_id": [
+                "grickalice-plocice",
+                "proteini",
+                "prema-potrebi",
+                "fitness",
+                "kontrola-tezine",
+                "all-products",
+                "prema-vrsti",
+                "proteinske-grickalice",
+                "svakodnevna-prehrana"
+            ],
+            "product_name": "Proteinski čips",
+            "variant_size": "10 kesica",
+            "size_count": 1,
+            "flavor_count": 2,
+            "color_count": 0,
+            "swatch_flavor_urls": "barbecue---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "barbecue---pdp-locked",
+                "sour-cream-and-onion---pdp-locked"
+            ],
+            "permanentid": "141K_HR",
+            "seo_canonical_url": "proteinski-cips-barbecue-10-vrecica-141k",
+            "sku": "141K",
+            "product_id": "141K_HR",
+            "variant_tag": "Best Seller",
+            "thumbnail_image": {
+                "altText": "Herbalife Proteinski čips Barbecue 10 vrećica",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-141k-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Proteinski čips Barbecue 10 vrećica Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/emeai/pp-pc-bbq-emea.jpg"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Breskve",
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Osvježavajući, niskokalorični instant napitak u kojem možete uživati tijekom dana.</p>\n",
+            "category_id": [
+                "napitci",
+                "hidratacija",
+                "prema-potrebi",
+                "fitness",
+                "kontrola-tezine",
+                "prikladno-za-vegansku-prehranu",
+                "all-products",
+                "dodatni-kofein",
+                "prema-vrsti",
+                "svakodnevna-prehrana"
+            ],
+            "product_name": "Instant biljni napitak s ekstraktima čaja",
+            "variant_size": "51 g",
+            "size_count": 1,
+            "flavor_count": 3,
+            "color_count": 0,
+            "swatch_flavor_urls": "peach---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "peach---pdp-locked",
+                "lemon---pdp-locked",
+                "original---pdp-locked"
+            ],
+            "permanentid": "181K_HR",
+            "seo_canonical_url": "instant-biljni-napitak-s-ekstraktima-caja-breskve-51g-181k",
+            "sku": "181K",
+            "product_id": "181K_HR",
+            "variant_tag": "Best Seller",
+            "thumbnail_image": {
+                "altText": "Herbalife Instant biljni napitak s ekstraktima čaja\tBreskve 51 g",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-181k-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Instant biljni napitak s ekstraktima čaja\tBreskve 51 g Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-htc-peach.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Vanilije",
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Napitak bogat vlaknima, formuliran s OatWell® zobenim beta-glukanom.</p>\n",
+            "category_id": [
+                "napitci",
+                "dodatna-vlakna",
+                "dobrobit-srca",
+                "prema-potrebi",
+                "ciljana-podrska",
+                "all-products",
+                "prema-vrsti"
+            ],
+            "product_name": "Beta heart®",
+            "variant_size": "229 g",
+            "size_count": 1,
+            "flavor_count": 1,
+            "color_count": 0,
+            "swatch_flavor_urls": "vanilla---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "vanilla---pdp-locked"
+            ],
+            "permanentid": "0267_HR",
+            "seo_canonical_url": "beta-heart-vanilije-229g-0267",
+            "sku": "0267",
+            "product_id": "0267_HR",
+            "variant_tag": "Best Seller",
+            "thumbnail_image": {
+                "altText": "Herbalife Beta heart® Vanilije 229 g",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-0267-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Beta heart® Vanilije 229 g Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-bh-vanilla.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Vanilije",
+            "sku_startdate": 1700863860000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "category_id": [
+                "proteini",
+                "napitci",
+                "prema-potrebi",
+                "fitness",
+                "kontrola-tezine",
+                "prikladno-za-vegansku-prehranu",
+                "all-products",
+                "dodatni-proteini",
+                "dodatn-proteini",
+                "prema-vrsti",
+                "svakodnevna-prehrana"
+            ],
+            "product_name": "Protein Drink Mix Vegan",
+            "variant_size": "7 vrećica",
+            "size_count": 2,
+            "flavor_count": 1,
+            "color_count": 0,
+            "swatch_flavor_urls": "vanilla---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "vanilla---pdp-locked"
+            ],
+            "permanentid": "441K_HR",
+            "seo_canonical_url": "protein-drink-mix-vegan-vanilije-7-vrecica-441k",
+            "sku": "441K",
+            "product_id": "441K",
+            "thumbnail_image": {
+                "altText": "Protein Drink Mix Vegan Vanilije 7 vrećica",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-441k-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Protein Drink Mix Vegan Vanilije pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-pdm-vanilla.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Mint i chocolate",
+            "sku_startdate": 1700871060000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Naš najprodavaniji i ukusan shake kao zamjena za obrok.</p>\n",
+            "category_id": [
+                "proteini",
+                "shakeovi",
+                "prema-potrebi",
+                "kontrola-tezine",
+                "prikladno-za-vegansku-prehranu",
+                "all-products",
+                "prema-vrsti",
+                "zamjenski-obrok",
+                "svakodnevna-prehrana"
+            ],
+            "product_name": "Formula 1 Nutritional shake mix",
+            "variant_size": "550 g",
+            "size_count": 1,
+            "flavor_count": 9,
+            "color_count": 0,
+            "swatch_flavor_urls": "mint-chocolate---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "mint-chocolate---pdp-locked",
+                "pineapple-coconut---pdp-locked",
+                "raspberry-and-white-chocolate---pdp-locked",
+                "strawberry---pdp-locked",
+                "vanilla-dream---pdp-locked",
+                "banana-cream---pdp-locked",
+                "cafe-latte---pdp-locked",
+                "cookies-and-cream---pdp-locked",
+                "creamy-chocolate---pdp-locked"
+            ],
+            "permanentid": "4471_HR",
+            "seo_canonical_url": "formula-1-nutritional-shake-mix-mint-chocolate-550g-4471",
+            "sku": "4471",
+            "product_id": "4471_HR",
+            "thumbnail_image": {
+                "altText": "Herbalife Formula 1 Nutritional shake mix Mint i chocolate 550 g",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-4471-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Formula 1 Nutritional shake mix Mint i chocolate 550 g Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-f1-mint-chocolate.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Raspberry i white chocolate",
+            "sku_startdate": 1700871060000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Naš najprodavaniji i ukusan shake kao zamjena za obrok.</p>\n",
+            "category_id": [
+                "proteini",
+                "shakeovi",
+                "prema-potrebi",
+                "kontrola-tezine",
+                "prikladno-za-vegansku-prehranu",
+                "all-products",
+                "prema-vrsti",
+                "zamjenski-obrok",
+                "svakodnevna-prehrana"
+            ],
+            "product_name": "Formula 1 Nutritional shake mix",
+            "variant_size": "500 g",
+            "size_count": 1,
+            "flavor_count": 9,
+            "color_count": 0,
+            "swatch_flavor_urls": "raspberry-and-white-chocolate---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "raspberry-and-white-chocolate---pdp-locked",
+                "strawberry---pdp-locked",
+                "vanilla-dream---pdp-locked",
+                "banana-cream---pdp-locked",
+                "cafe-latte---pdp-locked",
+                "cookies-and-cream---pdp-locked",
+                "creamy-chocolate---pdp-locked",
+                "mint-chocolate---pdp-locked",
+                "pineapple-coconut---pdp-locked"
+            ],
+            "permanentid": "4469_HR",
+            "seo_canonical_url": "formula-1-nutritional-shake-mix-raspberry-white-chocolate-500g-4469",
+            "sku": "4469",
+            "product_id": "4469_HR",
+            "thumbnail_image": {
+                "altText": "Herbalife Formula 1 Nutritional shake mix Raspberry i white chocolate 500 g",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-4469-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Formula 1 Nutritional shake mix Raspberry i white chocolate 500 g Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-f1-raspberry-white-chocolate.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Vanilla crème",
+            "sku_startdate": 1700871060000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Naš najprodavaniji i ukusan shake kao zamjena za obrok.</p>\n",
+            "category_id": [
+                "proteini",
+                "shakeovi",
+                "prema-potrebi",
+                "kontrola-tezine",
+                "prikladno-za-vegansku-prehranu",
+                "all-products",
+                "prema-vrsti",
+                "zamjenski-obrok",
+                "svakodnevna-prehrana"
+            ],
+            "product_name": "Formula 1 Nutritional shake mix",
+            "variant_size": "7 vrećica",
+            "size_count": 3,
+            "flavor_count": 9,
+            "color_count": 0,
+            "swatch_flavor_urls": "vanilla-dream---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "vanilla-dream---pdp-locked",
+                "banana-cream---pdp-locked",
+                "cafe-latte---pdp-locked",
+                "cookies-and-cream---pdp-locked",
+                "creamy-chocolate---pdp-locked",
+                "mint-chocolate---pdp-locked",
+                "pineapple-coconut---pdp-locked",
+                "raspberry-and-white-chocolate---pdp-locked",
+                "strawberry---pdp-locked"
+            ],
+            "permanentid": "053K_HR",
+            "seo_canonical_url": "formula-1-nutritional-shake-mix-vanilla-creme-7-vrecica-053k",
+            "sku": "053K",
+            "product_id": "053K_HR",
+            "thumbnail_image": {
+                "altText": "Herbalife Formula 1 Nutritional shake mix Vanilla crème 7 vrećica",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-053k-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Formula 1 Nutritional shake mix Vanilla crème 7 vrećica Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-f1-french-vanilla.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Strawberry delight",
+            "sku_startdate": 1700871060000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Naš najprodavaniji i ukusan shake kao zamjena za obrok.</p>\n",
+            "category_id": [
+                "proteini",
+                "shakeovi",
+                "prema-potrebi",
+                "kontrola-tezine",
+                "prikladno-za-vegansku-prehranu",
+                "all-products",
+                "prema-vrsti",
+                "zamjenski-obrok",
+                "svakodnevna-prehrana"
+            ],
+            "product_name": "Formula 1 Nutritional shake mix",
+            "variant_size": "550 g",
+            "size_count": 1,
+            "flavor_count": 9,
+            "color_count": 0,
+            "swatch_flavor_urls": "strawberry---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "strawberry---pdp-locked",
+                "vanilla-dream---pdp-locked",
+                "banana-cream---pdp-locked",
+                "cafe-latte---pdp-locked",
+                "cookies-and-cream---pdp-locked",
+                "creamy-chocolate---pdp-locked",
+                "mint-chocolate---pdp-locked",
+                "pineapple-coconut---pdp-locked",
+                "raspberry-and-white-chocolate---pdp-locked"
+            ],
+            "permanentid": "4463_HR",
+            "seo_canonical_url": "formula-1-nutritional-shake-mix-strawberry-delight-550g-4463",
+            "sku": "4463",
+            "product_id": "4463_HR",
+            "thumbnail_image": {
+                "altText": "Herbalife Formula 1 Nutritional shake mix Strawberry delight 550 g",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-4463-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Formula 1 Nutritional shake mix Strawberry delight 550 g Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-f1-strawberry.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Tamne čokolade",
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Pločica za zamjenski obrok dok ste u pokretu pomoći će vam da ostvarite svoje ciljeve u prehrani.</p>\n",
+            "category_id": [
+                "grickalice-plocice",
+                "proteini",
+                "prema-potrebi",
+                "kontrola-tezine",
+                "prikladno-za-vegansku-prehranu",
+                "all-products",
+                "prema-vrsti",
+                "zamjenski-obrok",
+                "svakodnevna-prehrana"
+            ],
+            "product_name": "Formula 1 Express Pločice za hranjivi obrok",
+            "variant_size": "7 pločica",
+            "size_count": 1,
+            "flavor_count": 2,
+            "color_count": 0,
+            "swatch_flavor_urls": "dark-chocolate---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "dark-chocolate---pdp-locked",
+                "cranberry-and-white-chocolate---pdp-locked"
+            ],
+            "permanentid": "4472_HR",
+            "seo_canonical_url": "formula-1-express-plocice-za-hranjivi-obrok-tamne-cokolade-7-plocica-4472",
+            "sku": "4472",
+            "product_id": "4472_HR",
+            "thumbnail_image": {
+                "altText": "Herbalife Formula 1 Express Pločice za hranjivi obrok\tTamne čokolade 7 pločica",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-4472-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Formula 1 Express Pločice za hranjivi obrok\tTamne čokolade 7 pločica Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/emeai/pp-f1-eb-dc-emea.jpg"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Vanilije i badema",
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Ukusna pločica osmišljena da vam pomogne povećati unos proteina.</p>\n",
+            "category_id": [
+                "grickalice-plocice",
+                "proteini",
+                "prema-potrebi",
+                "fitness",
+                "kontrola-tezine",
+                "all-products",
+                "prema-vrsti",
+                "proteinske-grickalice",
+                "svakodnevna-prehrana"
+            ],
+            "product_name": "Proteinska pločica",
+            "variant_size": "14 pločica",
+            "size_count": 1,
+            "flavor_count": 2,
+            "color_count": 0,
+            "swatch_flavor_urls": "vanilla-almond---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "vanilla-almond---pdp-locked",
+                "lemon---pdp-locked"
+            ],
+            "permanentid": "3968_HR",
+            "seo_canonical_url": "proteinska-plocica-vanilije-badema-14-plocica-3968",
+            "sku": "3968",
+            "product_id": "3968_HR",
+            "thumbnail_image": {
+                "altText": "Herbalife Proteinska pločica Vanilije i badema 14 pločica",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-3968-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Proteinska pločica Vanilije i badema 14 pločica Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/emeai/pp-pb-va-emea.jpg"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Kamilice i breskve",
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Večernji napitak formuliran s ekstraktom šafrana.</p>\n",
+            "category_id": [
+                "prema-potrebi",
+                "ciljana-podrska",
+                "dodaci-prehrani",
+                "all-products",
+                "prema-vrsti",
+                "psiholosko-zdravlje"
+            ],
+            "product_name": "Night Mode",
+            "variant_size": "180 g",
+            "size_count": 1,
+            "flavor_count": 1,
+            "color_count": 0,
+            "swatch_flavor_urls": "chamomile-and-peach---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "chamomile-and-peach---pdp-locked"
+            ],
+            "permanentid": "282K_HR",
+            "seo_canonical_url": "night-mode-kamilice-breskve-180g-282k",
+            "sku": "282K",
+            "product_id": "282K_HR",
+            "thumbnail_image": {
+                "altText": "Herbalife Night Mode\tKamilice i breskve 180 g",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-282k-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Night Mode\tKamilice i breskve 180 g Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-nm-chamomile-peach.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Bobičastog voća",
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Ekskluzivno formuliran sa sastojkom EpiCor® i mješavinom ključnih vitamina i minerala.</p>\n",
+            "category_id": [
+                "opca-dobrobit",
+                "prema-potrebi",
+                "ciljana-podrska",
+                "dodaci-prehrani",
+                "all-products",
+                "potpora-imunitetu",
+                "prema-vrsti",
+                "svakodnevna-prehrana"
+            ],
+            "product_name": "Immune Booster",
+            "variant_size": "21 vrećica",
+            "size_count": 1,
+            "flavor_count": 1,
+            "color_count": 0,
+            "swatch_flavor_urls": "wild-berry---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "wild-berry---pdp-locked"
+            ],
+            "permanentid": "233K_HR",
+            "seo_canonical_url": "immune-booster-bobicastog-voca-21-vrecica-233k",
+            "sku": "233K",
+            "product_id": "233K_HR",
+            "thumbnail_image": {
+                "altText": "Herbalife Immune Booster\tBobičastog voća 21 vrećica",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-233k-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Immune Booster\tBobičastog voća 21 vrećica Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-ib-berry.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Očistite, osvježite i hidratizirajte vašu kožu.</p>\n",
+            "category_id": [
+                "njega-tijela",
+                "koza-tijelo",
+                "prema-potrebi",
+                "all-products",
+                "prema-vrsti",
+                "njega-koze-tijela"
+            ],
+            "product_name": "Herbal Aloe Sapun za tijelo i kupku",
+            "variant_size": "125 g",
+            "size_count": 1,
+            "flavor_count": 0,
+            "color_count": 0,
+            "suppress_promotion": "false",
+            "permanentid": "2566_HR",
+            "seo_canonical_url": "herbal-aloe-sapun-za-tijelo-i-kupku-125g-2566",
+            "sku": "2566",
+            "product_id": "2566_HR",
+            "thumbnail_image": {
+                "altText": "Herbalife Herbal Aloe Sapun za tijelo i kupku 125 g",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-2566-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Herbal Aloe Sapun za tijelo i kupku 125 g Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/emeai/pp-ha-hbw-bbb-emea.jpg"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Ojačajte, nahranite i hidratizirajte kosu.</p>\n",
+            "category_id": [
+                "koza-tijelo",
+                "prema-potrebi",
+                "all-products",
+                "prema-vrsti",
+                "njega-koze-tijela",
+                "njega-kose"
+            ],
+            "product_name": "Herbal Aloe Regenerator za jačanje kose",
+            "variant_size": "250 ml",
+            "size_count": 1,
+            "flavor_count": 0,
+            "color_count": 0,
+            "suppress_promotion": "false",
+            "permanentid": "2565_HR",
+            "seo_canonical_url": "herbal-aloe-regenerator-za-jacanje-kose-250ml-2565",
+            "sku": "2565",
+            "product_id": "2565_HR",
+            "thumbnail_image": {
+                "altText": "Herbalife Herbal Aloe Regenerator za jačanje kose 250 ml",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-2565-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Herbal Aloe Regenerator za jačanje kose 250 ml Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/emeai/pp-ha-ss-sc-emea.jpg"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Dnevni dodatak prehrani posebno formuliran za žene.</p>\n",
+            "category_id": [
+                "blagostanje-zene",
+                "opca-dobrobit",
+                "prema-potrebi",
+                "ciljana-podrska",
+                "dodaci-prehrani",
+                "all-products",
+                "potpora-imunitetu",
+                "prema-vrsti",
+                "svakodnevna-prehrana"
+            ],
+            "product_name": "Formula 2 Kompleks vitamina i minerala za žene",
+            "variant_size": "60 tableta",
+            "size_count": 1,
+            "flavor_count": 0,
+            "color_count": 0,
+            "suppress_promotion": "false",
+            "permanentid": "2038_HR",
+            "seo_canonical_url": "formula-2-kompleks-vitamina-minerala-za-zene-60-tableta-2038",
+            "sku": "2038",
+            "product_id": "2038_HR",
+            "thumbnail_image": {
+                "altText": "Herbalife Formula 2 Kompleks vitamina i minerala za žene 60 tableta",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-2038-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Formula 2 Kompleks vitamina i minerala za žene 60 tableta Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/emeai/pp-f2-vmc-w-emea.jpg"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Grejpa",
+            "sku_startdate": 1700871060000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Energetski dodatak prehrani bez šećera, formuliran s kofeinom i ključnim vitaminima.</p>\n",
+            "category_id": [
+                "prema-potrebi",
+                "izvedba",
+                "all-products",
+                "energija"
+            ],
+            "product_name": "Herbalife24® LiftOff® Max",
+            "variant_size": "10 vrećica",
+            "size_count": 1,
+            "flavor_count": 1,
+            "color_count": 0,
+            "swatch_flavor_urls": "grapefruit---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "grapefruit---pdp-locked"
+            ],
+            "permanentid": "192K_HR",
+            "seo_canonical_url": "herbalife24-liftoff-max-grejpa-10-vrecica-192k",
+            "sku": "192K",
+            "product_id": "192K_HR",
+            "thumbnail_image": {
+                "altText": "Herbalife24® LiftOff® Max\tGrejpa 10 vrećica",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-192k-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife24® LiftOff® Max\tGrejpa 10 vrećica Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-h24lom-grapefruit-twist.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Ojačajte, popravite i zaštitite svoju kosu.</p>\n",
+            "category_id": [
+                "koza-tijelo",
+                "prema-potrebi",
+                "all-products",
+                "prema-vrsti",
+                "njega-koze-tijela",
+                "njega-kose"
+            ],
+            "product_name": "Herbal Aloe Šampon za jačanje kose",
+            "variant_size": "250 ml",
+            "size_count": 1,
+            "flavor_count": 0,
+            "color_count": 0,
+            "suppress_promotion": "false",
+            "permanentid": "2564_HR",
+            "seo_canonical_url": "herbal-aloe-sampon-za-jacanje-kose-250ml-2564",
+            "sku": "2564",
+            "product_id": "2564_HR",
+            "thumbnail_image": {
+                "altText": "Herbalife Herbal Aloe Šampon za jačanje kose 250 ml",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-2564-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Herbal Aloe Šampon za jačanje kose 250 ml Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/emeai/pp-ha-ss-sc-emea.jpg"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Hidratizirajte, umirite i nahranite vašu kožu.</p>\n",
+            "category_id": [
+                "njega-tijela",
+                "koza-tijelo",
+                "prema-potrebi",
+                "all-products",
+                "prema-vrsti",
+                "njega-koze-tijela"
+            ],
+            "product_name": "Herbal Aloe Losion za ruke i tijelo",
+            "variant_size": "200 ml",
+            "size_count": 1,
+            "flavor_count": 0,
+            "color_count": 0,
+            "suppress_promotion": "false",
+            "permanentid": "2563_HR",
+            "seo_canonical_url": "herbal-aloe-losion-za-ruke-i-tijelo-200ml-2563",
+            "sku": "2563",
+            "product_id": "2563_HR",
+            "thumbnail_image": {
+                "altText": "Herbalife Herbal Aloe Losion za ruke i tijelo 200 ml",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-2563-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Herbal Aloe Losion za ruke i tijelo 200 ml Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/emeai/pp-ha-sg-eshbl-emea.jpg"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Omekšajte, zagladite i umirite vašu kožu.</p>\n",
+            "category_id": [
+                "njega-tijela",
+                "koza-tijelo",
+                "prema-potrebi",
+                "all-products",
+                "prema-vrsti",
+                "njega-koze-tijela"
+            ],
+            "product_name": "Herbal Aloe Umirujući gel",
+            "variant_size": "200 ml",
+            "size_count": 1,
+            "flavor_count": 0,
+            "color_count": 0,
+            "suppress_promotion": "false",
+            "permanentid": "2562_HR",
+            "seo_canonical_url": "herbal-aloe-umirujuci-gel-200ml-2562",
+            "sku": "2562",
+            "product_id": "2562_HR",
+            "thumbnail_image": {
+                "altText": "Herbalife Herbal Aloe Umirujući gel 200 ml",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-2562-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Herbal Aloe Umirujući gel 200 ml Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/emeai/pp-ha-sg-eshbl-emea.jpg"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Očistite, osvježite i oživite svoju kožu.</p>\n",
+            "category_id": [
+                "njega-tijela",
+                "koza-tijelo",
+                "prema-potrebi",
+                "all-products",
+                "prema-vrsti",
+                "njega-koze-tijela"
+            ],
+            "product_name": "Herbal Aloe Tekući sapun za ruke i tijelo",
+            "variant_size": "250 ml",
+            "size_count": 1,
+            "flavor_count": 0,
+            "color_count": 0,
+            "suppress_promotion": "false",
+            "permanentid": "2561_HR",
+            "seo_canonical_url": "herbal-aloe-tekuci-sapun-za-ruke-i-tijelo-250ml-2561",
+            "sku": "2561",
+            "product_id": "2561_HR",
+            "thumbnail_image": {
+                "altText": "Herbalife Herbal Aloe Tekući sapun za ruke i tijelo 250 ml",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-2561-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Herbal Aloe Tekući sapun za ruke i tijelo 250 ml Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/emeai/pp-ha-hbw-bbb-emea.jpg"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Čokolade",
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Proteinski shake za oporavak nakon treninga s dodanim glutaminom i BCAA za upotrebu nakon anaerobne vježbe.</p>\n",
+            "category_id": [
+                "shakeovi",
+                "prema-potrebi",
+                "izvedba",
+                "sportska-prehrana",
+                "oporavak",
+                "all-products",
+                "prema-vrsti"
+            ],
+            "product_name": "Herbalife24® Rebuild Strength",
+            "variant_size": "1000 g",
+            "size_count": 1,
+            "flavor_count": 1,
+            "color_count": 0,
+            "swatch_flavor_urls": "chocolate---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "chocolate---pdp-locked"
+            ],
+            "permanentid": "1437_HR",
+            "seo_canonical_url": "herbalife24-rebuild-strength-cokolade-1000g-1437",
+            "sku": "1437",
+            "product_id": "1437_HR",
+            "thumbnail_image": {
+                "altText": "Herbalife24® Rebuild Strength Čokolade 1000 g",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-1437-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife24® Rebuild Strength Čokolade 1000 g Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-h24wp-chocolate.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Izvorni",
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Osvježavajući niskokalorični napitak od visokokvalitetnog soka Aloe vere.</p>\n",
+            "category_id": [
+                "napitci",
+                "hidratacija",
+                "prema-potrebi",
+                "fitness",
+                "kontrola-tezine",
+                "prikladno-za-vegansku-prehranu",
+                "all-products",
+                "prema-vrsti",
+                "svakodnevna-prehrana"
+            ],
+            "product_name": "Biljni koncentrat aloje",
+            "variant_size": "473 ml",
+            "size_count": 1,
+            "flavor_count": 2,
+            "color_count": 0,
+            "swatch_flavor_urls": "original---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "original---pdp-locked",
+                "mango---pdp-locked"
+            ],
+            "permanentid": "0006_HR",
+            "seo_canonical_url": "biljni-koncentrat-aloje-izvorni-473ml-0006",
+            "sku": "0006",
+            "product_id": "0006_HR",
+            "thumbnail_image": {
+                "altText": "Herbalife Biljni koncentrat aloje Izvorni 473 ml",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-0006-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Biljni koncentrat aloje Izvorni 473 ml Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-hac-original.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Izvorni",
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Osvježavajući, niskokalorični instant napitak u kojem možete uživati tijekom dana.</p>\n",
+            "category_id": [
+                "napitci",
+                "hidratacija",
+                "prema-potrebi",
+                "fitness",
+                "kontrola-tezine",
+                "prikladno-za-vegansku-prehranu",
+                "all-products",
+                "dodatni-kofein",
+                "prema-vrsti",
+                "svakodnevna-prehrana"
+            ],
+            "product_name": "Instant biljni napitak s ekstraktima čaja",
+            "variant_size": "102 g",
+            "size_count": 1,
+            "flavor_count": 3,
+            "color_count": 0,
+            "swatch_flavor_urls": "original---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "original---pdp-locked",
+                "peach---pdp-locked",
+                "lemon---pdp-locked"
+            ],
+            "permanentid": "179K_HR",
+            "seo_canonical_url": "instant-biljni-napitak-s-ekstraktima-caja-izvorni-102g-179k",
+            "sku": "179K",
+            "product_id": "179K_HR",
+            "thumbnail_image": {
+                "altText": "Herbalife Instant biljni napitak s ekstraktima čaja\tIzvorni 102 g",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-179k-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Instant biljni napitak s ekstraktima čaja\tIzvorni 102 g Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-htc-original.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Dnevni dodatak prehrani posebno formuliran za muškarce.</p>\n",
+            "category_id": [
+                "opca-dobrobit",
+                "prema-potrebi",
+                "ciljana-podrska",
+                "dodaci-prehrani",
+                "all-products",
+                "potpora-imunitetu",
+                "prema-vrsti",
+                "blagostanje-muskarca",
+                "svakodnevna-prehrana"
+            ],
+            "product_name": "Formula 2 Kompleks vitamina i minerala za muškarce",
+            "variant_size": "60 tableta",
+            "size_count": 1,
+            "flavor_count": 0,
+            "color_count": 0,
+            "suppress_promotion": "false",
+            "permanentid": "1745_HR",
+            "seo_canonical_url": "formula-2-kompleks-vitamina-minerala-za-muskarce-60-tableta-1745",
+            "sku": "1745",
+            "product_id": "1745_HR",
+            "thumbnail_image": {
+                "altText": "Herbalife Formula 2 Kompleks vitamina i minerala za muškarce 60 tableta",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-1745-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Formula 2 Kompleks vitamina i minerala za muškarce 60 tableta Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/emeai/pp-f2-vmc-m-emea.jpg"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Sour cream i onion",
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Nije prženo.</p>\n",
+            "category_id": [
+                "grickalice-plocice",
+                "proteini",
+                "prema-potrebi",
+                "fitness",
+                "kontrola-tezine",
+                "all-products",
+                "prema-vrsti",
+                "proteinske-grickalice",
+                "svakodnevna-prehrana"
+            ],
+            "product_name": "Proteinski čips",
+            "variant_size": "10 kesica",
+            "size_count": 1,
+            "flavor_count": 2,
+            "color_count": 0,
+            "swatch_flavor_urls": "sour-cream-and-onion---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "sour-cream-and-onion---pdp-locked",
+                "barbecue---pdp-locked"
+            ],
+            "permanentid": "142K_HR",
+            "seo_canonical_url": "proteinski-cips-sour-cream-onion-10-vrecica-142k",
+            "sku": "142K",
+            "product_id": "142K_HR",
+            "thumbnail_image": {
+                "altText": "Herbalife Proteinski čips Sour cream i onion 10 vrećica",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-142k-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Proteinski čips Sour cream i onion 10 vrećica Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/emeai/pp-pc-sco-emea.jpg"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Maska od bentonit gline za poboljšanu teksturu kože.</p>\n",
+            "category_id": [
+                "koza-tijelo",
+                "prema-potrebi",
+                "njega-koze",
+                "all-products",
+                "prema-vrsti",
+                "njega-koze-tijela"
+            ],
+            "product_name": "Herbalife SKIN Maska za čišćenje kože s metvicom i blatom",
+            "variant_size": "120 ml",
+            "size_count": 1,
+            "flavor_count": 0,
+            "color_count": 0,
+            "suppress_promotion": "false",
+            "permanentid": "0773_HR",
+            "seo_canonical_url": "herbalife-skin-maska-za-ciscenje-koze-s-metvicom-i-blatom-120ml-0773",
+            "sku": "0773",
+            "product_id": "0773_HR",
+            "thumbnail_image": {
+                "altText": "Herbalife SKIN Maska za čišćenje kože s metvicom i blatom 120 ml",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-0773-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife SKIN Maska za čišćenje kože s metvicom i blatom 120 ml Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/emeai/pp-hs-pmcm-emea.jpg"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Vanilije",
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Ekskluzivno formuliran s kombinacijom živih bakterija i vlakana.</p>\n",
+            "category_id": [
+                "dobrobit-probave",
+                "prema-potrebi",
+                "ciljana-podrska",
+                "dodaci-prehrani",
+                "all-products",
+                "prema-vrsti"
+            ],
+            "product_name": "Microbiotic Max",
+            "variant_size": "20 vrećica",
+            "size_count": 1,
+            "flavor_count": 1,
+            "color_count": 0,
+            "swatch_flavor_urls": "vanilla---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "vanilla---pdp-locked"
+            ],
+            "permanentid": "173K_HR",
+            "seo_canonical_url": "microbiotic-max-vanilije-20-vrecica-173k",
+            "sku": "173K",
+            "product_id": "173K_HR",
+            "thumbnail_image": {
+                "altText": "Herbalife Microbiotic Max Vanilije 20 vrećica",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-173k-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Microbiotic Max Vanilije 20 vrećica Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-mm-vanilla.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Naranče",
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Mješavina za napitak kao dodatak prehrani za napitak bez kalorija formuliran s vitaminima i mineralima.</p>\n",
+            "category_id": [
+                "napitci",
+                "hidratacija",
+                "prema-potrebi",
+                "izvedba",
+                "sportska-hidratacija",
+                "all-products",
+                "prema-vrsti"
+            ],
+            "product_name": "Herbalife24® Hydrate",
+            "variant_size": "20 vrećica",
+            "size_count": 1,
+            "flavor_count": 1,
+            "color_count": 0,
+            "swatch_flavor_urls": "orange---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "orange---pdp-locked"
+            ],
+            "permanentid": "1433_HR",
+            "seo_canonical_url": "herbalife24-hydrate-narance-20-vrecica-1433",
+            "sku": "1433",
+            "product_id": "1433_HR",
+            "thumbnail_image": {
+                "altText": "Herbalife24® Hydrate\tNaranče\t20 vrećica",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-1433-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife24® Hydrate\tNaranče\t20 vrećica Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-h24h-orange.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "flavours": "Neutralan",
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Povećajte unos proteina ovom mješavinom proteina sirutke i soje.</p>\n",
+            "category_id": [
+                "proteini",
+                "shakeovi",
+                "prema-potrebi",
+                "fitness",
+                "kontrola-tezine",
+                "all-products",
+                "dodatni-proteini",
+                "dodatn-proteini",
+                "prema-vrsti",
+                "svakodnevna-prehrana"
+            ],
+            "product_name": "Formula 3 Personalized protein powder",
+            "variant_size": "204 g",
+            "size_count": 1,
+            "flavor_count": 1,
+            "color_count": 0,
+            "swatch_flavor_urls": "neutral---pdp-locked",
+            "suppress_promotion": "false",
+            "sister_flavor_urls": [
+                "neutral---pdp-locked"
+            ],
+            "permanentid": "0242_HR",
+            "seo_canonical_url": "formula-3-personalized-protein-powder-neutralan-204g-0242",
+            "sku": "0242",
+            "product_id": "0242_HR",
+            "thumbnail_image": {
+                "altText": "Herbalife Formula 3 Personalized protein powder Neutralan 240 g",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-0242-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalife Formula 3 Personalized protein powder Neutralan 240 g Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-hvps-classic.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        },
+        {
+            "sku_startdate": 1700896260000,
+            "sku_enddate": 32501952000000,
+            "currency": "EUR",
+            "product_description": "<p>Ekskluzivno formuliran s ribljim uljima iz održivih izvora, koja sadrže omega-3 masne kiseline.</p>\n",
+            "category_id": [
+                "dobrobit-srca",
+                "prema-potrebi",
+                "ciljana-podrska",
+                "dodaci-prehrani",
+                "potpora-za-vid",
+                "all-products",
+                "prema-vrsti",
+                "svakodnevna-prehrana"
+            ],
+            "product_name": "Herbalifeline® Max",
+            "variant_size": "30 kapsula",
+            "size_count": 1,
+            "flavor_count": 0,
+            "color_count": 0,
+            "suppress_promotion": "false",
+            "permanentid": "0043_HR",
+            "seo_canonical_url": "herbalifeline-max-30-kapsula-0043",
+            "sku": "0043",
+            "product_id": "0043_HR",
+            "thumbnail_image": {
+                "altText": "Herbalifeline® Max 30 kapsula",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/market-reusable-assets/emea/croatia/images/canister/pc-0043-hr.png"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "hover_image": {
+                "altText": "Herbalifeline® Max 30 kapsula Pripremljeni proizvod",
+                "desktopImage": {
+                    "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/emeai/pp-hlm-emea.jpg"
+                },
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            }
+        }
+    ],
+    "categories": [
+        {
+            "category_name": "Ciljana podrška",
+            "category_description": "<p>Pobrinite se da vaše tijelo svakoga dana dobije sve što treba. Bilo da želite podržati svoj imunološki sustav, normalnu probavu ili rad srca, naši proizvodi osmišljeni su za nadopunu vaše prehrane i zadovoljenje vaših specifičnih potreba.</p>",
+            "super_category_id": [
+                "all-products"
+            ],
+            "category_id": "ciljana-podrska",
+            "permanentid": "1710794840",
+            "category_image_url": {
+                "desktopImage": {},
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "category_banner_image_url": {
+                "desktopImage": {},
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "footerData": {
+                "image": {
+                    "desktopImage": {},
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                }
+            },
+            "seo_page_title": "Ciljana podrška",
+            "seo_meta_title": "Ciljana podrška | Herbalife Hrvatska",
+            "seo_meta_description": "Pobrinite se da vaše tijelo svakoga dana dobije sve što treba.  Bilo da želite podržati svoj imunološki sustav, normalnu probavu ili rad srca, naši proizvodi osmišljeni su za nadopunu vaše prehrane i zadovoljenje vaših specifičnih potreba.",
+            "seo_canonical_url": "ciljana-podrska"
+        },
+        {
+            "category_name": "Kontrola težine",
+            "category_description": "<p>Bez obzira na vaše prehrambene ciljeve, imamo shakeove, grickalice, napitke i dodatke prehrani koji će vam pomoći da uspijete, kao i programe koji su osmišljeni kako biste pri tome usvojili zdrave navike.</p>\n<p>Trebate podršku? <a href=\"https://www.herbalife.com/hr-hr/footer/kontaktirajte-nas\">Kontaktirajte nas.</a></p>\n",
+            "super_category_id": [
+                "all-products"
+            ],
+            "category_id": "kontrola-tezine",
+            "permanentid": "1710794831",
+            "category_image_url": {
+                "desktopImage": {},
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "category_banner_image_url": {
+                "desktopImage": {},
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "footerData": {
+                "image": {
+                    "desktopImage": {},
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                }
+            },
+            "seo_page_title": "Kontrola težine",
+            "seo_meta_title": "Kontrola težine | Herbalife Hrvatska",
+            "seo_meta_description": "Bez obzira na vaše prehrambene ciljeve, imamo shakeove, grickalice, napitke i dodatke prehrani koji će vam pomoći da uspijete, kao i programe koji su osmišljeni kako biste pri tome usvojili zdrave navike.",
+            "seo_canonical_url": "kontrola-tezine",
+            "seo_robots_index_rule": "false",
+            "seo_robots_follow_rule": "false",
+            "seo_robots_allow_rule": "false"
+        },
+        {
+            "category_name": "Shakeovi",
+            "category_description": "<p>Postignite i održavajte ciljeve tjelesne težine, omogućite stjecanje kondicije ili popunite nedostatke u prehrani raznim zamjenskim obrocima i proteinskim napitcima.</p>\n<p>Trebate podršku? <a href=\"https://www.herbalife.com/hr-hr/footer/kontaktirajte-nas\">Kontaktirajte nas.</a></p>\n",
+            "super_category_id": [
+                "all-products"
+            ],
+            "category_id": "shakeovi",
+            "permanentid": "1710794818",
+            "category_image_url": {
+                "desktopImage": {},
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "category_banner_image_url": {
+                "desktopImage": {},
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "footerData": {
+                "image": {
+                    "desktopImage": {},
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                }
+            },
+            "seo_page_title": "Shakeovi",
+            "seo_meta_title": "Shakeovi | Herbalife Hrvatska",
+            "seo_meta_description": "Postignite i održavajte ciljeve tjelesne težine, omogućite stjecanje kondicije ili popunite nedostatke u prehrani raznim zamjenskim obrocima i proteinskim napitcima.",
+            "seo_canonical_url": "shakeovi",
+            "seo_robots_index_rule": "false",
+            "seo_robots_follow_rule": "false",
+            "seo_robots_allow_rule": "false"
+        },
+        {
+            "category_name": "Njega kože i tijela",
+            "category_description": "<p>Upoznajte hidratantna svojstva i hranjivost našeg asortimana krema, seruma, proizvoda za čišćenje kože i maski s pažljivo osmišljenim sastojcima poput aloe vere, antioksidansa i mješavine biljnih sastojaka.</p>",
+            "super_category_id": [
+                "all-products"
+            ],
+            "category_id": "njega-koze-tijela",
+            "permanentid": "1710794846",
+            "category_image_url": {
+                "desktopImage": {},
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "category_banner_image_url": {
+                "desktopImage": {},
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "footerData": {
+                "image": {
+                    "desktopImage": {},
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                }
+            },
+            "seo_page_title": "Njega kože i tijela",
+            "seo_meta_title": "Njega kože i tijela | Herbalife Hrvatska",
+            "seo_meta_description": "Upoznajte hidratantna svojstva i hranjivost našeg asortimana krema, seruma, proizvoda za čišćenje kože i maski s pažljivo osmišljenim sastojcima poput aloe vere, antioksidansa i mješavine biljnih sastojaka.",
+            "seo_canonical_url": "njega-koze-tijela"
+        },
+        {
+            "category_name": "Svakodnevna prehrana",
+            "category_description": "<p>Pobrinite se da vaše tijelo svakoga dana dobije sve što treba.  Bez obzira trebate li vitamine, proteine, hidrataciju ili energetsku potporu, naša široka paleta proizvoda osmišljena je za nadopunu vaše prehrane i zadovoljenje vaših specifičnih potreba.</p>",
+            "super_category_id": [
+                "all-products"
+            ],
+            "category_id": "svakodnevna-prehrana",
+            "permanentid": "1710794838",
+            "category_image_url": {
+                "desktopImage": {},
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "category_banner_image_url": {
+                "desktopImage": {},
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "footerData": {
+                "image": {
+                    "desktopImage": {},
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                }
+            },
+            "seo_page_title": "Svakodnevna prehrana",
+            "seo_meta_title": "Svakodnevna prehrana | Herbalife Hrvatska",
+            "seo_meta_description": "Pobrinite se da vaše tijelo svakoga dana dobije sve što treba.  Bez obzira trebate li vitamine, proteine, hidrataciju ili energetsku potporu, naša široka paleta proizvoda osmišljena je za nadopunu vaše prehrane i zadovoljenje vaših specifičnih potreba.",
+            "seo_canonical_url": "svakodnevna-prehrana"
+        },
+        {
+            "category_name": "Fitness",
+            "category_description": "<p>Bilo da vježbate u teretani ili se upuštate u avanturu na otvorenom, naši proizvodi za fitness prilagođeni su vašim potrebama. Aktivni ljudi i entuzijastični rekreativci diljem svijeta s povjerenjem koriste naše proizvode za unos proteina, energiju i hidrataciju.</p>",
+            "super_category_id": [
+                "all-products"
+            ],
+            "category_id": "fitness",
+            "permanentid": "1710794835",
+            "category_image_url": {
+                "desktopImage": {},
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "category_banner_image_url": {
+                "desktopImage": {},
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "footerData": {
+                "image": {
+                    "desktopImage": {},
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                }
+            },
+            "seo_page_title": "Fitness",
+            "seo_meta_title": "Fitness | Herbalife Hrvatska",
+            "seo_meta_description": "Bilo da vježbate u teretani ili se upuštate u avanturu na otvorenom, naši proizvodi za fitness prilagođeni su vašim potrebama. Aktivni ljudi i entuzijastični rekreativci diljem svijeta s povjerenjem koriste naše proizvode za unos proteina, energiju i hidrataciju.",
+            "seo_canonical_url": "fitness"
+        },
+        {
+            "category_name": "Izvedba",
+            "category_description": "<p>Bilo da ste aktivna osoba ili trenirate za elitni sportski događaj, naši proizvodi za izvedbu prilagođeni su vašim potrebama. Posjetitelji teretana i sportaši diljem svijeta s povjerenjem korite naše proizvode za unos proteina, energiju, hidrataciju i oporavak. Naša robna marka Herbalife24® ima potvrdu organizacije Informed Sport*, čime dodatno osiguravamo kvalitetu i prikladnost naših proizvoda za sportaše.</p>\n<p>*Ispitano na zabranjene tvari. Program osiguranja kvalitete Informed-Sport potvrđuje da je uzorak serije iz koje je proizveden ovaj proizvod ispitan u vrhunskom LGC laboratoriju za kontrolu dopinga u sportu, te je pregledom  utvrđeno da ne sadrži zabranjene tvari.</p>",
+            "super_category_id": [
+                "all-products"
+            ],
+            "category_id": "izvedba",
+            "permanentid": "1710794833",
+            "category_image_url": {
+                "desktopImage": {},
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "category_banner_image_url": {
+                "desktopImage": {},
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "footerData": {
+                "image": {
+                    "desktopImage": {},
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                }
+            },
+            "seo_page_title": "Izvedba",
+            "seo_meta_title": "Izvedba | Herbalife Hrvatska",
+            "seo_meta_description": "Posjetitelji teretana i sportaši diljem svijeta s povjerenjem korite naše proizvode za unos proteina, energiju, hidrataciju i oporavak. Naša robna marka Herbalife24® ima potvrdu organizacije Informed Sport.",
+            "seo_canonical_url": "izvedba"
+        },
+        {
+            "category_name": "Koža i tijelo",
+            "category_description": "<p>Izgledajte i osjećate se najbolje što možete uz bogatu ponudu proizvoda za čišćenje kože, losiona za tijelo, hidratantnih krema, seruma, tonika i maski.</p>",
+            "super_category_id": [
+                "all-products"
+            ],
+            "category_id": "koza-tijelo",
+            "permanentid": "1710794828",
+            "category_image_url": {
+                "desktopImage": {},
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "category_banner_image_url": {
+                "desktopImage": {},
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "footerData": {
+                "image": {
+                    "desktopImage": {},
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                }
+            },
+            "seo_page_title": "Koža i tijelo",
+            "seo_meta_title": "Koža i tijelo | Herbalife Hrvatska",
+            "seo_meta_description": "Izgledajte i osjećate se najbolje što možete uz bogatu ponudu proizvoda za čišćenje kože, losiona za tijelo, hidratantnih krema, seruma, tonika i maski.",
+            "seo_canonical_url": "koza-tijelo"
+        },
+        {
+            "category_name": "Dodaci prehrani",
+            "category_description": "<p>Stručnjaci su ih razvili baš za vas, kako biste birali iz bogate ponude dodataka prehrani s vitaminima i mineralima, osmišljenih da vam pomognu ostvariti ciljeve u prehrani.</p>",
+            "super_category_id": [
+                "all-products"
+            ],
+            "category_id": "dodaci-prehrani",
+            "permanentid": "1710794826",
+            "category_image_url": {
+                "desktopImage": {},
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "category_banner_image_url": {
+                "desktopImage": {},
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "footerData": {
+                "image": {
+                    "desktopImage": {},
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                }
+            },
+            "seo_page_title": "Dodaci prehrani",
+            "seo_meta_title": "Dodaci prehrani | Herbalife Hrvatska",
+            "seo_meta_description": "Stručnjaci su ih razvili baš za vas, kako biste birali iz bogate ponude dodataka prehrani s vitaminima i mineralima, osmišljenih da vam pomognu ostvariti ciljeve u prehrani. ",
+            "seo_canonical_url": "dodaci-prehrani"
+        },
+        {
+            "category_name": "Napitci",
+            "category_description": "<p>Birajte iz izbora pića, napitaka i infuzija, stručno formuliranih s alojom, kofeinom, čajem i biljnim ekstraktima, kao i s ključnim hranjivim tvarima poput proteina, vlakana, vitamina i minerala.</p>",
+            "super_category_id": [
+                "all-products"
+            ],
+            "category_id": "napitci",
+            "permanentid": "1710794823",
+            "category_image_url": {
+                "desktopImage": {},
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "category_banner_image_url": {
+                "desktopImage": {},
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "footerData": {
+                "image": {
+                    "desktopImage": {},
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                }
+            },
+            "seo_page_title": "Napitci",
+            "seo_meta_title": "Napitci | Herbalife Hrvatska",
+            "seo_meta_description": "Birajte iz izbora pića, napitaka i infuzija, stručno formuliranih s alojom, kofeinom, čajem i biljnim ekstraktima, kao i s ključnim hranjivim tvarima poput proteina, vlakana, vitamina i minerala.",
+            "seo_canonical_url": "napitci"
+        },
+        {
+            "category_name": "Grickalice i pločice",
+            "category_description": "<p>Nahranite svoje tijelo proteinskim pločicama, čipsom i slanim zamjenskim obrocima za kontrolu težine.</p>",
+            "super_category_id": [
+                "all-products"
+            ],
+            "category_id": "grickalice-plocice",
+            "permanentid": "1710794821",
+            "category_image_url": {
+                "desktopImage": {},
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "category_banner_image_url": {
+                "desktopImage": {},
+                "tabletImage": {},
+                "mobileImage": {},
+                "thumbnail_image": {}
+            },
+            "footerData": {
+                "image": {
+                    "desktopImage": {},
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                }
+            },
+            "seo_page_title": "Grickalice i pločice",
+            "seo_meta_title": "Grickalice i pločice | Herbalife Hrvatska",
+            "seo_meta_description": "Nahranite svoje tijelo proteinskim pločicama, čipsom i slanim zamjenskim obrocima za kontrolu težine.",
+            "seo_canonical_url": "grickalice-plocice"
+        }
+    ],
+    "filter_options": [
+        {
+            "field": "flavours",
+            "values": [
+                {
+                    "value": "Acai bobica",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "Banana Cream",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "Barbecue",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "Bobičastog voća",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "Breskve",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "Brusnice i bijele čokolade",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "Café Latte",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "Čokolade",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "Cookie Crunch",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "Grejpa",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "Izvorni",
+                    "state": "idle",
+                    "numberOfResults": 2
+                },
+                {
+                    "value": "Jabuke",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "Jagode",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "Jagode i limuna",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "Kamilice i breskve",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "Limuna",
+                    "state": "idle",
+                    "numberOfResults": 2
+                },
+                {
+                    "value": "Manga",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "Mint i chocolate",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "Naranče",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "Neutralan",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "Pineapple Coconut",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "Raspberry i white chocolate",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "Smooth Chocolate",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "Sour cream i onion",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "Strawberry Delight",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "Tamne čokolade",
+                    "state": "idle",
+                    "numberOfResults": 2
+                },
+                {
+                    "value": "Unflavoured",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "Vanilije",
+                    "state": "idle",
+                    "numberOfResults": 5
+                },
+                {
+                    "value": "Vanilije i badema",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "Vanilla crème",
+                    "state": "idle",
+                    "numberOfResults": 3
+                }
+            ]
+        },
+        {
+            "field": "variant_size",
+            "values": [
+                {
+                    "value": "10 kesica",
+                    "state": "idle",
+                    "numberOfResults": 2
+                },
+                {
+                    "value": "10 vrećica",
+                    "state": "idle",
+                    "numberOfResults": 2
+                },
+                {
+                    "value": "1000 g",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "102 g",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "120 ml",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "125 g",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "14 pločica",
+                    "state": "idle",
+                    "numberOfResults": 2
+                },
+                {
+                    "value": "147 ml",
+                    "state": "idle",
+                    "numberOfResults": 2
+                },
+                {
+                    "value": "15 ml",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "171 g",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "180 g",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "20 vrećica",
+                    "state": "idle",
+                    "numberOfResults": 2
+                },
+                {
+                    "value": "200 ml",
+                    "state": "idle",
+                    "numberOfResults": 2
+                },
+                {
+                    "value": "204 g",
+                    "state": "idle",
+                    "numberOfResults": 2
+                },
+                {
+                    "value": "21 vrećica",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "228 g",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "229 g",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "250 ml",
+                    "state": "idle",
+                    "numberOfResults": 3
+                },
+                {
+                    "value": "30 kapsula",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "30 ml",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "473 ml",
+                    "state": "idle",
+                    "numberOfResults": 2
+                },
+                {
+                    "value": "50 ml",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "500 g",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "51 g",
+                    "state": "idle",
+                    "numberOfResults": 2
+                },
+                {
+                    "value": "540 g",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "550 g",
+                    "state": "idle",
+                    "numberOfResults": 8
+                },
+                {
+                    "value": "560 g",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "588 g",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "6 pločica",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "60 kapsula",
+                    "state": "idle",
+                    "numberOfResults": 1
+                },
+                {
+                    "value": "60 tableta",
+                    "state": "idle",
+                    "numberOfResults": 2
+                },
+                {
+                    "value": "7 pločica",
+                    "state": "idle",
+                    "numberOfResults": 2
+                },
+                {
+                    "value": "7 vrećica",
+                    "state": "idle",
+                    "numberOfResults": 2
+                },
+                {
+                    "value": "780 g",
+                    "state": "idle",
+                    "numberOfResults": 1
+                }
+            ]
+        },
+        {
+            "field": "color",
+            "values": []
+        }
+    ],
+    "sort_options": [
+        {
+            "value": "featured",
+            "isSelected": false
+        },
+        {
+            "value": "bestseller",
+            "isSelected": false
+        }
+    ],
+    "delivery_options": [
+        {
+            "id": "osobno-preuzimanje",
+            "name": "Osobno preuzimanje",
+            "description": "Naručene proizvode možete bez dodatnih troškova preuzeti osobno.",
+            "price": {
+                "eurCents": 0
+            },
+            "payable": false
+        },
+        {
+            "id": "tisak-dostava",
+            "name": "Dostava TISAK",
+            "description": "TISAK paket je korisna usluga koja omogućava brzu i sigurnu dostavu paketa s kioska na kiosk.",
+            "price": {
+                "eurCents": 800
+            },
+            "delivered": true
+        },
+        {
+            "id": "express-dostava",
+            "name": "Ekspres dostava",
+            "description": "Ponekad je brza dostava od ključne važnosti. Naša Express usluga dostave savršeno je rješenje za Vas.",
+            "price": {
+                "eurCents": 2000
+            },
+            "delivered": true
+        }
+    ],
+    "payment_options": [
+        {
+            "id": "payment-on-delivery",
+            "name": "Plaćanje pouzećem",
+            "description": "Ponekad je brza dostava od ključne važnosti. Naša Express usluga dostave savršeno je rješenje za vas.",
+            "price": {
+                "eurCents": 300
+            }
+        },
+        {
+            "id": "card-payment",
+            "name": "Plaćanje karticom",
+            "description": "Ponekad je brza dostava od ključne važnosti. Naša Express usluga dostave savršeno je rješenje za vas.",
+            "price": {
+                "eurCents": 0
+            },
+            "delivered": true
+        }
+    ]
+}
