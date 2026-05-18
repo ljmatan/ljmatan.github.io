@@ -1,3 +1,7 @@
+---
+layout: doc
+---
+
 # Evästekäytäntö — Sono AAC Communicator
 
 **Viimeksi päivitetty: 23. helmikuuta 2026**

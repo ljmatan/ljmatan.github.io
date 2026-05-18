@@ -1,3 +1,7 @@
+---
+layout: doc
+---
+
 # Vilkår og betingelser — Sono AAC Communicator
 
 **Senest opdateret: 23. februar 2026**

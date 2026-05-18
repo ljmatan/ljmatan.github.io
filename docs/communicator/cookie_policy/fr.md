@@ -1,3 +1,7 @@
+---
+layout: doc
+---
+
 # Politique relative aux cookies — Sono AAC Communicator
 
 **Dernière mise à jour : 23 février 2026**

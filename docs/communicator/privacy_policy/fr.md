@@ -1,3 +1,7 @@
+---
+layout: doc
+---
+
 # Politique de confidentialité — Sono AAC Communicator
 
 **Dernière mise à jour : 23 février 2026**

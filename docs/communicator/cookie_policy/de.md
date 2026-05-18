@@ -1,3 +1,7 @@
+---
+layout: doc
+---
+
 # Cookie-Richtlinie — Sono AAC Communicator
 
 **Zuletzt aktualisiert: 23. Februar 2026**

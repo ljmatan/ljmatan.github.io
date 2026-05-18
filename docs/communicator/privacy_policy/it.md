@@ -1,3 +1,7 @@
+---
+layout: doc
+---
+
 # Informativa sulla Privacy — Sono AAC Communicator
 
 **Ultimo aggiornamento: 23 febbraio 2026**

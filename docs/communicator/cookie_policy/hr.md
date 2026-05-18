@@ -1,3 +1,7 @@
+---
+layout: doc
+---
+
 # Politika kolačića — Sono AAC Communicator
 
 **Zadnje ažuriranje: 23. veljače 2026**

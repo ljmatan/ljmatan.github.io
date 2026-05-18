@@ -1,3 +1,7 @@
+---
+layout: doc
+---
+
 # Informativa sui Cookie — Sono AAC Communicator
 
 **Ultimo aggiornamento: 23 febbraio 2026**

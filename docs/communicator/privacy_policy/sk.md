@@ -1,3 +1,7 @@
+---
+layout: doc
+---
+
 # Zásady ochrany osobných údajov — Sono AAC Communicator
 
 **Posledná aktualizácia: 23. februára 2026**

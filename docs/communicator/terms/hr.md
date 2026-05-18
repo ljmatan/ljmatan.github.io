@@ -1,3 +1,7 @@
+---
+layout: doc
+---
+
 # Uvjeti korištenja — Sono AAC Communicator
 
 **Zadnje ažuriranje: 23. veljače 2026**

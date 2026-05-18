@@ -1,3 +1,7 @@
+---
+layout: doc
+---
+
 # Obchodní podmínky — Sono AAC Communicator
 
 **Poslední aktualizace: 23. února 2026**

@@ -1,3 +1,7 @@
+---
+layout: doc
+---
+
 # Regulamin — Sono AAC Communicator
 
 **Ostatnia aktualizacja: 23 lutego 2026**

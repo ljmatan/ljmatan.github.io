@@ -1,3 +1,7 @@
+---
+layout: doc
+---
+
 # Termini e Condizioni — Sono AAC Communicator
 
 **Ultimo aggiornamento: 23 febbraio 2026**

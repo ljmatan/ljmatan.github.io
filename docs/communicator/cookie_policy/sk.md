@@ -1,3 +1,7 @@
+---
+layout: doc
+---
+
 # Zásady používania cookies — Sono AAC Communicator
 
 **Posledná aktualizácia: 23. februára 2026**
