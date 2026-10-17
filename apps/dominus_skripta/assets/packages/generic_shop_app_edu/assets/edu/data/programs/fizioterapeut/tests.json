@@ -1,0 +1,136 @@
+{
+  "tests": [
+    {
+      "id": "probni-anatomija-i-fiziologija",
+      "title": "Probni ispit: Anatomija i fiziologija",
+      "description": "20 pitanja iz anatomije i fiziologije, 20 minuta, prag prolaza 60 %.",
+      "subject_ids": ["anatomija-i-fiziologija"],
+      "question_count": 20,
+      "time_limit_minutes": 20,
+      "pass_percent": 60,
+      "difficulty": null,
+      "shuffle_options": true
+    },
+    {
+      "id": "probni-osnove-kineziologije",
+      "title": "Probni ispit: Osnove kineziologije",
+      "description": "20 pitanja iz osnova kineziologije, 20 minuta, prag prolaza 60 %.",
+      "subject_ids": ["osnove-kineziologije"],
+      "question_count": 20,
+      "time_limit_minutes": 20,
+      "pass_percent": 60,
+      "difficulty": null,
+      "shuffle_options": true
+    },
+    {
+      "id": "probni-fizikalna-terapija",
+      "title": "Probni ispit: Fizikalna terapija",
+      "description": "20 pitanja iz fizikalne terapije, 20 minuta, prag prolaza 60 %.",
+      "subject_ids": ["fizikalna-terapija"],
+      "question_count": 20,
+      "time_limit_minutes": 20,
+      "pass_percent": 60,
+      "difficulty": null,
+      "shuffle_options": true
+    },
+    {
+      "id": "probni-kineziterapija",
+      "title": "Probni ispit: Kineziterapija",
+      "description": "20 pitanja iz kineziterapije, 20 minuta, prag prolaza 60 %.",
+      "subject_ids": ["kineziterapija"],
+      "question_count": 20,
+      "time_limit_minutes": 20,
+      "pass_percent": 60,
+      "difficulty": null,
+      "shuffle_options": true
+    },
+    {
+      "id": "probni-masaza",
+      "title": "Probni ispit: Masaža",
+      "description": "20 pitanja iz masaže, 20 minuta, prag prolaza 60 %.",
+      "subject_ids": ["masaza"],
+      "question_count": 20,
+      "time_limit_minutes": 20,
+      "pass_percent": 60,
+      "difficulty": null,
+      "shuffle_options": true
+    },
+    {
+      "id": "probni-patofiziologija",
+      "title": "Probni ispit: Patofiziologija",
+      "description": "20 pitanja iz patofiziologije, 20 minuta, prag prolaza 60 %.",
+      "subject_ids": ["patofiziologija"],
+      "question_count": 20,
+      "time_limit_minutes": 20,
+      "pass_percent": 60,
+      "difficulty": null,
+      "shuffle_options": true
+    },
+    {
+      "id": "probni-klinicka-medicina",
+      "title": "Probni ispit: Klinička medicina",
+      "description": "20 pitanja iz kliničke medicine, 20 minuta, prag prolaza 60 %.",
+      "subject_ids": ["klinicka-medicina"],
+      "question_count": 20,
+      "time_limit_minutes": 20,
+      "pass_percent": 60,
+      "difficulty": null,
+      "shuffle_options": true
+    },
+    {
+      "id": "probni-prva-pomoc",
+      "title": "Probni ispit: Prva pomoć",
+      "description": "20 pitanja iz prve pomoći, 20 minuta, prag prolaza 60 %.",
+      "subject_ids": ["prva-pomoc"],
+      "question_count": 20,
+      "time_limit_minutes": 20,
+      "pass_percent": 60,
+      "difficulty": null,
+      "shuffle_options": true
+    },
+    {
+      "id": "probni-mikrobiologija",
+      "title": "Probni ispit: Mikrobiologija",
+      "description": "20 pitanja iz mikrobiologije, 20 minuta, prag prolaza 60 %.",
+      "subject_ids": ["mikrobiologija"],
+      "question_count": 20,
+      "time_limit_minutes": 20,
+      "pass_percent": 60,
+      "difficulty": null,
+      "shuffle_options": true
+    },
+    {
+      "id": "brzi-test",
+      "title": "Brzi test",
+      "description": "10 nasumičnih pitanja iz svih predmeta, 8 minuta, prag prolaza 60 %. Za brzu provjeru znanja.",
+      "subject_ids": [],
+      "question_count": 10,
+      "time_limit_minutes": 8,
+      "pass_percent": 60,
+      "difficulty": null,
+      "shuffle_options": true
+    },
+    {
+      "id": "teza-pitanja",
+      "title": "Teža pitanja",
+      "description": "15 pitanja najveće težine iz svih predmeta, 20 minuta, prag prolaza 60 %.",
+      "subject_ids": [],
+      "question_count": 15,
+      "time_limit_minutes": 20,
+      "pass_percent": 60,
+      "difficulty": 3,
+      "shuffle_options": true
+    },
+    {
+      "id": "zavrsni-ispit",
+      "title": "Završni ispit",
+      "description": "40 pitanja iz svih predmeta, 45 minuta, prag prolaza 70 %. Simulacija završnog ispita.",
+      "subject_ids": [],
+      "question_count": 40,
+      "time_limit_minutes": 45,
+      "pass_percent": 70,
+      "difficulty": null,
+      "shuffle_options": true
+    }
+  ]
+}

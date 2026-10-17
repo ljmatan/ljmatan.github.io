@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+  <base href="/apps/dominus_skripta/">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="Dominus Skripta — učenje, testovi i grupni kviz Škole Dominus.">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="Dominus">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="theme-color" content="#FAF7F5" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#161114" media="(prefers-color-scheme: dark)">
+
+  <title>Dominus Skripta</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" type="image/png" href="icons/favicon.png">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <style>
+    /* Framework-free splash painted from the very first byte until Flutter renders its first
+       frame. It matches the in-app splash (docs/design.md §6.1): the paper page colour of the
+       OS theme, the brand mark with an ink wordmark and a thin indeterminate bar, nothing for
+       the first 300 ms, so the hand-off to Flutter never flashes a different colour. */
+    :root {
+      --page: #FAF7F5;
+      --ink: #1E1A1D;
+      --primary: #4D2447;
+      --track: #F1E3EE;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --page: #161114;
+        --ink: #F2EAEF;
+        --primary: #E3B4D6;
+        --track: #5A2A52;
+      }
+    }
+
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      background-color: var(--page);
+    }
+
+    #splash {
+      position: fixed;
+      inset: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 24px;
+      background: var(--page);
+      transition: opacity 320ms ease;
+      z-index: 2147483647;
+    }
+
+    /* Faded out once Flutter is ready, then removed from the DOM. */
+    #splash.splash--hidden {
+      opacity: 0;
+      pointer-events: none;
+    }
+
+    #splash .brand {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      opacity: 0;
+      animation: splash-in 300ms ease 300ms forwards;
+    }
+
+    #splash .mark {
+      width: 56px;
+      height: 56px;
+      border-radius: 50%;
+      background: #ffffff;
+    }
+
+    #splash .name {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    #splash .eyebrow {
+      color: var(--primary);
+      font-family: "Rubik", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-size: 12px;
+      font-weight: 600;
+      letter-spacing: 0.14em;
+    }
+
+    #splash .wordmark {
+      color: var(--ink);
+      font-family: "Literata", Georgia, "Times New Roman", serif;
+      font-size: 28px;
+      font-weight: 600;
+      line-height: 1;
+    }
+
+    #splash .bar {
+      position: relative;
+      width: 120px;
+      height: 2px;
+      overflow: hidden;
+      border-radius: 1px;
+      background: var(--track);
+      opacity: 0;
+      animation: splash-in 300ms ease 300ms forwards;
+    }
+
+    #splash .bar::after {
+      content: "";
+      position: absolute;
+      inset: 0 auto 0 0;
+      width: 40%;
+      background: var(--primary);
+      animation: splash-slide 1.2s ease-in-out infinite;
+    }
+
+    @keyframes splash-in {
+      to { opacity: 1; }
+    }
+
+    @keyframes splash-slide {
+      from { transform: translateX(-100%); }
+      to   { transform: translateX(250%); }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      #splash .brand, #splash .bar { animation: none; opacity: 1; }
+      #splash .bar::after { animation: none; width: 100%; opacity: 0.5; }
+    }
+  </style>
+</head>
+<body>
+  <div id="splash" role="status" aria-label="Učitavanje…">
+    <div class="brand">
+      <!-- Škola Dominus: the school's round badge and the product name. -->
+      <img class="mark" src="icons/dominus-logo.png" alt="Škola Dominus">
+      <div class="name">
+        <div class="wordmark">Dominus</div>
+        <div class="eyebrow">SKRIPTA</div>
+      </div>
+    </div>
+    <div class="bar"></div>
+  </div>
+
+  <script>
+    // Remove the splash the moment Flutter paints its first frame, fading it out over the
+    // in-app splash (same page colour) for a smooth hand-off. The timeout is a safety net so the
+    // splash is never left stuck if the event is somehow missed.
+    (function () {
+      var splash = document.getElementById('splash');
+      var removed = false;
+      function hideSplash() {
+        if (removed || !splash) return;
+        removed = true;
+        splash.classList.add('splash--hidden');
+        splash.addEventListener('transitionend', function () {
+          if (splash && splash.parentNode) splash.parentNode.removeChild(splash);
+        });
+      }
+      window.addEventListener('flutter-first-frame', hideSplash);
+      window.setTimeout(hideSplash, 12000);
+    })();
+  </script>
+
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>

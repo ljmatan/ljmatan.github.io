@@ -1,0 +1,1389 @@
+{
+  "id": "klinicka-medicina",
+  "program_id": "fizioterapeut",
+  "title": "Klinička medicina",
+  "short_title": "Klinička medicina",
+  "description": "Najčešća klinička stanja s kojima se fizioterapeut susreće: moždani udar, Parkinsonova bolest, multipla skleroza, ozljede kralježnične moždine, reumatoidni artritis i osteoartritis, križobolja i hernija diska, prijelomi i endoproteze, KOPB te rehabilitacija nakon infarkta miokarda.",
+  "color": "#0D9488",
+  "icon": "medical_services",
+  "year": 3,
+  "lessons": [
+    {
+      "id": "mozdani-udar",
+      "title": "Moždani udar i hemipareza",
+      "summary": "Vrste i simptomi moždanog udara, klinička slika hemipareze te faze, načela i mjere opreza fizioterapijske rehabilitacije.",
+      "estimated_minutes": 11,
+      "sections": [
+        {
+          "heading": "Moždani udar: uzroci, vrste i simptomi",
+          "body": "Moždani udar (cerebrovaskularni inzult, apopleksija) nagli je poremećaj krvne opskrbe mozga koji dovodi do oštećenja moždanog tkiva. Prema uzroku razlikujemo ishemijski moždani udar, u kojem tromb ili embolus začepi moždanu arteriju, i hemoragijski moždani udar, u kojem krvna žila prsne pa nastaje krvarenje u moždano tkivo ili pod moždane ovojnice. Većina moždanih udara ishemijskog je podrijetla. Prolazni ishemijski napad (tranzitorna ishemijska ataka, TIA) jest kratkotrajna ishemija kod koje se simptomi u potpunosti povuku unutar 24 sata; on je ozbiljan znak upozorenja i zahtijeva hitnu obradu.\n\nSimptomi nastaju naglo i ovise o zahvaćenom području mozga. Najčešći su slabost ili utrnulost lica, ruke i noge jedne strane tijela, spušten kut usana, poremećaj govora, ispad vidnog polja (hemianopsija), vrtoglavica s gubitkom ravnoteže i, osobito kod krvarenja, iznenadna jaka glavobolja. Govorni poremećaj može biti afazija (poremećaj razumijevanja ili stvaranja jezika) ili dizartrija (poremećaj izgovora zbog slabosti govornih mišića). Moždani udar je hitno stanje: kod ishemijskog udara tromboliza se može primijeniti samo unutar prvih 4,5 sata od početka simptoma, pa vrijedi pravilo da je vrijeme mozak.\n\nKlinička slika ovisi i o tome koja je hemisfera oštećena. Oštećenje lijeve hemisfere, koja je kod većine ljudi dominantna za jezik, daje desnostranu hemiparezu i često afaziju. Oštećenje desne hemisfere daje lijevostranu hemiparezu i često sindrom zanemarivanja (neglekt), pri kojem bolesnik ne obraća pozornost na lijevu stranu tijela i prostora, podcjenjuje svoje teškoće i sklon je impulzivnom ponašanju, što povećava rizik od pada. Česti su i poremećaj gutanja (disfagija) s opasnošću od aspiracije, inkontinencija, depresija i emocionalna labilnost.",
+          "bullets": [
+            "Najvažniji čimbenik rizika: povišeni krvni tlak (arterijska hipertenzija)",
+            "Fibrilacija atrija: izvor embolusa koji začepi moždanu arteriju",
+            "Šećerna bolest, povišene masnoće u krvi, pretilost i tjelesna neaktivnost",
+            "Pušenje i prekomjerno pijenje alkohola",
+            "Dob, prethodni moždani udar ili TIA"
+          ],
+          "image": {
+            "file": "klinicka-medicina/mozdani-udar-presjek.jpg",
+            "caption": "Presjek mozga nakon starog moždanog udara u stražnjem dijelu lijevog tjemenog režnja: strelice pokazuju mjesto na kojem je moždano tkivo odumrlo.",
+            "credits": [
+              {
+                "title": "Gross pathology of an old cerebral stroke, annotated",
+                "author": "Mikael Häggström, M.D. Author info - Reusing images- Conflicts of interest:  None\nMikael Häggström, M.D.Consent note: Consent from the patient or patient's relatives is regarded as redundant, because of absence of identifiable features (List of HIPAA identifiers) in the media and case information (See also HIPAA case reports guidance).",
+                "source": "https://commons.wikimedia.org/wiki/File:Gross_pathology_of_an_old_cerebral_stroke,_annotated.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Hemipareza: klinička slika",
+          "body": "Hemipareza je djelomična slabost jedne polovice tijela, a hemiplegija potpuna oduzetost. Zahvaćena je strana tijela suprotna (kontralateralna) oštećenoj hemisferi, jer se piramidni putovi križaju u produženoj moždini. Neposredno nakon udara mišići su mlohavi: tonus je snižen (hipotonija), refleksi su ugašeni, a voljni pokret izostaje. Nakon nekoliko dana do tjedana tonus se počinje povećavati i razvija se spastičnost s pojačanim tetivnim refleksima, klonusom i pozitivnim Babinskijevim znakom, što su znakovi oštećenja gornjeg motoričkog neurona.\n\nSpastičnost se razvija u tipičnom obrascu. Na ruci prevladava fleksijska sinergija: rame je privučeno (adukcija) i okrenuto prema unutra, lakat je savijen (fleksija), podlaktica pronirana, a ručni zglob i prsti savijeni. Na nozi prevladava ekstenzijska sinergija: kuk je ispružen i privučen, koljeno ispruženo, a stopalo u plantarnoj fleksiji i inverziji (ekvinovarus). Taj se obrazac naziva Wernicke-Mannovim položajem. Pri hodu bolesnik ne može saviti koljeno pa paretičnu nogu zabacuje u luku prema van (cirkumdukcija), a stopalo zapinje o podlogu. Pri naporu, kašljanju ili zijevanju tonus se dodatno pojačava (asocirane reakcije).\n\nUz motoričke ispade često postoje ispadi osjeta na zahvaćenoj strani; gubitak dubokog osjeta (propriocepcije) otežava održavanje ravnoteže i pogoršava prognozu. Rame hemiplegičara posebno je ugroženo: u mlohavoj fazi težina ruke vuče glavu nadlaktične kosti iz zglobne čašice pa nastaje subluksacija, a kasnije se može razviti bolno rame i sindrom rame-šaka (kompleksni regionalni bolni sindrom). Dugotrajno ležanje nosi opasnost od kontraktura, dekubitusa, duboke venske tromboze i upale pluća, pa prevencija tih komplikacija počinje od prvoga dana.",
+          "bullets": [
+            "Ruka: adukcija i unutarnja rotacija ramena, fleksija lakta, pronacija, fleksija šake i prstiju",
+            "Noga: ekstenzija i adukcija kuka, ekstenzija koljena, plantarna fleksija i inverzija stopala",
+            "Hod s cirkumdukcijom paretične noge (hemiparetični hod)",
+            "Asocirane reakcije: porast tonusa pri naporu, kašljanju ili zijevanju"
+          ]
+        },
+        {
+          "heading": "Faze rehabilitacije",
+          "body": "Rehabilitacija počinje već u akutnoj fazi, u jedinici za liječenje moždanog udara, čim je stanje bolesnika stabilno. Prema vremenu razlikujemo akutnu fazu (prvi dani do oko dva tjedna), subakutnu fazu rane rehabilitacije (prvi tjedni do šest mjeseci) i kroničnu fazu (nakon šest mjeseci). Najveći dio neurološkog oporavka događa se u prva tri mjeseca, a oporavak se može nastaviti do šest mjeseci i dulje. Temelj je oporavka neuroplastičnost: sposobnost mozga da preuzimanjem funkcije u očuvanim područjima nadoknadi oštećenje, a potiču je rano, intenzivno i ponavljano vježbanje usmjereno na konkretne zadatke.\n\nPrema stanju mišićnog tonusa i motorike opisuju se tri faze oporavka. U mlohavoj (flakcidnoj) fazi nema voljnog pokreta, tonus je snižen, a glavni su ciljevi antispastično pozicioniranje, pasivno razgibavanje, sprječavanje komplikacija i rano sjedenje. U spastičnoj fazi tonus raste i pokreti se izvode u sinergijama; ciljevi su inhibicija spastičnosti, poticanje (facilitacija) selektivnih pokreta, opterećivanje paretične strane, ustajanje i vježbanje hoda. U fazi relativnog oporavka vraćaju se selektivni pokreti pa se vježbaju fina motorika, izdržljivost, aktivnosti svakodnevnog života te povratak poslu i hobijima. Ne prolaze svi bolesnici sve faze: dio ostaje u mlohavoj, a dio u spastičnoj fazi.\n\nRehabilitaciju provodi tim: fizijatar, neurolog, fizioterapeut, radni terapeut, logoped, medicinska sestra, psiholog i socijalni radnik. Napredak se mjeri standardiziranim ljestvicama. Barthelov indeks ocjenjuje samostalnost u aktivnostima svakodnevnog života (hranjenje, oblačenje, kupanje, prijenosi, hod, kontrola sfinktera), modificirana Rankinova ljestvica ukupni stupanj onesposobljenosti, a Bergova ljestvica ravnotežu. Prije prvog uzimanja hrane i tekućine na usta obvezno se provjerava gutanje, jer neprepoznata disfagija dovodi do aspiracijske upale pluća.",
+          "bullets": [
+            "Mlohava (flakcidna) faza: pozicioniranje, pasivno razgibavanje, prevencija komplikacija",
+            "Spastična faza: inhibicija tonusa, facilitacija selektivnih pokreta, ustajanje i hod",
+            "Faza relativnog oporavka: fina motorika, izdržljivost, samostalnost u svakodnevnim aktivnostima",
+            "Najveći dio oporavka u prva tri mjeseca, nastavak do šest mjeseci i dulje"
+          ]
+        },
+        {
+          "heading": "Fizioterapijski pristup i mjere opreza",
+          "body": "Fizioterapija hemiparetičnog bolesnika temelji se na poticanju paretične strane i simetričnom opterećivanju obiju strana tijela. Bolesniku prilazite s paretične strane i na tu stranu stavljate noćni ormarić, kako bi prema njoj okretao glavu i pogled, što je osobito važno kod zanemarivanja. Primjenjuju se neurofacilitacijske metode (Bobathov koncept, proprioceptivna neuromuskularna facilitacija), vježbanje usmjereno na zadatak, terapija ogledalom, terapija prisilnom uporabom paretične ruke te funkcionalna elektrostimulacija za podizanje stopala. U krevetu se bolesnik pozicionira u antispastične položaje i okreće svaka dva do tri sata; ležanje na paretičnoj strani s ramenom povučenim prema naprijed i ispruženom rukom izrazito je korisno, a dugotrajno ležanje na leđima izbjegava se jer pojačava ekstenzijski tonus.\n\nHod se uvježbava postupno: najprije ravnoteža u sjedenju, zatim ustajanje, prijenosi (transferi) i stajanje, pa hod uz pomagalo. Štap bolesnik drži u zdravoj ruci, a redoslijed je: štap, paretična noga, zdrava noga. Na stubama se penje tako da prvo kroči zdrava noga, a silazi tako da prvo kroči paretična noga, uz rukohvat. Kod spuštenog stopala (pad stopala) propisuje se peronealna ortoza koja drži stopalo u neutralnom položaju. Prijenosi se u početku izvode prema zdravoj strani, a postupno se uvježbavaju i prema paretičnoj, uvijek uz zakočena invalidska kolica i obuvene cipele.\n\nMjere opreza odnose se prije svega na rame. Bolesnika nikada ne vucite ni ne podižite za paretičnu ruku, jer to uzrokuje subluksaciju i bolno rame; pri okretanju i prijenosu ruku pridržavajte, a u sjedenju je položite na jastuk ili naslon za ruku. Vježbe povlačenja ruke iznad glave putem koloture nisu prikladne, jer podizanje ruke bez pratećeg pokreta lopatice prignječi tkiva u ramenu. Pasivno se rame podiže iznad vodoravne ravnine samo uz vanjsku rotaciju i pokret lopatice. Zbog poremećene ravnoteže, zanemarivanja i hemianopsije bolesnik je izložen padovima pa ga ne ostavljajte samog u stojećem položaju. Nadzirite krvni tlak i umor, a pri hranjenju bolesnik sjedi uspravno.",
+          "bullets": [
+            "Nikada ne vući ni podizati bolesnika za paretičnu ruku",
+            "Ruku u sjedenju i hodu podupirati (jastuk, naslon, ovjes u mlohavoj fazi)",
+            "Bez vježbi s koloturom iznad glave; rame iznad vodoravne ravnine samo uz vanjsku rotaciju",
+            "Štap u zdravoj ruci; stube: gore zdrava noga prva, dolje paretična noga prva",
+            "Uspravno sjedenje pri jelu i provjera gutanja zbog opasnosti od aspiracije"
+          ]
+        }
+      ],
+      "key_points": [
+        "Moždani udar je najčešće ishemijski; TIA je prolazna ishemija sa simptomima koji nestaju unutar 24 sata, a tromboliza je moguća samo unutar 4,5 sata.",
+        "Hemipareza je na strani suprotnoj oštećenoj hemisferi: lijeva hemisfera daje desnostranu hemiparezu i afaziju, desna lijevostranu hemiparezu i zanemarivanje.",
+        "Nakon početne mlohavosti razvija se spastičnost u obrascu fleksije ruke i ekstenzije noge (Wernicke-Mannov položaj).",
+        "Faze oporavka: mlohava, spastična i faza relativnog oporavka; najveći dio oporavka događa se u prva tri mjeseca.",
+        "Štap se drži u zdravoj ruci; na stube se penje zdravom, a silazi paretičnom nogom.",
+        "Paretičnu ruku nikada ne vući ni podizati za nju, nego je podupirati, kako bi se spriječili subluksacija i bolno rame."
+      ]
+    },
+    {
+      "id": "parkinson-ms-i-ozljede-mozdine",
+      "title": "Parkinsonova bolest, multipla skleroza i ozljede kralježnične moždine",
+      "summary": "Klinička slika, fizioterapijski pristup i mjere opreza kod Parkinsonove bolesti, multiple skleroze i ozljeda kralježnične moždine s razinama lezije.",
+      "estimated_minutes": 12,
+      "sections": [
+        {
+          "heading": "Parkinsonova bolest: klinička slika",
+          "body": "Parkinsonova bolest kronična je, polagano napredujuća neurodegenerativna bolest u kojoj propadaju neuroni crne tvari (substantia nigra) srednjeg mozga koji proizvode dopamin. Manjak dopamina u bazalnim ganglijima remeti pokretanje i automatsko izvođenje pokreta. Bolest se najčešće javlja nakon šezdesete godine života. Četiri su glavna (kardinalna) simptoma: drhtanje u mirovanju (tremor koji podsjeća na brojanje novca i smanjuje se pri voljnom pokretu), ukočenost (rigidnost, povećan otpor pasivnom pokretu u svim smjerovima, poput olovne cijevi ili zupčanika), usporenost i osiromašenje pokreta (bradikinezija, odnosno akinezija kada bolesnik teško započinje pokret) te posturalna nestabilnost koja se razvija u kasnijim stadijima.\n\nUz glavne simptome tipični su pognuto držanje sa savijenim trupom, koljenima i laktovima, hod sitnim koracima uz vučenje stopala i izostanak zamaha ruku, ubrzavanje koraka prema naprijed (festinacija) te zamrzavanje (freezing), iznenadna nemogućnost pokretanja nogu, osobito pri započinjanju hoda, okretanju i prolasku kroz vrata. Lice je slabo izražajno (hipomimija, lice maske), rukopis sve sitniji (mikrografija), a govor tih i monoton. Bolesnik se teško okreće u krevetu i ustaje sa stolice. Od nemotoričkih simptoma česti su zatvor, ortostatska hipotenzija, poremećaji spavanja, depresija i, u uznapredovaloj bolesti, kognitivno propadanje. Težina bolesti stupnjuje se Hoehn-Yahrovom ljestvicom od stadija 1 (jednostrani simptomi) do stadija 5 (vezanost uz krevet ili kolica).\n\nTemelj liječenja jest nadomještanje dopamina levodopom i drugim lijekovima. Nakon više godina liječenja učinak lijeka postaje promjenjiv: u razdoblju dobrog djelovanja (faza uključenosti, on) bolesnik se kreće razmjerno dobro, a kada djelovanje popusti (faza isključenosti, off) pokretljivost naglo pada; na vrhuncu djelovanja mogu se javiti nevoljni pokreti (diskinezije). Fizioterapija se zato planira u fazi dobrog djelovanja lijeka. Lijekovi ne zaustavljaju propadanje neurona, ali uz redovito vježbanje bolesnik dulje čuva samostalnost.",
+          "bullets": [
+            "Tremor u mirovanju (drhtanje koje se smanjuje pri voljnom pokretu)",
+            "Rigidnost (ukočenost, otpor pasivnom pokretu u svim smjerovima)",
+            "Bradikinezija i akinezija (usporenost i otežano započinjanje pokreta)",
+            "Posturalna nestabilnost (poremećaj ravnoteže, sklonost padovima)"
+          ]
+        },
+        {
+          "heading": "Fizioterapija kod Parkinsonove bolesti",
+          "body": "Ciljevi fizioterapije jesu održati pokretljivost, uspravno držanje, ravnotežu i hod, spriječiti padove i što dulje očuvati samostalnost u svakodnevnim aktivnostima. Budući da je oštećen automatizam pokreta, bolesnika učite da pokret izvodi svjesno, uz vanjske podražaje (cueing). Vizualni podražaji su crte nalijepljene na pod ili prepreke koje treba prekoračiti, slušni podražaji su metronom, ritmička glazba ili glasno brojanje, a kognitivne strategije razlaganje složene radnje u niz jednostavnih koraka i usmjeravanje pozornosti na jedan zadatak. Složeni dvojni zadatci (hod uz razgovor ili nošenje predmeta) u početku se izbjegavaju jer izazivaju zamrzavanje.\n\nVježbanje naglašava pokrete velike amplitude i ritam. Provode se vježbe ispravljanja (ekstenzije) trupa i istezanja skraćenih pregibača, osobito prsnih mišića i pregibača kuka, rotacija trupa, vježbe ravnoteže s pomicanjem težišta, hod dugim koracima uz svjesni zamah ruku, ustajanje sa stolice s nagibom trupa prema naprijed, okretanje u krevetu i aerobne aktivnosti poput hodanja, sobnog bicikla, nordijskog hodanja ili plesa. Pri zamrzavanju bolesnika učite da se zaustavi, uspravi, prebaci težinu na jednu nogu i zatim drugom nogom napravi velik korak, kao da prekoračuje crtu. Okreće se po širokom luku, nikad naglo na mjestu.\n\nMjere opreza: vježbajte u fazi dobrog djelovanja lijeka i bilježite vrijeme uzimanja terapije, položaj mijenjajte polako zbog ortostatske hipotenzije, uklonite tepihe i prepreke, a bolesnik nosi zatvorenu obuću s neklizajućim potplatom. Pazite na umor, diskinezije i kognitivne smetnje koje otežavaju učenje novih strategija. U uznapredovaloj bolesti naglasak je na vježbama disanja i kašljanja, sprječavanju kontraktura i poučavanju njegovatelja o pomoći pri prijenosima.",
+          "bullets": [
+            "Vizualni podražaji: crte na podu, prepreke za prekoračenje",
+            "Slušni podražaji: metronom, ritmička glazba, brojanje",
+            "Kognitivne strategije: razlaganje radnje u korake, pozornost na jedan zadatak",
+            "Zamrzavanje: stani, uspravi se, prebaci težinu, velik korak",
+            "Okretanje po širokom luku, nikad naglo na mjestu"
+          ]
+        },
+        {
+          "heading": "Multipla skleroza",
+          "body": "Multipla skleroza (MS) kronična je autoimuna upalna bolest središnjeg živčanog sustava u kojoj se razara mijelinska ovojnica živčanih vlakana (demijelinizacija) u mozgu i kralježničnoj moždini te nastaju ožiljci (plakovi). Obično počinje između 20. i 40. godine i češća je u žena. Najčešći je relapsno-remitentni oblik u kojem se izmjenjuju pogoršanja (relapsi, šubovi) i razdoblja smirivanja (remisije); s godinama bolest može prijeći u sekundarno progresivni oblik, a rjeđi je primarno progresivni oblik s napredovanjem od početka. Relaps se liječi kortikosteroidima, a tijek bolesti imunomodulacijskim lijekovima.\n\nSimptomi ovise o smještaju plakova: zamućenje vida i bol pri pokretu oka (upala vidnog živca), dvoslike, slabost udova, spastičnost, nespretnost i nesiguran hod (ataksija), drhtanje pri ciljanom pokretu (intencijski tremor), trnci i smetnje osjeta, smetnje mokrenja, kognitivne smetnje i depresija. Umor je jedan od najčešćih i najonesposobljavajućih simptoma. Za bolest je karakterističan Uhthoffov fenomen: privremeno pogoršanje simptoma pri porastu tjelesne temperature, bilo zbog vrućine, vrućice, tople kupke ili pretjeranog napora. Stupanj onesposobljenosti izražava se Kurtzkeovom proširenom ljestvicom (EDSS) od 0 do 10.\n\nFizioterapija se dozira individualno, submaksimalnim intenzitetom i s čestim odmorima, a za vrijeme relapsa intenzivno se vježbanje prekida i provode se samo pozicioniranje i blago razgibavanje. Spastičnost se ublažava istezanjem, pozicioniranjem i opterećivanjem udova, ataksija se vježba Frenkelovim vježbama koordinacije uz kontrolu vidom i vježbama ravnoteže, slabost umjerenim progresivnim otporom, a izdržljivost umjerenim aerobnim vježbanjem. Prema potrebi se propisuju štap, hodalica, peronealna ortoza ili kolica. Mjere opreza: vježbati u hladnijem dijelu dana i prohladnoj prostoriji, po potrebi uz hlađenje; hidroterapija samo u vodi koja nije topla; ne vježbati do iscrpljenosti; zbog smetnji osjeta oprez s toplinskim postupcima; zbog poremećene ravnoteže spriječiti padove.",
+          "bullets": [
+            "Uhthoffov fenomen: pogoršanje simptoma pri porastu tjelesne temperature",
+            "Umor je među najčešćim simptomima: submaksimalno vježbanje s odmorima",
+            "Relaps: prekid intenzivnog vježbanja, pozicioniranje i blago razgibavanje",
+            "Ataksija: Frenkelove vježbe koordinacije i vježbe ravnoteže",
+            "Pregrijavanje, topla voda i toplinski postupci kod smetnji osjeta zahtijevaju oprez"
+          ]
+        },
+        {
+          "heading": "Ozljede kralježnične moždine: razine i klinička slika",
+          "body": "Ozljede kralježnične moždine najčešće su traumatske (prometne nesreće, padovi s visine, skokovi na glavu u plitku vodu), a rjeđe ih uzrokuju tumori, upale ili poremećaji krvotoka. Ozljeda vratnog (cervikalnog) dijela moždine uzrokuje tetraplegiju: zahvaćena su sva četiri uda i trup, a kod visokih lezija i disanje. Ozljeda prsnog, slabinskog ili križnog dijela uzrokuje paraplegiju: zahvaćene su noge i, ovisno o visini, dio trupa, dok su ruke očuvane. Lezija je potpuna kada ispod razine ozljede nema nikakve motoričke ni osjetne funkcije, uključujući križne segmente S4 i S5, a nepotpuna kada je dio funkcije očuvan; stupnjuje se ljestvicom ASIA od A (potpuna) do E (uredna funkcija). Neurološka razina ozljede najniži je segment s urednom motoričkom i osjetnom funkcijom obostrano.\n\nNeposredno nakon ozljede nastupa spinalni šok: udovi ispod lezije su mlohavi, refleksi ugašeni, a mokraćni mjehur se ne prazni. Kada spinalni šok prođe, kod lezija iznad konusa moždine razvijaju se spastičnost i pojačani refleksi, dok kod ozljeda konusa i konjskog repa (cauda equina) oduzetost ostaje mlohava. Razina lezije određuje funkciju: ošit (dijafragma) inerviran je iz segmenata C3 do C5, pa bolesnici s lezijom iznad C4 ovise o mehaničkoj ventilaciji. Očuvani segment C5 daje pregibanje lakta, C6 ispružanje ručnog zgloba i time tenodezni hvat, C7 ispružanje lakta (triceps) koje omogućuje samostalne prijenose, a C8 i T1 funkciju šake. Kod prsnih lezija ruke su uredne, a kontrola trupa bolja je što je lezija niža.\n\nKomplikacije ugrožavaju život i oporavak. Zbog slabosti dišnih mišića oslabljen je kašalj pa su česte upale pluća. Autonomna disrefleksija javlja se kod lezija u razini T6 i iznad: nagli opasni porast krvnog tlaka s lupajućom glavoboljom, znojenjem i crvenilom iznad razine lezije te usporenim pulsom, najčešće zbog punog mokraćnog mjehura, zatvora, dekubitusa ili tijesne odjeće. Bolesnika odmah posjednite, spustite mu noge, uklonite uzrok i pozovite liječnika. Česti su i ortostatska hipotenzija, dekubitus, duboka venska tromboza, kontrakture, heterotopna osifikacija, spastičnost, neurogeni mjehur i crijevo, kronična bol te osteoporoza kostiju ispod lezije.",
+          "bullets": [
+            "Iznad C4: ovisnost o mehaničkoj ventilaciji (ošit C3 do C5)",
+            "C6: ekstenzija ručnog zgloba i tenodezni hvat, pokretanje ručnih kolica uz pomoć",
+            "C7: ekstenzija lakta, samostalni prijenosi i samostalnost u ručnim kolicima",
+            "Prsne lezije: paraplegija s urednim rukama, kontrola trupa bolja što je lezija niža",
+            "Slabinske lezije: hod uz ortoze i štake"
+          ],
+          "image": {
+            "file": "klinicka-medicina/kraljeznicna-mozdina.jpg",
+            "caption": "Poprečni presjek kralježnične moždine: siva tvar u obliku leptira u sredini, okružena bijelom tvari (L. Testut, Traité d'anatomie humaine).",
+            "credits": [
+              {
+                "title": "Spinal cord cross section from Traité d'anatomie humaine",
+                "author": "Léo Testut",
+                "source": "https://commons.wikimedia.org/wiki/File:Spinal_cord_cross_section_from_Trait%C3%A9_d%27anatomie_humaine.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Fizioterapija kod ozljede kralježnične moždine",
+          "body": "U akutnoj fazi, nakon kirurškog učvršćenja kralježnice ili uz ortozu, prednost ima respiratorna fizioterapija: vježbe disanja, osobito dijafragmalnog kod tetraplegije, potpomognuti kašalj pritiskom na trbuh i pozicioniranje. Oduzeti udovi pasivno se razgibavaju svakodnevno radi sprječavanja kontraktura, ali oprezno: dok kralježnica nije stabilna izbjegavaju se pokreti koji je opterećuju, a bolesnik se okreće u bloku (log-roll). Udovi se pozicioniraju u funkcionalne položaje (stopala pod pravim kutom, šake u funkcionalnom položaju), a položaj se mijenja svaka dva sata radi sprječavanja dekubitusa. Očuvani mišići vježbaju se izometrički i aktivno. Uspravljanje je postupno, na kosom stolu uz trbušni pojas i elastične čarape, jer je zbog ispada vegetativne regulacije česta ortostatska hipotenzija.\n\nU fazi rehabilitacije jača se snaga inerviranih mišića ramena, ruku i trupa, uvježbavaju se ravnoteža u sjedenju, prijenosi (po potrebi uz dasku za prijenos), vožnja i vještine u kolicima te rasterećivanje sjedne površine podizanjem na rukama ili naginjanjem svakih 15 do 30 minuta. Stajanje u stalku povoljno djeluje na kosti, cirkulaciju, probavu i spastičnost. Kod lezije C6 čuva se tenodezni hvat: pregibači prstiju ne istežu se s ispruženim ručnim zglobom, kako bi se pri ispružanju zgloba prsti i dalje pasivno savijali. Za samostalno oblačenje i dugo sjedenje potrebna je dovoljna duljina stražnjih mišića natkoljenice, ali se slabinski dio leđa ne smije preistegnuti jer njegova čvrstoća nosi ravnotežu u sjedenju.\n\nMjere opreza: svakodnevno pregledavajte kožu i prepoznajte autonomnu disrefleksiju; mokraćni mjehur treba isprazniti prije terapije; zbog osteoporoze ispod lezije pasivno razgibavanje i prijenosi izvode se bez grubih sila jer kost može puknuti i uz malu silu; bol, oteklina, toplina i smanjen opseg pokreta kuka ili koljena mogu značiti heterotopnu osifikaciju i prijavljuju se liječniku; termoregulacija ispod lezije je poremećena pa se izbjegava pregrijavanje. Znakovi duboke venske tromboze (jednostrana oteklina i toplina noge) traže hitnu liječničku procjenu.",
+          "bullets": [
+            "Akutno: respiratorna fizioterapija, pasivno razgibavanje, pozicioniranje, okretanje u bloku",
+            "Postupno uspravljanje na kosom stolu uz trbušni pojas i elastične čarape",
+            "Rasterećivanje sjedne površine svakih 15 do 30 minuta, promjena položaja u krevetu svaka dva sata",
+            "C6: čuvati tenodezni hvat, ne istezati pregibače prstiju uz ispružen ručni zglob",
+            "Oprez zbog osteoporoze, heterotopne osifikacije, autonomne disrefleksije i tromboze"
+          ]
+        }
+      ],
+      "key_points": [
+        "Parkinsonova bolest: tremor u mirovanju, rigidnost, bradikinezija i posturalna nestabilnost zbog manjka dopamina; vježba se u fazi dobrog djelovanja lijeka.",
+        "Kod Parkinsonove bolesti pokret se potiče vanjskim podražajima (crte na podu, metronom) i velikom amplitudom; okretanje po širokom luku.",
+        "Multipla skleroza je demijelinizacijska bolest SŽS-a mladih odraslih; Uhthoffov fenomen nalaže izbjegavanje pregrijavanja, a umor submaksimalno doziranje.",
+        "Vratna lezija moždine daje tetraplegiju, prsna i niže paraplegiju; lezija iznad C4 traži mehaničku ventilaciju, C7 omogućuje samostalne prijenose.",
+        "Autonomna disrefleksija (lezije T6 i iznad) hitno je stanje: posjesti bolesnika, spustiti noge, ukloniti uzrok, pozvati liječnika.",
+        "Dekubitus se sprječava promjenom položaja svaka dva sata i rasterećivanjem sjedne površine svakih 15 do 30 minuta."
+      ]
+    },
+    {
+      "id": "reumatske-bolesti-i-bolna-leda",
+      "title": "Reumatoidni artritis, osteoartritis i bolna leđa",
+      "summary": "Klinička slika i fizioterapijski pristup kod reumatoidnog artritisa i osteoartritisa te kod lumbalnog bolnog sindroma i hernije intervertebralnog diska, uz mjere opreza.",
+      "estimated_minutes": 11,
+      "sections": [
+        {
+          "heading": "Reumatoidni artritis: klinička slika",
+          "body": "Reumatoidni artritis (RA) kronična je autoimuna sustavna upalna bolest koja prvenstveno zahvaća sinovijalnu ovojnicu zglobova. Upaljena sinovija buja u granulacijsko tkivo (panus) koje postupno razara zglobnu hrskavicu, kost i ligamente, pa nastaju trajne deformacije. Bolest je znatno češća u žena i najčešće počinje u srednjoj životnoj dobi, a teče u naletima pogoršanja (egzacerbacije) i smirivanja (remisije). Zahvaćanje zglobova tipično je simetrično i pogađa male zglobove šaka i stopala: metakarpofalangealne (MCP), proksimalne interfalangealne (PIP) i ručne zglobove, dok distalni interfalangealni (DIP) zglobovi obično ostaju pošteđeni. S vremenom mogu biti zahvaćeni i koljena, laktovi, ramena, kukovi te vratna kralježnica.\n\nVodeći je simptom jutarnja ukočenost zglobova koja traje dulje od jednog sata i popušta razgibavanjem. Zglobovi su bolni, otečeni, topli i osjetljivi na pritisak, a bol je upalnog tipa: prisutna je i u mirovanju i noću. Pridruženi su opći simptomi: umor, slabost, gubitak teka i tjelesne težine te povišena tjelesna temperatura. U krvi su povišeni pokazatelji upale (sedimentacija eritrocita, C-reaktivni protein), a kod većine bolesnika nalaze se reumatoidni faktor i protutijela na citrulinirane peptide (anti-CCP). Bolest se liječi lijekovima koji mijenjaju njezin tijek (metotreksat, biološki lijekovi), nesteroidnim protuupalnim lijekovima i kortikosteroidima; dugotrajno uzimanje kortikosteroida slabi kost (osteoporoza) i stanjuje kožu.\n\nTipične deformacije šake jesu ulnarna devijacija prstiju, deformacija labuđeg vrata (hiperekstenzija PIP i fleksija DIP zgloba), deformacija rupice za gumb (fleksija PIP i hiperekstenzija DIP zgloba), palac u obliku slova Z te subluksacije MCP zglobova. Na stopalima nastaju čekićasti prsti i bolne glavice metatarzalnih kostiju. Izvanzglobne pojave uključuju reumatoidne čvoriće na mjestima pritiska (laktovi), suhoću očiju i usta (sekundarni Sjögrenov sindrom), anemiju, upalu osrčja i porebrice te vaskulitis. Za fizioterapeuta je osobito važna nestabilnost atlantoaksijalnog zgloba (C1–C2) zbog razaranja ligamenata: može biti bez ikakvih simptoma, a pritisak na kralježničnu moždinu pri forsiranoj fleksiji ili manipulaciji vrata može izazvati teško neurološko oštećenje.",
+          "bullets": [
+            "Simetrični poliartritis malih zglobova šaka i stopala (MCP, PIP, ručni zglob), DIP pošteđen",
+            "Jutarnja ukočenost dulja od jednog sata, bol i u mirovanju, opći simptomi",
+            "Deformacije: ulnarna devijacija, labuđi vrat, rupica za gumb, palac u obliku slova Z",
+            "Izvanzglobne pojave: reumatoidni čvorići, Sjögrenov sindrom, anemija, upala osrčja i porebrice",
+            "Atlantoaksijalna nestabilnost: bez manipulacija i forsirane fleksije vrata"
+          ],
+          "image": {
+            "file": "klinicka-medicina/reumatoidni-artritis-sake.jpg",
+            "caption": "Teško deformirane šake kod uznapredovalog reumatoidnog artritisa: zglobovi prstiju su zadebljani, a prsti iskrivljeni.",
+            "credits": [
+              {
+                "title": "Severely deformed hands from Rheumatoid Arthritis",
+                "author": "Dr. Gannavarapu Narasimhamurthy",
+                "source": "https://commons.wikimedia.org/wiki/File:Severely_deformed_hands_from_Rheumatoid_Arthritis.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Osteoartritis (artroza)",
+          "body": "Osteoartritis (artroza, degenerativna bolest zglobova) najčešća je bolest zglobova. Nije primarno upalna bolest: zglobna hrskavica se troši i stanjuje, zglobna se pukotina sužava, kost ispod hrskavice zadebljava (supkondralna skleroza), a na rubovima zglobnih tijela stvaraju se koštani izdanci (osteofiti). Primarni osteoartritis nastaje s dobi bez poznatog uzroka, a sekundarni nakon ozljede zgloba, prirođenih poremećaja (razvojni poremećaj kuka), upale ili dugotrajnog preopterećenja. Čimbenici rizika jesu dob, prekomjerna tjelesna težina, ženski spol, nasljeđe, ozljede i težak tjelesni rad. Najčešće su zahvaćeni koljeno (gonartroza), kuk (koksartroza), kralježnica (spondiloza), DIP i PIP zglobovi šake te zglob korijena palca (rizartroza).\n\nVodeći je simptom bol mehaničkog tipa: javlja se pri opterećenju i hodu, a smiruje u mirovanju; u uznapredovaloj bolesti prisutna je i u mirovanju i noću. Nakon mirovanja javlja se kratkotrajna ukočenost (startna bol) koja traje manje od 30 minuta. Pri pokretu se čuju i osjećaju krepitacije, opseg pokreta se smanjuje, a zglob može biti otečen zbog izljeva, obično bez izrazite topline. Zahvaćanje je najčešće asimetrično i bez općih simptoma. Na DIP zglobovima šake nastaju Heberdenovi, a na PIP zglobovima Bouchardovi čvorići. Kod koksartroze najprije se gube unutarnja rotacija i ispružanje (ekstenzija) kuka, a bol se širi u prepone, natkoljenicu i koljeno; kod gonartroze razvijaju se fleksijska kontraktura i varusna deformacija (O-noge).",
+          "bullets": [
+            "Osteoartritis: mehanička bol pri opterećenju, ukočenost kraća od 30 minuta, asimetrično, bez općih simptoma",
+            "Reumatoidni artritis: upalna bol i u mirovanju, ukočenost dulja od sat vremena, simetrično, opći simptomi",
+            "Osteoartritis zahvaća DIP zglobove (Heberdenovi čvorići), reumatoidni artritis MCP i PIP zglobove",
+            "Rendgen kod osteoartritisa: suženje zglobne pukotine, supkondralna skleroza, osteofiti"
+          ]
+        },
+        {
+          "heading": "Fizioterapija kod reumatoidnog artritisa i osteoartritisa",
+          "body": "Kod reumatoidnog artritisa postupak ovisi o fazi bolesti. U akutnoj fazi (egzacerbaciji) upaljeni zglob miruje u funkcionalnom položaju, po potrebi u udlazi za odmor, primjenjuju se hladni oblozi (krioterapija) koji smanjuju bol i oteklinu, a snaga se održava izometrijskim kontrakcijama koje ne pokreću zglob. Opseg pokreta čuva se nježnim pasivnim ili aktivno potpomognutim razgibavanjem do granice boli, jedanput do dvaput dnevno. U remisiji se provode aktivne vježbe opsega pokreta, postupno jačanje od izometrije prema dinamičkim vježbama s malim otporom, aerobne aktivnosti niskog opterećenja (hodanje, sobni bicikl, plivanje, vježbanje u toploj vodi), toplinski postupci (parafinske kupke za šake) prije vježbanja, zaštita zglobova ortozama i pomagalima te edukacija o štednji zglobova i energije.\n\nKod osteoartritisa cilj je smanjiti bol i opterećenje zgloba te očuvati pokretljivost i snagu. Najvažnije je jačanje mišića koji stabiliziraju zglob: četveroglavog mišića natkoljenice (m. quadriceps femoris) kod gonartroze i odmicača (abduktora) kuka kod koksartroze. Pokretljivost se održava aktivnim vježbama i istezanjem skraćenih mišića, a zglob se rasterećuje smanjenjem tjelesne težine, vježbanjem u vodi ili na sobnom biciklu te hodom sa štapom koji se drži u ruci suprotnoj bolesnom kuku ili koljenu. Toplina i transkutana električna živčana stimulacija (TENS) ublažavaju bol i ukočenost. Vježbe trebaju biti redovite i umjerene: bol koja nakon vježbanja traje dulje od dva sata znak je pretjeranog opterećenja. Izbjegavaju se skokovi, trčanje po tvrdoj podlozi, dugotrajno klečanje i duboki čučnjevi.\n\nMjere opreza kod reumatoidnog artritisa: kroz akutno upaljen zglob ne vježba se s otporom niti se na njega primjenjuje toplina, jer oboje pojačava upalu. Pasivno razgibavanje izvodi se bez sile, jer su ligamenti i zglobne čahure oslabljeni, a zglobovi nestabilni; grube tehnike i istezanje do kraja opsega mogu izazvati subluksaciju. Vratna kralježnica ne smije se manipulirati ni forsirano savijati zbog moguće atlantoaksijalne nestabilnosti, čak i kada bolesnik nema tegoba s vratom. Zbog kortikosteroida kost je krhka, a koža tanka i lako se ozlijedi. Vježbanje se zakazuje kasnije prijepodne, nakon što popusti jutarnja ukočenost. Kod osteoartritisa bol je vodič doziranja; kada se artroza aktivira (izljev, toplina), zglob se privremeno rasterećuje i hladi kao kod upale.",
+          "bullets": [
+            "Akutna faza RA: mirovanje u funkcionalnom položaju, hladnoća, izometrija, nježno razgibavanje",
+            "Remisija RA: aktivne vježbe, postupno jačanje, aerobne aktivnosti niskog opterećenja, toplina prije vježbanja",
+            "Osteoartritis: jačanje kvadricepsa (koljeno) i abduktora kuka (kuk), rasterećenje, štap u suprotnoj ruci",
+            "Pravilo dva sata: bol dulja od dva sata nakon vježbanja znači preveliko opterećenje",
+            "Bez otpora i topline na akutno upaljen zglob; bez manipulacija vratne kralježnice kod RA"
+          ]
+        },
+        {
+          "heading": "Lumbalni bolni sindrom (križobolja)",
+          "body": "Lumbalni bolni sindrom (križobolja, lumbalgija) bol je u slabinskom (lumbalnom) dijelu leđa i jedno je od najčešćih stanja u fizioterapijskoj praksi; većina ljudi doživi ga barem jednom u životu. Prema trajanju razlikujemo akutnu (do šest tjedana), subakutnu (šest do dvanaest tjedana) i kroničnu križobolju (dulje od dvanaest tjedana). U velike većine bolesnika ne može se utvrditi točan uzrok pa govorimo o nespecifičnoj križobolji: preopterećenje mišića i ligamenata, loše držanje, slabi trbušni i leđni mišići te degenerativne promjene diskova i fasetnih zglobova. Specifični uzroci jesu hernija diska, suženje kralježničnog kanala (spinalna stenoza), spondilolisteza, prijelom, upala, infekcija i tumor. Bol koja se širi u nogu duž ishijadičnog živca naziva se lumboishialgija.\n\nCrvene zastavice znakovi su upozorenja koji upućuju na ozbiljan uzrok i zahtijevaju hitnu liječničku obradu: nedavna ozljeda, stalna i progresivna bol koja ne ovisi o položaju i budi bolesnika noću, neobjašnjen gubitak tjelesne težine, vrućica, zloćudna bolest u anamnezi, dugotrajno uzimanje kortikosteroida, poremećaj kontrole mokrenja ili stolice, obostrana slabost nogu i utrnulost u području sedla (unutarnje strane bedara i međice). Posljednja tri znaka upućuju na sindrom konjskog repa (cauda equina), koji zahtijeva hitan kirurški zahvat. Žute zastavice psihosocijalni su čimbenici koji pogoduju prelasku u kroničnu bol: strah od pokreta, uvjerenje da je bol opasna, depresija, nezadovoljstvo poslom i izbjegavanje aktivnosti.\n\nU akutnoj fazi bolesnika se potiče da ostane aktivan koliko bol dopušta; ležanje u krevetu dulje od jednog do dva dana usporava oporavak. Bol ublažavaju rasteretni položaj (ležanje na leđima s potkoljenicama na podlošku, kukovi i koljena savijeni pod pravim kutom), toplina, TENS i blage vježbe, a bolesnika treba umiriti da je nespecifična križobolja dobroćudna.\n\nU subakutnoj i kroničnoj fazi provode se vježbe stabilizacije trupa (jačanje dubokih mišića: m. transversus abdominis i m. multifidus), istezanje skraćenih pregibača kuka, stražnjih mišića natkoljenice i leđnih ispružača, aerobne aktivnosti (hodanje, plivanje) te škola leđa: teret se podiže iz čučnja, drži blizu tijela, s ravnim leđima i bez rotacije, a pri sjedenju se podupire slabinska lordoza i često mijenja položaj. Kod kronične boli izbjegavaju se dugotrajni pasivni postupci, a uz vježbanje se primjenjuje kognitivno-bihevioralni pristup.",
+          "bullets": [
+            "Akutna križobolja do 6 tjedana, subakutna 6 do 12 tjedana, kronična dulje od 12 tjedana",
+            "Crvene zastavice: ozljeda, noćna progresivna bol, gubitak težine, vrućica, tumor u anamnezi, smetnje sfinktera",
+            "Sindrom konjskog repa (smetnje mokrenja, utrnulost sedla, obostrana slabost nogu): hitan kirurški zahvat",
+            "Akutno: ostati aktivan, rasteretni položaj, toplina, bez dugog ležanja",
+            "Kronično: stabilizacija trupa, istezanje, aerobne aktivnosti, škola leđa"
+          ]
+        },
+        {
+          "heading": "Hernija intervertebralnog diska",
+          "body": "Intervertebralni disk sastoji se od čvrstog vezivnog prstena (anulus fibrosus) i mekane želatinozne jezgre (nucleus pulposus). Degeneracijom prstena i naglim opterećenjem, osobito podizanjem tereta uz savijanje i rotaciju trupa, jezgra prodire kroz pukotine prstena. Razlikujemo protruziju (izbočenje diska uz očuvan prsten), ekstruziju (jezgra probija prsten) i sekvestraciju (odvojeni ulomak jezgre u kanalu). Hernija je najčešća u segmentima L4–L5 i L5–S1 i obično je usmjerena straga i postrance (posterolateralno), gdje pritišće korijen živca koji izlazi u sljedećem segmentu: hernija L4–L5 najčešće pritišće korijen L5, a hernija L5–S1 korijen S1.\n\nKlinička slika jest lumboishialgija: bol u križima koja se širi stražnjom stranom natkoljenice u potkoljenicu i stopalo, pojačava se pri kašljanju, kihanju, napinjanju, sjedenju i savijanju naprijed, a ublažava ležanjem. Prate je trnci i utrnulost u dermatomu, slabost mišića i oslabljeni refleksi. Oštećenje korijena L5 daje slabost dorzalne fleksije stopala i palca (otežan hod na petama) te utrnulost vanjske strane potkoljenice i hrpta stopala, a oštećenje korijena S1 slabost plantarne fleksije (otežan hod na prstima), oslabljen Ahilov refleks i utrnulost vanjskog ruba stopala. Lasègueov znak pozitivan je kada podizanje ispružene noge u ležanju na leđima izazove bol duž noge, najčešće između 30 i 70 stupnjeva. Bolesnik često stoji nagnut u stranu (antalgična skolioza).\n\nVećina bolesnika liječi se konzervativno: kratko mirovanje, lijekovi protiv bolova i upale te fizioterapija. U akutnoj fazi izbjegavaju se savijanje trupa, podizanje tereta i dugotrajno sjedenje, a primjenjuju se rasteretni položaji i, prema McKenziejevu pristupu, ponavljani pokreti ispružanja (ekstenzije) trupa; povlačenje boli iz noge prema križima (centralizacija) povoljan je znak. Nakon smirivanja boli slijede vježbe stabilizacije trupa, istezanje, škola leđa i postupan povratak aktivnostima. Operacija (mikrodiscektomija) nužna je kod sindroma konjskog repa i progresivne slabosti mišića, a razmatra se kada bol ne popušta nakon višetjednog konzervativnog liječenja. Nakon operacije bolesnik rano ustaje i hoda, prvih tjedana izbjegava savijanje, rotaciju i podizanje tereta, a zatim postupno jača mišiće trupa.",
+          "bullets": [
+            "Protruzija, ekstruzija, sekvestracija: stupnjevi prodora jezgre kroz prsten",
+            "Hernija L4–L5 pritišće korijen L5, hernija L5–S1 korijen S1",
+            "L5: dorzalna fleksija stopala, hod na petama; S1: plantarna fleksija, hod na prstima, Ahilov refleks",
+            "Lasègueov znak: bol duž noge pri podizanju ispružene noge (30 do 70 stupnjeva)",
+            "Hitna operacija: sindrom konjskog repa i progresivna slabost mišića"
+          ]
+        }
+      ],
+      "key_points": [
+        "Reumatoidni artritis simetrično zahvaća male zglobove šaka (MCP, PIP) uz jutarnju ukočenost dulju od sat vremena i opće simptome; osteoartritis daje mehaničku bol, ukočenost kraću od 30 minuta i Heberdenove čvoriće na DIP zglobovima.",
+        "Akutno upaljen zglob kod RA miruje u funkcionalnom položaju uz hladnoću i izometriju; toplina, otpor i grubo pasivno razgibavanje čekaju remisiju.",
+        "Kod RA vratna se kralježnica ne manipulira niti forsirano savija zbog atlantoaksijalne nestabilnosti, koja može biti bez simptoma.",
+        "Kod osteoartritisa jačaju se stabilizatori zgloba (kvadriceps, abduktori kuka), zglob se rasterećuje, a štap se nosi u suprotnoj ruci; bol dulja od dva sata nakon vježbanja znači preveliko opterećenje.",
+        "Križobolja je kronična nakon 12 tjedana; crvene zastavice, osobito smetnje sfinktera i utrnulost sedla (sindrom konjskog repa), zahtijevaju hitnu obradu.",
+        "Hernija L4–L5 pritišće korijen L5 (slaba dorzalna fleksija, hod na petama), hernija L5–S1 korijen S1 (slaba plantarna fleksija, oslabljen Ahilov refleks); u akutnoj fazi izbjegavaju se savijanje trupa i podizanje tereta."
+      ]
+    },
+    {
+      "id": "prijelomi-endoproteze-kopb-i-srce",
+      "title": "Prijelomi, endoproteze, KOPB i rehabilitacija srca",
+      "summary": "Faze cijeljenja i imobilizacija prijeloma, mjere opreza nakon endoproteze kuka i koljena, respiratorna fizioterapija kod KOPB-a te faze kardiovaskularne rehabilitacije nakon infarkta miokarda.",
+      "estimated_minutes": 12,
+      "sections": [
+        {
+          "heading": "Prijelomi: vrste, znakovi i faze cijeljenja",
+          "body": "Prijelom (fraktura) prekid je cjelovitosti kosti. Prema odnosu s kožom razlikujemo zatvoreni i otvoreni prijelom, kod kojeg je koža probijena pa postoji opasnost od infekcije kosti. Prema liniji loma prijelomi su poprečni, kosi, spiralni, višeiverni (kominutivni) i uklješteni (impaktirani), a u djece je čest nepotpuni prijelom zelene grančice. Prema uzroku razlikujemo traumatske prijelome, patološke prijelome oslabljene kosti (osteoporoza, tumor) i prijelome zamora zbog ponavljanog opterećenja. Sigurni su znakovi prijeloma deformacija, patološka pokretljivost i krepitacije, a nesigurni bol, oteklina, krvni podljev i gubitak funkcije; dijagnoza se potvrđuje rendgenskom snimkom u dvije projekcije.\n\nCijeljenje prijeloma uz imobilizaciju (sekundarno cijeljenje) prolazi kroz četiri faze. U fazi hematoma i upale (prvi dani) između ulomaka se nakuplja krv i razvija upalna reakcija koja privlači stanice potrebne za obnovu. U fazi mekog kalusa (prva dva do tri tjedna) hematom zamjenjuju granulacijsko tkivo i hrskavica koji vezivno povezuju ulomke. U fazi tvrdog kalusa meki se kalus okoštava i ulomci se koštano premošćuju, što traje tjedne do mjesece. U fazi remodeliranja, koja traje mjesecima do godinama, nezrela se kost prema opterećenju pregrađuje u čvrstu lamelarnu kost. Kod apsolutno stabilne osteosinteze pločicom kost može cijeliti izravno, bez kalusa (primarno cijeljenje).\n\nBrzina cijeljenja ovisi o kosti, dobi, prokrvljenosti i stabilnosti ulomaka: u djece je cijeljenje brže, a kosti nogu, osobito bedrena i goljenična, cijele dulje od kostiju ruku. Komplikacije uključuju odgođeno cijeljenje i nesrastanje (pseudoartroza), krivo srastanje, infekciju, ozljedu živaca i krvnih žila, sindrom odjeljka (kompartment-sindrom) zbog porasta tlaka u mišićnim odjeljcima, masnu emboliju, duboku vensku trombozu te kompleksni regionalni bolni sindrom (Sudeckov sindrom) s boli, oteklinom, promjenom boje i temperature kože i ukočenošću. Posljedice imobilizacije jesu atrofija mišića, ukočenost zglobova i gubitak koštane mase, pa je rana fizioterapija sastavni dio liječenja.",
+          "bullets": [
+            "Faza hematoma i upale: prvi dani",
+            "Faza mekog kalusa: vezivno-hrskavično povezivanje ulomaka, oko dva do tri tjedna",
+            "Faza tvrdog kalusa: okoštavanje i koštano premoštenje, tjedni do mjeseci",
+            "Faza remodeliranja: pregradnja u lamelarnu kost prema opterećenju, mjeseci do godine"
+          ],
+          "image": {
+            "file": "klinicka-medicina/prijelom-kuka-rtg.jpg",
+            "caption": "Rendgenska snimka kuka 77-godišnje osobe koja je pala u kući: strelice pokazuju blago uklješteni (impaktirani) prijelom gornjeg dijela bedrene kosti.",
+            "credits": [
+              {
+                "title": "X-ray of mildly compressed hip fracture, annotated",
+                "author": "Mikael Häggström, M.D. Author info - Reusing images- Conflicts of interest:  None\nMikael Häggström, M.D.Consent note: Written informed consent was obtained from the individual, including online publication.",
+                "source": "https://commons.wikimedia.org/wiki/File:X-ray_of_mildly_compressed_hip_fracture,_annotated.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Imobilizacija i fizioterapija kod prijeloma",
+          "body": "Liječenje prijeloma slijedi tri načela: repozicija (vraćanje ulomaka u pravilan položaj), retencija (zadržavanje položaja imobilizacijom) i rehabilitacija. Konzervativna imobilizacija provodi se sadrenom ili plastičnom longetom, cirkularnim sadrenim zavojem, ortozom ili ekstenzijom (trakcijom), a operacijska unutarnjom fiksacijom (pločica i vijci, intramedularni čavao) ili vanjskim fiksatorom. Imobilizacija dugih kostiju obuhvaća zglob iznad i zglob ispod prijeloma, a zglobovi koji nisu obuhvaćeni moraju ostati slobodni. Unutarnja fiksacija omogućuje raniji početak razgibavanja, dok sadreni zavoj uz imobilizaciju donosi i ukočenost i atrofiju.\n\nU prvim danima nakon postavljanja sadrenog zavoja oteklina može stisnuti tkiva pa je ugrožena cirkulacija. Znakovi su jaka bol koja ne popušta na lijekove i podizanje uda, bljedoća ili modrilo i hladnoća prstiju, trnci i utrnulost te nemogućnost pokretanja prstiju; bolesnik ih mora odmah prijaviti, a zavoj se hitno rasijeca. Za vrijeme imobilizacije ud se drži podignut (elevacija), aktivno se vježbaju svi slobodni zglobovi (prsti, susjedni zglobovi), mišići ispod zavoja napinju se izometrički (na primjer četveroglavi mišić u natkoljeničnom zavoju), provode se vježbe disanja i cirkulacije i održava opća kondicija zdravih dijelova tijela. Hod sa štakama uvježbava se uz propisano opterećenje: bez oslonca, s djelomičnim ili punim osloncem, prema odluci kirurga.\n\nNakon skidanja imobilizacije ukočenost se ublažava toplinom ili vježbanjem u vodi, zatim slijede aktivno potpomognuto i aktivno razgibavanje, postupno jačanje mišića, vježbe propriocepcije i ravnoteže, vježbanje hoda i funkcionalne aktivnosti. Mjere opreza: razgibavanje i istezanje izvode se bez sile, osobito u području lakta, gdje grubo pasivno istezanje može izazvati okoštavanje mišića (miozitis osifikans); vježbe s otporom i puno opterećenje kroz mjesto prijeloma dopušteni su tek kada je cijeljenje rendgenski potvrđeno, a opterećenje se povećava prema protokolu kirurga. Rani znakovi kompleksnog regionalnog bolnog sindroma (nerazmjerna bol, oteklina, promjena boje i znojenje kože) traže brzo liječenje. Starije osobe s prijelomom vrata bedrene kosti mobiliziraju se što ranije kako bi se izbjegle komplikacije ležanja.",
+          "bullets": [
+            "Tri načela: repozicija, retencija (imobilizacija), rehabilitacija",
+            "Pretijesan zavoj: jaka bol, bljedoća ili modrilo, hladnoća, trnci, nepokretni prsti, hitno rasjeći",
+            "Tijekom imobilizacije: elevacija, aktivne vježbe slobodnih zglobova, izometrija ispod zavoja",
+            "Nakon imobilizacije: razgibavanje bez sile, postupno jačanje, propriocepcija, hod",
+            "Lakat: grubo pasivno istezanje može izazvati miozitis osifikans"
+          ]
+        },
+        {
+          "heading": "Endoproteze kuka i koljena: mjere opreza",
+          "body": "Totalna endoproteza kuka ugrađuje se najčešće zbog uznapredovale koksartroze i prijeloma vrata bedrene kosti. Rehabilitacija počinje prvoga dana nakon operacije: vježbe disanja, pumpanje stopalima protiv tromboze, izometrijske kontrakcije četveroglavog i glutealnih mišića, aktivno potpomognuto savijanje (fleksija) i odmicanje (abdukcija) kuka, posjedanje, ustajanje i hod uz hodalicu ili štake; opterećenje operirane noge određuje kirurg, a kod cementirane endoproteze obično je dopušteno puno opterećenje. Štake ili štap nose se u ruci suprotnoj operiranoj nozi, a na stube se penje zdravom nogom prvom i silazi operiranom nogom prvom. Bolesnik se otpušta kada samostalno ustaje, hoda i svladava stube.\n\nNajveća opasnost prvih tjedana jest iščašenje (luksacija) endoproteze, jer zglobna čahura i mišići još nisu zacijelili. Kod najčešćeg stražnjeg (posterolateralnog) pristupa zabranjeni su savijanje kuka preko 90 stupnjeva, primicanje (adukcija) noge preko središnje crte tijela i unutarnja rotacija noge, obično tijekom prvih šest do dvanaest tjedana. Bolesnik zato ne sjedi na niskim stolicama, ne naginje se naprijed i ne podiže predmete s poda, ne križa noge, spava na leđima s jastukom između nogu, pri okretanju na bok stavlja jastuk između koljena, koristi povišenje za WC školjku. Kod prednjeg pristupa izbjegavaju se ispružanje kuka preko neutralnog položaja i vanjska rotacija. Iznenadna jaka bol, skraćenje i rotacija noge te nemogućnost pokreta znakovi su luksacije i zahtijevaju hitnu pomoć.\n\nTotalna endoproteza koljena ugrađuje se zbog uznapredovale gonartroze. Rani su ciljevi puno ispružanje (ekstenzija) koljena i savijanje od najmanje 90 stupnjeva, koliko je potrebno za sjedenje i hod po stubama. Vježbaju se izometrija četveroglavog mišića, podizanje ispružene noge, klizanje petom po podlozi, savijanje koljena preko ruba kreveta i hod uz pomagalo s punim opterećenjem, a oteklina i bol smanjuju se hlađenjem i elevacijom. Koljeno se nikada ne podlaže jastukom ispod zgloba, jer bi se učvrstila fleksijska kontraktura; jastuk se stavlja pod petu.\n\nZajedničke mjere opreza nakon obiju endoproteza jesu praćenje znakova duboke venske tromboze (oteklina, bol i toplina potkoljenice) i infekcije (crvenilo, curenje iz rane, vrućica), uporaba pomagala dok hod nije siguran te trajno izbjegavanje udarnih opterećenja poput trčanja i skakanja; preporučuju se hodanje, plivanje i vožnja bicikla. Nakon endoproteze koljena izbjegava se i klečanje.",
+          "bullets": [
+            "Kuk, stražnji pristup: bez fleksije preko 90 stupnjeva, bez adukcije preko sredine, bez unutarnje rotacije",
+            "Jastuk između nogu, povišena stolica i WC školjka, bez križanja nogu i saginjanja do poda",
+            "Štap ili štake u suprotnoj ruci; na stube zdravom nogom prvom, niz stube operiranom",
+            "Koljeno: puna ekstenzija i fleksija od najmanje 90 stupnjeva, jastuk pod petu, nikada pod koljeno",
+            "Oprez: tromboza (oteklina, bol, toplina potkoljenice), infekcija, bez udarnih opterećenja"
+          ],
+          "image": {
+            "file": "klinicka-medicina/endoproteza-kuka-rtg.jpg",
+            "caption": "Rendgenska snimka kuka s totalnom endoprotezom: metalni trn usađen je u bedrenu kost, a umjetna glava zglobljava se s čašicom u zdjelici.",
+            "credits": [
+              {
+                "title": "X-ray of hip with total arthroplasty - Anteroposterior",
+                "author": "Mikael Häggström, M.D. Author info - Reusing images- Conflicts of interest:  None\nMikael Häggström, M.D.Consent note: Written informed consent was obtained from the individual, including online publication.",
+                "source": "https://commons.wikimedia.org/wiki/File:X-ray_of_hip_with_total_arthroplasty_-_Anteroposterior.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "KOPB i respiratorna fizioterapija",
+          "body": "Kronična opstruktivna plućna bolest (KOPB) kronična je progresivna bolest s trajnim ograničenjem protoka zraka koje nije potpuno povratno. Obuhvaća kronični bronhitis (kašalj s iskašljavanjem najmanje tri mjeseca godišnje tijekom dvije uzastopne godine) i emfizem (razaranje stijenki alveola s gubitkom elastičnosti pluća, zarobljavanjem zraka i hiperinflacijom). Daleko najvažniji uzrok jest pušenje. Dijagnoza se postavlja spirometrijom: omjer forsiranog izdisajnog volumena u prvoj sekundi i forsiranog vitalnog kapaciteta (FEV1/FVC) nakon bronhodilatatora manji je od 0,70. Simptomi su zaduha (dispneja) najprije pri naporu, kronični kašalj, iskašljavanje i piskanje, a u uznapredovaloj bolesti bačvasti prsni koš, disanje uz pomoćnu dišnu muskulaturu, gubitak mišićne mase, cijanoza, plućna hipertenzija i plućno srce. Pogoršanja (egzacerbacije) najčešće izazivaju infekcije dišnih putova.\n\nRespiratorna fizioterapija uči bolesnika učinkovitijem disanju i čišćenju dišnih putova. Disanje kroz stisnute usne (udisaj kroz nos, polagan izdisaj kroz lagano stisnute usne, dvostruko dulji od udisaja) usporava disanje, održava dišne putove otvorenima tijekom izdisaja i tako smanjuje zarobljavanje zraka i zaduhu. Dijafragmalno (trbušno) disanje smanjuje rad pomoćnih dišnih mišića. U zaduhi pomaže položaj sjedenja nagnutog naprijed s osloncem podlaktica na koljena ili stol (kočijaški položaj). Sekret se uklanja aktivnim ciklusom tehnika disanja (kontrola disanja, vježbe širenja prsnog koša i forsirani izdisaj uz otvoren glotis, huffing), posturalnom drenažom u položajima u kojima gravitacija pomaže otjecanju sekreta, perkusijom i vibracijom prsnog koša te uređajima s pozitivnim izdisajnim tlakom (PEP). Dodaju se vježbe pokretljivosti prsnog koša i trening udisajnih mišića.\n\nPlućna rehabilitacija najdjelotvornija je nefarmakološka mjera kod KOPB-a: trening izdržljivosti hodanjem ili na sobnom biciklu najmanje tri puta tjedno umjerenim intenzitetom, jačanje mišića udova, edukacija, prestanak pušenja i prehrana. Intenzitet se dozira prema zaduhi Borgovom ljestvicom, a tijekom vježbanja prati se zasićenost krvi kisikom pulsnim oksimetrom; pri padu saturacije ispod granice koju odredi liječnik (najčešće 88 do 90 posto) vježbanje se prekida ili se daje kisik.\n\nMjere opreza: za vrijeme akutne egzacerbacije provode se samo tehnike disanja i čišćenja dišnih putova, izbjegava se zadržavanje daha i napinjanje, između vježbi se planiraju odmori, a bolesnicima s kroničnom hiperkapnijom kisik se daje oprezno jer velike količine mogu oslabiti podražaj za disanje. Položaji posturalne drenaže s glavom niže od tijela kontraindicirani su kod iskašljavanja krvi, nekontrolirane hipertenzije, nedavnog infarkta miokarda, zatajivanja srca, povišenog tlaka u lubanji i neposredno nakon obroka.",
+          "bullets": [
+            "Disanje kroz stisnute usne: dulji izdisaj, otvoreni dišni putovi, manje zarobljavanja zraka",
+            "Aktivni ciklus tehnika disanja: kontrola disanja, širenje prsnog koša, forsirani izdisaj (huffing)",
+            "Posturalna drenaža, perkusija, vibracija i PEP uređaji za uklanjanje sekreta",
+            "Praćenje saturacije pulsnim oksimetrom, doziranje prema Borgovoj ljestvici",
+            "Bez položaja s glavom dolje kod hemoptize, hipertenzije, nedavnog infarkta i nakon obroka"
+          ]
+        },
+        {
+          "heading": "Kardiovaskularna rehabilitacija nakon infarkta miokarda",
+          "body": "Infarkt miokarda odumiranje je (nekroza) dijela srčanog mišića zbog naglog prekida protoka krvi kroz koronarnu arteriju, najčešće zbog pucanja aterosklerotskog plaka i stvaranja ugruška. Tipičan je simptom jaka stezajuća bol iza prsne kosti koja traje dulje od 20 minuta, širi se u lijevu ruku, vrat, donju čeljust ili leđa i ne popušta u mirovanju ni nakon nitroglicerina; prate je zaduha, hladan znoj, mučnina i strah. U starijih osoba i dijabetičara infarkt može proći bez boli. Liječi se hitnim otvaranjem arterije (perkutana koronarna intervencija s ugradnjom stenta ili tromboliza) te lijekovima (antiagregacijski lijekovi, beta-blokatori, statini). Čimbenici rizika jesu pušenje, hipertenzija, povišene masnoće u krvi, šećerna bolest, pretilost, tjelesna neaktivnost, stres i nasljeđe.\n\nKardiovaskularna rehabilitacija provodi se u tri faze. Prva, bolnička faza počinje nakon stabilizacije stanja, obično već prvi ili drugi dan: vježbe disanja, aktivno razgibavanje udova u krevetu, posjedanje, ustajanje, hod po sobi i hodniku te prije otpusta penjanje stubama. Aktivnosti su niskog intenziteta, a puls tijekom njih ne smije porasti za više od oko 20 otkucaja u minuti iznad vrijednosti u mirovanju. Druga faza (rana rehabilitacija nakon otpusta, ambulantno ili u specijaliziranoj ustanovi) traje nekoliko tjedana do tri mjeseca: nadzirani aerobni trening tri do pet puta tjedno doziran prema ergometrijskom testu opterećenja, uz vježbe snage s malim otporom, edukaciju i promjenu životnih navika. Treća faza jest doživotno samostalno održavanje tjelesne aktivnosti i zdravih navika.\n\nSvaki trening ima zagrijavanje i smirivanje, jer nagli početak ili prekid napora pogoduje poremećajima ritma i padu tlaka. Intenzitet se određuje postotkom rezerve srčane frekvencije izmjerene na ergometriji ili Borgovom ljestvicom (11 do 13 od 20: lagano do pomalo naporno); kod bolesnika na beta-blokatorima puls raste manje pa se intenzitet dozira prema osjećaju napora. Izbjegavaju se izometrijski napori i zadržavanje daha (Valsalvin manevar), vježbanje neposredno nakon obilnog obroka te na velikoj vrućini ili hladnoći, a nitroglicerin je uvijek pri ruci.\n\nVježbanje se odmah prekida pri boli ili stezanju u prsima, jakoj zaduhi, vrtoglavici, bljedoći, hladnom znoju, mučnini, poremećaju ritma, neprimjerenom porastu pulsa ili padu sistoličkog tlaka unatoč povećanju opterećenja. Kontraindikacije za trening jesu nestabilna angina, dekompenzirano zatajivanje srca, nekontrolirane aritmije, akutni miokarditis i teška aortna stenoza. Nakon operacije premošćivanja s otvaranjem prsnog koša najmanje šest do osam tjedana izbjegavaju se podizanje tereta i oslanjanje na ruke dok prsna kost ne zacijeli.",
+          "bullets": [
+            "Faza I (bolnička): disanje, razgibavanje, posjedanje, hod, stube; puls do 20 otkucaja iznad mirovanja",
+            "Faza II: nadzirani aerobni trening doziran ergometrijom, 3 do 5 puta tjedno, edukacija",
+            "Faza III: doživotno samostalno vježbanje i zdrave navike",
+            "Prekid vježbanja: bol u prsima, jaka zaduha, vrtoglavica, hladan znoj, aritmija, pad tlaka",
+            "Bez izometrije i zadržavanja daha; Borg 11 do 13; zagrijavanje i smirivanje obvezni"
+          ]
+        }
+      ],
+      "key_points": [
+        "Prijelom cijeli kroz faze hematoma i upale, mekog kalusa, tvrdog kalusa i remodeliranja; imobilizacija obuhvaća zglob iznad i ispod prijeloma, a slobodni zglobovi vježbaju se od početka.",
+        "Jaka bol, bljedoća ili modrilo, hladnoća, trnci i nepokretni prsti ispod sadrenog zavoja znakovi su ugrožene cirkulacije i traže hitno rasijecanje zavoja.",
+        "Nakon endoproteze kuka stražnjim pristupom zabranjeni su fleksija preko 90 stupnjeva, adukcija preko sredine i unutarnja rotacija; pomagalo se nosi u suprotnoj ruci.",
+        "Nakon endoproteze koljena prioritet su puna ekstenzija i fleksija od najmanje 90 stupnjeva; jastuk ide pod petu, nikada pod koljeno.",
+        "Kod KOPB-a disanje kroz stisnute usne i aktivni ciklus tehnika disanja smanjuju zaduhu i čiste dišne putove; vježbanje se dozira Borgovom ljestvicom uz praćenje saturacije.",
+        "Rehabilitacija nakon infarkta ima bolničku, ranu izvanbolničku i doživotnu fazu; bol u prsima, vrtoglavica, hladan znoj ili pad tlaka pri naporu znače trenutni prekid vježbanja."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "km-001",
+      "lesson_id": "mozdani-udar",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Oštećenje lijeve moždane hemisfere kod moždanog udara kod većine bolesnika uzrokuje:",
+      "options": [
+        {
+          "id": "a",
+          "text": "desnostranu hemiparezu i često afaziju"
+        },
+        {
+          "id": "b",
+          "text": "lijevostranu hemiparezu i često zanemarivanje (neglekt)"
+        },
+        {
+          "id": "c",
+          "text": "obostranu slabost nogu bez poremećaja govora"
+        },
+        {
+          "id": "d",
+          "text": "lijevostranu hemiparezu i često afaziju"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Piramidni putovi križaju se u produženoj moždini pa je hemipareza na strani suprotnoj oštećenoj hemisferi, a lijeva je hemisfera kod većine ljudi dominantna za jezik, pa je česta i afazija. Lijevostrana hemipareza sa zanemarivanjem obilježje je oštećenja desne hemisfere.",
+      "tags": [
+        "moždani udar",
+        "hemipareza"
+      ]
+    },
+    {
+      "id": "km-002",
+      "lesson_id": "mozdani-udar",
+      "type": "true_false",
+      "difficulty": 1,
+      "text": "Prolazni ishemijski napad (TIA) kratkotrajna je ishemija mozga kod koje se simptomi u potpunosti povuku unutar 24 sata.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "t"
+      ],
+      "explanation": "TIA je prolazna ishemija sa simptomima koji potpuno nestaju unutar 24 sata. Unatoč povlačenju simptoma ozbiljan je znak upozorenja koji zahtijeva hitnu obradu, jer najavljuje moždani udar.",
+      "tags": [
+        "tia",
+        "moždani udar"
+      ]
+    },
+    {
+      "id": "km-003",
+      "lesson_id": "mozdani-udar",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Koji je tipičan spastični obrazac na nozi nakon moždanog udara?",
+      "options": [
+        {
+          "id": "a",
+          "text": "ispruženo koljeno sa stopalom u plantarnoj fleksiji i inverziji"
+        },
+        {
+          "id": "b",
+          "text": "savijeno koljeno sa stopalom u dorzalnoj fleksiji"
+        },
+        {
+          "id": "c",
+          "text": "savijen kuk i koljeno sa stopalom u everziji"
+        },
+        {
+          "id": "d",
+          "text": "ispruženo koljeno sa stopalom u dorzalnoj fleksiji i everziji"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Na nozi prevladava ekstenzijska sinergija: kuk je ispružen i privučen, koljeno ispruženo, a stopalo u plantarnoj fleksiji i inverziji (ekvinovarus). Zato bolesnik ne može saviti koljeno pa nogu pri hodu zabacuje u luku (cirkumdukcija).",
+      "tags": [
+        "spastičnost",
+        "hemipareza"
+      ]
+    },
+    {
+      "id": "km-004",
+      "lesson_id": "mozdani-udar",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Koji su znakovi oštećenja gornjeg motoričkog neurona prisutni u spastičnoj fazi nakon moždanog udara?",
+      "options": [
+        {
+          "id": "a",
+          "text": "pojačani tetivni refleksi"
+        },
+        {
+          "id": "b",
+          "text": "klonus"
+        },
+        {
+          "id": "c",
+          "text": "pozitivan Babinskijev znak"
+        },
+        {
+          "id": "d",
+          "text": "snižen mišićni tonus (hipotonija)"
+        },
+        {
+          "id": "e",
+          "text": "ugašeni tetivni refleksi"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c"
+      ],
+      "explanation": "Kada se nakon početne mlohavosti razvije spastičnost, javljaju se pojačani tetivni refleksi, klonus i pozitivan Babinskijev znak, što su znakovi oštećenja gornjeg motoričkog neurona. Snižen tonus i ugašeni refleksi obilježavaju mlohavu fazu neposredno nakon udara.",
+      "tags": [
+        "spastičnost",
+        "moždani udar"
+      ]
+    },
+    {
+      "id": "km-005",
+      "lesson_id": "mozdani-udar",
+      "type": "single",
+      "difficulty": 1,
+      "text": "U kojem se razdoblju nakon moždanog udara događa najveći dio neurološkog oporavka?",
+      "options": [
+        {
+          "id": "a",
+          "text": "u prva tri mjeseca"
+        },
+        {
+          "id": "b",
+          "text": "između šestog i dvanaestog mjeseca"
+        },
+        {
+          "id": "c",
+          "text": "u drugoj godini nakon udara"
+        },
+        {
+          "id": "d",
+          "text": "tek nakon završetka spastične faze"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Najveći dio oporavka događa se u prva tri mjeseca, a oporavak se može nastaviti do šest mjeseci i dulje. Zato rehabilitacija počinje rano, intenzivno i s mnogo ponavljanja, čime se potiče neuroplastičnost.",
+      "tags": [
+        "rehabilitacija",
+        "moždani udar"
+      ]
+    },
+    {
+      "id": "km-006",
+      "lesson_id": "mozdani-udar",
+      "type": "single",
+      "difficulty": 3,
+      "text": "Kojom se ljestvicom ocjenjuje samostalnost bolesnika u aktivnostima svakodnevnog života (hranjenje, oblačenje, kupanje, prijenosi, kontrola sfinktera)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Barthelovim indeksom"
+        },
+        {
+          "id": "b",
+          "text": "modificiranom Rankinovom ljestvicom"
+        },
+        {
+          "id": "c",
+          "text": "Bergovom ljestvicom"
+        },
+        {
+          "id": "d",
+          "text": "ljestvicom ASIA"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Barthelov indeks ocjenjuje samostalnost u aktivnostima svakodnevnog života. Modificirana Rankinova ljestvica mjeri ukupni stupanj onesposobljenosti, Bergova ljestvica ravnotežu, a ljestvica ASIA stupanj ozljede kralježnične moždine.",
+      "tags": [
+        "ljestvice",
+        "rehabilitacija"
+      ]
+    },
+    {
+      "id": "km-007",
+      "lesson_id": "mozdani-udar",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Kako bolesnik s hemiparezom pravilno svladava stube?",
+      "options": [
+        {
+          "id": "a",
+          "text": "penje se zdravom nogom prvom, a silazi paretičnom nogom prvom"
+        },
+        {
+          "id": "b",
+          "text": "penje se paretičnom nogom prvom, a silazi zdravom nogom prvom"
+        },
+        {
+          "id": "c",
+          "text": "i penje se i silazi uvijek zdravom nogom prvom"
+        },
+        {
+          "id": "d",
+          "text": "i penje se i silazi uvijek paretičnom nogom prvom"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Na stube se penje tako da prvo kroči zdrava noga, a silazi tako da prvo kroči paretična noga, uz pridržavanje za rukohvat. Isto pravilo vrijedi nakon endoproteze kuka: gore zdrava noga prva, dolje operirana noga prva.",
+      "tags": [
+        "hod",
+        "stube"
+      ]
+    },
+    {
+      "id": "km-008",
+      "lesson_id": "mozdani-udar",
+      "type": "true_false",
+      "difficulty": 3,
+      "text": "Vježbe povlačenja paretične ruke iznad glave pomoću koloture preporučuju se za održavanje pokretljivosti ramena nakon moždanog udara.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "f"
+      ],
+      "explanation": "Vježbe s koloturom iznad glave nisu prikladne, jer se ruka podiže bez pratećeg pokreta lopatice pa se tkiva u ramenu prignječe i razvija se bolno rame. Rame se pasivno podiže iznad vodoravne ravnine samo uz vanjsku rotaciju i pokret lopatice.",
+      "tags": [
+        "rame",
+        "mjere opreza"
+      ]
+    },
+    {
+      "id": "km-009",
+      "lesson_id": "parkinson-ms-i-ozljede-mozdine",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Koji od navedenih simptoma NIJE jedan od četiriju glavnih (kardinalnih) simptoma Parkinsonove bolesti?",
+      "options": [
+        {
+          "id": "a",
+          "text": "intencijski tremor"
+        },
+        {
+          "id": "b",
+          "text": "rigidnost"
+        },
+        {
+          "id": "c",
+          "text": "bradikinezija"
+        },
+        {
+          "id": "d",
+          "text": "posturalna nestabilnost"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Kardinalni simptomi Parkinsonove bolesti jesu tremor u mirovanju, rigidnost, bradikinezija i posturalna nestabilnost. Intencijski tremor, drhtanje pri ciljanom pokretu, obilježje je multiple skleroze, dok se parkinsonski tremor javlja u mirovanju i smanjuje pri voljnom pokretu.",
+      "tags": [
+        "parkinsonova bolest",
+        "simptomi"
+      ]
+    },
+    {
+      "id": "km-010",
+      "lesson_id": "parkinson-ms-i-ozljede-mozdine",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Koji postupci pomažu bolesniku s Parkinsonovom bolešću da započne i održi pokret?",
+      "options": [
+        {
+          "id": "a",
+          "text": "crte nalijepljene na pod koje treba prekoračiti"
+        },
+        {
+          "id": "b",
+          "text": "ritam metronoma ili glasno brojanje"
+        },
+        {
+          "id": "c",
+          "text": "razlaganje složene radnje u niz jednostavnih koraka"
+        },
+        {
+          "id": "d",
+          "text": "istodobno izvođenje dvaju zadataka, primjerice hod uz razgovor"
+        },
+        {
+          "id": "e",
+          "text": "naglo okretanje na mjestu"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c"
+      ],
+      "explanation": "Zbog oštećenog automatizma pokreta bolesnik pokret izvodi svjesno uz vanjske podražaje (cueing): vizualne (crte na podu), slušne (metronom, brojanje) i kognitivne strategije (razlaganje radnje u korake). Dvojni zadaci izazivaju zamrzavanje, a okreće se po širokom luku, nikad naglo na mjestu.",
+      "tags": [
+        "parkinsonova bolest",
+        "cueing"
+      ]
+    },
+    {
+      "id": "km-011",
+      "lesson_id": "parkinson-ms-i-ozljede-mozdine",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Kada treba planirati fizioterapiju bolesnika s uznapredovalom Parkinsonovom bolešću koji se liječi levodopom?",
+      "options": [
+        {
+          "id": "a",
+          "text": "u fazi dobrog djelovanja lijeka (faza uključenosti, on)"
+        },
+        {
+          "id": "b",
+          "text": "neposredno prije uzimanja sljedeće doze lijeka"
+        },
+        {
+          "id": "c",
+          "text": "u fazi isključenosti (off), kada je pokretljivost najmanja"
+        },
+        {
+          "id": "d",
+          "text": "tijekom diskinezija na vrhuncu djelovanja lijeka"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Nakon više godina liječenja učinak levodope postaje promjenjiv: u fazi uključenosti bolesnik se kreće razmjerno dobro, a u fazi isključenosti pokretljivost naglo pada. Fizioterapija se zato planira u fazi dobrog djelovanja lijeka, a bilježi se vrijeme uzimanja terapije.",
+      "tags": [
+        "parkinsonova bolest",
+        "levodopa"
+      ]
+    },
+    {
+      "id": "km-012",
+      "lesson_id": "parkinson-ms-i-ozljede-mozdine",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Što je Uhthoffov fenomen kod multiple skleroze?",
+      "options": [
+        {
+          "id": "a",
+          "text": "privremeno pogoršanje simptoma pri porastu tjelesne temperature"
+        },
+        {
+          "id": "b",
+          "text": "trajno pogoršanje onesposobljenosti nakon svakog relapsa"
+        },
+        {
+          "id": "c",
+          "text": "drhtanje koje se javlja pri ciljanom pokretu"
+        },
+        {
+          "id": "d",
+          "text": "bol pri pokretu oka zbog upale vidnog živca"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Uhthoffov fenomen privremeno je pogoršanje simptoma pri porastu tjelesne temperature, bilo zbog vrućine, vrućice, tople kupke ili pretjeranog napora. Zato se vježba u hladnijem dijelu dana i prohladnoj prostoriji, a hidroterapija se provodi samo u vodi koja nije topla.",
+      "tags": [
+        "multipla skleroza",
+        "uhthoffov fenomen"
+      ]
+    },
+    {
+      "id": "km-013",
+      "lesson_id": "parkinson-ms-i-ozljede-mozdine",
+      "type": "true_false",
+      "difficulty": 2,
+      "text": "Tijekom akutnog relapsa multiple skleroze intenzivno se vježbanje nastavlja nepromijenjenim intenzitetom kako bi se spriječio gubitak snage.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "f"
+      ],
+      "explanation": "Za vrijeme relapsa intenzivno se vježbanje prekida i provode se samo pozicioniranje i blago razgibavanje. I izvan relapsa vježbanje se dozira submaksimalno, s čestim odmorima, jer umor pogoršava simptome.",
+      "tags": [
+        "multipla skleroza",
+        "relaps"
+      ]
+    },
+    {
+      "id": "km-014",
+      "lesson_id": "parkinson-ms-i-ozljede-mozdine",
+      "type": "single",
+      "difficulty": 3,
+      "text": "Bolesnik s potpunom ozljedom kralježnične moždine može ispružiti lakat (triceps) i samostalno izvodi prijenose, ali nema funkciju šake. Koja je najvjerojatnija neurološka razina ozljede?",
+      "options": [
+        {
+          "id": "a",
+          "text": "C7"
+        },
+        {
+          "id": "b",
+          "text": "C5"
+        },
+        {
+          "id": "c",
+          "text": "C6"
+        },
+        {
+          "id": "d",
+          "text": "T1"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Očuvani segment C7 daje ispružanje lakta (triceps), koje omogućuje samostalne prijenose, dok funkciju šake daju segmenti C8 i T1. Razina C5 daje tek pregibanje lakta, a C6 ispružanje ručnog zgloba i tenodezni hvat, bez tricepsa.",
+      "tags": [
+        "ozljeda kralježnične moždine",
+        "razine"
+      ]
+    },
+    {
+      "id": "km-015",
+      "lesson_id": "parkinson-ms-i-ozljede-mozdine",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Koji su znakovi autonomne disrefleksije kod bolesnika s ozljedom kralježnične moždine na razini T6 ili iznad?",
+      "options": [
+        {
+          "id": "a",
+          "text": "nagli opasni porast krvnog tlaka"
+        },
+        {
+          "id": "b",
+          "text": "lupajuća glavobolja"
+        },
+        {
+          "id": "c",
+          "text": "znojenje i crvenilo iznad razine lezije"
+        },
+        {
+          "id": "d",
+          "text": "ubrzan puls (tahikardija)"
+        },
+        {
+          "id": "e",
+          "text": "nagli pad krvnog tlaka pri uspravljanju"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c"
+      ],
+      "explanation": "Autonomna disrefleksija nagli je opasni porast krvnog tlaka s lupajućom glavoboljom, znojenjem i crvenilom iznad razine lezije te usporenim, a ne ubrzanim pulsom, najčešće zbog punog mokraćnog mjehura ili zatvora. Nagli pad tlaka pri uspravljanju jest ortostatska hipotenzija, druga česta komplikacija.",
+      "tags": [
+        "autonomna disrefleksija",
+        "ozljeda kralježnične moždine"
+      ]
+    },
+    {
+      "id": "km-016",
+      "lesson_id": "parkinson-ms-i-ozljede-mozdine",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Koliko često bolesnik u invalidskim kolicima nakon ozljede kralježnične moždine treba rasteretiti sjednu površinu podizanjem na rukama ili naginjanjem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "svakih 15 do 30 minuta"
+        },
+        {
+          "id": "b",
+          "text": "svaka dva do tri sata"
+        },
+        {
+          "id": "c",
+          "text": "dvaput dnevno, prijepodne i poslijepodne"
+        },
+        {
+          "id": "d",
+          "text": "samo kada osjeti bol u sjednom području"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Sjedna površina rasterećuje se svakih 15 do 30 minuta radi sprječavanja dekubitusa, dok se položaj u krevetu mijenja svaka dva sata. Ispod razine lezije osjet je oštećen pa se bolesnik ne može osloniti na osjećaj boli ili pritiska.",
+      "tags": [
+        "dekubitus",
+        "invalidska kolica"
+      ]
+    },
+    {
+      "id": "km-017",
+      "lesson_id": "reumatske-bolesti-i-bolna-leda",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Koje zglobove reumatoidni artritis tipično zahvaća?",
+      "options": [
+        {
+          "id": "a",
+          "text": "simetrično male zglobove šaka i stopala (MCP, PIP, ručni zglob)"
+        },
+        {
+          "id": "b",
+          "text": "asimetrično distalne interfalangealne (DIP) zglobove"
+        },
+        {
+          "id": "c",
+          "text": "samo velike zglobove nosače, kuk i koljeno"
+        },
+        {
+          "id": "d",
+          "text": "isključivo zglobove slabinske kralježnice"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Reumatoidni artritis simetrično zahvaća male zglobove šaka i stopala (MCP, PIP i ručne zglobove), dok DIP zglobovi obično ostaju pošteđeni. Asimetrično zahvaćanje DIP zglobova s Heberdenovim čvorićima obilježje je osteoartritisa.",
+      "tags": [
+        "reumatoidni artritis"
+      ]
+    },
+    {
+      "id": "km-018",
+      "lesson_id": "reumatske-bolesti-i-bolna-leda",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Koja obilježja upućuju na osteoartritis, a ne na reumatoidni artritis?",
+      "options": [
+        {
+          "id": "a",
+          "text": "jutarnja ukočenost kraća od 30 minuta"
+        },
+        {
+          "id": "b",
+          "text": "Heberdenovi čvorići na DIP zglobovima"
+        },
+        {
+          "id": "c",
+          "text": "bol koja se javlja pri opterećenju, a smiruje u mirovanju"
+        },
+        {
+          "id": "d",
+          "text": "simetrični artritis MCP zglobova s jutarnjom ukočenošću duljom od sat vremena"
+        },
+        {
+          "id": "e",
+          "text": "opći simptomi poput umora, povišene temperature i gubitka težine"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c"
+      ],
+      "explanation": "Osteoartritis daje mehaničku bol pri opterećenju, kratkotrajnu ukočenost nakon mirovanja (manje od 30 minuta) i Heberdenove čvoriće na DIP zglobovima, bez općih simptoma. Simetrični artritis MCP zglobova, ukočenost dulja od sat vremena i opći simptomi obilježja su reumatoidnog artritisa.",
+      "tags": [
+        "osteoartritis",
+        "reumatoidni artritis"
+      ]
+    },
+    {
+      "id": "km-019",
+      "lesson_id": "reumatske-bolesti-i-bolna-leda",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Koji je prikladan fizioterapijski postupak za akutno upaljen, otečen i topao zglob kod reumatoidnog artritisa?",
+      "options": [
+        {
+          "id": "a",
+          "text": "mirovanje u funkcionalnom položaju, hladni oblozi i izometrijske vježbe"
+        },
+        {
+          "id": "b",
+          "text": "parafinske kupke i dinamičke vježbe s otporom"
+        },
+        {
+          "id": "c",
+          "text": "snažno pasivno istezanje do kraja opsega pokreta"
+        },
+        {
+          "id": "d",
+          "text": "vježbe s opterećenjem za jačanje okolnih mišića"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "U egzacerbaciji upaljeni zglob miruje u funkcionalnom položaju, hladi se oblozima koji smanjuju bol i oteklinu, a snaga se čuva izometrijskim kontrakcijama koje ne pokreću zglob. Toplina i otpor pojačavaju upalu, a grubo istezanje može izazvati subluksaciju oslabljenog zgloba.",
+      "tags": [
+        "reumatoidni artritis",
+        "akutna faza"
+      ]
+    },
+    {
+      "id": "km-020",
+      "lesson_id": "reumatske-bolesti-i-bolna-leda",
+      "type": "true_false",
+      "difficulty": 3,
+      "text": "Kod bolesnika s reumatoidnim artritisom manipulacija vratne kralježnice sigurna je ako bolesnik nema tegoba s vratom.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "f"
+      ],
+      "explanation": "Razaranje ligamenata može izazvati atlantoaksijalnu nestabilnost (C1–C2), koja može biti bez ikakvih simptoma. Manipulacija ili forsirana fleksija vrata tada može pritisnuti kralježničnu moždinu i izazvati teško neurološko oštećenje, pa se kod reumatoidnog artritisa ne izvode.",
+      "tags": [
+        "reumatoidni artritis",
+        "vratna kralježnica"
+      ]
+    },
+    {
+      "id": "km-021",
+      "lesson_id": "reumatske-bolesti-i-bolna-leda",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Prema trajanju, kronični lumbalni bolni sindrom jest bol u križima koja traje:",
+      "options": [
+        {
+          "id": "a",
+          "text": "dulje od 12 tjedana"
+        },
+        {
+          "id": "b",
+          "text": "dulje od 6 tjedana"
+        },
+        {
+          "id": "c",
+          "text": "dulje od 2 tjedna"
+        },
+        {
+          "id": "d",
+          "text": "dulje od 6 mjeseci"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Akutna križobolja traje do šest tjedana, subakutna od šest do dvanaest tjedana, a kroničnom se naziva bol koja traje dulje od dvanaest tjedana. Kod kronične boli naglasak je na vježbanju i kognitivno-bihevioralnom pristupu, a ne na dugotrajnim pasivnim postupcima.",
+      "tags": [
+        "križobolja"
+      ]
+    },
+    {
+      "id": "km-022",
+      "lesson_id": "reumatske-bolesti-i-bolna-leda",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Koji nalazi kod bolesnika s križoboljom predstavljaju crvene zastavice koje zahtijevaju hitnu liječničku obradu?",
+      "options": [
+        {
+          "id": "a",
+          "text": "poremećaj kontrole mokrenja ili stolice"
+        },
+        {
+          "id": "b",
+          "text": "utrnulost u području sedla i obostrana slabost nogu"
+        },
+        {
+          "id": "c",
+          "text": "neobjašnjen gubitak tjelesne težine uz vrućicu"
+        },
+        {
+          "id": "d",
+          "text": "bol koja se pojačava pri dugotrajnom sjedenju"
+        },
+        {
+          "id": "e",
+          "text": "bol koja popušta u rasteretnom položaju sa savijenim kukovima i koljenima"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c"
+      ],
+      "explanation": "Smetnje sfinktera, utrnulost sedla i obostrana slabost nogu upućuju na sindrom konjskog repa, a neobjašnjen gubitak težine i vrućica na ozbiljan uzrok poput infekcije ili tumora; sve to zahtijeva hitnu obradu. Bol koja ovisi o položaju, pojačava se sjedenjem i popušta u rasteretnom položaju tipična je za nespecifičnu, dobroćudnu križobolju.",
+      "tags": [
+        "križobolja",
+        "crvene zastavice"
+      ]
+    },
+    {
+      "id": "km-023",
+      "lesson_id": "reumatske-bolesti-i-bolna-leda",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Posterolateralna hernija diska u segmentu L5–S1 najčešće pritišće korijen:",
+      "options": [
+        {
+          "id": "a",
+          "text": "S1"
+        },
+        {
+          "id": "b",
+          "text": "L5"
+        },
+        {
+          "id": "c",
+          "text": "L4"
+        },
+        {
+          "id": "d",
+          "text": "S2"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Posterolateralna hernija pritišće korijen živca koji izlazi u sljedećem segmentu: hernija L5–S1 najčešće pritišće korijen S1, a hernija L4–L5 korijen L5. Oštećenje korijena S1 prepoznaje se po slabosti plantarne fleksije i oslabljenom Ahilovu refleksu.",
+      "tags": [
+        "hernija diska",
+        "korijen živca"
+      ]
+    },
+    {
+      "id": "km-024",
+      "lesson_id": "reumatske-bolesti-i-bolna-leda",
+      "type": "true_false",
+      "difficulty": 1,
+      "text": "Slabost plantarne fleksije stopala s otežanim hodom na prstima i oslabljen Ahilov refleks upućuju na oštećenje korijena S1.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "t"
+      ],
+      "explanation": "Korijen S1 daje plantarnu fleksiju stopala i Ahilov refleks, pa njegovo oštećenje otežava hod na prstima. Oštećenje korijena L5 daje slabost dorzalne fleksije stopala i palca s otežanim hodom na petama.",
+      "tags": [
+        "hernija diska",
+        "lumboishialgija"
+      ]
+    },
+    {
+      "id": "km-025",
+      "lesson_id": "prijelomi-endoproteze-kopb-i-srce",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Kojim redoslijedom teku faze cijeljenja prijeloma uz imobilizaciju?",
+      "options": [
+        {
+          "id": "a",
+          "text": "hematom i upala, meki kalus, tvrdi kalus, remodeliranje"
+        },
+        {
+          "id": "b",
+          "text": "meki kalus, hematom i upala, tvrdi kalus, remodeliranje"
+        },
+        {
+          "id": "c",
+          "text": "hematom i upala, tvrdi kalus, meki kalus, remodeliranje"
+        },
+        {
+          "id": "d",
+          "text": "remodeliranje, meki kalus, tvrdi kalus, hematom i upala"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Najprije se između ulomaka stvara hematom s upalnom reakcijom, zatim ga zamjenjuje vezivno-hrskavični meki kalus, koji se okoštava u tvrdi kalus, a na kraju se nezrela kost tijekom remodeliranja pregrađuje u lamelarnu kost prema opterećenju.",
+      "tags": [
+        "prijelomi",
+        "cijeljenje"
+      ]
+    },
+    {
+      "id": "km-026",
+      "lesson_id": "prijelomi-endoproteze-kopb-i-srce",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Koji znakovi nakon postavljanja sadrenog zavoja upućuju na ugroženu cirkulaciju i zahtijevaju hitno rasijecanje zavoja?",
+      "options": [
+        {
+          "id": "a",
+          "text": "jaka bol koja ne popušta na lijekove ni podizanje uda"
+        },
+        {
+          "id": "b",
+          "text": "bljedoća ili modrilo i hladnoća prstiju"
+        },
+        {
+          "id": "c",
+          "text": "trnci, utrnulost i nemogućnost pokretanja prstiju"
+        },
+        {
+          "id": "d",
+          "text": "blagi svrbež kože ispod zavoja"
+        },
+        {
+          "id": "e",
+          "text": "umjerena oteklina prstiju koja se povlači nakon podizanja uda"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c"
+      ],
+      "explanation": "U prvim danima oteklina pod zavojem može stisnuti tkiva: jaka bol koja ne popušta, bljedoća ili modrilo, hladnoća, trnci i nepokretni prsti znakovi su ugrožene cirkulacije koje bolesnik mora odmah prijaviti. Svrbež i oteklina koja se povlači nakon elevacije nisu znakovi ugrožene cirkulacije.",
+      "tags": [
+        "prijelomi",
+        "sadreni zavoj"
+      ]
+    },
+    {
+      "id": "km-027",
+      "lesson_id": "prijelomi-endoproteze-kopb-i-srce",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Koji je pokret zabranjen u prvim tjednima nakon ugradnje totalne endoproteze kuka stražnjim (posterolateralnim) pristupom?",
+      "options": [
+        {
+          "id": "a",
+          "text": "savijanje kuka preko 90 stupnjeva"
+        },
+        {
+          "id": "b",
+          "text": "izometrijska kontrakcija četveroglavog mišića"
+        },
+        {
+          "id": "c",
+          "text": "odmicanje (abdukcija) kuka u ležanju na leđima"
+        },
+        {
+          "id": "d",
+          "text": "pumpanje stopalima (dorzalna i plantarna fleksija)"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Nakon stražnjeg pristupa zabranjeni su fleksija kuka preko 90 stupnjeva, adukcija preko središnje crte i unutarnja rotacija, jer u tim položajima endoproteza može iskočiti dok čahura i mišići nisu zacijelili. Izometrija kvadricepsa, abdukcija i pumpanje stopalima dio su rane rehabilitacije od prvoga dana.",
+      "tags": [
+        "endoproteza kuka",
+        "mjere opreza"
+      ]
+    },
+    {
+      "id": "km-028",
+      "lesson_id": "prijelomi-endoproteze-kopb-i-srce",
+      "type": "true_false",
+      "difficulty": 2,
+      "text": "Nakon ugradnje endoproteze koljena koljeno se u krevetu drži savijeno na jastuku kako bi se smanjila bol.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "f"
+      ],
+      "explanation": "Koljeno se nikada ne podlaže jastukom ispod zgloba, jer bi se učvrstila fleksijska kontraktura; jastuk se stavlja pod petu. Rani su ciljevi puno ispružanje koljena i savijanje od najmanje 90 stupnjeva, a bol i oteklina smanjuju se hlađenjem i elevacijom.",
+      "tags": [
+        "endoproteza koljena"
+      ]
+    },
+    {
+      "id": "km-029",
+      "lesson_id": "prijelomi-endoproteze-kopb-i-srce",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Što se postiže disanjem kroz stisnute usne kod bolesnika s KOPB-om?",
+      "options": [
+        {
+          "id": "a",
+          "text": "produljuje se izdisaj i dišni putovi ostaju otvoreni, pa se smanjuju zarobljavanje zraka i zaduha"
+        },
+        {
+          "id": "b",
+          "text": "ubrzava se disanje i time povećava unos kisika"
+        },
+        {
+          "id": "c",
+          "text": "jačaju se udisajni mišići zbog povećanog otpora udisaju"
+        },
+        {
+          "id": "d",
+          "text": "potiče se iskašljavanje sekreta vibracijom dišnih putova"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Polagan izdisaj kroz lagano stisnute usne usporava disanje i održava dišne putove otvorenima tijekom izdisaja, čime se smanjuju zarobljavanje zraka i zaduha. Udisajni mišići jačaju se posebnim treningom, a sekret se uklanja aktivnim ciklusom tehnika disanja, posturalnom drenažom i vibracijom.",
+      "tags": [
+        "kopb",
+        "tehnike disanja"
+      ]
+    },
+    {
+      "id": "km-030",
+      "lesson_id": "prijelomi-endoproteze-kopb-i-srce",
+      "type": "single",
+      "difficulty": 3,
+      "text": "Kod kojeg je stanja posturalna drenaža u položaju s glavom niže od tijela kontraindicirana?",
+      "options": [
+        {
+          "id": "a",
+          "text": "kod nedavnog infarkta miokarda"
+        },
+        {
+          "id": "b",
+          "text": "kod kroničnog bronhitisa s obilnim iskašljavanjem"
+        },
+        {
+          "id": "c",
+          "text": "kod emfizema s hiperinflacijom pluća"
+        },
+        {
+          "id": "d",
+          "text": "kod bačvastog prsnog koša u uznapredovalom KOPB-u"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Položaji s glavom niže od tijela kontraindicirani su kod iskašljavanja krvi, nekontrolirane hipertenzije, nedavnog infarkta miokarda, zatajivanja srca, povišenog tlaka u lubanji i neposredno nakon obroka. Obilno iskašljavanje upravo je razlog za drenažu, a emfizem i bačvasti prsni koš sami po sebi je ne isključuju.",
+      "tags": [
+        "posturalna drenaža",
+        "kontraindikacije"
+      ]
+    },
+    {
+      "id": "km-031",
+      "lesson_id": "prijelomi-endoproteze-kopb-i-srce",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Koji znakovi tijekom vježbanja bolesnika nakon infarkta miokarda zahtijevaju trenutni prekid vježbanja?",
+      "options": [
+        {
+          "id": "a",
+          "text": "bol ili stezanje u prsima"
+        },
+        {
+          "id": "b",
+          "text": "vrtoglavica, bljedoća i hladan znoj"
+        },
+        {
+          "id": "c",
+          "text": "pad sistoličkog tlaka unatoč povećanju opterećenja"
+        },
+        {
+          "id": "d",
+          "text": "umjereno ubrzanje disanja uz mogućnost razgovora"
+        },
+        {
+          "id": "e",
+          "text": "blago znojenje i toplina kože"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c"
+      ],
+      "explanation": "Bol u prsima, vrtoglavica, bljedoća, hladan znoj, mučnina, poremećaj ritma, neprimjeren porast pulsa i pad sistoličkog tlaka pri povećanju opterećenja znakovi su koji zahtijevaju odmah prekid vježbanja. Umjereno ubrzano disanje uz mogućnost razgovora i blago znojenje nisu među znakovima za prekid, nego prate umjeren napor.",
+      "tags": [
+        "kardiovaskularna rehabilitacija",
+        "mjere opreza"
+      ]
+    },
+    {
+      "id": "km-032",
+      "lesson_id": "prijelomi-endoproteze-kopb-i-srce",
+      "type": "single",
+      "difficulty": 3,
+      "text": "U bolničkoj (prvoj) fazi kardiovaskularne rehabilitacije nakon infarkta miokarda puls tijekom aktivnosti smije porasti najviše:",
+      "options": [
+        {
+          "id": "a",
+          "text": "za oko 20 otkucaja u minuti iznad vrijednosti u mirovanju"
+        },
+        {
+          "id": "b",
+          "text": "do 85 posto maksimalne frekvencije za dob"
+        },
+        {
+          "id": "c",
+          "text": "za oko 50 otkucaja u minuti iznad vrijednosti u mirovanju"
+        },
+        {
+          "id": "d",
+          "text": "puls se u prvoj fazi ne ograničava, nego samo krvni tlak"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Aktivnosti bolničke faze (disanje, razgibavanje, posjedanje, hod, stube) niskog su intenziteta, a puls ne smije porasti za više od oko 20 otkucaja u minuti iznad vrijednosti u mirovanju. Doziranje prema rezervi srčane frekvencije s ergometrije pripada tek drugoj fazi, nakon otpusta.",
+      "tags": [
+        "kardiovaskularna rehabilitacija",
+        "infarkt miokarda"
+      ]
+    }
+  ]
+}

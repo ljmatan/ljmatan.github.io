@@ -1,0 +1,1331 @@
+{
+  "id": "anatomija-i-fiziologija",
+  "program_id": "fizioterapeut",
+  "title": "Anatomija i fiziologija",
+  "short_title": "Anatomija",
+  "description": "Građa i funkcija ljudskog tijela: stanice i tkiva, kosti i zglobovi, mišići i mehanizam mišićne kontrakcije, živčani sustav s refleksnim lukom te srce, krvotok, pluća i izmjena plinova.",
+  "color": "#E11D48",
+  "icon": "accessibility_new",
+  "year": 1,
+  "lessons": [
+    {
+      "id": "stanice-tkiva-i-kostani-sustav",
+      "title": "Stanice, tkiva i koštani sustav",
+      "summary": "Lekcija uvodi stanicu i četiri osnovne vrste tkiva te opisuje građu, vrste i uloge kostiju i podjelu zglobova prema pokretljivosti i obliku.",
+      "estimated_minutes": 11,
+      "sections": [
+        {
+          "heading": "Stanica: osnovna jedinica građe",
+          "body": "Stanica (cellula) najmanja je građevna i funkcionalna jedinica živog organizma. Ljudsko tijelo građeno je od golemog broja stanica različitih oblika i veličina, a sve potječu od jedne oplođene jajne stanice. Stanice su specijalizirane za pojedine zadaće: mišićne se stanice stežu, živčane prenose podražaje, a stanice žlijezda stvaraju i izlučuju tvari. Unatoč razlikama, sve stanice tijela dijele isti osnovni plan građe: staničnu membranu, citoplazmu i jezgru.\n\nStanična membrana (plazmalema) selektivno je propusna ovojnica koja odvaja unutrašnjost stanice od okoline i nadzire ulazak i izlazak tvari. Citoplazma ispunjava stanicu i u njoj se nalaze stanični organeli. Jezgra (nucleus) sadrži nasljednu tvar DNK i upravlja radom stanice. Mitohondriji su energetska središta stanice jer u njima nastaje adenozin-trifosfat (ATP), glavni izvor energije za sve stanične procese; mišićne stanice imaju ih osobito mnogo. Ribosomi sintetiziraju bjelančevine, a endoplazmatska mrežica i Golgijev aparat sudjeluju u njihovoj obradi i prijenosu.\n\nStanice iste građe i zadaće udružuju se u tkiva (textus), tkiva grade organe, a organi koji obavljaju zajedničku zadaću čine organske sustave. Razine organizacije tijela idu, dakle, od stanice preko tkiva i organa do organskog sustava i cijelog organizma. Srce je, primjerice, organ građen od mišićnog, vezivnog, živčanog i epitelnog tkiva, a zajedno s krvnim žilama čini krvožilni sustav."
+        },
+        {
+          "heading": "Osnovne vrste tkiva",
+          "body": "Tkivo je skup stanica slične građe i zadaće zajedno s međustaničnom tvari. U ljudskom tijelu razlikujemo četiri osnovne vrste tkiva: epitelno, vezivno, mišićno i živčano. Epitelno tkivo (epithelium) pokriva vanjsku površinu tijela i oblaže unutrašnjost šupljih organa i žlijezda; stanice su mu gusto zbijene, s vrlo malo međustanične tvari, i leže na bazalnoj membrani. Epitel štiti, upija tvari (crijevni epitel) i izlučuje (žljezdani epitel). Epitelno tkivo nema vlastitih krvnih žila, nego se hrani difuzijom iz vezivnog tkiva ispod sebe.\n\nVezivno tkivo (textus connectivus) najraširenije je tkivo u tijelu, a odlikuje ga obilje međustanične tvari s vlaknima, osobito kolagenim. Potporno vezivno tkivo obuhvaća hrskavicu i kost, a u vezivna tkiva ubrajamo i masno tkivo, rahlo i gusto vezivo (tetive, sveze) te krv kao tekuće vezivno tkivo. Vezivo povezuje, podupire i štiti druga tkiva. Za fizioterapeuta je važno da se gusto vezivo tetiva i sveza zbog slabije prokrvljenosti sporo cijeli.\n\nMišićno tkivo građeno je od stanica sposobnih za stezanje (kontrakciju) i obrađuje se u zasebnoj lekciji. Živčano tkivo građeno je od živčanih stanica (neurona) i potpornih stanica (neuroglija) te je specijalizirano za stvaranje i provođenje podražaja. Prepoznavanje vrste tkiva pomaže u razumijevanju ozljeda: uganuće (distorzija) zgloba s istegnućem ili puknućem sveze ozljeda je gustog vezivnog tkiva, a istegnuće (distenzija) mišića ozljeda mišićnog tkiva.",
+          "bullets": [
+            "Epitelno tkivo: pokriva i oblaže, štiti, upija i izlučuje; nema vlastitih krvnih žila",
+            "Vezivno tkivo: povezuje i podupire; obilje međustanične tvari (kost, hrskavica, tetive, sveze, masno tkivo, krv)",
+            "Mišićno tkivo: stezanje (kontrakcija) i pokret",
+            "Živčano tkivo: stvaranje i provođenje podražaja"
+          ]
+        },
+        {
+          "heading": "Građa i vrste kostiju",
+          "body": "Koštani sustav (systema skeletale) odraslog čovjeka čini 206 kostiju. Kosti daju tijelu oblik i potporu, štite unutarnje organe (lubanja štiti mozak, prsni koš srce i pluća), služe kao hvatišta mišićima i poluge za pokret, pohranjuju minerale, osobito kalcij i fosfor, a u crvenoj koštanoj srži stvaraju se krvne stanice (hematopoeza). Kostur dijelimo na osni (aksijalni) kostur, koji čine lubanja, kralježnica i prsni koš, i kostur udova (apendikularni), koji čine kosti gornjih i donjih udova s ramenim i zdjeličnim obručem.\n\nKost je živo tkivo koje se tijekom cijelog života pregrađuje: koštane stanice osteoblasti stvaraju novu kost, a osteoklasti razgrađuju staru. Zato kost nakon prijeloma može potpuno zacijeliti, a redovito opterećenje vježbanjem povećava njezinu čvrstoću. Izvana je kost obavijena pokosnicom (periost), vezivnom ovojnicom bogatom krvnim žilama i živcima, koja je odgovorna za rast kosti u širinu i za cijeljenje prijeloma. Ispod pokosnice nalazi se zbijena (kompaktna) kost, a u unutrašnjosti spužvasta (spongiozna) kost građena od koštanih gredica, između kojih je koštana srž.\n\nPrema obliku kosti dijelimo na duge, kratke, plosnate i nepravilne. Duge kosti, poput bedrene i nadlaktične kosti, imaju trup (dijafiza) i dva okrajka (epifize); u djece se između njih nalazi hrskavična ploča rasta (epifizna hrskavica), iz koje kost raste u duljinu. Kratke kosti, poput kostiju pešća i nožja, približno su jednako velike u svim smjerovima. Plosnate kosti, poput lopatice, prsne kosti i rebara, štite organe i pružaju široku površinu za hvatišta mišića, a nepravilne su kosti primjerice kralješci. Posebna su skupina sezamske kosti, uložene u tetive; najveći je iver (patela), uložen u tetivu četveroglavog bedrenog mišića.",
+          "bullets": [
+            "Duge kosti: trup (dijafiza) i dva okrajka (epifize); bedrena kost (femur), nadlaktična kost (humerus), palčana kost (radius), lakatna kost (ulna)",
+            "Kratke kosti: kosti pešća (ossa carpi) i nožja (ossa tarsi)",
+            "Plosnate kosti: lopatica (scapula), prsna kost (sternum), rebra, kosti krova lubanje",
+            "Nepravilne kosti: kralješci (vertebrae), klinasta kost (os sphenoidale)",
+            "Sezamske kosti: uložene u tetive; najveći je iver (patella)"
+          ],
+          "image": {
+            "file": "anatomija-i-fiziologija/kostur.jpg",
+            "caption": "Ljudski kostur u Muzeju osteologije u Oklahoma Cityju. Vide se duge kosti udova, plosnate kosti lubanje, prsne kosti i zdjelice te kralježnica složena od kralježaka.",
+            "credits": [
+              {
+                "title": "Human-Skeleton",
+                "author": "Sklmsta",
+                "source": "https://commons.wikimedia.org/wiki/File:Human-Skeleton.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Zglobovi i njihova podjela",
+          "body": "Zglob (articulatio) spoj je dviju ili više kostiju. Prema vrsti spoja i mogućnosti pokreta spojeve kostiju dijelimo na nepokretne, polupokretne i pokretne. Nepokretni spojevi (sinartroze) povezani su vezivnim tkivom ili hrskavicom i ne dopuštaju pokret; primjer su šavovi (suturae) između kostiju lubanje. Polupokretni spojevi (amfiartroze) dopuštaju samo neznatan pokret; primjer su spoj stidnih kostiju (simfiza) i spojevi između trupova kralježaka preko međukralježničnih ploča (intervertebralnih diskova). Pokretni zglobovi (diartroze) pravi su, sinovijalni zglobovi i omogućuju široke pokrete udova.\n\nPravi zglob ima zglobna tijela, u pravilu zglobnu glavu i zglobnu čašicu (u ravnim zglobovima obje su zglobne plohe gotovo ravne), prekrivena glatkom zglobnom (hijalinom) hrskavicom koja smanjuje trenje i ublažava udarce. Zglob zatvara zglobna čahura (capsula articularis); njezin unutarnji sloj, sinovijalna membrana, luči sinovijalnu tekućinu koja podmazuje zglob i hrani hrskavicu, jer hrskavica nema vlastitih krvnih žila. Zglob učvršćuju sveze (ligamenti), a u nekim zglobovima nalaze se i dodatne tvorbe: meniskusi u koljenu te zglobna usna (labrum) u ramenu i kuku. Uz zglobove leže sluzne vreće (burze), koje smanjuju trenje između tetiva, mišića i kosti.\n\nPokretne zglobove dijelimo prema obliku zglobnih tijela i prema broju osi oko kojih je pokret moguć. Kuglasti zglob (articulatio sphaeroidea) ima tri osi i dopušta pregibanje (fleksiju) i ispružanje (ekstenziju), odmicanje (abdukciju) i primicanje (adukciju) te rotacije; primjeri su rameni i kukovni zglob. Kutni ili šarnirski zglob (ginglymus) jednoosni je zglob koji dopušta samo pregibanje i ispružanje, primjerice zglob između nadlaktične i lakatne kosti u laktu te zglobovi među člancima prstiju (interfalangealni zglobovi).\n\nObrtni zglob (articulatio trochoidea) također je jednoosan, ali dopušta rotaciju; primjeri su zglob između prvog i drugog vratnog kralješka (atlantoaksijalni zglob), u kojem okrećemo glavu, i zglob između palčane i lakatne kosti, u kojem okrećemo podlakticu. Elipsoidni (jajoliki) zglob, kakav je ručni zglob, dvoosan je, a sedlasti zglob (articulatio sellaris) u korijenu palca također je dvoosan i omogućuje palcu suprotstavljanje (opoziciju). Ravni ili klizni zglobovi, primjerice između kostiju pešća, dopuštaju samo mala klizanja.",
+          "bullets": [
+            "Kuglasti zglob: tri osi; rameni zglob (articulatio humeri), kukovni zglob (articulatio coxae)",
+            "Kutni (šarnirski) zglob: jedna os, pregibanje i ispružanje; lakat (humeroulnarni zglob), interfalangealni zglobovi prstiju",
+            "Obrtni zglob: jedna os, rotacija; atlantoaksijalni zglob, proksimalni radioulnarni zglob",
+            "Elipsoidni zglob: dvije osi; ručni (radiokarpalni) zglob",
+            "Sedlasti zglob: dvije osi; karpometakarpalni zglob palca",
+            "Ravni (klizni) zglob: mala klizanja; zglobovi između kostiju pešća"
+          ]
+        }
+      ],
+      "key_points": [
+        "Stanica je osnovna građevna i funkcionalna jedinica tijela; stanice grade tkiva, tkiva organe, a organi organske sustave.",
+        "Četiri su osnovne vrste tkiva: epitelno, vezivno, mišićno i živčano; kost, hrskavica, tetive, sveze i krv ubrajaju se u vezivno tkivo.",
+        "Odrasli čovjek ima 206 kostiju; prema obliku razlikujemo duge, kratke, plosnate, nepravilne i sezamske kosti.",
+        "Duga kost ima dijafizu i dvije epifize; u duljinu raste iz epifizne hrskavice, a u širinu iz pokosnice (periosta), koja je važna i za cijeljenje prijeloma.",
+        "Spojevi kostiju dijele se na nepokretne (sinartroze), polupokretne (amfiartroze) i pokretne (diartroze, sinovijalni zglobovi).",
+        "Pokretni zglobovi prema obliku i broju osi: kuglasti (tri osi), elipsoidni i sedlasti (dvije osi), kutni i obrtni (jedna os), ravni (klizanje)."
+      ]
+    },
+    {
+      "id": "misicni-sustav",
+      "title": "Mišićni sustav i mišićna kontrakcija",
+      "summary": "Lekcija obrađuje tri vrste mišićnog tkiva, građu skeletnog mišića, mehanizam kontrakcije i vrste mišićnog rada te funkciju najvažnijih mišića trupa i udova.",
+      "estimated_minutes": 12,
+      "sections": [
+        {
+          "heading": "Vrste mišićnog tkiva",
+          "body": "Mišićno tkivo građeno je od stanica koje se mogu stezati (kontrahirati) i tako proizvoditi silu i pokret. Razlikujemo tri vrste: skeletno (poprečnoprugasto), glatko i srčano mišićno tkivo. Skeletni mišići pripojeni su tetivama na kosti, pod mikroskopom pokazuju poprečnu prugavost, a njihovim radom upravljamo voljno, preko somatskog živčanog sustava. Skeletni mišići čine velik dio tjelesne mase, otprilike 40 %, a osim pokreta održavaju držanje tijela i proizvode toplinu.\n\nGlatko mišićno tkivo nalazi se u stijenkama šupljih organa i krvnih žila: u probavnoj cijevi, mokraćnom mjehuru, maternici, dušnicama i arterijama. Stanice su mu vretenaste, s jednom jezgrom i bez poprečne prugavosti; stežu se sporo, dugotrajno i neovisno o našoj volji, pod nadzorom autonomnog živčanog sustava i hormona. Srčano mišićno tkivo (miokard) poprečnoprugasto je poput skeletnog, ali radi nevoljno i ritmično; njegove su stanice razgranate i međusobno povezane prijelaznim (interkalarnim) pločama, pa se podražaj brzo širi i srce se steže kao cjelina.",
+          "bullets": [
+            "Skeletno mišićno tkivo: poprečnoprugasto, voljno, dugačke višejezgrene stanice (vlakna), pripojeno tetivama na kosti",
+            "Glatko mišićno tkivo: bez prugavosti, nevoljno, vretenaste jednojezgrene stanice; stijenke šupljih organa i krvnih žila",
+            "Srčano mišićno tkivo: poprečnoprugasto, nevoljno i ritmično; razgranate stanice spojene interkalarnim pločama"
+          ]
+        },
+        {
+          "heading": "Građa skeletnog mišića",
+          "body": "Skeletni mišić građen je od mišićnih vlakana, dugačkih višejezgrenih stanica koje su snopovima (fascikulima) udružene u cijeli mišić. Svako vlakno obavija tanka vezivna ovojnica endomizij, snop vlakana perimizij, a cijeli mišić epimizij; te se ovojnice na krajevima mišića nastavljaju u tetivu (tendo), čvrstu vezivnu vrpcu kojom se mišić pripaja na kost. Plosnata, široka tetiva naziva se aponeuroza. Mjesto na kojem mišić polazi, obično na manje pokretnoj kosti bliže trupu, naziva se polazište (origo), a mjesto pripoja na pokretnijoj kosti hvatište (insertio).\n\nUnutar mišićnog vlakna nalaze se miofibrile, a u njima se pravilno izmjenjuju tanke niti bjelančevine aktina i debele niti bjelančevine miozina. Odsječak miofibrile između dviju Z-linija zove se sarkomera i najmanja je kontraktilna jedinica mišića; pravilan raspored sarkomera daje skeletnom i srčanom mišiću poprečnu prugavost. Mišićno vlakno ima mnogo mitohondrija i razgranatu sarkoplazmatsku mrežicu, spremište kalcijevih iona nužnih za kontrakciju.\n\nMišići rijetko rade sami. Mišić koji izvodi željeni pokret naziva se agonist (pokretač), mišić koji izvodi suprotan pokret antagonist, a mišići koji pomažu agonistu ili učvršćuju susjedne zglobove sinergisti. Pri pregibanju lakta dvoglavi mišić nadlaktice je agonist, a troglavi antagonist; da bi pokret bio skladan, antagonist se istodobno opušta (recipročna inhibicija). Mišići koji prelaze preko jednog zgloba jednozglobni su, a oni koji prelaze preko dvaju zglobova, poput ravnog bedrenog mišića, dvozglobni.",
+          "image": {
+            "file": "anatomija-i-fiziologija/skeletno-misicno-tkivo.jpg",
+            "caption": "Skeletno mišićno tkivo pod mikroskopom (povećanje 200×): dugačka mišićna vlakna s poprečnom ispruganošću i jezgrama smještenima uz rub vlakna.",
+            "credits": [
+              {
+                "title": "Skeletal Muscle Tissue",
+                "author": "Community College Bioscience",
+                "source": "https://commons.wikimedia.org/wiki/File:Skeletal_Muscle_Tissue.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Fiziologija mišićne kontrakcije",
+          "body": "Kontrakcija skeletnog mišića počinje živčanim impulsom. Motorički neuron iz kralježnične moždine šalje akson do mišića, gdje na neuromišićnoj spojnici (motoričkoj ploči) oslobađa neurotransmiter acetilkolin. Acetilkolin podražuje membranu mišićnog vlakna, nastaje akcijski potencijal koji se širi vlaknom i potiče oslobađanje kalcijevih iona iz sarkoplazmatske mrežice. Jedan motorički neuron sa svim vlaknima koja podražuje čini motoričku jedinicu; mišići za fine pokrete, poput mišića oka i šake, imaju male motoričke jedinice s malo vlakana, a veliki mišići trupa i nogu velike.\n\nPrema teoriji klizanja niti kalcij se veže na troponin na aktinskoj niti, troponin pomakne tropomiozin i tako otkrije vezna mjesta na koja se hvataju glave miozina. Glave miozina se savijaju, povlače aktinske niti prema sredini sarkomere i tako je skraćuju; same niti pritom ne mijenjaju duljinu, nego klize jedna uz drugu. Za odvajanje miozinske glave od aktina i za novi ciklus potreban je ATP; bez ATP-a mišić ostaje ukočen, što se nakon smrti očituje kao mrtvačka ukočenost (rigor mortis). Kada podražaj prestane, kalcij se vraća u sarkoplazmatsku mrežicu i mišić se opušta.\n\nPrema promjeni duljine mišića razlikujemo izometričku kontrakciju, pri kojoj mišić razvija napetost bez promjene duljine (držanje tereta u istom položaju), i izotoničku, pri kojoj mišić mijenja duljinu. Izotonička kontrakcija je koncentrična kada se mišić skraćuje i svladava otpor, a ekscentrična kada se mišić pod opterećenjem produljuje i koči pokret, primjerice pri polaganom spuštanju tereta. Mišićna vlakna dijele se na spora, crvena vlakna tipa I, otporna na umor, bogata mitohondrijima i mioglobinom i prikladna za držanje tijela i izdržljivost, te na brza vlakna tipa II, koja razvijaju veliku silu, ali se brzo umaraju.",
+          "bullets": [
+            "Živčani impuls – acetilkolin na motoričkoj ploči – akcijski potencijal vlakna – oslobađanje kalcija – klizanje niti",
+            "Motorička jedinica: jedan motorički neuron i sva mišićna vlakna koja podražuje",
+            "Izometrička kontrakcija: napetost bez promjene duljine mišića",
+            "Koncentrična kontrakcija: mišić se skraćuje; ekscentrična: mišić se pod opterećenjem produljuje",
+            "Vlakna tipa I: spora, izdržljiva; vlakna tipa II: brza, snažna, brzo se umaraju"
+          ]
+        },
+        {
+          "heading": "Najvažniji mišići trupa i gornjeg uda",
+          "body": "Deltoidni mišić (m. deltoideus) oblikuje zaobljenost ramena i glavni je odmicač (abduktor) nadlaktice. Veliki prsni mišić (m. pectoralis major) primiče nadlakticu i okreće je prema unutra, a najširi leđni mišić (m. latissimus dorsi) povlači nadlakticu prema dolje i natrag, što je važno pri penjanju i veslanju. Trapezni mišić (m. trapezius) podiže, povlači i učvršćuje lopaticu. Rotatorna manšeta, koju čine četiri mišića (m. supraspinatus, m. infraspinatus, m. teres minor i m. subscapularis), drži glavu nadlaktične kosti u zglobnoj čašici i učvršćuje rameni zglob.\n\nDvoglavi mišić nadlaktice (m. biceps brachii) pregiba lakat i okreće podlakticu dlanom prema gore (supinacija), a troglavi mišić nadlaktice (m. triceps brachii) glavni je ispružač (ekstenzor) lakta. Na podlaktici se nalaze pregibači (fleksori) i ispružači (ekstenzori) šake i prstiju, a u šaci kratki mišići koji omogućuju precizne pokrete i suprotstavljanje palca ostalim prstima.\n\nTrup pokreću i učvršćuju mišići trbuha i leđa. Ravni trbušni mišić (m. rectus abdominis) pregiba trup prema naprijed, a kosi trbušni mišići sudjeluju u rotaciji i bočnom pregibanju trupa, dok zajedno s poprečnim trbušnim mišićem učvršćuju trup i povećavaju tlak u trbušnoj šupljini. Uspravljač kralježnice (m. erector spinae) dugački je mišićni sustav uz kralježnicu koji ispruža trup i održava uspravno držanje. Ošit (dijafragma) kupolasti je mišić koji odvaja prsnu od trbušne šupljine i glavni je mišić udisaja.",
+          "bullets": [
+            "m. deltoideus: odmicanje (abdukcija) nadlaktice",
+            "m. pectoralis major: primicanje (adukcija) i unutarnja rotacija nadlaktice",
+            "m. biceps brachii: pregibanje (fleksija) lakta i supinacija podlaktice",
+            "m. triceps brachii: ispružanje (ekstenzija) lakta",
+            "m. rectus abdominis: pregibanje trupa; m. erector spinae: ispružanje kralježnice i uspravno držanje",
+            "Ošit (dijafragma): glavni mišić udisaja"
+          ]
+        },
+        {
+          "heading": "Najvažniji mišići donjeg uda",
+          "body": "Kukovni zglob pokreću snažni mišići zdjelice i bedra. Veliki stražnjični mišić (m. gluteus maximus) najjači je ispružač (ekstenzor) kuka, nužan za ustajanje sa stolca, penjanje uz stube i trčanje. Srednji i mali stražnjični mišić (m. gluteus medius i m. gluteus minimus) odmiču kuk i, što je osobito važno, pri stajanju na jednoj nozi drže zdjelicu vodoravnom; pri njihovoj slabosti zdjelica pada na stranu podignute noge (Trendelenburgov znak). Bočnoslabinski mišić (m. iliopsoas) glavni je pregibač (fleksor) kuka, a primicači (aduktori) nalaze se na unutarnjoj strani bedra.\n\nČetveroglavi bedreni mišić (m. quadriceps femoris) na prednjoj strani bedra jedini je ispružač koljena; njegova se zajednička tetiva preko ivera (patele) nastavlja kao patelarna sveza do goljenične kosti. Njegova glava ravni bedreni mišić (m. rectus femoris) prelazi i preko kuka, pa kuk ujedno pregiba. Na stražnjoj strani bedra nalaze se stražnji bedreni mišići (ishiokruralni mišići): dvoglavi bedreni mišić (m. biceps femoris), polutetivni mišić (m. semitendinosus) i poluopnasti mišić (m. semimembranosus), koji pregibaju koljeno i ispružaju kuk.\n\nNa potkoljenici troglavi listni mišić (m. triceps surae), koji čine dvoglavi listni mišić (m. gastrocnemius) i listoliki mišić (m. soleus), preko petne (Ahilove) tetive spušta stopalo prema dolje (plantarna fleksija) i odgurava tijelo pri hodu i skoku. Prednji goljenični mišić (m. tibialis anterior) podiže stopalo (dorzalna fleksija) i time omogućuje da stopalo pri hodu ne zapinje o tlo; njegova se slabost očituje kao viseće stopalo. Lisni mišići (mm. fibulares) okreću taban prema van (everzija).",
+          "bullets": [
+            "m. gluteus maximus: ispružanje (ekstenzija) kuka",
+            "m. gluteus medius i minimus: odmicanje (abdukcija) kuka i držanje zdjelice vodoravnom pri stajanju na jednoj nozi",
+            "m. iliopsoas: pregibanje (fleksija) kuka",
+            "m. quadriceps femoris: ispružanje (ekstenzija) koljena; m. rectus femoris ujedno pregiba kuk",
+            "Stražnji bedreni (ishiokruralni) mišići: pregibanje (fleksija) koljena i ispružanje kuka",
+            "m. triceps surae: plantarna fleksija stopala; m. tibialis anterior: dorzalna fleksija stopala"
+          ]
+        }
+      ],
+      "key_points": [
+        "Tri su vrste mišićnog tkiva: skeletno (poprečnoprugasto, voljno), glatko (nevoljno, u stijenkama šupljih organa i žila) i srčano (poprečnoprugasto, nevoljno, ritmično).",
+        "Sarkomera je najmanja kontraktilna jedinica; pri kontrakciji niti aktina i miozina klize jedna uz drugu, a za to su potrebni kalcijevi ioni i ATP.",
+        "Živčani impuls prenosi se na mišić acetilkolinom na neuromišićnoj spojnici; motorička jedinica je jedan motorički neuron i sva vlakna koja podražuje.",
+        "Izometrička kontrakcija ne mijenja duljinu mišića; izotonička je koncentrična (skraćivanje) ili ekscentrična (produljivanje pod opterećenjem).",
+        "Ključni parovi: biceps brachii pregiba, a triceps brachii ispruža lakat; quadriceps femoris ispruža, a ishiokruralni mišići pregibaju koljeno; iliopsoas pregiba, a gluteus maximus ispruža kuk.",
+        "Dijafragma je glavni mišić udisaja, a gluteus medius drži zdjelicu vodoravnom pri stajanju na jednoj nozi."
+      ]
+    },
+    {
+      "id": "zivcani-sustav",
+      "title": "Živčani sustav",
+      "summary": "Lekcija opisuje neuron i sinapsu, građu i zadaće središnjeg i perifernog živčanog sustava, autonomni sustav te dijelove i vrste refleksnog luka.",
+      "estimated_minutes": 12,
+      "sections": [
+        {
+          "heading": "Neuron i živčano tkivo",
+          "body": "Živčani sustav (systema nervosum) prima podražaje iz okoline i iz tijela, obrađuje ih i upravlja radom mišića, žlijezda i organa. Osnovna je građevna i funkcionalna jedinica živčanog tkiva živčana stanica, neuron. Neuron se sastoji od tijela stanice s jezgrom, kratkih razgranatih izdanaka, dendrita, koji primaju podražaje i vode ih prema tijelu stanice, i jednog dugog izdanka, aksona (neurita), koji vodi impuls od tijela stanice prema drugom neuronu, mišiću ili žlijezdi. Osim neurona, živčano tkivo sadrži potporne stanice (neuroglija), koje neurone hrane, štite i izoliraju.\n\nMnogi su aksoni obavijeni mijelinskom ovojnicom, masnom izolacijom koju u perifernom živčanom sustavu stvaraju Schwannove stanice. Ovojnica je prekinuta Ranvierovim suženjima, pa impuls skače od suženja do suženja, zbog čega mijelinizirana vlakna provode podražaj znatno brže od nemijeliniziranih. Mjesto na kojem se podražaj prenosi s jednog neurona na drugi neuron ili na efektor zove se sinapsa; prijenos se u pravilu odvija kemijski, oslobađanjem neurotransmitera (acetilkolin, noradrenalin, dopamin, serotonin i drugi) u sinaptičku pukotinu, i to samo u jednom smjeru.\n\nPrema smjeru provođenja razlikujemo osjetne (senzorne, aferentne) neurone, koji vode podražaje iz receptora prema središnjem živčanom sustavu, motoričke (eferentne) neurone, koji vode naredbe iz središnjeg živčanog sustava prema mišićima i žlijezdama, te interneurone (umetnute neurone), koji ih povezuju unutar središnjeg živčanog sustava. Zreli neuroni u pravilu se ne dijele, pa se oštećenje tijela živčane stanice ne obnavlja; oštećeni periferni akson, međutim, može polako urastati uz očuvanu ovojnicu, što je temelj oporavka nakon ozljede perifernog živca.",
+          "image": {
+            "file": "anatomija-i-fiziologija/neuron.jpg",
+            "caption": "Shematski prikaz neurona: razgranati dendriti primaju signale, tijelo stanice s jezgrom ih obrađuje, a dugi akson prenosi impuls do završnih ogranaka.",
+            "credits": [
+              {
+                "title": "Sketch of a brain neuron",
+                "author": "OpenClipart-Vectors",
+                "source": "https://commons.wikimedia.org/wiki/File:Sketch_of_a_brain_neuron.png",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Središnji živčani sustav",
+          "body": "Središnji živčani sustav (systema nervosum centrale) čine mozak (encephalon), smješten u lubanji, i kralježnična moždina (medulla spinalis), smještena u kralježničnom kanalu. Oboje su obavijeni trima moždanim ovojnicama (meninge) i okruženi cerebrospinalnom tekućinom (likvor), koja ih štiti od udaraca. Mozak dijelimo na veliki mozak, međumozak (diencephalon) s talamusom i hipotalamusom, mali mozak i moždano deblo. Veliki mozak (cerebrum) sastoji se od dviju polutki (hemisfera) koje upravljaju suprotnom stranom tijela: lijeva polutka upravlja desnom polovicom tijela i obrnuto, jer se motorički putovi križaju u moždanom deblu.\n\nPovršinu velikog mozga čini kora (cortex), siva tvar građena od tijela neurona, a ispod nje je bijela tvar građena od mijeliniziranih vlakana. Kora je podijeljena na režnjeve. Čeoni (frontalni) režanj sadrži primarnu motoričku koru u precentralnoj vijugi i upravlja voljnim pokretima, planiranjem i govorom; tjemeni (parijetalni) režanj sadrži primarnu osjetnu koru u postcentralnoj vijugi i obrađuje osjet dodira, boli i položaja tijela; sljepoočni (temporalni) režanj obrađuje sluh i pamćenje, a zatiljni (okcipitalni) režanj vid. U dubini velikog mozga nalaze se bazalni gangliji, važni za uglađenost i automatizam pokreta, a ispod njih međumozak s talamusom i hipotalamusom.\n\nMali mozak (cerebellum), smješten u stražnjoj lubanjskoj jami, usklađuje (koordinira) pokrete, održava ravnotežu i mišićni tonus te uči i uglađuje naučene pokrete; pri njegovu oštećenju pokreti su nespretni i nesigurni (ataksija). Moždano deblo (truncus encephali), koje čine srednji mozak, most i produžena moždina, povezuje mozak s kralježničnom moždinom i sadrži središta za disanje, rad srca i krvni tlak te jezgre većine moždanih živaca; njegova ozljeda zato neposredno ugrožava život.\n\nKralježnična moždina provodi podražaje između mozga i tijela i središte je refleksa. Na poprečnom presjeku siva tvar ima oblik leptira i leži u sredini, a oko nje je bijela tvar s uzlaznim (osjetnim) i silaznim (motoričkim) putovima. U prednjim rogovima sive tvari leže tijela motoričkih neurona, a u stražnje rogove ulaze osjetna vlakna. Kralježnična moždina kraća je od kralježničnog kanala: u odrasle osobe završava u razini prvog ili drugog slabinskog kralješka, a ispod se u kanalu nastavlja snop živčanih korjenova (cauda equina).",
+          "bullets": [
+            "Čeoni režanj: primarna motorička kora (precentralna vijuga), planiranje, govor",
+            "Tjemeni režanj: primarna osjetna kora (postcentralna vijuga), dodir, bol, položaj tijela",
+            "Sljepoočni režanj: sluh i pamćenje; zatiljni režanj: vid",
+            "Mali mozak: koordinacija pokreta, ravnoteža, mišićni tonus",
+            "Moždano deblo: središta za disanje, rad srca i krvni tlak"
+          ]
+        },
+        {
+          "heading": "Periferni živčani sustav",
+          "body": "Periferni živčani sustav (systema nervosum periphericum) čine živci i gangliji izvan mozga i kralježnične moždine. Iz mozga izlazi 12 pari moždanih (kranijalnih) živaca, koji inerviraju glavu i vrat, a lutajući živac (n. vagus) i organe prsne i trbušne šupljine. Iz kralježnične moždine izlazi 31 par moždinskih (spinalnih) živaca: 8 vratnih, 12 prsnih, 5 slabinskih, 5 križnih i 1 trtični. Svaki moždinski živac nastaje spajanjem prednjeg korijena, koji nosi motorička vlakna, i stražnjeg korijena, koji nosi osjetna vlakna i na kojem se nalazi spinalni ganglij s tijelima osjetnih neurona; živac je stoga mješovit.\n\nPrednje grane moždinskih živaca isprepliću se u živčane spletove (pleksuse). Iz vratnog spleta polazi ošitni živac (n. phrenicus), koji inervira ošit; iz ramenog spleta (plexus brachialis) polaze glavni živci ruke: n. radialis, n. medianus i n. ulnaris; iz slabinskog spleta polazi n. femoralis za prednje mišiće bedra, a iz križnog spleta n. ischiadicus, najdeblji i najdulji živac u tijelu, koji se u gornjem kutu zatkoljene jame dijeli na n. tibialis i n. fibularis communis. Područje kože koje inervira jedan moždinski živac naziva se dermatom, a skupina mišića miotom; poznavanje dermatoma pomaže u otkrivanju razine oštećenja korijena živca.\n\nPrema zadaći periferni živčani sustav dijelimo na somatski, koji voljno upravlja skeletnim mišićima i prenosi osjete iz kože i sustava za kretanje, i autonomni (vegetativni), koji nevoljno upravlja glatkim mišićima, srcem i žlijezdama. Autonomni sustav ima dva dijela suprotnog djelovanja. Simpatikus priprema tijelo za napor i opasnost: ubrzava rad srca, podiže krvni tlak, širi dušnice i zjenice te koči probavu. Parasimpatikus, čija vlakna najvećim dijelom nosi n. vagus, prevladava u mirovanju: usporava rad srca, sužava zjenice i potiče probavu. Oba dijela djeluju stalno, a njihova ravnoteža određuje trenutačno stanje organa.",
+          "bullets": [
+            "Moždani živci: 12 pari; moždinski (spinalni) živci: 31 par (8 vratnih, 12 prsnih, 5 slabinskih, 5 križnih, 1 trtični)",
+            "Prednji korijen: motorička vlakna; stražnji korijen: osjetna vlakna i spinalni ganglij",
+            "Somatski sustav: voljni nadzor skeletnih mišića i osjet iz kože i sustava za kretanje",
+            "Simpatikus: napor i opasnost (ubrzava srce, podiže tlak, širi zjenice i dušnice, koči probavu)",
+            "Parasimpatikus (n. vagus): mirovanje (usporava srce, sužava zjenice, potiče probavu)"
+          ]
+        },
+        {
+          "heading": "Refleksni luk",
+          "body": "Refleks je brz, nesvjestan i uvijek jednak odgovor organizma na podražaj, a put kojim podražaj prolazi naziva se refleksni luk (arcus reflexus). Refleksni luk ima pet dijelova: receptor koji prima podražaj, osjetni (aferentni) neuron koji ga vodi u središnji živčani sustav, središte u kralježničnoj moždini ili moždanom deblu u kojem se podražaj prebacuje na motorički neuron, motorički (eferentni) neuron koji vodi naredbu prema periferiji i efektor, mišić ili žlijezdu, koji izvodi odgovor. Refleksni se odgovor odvija prije nego što podražaj dospije do svijesti; mozak je o njemu obaviješten, ali ga ne pokreće.\n\nPrema broju sinapsi razlikujemo monosinaptičke i polisinaptičke reflekse. Monosinaptički refleks ima samo jednu sinapsu, između osjetnog i motoričkog neurona, pa je najbrži. Primjer je patelarni refleks: udarac čekićem na patelarnu svezu istegne četveroglavi bedreni mišić, mišićna vretena u njemu podraže osjetni neuron, motorički neuron isti mišić trenutačno stegne i koljeno se ispruži. Takvi se tetivni refleksi nazivaju i refleksima na istezanje (miotatski refleksi). Polisinaptički refleksi uključuju jedan ili više interneurona; primjer je refleks povlačenja (fleksorni refleks), kojim udaljavamo ruku od vrućeg predmeta, pri čemu se istodobno koče antagonisti (recipročna inhibicija).\n\nIspitivanje refleksa dio je neurološkog pregleda i važan putokaz fizioterapeutu. Oslabljen ili ugašen tetivni refleks upućuje na prekid refleksnog luka na periferiji, primjerice na oštećenje perifernog živca ili korijena živca, ili na oštećenje samog mišića. Pojačani refleksi uz povišen mišićni tonus (spastičnost) upućuju na oštećenje središnjeg živčanog sustava iznad razine refleksa, primjerice nakon moždanog udara ili ozljede kralježnične moždine, jer je otpao kočeći utjecaj viših središta. Refleksi su zato stalan i vrijedan pokazatelj stanja živčanog sustava.",
+          "bullets": [
+            "Dijelovi refleksnog luka: receptor – osjetni (aferentni) neuron – središte – motorički (eferentni) neuron – efektor",
+            "Monosinaptički refleks: jedna sinapsa, najbrži; primjer patelarni (tetivni) refleks",
+            "Polisinaptički refleks: uključuje interneurone; primjer refleks povlačenja",
+            "Oslabljeni ili ugašeni refleksi: oštećenje perifernog živca, korijena ili mišića",
+            "Pojačani refleksi sa spastičnošću: oštećenje središnjeg živčanog sustava"
+          ]
+        }
+      ],
+      "key_points": [
+        "Neuron ima tijelo, dendrite (primaju podražaj) i akson (odvodi impuls); mijelinska ovojnica ubrzava provođenje, a sinapsa prenosi podražaj kemijski i jednosmjerno.",
+        "Središnji živčani sustav čine mozak i kralježnična moždina; motorička kora je u čeonom, a osjetna u tjemenom režnju, mali mozak koordinira pokrete, a moždano deblo upravlja disanjem i radom srca.",
+        "Periferni živčani sustav čine 12 pari moždanih i 31 par moždinskih živaca; prednji korijen moždinskog živca je motorički, a stražnji osjetni.",
+        "Simpatikus priprema tijelo za napor i opasnost, a parasimpatikus (n. vagus) prevladava u mirovanju i potiče probavu.",
+        "Refleksni luk čine receptor, osjetni neuron, središte, motorički neuron i efektor; patelarni refleks je monosinaptički, a refleks povlačenja polisinaptički.",
+        "Oslabljeni refleksi upućuju na periferno oštećenje, a pojačani refleksi sa spastičnošću na oštećenje središnjeg živčanog sustava."
+      ]
+    },
+    {
+      "id": "krvozilni-i-disni-sustav",
+      "title": "Krvožilni i dišni sustav",
+      "summary": "Lekcija opisuje građu i rad srca, mali i veliki krvotok s vrstama krvnih žila, građu dišnog sustava i mehaniku disanja te izmjenu plinova i regulaciju disanja.",
+      "estimated_minutes": 12,
+      "sections": [
+        {
+          "heading": "Srce: građa i rad",
+          "body": "Srce (cor) šuplji je mišićni organ veličine stisnute šake, smješten u sredoprsju (medijastinumu) između plućnih krila, s vrškom usmjerenim ulijevo i prema dolje. Stijenku srca čine tri sloja: unutarnji endokard, srednji i najdeblji mišićni sloj miokard te vanjski epikard; cijelo je srce smješteno u osrčju (perikardu). Srce ima četiri šupljine: desnu i lijevu pretklijetku (atrij) te desnu i lijevu klijetku (ventrikul). Pretklijetke primaju krv iz vena, a klijetke je istiskuju u arterije; lijeva klijetka ima najdeblju stijenku jer tjera krv kroz cijelo tijelo.\n\nJednosmjerni tok krvi osiguravaju četiri zaliska. Između desne pretklijetke i desne klijetke nalazi se trolisni (trikuspidalni) zalistak, između lijeve pretklijetke i lijeve klijetke dvolisni (mitralni) zalistak, a na izlazu iz klijetki polumjesečasti zalisci: plućni (pulmonalni) na ulazu u plućno deblo i aortni na ulazu u aortu. Zalisci se otvaraju i zatvaraju pasivno, zbog razlike tlakova. Rad srca sastoji se od stezanja (sistola) i opuštanja (dijastola); u dijastoli se klijetke pune krvlju, a u sistoli je istiskuju. Zatvaranje zalistaka čuje se stetoskopom kao srčani tonovi.\n\nSrce ima vlastiti provodni sustav i steže se samostalno, bez naredbe iz mozga. Podražaj nastaje u sinusatrijskom (SA) čvoru u stijenci desne pretklijetke, prirodnom predvodniku srčanog ritma, širi se pretklijetkama do atrioventrikularnog (AV) čvora, a zatim Hisovim snopom i Purkinjeovim vlaknima na klijetke. Autonomni živčani sustav samo mijenja brzinu: simpatikus ubrzava, a parasimpatikus (n. vagus) usporava rad srca. U mirovanju srce odrasle osobe kuca 60 do 100 puta u minuti i svakim otkucajem istisne oko 70 ml krvi (udarni volumen), što daje minutni volumen od približno 5 litara; pri naporu se minutni volumen može višestruko povećati. Srčani mišić hrani se vlastitim, koronarnim arterijama, koje polaze iz početnog dijela aorte.",
+          "bullets": [
+            "Slojevi stijenke: endokard, miokard, epikard; ovojnica: osrčje (perikard)",
+            "Šupljine: desna i lijeva pretklijetka, desna i lijeva klijetka; lijeva klijetka ima najdeblju stijenku",
+            "Zalisci: trikuspidalni (desno), mitralni (lijevo), pulmonalni i aortni (polumjesečasti)",
+            "Provodni sustav: SA čvor (predvodnik ritma), AV čvor, Hisov snop, Purkinjeova vlakna",
+            "Frekvencija u mirovanju 60–100 otkucaja u minuti; minutni volumen = udarni volumen × frekvencija (približno 5 L/min)"
+          ],
+          "image": {
+            "file": "anatomija-i-fiziologija/srce.jpg",
+            "caption": "Srce odraslog muškarca nakon obdukcije. Površinu prekrivaju masno tkivo i koronarne krvne žile, a iz gornjeg dijela, baze srca, izlaze velike krvne žile.",
+            "credits": [
+              {
+                "title": "Human heart male adult autopsy",
+                "author": "Jebulon",
+                "source": "https://commons.wikimedia.org/wiki/File:Human_heart_male_adult_autopsy.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Krvotok i krvne žile",
+          "body": "Krv kola kroz dva povezana krvotoka. Mali (plućni) krvotok počinje u desnoj klijetki: krv siromašna kisikom ide plućnim deblom i plućnim arterijama u pluća, ondje se obogati kisikom i plućnim se venama vraća u lijevu pretklijetku. Veliki (sustavni) krvotok počinje u lijevoj klijetki: krv bogata kisikom ide aortom i njezinim ograncima u sva tkiva, a gornjom i donjom šupljom venom vraća se u desnu pretklijetku. Zapamtite da plućne arterije nose krv siromašnu kisikom, a plućne vene krv bogatu kisikom; nazivi žila određeni su smjerom toka prema srcu ili od srca, a ne sadržajem kisika.\n\nArterije (arteriae) odvode krv od srca; imaju debelu, elastičnu i mišićnu stijenku koja podnosi visok tlak, a njezino se širenje pri svakoj sistoli opipava kao bilo (puls). Granaju se u sve manje arteriole, koje stezanjem glatkih mišića reguliraju tlak i raspodjelu krvi. Kapilare su najtanje žile, sa stijenkom od jednog sloja stanica, i jedino se u njima izmjenjuju kisik, hranjive tvari i otpadni proizvodi između krvi i tkiva. Vene (venae) dovode krv u srce; stijenka im je tanja, a tlak nizak, pa vene udova imaju zaliske koji sprječavaju vraćanje krvi. Povratku venske krvi iz nogu bitno pomaže stezanje mišića potkoljenice (mišićna pumpa), zbog čega dugotrajno nepomično stajanje pogoduje oticanju nogu.\n\nKrvni tlak je tlak krvi na stijenku arterija; sistolički tlak nastaje pri stezanju lijeve klijetke, a dijastolički pri njezinu opuštanju. U zdrave odrasle osobe u mirovanju iznosi približno 120/80 mmHg. Krv čine tekući dio, plazma, i krvne stanice: crvene krvne stanice (eritrociti) s hemoglobinom prenose kisik, bijele krvne stanice (leukociti) brane organizam od uzročnika bolesti, a krvne pločice (trombociti) sudjeluju u zgrušavanju krvi. Odrasla osoba ima približno 5 litara krvi.",
+          "bullets": [
+            "Mali (plućni) krvotok: desna klijetka – plućno deblo i plućne arterije – pluća – plućne vene – lijeva pretklijetka",
+            "Veliki (sustavni) krvotok: lijeva klijetka – aorta – tkiva – gornja i donja šuplja vena – desna pretklijetka",
+            "Arterije odvode krv od srca (debela stijenka, visok tlak, bilo); vene dovode krv u srce (tanja stijenka, zalisci)",
+            "Kapilare: jedino mjesto izmjene tvari između krvi i tkiva",
+            "Eritrociti prenose kisik (hemoglobin), leukociti brane organizam, trombociti sudjeluju u zgrušavanju"
+          ]
+        },
+        {
+          "heading": "Dišni sustav i mehanika disanja",
+          "body": "Dišni sustav (systema respiratorium) dovodi kisik u krv i uklanja ugljikov dioksid. Dišni putovi počinju nosnom šupljinom, u kojoj se zrak zagrijava, vlaži i pročišćava, nastavljaju se ždrijelom (pharynx) i grkljanom (larynx), u kojem su glasnice, a zatim dušnikom (trachea), cijevi učvršćenom potkovastim (nepotpunim) hrskavičnim prstenovima. Dušnik se dijeli na desnu i lijevu dušnicu (bronchus), koje se u plućima granaju na sve manje dušničice (bronhiole) i završavaju plućnim mjehurićima (alveolama). Desna je dušnica šira i okomitija, pa udahnuto strano tijelo najčešće dospijeva u desno plućno krilo.\n\nPluća (pulmones) parni su organ u prsnom košu; desno plućno krilo ima tri režnja, a lijevo, zbog položaja srca koje zauzima dio lijeve strane prsnog koša, dva. Svako plućno krilo obavija dvolisna ovojnica, poplućnica (pleura): unutarnji list prianja uz pluća, vanjski uz stijenku prsnog koša, a između njih je tanki sloj tekućine i podtlak koji drži pluća raširenima i omogućuje da prate pokrete prsnog koša. U alveolama, kojih ima na stotine milijuna i koje su opletene gustom mrežom kapilara, odvija se izmjena plinova.\n\nDisanje je mehanički proces izmjene zraka. Udisaj (inspirij) aktivan je pokret: ošit (dijafragma) se stegne i spusti, vanjski međurebreni mišići podignu rebra, prsni se koš proširi, tlak u plućima padne ispod atmosferskoga i zrak ulazi. Izdisaj (ekspirij) u mirovanju je pasivan: mišići se opuste, a elastična pluća i prsni koš vraćaju se u početni položaj. Pri napornom disanju uključuju se pomoćni dišni mišići: mišići vrata i prsni mišići pri udisaju, a trbušni mišići pri izdisaju. Odrasla osoba u mirovanju diše 12 do 20 puta u minuti, a svakim udisajem izmijeni oko 500 ml zraka (dišni volumen). Najveći volumen zraka koji se može izdahnuti nakon najdubljeg udisaja naziva se vitalni kapacitet.",
+          "bullets": [
+            "Dišni putovi: nosna šupljina – ždrijelo – grkljan – dušnik – dušnice – bronhiole – alveole",
+            "Desno plućno krilo: tri režnja; lijevo plućno krilo: dva režnja",
+            "Udisaj: aktivan (ošit i vanjski međurebreni mišići); izdisaj u mirovanju: pasivan",
+            "Frekvencija disanja u mirovanju 12–20 udisaja u minuti; dišni volumen oko 500 ml"
+          ],
+          "image": {
+            "file": "anatomija-i-fiziologija/pluca-model.jpg",
+            "caption": "Trodimenzionalni model pluća i dišnih putova unutar prsnog koša: dušnik se dijeli na glavne bronhe, a plućna krila okružuju rebra.",
+            "credits": [
+              {
+                "title": "3d model of lungs airways ribs",
+                "author": "Eboelen",
+                "source": "https://commons.wikimedia.org/wiki/File:3d_model_of_lungs_airways_ribs.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Izmjena plinova i regulacija disanja",
+          "body": "Izmjena plinova u plućima (vanjsko disanje) odvija se difuzijom kroz vrlo tanku stijenku alveola i kapilara. Plinovi se gibaju s mjesta višeg na mjesto nižeg parcijalnog tlaka: u alveolarnom zraku kisika ima više nego u venskoj krvi, pa kisik prelazi iz alveola u krv, a ugljikova dioksida ima više u krvi, pa prelazi iz krvi u alveole i izdiše se. U tkivima se odvija unutarnje disanje: kisik prelazi iz krvi u stanice, koje ga troše, a ugljikov dioksid, nastao u staničnom metabolizmu, prelazi iz stanica u krv. Difuzija je učinkovita zato što je ukupna površina alveola golema, a stijenka iznimno tanka.\n\nKisik se krvlju prenosi gotovo isključivo vezan na hemoglobin u eritrocitima, a samo mali dio otopljen u plazmi; zasićenost hemoglobina kisikom (saturacija) u zdrave osobe iznosi približno 95 do 100 % i mjeri se pulsnim oksimetrom. Ugljikov dioksid prenosi se najvećim dijelom u plazmi u obliku bikarbonatnih iona, a manjim dijelom vezan na hemoglobin i otopljen u plazmi. Ugljikov dioksid utječe i na kiselost krvi: njegovo nakupljanje snižava pH, odnosno zakiseljuje krv.\n\nDisanjem upravlja dišni centar u produženoj moždini i mostu moždanog debla, koji ritmično šalje impulse dišnim mišićima preko ošitnog živca (n. phrenicus) i međurebrenih živaca. Najvažniji podražaj za disanje nije manjak kisika, nego porast koncentracije ugljikova dioksida u krvi, koji preko kemoreceptora pojačava dubinu i učestalost disanja; pad kisika postaje glavni podražaj tek kada je vrlo izražen. Disanje možemo voljno mijenjati, primjerice zadržati dah, ali samo ograničeno, jer dišni centar na porast ugljikova dioksida u konačnici nameće udisaj. Pri tjelesnom naporu disanje se ubrzava i produbljuje kako bi pokrilo veću potrošnju kisika.",
+          "bullets": [
+            "Vanjsko disanje: izmjena plinova između alveola i krvi; unutarnje disanje: između krvi i stanica",
+            "Plinovi se difuzijom gibaju od višeg prema nižem parcijalnom tlaku",
+            "Kisik se prenosi vezan na hemoglobin; ugljikov dioksid pretežno kao bikarbonatni ioni u plazmi",
+            "Dišni centar: produžena moždina i most moždanog debla",
+            "Glavni podražaj za disanje: porast ugljikova dioksida u krvi"
+          ]
+        }
+      ],
+      "key_points": [
+        "Srce ima četiri šupljine (dvije pretklijetke, dvije klijetke) i četiri zaliska (trikuspidalni, mitralni, pulmonalni, aortni); lijeva klijetka ima najdeblju stijenku.",
+        "Podražaj za otkucaj nastaje u SA čvoru; autonomni sustav samo mijenja brzinu (simpatikus ubrzava, parasimpatikus usporava).",
+        "Mali krvotok: desna klijetka – pluća – lijeva pretklijetka; veliki krvotok: lijeva klijetka – tijelo – desna pretklijetka; plućne arterije nose krv siromašnu kisikom.",
+        "Arterije odvode krv od srca, vene je dovode u srce i imaju zaliske, a izmjena tvari odvija se samo u kapilarama.",
+        "Udisaj je aktivan (ošit i vanjski međurebreni mišići), izdisaj u mirovanju pasivan; desno plućno krilo ima tri, a lijevo dva režnja.",
+        "Plinovi se izmjenjuju difuzijom; kisik putuje vezan na hemoglobin, a glavni podražaj za disanje je porast ugljikova dioksida u krvi."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "af-001",
+      "lesson_id": "stanice-tkiva-i-kostani-sustav",
+      "type": "single",
+      "difficulty": 1,
+      "text": "U kojem staničnom organelu nastaje najveći dio ATP-a, glavnog izvora energije stanice?",
+      "options": [
+        {
+          "id": "a",
+          "text": "u mitohondrijima"
+        },
+        {
+          "id": "b",
+          "text": "u jezgri"
+        },
+        {
+          "id": "c",
+          "text": "u ribosomima"
+        },
+        {
+          "id": "d",
+          "text": "u Golgijevu aparatu"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Mitohondriji su energetska središta stanice u kojima nastaje ATP, pa ih mišićne stanice imaju osobito mnogo. Jezgra sadrži nasljednu tvar DNK, ribosomi sintetiziraju bjelančevine, a Golgijev aparat sudjeluje u njihovoj obradi i prijenosu.",
+      "tags": [
+        "stanica",
+        "mitohondriji"
+      ]
+    },
+    {
+      "id": "af-002",
+      "lesson_id": "stanice-tkiva-i-kostani-sustav",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Koje tkivo pokriva vanjsku površinu tijela i oblaže unutrašnjost šupljih organa i žlijezda?",
+      "options": [
+        {
+          "id": "a",
+          "text": "epitelno tkivo"
+        },
+        {
+          "id": "b",
+          "text": "vezivno tkivo"
+        },
+        {
+          "id": "c",
+          "text": "mišićno tkivo"
+        },
+        {
+          "id": "d",
+          "text": "živčano tkivo"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Epitelno tkivo građeno je od gusto zbijenih stanica na bazalnoj membrani i pokriva te oblaže površine tijela i organa, gdje štiti, upija i izlučuje. Vezivno tkivo povezuje i podupire, a mišićno i živčano tkivo specijalizirani su za kontrakciju odnosno za provođenje podražaja.",
+      "tags": [
+        "tkiva",
+        "epitel"
+      ]
+    },
+    {
+      "id": "af-003",
+      "lesson_id": "stanice-tkiva-i-kostani-sustav",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Koje se od navedenih tvorbi ubrajaju u vezivno tkivo?",
+      "options": [
+        {
+          "id": "a",
+          "text": "kost"
+        },
+        {
+          "id": "b",
+          "text": "tetiva"
+        },
+        {
+          "id": "c",
+          "text": "krv"
+        },
+        {
+          "id": "d",
+          "text": "epitel crijeva"
+        },
+        {
+          "id": "e",
+          "text": "srčani mišić"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c"
+      ],
+      "explanation": "Vezivno tkivo odlikuje obilje međustanične tvari, a u njega se ubrajaju potporna tkiva (kost i hrskavica), gusto vezivo tetiva i sveza, masno tkivo i krv kao tekuće vezivno tkivo. Epitel crijeva je epitelno, a srčani mišić mišićno tkivo.",
+      "tags": [
+        "tkiva",
+        "vezivno tkivo"
+      ]
+    },
+    {
+      "id": "af-004",
+      "lesson_id": "stanice-tkiva-i-kostani-sustav",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Koliko kostiju ima koštani sustav odraslog čovjeka?",
+      "options": [
+        {
+          "id": "a",
+          "text": "206"
+        },
+        {
+          "id": "b",
+          "text": "196"
+        },
+        {
+          "id": "c",
+          "text": "216"
+        },
+        {
+          "id": "d",
+          "text": "226"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Koštani sustav odraslog čovjeka čini 206 kostiju, koje dijelimo na osni (aksijalni) kostur, to jest lubanju, kralježnicu i prsni koš, i kostur udova (apendikularni) s ramenim i zdjeličnim obručem.",
+      "tags": [
+        "koštani sustav"
+      ]
+    },
+    {
+      "id": "af-005",
+      "lesson_id": "stanice-tkiva-i-kostani-sustav",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Iz kojeg dijela duga kost u djece raste u duljinu?",
+      "options": [
+        {
+          "id": "a",
+          "text": "iz epifizne hrskavice (ploče rasta)"
+        },
+        {
+          "id": "b",
+          "text": "iz pokosnice (periosta)"
+        },
+        {
+          "id": "c",
+          "text": "iz koštane srži"
+        },
+        {
+          "id": "d",
+          "text": "iz zglobne hrskavice"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Rast duge kosti u duljinu odvija se iz hrskavične ploče rasta (epifizne hrskavice) između dijafize i epifize. Pokosnica (periost) odgovorna je za rast kosti u širinu i za cijeljenje prijeloma, u koštanoj srži stvaraju se krvne stanice, a zglobna hrskavica prekriva zglobna tijela i smanjuje trenje.",
+      "tags": [
+        "kosti",
+        "rast kosti"
+      ]
+    },
+    {
+      "id": "af-006",
+      "lesson_id": "stanice-tkiva-i-kostani-sustav",
+      "type": "true_false",
+      "difficulty": 1,
+      "text": "Iver (patela) najveća je sezamska kost u ljudskom tijelu.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "t"
+      ],
+      "explanation": "Sezamske kosti posebna su skupina kostiju uloženih u tetive, a najveći je među njima iver (patela), uložen u zajedničku tetivu četveroglavog bedrenog mišića.",
+      "tags": [
+        "kosti",
+        "sezamske kosti"
+      ]
+    },
+    {
+      "id": "af-007",
+      "lesson_id": "stanice-tkiva-i-kostani-sustav",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Spoj između trupova kralježaka preko međukralježnične ploče (intervertebralnog diska) primjer je:",
+      "options": [
+        {
+          "id": "a",
+          "text": "polupokretnog spoja (amfiartroze)"
+        },
+        {
+          "id": "b",
+          "text": "nepokretnog spoja (sinartroze)"
+        },
+        {
+          "id": "c",
+          "text": "kuglastog zgloba"
+        },
+        {
+          "id": "d",
+          "text": "obrtnog zgloba"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Spojevi trupova kralježaka preko hrskavičnih međukralježničnih ploča dopuštaju samo neznatan pokret, pa su polupokretni spojevi (amfiartroze), kao i simfiza stidnih kostiju. Nepokretni su spojevi šavovi lubanje, a kuglasti i obrtni zglobovi pravi su, sinovijalni zglobovi.",
+      "tags": [
+        "zglobovi",
+        "kralježnica"
+      ]
+    },
+    {
+      "id": "af-008",
+      "lesson_id": "stanice-tkiva-i-kostani-sustav",
+      "type": "single",
+      "difficulty": 3,
+      "text": "Zglob između prvog i drugog vratnog kralješka (atlantoaksijalni zglob), u kojem okrećemo glavu, prema obliku i broju osi je:",
+      "options": [
+        {
+          "id": "a",
+          "text": "obrtni zglob"
+        },
+        {
+          "id": "b",
+          "text": "kutni (šarnirski) zglob"
+        },
+        {
+          "id": "c",
+          "text": "elipsoidni zglob"
+        },
+        {
+          "id": "d",
+          "text": "sedlasti zglob"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Atlantoaksijalni zglob jednoosni je obrtni zglob (articulatio trochoidea) koji dopušta rotaciju, jednako kao zglob između palčane i lakatne kosti. Kutni zglob dopušta samo pregibanje i ispružanje, a elipsoidni i sedlasti zglobovi dvoosni su zglobovi.",
+      "tags": [
+        "zglobovi",
+        "kralježnica"
+      ]
+    },
+    {
+      "id": "af-009",
+      "lesson_id": "stanice-tkiva-i-kostani-sustav",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Koje tvorbe pripadaju građi pravog (sinovijalnog) zgloba?",
+      "options": [
+        {
+          "id": "a",
+          "text": "zglobna (hijalina) hrskavica"
+        },
+        {
+          "id": "b",
+          "text": "zglobna čahura sa sinovijalnom membranom"
+        },
+        {
+          "id": "c",
+          "text": "sinovijalna tekućina"
+        },
+        {
+          "id": "d",
+          "text": "epifizna hrskavica (ploča rasta)"
+        },
+        {
+          "id": "e",
+          "text": "pokosnica (periost)"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c"
+      ],
+      "explanation": "Pravi zglob čine zglobna tijela prekrivena hijalinom hrskavicom, zglobna čahura čija sinovijalna membrana luči sinovijalnu tekućinu te sveze koje zglob učvršćuju. Epifizna hrskavica je ploča rasta duge kosti, a pokosnica vezivna ovojnica kosti; nijedna ne pripada građi zgloba.",
+      "tags": [
+        "zglobovi"
+      ]
+    },
+    {
+      "id": "af-010",
+      "lesson_id": "misicni-sustav",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Srčano mišićno tkivo (miokard) je:",
+      "options": [
+        {
+          "id": "a",
+          "text": "poprečnoprugasto i nevoljno"
+        },
+        {
+          "id": "b",
+          "text": "poprečnoprugasto i voljno"
+        },
+        {
+          "id": "c",
+          "text": "glatko i nevoljno"
+        },
+        {
+          "id": "d",
+          "text": "glatko i voljno"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Srčani mišić pod mikroskopom pokazuje poprečnu prugavost kao i skeletni, ali radi nevoljno i ritmično, a njegove su razgranate stanice povezane interkalarnim pločama. Voljno je samo skeletno mišićno tkivo, a glatko mišićno tkivo nevoljno je i bez prugavosti.",
+      "tags": [
+        "mišićno tkivo",
+        "srce"
+      ]
+    },
+    {
+      "id": "af-011",
+      "lesson_id": "misicni-sustav",
+      "type": "true_false",
+      "difficulty": 1,
+      "text": "Glatko mišićno tkivo nalazi se u stijenkama krvnih žila i probavne cijevi, a njegovim radom upravlja autonomni živčani sustav.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "t"
+      ],
+      "explanation": "Glatko mišićno tkivo gradi stijenke šupljih organa i krvnih žila, steže se sporo i dugotrajno te je pod nadzorom autonomnog živčanog sustava i hormona, dakle neovisno o našoj volji.",
+      "tags": [
+        "mišićno tkivo"
+      ]
+    },
+    {
+      "id": "af-012",
+      "lesson_id": "misicni-sustav",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Kako se naziva najmanja kontraktilna jedinica skeletnog mišića?",
+      "options": [
+        {
+          "id": "a",
+          "text": "sarkomera"
+        },
+        {
+          "id": "b",
+          "text": "motorička jedinica"
+        },
+        {
+          "id": "c",
+          "text": "mišićno vlakno"
+        },
+        {
+          "id": "d",
+          "text": "fascikul"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Sarkomera je odsječak miofibrile između dviju Z-linija u kojem se pravilno izmjenjuju aktinske i miozinske niti, a njezinim se skraćivanjem skraćuje cijelo vlakno. Motorička jedinica jedan je motorički neuron sa svim vlaknima koja podražuje, a fascikul je snop mišićnih vlakana.",
+      "tags": [
+        "mišić",
+        "sarkomera"
+      ]
+    },
+    {
+      "id": "af-013",
+      "lesson_id": "misicni-sustav",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Koji neurotransmiter prenosi podražaj s motoričkog neurona na skeletno mišićno vlakno na neuromišićnoj spojnici?",
+      "options": [
+        {
+          "id": "a",
+          "text": "acetilkolin"
+        },
+        {
+          "id": "b",
+          "text": "noradrenalin"
+        },
+        {
+          "id": "c",
+          "text": "dopamin"
+        },
+        {
+          "id": "d",
+          "text": "serotonin"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Na neuromišićnoj spojnici (motoričkoj ploči) motorički neuron oslobađa acetilkolin, koji podražuje membranu mišićnog vlakna i pokreće akcijski potencijal. Noradrenalin, dopamin i serotonin neurotransmiteri su na drugim sinapsama živčanog sustava, a ne na motoričkoj ploči.",
+      "tags": [
+        "kontrakcija",
+        "neuromišićna spojnica"
+      ]
+    },
+    {
+      "id": "af-014",
+      "lesson_id": "misicni-sustav",
+      "type": "multiple",
+      "difficulty": 3,
+      "text": "Što je točno za mehanizam mišićne kontrakcije prema teoriji klizanja niti?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aktinske i miozinske niti klize jedna uz drugu, a same ne mijenjaju duljinu"
+        },
+        {
+          "id": "b",
+          "text": "Za odvajanje miozinske glave od aktina potreban je ATP"
+        },
+        {
+          "id": "c",
+          "text": "Kontrakciju pokreće oslobađanje kalcijevih iona iz sarkoplazmatske mrežice"
+        },
+        {
+          "id": "d",
+          "text": "Pri kontrakciji se aktinske niti skraćuju"
+        },
+        {
+          "id": "e",
+          "text": "Sarkomera se pri kontrakciji produljuje"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c"
+      ],
+      "explanation": "Kalcij iz sarkoplazmatske mrežice otkriva vezna mjesta na aktinu, glave miozina povlače aktinske niti prema sredini sarkomere i sarkomera se skraćuje, dok niti zadržavaju svoju duljinu i samo klize jedna uz drugu. ATP je potreban za odvajanje miozinske glave i novi ciklus, pa bez njega mišić ostaje ukočen.",
+      "tags": [
+        "kontrakcija",
+        "sarkomera"
+      ]
+    },
+    {
+      "id": "af-015",
+      "lesson_id": "misicni-sustav",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Pri polaganom spuštanju tereta koji držite u ruci dvoglavi mišić nadlaktice razvija napetost dok se pod opterećenjem produljuje. Takva se kontrakcija naziva:",
+      "options": [
+        {
+          "id": "a",
+          "text": "ekscentrična"
+        },
+        {
+          "id": "b",
+          "text": "koncentrična"
+        },
+        {
+          "id": "c",
+          "text": "izometrička"
+        },
+        {
+          "id": "d",
+          "text": "pasivna"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Pri ekscentričnoj kontrakciji mišić razvija napetost dok se pod opterećenjem produljuje i koči pokret, kao pri spuštanju tereta. Koncentrična kontrakcija skraćuje mišić i svladava otpor, a izometrička razvija napetost bez promjene duljine mišića.",
+      "tags": [
+        "kontrakcija",
+        "vrste kontrakcija"
+      ]
+    },
+    {
+      "id": "af-016",
+      "lesson_id": "misicni-sustav",
+      "type": "multiple",
+      "difficulty": 3,
+      "text": "Koji od navedenih mišića ispružaju (ekstendiraju) kuk?",
+      "options": [
+        {
+          "id": "a",
+          "text": "m. gluteus maximus"
+        },
+        {
+          "id": "b",
+          "text": "stražnji bedreni (ishiokruralni) mišići"
+        },
+        {
+          "id": "c",
+          "text": "m. iliopsoas"
+        },
+        {
+          "id": "d",
+          "text": "m. quadriceps femoris"
+        },
+        {
+          "id": "e",
+          "text": "m. tibialis anterior"
+        }
+      ],
+      "correct": [
+        "a",
+        "b"
+      ],
+      "explanation": "Kuk ispružaju veliki stražnjični mišić, najjači ekstenzor kuka, i stražnji bedreni (ishiokruralni) mišići, koji ujedno pregibaju koljeno. Bočnoslabinski mišić glavni je pregibač kuka, četveroglavi bedreni mišić ispruža koljeno, a njegova glava ravni bedreni mišić kuk pregiba, dok prednji goljenični mišić podiže stopalo.",
+      "tags": [
+        "mišići",
+        "kuk"
+      ]
+    },
+    {
+      "id": "af-017",
+      "lesson_id": "misicni-sustav",
+      "type": "true_false",
+      "difficulty": 1,
+      "text": "Troglavi mišić nadlaktice (m. triceps brachii) pregiba (flektira) lakat.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "f"
+      ],
+      "explanation": "Troglavi mišić nadlaktice glavni je ispružač (ekstenzor) lakta; lakat pregiba dvoglavi mišić nadlaktice (m. biceps brachii), koji ujedno okreće podlakticu dlanom prema gore (supinacija).",
+      "tags": [
+        "mišići",
+        "lakat"
+      ]
+    },
+    {
+      "id": "af-018",
+      "lesson_id": "zivcani-sustav",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Dendriti su izdanci neurona koji:",
+      "options": [
+        {
+          "id": "a",
+          "text": "primaju podražaje i vode ih prema tijelu stanice"
+        },
+        {
+          "id": "b",
+          "text": "vode impuls od tijela stanice prema mišiću ili žlijezdi"
+        },
+        {
+          "id": "c",
+          "text": "stvaraju mijelinsku ovojnicu oko aksona"
+        },
+        {
+          "id": "d",
+          "text": "luče cerebrospinalnu tekućinu"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Dendriti su kratki razgranati izdanci koji primaju podražaje i vode ih prema tijelu neurona, dok impuls od tijela stanice prema drugom neuronu, mišiću ili žlijezdi vodi akson. Mijelinsku ovojnicu u perifernom živčanom sustavu stvaraju Schwannove stanice.",
+      "tags": [
+        "neuron"
+      ]
+    },
+    {
+      "id": "af-019",
+      "lesson_id": "zivcani-sustav",
+      "type": "single",
+      "difficulty": 2,
+      "text": "U kojem se režnju velikog mozga nalazi primarna motorička kora koja upravlja voljnim pokretima?",
+      "options": [
+        {
+          "id": "a",
+          "text": "u čeonom (frontalnom) režnju"
+        },
+        {
+          "id": "b",
+          "text": "u tjemenom (parijetalnom) režnju"
+        },
+        {
+          "id": "c",
+          "text": "u sljepoočnom (temporalnom) režnju"
+        },
+        {
+          "id": "d",
+          "text": "u zatiljnom (okcipitalnom) režnju"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Primarna motorička kora smještena je u precentralnoj vijugi čeonog režnja. Tjemeni režanj sadrži primarnu osjetnu koru u postcentralnoj vijugi, sljepoočni režanj obrađuje sluh i pamćenje, a zatiljni vid.",
+      "tags": [
+        "mozak",
+        "režnjevi"
+      ]
+    },
+    {
+      "id": "af-020",
+      "lesson_id": "zivcani-sustav",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Koji dio mozga usklađuje (koordinira) pokrete i održava ravnotežu, a pri njegovu oštećenju pokreti postaju nespretni i nesigurni (ataksija)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "mali mozak (cerebellum)"
+        },
+        {
+          "id": "b",
+          "text": "produžena moždina"
+        },
+        {
+          "id": "c",
+          "text": "tjemeni režanj velikog mozga"
+        },
+        {
+          "id": "d",
+          "text": "zatiljni režanj velikog mozga"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Mali mozak usklađuje pokrete, održava ravnotežu i mišićni tonus te uglađuje naučene pokrete, pa se njegovo oštećenje očituje nespretnim i nesigurnim pokretima. Produžena moždina sadrži središta za disanje i rad srca, tjemeni režanj obrađuje osjet, a zatiljni vid.",
+      "tags": [
+        "mozak",
+        "mali mozak"
+      ]
+    },
+    {
+      "id": "af-021",
+      "lesson_id": "zivcani-sustav",
+      "type": "true_false",
+      "difficulty": 1,
+      "text": "Iz kralježnične moždine izlazi 31 par moždinskih (spinalnih) živaca.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "t"
+      ],
+      "explanation": "Iz kralježnične moždine izlazi 31 par moždinskih živaca: 8 vratnih, 12 prsnih, 5 slabinskih, 5 križnih i 1 trtični, dok iz mozga izlazi 12 pari moždanih (kranijalnih) živaca.",
+      "tags": [
+        "periferni živčani sustav"
+      ]
+    },
+    {
+      "id": "af-022",
+      "lesson_id": "zivcani-sustav",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Koji su učinci simpatičkog dijela autonomnog živčanog sustava?",
+      "options": [
+        {
+          "id": "a",
+          "text": "ubrzanje rada srca"
+        },
+        {
+          "id": "b",
+          "text": "širenje zjenica"
+        },
+        {
+          "id": "c",
+          "text": "širenje dušnica"
+        },
+        {
+          "id": "d",
+          "text": "poticanje probave"
+        },
+        {
+          "id": "e",
+          "text": "usporavanje rada srca"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c"
+      ],
+      "explanation": "Simpatikus priprema tijelo za napor i opasnost: ubrzava rad srca, podiže krvni tlak, širi dušnice i zjenice te koči probavu. Poticanje probave i usporavanje rada srca učinci su parasimpatikusa, čija vlakna najvećim dijelom nosi n. vagus.",
+      "tags": [
+        "autonomni živčani sustav",
+        "simpatikus"
+      ]
+    },
+    {
+      "id": "af-023",
+      "lesson_id": "zivcani-sustav",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Koji je ispravan redoslijed dijelova refleksnog luka?",
+      "options": [
+        {
+          "id": "a",
+          "text": "receptor, osjetni neuron, središte, motorički neuron, efektor"
+        },
+        {
+          "id": "b",
+          "text": "receptor, motorički neuron, središte, osjetni neuron, efektor"
+        },
+        {
+          "id": "c",
+          "text": "efektor, osjetni neuron, središte, motorički neuron, receptor"
+        },
+        {
+          "id": "d",
+          "text": "receptor, osjetni neuron, efektor, motorički neuron, središte"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Podražaj prima receptor, osjetni (aferentni) neuron vodi ga u središte u kralježničnoj moždini, ondje se prebacuje na motorički (eferentni) neuron, a odgovor izvodi efektor, mišić ili žlijezda. Osjetni neuron uvijek vodi prema središtu, a motorički od središta prema periferiji.",
+      "tags": [
+        "refleksni luk"
+      ]
+    },
+    {
+      "id": "af-024",
+      "lesson_id": "zivcani-sustav",
+      "type": "true_false",
+      "difficulty": 3,
+      "text": "Pojačani tetivni refleksi uz povišen mišićni tonus (spastičnost) upućuju na oštećenje perifernog živca.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "f"
+      ],
+      "explanation": "Pojačani refleksi sa spastičnošću znak su oštećenja središnjeg živčanog sustava iznad razine refleksa, jer je otpao kočeći utjecaj viših središta. Oštećenje perifernog živca ili korijena živca prekida refleksni luk, pa su refleksi oslabljeni ili ugašeni.",
+      "tags": [
+        "refleksi",
+        "neurološki pregled"
+      ]
+    },
+    {
+      "id": "af-025",
+      "lesson_id": "krvozilni-i-disni-sustav",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Gdje nastaje podražaj za normalni otkucaj srca?",
+      "options": [
+        {
+          "id": "a",
+          "text": "u sinusatrijskom (SA) čvoru"
+        },
+        {
+          "id": "b",
+          "text": "u atrioventrikularnom (AV) čvoru"
+        },
+        {
+          "id": "c",
+          "text": "u Hisovu snopu"
+        },
+        {
+          "id": "d",
+          "text": "u Purkinjeovim vlaknima"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Sinusatrijski čvor u stijenci desne pretklijetke prirodni je predvodnik srčanog ritma; iz njega se podražaj širi pretklijetkama do AV čvora, a zatim Hisovim snopom i Purkinjeovim vlaknima na klijetke.",
+      "tags": [
+        "srce",
+        "provodni sustav"
+      ]
+    },
+    {
+      "id": "af-026",
+      "lesson_id": "krvozilni-i-disni-sustav",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Između lijeve pretklijetke i lijeve klijetke nalazi se:",
+      "options": [
+        {
+          "id": "a",
+          "text": "dvolisni (mitralni) zalistak"
+        },
+        {
+          "id": "b",
+          "text": "trolisni (trikuspidalni) zalistak"
+        },
+        {
+          "id": "c",
+          "text": "aortni zalistak"
+        },
+        {
+          "id": "d",
+          "text": "plućni (pulmonalni) zalistak"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Mitralni (dvolisni) zalistak odvaja lijevu pretklijetku od lijeve klijetke, a trikuspidalni desnu pretklijetku od desne klijetke. Aortni i pulmonalni polumjesečasti zalisci nalaze se na izlazu iz klijetki, na ulazu u aortu odnosno u plućno deblo.",
+      "tags": [
+        "srce",
+        "zalisci"
+      ]
+    },
+    {
+      "id": "af-027",
+      "lesson_id": "krvozilni-i-disni-sustav",
+      "type": "true_false",
+      "difficulty": 3,
+      "text": "Plućne arterije nose krv bogatu kisikom iz pluća prema srcu.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "f"
+      ],
+      "explanation": "Plućne arterije odvode krv siromašnu kisikom iz desne klijetke u pluća, a krv bogatu kisikom iz pluća u lijevu pretklijetku dovode plućne vene. Nazivi žila određeni su smjerom toka prema srcu ili od srca, a ne sadržajem kisika.",
+      "tags": [
+        "krvotok",
+        "mali krvotok"
+      ]
+    },
+    {
+      "id": "af-028",
+      "lesson_id": "krvozilni-i-disni-sustav",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Što je točno za vene?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dovode krv u srce"
+        },
+        {
+          "id": "b",
+          "text": "Vene udova imaju zaliske koji sprječavaju vraćanje krvi"
+        },
+        {
+          "id": "c",
+          "text": "Imaju tanju stijenku i niži tlak od arterija"
+        },
+        {
+          "id": "d",
+          "text": "Njihovo se širenje pri sistoli opipava kao bilo (puls)"
+        },
+        {
+          "id": "e",
+          "text": "Jedino se u njima izmjenjuju tvari između krvi i tkiva"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c"
+      ],
+      "explanation": "Vene dovode krv u srce, stijenka im je tanja i tlak nizak, pa vene udova imaju zaliske, a povratku krvi iz nogu pomaže mišićna pumpa potkoljenice. Bilo je širenje arterija pri sistoli, a izmjena tvari između krvi i tkiva odvija se jedino u kapilarama.",
+      "tags": [
+        "krvne žile",
+        "vene"
+      ]
+    },
+    {
+      "id": "af-029",
+      "lesson_id": "krvozilni-i-disni-sustav",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Koji je glavni mišić udisaja?",
+      "options": [
+        {
+          "id": "a",
+          "text": "ošit (dijafragma)"
+        },
+        {
+          "id": "b",
+          "text": "ravni trbušni mišić (m. rectus abdominis)"
+        },
+        {
+          "id": "c",
+          "text": "veliki prsni mišić (m. pectoralis major)"
+        },
+        {
+          "id": "d",
+          "text": "trapezni mišić (m. trapezius)"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Udisaj je aktivan pokret pri kojem se ošit stegne i spusti, a vanjski međurebreni mišići podignu rebra, pa se prsni koš proširi i zrak ulazi. Trbušni mišići sudjeluju tek u napornom izdisaju, a prsni mišići i mišići vrata samo su pomoćni dišni mišići pri napornom udisaju.",
+      "tags": [
+        "disanje",
+        "dijafragma"
+      ]
+    },
+    {
+      "id": "af-030",
+      "lesson_id": "krvozilni-i-disni-sustav",
+      "type": "single",
+      "difficulty": 3,
+      "text": "Koji je najvažniji podražaj koji u zdrave osobe pojačava dubinu i učestalost disanja?",
+      "options": [
+        {
+          "id": "a",
+          "text": "porast koncentracije ugljikova dioksida u krvi"
+        },
+        {
+          "id": "b",
+          "text": "pad koncentracije kisika u krvi"
+        },
+        {
+          "id": "c",
+          "text": "porast koncentracije kisika u krvi"
+        },
+        {
+          "id": "d",
+          "text": "pad koncentracije ugljikova dioksida u krvi"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Dišni centar u moždanom deblu najosjetljivije reagira na porast ugljikova dioksida u krvi, koji preko kemoreceptora pojačava dubinu i učestalost disanja. Pad kisika postaje glavni podražaj tek kada je vrlo izražen.",
+      "tags": [
+        "disanje",
+        "regulacija disanja"
+      ]
+    },
+    {
+      "id": "af-031",
+      "lesson_id": "krvozilni-i-disni-sustav",
+      "type": "true_false",
+      "difficulty": 1,
+      "text": "Desno plućno krilo ima tri režnja, a lijevo dva.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "t"
+      ],
+      "explanation": "Desno plućno krilo podijeljeno je na tri režnja, a lijevo, zbog položaja srca koje zauzima dio lijeve strane prsnog koša, ima dva režnja.",
+      "tags": [
+        "pluća"
+      ]
+    },
+    {
+      "id": "af-032",
+      "lesson_id": "krvozilni-i-disni-sustav",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Kisik se krvlju prenosi pretežno:",
+      "options": [
+        {
+          "id": "a",
+          "text": "vezan na hemoglobin u eritrocitima"
+        },
+        {
+          "id": "b",
+          "text": "otopljen u plazmi"
+        },
+        {
+          "id": "c",
+          "text": "u obliku bikarbonatnih iona"
+        },
+        {
+          "id": "d",
+          "text": "vezan na trombocite"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Kisik se prenosi gotovo isključivo vezan na hemoglobin u eritrocitima, a samo mali dio otopljen je u plazmi. U obliku bikarbonatnih iona prenosi se ugljikov dioksid, a trombociti sudjeluju u zgrušavanju krvi, ne u prijenosu plinova.",
+      "tags": [
+        "krv",
+        "izmjena plinova"
+      ]
+    }
+  ]
+}

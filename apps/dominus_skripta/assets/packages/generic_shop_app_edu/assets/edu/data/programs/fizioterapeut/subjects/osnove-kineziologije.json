@@ -1,0 +1,1328 @@
+{
+  "id": "osnove-kineziologije",
+  "program_id": "fizioterapeut",
+  "title": "Osnove kineziologije",
+  "short_title": "Kineziologija",
+  "description": "Temelji znanosti o pokretu: anatomski položaj, ravnine i osi, nazivlje pokreta, zglobovi i opseg pokreta, poluge i mišićni rad te hod i držanje tijela.",
+  "color": "#F97316",
+  "icon": "directions_run",
+  "year": 2,
+  "lessons": [
+    {
+      "id": "anatomski-polozaj-ravnine-i-osi",
+      "title": "Anatomski položaj, ravnine i osi tijela",
+      "summary": "Lekcija uvodi anatomski položaj kao polazište za opisivanje tijela, tri osnovne ravnine i osi te standardno nazivlje pokreta u zglobovima.",
+      "estimated_minutes": 10,
+      "sections": [
+        {
+          "heading": "Anatomski položaj i smjerovi na tijelu",
+          "body": "Kineziologija je znanost o pokretu ljudskog tijela, a svaki opis pokreta ili položaja mora polaziti od zajedničkog, dogovorenog polazišta. To je polazište anatomski položaj: osoba stoji uspravno, lice i pogled usmjereni su prema naprijed, stopala su usporedna i prstima okrenuta prema naprijed, ruke su opuštene uz tijelo, a dlanovi su okrenuti prema naprijed, dakle podlaktice su u supinaciji. Kada opisujete bilo koji pokret, uvijek polazite od toga položaja, bez obzira na to leži li pacijent, sjedi ili stoji.\n\nIz anatomskog položaja izvode se smjerovi na tijelu, koji se uvijek navode u parovima. Gornji (superior, kranijalni) smjer vodi prema glavi, a donji (inferior, kaudalni) prema stopalima. Prednji (anterior, ventralni) smjer vodi prema trbušnoj strani, a stražnji (posterior, dorzalni) prema leđima. Medijalno znači bliže središnjoj ravnini tijela, a lateralno dalje od nje. Na udovima se rabe izrazi proksimalno, bliže mjestu gdje ud izlazi iz trupa, i distalno, dalje od trupa; lakat je tako proksimalno od šake, a koljeno distalno od kuka.\n\nPosebno obratite pozornost na to da se medijalno i lateralno uvijek odnose na središnju ravninu cijelog tijela, a ne na pojedini ud. Palac je zato u anatomskom položaju lateralno na šaci, iako nam se u svakodnevnom držanju, kada su dlanovi okrenuti prema tijelu, čini da je sprijeda. Upravo je zato anatomski položaj dogovoren s dlanovima okrenutima prema naprijed, jer tako svaki opis ima isto značenje za sve koji ga čitaju.",
+          "bullets": [
+            "Superior (kranijalno) – inferior (kaudalno): prema glavi – prema stopalima",
+            "Anterior (ventralno) – posterior (dorzalno): prema prednjoj – prema stražnjoj strani tijela",
+            "Medijalno – lateralno: bliže – dalje od središnje ravnine tijela",
+            "Proksimalno – distalno: bliže – dalje od trupa (na udovima)",
+            "Površinsko (superficijalno) – duboko (profundno): bliže – dalje od površine kože"
+          ]
+        },
+        {
+          "heading": "Ravnine tijela",
+          "body": "Tijelo se za potrebe opisa dijeli trima zamišljenim ravninama koje stoje međusobno okomito. Sagitalna ravnina (planum sagittale) postavljena je uspravno u smjeru naprijed-natrag i dijeli tijelo na lijevi i desni dio. Sagitalna ravnina koja prolazi točno sredinom tijela i dijeli ga na dvije simetrične polovice naziva se medijana ili središnja ravnina (planum medianum); sve ostale sagitalne ravnine usporedne su s njom i leže lijevo ili desno od nje.\n\nFrontalna ili koronalna ravnina (planum frontale) također je uspravna, ali je postavljena u smjeru lijevo-desno, usporedno s čelom, pa dijeli tijelo na prednji i stražnji dio. Transverzalna ili horizontalna ravnina (planum transversale) postavljena je vodoravno i dijeli tijelo na gornji i donji dio. Ravnine nisu samo anatomski opis: svaki pokret u zglobu odvija se u jednoj od njih ili u kombinaciji više njih, pa se pokreti razvrstavaju upravo prema ravnini u kojoj se odvijaju.\n\nU sagitalnoj ravnini odvijaju se pregibanje i ispružanje, na primjer savijanje lakta ili pretklon trupa. U frontalnoj ravnini odvijaju se odmicanje i primicanje te bočno pregibanje trupa (laterofleksija), na primjer podizanje ruke u stranu. U transverzalnoj ravnini odvijaju se rotacije, na primjer okretanje glave ulijevo i udesno, kao i pronacija i supinacija podlaktice. Složeni pokreti, poput kruženja ispruženom rukom, prolaze kroz više ravnina.",
+          "bullets": [
+            "Sagitalna ravnina: dijeli tijelo na lijevi i desni dio; pregibanje i ispružanje",
+            "Frontalna (koronalna) ravnina: dijeli tijelo na prednji i stražnji dio; odmicanje, primicanje i bočno pregibanje",
+            "Transverzalna (horizontalna) ravnina: dijeli tijelo na gornji i donji dio; rotacije",
+            "Medijana ravnina: sagitalna ravnina kroz sredinu tijela, dijeli ga na dvije jednake polovice"
+          ],
+          "image": {
+            "file": "osnove-kineziologije/ravnine-tijela.jpg",
+            "caption": "Tri glavne ravnine tijela prikazane na glavi: sagitalna (Sagittal), frontalna ili koronalna (Coronal) te transverzalna ili horizontalna (Horizontal).",
+            "credits": [
+              {
+                "title": "AnatomicalPlanes",
+                "author": "Caldwbr",
+                "source": "https://commons.wikimedia.org/wiki/File:AnatomicalPlanes.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Osi tijela",
+          "body": "Os je zamišljeni pravac oko kojega se segment tijela okreće u zglobu. Svaka os stoji okomito na ravninu u kojoj se pokret odvija, pa se ravnine i osi uvijek uče u parovima. Frontalna ili poprečna os prolazi vodoravno s lijeve na desnu stranu, okomita je na sagitalnu ravninu i oko nje se odvijaju pregibanje i ispružanje. Sagitalna os prolazi vodoravno od naprijed prema natrag, okomita je na frontalnu ravninu i oko nje se odvijaju odmicanje i primicanje.\n\nUzdužna, longitudinalna ili vertikalna os prolazi odozgo prema dolje duž segmenta ili cijelog tijela, okomita je na transverzalnu ravninu i oko nje se odvijaju rotacije, uključujući pronaciju i supinaciju podlaktice. Zapamtite jednostavno pravilo: pokret se odvija u jednoj ravnini oko osi koja je na tu ravninu okomita. Zglob u kojem je pokret moguć oko samo jedne osi nazivamo jednoosnim, oko dviju osi dvoosnim, a oko triju osi troosnim ili višeosnim zglobom.",
+          "bullets": [
+            "Frontalna (poprečna) os – sagitalna ravnina – pregibanje i ispružanje",
+            "Sagitalna os – frontalna ravnina – odmicanje i primicanje",
+            "Uzdužna (vertikalna) os – transverzalna ravnina – rotacije"
+          ]
+        },
+        {
+          "heading": "Nazivlje pokreta",
+          "body": "Pregibanje (fleksija) je pokret kojim se smanjuje kut između dvaju segmenata tijela, na primjer savijanje lakta ili koljena, a ispružanje (ekstenzija) pokret kojim se taj kut povećava i segmenti se vraćaju u anatomski položaj. Nastavak ispružanja preko anatomskog položaja naziva se hiperekstenzija. Odmicanje (abdukcija) je pokret segmenta od središnje ravnine tijela, a primicanje (adukcija) pokret cijelog segmenta prema njoj; za prste se kao referenca uzima srednja linija šake odnosno stopala.\n\nOkretanje (rotacija) je pokret oko uzdužne osi segmenta. Ako se prednja strana uda okreće prema sredini tijela, riječ je o unutarnjoj (medijalnoj) rotaciji, a ako se okreće od sredine tijela, o vanjskoj (lateralnoj) rotaciji. Posebni nazivi za okretanje podlaktice su pronacija, pri kojoj se dlan okreće prema dolje odnosno natrag, i supinacija, pri kojoj se dlan okreće prema gore odnosno naprijed. Anatomski položaj podlaktice je supinacija.\n\nNa stopalu razlikujemo dorzalnu fleksiju, podizanje prednjeg dijela stopala prema potkoljenici, i plantarnu fleksiju, spuštanje prednjeg dijela stopala prema dolje, u smjeru tabana, kao pri stajanju na prstima. Inverzija je okretanje tabana prema unutra, prema sredini tijela, a everzija okretanje tabana prema van. Kruženje (cirkumdukcija) je složeni pokret u kojem segment opisuje stožac, a sastoji se od uzastopnog pregibanja, odmicanja, ispružanja i primicanja; moguće je u dvoosnim i troosnim zglobovima, na primjer u ručnom zglobu, ramenu i kuku.",
+          "bullets": [
+            "Pregibanje (fleksija) – smanjenje kuta; ispružanje (ekstenzija) – povećanje kuta",
+            "Odmicanje (abdukcija) – od središnje ravnine; primicanje (adukcija) – prema njoj",
+            "Pronacija – dlan prema dolje; supinacija – dlan prema gore",
+            "Inverzija – taban prema unutra; everzija – taban prema van",
+            "Dorzalna fleksija – stopalo prema potkoljenici; plantarna fleksija – prednji dio stopala prema dolje"
+          ]
+        }
+      ],
+      "key_points": [
+        "Anatomski položaj: uspravan stav, pogled naprijed, ruke uz tijelo, dlanovi okrenuti prema naprijed (podlaktice u supinaciji).",
+        "Sagitalna ravnina dijeli tijelo na lijevi i desni dio, frontalna na prednji i stražnji, transverzalna na gornji i donji dio.",
+        "Pokret se odvija u ravnini oko osi koja je na nju okomita: pregibanje i ispružanje oko frontalne osi, odmicanje i primicanje oko sagitalne, rotacije oko uzdužne osi.",
+        "Medijalno i lateralno odnose se na središnju ravninu tijela, a proksimalno i distalno na udaljenost od trupa.",
+        "Pronacija okreće dlan prema dolje, supinacija prema gore; inverzija okreće taban prema unutra, everzija prema van."
+      ]
+    },
+    {
+      "id": "zglobovi-i-opseg-pokreta",
+      "title": "Vrste zglobova i opseg pokreta",
+      "summary": "Lekcija objašnjava građu i podjelu zglobova prema obliku i stupnjevima slobode te način mjerenja i normalne vrijednosti opsega pokreta velikih zglobova.",
+      "estimated_minutes": 12,
+      "sections": [
+        {
+          "heading": "Spojevi kostiju i građa zgloba",
+          "body": "Kosti su međusobno povezane spojevima koji se prema građi i pokretljivosti dijele u dvije velike skupine. Neprekinuti spojevi (sinartroze) nemaju zglobne šupljine: kosti su povezane vezivnim tkivom (sindezmoza, na primjer šavovi lubanje i spoj između kostiju potkoljenice), hrskavicom (sinhondroza, spoj hijalinom hrskavicom, na primjer hrskavica rasta u djece; simfiza, spoj vezivnom hrskavicom, na primjer preponska simfiza) ili su koštano srasle (sinostoza, na primjer srasli kralješci križne kosti). Takvi su spojevi nepokretni ili slabo pokretni. Prekinuti spojevi ili pravi zglobovi (dijartroze) imaju zglobnu šupljinu i omogućuju slobodan pokret.\n\nSvaki pravi zglob ima stalne dijelove: zglobna tijela, obično glavu i čašicu, prekrivena glatkom hijalinom zglobnom hrskavicom, zglobnu čahuru koja zatvara zglob i zglobnu šupljinu ispunjenu sinovijalnom tekućinom. Vanjski sloj čahure čvrsti je vezivni sloj, a unutarnji je sinovijalna membrana koja luči sinovijalnu tekućinu; ona podmazuje zglob, smanjuje trenje i hrani hrskavicu, koja nema vlastitih krvnih žila. Zglob učvršćuju sveze (ligamenti), a u pokretu ga stabiliziraju mišići koji ga okružuju.\n\nNeki zglobovi imaju i pomoćne dijelove: zglobne usne (labrum) koje produbljuju plitku čašicu ramena i kuka, zglobne kolutove (meniskuse) i pločice (diskuse) od vezivne hrskavice koje izjednačavaju nepodudarne zglobne plohe, na primjer u koljenu, te sluzne vreće (burze) koje smanjuju trenje između tetiva i kosti. Prema broju kostiju koje se u njemu spajaju zglob je jednostavan, ako se spajaju dvije kosti, poput kuka, ili složen, ako se spajaju tri ili više kostiju, poput lakta.",
+          "image": {
+            "file": "osnove-kineziologije/koljeno-rtg.jpg",
+            "caption": "Rendgenska snimka zdravog koljena sa strane: bedrena kost, goljenična kost i iver, a između zglobnih tijela zglobni prostor u kojem je hrskavica, nevidljiva na snimci.",
+            "credits": [
+              {
+                "title": "X-ray of a normal knee by lateral projection",
+                "author": "Mikael Häggström, M.D. Author info - Reusing images- Conflicts of interest:  None\nMikael Häggström",
+                "source": "https://commons.wikimedia.org/wiki/File:X-ray_of_a_normal_knee_by_lateral_projection.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Podjela zglobova prema obliku zglobnih tijela",
+          "body": "Oblik zglobnih tijela određuje koje su osi i koji pokreti u zglobu mogući. Kuglasti zglob (articulatio spheroidea) ima glavu u obliku kugle i plitku čašicu; pokreti su mogući oko triju osi, pa je to najpokretljiviji zglob. Takvi su rameni i kukovni zglob, s time da kuk ima duboku čašicu koja obuhvaća više od polovice glave, pa se naziva i orašastim zglobom (enarthrosis); zbog toga je stabilniji, ali manje pokretljiv od ramena.\n\nJajoliki ili elipsoidni zglob (articulatio ellipsoidea) ima jajoliku glavu i odgovarajuću čašicu; pokreti su mogući oko dviju osi, pregibanje i ispružanje te odmicanje i primicanje, ali ne i rotacija. Primjer je ručni zglob (radiokarpalni zglob). Sedlasti zglob (articulatio sellaris) ima dva sedlasta zglobna tijela koja se križaju i također omogućuje pokrete oko dviju osi; najpoznatiji je primjer karpometakarpalni zglob palca, koji palcu omogućuje i opoziciju, dodirivanje jagodica ostalih prstiju.\n\nKutni zglob (ginglymus), nalik na šarku, oblikovan je kao poprečno postavljen valjak, pa omogućuje pokret samo oko jedne, frontalne osi: pregibanje i ispružanje. Takvi su zglob između nadlaktične i lakatne kosti u laktu te zglobovi među člancima prstiju. Obrtni zglob (articulatio trochoidea) također je valjkast, ali je valjak postavljen uzdužno, pa dopušta samo rotaciju oko uzdužne osi; primjeri su gornji (proksimalni) radioulnarni zglob, u kojem se odvijaju pronacija i supinacija, te zglob između prvog i drugog vratnog kralješka (atlantoaksijalni zglob), u kojem se glava okreće lijevo-desno.\n\nRavni zglob (articulatio plana) ima gotovo ravne zglobne plohe i dopušta samo manje klizne pokrete; takvi su zglobovi između zglobnih nastavaka kralježaka i mnogi zglobovi među kostima pešća i nožja. Koljeni zglob građen je kao kondilarni zglob (articulatio bicondylaris) s dvjema zaobljenim kvrgama bedrene kosti: glavni mu je pokret pregibanje i ispružanje, a u pregnutu položaju moguća je i manja rotacija potkoljenice.",
+          "bullets": [
+            "Kuglasti zglob – tri osi – rame, kuk (orašasti zglob)",
+            "Jajoliki (elipsoidni) zglob – dvije osi – ručni zglob",
+            "Sedlasti zglob – dvije osi – karpometakarpalni zglob palca",
+            "Kutni zglob (ginglymus) – jedna os, pregibanje i ispružanje – lakat, zglobovi među člancima prstiju",
+            "Obrtni zglob – jedna os, rotacija – gornji radioulnarni zglob, atlantoaksijalni zglob",
+            "Ravni zglob – klizanje – zglobovi među zglobnim nastavcima kralježaka"
+          ]
+        },
+        {
+          "heading": "Stupnjevi slobode",
+          "body": "Broj osi oko kojih je u zglobu moguć pokret izražava se stupnjevima slobode. Zglob s jednim stupnjem slobode (jednoosni zglob) dopušta pokret oko samo jedne osi: kutni zglob pregibanje i ispružanje, a obrtni zglob rotaciju. Zglob s dva stupnja slobode (dvoosni zglob) dopušta pokrete oko dviju osi, u pravilu pregibanje i ispružanje te odmicanje i primicanje; takvi su jajoliki i sedlasti zglobovi. Zglob s tri stupnja slobode (troosni ili višeosni zglob) uz to dopušta i rotaciju; to su kuglasti zglobovi.\n\nŠto zglob ima više stupnjeva slobode, to je pokretljiviji, ali ga mišići i sveze teže stabiliziraju. Rame je zato najpokretljiviji, ali i najčešće iščašeni veliki zglob, dok je kuk sa svojom dubokom čašicom znatno stabilniji. U dvoosnim i troosnim zglobovima moguće je i kruženje (cirkumdukcija), jer ono zahtijeva pokrete barem oko dviju osi. Poznavanje stupnjeva slobode važno je u praksi: pri mjerenju i vježbanju pokreta uvijek radite u ravnini i oko osi koja u tom zglobu zaista postoji."
+        },
+        {
+          "heading": "Mjerenje opsega pokreta",
+          "body": "Opseg pokreta (engl. range of motion, ROM) kutna je veličina pokreta koju zglob može izvesti, a mjeri se kutomjerom (goniometrom) u stupnjevima. Pri mjerenju se nepomični krak kutomjera postavlja uz nepomični segment, pomični krak uz segment koji se giba, a os kutomjera na os zgloba. Opseg se bilježi po metodi neutralne nule (neutralna-nula metoda): polazni je anatomski položaj, označen s 0°, a zabilježi se koliko se stupnjeva segment udaljio od njega u svakom smjeru.\n\nRazlikujemo aktivni opseg pokreta, koji pacijent izvodi vlastitom mišićnom snagom, i pasivni opseg pokreta, koji izvodi terapeut dok je pacijent opušten. Pasivni opseg u pravilu je jednak aktivnome ili nešto veći, jer ne ovisi o snazi mišića. Ako je pasivni opseg znatno veći od aktivnoga, uzrok ograničenja najvjerojatnije je u mišiću ili živcu, a ako su oba jednako smanjena, uzrok je najvjerojatnije u samom zglobu, zglobnoj čahuri, svezama ili okolnim mekim tkivima.\n\nNa kraju pasivnog pokreta terapeut rukom osjeća otpor koji nazivamo osjećajem kraja pokreta (engl. end-feel). Tvrdi, koštani osjećaj nastaje kad se kost zaustavi o kost, kao pri ispružanju lakta, kad se lakatni nastavak (olekranon) zaustavi o nadlaktičnu kost. Mekani osjećaj nastaje kad se meka tkiva priljube jedno uz drugo, kao pri pregibanju koljena kad list dodirne stražnju stranu natkoljenice. Čvrsti, elastični osjećaj nastaje zbog napetosti zglobne čahure, sveza ili mišića, kao pri dorzalnoj fleksiji stopala s ispruženim koljenom.",
+          "bullets": [
+            "Tvrdi (koštani) osjećaj kraja pokreta – kost o kost – ispružanje lakta",
+            "Mekani osjećaj kraja pokreta – priljubljivanje mekih tkiva – pregibanje koljena",
+            "Čvrsti (elastični) osjećaj kraja pokreta – napetost čahure, sveza ili mišića – dorzalna fleksija stopala"
+          ]
+        },
+        {
+          "heading": "Normalni opseg pokreta velikih zglobova",
+          "body": "Normalne vrijednosti opsega pokreta razlikuju se među udžbenicima za desetak stupnjeva, a ovise i o dobi, spolu, građi tijela i razini aktivnosti, pa ih treba shvatiti kao približne raspone, a ne kao točne brojke. Najpouzdanija je usporedba sa zdravim zglobom suprotne strane istog pacijenta. Rame kao kuglasti zglob ima najveći opseg među velikim zglobovima: pregibanje i odmicanje približno 180°, ispružanje 45 do 60°, vanjska rotacija oko 90°, a unutarnja oko 70°.\n\nU laktu je pregibanje 140 do 150°, a ispružanje završava u 0°, dakle u anatomskom položaju; pronacija i supinacija podlaktice iznose približno po 80 do 90°. U ručnom zglobu palmarna fleksija iznosi oko 80°, a dorzalna fleksija oko 70°. U kuku je pregibanje sa savijenim koljenom oko 120°, a s ispruženim koljenom znatno manje, oko 80 do 90°, jer ga ograničavaju napeti stražnji natkoljenični mišići; ispružanje je razmjerno malo, 15 do 30°, odmicanje iznosi oko 45°, primicanje 20 do 30°, a unutarnja i vanjska rotacija po oko 45°.\n\nKoljeno se pregiba 130 do 150°, ovisno o debljini lista i natkoljenice, a ispruža do 0°; manja hiperekstenzija od nekoliko stupnjeva može biti normalna. U gornjem nožnom (gležanjskom) zglobu dorzalna fleksija iznosi oko 20°, a plantarna fleksija 45 do 50°, pa je plantarna fleksija više nego dvostruko veća od dorzalne. Pri svakom mjerenju zabilježite i jesu li vrijednosti simetrične, jer je razlika između lijeve i desne strane često važnija od odstupanja od tabličnih vrijednosti.",
+          "bullets": [
+            "Rame: pregibanje i odmicanje oko 180°, ispružanje 45 do 60°, vanjska rotacija oko 90°",
+            "Lakat: pregibanje 140 do 150°, ispružanje 0°; pronacija i supinacija po 80 do 90°",
+            "Ručni zglob: palmarna fleksija oko 80°, dorzalna fleksija oko 70°",
+            "Kuk: pregibanje oko 120° (savijeno koljeno), ispružanje 15 do 30°, odmicanje oko 45°",
+            "Koljeno: pregibanje 130 do 150°, ispružanje 0°",
+            "Gležanj: dorzalna fleksija oko 20°, plantarna fleksija 45 do 50°"
+          ]
+        }
+      ],
+      "key_points": [
+        "Pravi zglob (dijartroza) ima zglobna tijela prekrivena hijalinom hrskavicom, zglobnu čahuru sa sinovijalnom membranom, zglobnu šupljinu sa sinovijalnom tekućinom i sveze.",
+        "Kuglasti zglob ima tri stupnja slobode, jajoliki i sedlasti dva, a kutni i obrtni jedan; ravni zglob dopušta samo klizanje.",
+        "Opseg pokreta mjeri se kutomjerom (goniometrom) po metodi neutralne nule (neutralna-nula metoda); pasivni opseg u pravilu je jednak aktivnome ili nešto veći.",
+        "Osjećaj kraja pokreta može biti tvrdi (kost o kost), mekani (priljubljivanje mekih tkiva) ili čvrsti (napetost čahure, sveza ili mišića).",
+        "Rame ima najveći opseg pokreta (pregibanje i odmicanje oko 180°), koljeno se pregiba 130 do 150°, a u gležanjskom zglobu je plantarna fleksija (45 do 50°) veća od dorzalne (oko 20°)."
+      ]
+    },
+    {
+      "id": "poluge-i-misicni-rad",
+      "title": "Poluge, biomehanika i mišićni rad",
+      "summary": "Lekcija obrađuje poluge u ljudskom tijelu, osnovne biomehaničke pojmove, vrste mišićne kontrakcije i uloge koje mišići preuzimaju u pokretu.",
+      "estimated_minutes": 11,
+      "sections": [
+        {
+          "heading": "Biomehanika i poluge",
+          "body": "Biomehanika primjenjuje zakone mehanike na živa bića, a u kineziologiji opisuje kako mišićna sila preko kostiju i zglobova proizvodi pokret. Osnovni mehanički model pokreta je poluga: kruta šipka koja se okreće oko nepomične točke, oslonca. U tijelu je poluga kost, oslonac je zglob, sila je vlak mišića na njegovu hvatištu, a teret je težina segmenta tijela zajedno s vanjskim otporom, na primjer predmetom koji držimo u šaci.\n\nOkomita udaljenost od oslonca do pravca djelovanja mišićne sile naziva se krak sile, a okomita udaljenost od oslonca do pravca djelovanja tereta krak tereta. Umnožak sile i njezina kraka je moment sile, a poluga je u ravnoteži kad su momenti sile i tereta jednaki. Omjer kraka sile i kraka tereta naziva se mehanička prednost: ako je krak sile dulji od kraka tereta, poluga je povoljna za silu, pa manji mišićni vlak podiže veći teret; ako je krak sile kraći, poluga je nepovoljna za silu, ali povoljna za brzinu i opseg pokreta.\n\nMišići se u tijelu većinom hvataju blizu zgloba, pa je njihov krak sile kratak. Zbog toga mišić mora razviti silu znatno veću od težine tereta, ali se mali pomak hvatišta pretvara u velik i brz pokret udaljenog dijela uda, na primjer šake ili stopala. Tijelo je tako građeno za brzinu i opseg pokreta, a ne za dizanje najvećih tereta, što treba imati na umu pri doziranju opterećenja u vježbanju."
+        },
+        {
+          "heading": "Poluge prvog, drugog i trećeg reda",
+          "body": "Prema međusobnom položaju oslonca, sile i tereta razlikujemo tri reda poluga. Poluga prvog reda (dvokraka poluga) ima oslonac između sile i tereta, kao klackalica ili škare. U tijelu je takva poluga glava na gornjem dijelu kralježnice: oslonac je zglob između zatiljne kosti i prvog vratnog kralješka, teret je težina lica ispred oslonca, a silu daju stražnji vratni mišići koji drže glavu uspravnom. Poluga prvog reda je i ispružanje lakta: troglavi nadlaktični mišić vuče za lakatni nastavak iza osi zgloba, a teret je u šaci ispred nje.\n\nPoluga drugog reda ima teret između oslonca i sile, kao tačke. Krak sile uvijek je dulji od kraka tereta, pa je ta poluga povoljna za silu. U tijelu je primjer podizanje na prste: oslonac su zglobovi između kostiju donožja i prstiju, teret je težina tijela koja kroz gležanj pada između oslonca i pete, a silu daju mišići lista preko Ahilove tetive na petnoj kosti.\n\nPoluga trećeg reda ima silu između oslonca i tereta, kao pinceta. Krak sile kraći je od kraka tereta, pa je poluga nepovoljna za silu, ali povoljna za brzinu i opseg pokreta. To je najčešća poluga u ljudskom tijelu. Primjer je pregibanje lakta: oslonac je lakatni zglob, silu daje dvoglavi nadlaktični mišić koji se hvata na palčanu kost blizu zgloba, a teret je šaka s predmetom na kraju podlaktice.",
+          "bullets": [
+            "Poluga prvog reda: oslonac u sredini – klackalica; glava na kralježnici, ispružanje lakta",
+            "Poluga drugog reda: teret u sredini, povoljna za silu – tačke; podizanje na prste",
+            "Poluga trećeg reda: sila u sredini, povoljna za brzinu i opseg pokreta – pinceta; pregibanje lakta",
+            "U ljudskom tijelu prevladavaju poluge trećeg reda"
+          ],
+          "image": {
+            "file": "osnove-kineziologije/klackalica.jpg",
+            "caption": "Klackalica na dječjem igralištu je poluga prvog reda: oslonac je u sredini, između sile i tereta.",
+            "credits": [
+              {
+                "title": "Stand-up seesaw playground Achim",
+                "author": "RogerWiki",
+                "source": "https://commons.wikimedia.org/wiki/File:Stand-up_seesaw_playground_Achim.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Vrste mišićne kontrakcije",
+          "body": "Kontrakcija je stanje u kojem mišić razvija napetost. Prema tome mijenja li se pritom duljina mišića, razlikujemo statičku i dinamičku kontrakciju. Pri izometričkoj (statičkoj) kontrakciji napetost raste, ali duljina mišića ostaje ista i u zglobu nema pokreta: tako radi mišić kad držimo teret u nepomičnom položaju ili guramo zid. Izometrički rad održava držanje tijela i stabilizira zglobove dok se drugi segmenti pokreću.\n\nPri dinamičkoj kontrakciji duljina mišića se mijenja i u zglobu nastaje pokret; u praksi se najčešće naziva izotoničkom, jer je napetost mišića približno stalna. Koncentrična kontrakcija je skraćivanje mišića pri kojem on svladava otpor, na primjer dvoglavi nadlaktični mišić dok podižemo uteg prema ramenu ili mišići natkoljenice dok ustajemo iz čučnja. Ekscentrična kontrakcija je produljivanje napetog mišića pod opterećenjem, pri čemu mišić koči pokret i kontrolirano popušta otporu, na primjer isti dvoglavi mišić dok polako spuštamo uteg ili mišići natkoljenice dok se spuštamo u čučanj ili silazimo niz stube.\n\nEkscentrična kontrakcija može razviti veću silu od koncentrične i troši manje energije, ali nakon neuobičajeno jakog ekscentričnog opterećenja češće nastaje odgođena mišićna bol koja se javlja dan ili dva nakon vježbanja. Poseban je oblik dinamičke kontrakcije izokinetička kontrakcija, pri kojoj se pokret izvodi stalnom brzinom uz otpor koji se prilagođava snazi mišića u svakoj točki pokreta; moguća je samo na posebnim izokinetičkim uređajima i rabi se u dijagnostici i rehabilitaciji.",
+          "bullets": [
+            "Izometrička (statička): napetost bez promjene duljine, bez pokreta – držanje tereta",
+            "Koncentrična: mišić se skraćuje i svladava otpor – podizanje tereta",
+            "Ekscentrična: mišić se produljuje pod opterećenjem i koči pokret – spuštanje tereta",
+            "Izokinetička: stalna brzina pokreta uz prilagodljiv otpor – samo na posebnim uređajima"
+          ],
+          "image": {
+            "file": "osnove-kineziologije/pregib-lakta.jpg",
+            "caption": "Pregib lakta s bučicom: pri podizanju dvoglavi mišić nadlaktice radi koncentrično, a pri polaganom spuštanju ekscentrično. Lakat je pritom poluga trećeg reda.",
+            "credits": [
+              {
+                "title": "Bicep Curl",
+                "author": "Hipnotic88",
+                "source": "https://commons.wikimedia.org/wiki/File:Bicep_Curl.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Uloge mišića u pokretu",
+          "body": "Pokret nikada ne izvodi samo jedan mišić; u svakom pokretu mišići preuzimaju različite uloge. Agonist ili glavni pokretač je mišić koji svojom kontrakcijom izvodi željeni pokret. Antagonist je mišić suprotnog djelovanja, koji se tijekom pokreta opušta i produljuje te ga svojim postupnim popuštanjem usklađuje i koči; živčani sustav automatski smanjuje njegovu napetost dok se agonist steže, što nazivamo recipročnom inhibicijom.\n\nSinergist je mišić koji pomaže agonistu u izvođenju pokreta ili poništava neželjenu sastavnicu njegova djelovanja, tako da pokret ostane čist i usmjeren. Stabilizator ili fiksator je mišić koji izometrički drži nepomičnim susjedni segment ili zglob, obično proksimalni, kako bi agonist imao čvrst oslonac. Uloge nisu stalno vezane uz pojedini mišić: isti mišić u jednom je pokretu agonist, u suprotnome antagonist, a u trećem stabilizator.\n\nPri pregibanju lakta agonisti su nadlaktični mišić (m. brachialis) i dvoglavi nadlaktični mišić (m. biceps brachii), antagonist je troglavi nadlaktični mišić (m. triceps brachii), sinergist je nadlaktičnopalčani mišić (m. brachioradialis), a stabilizatori su mišići ramenog obruča koji drže lopaticu i rame na mjestu. Pri ispružanju lakta uloge se zamjenjuju: agonist postaje troglavi mišić, a dvoglavi i nadlaktični mišić postaju antagonisti."
+        },
+        {
+          "heading": "Jednozglobni i višezglobni mišići",
+          "body": "Prema broju zglobova preko kojih prelaze, mišići su jednozglobni, poput nadlaktičnog mišića (m. brachialis) koji prelazi samo preko lakta, ili dvozglobni i višezglobni, poput dvoglavog nadlaktičnog mišića koji prelazi preko ramena i lakta, ravnog bedrenog mišića (m. rectus femoris), koji pregiba kuk i ispruža koljeno, te stražnjih natkoljeničnih mišića (ishiokruralnih mišića), koji ispružaju kuk i pregibaju koljeno.\n\nVišezglobni mišić ne može se dovoljno skratiti da istodobno izvede puni pokret u svim zglobovima preko kojih prelazi; to nazivamo aktivnom insuficijencijom. Stražnji natkoljenični mišići zato teško do kraja pregibaju koljeno dok je kuk ispružen. Isto tako, višezglobni mišić ne može se dovoljno produljiti da istodobno dopusti puni pokret u svim zglobovima preko kojih prelazi; to je pasivna insuficijencija. Zato je pregibanje kuka s ispruženim koljenom manje nego sa savijenim koljenom: napeti stražnji natkoljenični mišići ograničavaju ga, bez obzira na to izvodi li pokret pacijent sam ili terapeut pasivno.\n\nRazumijevanje insuficijencije važno je u svakodnevnoj terapiji: želite li ispitati puni opseg pokreta u jednom zglobu, višezglobni mišić postavite u opušten položaj u drugom zglobu, a želite li ga istegnuti, istežite ga preko svih zglobova istodobno. Na istom načelu počivaju i testovi istezljivosti, poput podizanja ispružene noge u ležanju na leđima, kojim se ispituje istezljivost stražnjih natkoljeničnih mišića."
+        }
+      ],
+      "key_points": [
+        "Poluga u tijelu: kost je šipka, zglob oslonac, mišić daje silu, a teret je težina segmenta s vanjskim otporom; mehanička prednost je omjer kraka sile i kraka tereta.",
+        "Prvi red: oslonac u sredini (glava na kralježnici); drugi red: teret u sredini, povoljna za silu (podizanje na prste); treći red: sila u sredini, povoljna za brzinu (pregibanje lakta) i najčešća u tijelu.",
+        "Izometrička kontrakcija ne mijenja duljinu mišića, koncentrična ga skraćuje, a ekscentrična produljuje pod opterećenjem; ekscentrična može razviti najveću silu.",
+        "Agonist izvodi pokret, antagonist ga koči i usklađuje, sinergist pomaže ili poništava neželjene sastavnice, a stabilizator fiksira susjedni segment.",
+        "Višezglobni mišići pokazuju aktivnu (ne mogu se dovoljno skratiti) i pasivnu (ne mogu se dovoljno produljiti) insuficijenciju."
+      ]
+    },
+    {
+      "id": "hod-i-drzanje-tijela",
+      "title": "Hod i držanje tijela",
+      "summary": "Lekcija opisuje ciklus hoda s fazama oslonca i zamaha, rad mišića tijekom hoda, obilježja pravilnog držanja tijela i najčešća odstupanja.",
+      "estimated_minutes": 11,
+      "sections": [
+        {
+          "heading": "Ciklus hoda",
+          "body": "Hod je naučeni, ritmični i naizmjenični pokret donjih udova kojim se tijelo premješta u prostoru, pri čemu barem jedno stopalo uvijek dodiruje podlogu. Osnovna jedinica za analizu hoda je ciklus hoda (dvokorak): razdoblje od dodira pete jedne noge s podlogom do sljedećeg dodira pete iste noge. Korak je kraća jedinica, od dodira pete jedne noge do dodira pete druge noge, pa ciklus hoda čine dva uzastopna koraka, lijevi i desni.\n\nCiklus hoda svake noge dijeli se u dvije faze. Faza oslonca (stojna faza) traje dok je stopalo na podlozi i obuhvaća približno 60 % ciklusa; faza zamaha (faza njihanja) traje dok je stopalo u zraku i pomiče se prema naprijed te obuhvaća približno 40 % ciklusa. Dok je jedna noga u zamahu, druga je u osloncu, a na početku i na kraju faze oslonca obje noge kratko istodobno dodiruju podlogu.\n\nTo razdoblje nazivamo dvostrukim osloncem; javlja se dvaput u ciklusu i ukupno zauzima oko 20 % ciklusa normalnog hoda. Što je hod brži, dvostruki oslonac je kraći, a u trčanju potpuno nestaje i zamjenjuje ga faza leta u kojoj nijedno stopalo ne dodiruje podlogu; upravo je to osnovna razlika između hoda i trčanja. Pri analizi hoda bilježe se duljina koraka, širina koraka, ritam (kadenca, broj koraka u minuti) i brzina hoda."
+        },
+        {
+          "heading": "Faze oslonca i zamaha",
+          "body": "Faza oslonca dijeli se na podfaze. Počinje početnim kontaktom, u normalnom hodu dodirom pete (engl. heel strike). Slijedi prihvaćanje opterećenja, u kojem se cijelo stopalo spušta na podlogu i tjelesna težina prenosi na tu nogu. U srednjem osloncu tijelo prelazi preko stopala koje stoji ravno na podlozi i noga sama nosi cijelu težinu tijela. U završnom osloncu peta se odiže od podloge, a faza oslonca završava odrazom, u kojem se od podloge odižu prsti (engl. toe off).\n\nFaza zamaha također ima tri dijela: početni zamah, u kojem se noga odiže i ubrzava prema naprijed, srednji zamah, u kojem noga prolazi pokraj stojne noge, i završni zamah, u kojem se potkoljenica ispruža, noga usporava i priprema se za novi dodir pete. Tijekom zamaha koljeno i kuk se pregibaju, a stopalo se drži u dorzalnoj fleksiji kako prsti ne bi zapeli za podlogu.\n\nNovija podjela (Rancho Los Amigos) opisuje osam faza ciklusa hoda: početni kontakt, prihvaćanje opterećenja, srednji oslonac, završni oslonac i predzamah u fazi oslonca te početni, srednji i završni zamah u fazi zamaha. Nazivlje nije toliko važno koliko razumijevanje zadatka svake faze: prihvaćanje opterećenja ublažava udar, srednji oslonac nosi tijelo, a završni oslonac i odraz daju pogon za sljedeći korak.",
+          "bullets": [
+            "Faza oslonca (oko 60 %): početni kontakt (dodir pete), prihvaćanje opterećenja, srednji oslonac, završni oslonac (odizanje pete) i predzamah, koji završava odrazom (odizanjem prstiju)",
+            "Faza zamaha (oko 40 %): početni, srednji i završni zamah",
+            "Dvostruki oslonac: dvaput u ciklusu, ukupno oko 20 %; u trčanju ga nema"
+          ],
+          "image": {
+            "file": "osnove-kineziologije/hod.jpg",
+            "caption": "Hod bos po šumskoj stazi. Svaki korak izmjenjuje fazu oslonca, dok stopalo nosi težinu tijela, i fazu zamaha, dok se noga prenosi naprijed.",
+            "credits": [
+              {
+                "title": "Male barefooter walking on a forest path",
+                "author": "Barefootboy2005",
+                "source": "https://commons.wikimedia.org/wiki/File:Male_barefooter_walking_on_a_forest_path.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Rad mišića tijekom hoda",
+          "body": "Mišići tijekom hoda većinom rade ekscentrički i izometrički, ublažavajući udarce i stabilizirajući zglobove, a koncentrični rad prevladava pri odrazu. Neposredno nakon dodira pete prednji goljenični mišić (m. tibialis anterior) i ostali dorzalni fleksori stopala rade ekscentrički i polako spuštaju stopalo na podlogu; ako su slabi, stopalo pljesne o pod. Istodobno četveroglavi bedreni mišić (m. quadriceps femoris) ekscentrički kontrolira lagano pregibanje koljena pri prihvaćanju opterećenja, a veliki glutealni mišić (m. gluteus maximus) i stražnji natkoljenični mišići ispružaju kuk i sprječavaju da se trup sruši prema naprijed.\n\nTijekom srednjeg oslonca najvažniji je srednji glutealni mišić (m. gluteus medius) stojne noge: on izometrički drži zdjelicu vodoravno dok je druga noga u zamahu. Pri završnom osloncu i odrazu troglavi mišić lista (m. triceps surae) snažno koncentrički plantarno pregiba stopalo i daje glavni pogon hodu. U završnom zamahu stražnji natkoljenični mišići ekscentrički usporavaju potkoljenicu koja se ispruža, a četveroglavi mišić se priprema za prihvaćanje udara pri novom dodiru pete."
+        },
+        {
+          "heading": "Najčešća odstupanja u hodu",
+          "body": "Odstupanja u hodu najčešće su posljedica boli, slabosti pojedinih mišića, ograničenog opsega pokreta ili oštećenja živčanog sustava. Antalgični hod nastaje zbog boli: faza oslonca na bolnoj nozi je skraćena, a korak zdrave noge brz i kratak, jer pacijent što prije prenosi težinu s bolne noge. Trendelenburgov hod nastaje zbog slabosti srednjeg glutealnog mišića: tijekom oslonca na slaboj nozi zdjelica se spušta na suprotnoj strani (Trendelenburgov znak), a pacijent to često nadoknađuje naginjanjem trupa prema slaboj strani.\n\nPeronealni hod (stepaž) nastaje zbog slabosti dorzalnih fleksora stopala, na primjer pri oštećenju peronealnog živca: stopalo visi, pa pacijent pretjerano podiže koljeno kako prsti ne bi zapeli za podlogu. Hemiparetični hod nakon moždanog udara obilježava kruženje ukočene noge prema van (cirkumdukcija), jer se koljeno ne može dovoljno pregnuti. Parkinsonski hod ima male, vučene korake, pognuti trup i smanjeno njihanje ruku, a ataksični hod široku bazu i nesigurne, nejednake korake.",
+          "bullets": [
+            "Antalgični hod – bol – skraćena faza oslonca na bolnoj nozi",
+            "Trendelenburgov hod – slabost m. gluteus medius – spuštanje zdjelice na suprotnoj strani",
+            "Peronealni hod (stepaž) – slabost dorzalnih fleksora – viseće stopalo, visoko podizanje koljena",
+            "Hemiparetični hod – cirkumdukcija ukočene noge",
+            "Parkinsonski hod – mali vučeni koraci, pognuti trup, smanjeno njihanje ruku"
+          ]
+        },
+        {
+          "heading": "Držanje tijela i najčešća odstupanja",
+          "body": "Držanje tijela (postura) položaj je koji tijelo zauzima u mirovanju i pokretu, a održava se usklađenim izometričkim radom mišića uz najmanji utrošak energije. Pravilno uspravno držanje ocjenjuje se sa strane i straga pomoću olovnice (viska). Gledano sa strane, olovnica prolazi kroz vanjski slušni hodnik, sredinu ramena (akromion), veliki trohanter bedrene kosti, malo ispred sredine koljena i malo ispred lateralnog gležnja. Kralježnica pritom ima četiri fiziološke krivine: vratnu lordozu, prsnu kifozu, slabinsku lordozu i križnu kifozu.\n\nGledano straga, kralježnica mora biti ravna, a glava, ramena, lopatice, trokuti struka, zdjelica i koljena simetrični. Odstupanja u sagitalnoj ravnini su pojačane ili smanjene fiziološke krivine: hiperkifoza prsnog dijela daje okrugla leđa, često s glavom i ramenima pomaknutima prema naprijed, hiperlordoza slabinskog dijela povezana je s prednjim nagibom zdjelice i isturenim trbuhom, a ravna leđa imaju smanjene krivine i slabije ublažavaju opterećenje. Nagib zdjelice izravno utječe na slabinsku krivinu: prednji nagib je povećava, a stražnji smanjuje.\n\nSkolioza je bočno iskrivljenje kralježnice u frontalnoj ravnini. Funkcionalna (posturalna) skolioza nema promjena na kralješcima i ispravlja se pri pretklonu ili u ležanju, dok je strukturna skolioza praćena rotacijom kralježaka i ne ispravlja se. Rotacija se otkriva Adamsovim testom pretklona, pri kojem se na konveksnoj strani krivine pojavi rebrena grba. Na donjim udovima, gledano sprijeda ili straga, dakle u frontalnoj ravnini, najčešća su odstupanja koljena u obliku slova O (genu varum) i slova X (genu valgum) te spušteni (pes planus) i izdubljeni (pes cavus) svod stopala.",
+          "bullets": [
+            "Olovnica sa strane: slušni hodnik – akromion – veliki trohanter – ispred sredine koljena – ispred lateralnog gležnja",
+            "Hiperkifoza – okrugla leđa; hiperlordoza – prednji nagib zdjelice, isturen trbuh; ravna leđa – smanjene krivine",
+            "Skolioza – bočno iskrivljenje u frontalnoj ravnini; strukturna ima rotaciju kralježaka (Adamsov test)",
+            "Genu varum – O-noge; genu valgum – X-noge; pes planus – spušteni svod stopala"
+          ],
+          "image": {
+            "file": "osnove-kineziologije/kifoticno-drzanje.jpg",
+            "caption": "Pognuto držanje: pojačana prsna kifoza (hiperkifoza, okrugla leđa), označena strelicom.",
+            "credits": [
+              {
+                "title": "Posturalkyphosis",
+                "author": "CarpalTunnelEx",
+                "source": "https://commons.wikimedia.org/wiki/File:Posturalkyphosis.png",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        }
+      ],
+      "key_points": [
+        "Ciklus hoda (dvokorak) čine faza oslonca (oko 60 %) i faza zamaha (oko 40 %); dvostruki oslonac javlja se dvaput u ciklusu, a u trčanju ga nema.",
+        "Faza oslonca: dodir pete, prihvaćanje opterećenja, srednji oslonac, završni oslonac i odraz; faza zamaha: početni, srednji i završni zamah.",
+        "Mišići u hodu rade pretežno ekscentrički i izometrički: dorzalni fleksori spuštaju stopalo nakon dodira pete, m. gluteus medius drži zdjelicu, a m. triceps surae koncentrički daje odraz.",
+        "Trendelenburgov hod nastaje zbog slabosti m. gluteus medius, peronealni hod zbog slabosti dorzalnih fleksora stopala, a antalgični hod zbog boli.",
+        "Pravilno držanje: olovnica prolazi kroz slušni hodnik, akromion i veliki trohanter te ispred koljena i lateralnog gležnja; kralježnica ima četiri fiziološke krivine.",
+        "Skolioza je iskrivljenje u frontalnoj ravnini; strukturna skolioza ima rotaciju kralježaka vidljivu kao rebrena grba pri Adamsovu testu."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "kin-001",
+      "lesson_id": "anatomski-polozaj-ravnine-i-osi",
+      "type": "single",
+      "difficulty": 1,
+      "text": "U anatomskom položaju dlanovi su okrenuti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "prema naprijed"
+        },
+        {
+          "id": "b",
+          "text": "prema tijelu"
+        },
+        {
+          "id": "c",
+          "text": "prema natrag"
+        },
+        {
+          "id": "d",
+          "text": "prema dolje"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Anatomski položaj dogovoren je s podlakticama u supinaciji, pa su dlanovi okrenuti prema naprijed. Zbog toga je palac u anatomskom položaju lateralno, iako nam se u svakodnevnom držanju, s dlanovima okrenutima prema tijelu, čini da je sprijeda.",
+      "tags": [
+        "anatomski položaj"
+      ]
+    },
+    {
+      "id": "kin-002",
+      "lesson_id": "anatomski-polozaj-ravnine-i-osi",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Frontalna (koronalna) ravnina dijeli tijelo na:",
+      "options": [
+        {
+          "id": "a",
+          "text": "lijevi i desni dio"
+        },
+        {
+          "id": "b",
+          "text": "prednji i stražnji dio"
+        },
+        {
+          "id": "c",
+          "text": "gornji i donji dio"
+        },
+        {
+          "id": "d",
+          "text": "proksimalni i distalni dio"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Frontalna ravnina postavljena je uspravno u smjeru lijevo-desno, usporedno s čelom, pa dijeli tijelo na prednji i stražnji dio. Na lijevi i desni dio dijeli ga sagitalna ravnina, a na gornji i donji transverzalna.",
+      "tags": [
+        "ravnine"
+      ]
+    },
+    {
+      "id": "kin-003",
+      "lesson_id": "anatomski-polozaj-ravnine-i-osi",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Pregibanje (fleksija) i ispružanje (ekstenzija) lakta odvijaju se:",
+      "options": [
+        {
+          "id": "a",
+          "text": "u frontalnoj ravnini oko sagitalne osi"
+        },
+        {
+          "id": "b",
+          "text": "u sagitalnoj ravnini oko frontalne (poprečne) osi"
+        },
+        {
+          "id": "c",
+          "text": "u transverzalnoj ravnini oko uzdužne osi"
+        },
+        {
+          "id": "d",
+          "text": "u sagitalnoj ravnini oko sagitalne osi"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Pregibanje i ispružanje odvijaju se u sagitalnoj ravnini, a os je uvijek okomita na ravninu pokreta, pa je to frontalna (poprečna) os koja prolazi s lijeve na desnu stranu. Oko sagitalne osi odvijaju se odmicanje i primicanje, a oko uzdužne osi rotacije.",
+      "tags": [
+        "osi",
+        "ravnine"
+      ]
+    },
+    {
+      "id": "kin-004",
+      "lesson_id": "anatomski-polozaj-ravnine-i-osi",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Pronacija podlaktice je pokret pri kojem se:",
+      "options": [
+        {
+          "id": "a",
+          "text": "dlan okreće prema dolje odnosno natrag"
+        },
+        {
+          "id": "b",
+          "text": "dlan okreće prema gore odnosno naprijed"
+        },
+        {
+          "id": "c",
+          "text": "taban okreće prema unutra"
+        },
+        {
+          "id": "d",
+          "text": "prednji dio stopala podiže prema potkoljenici"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Pronacija je okretanje podlaktice oko uzdužne osi pri kojem se dlan okreće prema dolje, dok ga supinacija vraća prema gore, u anatomski položaj. Okretanje tabana prema unutra je inverzija, a podizanje prednjeg dijela stopala prema potkoljenici dorzalna fleksija.",
+      "tags": [
+        "pronacija",
+        "supinacija"
+      ]
+    },
+    {
+      "id": "kin-005",
+      "lesson_id": "anatomski-polozaj-ravnine-i-osi",
+      "type": "true_false",
+      "difficulty": 1,
+      "text": "Koljeno se nalazi distalno od kuka.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "t"
+      ],
+      "explanation": "Na udovima proksimalno znači bliže mjestu gdje ud izlazi iz trupa, a distalno dalje od trupa. Koljeno je od trupa udaljenije nego kuk, pa je distalno od njega.",
+      "tags": [
+        "smjerovi"
+      ]
+    },
+    {
+      "id": "kin-006",
+      "lesson_id": "anatomski-polozaj-ravnine-i-osi",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Koji se pokreti odvijaju u frontalnoj ravnini?",
+      "options": [
+        {
+          "id": "a",
+          "text": "odmicanje (abdukcija)"
+        },
+        {
+          "id": "b",
+          "text": "pregibanje (fleksija)"
+        },
+        {
+          "id": "c",
+          "text": "bočno pregibanje trupa (laterofleksija)"
+        },
+        {
+          "id": "d",
+          "text": "rotacija"
+        },
+        {
+          "id": "e",
+          "text": "primicanje (adukcija)"
+        }
+      ],
+      "correct": [
+        "a",
+        "c",
+        "e"
+      ],
+      "explanation": "U frontalnoj ravnini, oko sagitalne osi, odvijaju se odmicanje, primicanje i bočno pregibanje trupa. Pregibanje se odvija u sagitalnoj ravnini, a rotacija u transverzalnoj.",
+      "tags": [
+        "ravnine",
+        "pokreti"
+      ]
+    },
+    {
+      "id": "kin-007",
+      "lesson_id": "anatomski-polozaj-ravnine-i-osi",
+      "type": "single",
+      "difficulty": 3,
+      "text": "Pacijent u ležanju okreće prednju stranu natkoljenice prema sredini tijela. Kako se taj pokret naziva i oko koje se osi odvija?",
+      "options": [
+        {
+          "id": "a",
+          "text": "vanjska rotacija oko uzdužne osi"
+        },
+        {
+          "id": "b",
+          "text": "unutarnja rotacija oko uzdužne osi"
+        },
+        {
+          "id": "c",
+          "text": "primicanje (adukcija) oko sagitalne osi"
+        },
+        {
+          "id": "d",
+          "text": "unutarnja rotacija oko frontalne osi"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Okretanje prednje strane uda prema sredini tijela je unutarnja (medijalna) rotacija, a svaka se rotacija odvija oko uzdužne osi segmenta, u transverzalnoj ravnini. Primicanje bi bilo pomicanje cijele noge prema središnjoj ravnini tijela, a ne okretanje oko vlastite osi.",
+      "tags": [
+        "rotacija",
+        "osi"
+      ]
+    },
+    {
+      "id": "kin-008",
+      "lesson_id": "anatomski-polozaj-ravnine-i-osi",
+      "type": "true_false",
+      "difficulty": 1,
+      "text": "Inverzija stopala je okretanje tabana prema van.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "f"
+      ],
+      "explanation": "Inverzija je okretanje tabana prema unutra, prema sredini tijela. Okretanje tabana prema van naziva se everzija.",
+      "tags": [
+        "inverzija",
+        "everzija"
+      ]
+    },
+    {
+      "id": "kin-009",
+      "lesson_id": "zglobovi-i-opseg-pokreta",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Kuglasti zglob (articulatio spheroidea), poput ramenog zgloba, dopušta pokrete oko:",
+      "options": [
+        {
+          "id": "a",
+          "text": "jedne osi"
+        },
+        {
+          "id": "b",
+          "text": "dviju osi"
+        },
+        {
+          "id": "c",
+          "text": "triju osi"
+        },
+        {
+          "id": "d",
+          "text": "nijedne osi, samo klizanje"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "Kuglasti zglob ima glavu u obliku kugle i plitku čašicu, pa su pokreti mogući oko triju osi: pregibanje i ispružanje, odmicanje i primicanje te rotacija. Zato je to najpokretljiviji zglob, s tri stupnja slobode.",
+      "tags": [
+        "zglobovi"
+      ]
+    },
+    {
+      "id": "kin-010",
+      "lesson_id": "zglobovi-i-opseg-pokreta",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Koji je zglob jednoosni i dopušta samo rotaciju oko uzdužne osi?",
+      "options": [
+        {
+          "id": "a",
+          "text": "kutni zglob (ginglymus)"
+        },
+        {
+          "id": "b",
+          "text": "obrtni zglob (articulatio trochoidea)"
+        },
+        {
+          "id": "c",
+          "text": "sedlasti zglob (articulatio sellaris)"
+        },
+        {
+          "id": "d",
+          "text": "jajoliki zglob (articulatio ellipsoidea)"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Obrtni zglob ima uzdužno postavljen valjak, pa dopušta samo rotaciju; takvi su gornji radioulnarni zglob i zglob između prvog i drugog vratnog kralješka. Kutni zglob također je jednoosni, ali dopušta pregibanje i ispružanje, a sedlasti i jajoliki zglob dvoosni su.",
+      "tags": [
+        "zglobovi",
+        "rotacija"
+      ]
+    },
+    {
+      "id": "kin-011",
+      "lesson_id": "zglobovi-i-opseg-pokreta",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Sinovijalnu tekućinu u pravom zglobu luči:",
+      "options": [
+        {
+          "id": "a",
+          "text": "zglobna hrskavica"
+        },
+        {
+          "id": "b",
+          "text": "sinovijalna membrana zglobne čahure"
+        },
+        {
+          "id": "c",
+          "text": "sveza (ligament)"
+        },
+        {
+          "id": "d",
+          "text": "zglobna usna (labrum)"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Unutarnji sloj zglobne čahure sinovijalna je membrana koja luči sinovijalnu tekućinu; ona podmazuje zglob i hrani zglobnu hrskavicu, koja nema vlastitih krvnih žila. Sveze učvršćuju zglob, a zglobna usna produbljuje čašicu.",
+      "tags": [
+        "zglob",
+        "građa zgloba"
+      ]
+    },
+    {
+      "id": "kin-012",
+      "lesson_id": "zglobovi-i-opseg-pokreta",
+      "type": "multiple",
+      "difficulty": 3,
+      "text": "Koji zglobovi imaju dva stupnja slobode (dvoosni zglobovi)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "karpometakarpalni zglob palca"
+        },
+        {
+          "id": "b",
+          "text": "ručni (radiokarpalni) zglob"
+        },
+        {
+          "id": "c",
+          "text": "rameni zglob"
+        },
+        {
+          "id": "d",
+          "text": "gornji radioulnarni zglob"
+        },
+        {
+          "id": "e",
+          "text": "zglobovi među člancima prstiju"
+        }
+      ],
+      "correct": [
+        "a",
+        "b"
+      ],
+      "explanation": "Karpometakarpalni zglob palca sedlasti je, a ručni zglob jajoliki; oba dopuštaju pregibanje i ispružanje te odmicanje i primicanje, dakle pokrete oko dviju osi. Rameni je zglob kuglast i ima tri stupnja slobode, a gornji radioulnarni (obrtni) zglob i zglobovi među člancima prstiju (kutni) jednoosni su.",
+      "tags": [
+        "zglobovi",
+        "stupnjevi slobode"
+      ]
+    },
+    {
+      "id": "kin-013",
+      "lesson_id": "zglobovi-i-opseg-pokreta",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Pri pasivnom ispružanju lakta terapeut na kraju pokreta osjeća tvrd, koštani otpor. Kako se taj nalaz tumači?",
+      "options": [
+        {
+          "id": "a",
+          "text": "normalan tvrdi osjećaj kraja pokreta, jer se kost zaustavlja o kost"
+        },
+        {
+          "id": "b",
+          "text": "patološki nalaz koji uvijek upućuje na ozljedu zgloba"
+        },
+        {
+          "id": "c",
+          "text": "pokret je zaustavljen napetošću mišića, pa je osjećaj čvrst i elastičan"
+        },
+        {
+          "id": "d",
+          "text": "pokret je zaustavljen priljubljivanjem mekih tkiva"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Ispružanje lakta normalno završava tvrdim, koštanim osjećajem kraja pokreta jer se lakatni nastavak (olekranon) zaustavlja o nadlaktičnu kost. Mekani osjećaj nastaje priljubljivanjem mekih tkiva, na primjer pri pregibanju koljena, a čvrsti zbog napetosti čahure, sveza ili mišića.",
+      "tags": [
+        "osjećaj kraja pokreta",
+        "goniometrija"
+      ]
+    },
+    {
+      "id": "kin-014",
+      "lesson_id": "zglobovi-i-opseg-pokreta",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Normalno pregibanje (fleksija) koljena iznosi približno:",
+      "options": [
+        {
+          "id": "a",
+          "text": "45°"
+        },
+        {
+          "id": "b",
+          "text": "90°"
+        },
+        {
+          "id": "c",
+          "text": "135°"
+        },
+        {
+          "id": "d",
+          "text": "180°"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "Koljeno se normalno pregiba 130 do 150°, ovisno o debljini lista i natkoljenice, a ispružanje završava u 0°. Opseg od oko 180° među velikim zglobovima ima rame pri pregibanju i odmicanju.",
+      "tags": [
+        "opseg pokreta",
+        "koljeno"
+      ]
+    },
+    {
+      "id": "kin-015",
+      "lesson_id": "zglobovi-i-opseg-pokreta",
+      "type": "true_false",
+      "difficulty": 2,
+      "text": "Pasivni opseg pokreta u pravilu je jednak aktivnome ili nešto veći od njega.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "t"
+      ],
+      "explanation": "Pasivni pokret izvodi terapeut dok je pacijent opušten, pa ne ovisi o snazi mišića; zato je pasivni opseg u pravilu jednak aktivnome ili nešto veći. Aktivni opseg izvodi pacijent vlastitom mišićnom snagom.",
+      "tags": [
+        "opseg pokreta"
+      ]
+    },
+    {
+      "id": "kin-016",
+      "lesson_id": "zglobovi-i-opseg-pokreta",
+      "type": "single",
+      "difficulty": 3,
+      "text": "Aktivno pregibanje ramena iznosi 90°, a pasivno 170°. Gdje je najvjerojatnije uzrok ograničenja?",
+      "options": [
+        {
+          "id": "a",
+          "text": "u zglobnoj čahuri"
+        },
+        {
+          "id": "b",
+          "text": "u mišiću ili živcu"
+        },
+        {
+          "id": "c",
+          "text": "u zglobnoj hrskavici"
+        },
+        {
+          "id": "d",
+          "text": "u svezama zgloba"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Kad je pasivni opseg znatno veći od aktivnoga, zglob se može pomaknuti, ali pacijent to ne može izvesti vlastitom snagom, pa je uzrok najvjerojatnije u mišiću ili živcu. Kad je uzrok u samom zglobu, čahuri ili svezama, jednako su smanjeni i aktivni i pasivni opseg.",
+      "tags": [
+        "opseg pokreta",
+        "procjena"
+      ]
+    },
+    {
+      "id": "kin-017",
+      "lesson_id": "poluge-i-misicni-rad",
+      "type": "true_false",
+      "difficulty": 1,
+      "text": "Što je krak sile dulji od kraka tereta, to je poluga povoljnija za silu.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "t"
+      ],
+      "explanation": "Mehanička prednost omjer je kraka sile i kraka tereta: kad je krak sile dulji, manji mišićni vlak podiže veći teret, pa je poluga povoljna za silu. Kad je krak sile kraći, poluga je nepovoljna za silu, ali povoljna za brzinu i opseg pokreta.",
+      "tags": [
+        "poluge",
+        "biomehanika"
+      ]
+    },
+    {
+      "id": "kin-018",
+      "lesson_id": "poluge-i-misicni-rad",
+      "type": "single",
+      "difficulty": 1,
+      "text": "U poluzi trećeg reda:",
+      "options": [
+        {
+          "id": "a",
+          "text": "oslonac je između sile i tereta"
+        },
+        {
+          "id": "b",
+          "text": "teret je između oslonca i sile"
+        },
+        {
+          "id": "c",
+          "text": "sila je između oslonca i tereta"
+        },
+        {
+          "id": "d",
+          "text": "sila i teret djeluju na istoj strani oslonca na jednakoj udaljenosti"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "Poluga trećeg reda ima silu između oslonca i tereta, kao pinceta ili dvoglavi nadlaktični mišić pri pregibanju lakta. Oslonac u sredini obilježje je poluge prvog reda, a teret u sredini poluge drugog reda.",
+      "tags": [
+        "poluge"
+      ]
+    },
+    {
+      "id": "kin-019",
+      "lesson_id": "poluge-i-misicni-rad",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Podizanje tijela na prste primjer je poluge:",
+      "options": [
+        {
+          "id": "a",
+          "text": "prvog reda, jer je oslonac između sile i tereta"
+        },
+        {
+          "id": "b",
+          "text": "drugog reda, jer je teret između oslonca i sile"
+        },
+        {
+          "id": "c",
+          "text": "trećeg reda, jer je sila između oslonca i tereta"
+        },
+        {
+          "id": "d",
+          "text": "trećeg reda, jer je teret između oslonca i sile"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Pri podizanju na prste oslonac su zglobovi između kostiju donožja i prstiju, teret je težina tijela koja kroz gležanj pada između oslonca i pete, a silu daju mišići lista preko Ahilove tetive na petnoj kosti. Teret u sredini znači polugu drugog reda, koja je povoljna za silu.",
+      "tags": [
+        "poluge"
+      ]
+    },
+    {
+      "id": "kin-020",
+      "lesson_id": "poluge-i-misicni-rad",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Što vrijedi za ekscentričnu kontrakciju?",
+      "options": [
+        {
+          "id": "a",
+          "text": "mišić se produljuje dok je napet"
+        },
+        {
+          "id": "b",
+          "text": "mišić koči i kontrolira pokret, na primjer pri spuštanju tereta"
+        },
+        {
+          "id": "c",
+          "text": "duljina mišića se ne mijenja"
+        },
+        {
+          "id": "d",
+          "text": "mišić se skraćuje i svladava otpor"
+        },
+        {
+          "id": "e",
+          "text": "može razviti veću silu od koncentrične kontrakcije"
+        },
+        {
+          "id": "f",
+          "text": "moguća je samo na posebnim izokinetičkim uređajima"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "e"
+      ],
+      "explanation": "Pri ekscentričnoj kontrakciji napeti se mišić produljuje pod opterećenjem i koči pokret, kao pri spuštanju utega ili silaženju niz stube, a može razviti veću silu od koncentrične. Nepromijenjena duljina obilježje je izometričke, a skraćivanje koncentrične kontrakcije; samo je izokinetička kontrakcija vezana uz posebne uređaje.",
+      "tags": [
+        "kontrakcija",
+        "ekscentrična kontrakcija"
+      ]
+    },
+    {
+      "id": "kin-021",
+      "lesson_id": "poluge-i-misicni-rad",
+      "type": "true_false",
+      "difficulty": 1,
+      "text": "Pri izometričkoj kontrakciji mišić se skraćuje i u zglobu nastaje pokret.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "f"
+      ],
+      "explanation": "Pri izometričkoj (statičkoj) kontrakciji napetost mišića raste, ali duljina ostaje ista i u zglobu nema pokreta, kao pri držanju tereta u nepomičnom položaju. Skraćivanje mišića uz pokret obilježje je koncentrične kontrakcije.",
+      "tags": [
+        "kontrakcija",
+        "izometrička kontrakcija"
+      ]
+    },
+    {
+      "id": "kin-022",
+      "lesson_id": "poluge-i-misicni-rad",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Mišić koji svojom kontrakcijom izvodi željeni pokret naziva se:",
+      "options": [
+        {
+          "id": "a",
+          "text": "antagonist"
+        },
+        {
+          "id": "b",
+          "text": "agonist"
+        },
+        {
+          "id": "c",
+          "text": "sinergist"
+        },
+        {
+          "id": "d",
+          "text": "stabilizator"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Agonist ili glavni pokretač mišić je koji izvodi pokret. Antagonist ima suprotno djelovanje i koči pokret, sinergist pomaže agonistu ili poništava neželjene sastavnice njegova djelovanja, a stabilizator drži susjedni segment nepomičnim.",
+      "tags": [
+        "uloge mišića"
+      ]
+    },
+    {
+      "id": "kin-023",
+      "lesson_id": "poluge-i-misicni-rad",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Koji je mišić antagonist pri pregibanju lakta?",
+      "options": [
+        {
+          "id": "a",
+          "text": "dvoglavi nadlaktični mišić (m. biceps brachii)"
+        },
+        {
+          "id": "b",
+          "text": "nadlaktični mišić (m. brachialis)"
+        },
+        {
+          "id": "c",
+          "text": "troglavi nadlaktični mišić (m. triceps brachii)"
+        },
+        {
+          "id": "d",
+          "text": "nadlaktičnopalčani mišić (m. brachioradialis)"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "Troglavi nadlaktični mišić ispruža lakat, pa je pri pregibanju antagonist koji se opušta i produljuje te usklađuje pokret. Nadlaktični i dvoglavi nadlaktični mišić agonisti su pregibanja, a nadlaktičnopalčani mišić sinergist.",
+      "tags": [
+        "uloge mišića",
+        "lakat"
+      ]
+    },
+    {
+      "id": "kin-024",
+      "lesson_id": "poluge-i-misicni-rad",
+      "type": "single",
+      "difficulty": 3,
+      "text": "Terapeut pacijentu u ležanju na leđima pasivno pregiba kuk: sa savijenim koljenom postiže 120°, a s ispruženim koljenom samo 80°. Čime se to objašnjava?",
+      "options": [
+        {
+          "id": "a",
+          "text": "pasivnom insuficijencijom stražnjih natkoljeničnih mišića"
+        },
+        {
+          "id": "b",
+          "text": "aktivnom insuficijencijom stražnjih natkoljeničnih mišića"
+        },
+        {
+          "id": "c",
+          "text": "aktivnom insuficijencijom ravnog bedrenog mišića"
+        },
+        {
+          "id": "d",
+          "text": "tvrdim, koštanim osjećajem kraja pokreta u kuku"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Stražnji natkoljenični mišići prelaze preko kuka i koljena; s ispruženim koljenom ne mogu se dovoljno produljiti da dopuste puno pregibanje kuka, što je pasivna insuficijencija. Aktivna insuficijencija nemogućnost je dovoljnog skraćivanja višezglobnog mišića koji izvodi pokret, a ovdje pokret izvodi terapeut pasivno; ravni bedreni mišić pregiba kuk, pa ga ne ograničava.",
+      "tags": [
+        "insuficijencija",
+        "višezglobni mišići"
+      ]
+    },
+    {
+      "id": "kin-025",
+      "lesson_id": "poluge-i-misicni-rad",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Što NIJE obilježje poluge drugog reda?",
+      "options": [
+        {
+          "id": "a",
+          "text": "teret je između oslonca i sile"
+        },
+        {
+          "id": "b",
+          "text": "krak sile dulji je od kraka tereta"
+        },
+        {
+          "id": "c",
+          "text": "povoljna je za silu"
+        },
+        {
+          "id": "d",
+          "text": "najčešća je poluga u ljudskom tijelu"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "Najčešća poluga u ljudskom tijelu poluga je trećeg reda, u kojoj se mišić hvata blizu zgloba, pa je povoljna za brzinu i opseg pokreta. Poluga drugog reda ima teret u sredini, dulji krak sile i povoljna je za silu, kao pri podizanju na prste.",
+      "tags": [
+        "poluge"
+      ]
+    },
+    {
+      "id": "kin-026",
+      "lesson_id": "hod-i-drzanje-tijela",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Faza oslonca u normalnom hodu obuhvaća približno:",
+      "options": [
+        {
+          "id": "a",
+          "text": "20 % ciklusa hoda"
+        },
+        {
+          "id": "b",
+          "text": "40 % ciklusa hoda"
+        },
+        {
+          "id": "c",
+          "text": "60 % ciklusa hoda"
+        },
+        {
+          "id": "d",
+          "text": "80 % ciklusa hoda"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "Faza oslonca traje dok je stopalo na podlozi i obuhvaća oko 60 % ciklusa hoda, a faza zamaha oko 40 %. Dvostruki oslonac ukupno zauzima oko 20 % ciklusa.",
+      "tags": [
+        "hod",
+        "faze hoda"
+      ]
+    },
+    {
+      "id": "kin-027",
+      "lesson_id": "hod-i-drzanje-tijela",
+      "type": "true_false",
+      "difficulty": 1,
+      "text": "U trčanju, za razliku od hoda, nema dvostrukog oslonca, nego postoji faza leta u kojoj nijedno stopalo ne dodiruje podlogu.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "t"
+      ],
+      "explanation": "U hodu barem jedno stopalo uvijek dodiruje podlogu, a dvostruki oslonac javlja se dvaput u ciklusu. Što je hod brži, dvostruki oslonac je kraći, a u trčanju nestaje i zamjenjuje ga faza leta, što je osnovna razlika između hoda i trčanja.",
+      "tags": [
+        "hod",
+        "trčanje"
+      ]
+    },
+    {
+      "id": "kin-028",
+      "lesson_id": "hod-i-drzanje-tijela",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Koje podfaze pripadaju fazi oslonca?",
+      "options": [
+        {
+          "id": "a",
+          "text": "početni kontakt (dodir pete)"
+        },
+        {
+          "id": "b",
+          "text": "srednji zamah"
+        },
+        {
+          "id": "c",
+          "text": "prihvaćanje opterećenja"
+        },
+        {
+          "id": "d",
+          "text": "završni zamah"
+        },
+        {
+          "id": "e",
+          "text": "odraz (odizanje prstiju)"
+        }
+      ],
+      "correct": [
+        "a",
+        "c",
+        "e"
+      ],
+      "explanation": "Faza oslonca počinje početnim kontaktom, nastavlja se prihvaćanjem opterećenja, srednjim i završnim osloncem te završava odrazom, kad se prsti odižu od podloge. Početni, srednji i završni zamah dijelovi su faze zamaha, dok je stopalo u zraku.",
+      "tags": [
+        "faze hoda"
+      ]
+    },
+    {
+      "id": "kin-029",
+      "lesson_id": "hod-i-drzanje-tijela",
+      "type": "single",
+      "difficulty": 3,
+      "text": "Tijekom oslonca na desnoj nozi zdjelica se spušta na lijevoj strani, a trup se naginje udesno. Slabost kojeg mišića je najvjerojatniji uzrok?",
+      "options": [
+        {
+          "id": "a",
+          "text": "desnog srednjeg glutealnog mišića (m. gluteus medius)"
+        },
+        {
+          "id": "b",
+          "text": "lijevog srednjeg glutealnog mišića (m. gluteus medius)"
+        },
+        {
+          "id": "c",
+          "text": "desnog prednjeg goljeničnog mišića (m. tibialis anterior)"
+        },
+        {
+          "id": "d",
+          "text": "lijevog četveroglavog bedrenog mišića (m. quadriceps femoris)"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Srednji glutealni mišić stojne noge izometrički drži zdjelicu vodoravno dok je druga noga u zamahu; kad je slab, zdjelica se spušta na suprotnoj strani (Trendelenburgov znak), a pacijent to nadoknađuje naginjanjem trupa prema slaboj strani. Pri osloncu na desnoj nozi slab je dakle desni mišić.",
+      "tags": [
+        "trendelenburg",
+        "odstupanja hoda"
+      ]
+    },
+    {
+      "id": "kin-030",
+      "lesson_id": "hod-i-drzanje-tijela",
+      "type": "multiple",
+      "difficulty": 3,
+      "text": "Koje su tvrdnje o radu mišića tijekom hoda točne?",
+      "options": [
+        {
+          "id": "a",
+          "text": "neposredno nakon dodira pete dorzalni fleksori stopala rade ekscentrički i polako spuštaju stopalo na podlogu"
+        },
+        {
+          "id": "b",
+          "text": "troglavi mišić lista (m. triceps surae) pri odrazu radi koncentrički"
+        },
+        {
+          "id": "c",
+          "text": "srednji glutealni mišić (m. gluteus medius) stojne noge drži zdjelicu vodoravno"
+        },
+        {
+          "id": "d",
+          "text": "četveroglavi bedreni mišić pri prihvaćanju opterećenja radi koncentrički i naglo ispruža koljeno"
+        },
+        {
+          "id": "e",
+          "text": "stražnji natkoljenični mišići u završnom zamahu ubrzavaju potkoljenicu prema naprijed"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c"
+      ],
+      "explanation": "Mišići u hodu većinom rade ekscentrički i izometrički: dorzalni fleksori nakon dodira pete koče spuštanje stopala, a m. gluteus medius izometrički drži zdjelicu vodoravno. Koncentrični rad prevladava pri odrazu, kad m. triceps surae plantarno pregiba stopalo. Četveroglavi mišić pri prihvaćanju opterećenja ekscentrički kontrolira pregibanje koljena, a stražnji natkoljenični mišići u završnom zamahu ekscentrički usporavaju potkoljenicu, ne ubrzavaju je.",
+      "tags": [
+        "hod",
+        "rad mišića"
+      ]
+    },
+    {
+      "id": "kin-031",
+      "lesson_id": "hod-i-drzanje-tijela",
+      "type": "true_false",
+      "difficulty": 2,
+      "text": "Funkcionalna (posturalna) skolioza praćena je rotacijom kralježaka i ne ispravlja se pri pretklonu.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "f"
+      ],
+      "explanation": "Funkcionalna skolioza nema promjena na kralješcima i ispravlja se pri pretklonu ili u ležanju. Rotacija kralježaka, vidljiva kao rebrena grba pri Adamsovu testu, obilježje je strukturne skolioze.",
+      "tags": [
+        "skolioza",
+        "držanje tijela"
+      ]
+    },
+    {
+      "id": "kin-032",
+      "lesson_id": "hod-i-drzanje-tijela",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Koja odstupanja držanja tijela pripadaju sagitalnoj ravnini?",
+      "options": [
+        {
+          "id": "a",
+          "text": "hiperkifoza prsnog dijela kralježnice"
+        },
+        {
+          "id": "b",
+          "text": "hiperlordoza slabinskog dijela kralježnice"
+        },
+        {
+          "id": "c",
+          "text": "skolioza"
+        },
+        {
+          "id": "d",
+          "text": "ravna leđa"
+        },
+        {
+          "id": "e",
+          "text": "koljena u obliku slova X (genu valgum)"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "d"
+      ],
+      "explanation": "Odstupanja u sagitalnoj ravnini pojačane su ili smanjene fiziološke krivine kralježnice: hiperkifoza, hiperlordoza i ravna leđa. Skolioza je bočno iskrivljenje u frontalnoj ravnini, a genu valgum odstupanje koljena koje se također vidi u frontalnoj ravnini, gledano sprijeda ili straga.",
+      "tags": [
+        "držanje tijela",
+        "kralježnica"
+      ]
+    }
+  ]
+}

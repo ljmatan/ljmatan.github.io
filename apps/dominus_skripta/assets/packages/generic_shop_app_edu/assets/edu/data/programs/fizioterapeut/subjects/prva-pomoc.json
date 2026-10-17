@@ -1,0 +1,1377 @@
+{
+  "id": "prva-pomoc",
+  "program_id": "fizioterapeut",
+  "title": "Prva pomoć",
+  "short_title": "Prva pomoć",
+  "description": "Postupci prve pomoći prema smjernicama ERC 2021: procjena unesrećenog, pozivanje hitne pomoći, oživljavanje i uporaba AED-a, gušenje, krvarenje, šok, prijelomi, opekline i najčešća hitna stanja.",
+  "color": "#F59E0B",
+  "icon": "emergency",
+  "year": 4,
+  "lessons": [
+    {
+      "id": "pristup-i-poziv-pomoci",
+      "title": "Pristup unesrećenom i pozivanje pomoći",
+      "summary": "Kako sigurno pristupiti unesrećenom, provjeriti svijest i disanje, pozvati hitnu pomoć i postaviti osobu bez svijesti u bočni položaj za oporavak.",
+      "estimated_minutes": 9,
+      "sections": [
+        {
+          "heading": "Načela prve pomoći i sigurnost mjesta događaja",
+          "body": "Prva pomoć skup je postupaka kojima se unesrećenoj ili naglo oboljeloj osobi pomaže na mjestu događaja, prije dolaska hitne medicinske pomoći. Njezini su ciljevi očuvati život, spriječiti pogoršanje stanja i potaknuti oporavak. Prvu pomoć dužan je pružiti svatko tko se zatekne uz unesrećenog, a za zdravstvene djelatnike, pa tako i fizioterapeute, sigurno vladanje tim postupcima dio je profesionalne odgovornosti. Postupci opisani u ovom predmetu temelje se na smjernicama Europskog vijeća za reanimatologiju (European Resuscitation Council, ERC) iz 2021. godine, koje se primjenjuju i u Hrvatskoj.\n\nPrije bilo kakvog postupka procijenite sigurnost mjesta događaja. Pristupite tek kada ste sigurni da ne ugrožavate sebe, unesrećenog ni prisutne osobe. Opasnosti su, primjerice, promet, električna struja, požar, dim, otrovni plinovi, nestabilne konstrukcije i duboka voda. Spasitelj koji se ozlijedi postaje još jedan unesrećeni, pa je vlastita sigurnost uvijek na prvom mjestu. Ako se opasnost ne može ukloniti, unesrećenog izvlačite samo kad je to nužno i moguće bez rizika, a inače čekate stručnu službu.\n\nKad god su dostupne, koristite zaštitne rukavice i štitite se od doticaja s krvlju i drugim tjelesnim tekućinama. Pri pristupu se predstavite, ostanite mirni i govorite jasno. Prisutne osobe uključite u pomoć: netko može pozvati hitnu službu, netko donijeti automatski vanjski defibrilator, a netko regulirati promet. Unesrećenog bez prijeke potrebe ne premještajte, osobito ako sumnjate na ozljedu kralježnice.",
+          "bullets": [
+            "Prvo sigurnost: vlastita, unesrećenog i prisutnih.",
+            "Uklonite ili izbjegnite opasnost prije pristupa.",
+            "Zaštitne rukavice kad god su dostupne.",
+            "Unesrećenog ne premještajte bez prijeke potrebe."
+          ]
+        },
+        {
+          "heading": "Provjera svijesti i disanja",
+          "body": "Svijest provjeravate tako da unesrećenog nježno, ali odlučno protresete za ramena i glasno upitate: „Jeste li dobro?“ Osoba koja odgovara ili se pomiče pri svijesti je: ostavite je u položaju u kojem ste je zatekli ako nije u opasnosti, pokušajte utvrditi što se dogodilo i po potrebi pozovite pomoć. Ako ne reagira, smatrajte je osobom bez svijesti, odmah glasno pozovite prisutne u pomoć i provjerite disanje.\n\nOsobu bez svijesti okrenite na leđa i otvorite dišni put zabacivanjem glave i podizanjem brade (engl. head tilt – chin lift): dlan jedne ruke položite na čelo i nježno zabacite glavu, a vršcima prstiju druge ruke podignite bradu. Kod osobe bez svijesti jezik se opušta i može zatvoriti dišni put, pa je taj zahvat preduvjet za procjenu disanja. Zatim gledajte podiže li se prsni koš, slušajte zvukove disanja i osjećajte strujanje zraka na obrazu, najdulje 10 sekundi, kako se ne bi odgađao početak oživljavanja.\n\nU prvim minutama nakon srčanog zastoja česti su rijetki, nepravilni i bučni udisaji nalik hvatanju zraka, takozvano agonalno disanje. Ono nije normalno disanje i ne znači da srce radi; takvu osobu smatrajte osobom koja ne diše. Ako osoba ne reagira i ne diše normalno, odmah pozovite hitnu pomoć i započnite oživljavanje. Ako ne reagira, ali diše normalno, postavite je u bočni položaj za oporavak i stalno nadzirite disanje.",
+          "bullets": [
+            "Protresite za ramena i glasno upitajte: „Jeste li dobro?“",
+            "Otvorite dišni put: zabacite glavu i podignite bradu.",
+            "Gledajte, slušajte i osjećajte disanje najdulje 10 sekundi.",
+            "Agonalno disanje nije normalno disanje: osoba se oživljava."
+          ]
+        },
+        {
+          "heading": "Pozivanje hitne pomoći",
+          "body": "U Hrvatskoj se hitne službe pozivaju na jedinstveni europski broj 112, koji je dostupan danonoćno i besplatno iz svih mreža, a operater poziv prosljeđuje nadležnoj službi: hitnoj medicinskoj pomoći, vatrogascima, policiji ili spasilačkim službama. Hitnu medicinsku pomoć moguće je pozvati i izravno na broj 194. Broj 192 pripada policiji, a broj 193 vatrogascima. Pozovite čim utvrdite da je riječ o životno ugrožavajućem stanju; kod osobe bez svijesti to je odmah nakon provjere disanja.\n\nDispečeru mirno i jasno recite gdje se nalazite (adresu ili prepoznatljivu točku), što se dogodilo, koliko je unesrećenih i u kakvom su stanju, osobito reagiraju li i dišu li normalno, te tko zove i s kojeg broja. Tako se pomoć može uputiti bez odgode. Odgovarajte na pitanja i ne prekidajte vezu prvi: poziv završava dispečer kad prikupi sve podatke. Dispečer može dati upute o postupcima prve pomoći dok pomoć putuje, pa ih pažljivo slušajte.\n\nAko ste uz osobu bez svijesti sami, uključite zvučnik mobilnog telefona kako biste mogli istodobno razgovarati s dispečerom i započeti oživljavanje. Dispečer tada telefonski vodi postupak oživljavanja (telefonski potpomognuto oživljavanje) i upućuje vas do najbližeg automatskog vanjskog defibrilatora. Ako je prisutno više ljudi, jedna osoba zove, druga započinje oživljavanje, a treća donosi defibrilator.",
+          "bullets": [
+            "112: jedinstveni europski broj za sve hitne službe.",
+            "194: hitna medicinska pomoć; 192: policija; 193: vatrogasci.",
+            "Recite: gdje, što, koliko unesrećenih, u kakvom su stanju, tko zove.",
+            "Ne prekidajte vezu prvi; ako ste sami, uključite zvučnik."
+          ]
+        },
+        {
+          "heading": "Bočni položaj za oporavak",
+          "body": "Bočni položaj za oporavak (engl. recovery position) namijenjen je osobi bez svijesti koja diše normalno i nema ozljede koje bi okretanje pogoršalo. U tom položaju jezik ne može zatvoriti dišni put, a povraćeni sadržaj ili krv istječu iz usta umjesto da budu udahnuti u pluća. Bočni položaj ne smije se primijeniti kod osobe koja ne diše normalno: ona treba oživljavanje, a ne okretanje na bok.\n\nPostupak: kleknite uz osobu, skinite joj naočale i ispružite joj noge. Ruku bliže vama postavite pod pravim kutom prema tijelu, savijenu u laktu, s dlanom okrenutim prema gore. Drugu ruku prebacite preko prsnog koša i nadlanicu joj prislonite uz obraz bliže vama. Zatim uhvatite udaljeniju nogu iznad koljena i podignite je tako da stopalo ostane na podlozi, pa povlačenjem te noge okrenite osobu prema sebi. Gornju nogu namjestite tako da su kuk i koljeno savijeni pod pravim kutom.\n\nNa kraju zabacite glavu kako bi dišni put ostao otvoren i provjerite disanje. Disanje provjeravajte redovito; ako prestane biti normalno, osobu odmah okrenite na leđa i započnite oživljavanje. Ako osoba mora ostati u bočnom položaju dulje od 30 minuta, okrenite je na drugu stranu kako biste rasteretili donju ruku. Trudnicu je najbolje okrenuti na lijevi bok, a kod sumnje na ozljedu kralježnice osobu okrećete samo ako je dišni put ugrožen, uz što manje pomicanja glave i vrata.",
+          "bullets": [
+            "Samo za osobu bez svijesti koja diše normalno.",
+            "Glava zabačena, usta usmjerena prema podlozi, položaj stabilan.",
+            "Disanje provjeravajte redovito; ako prestane biti normalno, oživljavajte.",
+            "Nakon 30 minuta okrenite osobu na drugu stranu."
+          ],
+          "image": {
+            "file": "prva-pomoc/bocni-polozaj.jpg",
+            "caption": "Bočni položaj za oporavak (računalni prikaz): nadlanica gornje ruke uz obraz, gornja noga savijena u kuku i koljenu, glava zabačena, a usta usmjerena prema podlozi.",
+            "credits": [
+              {
+                "title": "Stabile seitenlage",
+                "author": "Grummelbacke",
+                "source": "https://commons.wikimedia.org/wiki/File:Stabile_seitenlage.png",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        }
+      ],
+      "key_points": [
+        "Prije pristupa procijenite sigurnost: ozlijeđeni spasitelj postaje još jedan unesrećeni.",
+        "Svijest provjerite protresanjem za ramena i glasnim pitanjem, a disanje gledanjem, slušanjem i osjećanjem najdulje 10 sekundi.",
+        "Agonalno disanje nije normalno disanje: osobu koja ne reagira i ne diše normalno odmah oživljavajte.",
+        "Hitne službe zovete na 112 (sve službe) ili 194 (hitna medicinska pomoć); vezu ne prekidate prvi.",
+        "Osobu bez svijesti koja diše normalno postavite u bočni položaj za oporavak i nadzirite disanje."
+      ]
+    },
+    {
+      "id": "ozivljavanje-i-aed",
+      "title": "Oživljavanje, AED i gušenje",
+      "summary": "Kardiopulmonalna reanimacija odraslih i djece prema smjernicama ERC 2021, uporaba automatskog vanjskog defibrilatora i pomoć pri gušenju stranim tijelom.",
+      "estimated_minutes": 12,
+      "sections": [
+        {
+          "heading": "Srčani zastoj i lanac preživljavanja",
+          "body": "Iznenadni srčani zastoj stanje je u kojem srce prestaje učinkovito pumpati krv, pa mozak i ostali organi ostaju bez kisika. Osoba u srčanom zastoju gubi svijest u nekoliko sekundi i ne diše normalno. Bez pomoći oštećenje mozga počinje već nakon nekoliko minuta, a svaka minuta bez oživljavanja i defibrilacije znatno smanjuje izglede za preživljavanje. Kod odraslih je najčešći uzrok bolest srca, dok kod djece srčani zastoj najčešće nastaje zbog nedostatka kisika, primjerice pri gušenju, utapanju ili teškoj bolesti dišnog sustava.\n\nLanac preživljavanja opisuje četiri karike koje osobi u srčanom zastoju daju najveće izglede: rano prepoznavanje i poziv u pomoć, rano oživljavanje koje započinju svjedoci događaja, ranu defibrilaciju te stručno zbrinjavanje i liječenje nakon oživljavanja. Prve tri karike ovise o laicima i zdravstvenim djelatnicima koji se zateknu na mjestu događaja. Kardiopulmonalna reanimacija (KPR, engl. cardiopulmonary resuscitation, CPR) koju započnu svjedoci višestruko povećava izglede za preživljavanje.\n\nSrčani zastoj prepoznajete po dva znaka: osoba ne reagira i ne diše normalno. Puls se ne traži, jer je njegova provjera nepouzdana i troši dragocjeno vrijeme. Čim utvrdite oba znaka, pozovite 112 ili 194 uz uključeni zvučnik, pošaljite nekoga po automatski vanjski defibrilator i odmah započnite s pritiscima na prsni koš. Oživljavanje se ne odgađa zbog traženja defibrilatora: ako ste sami, pritiske započinjete odmah, a defibrilator donosi druga osoba.",
+          "bullets": [
+            "Znakovi srčanog zastoja: osoba ne reagira i ne diše normalno.",
+            "Lanac preživljavanja: prepoznavanje i poziv, rano oživljavanje, rana defibrilacija, stručno zbrinjavanje.",
+            "Puls se ne traži; provjera je nepouzdana i troši vrijeme."
+          ]
+        },
+        {
+          "heading": "Oživljavanje odraslih prema ERC 2021",
+          "body": "Kleknite uz osobu koja leži na leđima na tvrdoj podlozi. Korijen dlana jedne ruke postavite na sredinu prsnog koša, odnosno na donju polovicu prsne kosti, drugu ruku položite preko prve i isprepletite prste. Ispružite ruke u laktovima i postavite ramena okomito iznad dlanova. Prsni koš pritiskajte okomito prema dolje do dubine od 5 do 6 centimetara, frekvencijom od 100 do 120 pritisaka u minuti. Nakon svakog pritiska potpuno otpustite prsni koš, ali ne odvajajte ruke od njega, kako bi se srce ponovno napunilo krvlju.\n\nNakon 30 pritisaka dajte 2 upuha: zabacite glavu, podignite bradu, stisnite nos, obuhvatite usta osobe svojim ustima i upuhujte otprilike jednu sekundu, toliko da se prsni koš vidljivo podigne. Nastavite s omjerom 30 pritisaka i 2 upuha. Dva upuha ne smiju prekinuti pritiske dulje od 10 sekundi. Ako niste obučeni ili ne možete ili ne želite davati upuhe, provodite oživljavanje samo pritiscima, bez prekida, jer je i takvo oživljavanje znatno bolje od nikakvoga.\n\nPritisci su naporni, pa se spasitelji, ako ih je više, izmjenjuju svake 2 minute uz što kraći prekid. Oživljavanje prekidate tek kada stigne stručna pomoć i preuzme postupak, kada osoba pokaže jasne znakove života (probudi se, miče se, otvori oči i diše normalno) ili kada ste potpuno iscrpljeni. Pritiske kratko prekidate i na zahtjev defibrilatora tijekom analize ritma i isporuke šoka.",
+          "bullets": [
+            "Mjesto: sredina prsnog koša (donja polovica prsne kosti).",
+            "Dubina 5–6 cm, frekvencija 100–120 u minuti, potpuno otpuštanje bez odvajanja ruku.",
+            "Omjer 30 pritisaka i 2 upuha (30:2); upuh traje oko 1 sekundu.",
+            "Izmjena spasitelja svake 2 minute.",
+            "Ako ne možete davati upuhe, pritiskajte bez prekida."
+          ],
+          "image": {
+            "file": "prva-pomoc/tecaj-ozivljavanja.jpg",
+            "caption": "Polaznici vatrogasne škole u Alexandriji (SAD) vježbaju kompresije prsnog koša na lutkama za oživljavanje, 2023.",
+            "credits": [
+              {
+                "title": "Training- CPR - 53409075414",
+                "author": "City of Alexandria Fire Department",
+                "source": "https://commons.wikimedia.org/wiki/File:Training-_CPR_-_53409075414.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Oživljavanje djece",
+          "body": "Kod djece srčani zastoj najčešće je posljedica nedostatka kisika, pa je u djece naglasak na disanju. Nakon što utvrdite da dijete ne reagira i ne diše normalno, najprije dajte 5 početnih upuha, a tek zatim započnite s pritiscima na prsni koš. Kod dojenčadi (djece mlađe od godinu dana) glavu držite u neutralnom položaju, bez jakog zabacivanja, a svojim ustima obuhvatite dječja usta i nos istodobno. Kod starije djece upuhe dajete kao i kod odraslih, usta na usta.\n\nPrsni koš pritišćete na donjoj polovici prsne kosti, do dubine od najmanje jedne trećine debljine prsnog koša (oko 4 cm kod dojenčadi i 5 cm kod djece), frekvencijom od 100 do 120 u minuti. Kod dojenčadi pritišćete dvama palcima uz obuhvaćanje prsnog koša dlanovima ili vršcima dvaju prstiju, kod djece korijenom dlana jedne ruke, a kod veće djece objema rukama kao kod odraslih. Spasitelji obučeni za oživljavanje djece primjenjuju omjer 15 pritisaka i 2 upuha, dok laici obučeni samo za oživljavanje odraslih mogu nakon početnih 5 upuha nastaviti omjerom 30:2.\n\nAko ste sami i nemate telefon uz sebe, kod djeteta najprije provedite oživljavanje otprilike jednu minutu, a tek zatim pozovite pomoć, jer se srčani zastoj zbog manjka kisika najbolje prekida brzim početkom upuha i pritisaka. Ako je telefon uz vas, pozovite odmah uz uključeni zvučnik. Automatski vanjski defibrilator primjenjuje se i kod djece: kod djece mlađe od 8 godina po mogućnosti s dječjim elektrodama ili u dječjem načinu rada, a ako ih nema, sa standardnim elektrodama za odrasle.",
+          "bullets": [
+            "Najprije 5 početnih upuha, zatim pritisci.",
+            "Dubina najmanje trećina debljine prsnog koša, frekvencija 100–120 u minuti.",
+            "Dojenče: dva palca ili dva prsta; dijete: jedna ili obje ruke.",
+            "Sami i bez telefona: oživljavajte oko 1 minutu, pa pozovite pomoć."
+          ]
+        },
+        {
+          "heading": "Automatski vanjski defibrilator (AED)",
+          "body": "Automatski vanjski defibrilator (AED, od engl. automated external defibrillator; u hrvatskim izvorima i AVD) prijenosni je uređaj koji sam analizira srčani ritam i, ako prepozna ritam koji se može prekinuti električnim šokom, preporuči ili isporuči šok. Kod iznenadnog srčanog zastoja odraslih u prvim je minutama često prisutna ventrikularna fibrilacija, kaotična električna aktivnost srčanih klijetki koju jedino defibrilacija može prekinuti. AED ne isporučuje šok ako ga ritam ne zahtijeva, pa je siguran za uporabu i laicima bez obuke. Uređaji su postavljeni na javnim mjestima i označeni međunarodnim znakom: zelenom pločicom sa srcem i munjom.\n\nČim AED stigne, uključite ga i slijedite glasovne upute, dok druga osoba nastavlja s pritiscima. Otkrijte prsni koš i osušite ga ako je mokar; osobu koja leži u vodi najprije izvucite na suho. Jednu samoljepljivu elektrodu zalijepite ispod desne ključne kosti, a drugu na lijevu stranu prsnog koša ispod pazuha, kako je nacrtano na elektrodama. Ako je prsni koš jako dlakav, dlake brzo obrijte, a naljepke s lijekovima uklonite i elektrode ne lijepite preko njih.\n\nTijekom analize ritma i isporuke šoka nitko ne smije dodirivati unesrećenog; glasno upozorite prisutne. Ako uređaj preporuči šok, pritisnite tipku za šok (poluautomatski uređaj) ili pričekajte da ga uređaj isporuči sam (potpuno automatski uređaj). Odmah nakon šoka, bez provjere disanja ili pulsa, nastavite s oživljavanjem 30:2 tijekom 2 minute, dok uređaj ne zatraži novu analizu. Elektrode ostaju zalijepljene sve dok stručna pomoć ne preuzme postupak.",
+          "bullets": [
+            "Uključite AED i slijedite glasovne upute; pritisci se nastavljaju dok se elektrode lijepe.",
+            "Elektrode: ispod desne ključne kosti i ispod lijevog pazuha, na golu i suhu kožu.",
+            "Tijekom analize i šoka nitko ne dodiruje unesrećenog.",
+            "Nakon šoka odmah nastavite oživljavanje 2 minute, do nove analize."
+          ],
+          "image": {
+            "file": "prva-pomoc/aed-novigrad.jpg",
+            "caption": "Automatski vanjski defibrilator (AED) u javno dostupnom ormariću na stupu u novigradskoj luci, označen međunarodnim simbolom.",
+            "credits": [
+              {
+                "title": "Defibrillator (Novigrad)",
+                "author": "APneunzehn74",
+                "source": "https://commons.wikimedia.org/wiki/File:Defibrillator_(Novigrad).jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Gušenje stranim tijelom",
+          "body": "Gušenje stranim tijelom (opstrukcija dišnog puta stranim tijelom) najčešće nastaje tijekom jela, kod odraslih komadom hrane, a kod male djece i sitnim predmetima. Osoba koja se guši često se hvata za vrat. Kod blage opstrukcije osoba može govoriti, kašljati i disati: potičite je na kašljanje i ne činite ništa drugo, ali ostanite uz nju dok ne iskašlje strano tijelo. Kod teške opstrukcije osoba ne može govoriti, kašalj je slab ili nečujan, ne može disati, koža joj postaje modrikasta i može izgubiti svijest.\n\nKod teške opstrukcije osobe pri svijesti stanite sa strane i malo iza nje, jednom rukom poduprite joj prsni koš, nagnite je prema naprijed i korijenom dlana zadajte do 5 snažnih udaraca između lopatica. Ako udarci ne pomognu, primijenite do 5 potisaka na trbuh (Heimlichov hvat): stanite iza osobe, obuhvatite je rukama oko gornjeg dijela trbuha, šaku stisnutu u pest postavite između pupka i vrška prsne kosti, obuhvatite je drugom rukom i snažno potegnite prema sebi i gore. Naizmjence ponavljajte 5 udaraca i 5 potisaka dok se strano tijelo ne izbaci ili osoba ne izgubi svijest.\n\nAko osoba izgubi svijest, pažljivo je položite na leđa, pozovite 112 ili 194 i odmah započnite oživljavanje pritiscima na prsni koš, koji također mogu istisnuti strano tijelo. Prije svakog upuha pogledajte u usta i uklonite vidljivo strano tijelo, ali usta ne pretražujte prstom naslijepo. Kod dojenčadi se umjesto potisaka na trbuh primjenjuju potisci na prsni koš, kao i kod trudnica u poodmakloj trudnoći i vrlo pretilih osoba, kod kojih potisci na trbuh nisu izvedivi. Svaku osobu kod koje su primijenjeni potisci na trbuh treba pregledati liječnik zbog moguće ozljede unutarnjih organa.",
+          "bullets": [
+            "Blaga opstrukcija (može govoriti i kašljati): potičite kašljanje.",
+            "Teška opstrukcija: do 5 udaraca među lopatice, zatim do 5 potisaka na trbuh, naizmjence.",
+            "Gubitak svijesti: položite na leđa, pozovite pomoć, započnite oživljavanje.",
+            "Dojenčad, trudnice i vrlo pretile osobe: potisci na prsni koš umjesto na trbuh.",
+            "Nakon potisaka na trbuh obvezan je liječnički pregled."
+          ]
+        }
+      ],
+      "key_points": [
+        "Srčani zastoj: osoba ne reagira i ne diše normalno; odmah pozovite pomoć i započnite pritiske.",
+        "Odrasli: 30 pritisaka i 2 upuha, dubina 5–6 cm, frekvencija 100–120 u minuti.",
+        "Djeca: najprije 5 početnih upuha, dubina najmanje trećina debljine prsnog koša.",
+        "AED uključite čim stigne i slijedite upute; tijekom analize i šoka nitko ne dodiruje unesrećenog.",
+        "Gušenje: potičite kašljanje; kod teške opstrukcije 5 udaraca među lopatice i 5 potisaka na trbuh."
+      ]
+    },
+    {
+      "id": "krvarenje-prijelomi-i-opekline",
+      "title": "Krvarenje, šok, prijelomi i opekline",
+      "summary": "Zaustavljanje krvarenja i previjanje rana, prepoznavanje šoka, imobilizacija prijeloma i iščašenja te prva pomoć kod opeklina.",
+      "estimated_minutes": 11,
+      "sections": [
+        {
+          "heading": "Zaustavljanje krvarenja",
+          "body": "Krvarenje (lat. haemorrhagia) može biti vanjsko, kada krv istječe kroz ranu, ili unutarnje, kada se krv nakuplja u tjelesnim šupljinama i tkivima bez vidljivog istjecanja. Prema vrsti ozlijeđene krvne žile razlikujemo arterijsko krvarenje, kod kojega svijetlocrvena krv istječe u mlazu ili isprekidano u ritmu rada srca, vensko krvarenje, kod kojega tamnocrvena krv istječe jednolično, i kapilarno krvarenje, kod kojega krv polako sipi iz oguljene površine. Obilno krvarenje, osobito arterijsko, brzo dovodi do šoka i izravno ugrožava život.\n\nPrvi i najvažniji postupak kod vanjskog krvarenja jest izravan pritisak na ranu: na ranu položite sterilnu gazu ili čistu tkaninu i snažno je pritisnite dlanom ili prstima, bez popuštanja, dok krvarenje ne stane. Ako je moguće, nosite zaštitne rukavice. Pritisak zatim održavate kompresivnim zavojem: preko gaze stavite tvrdi jastučić, primjerice smotani zavoj, i čvrsto ga zavijte. Ako krv probije zavoj, ne skidajte ga, jer biste poremetili ugrušak koji se stvara, nego dodajte novi sloj i pojačajte pritisak. Podizanje uda i pritisak na tlačne točke ERC više ne preporučuje kao postupke zaustavljanja krvarenja; oslonite se na izravan pritisak, kompresivni zavoj i, kod krvarenja iz uda koje se ne može zaustaviti, podvezu.\n\nKod životno ugrožavajućeg krvarenja iz uda koje se izravnim pritiskom ne može zaustaviti, primjerice kod traumatske amputacije, postavlja se podveza (turniket), po mogućnosti tvornički proizvedena, a improvizirana široka najmanje 4–5 cm: zateže se 5 do 7 cm iznad rane, nikad preko zgloba, dok krvarenje ne stane. Zabilježite vrijeme postavljanja, podvezu ne popuštajte i obavijestite hitnu službu. Strano tijelo zabodeno u ranu ne vadite, nego ga obložite i učvrstite zavojem tako da se ne pomiče. Amputirani dio zamotajte u sterilnu gazu, stavite ga u plastičnu vrećicu, a vrećicu u hladnu vodu s ledom, bez izravnog doticaja dijela s ledom.",
+          "bullets": [
+            "Arterijsko: svijetlocrveno, u mlazu; vensko: tamnocrveno, jednolično; kapilarno: sipi.",
+            "Prvo izravan pritisak na ranu, zatim kompresivni zavoj.",
+            "Probijeni zavoj ne skidajte; dodajte novi sloj i pojačajte pritisak.",
+            "Podveza samo za životno ugrožavajuće krvarenje iz uda; zabilježite vrijeme.",
+            "Zabodeno strano tijelo ne vadite."
+          ]
+        },
+        {
+          "heading": "Rane i zavoji",
+          "body": "Rana je prekid cjelovitosti kože ili sluznice. Manje rane isperite čistom tekućom vodom, osušite okolnu kožu i pokrijte sterilnom gazom ili flasterom. Ranu ne dirajte prstima, ne stavljajte na nju vatu, koja ostavlja vlakna, ni masti, praške i dezinficijense u dubinu rane. Veće, duboke i jako onečišćene rane, ugrizne rane i rane s razderanim rubovima zahtijevaju liječnički pregled zbog opasnosti od infekcije i moguće potrebe za zaštitom protiv tetanusa.\n\nStandardni materijal za previjanje čine sterilna gaza, zavoji različitih širina, prvi zavoj (sterilni jastučić pričvršćen na zavoj, namijenjen brzom previjanju i kompresiji), trokutasta marama i samoljepljivi flaster. Zavoj se namata od užeg prema širem dijelu uda, ravnomjernom zategnutošću, tako da svaki sljedeći krug prekriva dio prethodnoga. Trokutasta marama služi za povez ruke (mitelu), učvršćivanje udlaga i pokrivanje većih površina.\n\nZavoj ne smije biti prečvrst. Nakon previjanja i imobilizacije provjerite prokrvljenost dijela uda ispod zavoja: prsti trebaju biti topli, ružičasti i pokretni, s očuvanim osjetom. Modrilo, hladnoća, trnci, jaka bol ili nemogućnost pomicanja prstiju znak su da zavoj steže i treba ga olabaviti. Provjeru ponavljajte, jer oteklina koja nastaje nakon ozljede može dodatno stegnuti zavoj.",
+          "bullets": [
+            "Manju ranu isperite vodom i pokrijte sterilnom gazom; bez vate i masti.",
+            "Prvi zavoj: sterilni jastučić s pričvršćenim zavojem.",
+            "Zavoj namatajte od užeg prema širem dijelu uda.",
+            "Nakon previjanja provjerite toplinu, boju, osjet i pokretljivost prstiju."
+          ],
+          "image": {
+            "file": "prva-pomoc/zavoj-palca.jpg",
+            "caption": "Zavoj oko palca i dlana prekriva šivanu ranu nakon zahvata na šaci i štiti je od onečišćenja.",
+            "credits": [
+              {
+                "title": "Bandage around thumb - Verband am Daumen 1",
+                "author": "Sciencia58",
+                "source": "https://commons.wikimedia.org/wiki/File:Bandage_around_thumb_-_Verband_am_Daumen_1.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Šok",
+          "body": "Šok je stanje nedostatne prokrvljenosti tkiva pri kojem organi ne dobivaju dovoljno kisika i hranjivih tvari. Prema uzroku razlikujemo hipovolemijski šok zbog gubitka krvi ili tekućine (krvarenje, opsežne opekline, teški proljev i povraćanje), kardiogeni šok zbog zatajenja srčane crpke, opstruktivni šok zbog mehaničke zapreke protoku krvi i distributivni šok zbog proširenja krvnih žila, kamo pripadaju anafilaktički, septički i neurogeni šok. U prvoj pomoći najčešće susrećemo hipovolemijski šok zbog krvarenja.\n\nZnakovi šoka razvijaju se postupno: koža je blijeda, hladna i oznojena, puls brz i slab, disanje ubrzano i plitko, osoba je žedna, nemirna i tjeskobna, a kasnije smetena i pospana sve do gubitka svijesti. Pad krvnog tlaka kasni je znak, jer tijelo isprva održava tlak ubrzanim radom srca i stezanjem krvnih žila u koži i udovima. Zato je važno prepoznati rane znakove i ne čekati očiti kolaps.\n\nPrva pomoć sastoji se od uklanjanja uzroka kada je to moguće, prije svega zaustavljanja krvarenja, i hitnog poziva na 112 ili 194. Osobu položite na leđa; ako nema ozljeda koje to sprječavaju, podignite joj noge (autotransfuzijski položaj) kako bi se povećao povrat krvi prema srcu. Zaštitite je od hlađenja pokrivačem ili izotermičkom folijom, umirite je i stalno nadzirite svijest i disanje. Ne dajte joj ništa jesti ni piti, čak ni ako je žedna, jer može povraćati ili trebati hitnu operaciju.",
+          "bullets": [
+            "Šok je nedostatna prokrvljenost tkiva; u prvoj pomoći najčešće zbog krvarenja.",
+            "Rani znakovi: blijeda, hladna, oznojena koža, brz i slab puls, žeđ, nemir.",
+            "Pad tlaka je kasni znak.",
+            "Zaustavite krvarenje, položite na leđa, podignite noge, utoplite, ništa na usta."
+          ]
+        },
+        {
+          "heading": "Prijelomi, iščašenja i imobilizacija",
+          "body": "Prijelom (fraktura, lat. fractura) prekid je cjelovitosti kosti. Zatvoreni prijelom nema ranu nad mjestom prijeloma, dok je kod otvorenog prijeloma koža probijena i kost može biti vidljiva, što nosi velik rizik od infekcije i krvarenja. Znakovi prijeloma su bol, oteklina, deformacija i neprirodan položaj uda, gubitak funkcije, patološka pokretljivost i krepitacije (škripanje koštanih ulomaka). Siguran dokaz prijeloma daje tek rendgenska snimka, pa svaku sumnju na prijelom zbrinjavate kao prijelom.\n\nIščašenje (luksacija, lat. luxatio) ozljeda je zgloba kod koje zglobna tijela trajno gube međusobni dodir; zglob je deformiran, jako bolan i nepokretan. Uganuće (distorzija, lat. distorsio) ozljeda je ligamenata zgloba bez trajnog razdvajanja zglobnih tijela, s boli, oteklinom i otežanim pokretima. Iščašeni zglob nikad ne namještajte sami, nego ga imobilizirajte u zatečenom položaju. Kod uganuća primjenjuju se mirovanje, hlađenje omotanim ledom ili hladnim oblogom, umjereno stezanje elastičnim zavojem i podizanje uda.\n\nImobilizacija smanjuje bol, sprječava daljnje oštećenje tkiva, živaca i krvnih žila te olakšava prijevoz. Osnovno pravilo glasi: imobiliziraju se dva susjedna zgloba, jedan iznad i jedan ispod mjesta prijeloma, a ud se ne namješta, nego učvršćuje u zatečenom položaju. Koriste se udlage (standardne ili improvizirane, primjerice daske, časopisi i štapovi), trokutaste marame i zavoji; gornji ud može se učvrstiti uz tijelo, a ozlijeđena noga uz zdravu. Prije i poslije imobilizacije provjerite prokrvljenost i osjet prstiju.\n\nKod otvorenog prijeloma ranu najprije pokrijte sterilnom gazom, krvarenje zaustavite pritiskom oko rane, a ne na izbočenu kost, i ne pokušavajte vratiti kost u ranu. Na ozljedu kralježnice posumnjajte nakon pada s visine, skoka u plitku vodu ili prometne nesreće, osobito uz bol u vratu ili leđima, utrnulost ili slabost udova. Takvu osobu ne pomičite, glavu i vrat rukama držite u osi tijela i čekajte hitnu službu; pomičete je samo ako je dišni put ugrožen ili prijeti neposredna opasnost.",
+          "bullets": [
+            "Prijelom: bol, oteklina, deformacija, gubitak funkcije, patološka pokretljivost, krepitacije.",
+            "Imobilizirajte dva susjedna zgloba, u zatečenom položaju, bez namještanja.",
+            "Iščašenje ne namještajte; uganuće: mirovanje, hlađenje, kompresija, podizanje uda.",
+            "Otvoreni prijelom: pokrijte ranu, kost ne vraćajte u ranu.",
+            "Sumnja na ozljedu kralježnice: ne pomičite, glavu držite u osi tijela."
+          ]
+        },
+        {
+          "heading": "Opekline",
+          "body": "Opeklina (lat. combustio) ozljeda je kože i dubljih tkiva toplinom, kemikalijama, električnom strujom ili zračenjem. Prema dubini se tradicionalno dijeli na tri stupnja. Opeklina prvog stupnja zahvaća samo površinski sloj kože (epidermis): koža je crvena, otečena i bolna, bez mjehura. Opeklina drugog stupnja zahvaća i dermis: nastaju mjehuri ispunjeni tekućinom, a ozljeda je vrlo bolna. Opeklina trećeg stupnja zahvaća cijelu debljinu kože: površina je bijela, smeđa ili pougljenjena i suha, a u samom području opekline zbog uništenih živčanih završetaka bezbolna, iako okolna pliće opečena koža boli.\n\nPovršina opekline kod odraslih procjenjuje se pravilom devetke: glava i vrat 9 %, svaka ruka 9 %, prednja strana trupa 18 %, stražnja strana trupa 18 %, svaka noga 18 % i međica 1 % ukupne površine tijela. Za manje ili raštrkane opekline koristi se pravilo dlana: dlan unesrećenog s prstima odgovara otprilike 1 % površine tijela. Opsežne opekline dovode do velikog gubitka tekućine kroz oštećenu kožu i do hipovolemijskog šoka.\n\nNajvažniji postupak prve pomoći jest hlađenje: opečeno mjesto što prije stavite pod mlaz hladne ili prohladne tekuće vode (ne ledene) i hladite ga najmanje 20 minuta. Hlađenje ublažava bol i sprječava širenje ozljede u dubinu. Odjeću i nakit koji nisu prilijepljeni za kožu uklonite prije nego što nastane oteklina, ali prilijepljenu tkaninu ne odvajajte. Nakon hlađenja opeklinu pokrijte labavim sterilnim zavojem ili čistom prozirnom folijom; ne stavljajte masti, ulja, zubnu pastu ni kućne pripravke i ne bušite mjehure. Pri hlađenju većih površina, osobito kod djece, pazite na pothlađivanje: hladite samo opečeni dio, a ostatak tijela utoplite.\n\nKod kemijskih opeklina suhu kemikaliju najprije otresite s kože, a zatim mjesto ispirite obilnom količinom vode. Kod opeklina električnom strujom prije doticanja unesrećenog isključite struju; strujni udar može uzrokovati srčani zastoj i duboke unutarnje ozljede unatoč malim vanjskim promjenama. Liječnički pregled potreban je kod svih opeklina trećeg stupnja, opeklina lica, šaka, stopala, spolovila i velikih zglobova, kružnih opeklina udova, kemijskih i električnih opeklina, opeklina dišnog puta nakon udisanja dima te kod opeklina male djece i starijih osoba.",
+          "bullets": [
+            "Stupnjevi: I. crvenilo i bol; II. mjehuri; III. cijela debljina kože, u samom području opekline bez boli.",
+            "Pravilo devetke za površinu; dlan unesrećenog je oko 1 %.",
+            "Hladite hladnom ili prohladnom tekućom vodom najmanje 20 minuta, ne ledom.",
+            "Bez masti i zubne paste, ne bušite mjehure, prilijepljenu odjeću ne skidajte.",
+            "Struju isključite prije pristupa; suhu kemikaliju otresite, pa ispirite."
+          ]
+        }
+      ],
+      "key_points": [
+        "Vanjsko krvarenje zaustavljate izravnim pritiskom i kompresivnim zavojem; podveza samo kod životno ugrožavajućeg krvarenja iz uda.",
+        "Šok prepoznajete po blijedoj, hladnoj i oznojenoj koži, brzom slabom pulsu, žeđi i nemiru; pad tlaka je kasni znak.",
+        "Prijelome i iščašenja ne namještate; imobilizirate dva susjedna zgloba u zatečenom položaju.",
+        "Opeklinu hladite tekućom vodom najmanje 20 minuta i pokrijete sterilno, bez masti i bušenja mjehura.",
+        "Nakon previjanja i imobilizacije provjeravate prokrvljenost i osjet prstiju."
+      ]
+    },
+    {
+      "id": "hitna-stanja",
+      "title": "Hitna stanja: od toplinskog udara do anafilaksije",
+      "summary": "Prepoznavanje i prva pomoć kod toplinskog udara, pothlađenosti, epileptičkog napadaja, hipoglikemije, moždanog udara i anafilaksije.",
+      "estimated_minutes": 12,
+      "sections": [
+        {
+          "heading": "Toplinski udar i pothlađenost",
+          "body": "Toplinska iscrpljenost nastaje zbog gubitka tekućine i soli pri dugotrajnom izlaganju vrućini ili naporu: osoba je slaba, vrtoglava, ima glavobolju i mučninu, koža je blijeda i obilno oznojena, a svijest je očuvana. Toplinski udar (engl. heat stroke) teže je, životno ugrožavajuće stanje u kojem zakazuje regulacija tjelesne temperature: temperatura tijela raste iznad 40 °C, a koža je vruća i crvena, suha ili oznojena. Od iscrpljenosti ga razlikuje poremećaj svijesti: smetenost, neprimjereno ponašanje, grčevi ili gubitak svijesti. Sunčanica nastaje izravnim djelovanjem sunca na nepokrivenu glavu i očituje se glavoboljom, crvenilom lica, mučninom i vrtoglavicom.\n\nKod toplinske iscrpljenosti osobu smjestite u hlad ili rashlađen prostor, položite je, olabavite odjeću, hladite je vlažnim oblozima i, ako je pri svijesti i može gutati, dajte joj hladnu vodu ili napitak s elektrolitima u malim gutljajima. Kod toplinskog udara pozovite 112 ili 194 i odmah započnite brzo hlađenje cijelog tijela: najučinkovitije je uranjanje tijela do vrata u hladnu vodu, a ako to nije moguće, prskanje vodom uz strujanje zraka te hladni oblozi ili led na vrat, pazuha i prepone. Osobi s poremećajem svijesti ne dajte ništa na usta; ako je bez svijesti i diše normalno, postavite je u bočni položaj.\n\nPothlađenost (hipotermija, lat. hypothermia) pad je temperature tjelesne jezgre ispod 35 °C. Kod blage pothlađenosti (35–32 °C) osoba drhti i pri svijesti je, ali može biti smetena; kod umjerene (32–28 °C) drhtanje slabi ili prestaje, a osoba postaje pospana, nespretna i apatična; kod teške (ispod 28 °C) nastupa gubitak svijesti, disanje i puls postaju vrlo spori i jedva zamjetni, a srce je sklono opasnim poremećajima ritma. Pothlađenosti su osobito izložene starije osobe, mala djeca, iscrpljene i pijane osobe te unesrećeni koji dulje leže na hladnoj podlozi ili u vodi.\n\nPothlađenu osobu zaštitite od daljnjeg gubitka topline: sklonite je od vjetra, hladnoće i vode, skinite joj mokru odjeću, zamotajte je u pokrivače i izotermičku foliju, pokrijte joj i glavu i izolirajte je od hladne podloge. Osobi pri svijesti koja može gutati dajte tople zaslađene napitke, ali ne alkohol, koji širi krvne žile u koži i ubrzava gubitak topline. Udove ne trljajte i ne zagrijavajte naglo, a s teže pothlađenom osobom postupajte vrlo nježno i prenosite je vodoravno, jer grubi pokreti mogu izazvati zastoj srca. Znakove života provjeravajte dulje nego inače, do jedne minute; ako osoba ne reagira i ne diše normalno, započnite oživljavanje.\n\nSmrzotine su lokalne ozljede tkiva hladnoćom, najčešće prstiju, nosa i ušiju: koža je blijeda, hladna, tvrda i bez osjeta. Smrznuti dio ne trljajte, zagrijavajte ga postupno u mlakoj vodi (oko 37–39 °C) i samo ako ne prijeti ponovno smrzavanje, a mjehure ne bušite.",
+          "bullets": [
+            "Toplinska iscrpljenost: blijeda, oznojena koža, svijest očuvana; toplinski udar: vruća koža, iznad 40 °C, poremećaj svijesti.",
+            "Toplinski udar: poziv 112, brzo hlađenje cijelog tijela; kod poremećaja svijesti ništa na usta.",
+            "Pothlađenost: temperatura jezgre ispod 35 °C; blaga, umjerena i teška.",
+            "Pothlađeni: skloniti, skinuti mokro, umotati, topli slatki napitci bez alkohola, nježno postupanje.",
+            "Smrzotine ne trljajte; zagrijavajte ih postupno i samo ako ne prijeti ponovno smrzavanje."
+          ]
+        },
+        {
+          "heading": "Epileptički napadaj",
+          "body": "Epilepsija (lat. epilepsia) kronična je bolest mozga obilježena ponavljanim napadajima zbog prekomjernog i usklađenog izbijanja skupina živčanih stanica. Napadaj mogu izazvati i vrućica kod male djece (febrilne konvulzije), ozljeda glave, moždani udar, hipoglikemija, trovanje ili nagli prekid uzimanja alkohola. Generalizirani toničko-klonički napadaj najdramatičniji je oblik: osoba naglo gubi svijest i pada, tijelo joj se ukoči (tonička faza), a zatim nastupaju ritmični trzaji udova (klonička faza). Mogući su ugriz jezika, pjena na ustima, modrilo lica i nekontrolirano mokrenje.\n\nNapadaj obično traje do nekoliko minuta i prestaje sam. Slijedi razdoblje nakon napadaja (postiktalno razdoblje) u kojem je osoba smetena, pospana i iscrpljena te se ne sjeća događaja. Tijekom napadaja zaštitite osobu od ozljeda: uklonite tvrde i oštre predmete iz okolice, pod glavu joj stavite nešto meko, olabavite odjeću oko vrata i zabilježite vrijeme početka napadaja. Osobu ne držite nasilu, ne pokušavajte zaustaviti trzaje i ne stavljajte joj ništa u usta, ni prste ni predmete: zubi i čeljust mogu se ozlijediti, a predmet može zatvoriti dišni put. Jezik se tijekom napadaja ne može progutati.\n\nKad trzaji prestanu, provjerite disanje, osobu postavite u bočni položaj za oporavak, ostanite uz nju dok se potpuno ne oporavi i govorite joj mirno. Osoba s poznatom epilepsijom koja je imala uobičajen napadaj i potpuno se oporavila obično ne treba hitnu pomoć. Hitnu pomoć na 112 ili 194 pozovite ako napadaj traje dulje od 5 minuta, ako se napadaji ponavljaju bez povratka svijesti između njih, ako je riječ o prvom napadaju u životu, ako se osoba ozlijedila, ako je napadaj nastupio u vodi, ako je riječ o trudnici ili osobi sa šećernom bolešću, ili ako osoba nakon napadaja ne dolazi k svijesti ili otežano diše. Napadaj dulji od 5 minuta prijeti prelaskom u epileptički status, životno ugrožavajuće stanje.",
+          "bullets": [
+            "Tonička faza (ukočenost), klonička faza (trzaji), postiktalno razdoblje (smetenost, san).",
+            "Zaštitite glavu, uklonite predmete, ne držite nasilu, ništa u usta.",
+            "Nakon napadaja: bočni položaj, ostanite uz osobu.",
+            "Poziv 112: napadaj dulji od 5 minuta, ponavljanje, prvi napadaj, ozljeda, voda, trudnoća, šećerna bolest."
+          ]
+        },
+        {
+          "heading": "Hipoglikemija",
+          "body": "Hipoglikemija (lat. hypoglycaemia) preniska je razina glukoze u krvi, ispod približno 4 mmol/L, pri kojoj mozak, koji ovisi gotovo isključivo o glukozi, ostaje bez energije. Najčešće pogađa osobe sa šećernom bolešću (lat. diabetes mellitus) liječene inzulinom ili tabletama koje potiču lučenje inzulina, i to kada uzmu lijek, a preskoče obrok, kada su tjelesno aktivnije nego obično ili kada piju alkohol. Hipoglikemija se razvija brzo, u minutama, dok se previsoka razina glukoze (hiperglikemija) razvija satima i danima.\n\nRani znakovi posljedica su izlučivanja adrenalina: znojenje, drhtanje, osjećaj gladi, bljedilo, lupanje srca i tjeskoba. Kako nedostatak glukoze u mozgu raste, javljaju se smetenost, nerazgovijetan govor, neobično ili agresivno ponašanje koje može nalikovati pijanstvu, dvoslike i pospanost, a na kraju grčevi i gubitak svijesti. Osoba sa šećernom bolešću često nosi iskaznicu ili narukvicu s podatkom o bolesti, a bližnji često znaju prepoznati napadaj.\n\nOsobi pri svijesti koja može sigurno gutati odmah dajte brzodjelujući šećer: tablete glukoze (15–20 g glukoze), nekoliko žličica šećera, zaslađeni sok ili zaslađeno piće; dijetni proizvodi bez šećera ne pomažu. Ako se stanje ne popravi za otprilike 15 minuta, šećer ponovite. Nakon poboljšanja dajte složene ugljikohidrate, primjerice kruh ili sendvič, kako se glukoza ne bi ponovno snizila. Osobi bez svijesti ili onoj koja ne može gutati ne dajte ništa na usta zbog opasnosti od ugušenja; postavite je u bočni položaj, pozovite 112 ili 194 i, ako je dostupan i znate ga primijeniti, dajte glukagon u injekciji.\n\nAko niste sigurni je li riječ o preniskoj ili previsokoj razini glukoze, dajte šećer: kod hipoglikemije spašava život, a kod hiperglikemije ne šteti bitno. Kod osobe sa šećernom bolešću koja je nejasno smetena, agresivna ili djeluje pijano uvijek pomislite na hipoglikemiju, jer se takvo stanje bez liječenja brzo pogoršava do grčeva i gubitka svijesti, a davanje šećera brzo ga prekida.",
+          "bullets": [
+            "Znakovi: znojenje, drhtanje, glad, bljedilo, lupanje srca, smetenost, neobično ponašanje.",
+            "Pri svijesti i može gutati: brzi šećer, pa složeni ugljikohidrati.",
+            "Bez svijesti: ništa na usta, bočni položaj, poziv 112, glukagon ako je dostupan.",
+            "U nedoumici dajte šećer."
+          ],
+          "image": {
+            "file": "prva-pomoc/lancetar-glukometar.jpg",
+            "caption": "Lancetar za ubod u jagodicu prsta; kap krvi zatim se analizira glukometrom (u pozadini) radi mjerenja šećera u krvi.",
+            "credits": [
+              {
+                "title": "Device to check for diabetes",
+                "author": "Tomwsulcer",
+                "source": "https://commons.wikimedia.org/wiki/File:Device_to_check_for_diabetes.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Moždani udar i test FAST",
+          "body": "Moždani udar (lat. apoplexia cerebri, engl. stroke) nagli je prekid opskrbe dijela mozga krvlju. U velikoj većini slučajeva riječ je o ishemijskom moždanom udaru, kod kojega ugrušak začepi moždanu arteriju, a rjeđe o hemoragijskom, kod kojega arterija pukne i krv se izlijeva u moždano tkivo. Živčane stanice bez kisika propadaju u minutama, pa je moždani udar hitno stanje u kojem vrijeme znači mozak. Prolazni ishemijski napadaj (tranzitorna ishemijska ataka, TIA) ima iste znakove koji se povuku sami, ali je ozbiljno upozorenje na skori moždani udar i također zahtijeva hitnu obradu.\n\nZa brzo prepoznavanje služi test FAST (od engl. Face, Arms, Speech, Time). Lice (Face): zamolite osobu da se nasmije i pogledajte visi li jedna strana lica ili je kut usana spušten. Ruke (Arms): zamolite je da podigne obje ruke ispred sebe i zadrži ih; kod moždanog udara jedna ruka pada ili se ne može podići. Govor (Speech): zamolite je da ponovi jednostavnu rečenicu; govor je nerazgovijetan, besmislen ili ga nema. Vrijeme (Time): ako je prisutan bilo koji od tih znakova, odmah pozovite 112 ili 194 i zabilježite vrijeme kada su znakovi počeli ili kada je osoba posljednji put viđena bez tegoba.\n\nDrugi mogući znakovi su nagla utrnulost ili slabost jedne strane tijela, nagli gubitak vida ili dvoslike, vrtoglavica s gubitkom ravnoteže i iznenadna, vrlo jaka glavobolja. Vrijeme početka tegoba odlučuje o liječenju: otapanje ugruška lijekom (tromboliza) moguće je samo unutar 4,5 sata od početka znakova, a mehaničko uklanjanje ugruška (trombektomija) u pravilu unutar 6 sati, a u odabranih bolesnika i do 24 sata od početka znakova, pa svako kašnjenje smanjuje izglede za oporavak.\n\nOsobu smirite, pomozite joj da legne ili zauzme položaj u kojem joj je najlakše, olabavite joj odjeću i ne ostavljajte je samu. Ne dajte joj ništa jesti, piti ni lijekove, pa ni acetilsalicilnu kiselinu, jer je bez snimanja mozga nemoguće razlikovati ishemijski od hemoragijskog udara, a gutanje može biti poremećeno. Ako osoba izgubi svijest, a diše normalno, postavite je u bočni položaj; ako ne diše normalno, započnite oživljavanje.",
+          "bullets": [
+            "FAST: lice (osmijeh), ruke (podizanje), govor (rečenica), vrijeme (odmah 112).",
+            "Zabilježite vrijeme početka tegoba; tromboliza je moguća unutar 4,5 sata.",
+            "Ništa na usta, ni lijekove; ne ostavljajte osobu samu.",
+            "TIA: znakovi prolaze sami, ali su upozorenje na moždani udar."
+          ]
+        },
+        {
+          "heading": "Anafilaksija",
+          "body": "Anafilaksija (lat. anaphylaxis) teška je, naglo nastala i životno ugrožavajuća alergijska reakcija cijelog organizma. Najčešći okidači su hrana (kikiriki, orašasti plodovi, školjke i rakovi, mlijeko, jaja), ubodi kukaca (pčela, osa, stršljen), lijekovi (penicilin i drugi antibiotici, nesteroidni protuupalni lijekovi) i lateks. Znakovi se obično pojavljuju unutar nekoliko minuta do sat vremena nakon doticaja s okidačem i brzo napreduju. Osobe s poznatom teškom alergijom često nose autoinjektor adrenalina.\n\nAnafilaksiju prepoznajete po naglom nastanku tegoba koje zahvaćaju više organskih sustava: kožu (koprivnjača, svrbež, crvenilo, oteklina usana, kapaka, lica i jezika, takozvani angioedem), dišni sustav (oteklina grla, promuklost, stridor, odnosno piskav zvuk pri udisaju, piskanje u prsima, otežano disanje), krvotok (bljedilo, vrtoglavica, ubrzan puls, pad tlaka i kolaps, odnosno anafilaktički šok) i probavni sustav (grčevi u trbuhu, povraćanje, proljev). Oteklina dišnog puta i pad tlaka mogu u nekoliko minuta dovesti do zastoja disanja i srca.\n\nOdmah pozovite 112 ili 194 i uklonite okidač ako je moguće, primjerice žalac pčele ostružite noktom ili karticom. Lijek prvog izbora jest adrenalin (epinefrin) u mišić: ako osoba ima autoinjektor, pomozite joj da ga primijeni ili ga primijenite sami u vanjsku stranu bedra, po potrebi kroz odjeću, i držite ga pritisnutog prema uputama proizvođača. Ako se stanje ne popravi unutar 5 minuta, a dostupan je drugi autoinjektor, dajte drugu dozu. Antihistaminici i inhalatori ne zamjenjuju adrenalin, ali inhalator može pomoći kod piskanja u prsima nakon što je adrenalin dan.\n\nPoložaj prilagodite tegobama: osobu s otežanim disanjem posjednite, a onu s vrtoglavicom, bljedilom i slabim pulsom položite na leđa s podignutim nogama; trudnicu položite na lijevi bok. Osoba ne smije naglo ustajati, sjedati ni hodati, jer nagla promjena položaja pri niskom tlaku može izazvati srčani zastoj. Stalno nadzirite disanje i svijest; ako osoba izgubi svijest i ne diše normalno, započnite oživljavanje. Svaka osoba s anafilaksijom mora u bolnicu i nakon što se stanje popravi, jer se tegobe mogu vratiti nakon nekoliko sati.",
+          "bullets": [
+            "Okidači: hrana, ubodi kukaca, lijekovi, lateks.",
+            "Nagli znakovi na koži, dišnom sustavu, krvotoku i probavi.",
+            "Lijek prvog izbora: adrenalin u mišić, autoinjektorom u vanjsku stranu bedra.",
+            "Druga doza nakon 5 minuta ako nema poboljšanja.",
+            "Bez naglog ustajanja; položaj prema tegobama; obvezno u bolnicu."
+          ]
+        }
+      ],
+      "key_points": [
+        "Toplinski udar od toplinske iscrpljenosti razlikuju poremećaj svijesti i vruća koža; liječi se brzim hlađenjem cijelog tijela.",
+        "Pothlađenost je temperatura jezgre ispod 35 °C; pothlađenog zaštitite od gubitka topline, bez alkohola i uz nježno postupanje.",
+        "Kod epileptičkog napadaja zaštitite glavu, ništa ne stavljajte u usta i zovite pomoć ako traje dulje od 5 minuta.",
+        "Hipoglikemija se razvija brzo: pri svijesti dajte brzi šećer, bez svijesti ništa na usta.",
+        "Moždani udar prepoznajete testom FAST i odmah zovete 112; tromboliza je moguća unutar 4,5 sata.",
+        "Anafilaksija se liječi adrenalinom u mišić; druga doza nakon 5 minuta ako nema poboljšanja."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "pp-001",
+      "lesson_id": "pristup-i-poziv-pomoci",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Što je prvi korak pri pristupu unesrećenoj osobi?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Procjena sigurnosti mjesta događaja"
+        },
+        {
+          "id": "b",
+          "text": "Provjera disanja"
+        },
+        {
+          "id": "c",
+          "text": "Pozivanje hitne pomoći"
+        },
+        {
+          "id": "d",
+          "text": "Postavljanje u bočni položaj za oporavak"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Prije bilo kakvog postupka procjenjuje se sigurnost mjesta događaja, jer spasitelj koji se ozlijedi postaje još jedan unesrećeni. Provjera svijesti i disanja te poziv u pomoć slijede tek kada je pristup siguran.",
+      "tags": [
+        "sigurnost",
+        "pristup"
+      ]
+    },
+    {
+      "id": "pp-002",
+      "lesson_id": "pristup-i-poziv-pomoci",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Kako se kod osobe bez svijesti otvara dišni put?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Okretanjem glave na stranu"
+        },
+        {
+          "id": "b",
+          "text": "Podizanjem nogu iznad razine srca"
+        },
+        {
+          "id": "c",
+          "text": "Zabacivanjem glave i podizanjem brade"
+        },
+        {
+          "id": "d",
+          "text": "Pritiskom na sredinu prsnog koša"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "Kod osobe bez svijesti jezik se opušta i može zatvoriti dišni put; zabacivanje glave i podizanje brade otvaraju dišni put i preduvjet su za procjenu disanja.",
+      "tags": [
+        "dišni put",
+        "svijest"
+      ]
+    },
+    {
+      "id": "pp-003",
+      "lesson_id": "pristup-i-poziv-pomoci",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Koliko najdulje smije trajati provjera disanja kod osobe bez svijesti?",
+      "options": [
+        {
+          "id": "a",
+          "text": "5 sekundi"
+        },
+        {
+          "id": "b",
+          "text": "10 sekundi"
+        },
+        {
+          "id": "c",
+          "text": "20 sekundi"
+        },
+        {
+          "id": "d",
+          "text": "30 sekundi"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Disanje se procjenjuje gledanjem, slušanjem i osjećanjem najdulje 10 sekundi, kako se ne bi odgađao početak oživljavanja kod osobe koja ne diše normalno. Iznimka je pothlađena osoba, kod koje se znakovi života provjeravaju dulje, do jedne minute.",
+      "tags": [
+        "disanje",
+        "procjena"
+      ]
+    },
+    {
+      "id": "pp-004",
+      "lesson_id": "pristup-i-poziv-pomoci",
+      "type": "true_false",
+      "difficulty": 2,
+      "text": "Osoba koja ne reagira i povremeno bučno hvata zrak (agonalno disanje) diše normalno, pa je treba postaviti u bočni položaj za oporavak.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "f"
+      ],
+      "explanation": "Agonalno disanje često je u prvim minutama srčanog zastoja i nije normalno disanje. Osobu koja ne reagira i ne diše normalno treba oživljavati, a ne okretati na bok.",
+      "tags": [
+        "agonalno disanje",
+        "srčani zastoj"
+      ]
+    },
+    {
+      "id": "pp-005",
+      "lesson_id": "pristup-i-poziv-pomoci",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Na koji se broj u Hrvatskoj izravno poziva hitna medicinska pomoć?",
+      "options": [
+        {
+          "id": "a",
+          "text": "192"
+        },
+        {
+          "id": "b",
+          "text": "193"
+        },
+        {
+          "id": "c",
+          "text": "194"
+        },
+        {
+          "id": "d",
+          "text": "195"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "Broj 194 pripada hitnoj medicinskoj pomoći; 192 je policija, a 193 vatrogasci. Sve hitne službe mogu se pozvati i na jedinstveni europski broj 112.",
+      "tags": [
+        "hitna pomoć",
+        "poziv"
+      ]
+    },
+    {
+      "id": "pp-006",
+      "lesson_id": "pristup-i-poziv-pomoci",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Koje podatke trebate dati dispečeru pri pozivanju hitne pomoći?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Točno mjesto događaja"
+        },
+        {
+          "id": "b",
+          "text": "Krvnu grupu unesrećenog"
+        },
+        {
+          "id": "c",
+          "text": "Što se dogodilo i koliko je unesrećenih"
+        },
+        {
+          "id": "d",
+          "text": "Ime liječnika obiteljske medicine unesrećenog"
+        },
+        {
+          "id": "e",
+          "text": "Reagiraju li unesrećeni i dišu li normalno"
+        }
+      ],
+      "correct": [
+        "a",
+        "c",
+        "e"
+      ],
+      "explanation": "Dispečeru treba reći gdje se nalazite, što se dogodilo, koliko je unesrećenih i u kakvom su stanju, osobito reagiraju li i dišu li normalno, te tko zove; tako se pomoć može uputiti bez odgode.",
+      "tags": [
+        "poziv",
+        "dispečer"
+      ]
+    },
+    {
+      "id": "pp-007",
+      "lesson_id": "pristup-i-poziv-pomoci",
+      "type": "single",
+      "difficulty": 3,
+      "text": "Osoba bez svijesti disala je normalno i postavili ste je u bočni položaj za oporavak. Nakon nekoliko minuta primijetite da više ne diše normalno. Što trebate učiniti?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Okrenuti je na drugi bok kako bi se rasteretila donja ruka"
+        },
+        {
+          "id": "b",
+          "text": "Jače joj zabaciti glavu i pričekati još nekoliko minuta"
+        },
+        {
+          "id": "c",
+          "text": "Podignuti joj noge kako bi se poboljšala prokrvljenost"
+        },
+        {
+          "id": "d",
+          "text": "Okrenuti je na leđa i započeti oživljavanje"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "Bočni položaj namijenjen je samo osobi koja diše normalno; disanje se stalno nadzire i, ako prestane biti normalno, osoba se odmah okreće na leđa i započinje oživljavanje. Okretanje na drugu stranu služi samo rasterećenju donje ruke nakon 30 minuta kod osobe koja i dalje diše normalno.",
+      "tags": [
+        "bočni položaj",
+        "oživljavanje"
+      ]
+    },
+    {
+      "id": "pp-008",
+      "lesson_id": "ozivljavanje-i-aed",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Po kojim dvama znakovima laik prepoznaje srčani zastoj?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Osoba nema puls na ručnom zglobu i blijeda je"
+        },
+        {
+          "id": "b",
+          "text": "Osoba ne reagira i ne diše normalno"
+        },
+        {
+          "id": "c",
+          "text": "Osoba je bez svijesti i zjenice su joj proširene"
+        },
+        {
+          "id": "d",
+          "text": "Osoba ima bol u prsima i obilno se znoji"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Srčani zastoj prepoznaje se po tome što osoba ne reagira i ne diše normalno; puls se ne traži, jer je njegova provjera nepouzdana i troši vrijeme.",
+      "tags": [
+        "srčani zastoj",
+        "prepoznavanje"
+      ]
+    },
+    {
+      "id": "pp-009",
+      "lesson_id": "ozivljavanje-i-aed",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Koji je ispravan omjer pritisaka na prsni koš i upuha pri oživljavanju odrasle osobe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "15:2"
+        },
+        {
+          "id": "b",
+          "text": "5:1"
+        },
+        {
+          "id": "c",
+          "text": "30:2"
+        },
+        {
+          "id": "d",
+          "text": "15:1"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "Kod odraslih se daje 30 pritisaka, a zatim 2 upuha. Omjer 15:2 primjenjuju spasitelji obučeni za oživljavanje djece.",
+      "tags": [
+        "oživljavanje",
+        "omjer"
+      ]
+    },
+    {
+      "id": "pp-010",
+      "lesson_id": "ozivljavanje-i-aed",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Koje su tvrdnje o pritiscima na prsni koš kod odrasle osobe točne?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pritišće se gornji dio prsne kosti, odmah ispod ključnih kostiju"
+        },
+        {
+          "id": "b",
+          "text": "Dubina pritiska je 5 do 6 centimetara"
+        },
+        {
+          "id": "c",
+          "text": "Nakon svakog pritiska ruke se odvajaju od prsnog koša"
+        },
+        {
+          "id": "d",
+          "text": "Frekvencija je 100 do 120 pritisaka u minuti"
+        },
+        {
+          "id": "e",
+          "text": "Nakon svakog pritiska prsni koš se potpuno otpušta"
+        }
+      ],
+      "correct": [
+        "b",
+        "d",
+        "e"
+      ],
+      "explanation": "Pritišće se sredina prsnog koša (donja polovica prsne kosti) do dubine 5–6 cm, frekvencijom 100–120 u minuti, uz potpuno otpuštanje nakon svakog pritiska, ali bez odvajanja ruku od prsnog koša.",
+      "tags": [
+        "oživljavanje",
+        "pritisci"
+      ]
+    },
+    {
+      "id": "pp-011",
+      "lesson_id": "ozivljavanje-i-aed",
+      "type": "true_false",
+      "difficulty": 1,
+      "text": "Spasitelj koji ne može ili ne želi davati upuhe treba provoditi oživljavanje samo pritiscima na prsni koš, bez prekida.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "t"
+      ],
+      "explanation": "Oživljavanje samo pritiscima znatno je bolje od nikakvog oživljavanja, pa ga spasitelj koji ne daje upuhe provodi bez prekida.",
+      "tags": [
+        "oživljavanje",
+        "pritisci"
+      ]
+    },
+    {
+      "id": "pp-012",
+      "lesson_id": "ozivljavanje-i-aed",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Čime započinje oživljavanje djeteta koje ne reagira i ne diše normalno?",
+      "options": [
+        {
+          "id": "a",
+          "text": "S 30 pritisaka na prsni koš"
+        },
+        {
+          "id": "b",
+          "text": "S analizom ritma defibrilatorom"
+        },
+        {
+          "id": "c",
+          "text": "S 5 udaraca među lopatice"
+        },
+        {
+          "id": "d",
+          "text": "S 5 početnih upuha"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "Kod djece je srčani zastoj najčešće posljedica nedostatka kisika, pa se najprije daje 5 početnih upuha, a tek zatim pritisci na prsni koš. Udarci među lopatice primjenjuju se kod gušenja stranim tijelom, a ne kod srčanog zastoja.",
+      "tags": [
+        "djeca",
+        "oživljavanje"
+      ]
+    },
+    {
+      "id": "pp-013",
+      "lesson_id": "ozivljavanje-i-aed",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Gdje se lijepe elektrode automatskog vanjskog defibrilatora kod odrasle osobe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Obje na sredinu prsnog koša, jedna iznad druge"
+        },
+        {
+          "id": "b",
+          "text": "Jedna na čelo, druga na sredinu prsnog koša"
+        },
+        {
+          "id": "c",
+          "text": "Jedna ispod desne ključne kosti, druga na lijevu stranu prsnog koša ispod pazuha"
+        },
+        {
+          "id": "d",
+          "text": "Jedna na desnu, druga na lijevu nadlakticu"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "Elektrode se lijepe na gol i suh prsni koš: jedna ispod desne ključne kosti, a druga na lijevu stranu prsnog koša ispod pazuha, kako je nacrtano na samim elektrodama.",
+      "tags": [
+        "defibrilator",
+        "elektrode"
+      ]
+    },
+    {
+      "id": "pp-014",
+      "lesson_id": "ozivljavanje-i-aed",
+      "type": "single",
+      "difficulty": 3,
+      "text": "Automatski vanjski defibrilator isporučio je šok osobi u srčanom zastoju. Što trebate učiniti odmah nakon šoka?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Provjeriti puls na vratu i, ako ga nema, ručno isporučiti drugi šok"
+        },
+        {
+          "id": "b",
+          "text": "Bez provjere disanja i pulsa nastaviti oživljavanje 30:2 do sljedeće analize ritma"
+        },
+        {
+          "id": "c",
+          "text": "Provjeriti disanje 10 sekundi i, ako osoba diše, skinuti elektrode"
+        },
+        {
+          "id": "d",
+          "text": "Pričekati da uređaj ponovno analizira ritam prije bilo kakvog postupka"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Nakon šoka odmah se nastavlja oživljavanje tijekom 2 minute, bez provjere disanja i pulsa, dok uređaj ne zatraži novu analizu. Elektrode ostaju zalijepljene dok stručna pomoć ne preuzme postupak.",
+      "tags": [
+        "defibrilator",
+        "oživljavanje"
+      ]
+    },
+    {
+      "id": "pp-015",
+      "lesson_id": "ozivljavanje-i-aed",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Odrasla se osoba za vrijeme jela počne gušiti: ne može govoriti, kašalj je nečujan i ne može disati. Koji je ispravan prvi postupak?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Do 5 udaraca korijenom dlana između lopatica"
+        },
+        {
+          "id": "b",
+          "text": "Do 5 potisaka na trbuh (Heimlichov hvat)"
+        },
+        {
+          "id": "c",
+          "text": "Poticanje na kašljanje i promatranje"
+        },
+        {
+          "id": "d",
+          "text": "Vađenje stranog tijela prstom naslijepo"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Kod teške opstrukcije najprije se zadaje do 5 udaraca među lopatice, a tek ako oni ne pomognu, do 5 potisaka na trbuh. Poticanje na kašljanje dovoljno je samo kod blage opstrukcije, kada osoba može govoriti i kašljati, a usta se ne pretražuju prstom naslijepo.",
+      "tags": [
+        "gušenje",
+        "Heimlichov hvat"
+      ]
+    },
+    {
+      "id": "pp-016",
+      "lesson_id": "krvarenje-prijelomi-i-opekline",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Koji je prvi i najvažniji postupak za zaustavljanje vanjskog krvarenja?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Postavljanje podveze iznad rane"
+        },
+        {
+          "id": "b",
+          "text": "Izravan pritisak na ranu"
+        },
+        {
+          "id": "c",
+          "text": "Podizanje ozlijeđenog uda iznad razine srca"
+        },
+        {
+          "id": "d",
+          "text": "Ispiranje rane hladnom vodom"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Izravan pritisak na ranu sterilnom gazom ili čistom tkaninom prvi je postupak, a zatim se pritisak održava kompresivnim zavojem. Podveza se postavlja samo kod životno ugrožavajućeg krvarenja iz uda koje se pritiskom ne može zaustaviti, a podizanje uda ERC više ne preporučuje kao postupak zaustavljanja krvarenja.",
+      "tags": [
+        "krvarenje",
+        "pritisak"
+      ]
+    },
+    {
+      "id": "pp-017",
+      "lesson_id": "krvarenje-prijelomi-i-opekline",
+      "type": "true_false",
+      "difficulty": 2,
+      "text": "Svijetlocrvena krv koja iz rane istječe u mlazu, isprekidano u ritmu rada srca, znak je arterijskog krvarenja.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "t"
+      ],
+      "explanation": "Arterijska krv je svijetlocrvena i istječe u mlazu u ritmu rada srca; venska krv je tamnocrvena i istječe jednolično, a kapilarna polako sipi.",
+      "tags": [
+        "krvarenje",
+        "arterija"
+      ]
+    },
+    {
+      "id": "pp-018",
+      "lesson_id": "krvarenje-prijelomi-i-opekline",
+      "type": "true_false",
+      "difficulty": 2,
+      "text": "Ako krv probije kompresivni zavoj, zavoj treba skinuti i zamijeniti novim.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "f"
+      ],
+      "explanation": "Probijeni zavoj se ne skida, jer bi se time poremetio ugrušak koji se stvara; na njega se dodaje novi sloj i pojačava pritisak.",
+      "tags": [
+        "krvarenje",
+        "zavoj"
+      ]
+    },
+    {
+      "id": "pp-019",
+      "lesson_id": "krvarenje-prijelomi-i-opekline",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Koji su rani znakovi hipovolemijskog šoka, primjerice zbog krvarenja?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vruća, suha i crvena koža"
+        },
+        {
+          "id": "b",
+          "text": "Blijeda, hladna i oznojena koža"
+        },
+        {
+          "id": "c",
+          "text": "Spor i pun puls"
+        },
+        {
+          "id": "d",
+          "text": "Brz i slab puls"
+        },
+        {
+          "id": "e",
+          "text": "Visok krvni tlak"
+        }
+      ],
+      "correct": [
+        "b",
+        "d"
+      ],
+      "explanation": "Rani znakovi hipovolemijskog šoka su blijeda, hladna i oznojena koža, brz i slab puls, ubrzano plitko disanje, žeđ i nemir. Pad krvnog tlaka kasni je znak, a vruća crvena koža, spor puls i visok tlak ne pripadaju slici hipovolemijskog šoka.",
+      "tags": [
+        "šok",
+        "znakovi"
+      ]
+    },
+    {
+      "id": "pp-020",
+      "lesson_id": "krvarenje-prijelomi-i-opekline",
+      "type": "single",
+      "difficulty": 3,
+      "text": "Osoba s obilnim krvarenjem iz podlaktice blijeda je, hladna, oznojena i žedna. Krvarenje ste zaustavili. Koji je ispravan daljnji postupak?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Posjesti je i dati joj topli zaslađeni napitak zbog žeđi"
+        },
+        {
+          "id": "b",
+          "text": "Postaviti je u bočni položaj i dati joj vodu u malim gutljajima"
+        },
+        {
+          "id": "c",
+          "text": "Pustiti je da hoda kako bi se potaknula cirkulacija"
+        },
+        {
+          "id": "d",
+          "text": "Položiti je na leđa, podignuti joj noge, utopliti je i ne davati ništa na usta"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "Kod šoka se osoba polaže na leđa s podignutim nogama (autotransfuzijski položaj), štiti od hlađenja i stalno nadzire. Unatoč žeđi ne daje joj se ništa jesti ni piti, jer može povraćati ili trebati hitnu operaciju.",
+      "tags": [
+        "šok",
+        "krvarenje"
+      ]
+    },
+    {
+      "id": "pp-021",
+      "lesson_id": "krvarenje-prijelomi-i-opekline",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Koje je osnovno pravilo imobilizacije prijeloma dugih kostiju udova?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Imobilizira se samo zglob ispod mjesta prijeloma"
+        },
+        {
+          "id": "b",
+          "text": "Ud se najprije namjesti u pravilan položaj, a zatim imobilizira"
+        },
+        {
+          "id": "c",
+          "text": "Imobiliziraju se dva susjedna zgloba, iznad i ispod mjesta prijeloma"
+        },
+        {
+          "id": "d",
+          "text": "Imobilizira se cijelo tijelo na tvrdoj podlozi"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "Imobiliziraju se dva susjedna zgloba, jedan iznad i jedan ispod prijeloma, a ud se učvršćuje u zatečenom položaju bez namještanja.",
+      "tags": [
+        "prijelom",
+        "imobilizacija"
+      ]
+    },
+    {
+      "id": "pp-022",
+      "lesson_id": "krvarenje-prijelomi-i-opekline",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Što je iščašenje (luksacija)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ozljeda ligamenata zgloba bez razdvajanja zglobnih tijela"
+        },
+        {
+          "id": "b",
+          "text": "Ozljeda zgloba kod koje zglobna tijela trajno gube međusobni dodir"
+        },
+        {
+          "id": "c",
+          "text": "Prekid cjelovitosti kosti u blizini zgloba"
+        },
+        {
+          "id": "d",
+          "text": "Nakupljanje tekućine u zglobu nakon udarca"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Kod iščašenja zglobna tijela trajno gube međusobni dodir, pa je zglob deformiran, bolan i nepokretan. Ozljeda ligamenata bez razdvajanja zglobnih tijela je uganuće (distorzija), a prekid cjelovitosti kosti prijelom.",
+      "tags": [
+        "iščašenje",
+        "zglob"
+      ]
+    },
+    {
+      "id": "pp-023",
+      "lesson_id": "krvarenje-prijelomi-i-opekline",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Koliko se dugo opeklina hladi tekućom vodom?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Oko 2 minute"
+        },
+        {
+          "id": "b",
+          "text": "Najviše 5 minuta"
+        },
+        {
+          "id": "c",
+          "text": "Dok ne nestane crvenilo"
+        },
+        {
+          "id": "d",
+          "text": "Najmanje 20 minuta"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "Opeklina se što prije hladi hladnom ili prohladnom tekućom vodom najmanje 20 minuta, što ublažava bol i sprječava širenje ozljede u dubinu.",
+      "tags": [
+        "opekline",
+        "hlađenje"
+      ]
+    },
+    {
+      "id": "pp-024",
+      "lesson_id": "krvarenje-prijelomi-i-opekline",
+      "type": "multiple",
+      "difficulty": 3,
+      "text": "Koje su tvrdnje o prvoj pomoći kod opeklina točne?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mjehure treba probušiti kako bi se ozljeda brže osušila"
+        },
+        {
+          "id": "b",
+          "text": "Za hlađenje se koristi hladna ili prohladna tekuća voda, a ne led"
+        },
+        {
+          "id": "c",
+          "text": "Opeklina prvog stupnja uvijek stvara mjehure"
+        },
+        {
+          "id": "d",
+          "text": "Odjeću prilijepljenu za kožu ne treba odvajati"
+        },
+        {
+          "id": "e",
+          "text": "Na opeklinu treba odmah nanijeti mast ili ulje da se koža ne isuši"
+        },
+        {
+          "id": "f",
+          "text": "Opeklina trećeg stupnja može biti bezbolna zbog uništenih živčanih završetaka"
+        }
+      ],
+      "correct": [
+        "b",
+        "d",
+        "f"
+      ],
+      "explanation": "Hladi se hladnom ili prohladnom tekućom vodom, ne ledom; prilijepljena odjeća se ne odvaja, a opeklina trećeg stupnja može biti bezbolna zbog uništenih živčanih završetaka. Mjehuri se ne buše, masti i ulja se ne stavljaju, a mjehuri su obilježje drugog, ne prvog stupnja.",
+      "tags": [
+        "opekline"
+      ]
+    },
+    {
+      "id": "pp-025",
+      "lesson_id": "hitna-stanja",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Što najpouzdanije razlikuje toplinski udar od toplinske iscrpljenosti?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Obilno znojenje"
+        },
+        {
+          "id": "b",
+          "text": "Glavobolja i mučnina"
+        },
+        {
+          "id": "c",
+          "text": "Poremećaj svijesti (smetenost, grčevi, gubitak svijesti)"
+        },
+        {
+          "id": "d",
+          "text": "Osjećaj žeđi"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "Kod toplinske iscrpljenosti svijest je očuvana, dok toplinski udar obilježava poremećaj svijesti uz vruću kožu i temperaturu iznad 40 °C. Glavobolja, mučnina i znojenje javljaju se i kod iscrpljenosti.",
+      "tags": [
+        "toplinski udar"
+      ]
+    },
+    {
+      "id": "pp-026",
+      "lesson_id": "hitna-stanja",
+      "type": "true_false",
+      "difficulty": 2,
+      "text": "Pothlađenoj osobi pri svijesti ne daje se alkohol, jer širi krvne žile u koži i ubrzava gubitak topline.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "t"
+      ],
+      "explanation": "Alkohol širi krvne žile u koži i tako ubrzava gubitak topline. Osobi pri svijesti koja može gutati daju se topli zaslađeni napitci.",
+      "tags": [
+        "pothlađenost"
+      ]
+    },
+    {
+      "id": "pp-027",
+      "lesson_id": "hitna-stanja",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Što NIJE dopušteno činiti tijekom generaliziranog epileptičkog napadaja?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ukloniti tvrde i oštre predmete iz okolice"
+        },
+        {
+          "id": "b",
+          "text": "Stavljati osobi predmete ili prste u usta"
+        },
+        {
+          "id": "c",
+          "text": "Staviti osobi nešto meko pod glavu"
+        },
+        {
+          "id": "d",
+          "text": "Zabilježiti vrijeme početka napadaja"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "U usta se ne stavlja ništa: zubi i čeljust mogu se ozlijediti, a predmet može zatvoriti dišni put. Uklanjanje predmeta iz okolice, zaštita glave i bilježenje vremena početka napadaja ispravni su postupci.",
+      "tags": [
+        "epilepsija"
+      ]
+    },
+    {
+      "id": "pp-028",
+      "lesson_id": "hitna-stanja",
+      "type": "multiple",
+      "difficulty": 3,
+      "text": "U kojim je slučajevima zbog epileptičkog napadaja potrebno pozvati hitnu pomoć?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Osoba s poznatom epilepsijom imala je uobičajen napadaj i potpuno se oporavila"
+        },
+        {
+          "id": "b",
+          "text": "Napadaj traje dulje od 5 minuta"
+        },
+        {
+          "id": "c",
+          "text": "Napadaj je trajao dvije minute i osoba je nakon njega pospana"
+        },
+        {
+          "id": "d",
+          "text": "Riječ je o prvom napadaju u životu"
+        },
+        {
+          "id": "e",
+          "text": "Osoba se nakon napadaja ne sjeća što se dogodilo"
+        },
+        {
+          "id": "f",
+          "text": "Napadaj je nastupio u vodi"
+        }
+      ],
+      "correct": [
+        "b",
+        "d",
+        "f"
+      ],
+      "explanation": "Hitna pomoć poziva se ako napadaj traje dulje od 5 minuta, ponavlja se bez povratka svijesti, prvi je u životu, nastupio je u vodi, osoba se ozlijedila, trudna je ili ima šećernu bolest, ili se nakon napadaja ne budi. Pospanost i nesjećanje nakon kratkog napadaja uobičajeni su dio postiktalnog razdoblja, a osoba s poznatom epilepsijom koja se potpuno oporavila obično ne treba hitnu pomoć.",
+      "tags": [
+        "epilepsija",
+        "poziv"
+      ]
+    },
+    {
+      "id": "pp-029",
+      "lesson_id": "hitna-stanja",
+      "type": "single",
+      "difficulty": 3,
+      "text": "Osoba sa šećernom bolešću liječena inzulinom naglo je oznojena, drhti, smetena je i govori nerazgovijetno, ali je pri svijesti i može gutati. Što trebate učiniti?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dati joj dodatnu dozu inzulina, jer je vjerojatno riječ o hiperglikemiji"
+        },
+        {
+          "id": "b",
+          "text": "Postaviti je u bočni položaj i ne davati ništa na usta"
+        },
+        {
+          "id": "c",
+          "text": "Dati joj tablete glukoze ili zaslađeni sok, a nakon poboljšanja kruh ili sendvič"
+        },
+        {
+          "id": "d",
+          "text": "Dati joj dijetno piće bez šećera i pričekati 15 minuta"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "Riječ je o hipoglikemiji, koja se razvija brzo; osobi pri svijesti koja može gutati daje se brzodjelujući šećer, a nakon poboljšanja složeni ugljikohidrati. Dijetni proizvodi bez šećera ne pomažu, a ništa na usta ne daje se samo osobi bez svijesti ili onoj koja ne može gutati.",
+      "tags": [
+        "hipoglikemija",
+        "šećerna bolest"
+      ]
+    },
+    {
+      "id": "pp-030",
+      "lesson_id": "hitna-stanja",
+      "type": "multiple",
+      "difficulty": 1,
+      "text": "Što se provjerava testom FAST za prepoznavanje moždanog udara?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Veličina zjenica"
+        },
+        {
+          "id": "b",
+          "text": "Simetrija lica pri osmijehu"
+        },
+        {
+          "id": "c",
+          "text": "Može li osoba podići i zadržati obje ruke"
+        },
+        {
+          "id": "d",
+          "text": "Tjelesna temperatura"
+        },
+        {
+          "id": "e",
+          "text": "Je li govor razgovijetan"
+        }
+      ],
+      "correct": [
+        "b",
+        "c",
+        "e"
+      ],
+      "explanation": "FAST provjerava lice (Face), ruke (Arms) i govor (Speech), a slovo T (Time) podsjeća da treba odmah pozvati 112 i zabilježiti vrijeme početka tegoba. Zjenice i tjelesna temperatura nisu dio testa.",
+      "tags": [
+        "moždani udar",
+        "prepoznavanje"
+      ]
+    },
+    {
+      "id": "pp-031",
+      "lesson_id": "hitna-stanja",
+      "type": "true_false",
+      "difficulty": 2,
+      "text": "Osobi sa sumnjom na moždani udar koja je pri svijesti treba odmah dati tabletu acetilsalicilne kiseline kako bi se otopio ugrušak.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "f"
+      ],
+      "explanation": "Bez snimanja mozga nemoguće je razlikovati ishemijski od hemoragijskog moždanog udara, a gutanje može biti poremećeno, pa se lijekovi, hrana i piće ne daju na usta. Odmah treba pozvati hitnu službu na 112 ili 194.",
+      "tags": [
+        "moždani udar"
+      ]
+    },
+    {
+      "id": "pp-032",
+      "lesson_id": "hitna-stanja",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Koji je lijek prvog izbora kod anafilaksije?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Antihistaminik u tableti"
+        },
+        {
+          "id": "b",
+          "text": "Inhalator s bronhodilatatorom"
+        },
+        {
+          "id": "c",
+          "text": "Acetilsalicilna kiselina"
+        },
+        {
+          "id": "d",
+          "text": "Adrenalin u mišić"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "Lijek prvog izbora je adrenalin (epinefrin) u mišić, najčešće autoinjektorom u vanjsku stranu bedra. Antihistaminici i inhalatori ga ne zamjenjuju.",
+      "tags": [
+        "anafilaksija",
+        "adrenalin"
+      ]
+    }
+  ]
+}

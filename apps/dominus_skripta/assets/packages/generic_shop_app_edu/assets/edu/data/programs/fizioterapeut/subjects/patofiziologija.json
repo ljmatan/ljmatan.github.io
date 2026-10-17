@@ -1,0 +1,1368 @@
+{
+  "id": "patofiziologija",
+  "program_id": "fizioterapeut",
+  "title": "Patofiziologija",
+  "short_title": "Patofiziologija",
+  "description": "Mehanizmi bolesti važni za fizioterapiju: upala i bol, edem i poremećaji cirkulacije, cijeljenje tkiva, atrofija, hipertrofija i kontrakture, poremećaji mišićnog tonusa te osteoporoza i bolesti zglobova.",
+  "color": "#D946EF",
+  "icon": "biotech",
+  "year": 3,
+  "lessons": [
+    {
+      "id": "upala-i-bol",
+      "title": "Upala i bol",
+      "summary": "Što je upala i po kojim je znakovima prepoznajemo, kako nastaje i kako se prenosi bol te zašto dodir, masaža i TENS smanjuju bol.",
+      "estimated_minutes": 11,
+      "sections": [
+        {
+          "heading": "Upala: definicija, uzroci i kardinalni znakovi",
+          "body": "Upala (lat. inflammatio) obrambena je reakcija prokrvljenoga živog tkiva na oštećenje. Cilj joj je ukloniti uzrok oštećenja, odstraniti oštećene stanice i pripremiti tkivo za cijeljenje. Uzroci mogu biti fizikalni (mehanička ozljeda, toplina, hladnoća, zračenje), kemijski (kiseline, lužine, otrovi), biološki (bakterije, virusi, gljivice, paraziti), ali i ishemija te imunosne reakcije. Upala je dakle odgovor organizma, a ne sam uzrok bolesti; u medicinskom je nazivlju prepoznajete po nastavku -itis (tendinitis, burzitis, artritis).\n\nPet kardinalnih znakova upale jesu crvenilo (rubor), toplina (calor), oteklina (tumor), bol (dolor) i gubitak funkcije (functio laesa). Prva četiri opisao je rimski pisac Celzo u prvom stoljeću, a peti je dodan kasnije. Crvenilo i toplina posljedica su širenja krvnih žila (vazodilatacije) i pojačanog protoka krvi (hiperemije). Oteklina nastaje jer tekućina bogata bjelančevinama (eksudat) izlazi iz žila u međustanični prostor. Bol izazivaju medijatori upale koji podražuju receptore za bol te pritisak otekline na živčane završetke, a gubitak funkcije proizlazi iz boli, otekline i oštećenja tkiva.\n\nPrema sastavu izlučene tekućine razlikujemo eksudat i transudat. Eksudat je upalna tekućina bogata bjelančevinama i stanicama koja nastaje zbog povećane propusnosti žila. Transudat je tekućina siromašna bjelančevinama koja nastaje bez upale, zbog poremećaja tlakova u kapilarama, primjerice kod zatajenja srca. Zapamtite da je upala u načelu korisna reakcija, ali može i štetiti: kad je pretjerana, dugotrajna ili usmjerena protiv vlastitog tkiva, kao kod autoimunih bolesti, sama postaje uzrok oštećenja. Zato fizioterapeut mora prepoznati u kojoj je fazi upala i prilagoditi joj postupke.",
+          "bullets": [
+            "Rubor (crvenilo) i calor (toplina): vazodilatacija i hiperemija",
+            "Tumor (oteklina): izlazak eksudata u međustanični prostor",
+            "Dolor (bol): medijatori upale i pritisak otekline na živčane završetke",
+            "Functio laesa (gubitak funkcije): posljedica boli, otekline i oštećenja tkiva"
+          ],
+          "image": {
+            "file": "patofiziologija/erizipel.jpg",
+            "caption": "Ponavljani erizipel, bakterijska upala kože, na otečenoj potkoljenici žene sa zatajivanjem srca: crvenilo i oteklina dva su kardinalna znaka upale.",
+            "credits": [
+              {
+                "title": "Recurrent erysipelas on edematous leg",
+                "author": "Mikael Häggström",
+                "source": "https://commons.wikimedia.org/wiki/File:Recurrent_erysipelas_on_edematous_leg.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Tijek upale: akutna i kronična upala",
+          "body": "Žilni odgovor počinje kratkotrajnim suženjem žila (vazokonstrikcijom) koje traje tek nekoliko sekundi, nakon čega slijedi vazodilatacija arteriola i kapilara s pojačanim protokom krvi. Zbog povećane propusnosti stijenke žila plazma i bjelančevine izlaze u tkivo, krv se zgušnjava i protok usporava (staza). Leukociti se tada primiču stijenci žile (marginacija), prianjaju uz endotel i prolaze kroz stijenku u tkivo (dijapedeza), gdje ih kemijski signali usmjeravaju prema mjestu oštećenja (kemotaksija). Ondje fagocitiraju mikroorganizme i ostatke razorenih stanica.\n\nAkutna upala nastaje brzo, u minutama ili satima, i traje kratko, od nekoliko sati do nekoliko dana. Obilježavaju je eksudacija tekućine i bjelančevina te nakupljanje leukocita, među kojima u prvim satima prevladavaju neutrofilni granulociti. Nakon otprilike jednog do dva dana zamjenjuju ih monociti koji se u tkivu pretvaraju u makrofage. Prema sastavu eksudata razlikujemo seroznu upalu (bistra tekućina, primjerice u mjehuru nakon opekline), fibrinoznu (eksudat bogat fibrinom), gnojnu ili purulentnu (gnoj s mnoštvom neutrofila i razorenog tkiva) i hemoragičnu (eksudat s primjesom krvi).\n\nAkutna upala može završiti na četiri načina: potpunim ozdravljenjem s obnovom tkiva (rezolucija), cijeljenjem uz stvaranje vezivnog ožiljka (fibroza), stvaranjem apscesa, odnosno ograničene nakupine gnoja, ili prelaskom u kroničnu upalu. Osim lokalnih znakova, akutnu upalu prate sustavne promjene: vrućica, koju izazivaju citokini djelujući na centar za termoregulaciju u hipotalamusu, povećan broj leukocita u krvi (leukocitoza), umor i gubitak teka, a u laboratorijskim nalazima rastu C-reaktivni protein (CRP) i brzina sedimentacije eritrocita. U akutnoj se fazi primjenjuje hlađenje (krioterapija), koje smanjuje vazodilataciju, oteklinu i bol, dok je toplina kontraindicirana jer pojačava hiperemiju i eksudaciju.\n\nKronična upala traje tjednima, mjesecima ili godinama. Može se razviti iz neizliječene akutne upale ili od početka teći kao kronična, što je tipično za trajne infekcije (tuberkuloza), autoimune bolesti (reumatoidni artritis) i dugotrajno izlaganje štetnim tvarima. U tkivu umjesto neutrofila prevladavaju limfociti, makrofagi i plazma-stanice, a istodobno se odvijaju razaranje tkiva i pokušaji njegova popravka: stvaraju se nove krvne žile (angiogeneza) i vezivno tkivo (fibroza). Poseban je oblik granulomatozna upala, u kojoj se makrofagi nakupljaju u čvoriće (granulome), primjerice kod tuberkuloze.",
+          "bullets": [
+            "Akutna upala: brz početak, kratko trajanje, eksudacija i neutrofili",
+            "Kronična upala: dugo trajanje, limfociti i makrofagi, fibroza i angiogeneza",
+            "Ishodi akutne upale: rezolucija, fibroza, apsces, prelazak u kroničnu upalu",
+            "Sustavni znakovi: vrućica, leukocitoza, povišeni CRP i sedimentacija",
+            "Akutna faza: primjenjuje se hlađenje, toplina je kontraindicirana"
+          ]
+        },
+        {
+          "heading": "Medijatori upale",
+          "body": "Medijatori upale kemijske su tvari koje pokreću, pojačavaju i usmjeravaju upalni odgovor. Dijelimo ih na medijatore staničnog podrijetla i medijatore iz plazme. Histamin, pohranjen u mastocitima, bazofilima i trombocitima, oslobađa se prvi: širi arteriole i povećava propusnost venula, pa je odgovoran za rano crvenilo i oteklinu. Serotonin iz trombocita djeluje slično. Citokini, osobito interleukin-1 (IL-1), interleukin-6 (IL-6) i faktor nekroze tumora (TNF-alfa), koje luče makrofagi, izazivaju vrućicu, leukocitozu i stvaranje bjelančevina akutne faze (CRP, fibrinogen) u jetri.\n\nIz arahidonske kiseline u staničnim membranama nastaju dvije skupine medijatora. Enzim ciklooksigenaza (COX) stvara prostaglandine, koji šire krvne žile, pojačavaju bol (povećavaju osjetljivost nociceptora na bradikinin) i izazivaju vrućicu. Enzim lipoksigenaza stvara leukotriene, koji povećavaju propusnost žila, privlače leukocite i sužavaju bronhe. Na tom mjestu djeluju najčešći protuupalni lijekovi: nesteroidni protuupalni lijekovi (NSAIL, npr. ibuprofen i diklofenak) koče ciklooksigenazu i time sintezu prostaglandina, pa smanjuju bol, vrućicu i upalu. Kortikosteroidi djeluju ranije u lancu: koče oslobađanje arahidonske kiseline iz membrane, pa smanjuju stvaranje i prostaglandina i leukotriena i zato imaju šire protuupalno djelovanje.\n\nMedijatori iz plazme kruže krvlju u neaktivnom obliku i aktiviraju se na mjestu oštećenja. Sustav komplementa stvara anafilatoksine C3a i C5a, koji oslobađaju histamin iz mastocita, a C5a ujedno snažno privlači neutrofile; sastavnica C3b oblaže (opsonizira) bakterije i olakšava fagocitozu. Kininski sustav stvara bradikinin, jedan od najjačih izazivača boli, koji uz to širi žile i povećava njihovu propusnost. Sustav zgrušavanja fibrinskom mrežom ograničava širenje oštećenja i mikroorganizama. Iz endotela se oslobađa dušikov oksid (NO), koji širi krvne žile.",
+          "bullets": [
+            "Histamin: rana vazodilatacija i povećana propusnost venula",
+            "Prostaglandini: vazodilatacija, bol i vrućica (koče ih NSAIL)",
+            "Leukotrieni: propusnost žila, kemotaksija, bronhokonstrikcija",
+            "Bradikinin: bol, vazodilatacija, propusnost",
+            "Citokini IL-1, IL-6 i TNF-alfa: vrućica i reakcija akutne faze",
+            "Komplement: C5a privlači neutrofile, C3b opsonizira bakterije"
+          ]
+        },
+        {
+          "heading": "Bol: nociceptivna i neuropatska, akutna i kronična",
+          "body": "Bol (lat. dolor) neugodno je osjetilno i emocionalno iskustvo povezano sa stvarnim ili mogućim oštećenjem tkiva. Uvijek je subjektivna: bol je ono što bolesnik kaže da jest, a njezin intenzitet procjenjujemo vizualno-analognom (VAS) ili numeričkom ljestvicom od 0 do 10. Štetne mehaničke, toplinske i kemijske podražaje primaju nociceptori, slobodni živčani završeci u koži, mišićima, zglobovima i unutarnjim organima. Signal prenose tanka mijelinizirana vlakna A-delta (brza, oštra i dobro lokalizirana „prva bol”) i nemijelinizirana vlakna C (spora, tupa, žareća i slabo lokalizirana „druga bol”). U stražnjem rogu kralježnične moždine signal se prebacuje na drugi neuron, prelazi na suprotnu stranu i spinotalamičkim putem stiže u talamus, a potom u moždanu koru, gdje bol postaje svjesna.\n\nNociceptivna bol nastaje podraživanjem nociceptora stvarnim oštećenjem ili upalom tkiva, pri čemu sam živčani sustav radi normalno. Somatska nociceptivna bol potječe iz kože, mišića, kostiju i zglobova, dobro je lokalizirana i opisuje se kao oštra ili tupa i pulsirajuća. Visceralna bol potječe iz unutarnjih organa, tupa je, slabo lokalizirana i često se projicira na kožu područja koje opskrbljuje isti segment kralježnične moždine (prenesena bol): bol srčanog podrijetla širi se u lijevu ruku, a podraženi ošit boli u ramenu. Nociceptivna bol dobro reagira na analgetike i protuupalne lijekove te na fizikalne postupke.\n\nNeuropatska bol posljedica je ozljede ili bolesti samog somatosenzornog živčanog sustava, primjerice dijabetičke polineuropatije, pritiska na korijen živca (radikulopatije, išijalgije), sindroma karpalnog kanala, neuralgije nakon herpesa zostera ili fantomske boli nakon amputacije. Bolesnici je opisuju kao žarenje, sijevanje ili strujanje, prate je trnci (parestezije), alodinija (bol na podražaj koji inače ne boli, primjerice lagani dodir) i hiperalgezija (pojačana bol na bolni podražaj). Na obične analgetike reagira slabo, pa se liječi lijekovima koji djeluju na živčani sustav (antiepileptici, antidepresivi). Noviji izvori izdvajaju i treću skupinu, nociplastičnu bol, kod koje nema jasnog oštećenja tkiva ni živca, nego je poremećena obrada boli (primjerice fibromialgija).\n\nAkutna bol nastaje naglo, ima jasan uzrok (ozljeda, operacija, upala) i zaštitnu ulogu: upozorava na oštećenje i prisiljava na poštedu. Prati je aktivacija simpatikusa (ubrzan rad srca, povišen tlak, znojenje, proširene zjenice) i prestaje kad tkivo zacijeli. Kronična bol traje dulje od očekivanog vremena cijeljenja; kao granica najčešće se uzima tri, a prema nekim izvorima šest mjeseci. Ona gubi zaštitnu ulogu i postaje bolest sama po sebi. Podloga joj je često centralna senzitizacija, trajno povećana podražljivost neurona u stražnjem rogu kralježnične moždine, pa jačina boli ne odgovara stupnju oštećenja tkiva. Prate je poremećaji spavanja, potištenost, strah od pokreta (kineziofobija) i smanjenje tjelesne aktivnosti, zbog čega se liječi multidisciplinarno, uz vježbanje, edukaciju i postupno vraćanje aktivnosti.",
+          "bullets": [
+            "Nociceptivna bol: podražaj nociceptora oštećenjem ili upalom; somatska i visceralna",
+            "Neuropatska bol: ozljeda ili bolest živčanog sustava; žarenje, alodinija, hiperalgezija",
+            "Akutna bol: jasan uzrok, zaštitna uloga, prestaje s cijeljenjem",
+            "Kronična bol: traje dulje od vremena cijeljenja, centralna senzitizacija, bolest sama po sebi",
+            "Procjena intenziteta: vizualno-analogna (VAS) i numerička ljestvica (0–10)"
+          ]
+        },
+        {
+          "heading": "Teorija kontrole prolaza",
+          "body": "Teoriju kontrole prolaza (engl. gate control theory) predložili su Ronald Melzack i Patrick Wall 1965. godine. Prema njoj u stražnjem rogu kralježnične moždine, u želatinoznoj tvari (substantia gelatinosa), postoje „vrata” koja propuštaju ili zaustavljaju bolne signale na putu prema mozgu. Vrata čine inhibicijski interneuroni: kad su aktivni, prijenos boli je oslabljen (vrata su zatvorena), a kad su zakočeni, bolni signali slobodno prolaze (vrata su otvorena).\n\nDebela mijelinizirana vlakna A-beta, koja prenose dodir, pritisak i vibraciju, aktiviraju inhibicijske interneurone i zatvaraju vrata. Tanka vlakna A-delta i C, koja prenose bol, koče te interneurone i otvaraju vrata. Zato trljanje udarenog mjesta, masaža ili vibracija smanjuju bol: podražaj debelih vlakana nadjača bolne signale tankih vlakana. Vrata zatvaraju i silazni putovi iz mozga, koji oslobađaju endogene opioide (endorfine), serotonin i noradrenalin, što objašnjava utjecaj pažnje, očekivanja i emocija na doživljaj boli.\n\nTeorija kontrole prolaza znanstvena je podloga mnogih fizioterapijskih postupaka. Transkutana električna živčana stimulacija (TENS) u konvencionalnom obliku, s visokom frekvencijom i niskim intenzitetom, podražuje vlakna A-beta i zatvara vrata, pa olakšanje nastupa brzo, ali traje uglavnom dok stimulacija traje. TENS niske frekvencije i jačeg intenziteta djeluje pretežno oslobađanjem endogenih opioida, pa učinak nastupa sporije, ali dulje traje. Na istom se načelu temelje i analgetski učinci masaže, vibracije i pokreta.",
+          "bullets": [
+            "Melzack i Wall, 1965.: vrata u stražnjem rogu kralježnične moždine",
+            "Vlakna A-beta (dodir, vibracija) zatvaraju vrata",
+            "Vlakna A-delta i C (bol) otvaraju vrata",
+            "Silazni putovi iz mozga (endorfini, serotonin, noradrenalin) zatvaraju vrata",
+            "Primjena: konvencionalni TENS, masaža, vibracija"
+          ]
+        }
+      ],
+      "key_points": [
+        "Pet kardinalnih znakova upale: rubor, calor, tumor, dolor i functio laesa.",
+        "Akutnu upalu obilježavaju eksudacija i neutrofili, kroničnu limfociti, makrofagi i fibroza.",
+        "NSAIL koče ciklooksigenazu i sintezu prostaglandina; kortikosteroidi koče oslobađanje arahidonske kiseline pa djeluju šire.",
+        "Nociceptivna bol nastaje oštećenjem tkiva, neuropatska ozljedom ili bolešću živčanog sustava.",
+        "Kronična bol traje dulje od vremena cijeljenja, gubi zaštitnu ulogu i uključuje centralnu senzitizaciju.",
+        "Prema teoriji kontrole prolaza podražaj debelih vlakana A-beta (dodir, masaža, konvencionalni TENS) zatvara vrata boli."
+      ]
+    },
+    {
+      "id": "edem-i-poremecaji-cirkulacije",
+      "title": "Edem i poremećaji cirkulacije",
+      "summary": "Zašto nastaje oteklina, kako prepoznati vensku insuficijenciju, duboku vensku trombozu i limfedem te što fizioterapeut smije i ne smije činiti.",
+      "estimated_minutes": 10,
+      "sections": [
+        {
+          "heading": "Edem: mehanizmi nastanka",
+          "body": "Edem (lat. oedema) nakupljanje je suviška tekućine u međustaničnom (intersticijskom) prostoru ili u tjelesnim šupljinama. Nakupljanje tekućine u prsnoj šupljini zove se hidrotoraks, u trbušnoj ascites, a teški generalizirani edem cijelog tijela anasarka. Edem može biti lokalni (upala, ozljeda, venska ili limfna zapreka na jednom udu) ili generalizirani (zatajenje srca, bubrega ili jetre). Ako pritisak prsta na oteklinu ostavlja udubinu koja polako nestaje, govorimo o tjestastom edemu; tvrdi edem koji ne ostavlja udubinu tipičan je za uznapredovali limfedem.\n\nIzmjena tekućine na razini kapilara ovisi o ravnoteži četiriju čimbenika. Hidrostatski tlak krvi tjera tekućinu iz kapilare u tkivo, a koloidno-osmotski (onkotski) tlak bjelančevina plazme, ponajprije albumina, vraća je u žilu. Treći je čimbenik propusnost kapilarne stijenke, a četvrti limfna drenaža, koja odvodi višak tekućine i bjelančevina iz tkiva natrag u krvotok. Edem nastaje kad se ta ravnoteža poremeti u korist izlaska tekućine u tkivo ili kad njezin odvod zakaže.\n\nPrema mehanizmu razlikujemo pet glavnih uzroka edema. Povećan hidrostatski tlak nalazimo kod zatajenja srca, venske tromboze i venske insuficijencije. Smanjen onkotski tlak posljedica je manjka albumina, kao kod nefrotskog sindroma (albumin se gubi mokraćom), ciroze jetre (jetra stvara premalo albumina) i pothranjenosti. Povećana propusnost kapilara obilježje je upale, alergije i opeklina; takav je edem eksudat, bogat bjelančevinama. Zapreka limfnoj drenaži uzrokuje limfedem, a zadržavanje natrija i vode kod zatajenja bubrega generalizirani edem. U fizioterapiji edem smanjujemo podizanjem uda (elevacijom), kompresijom, aktivnim pokretom (mišićna crpka) i limfnom drenažom, a kod akutne ozljede i hlađenjem.",
+          "bullets": [
+            "Povećan hidrostatski tlak: zatajenje srca, venska tromboza, venska insuficijencija",
+            "Smanjen onkotski tlak: manjak albumina (nefrotski sindrom, ciroza, pothranjenost)",
+            "Povećana propusnost kapilara: upala, alergija, opeklina",
+            "Zapreka limfnoj drenaži: limfedem",
+            "Zadržavanje natrija i vode: zatajenje bubrega"
+          ]
+        },
+        {
+          "heading": "Kronična venska insuficijencija",
+          "body": "Vraćanje venske krvi iz nogu prema srcu odvija se protiv sile teže, pa ovisi o mišićnoj crpki potkoljenice (kontrakcija mišića lista istiskuje krv prema gore), o venskim zaliscima koji sprječavaju vraćanje krvi prema dolje i o disanju. Krv iz površinskih vena teče kroz perforantne vene u duboke vene. Kronična venska insuficijencija (lat. insufficientia venosa chronica) stanje je u kojem venski zalisci zataje, krv se vraća prema dolje (refluks) i u venama nogu u stojećem položaju trajno vlada povišen tlak (venska hipertenzija).\n\nZalisci mogu biti slabi od rođenja (primarna insuficijencija) ili oštećeni ranijom dubokom venskom trombozom (posttrombotski sindrom). Rizik povećavaju dugotrajno stajanje, pretilost, trudnoća, životna dob i nasljeđe. Bolesnici osjećaju težinu i bol u nogama koje se pogoršavaju stajanjem, a smanjuju hodanjem i podizanjem nogu; oteklina gležnjeva izraženija je navečer, a preko noći se povlači. Vidljive su proširene vene (varikoziteti), a s vremenom se javljaju smeđa pigmentacija kože (odlaganje hemosiderina), ekcem (stazni dermatitis), otvrdnuće kože i potkožja (lipodermatoskleroza) i na kraju venski vrijed (ulcus cruris), tipično na unutarnjoj strani potkoljenice iznad gležnja.\n\nTežina bolesti opisuje se CEAP-klasifikacijom, u kojoj klinički stupnjevi idu od C0 (bez vidljivih znakova) preko C1 (teleangiektazije i retikularne vene), C2 (varikoziteti), C3 (edem) i C4 (promjene kože) do C5 (zacijeljeni vrijed) i C6 (aktivni vrijed). Temelj liječenja jest kompresijska terapija elastičnim čarapama ili zavojima, uz podizanje nogu, redovito hodanje i vježbe mišićne crpke te izbjegavanje dugog stajanja i sjedenja. Kompresija je kontraindicirana kod teške periferne arterijske bolesti jer bi dodatno smanjila ionako oslabljenu arterijsku opskrbu uda, pa prije njezine primjene treba provjeriti arterijsku cirkulaciju. Venski vrijed valja razlikovati od arterijskog, koji je smješten distalno (prsti, peta, vanjska strana gležnja), vrlo je bolan, blijed i oštro ograničen, a periferni pulsevi nedostaju.",
+          "bullets": [
+            "Uzrok: zatajenje venskih zalistaka, refluks i venska hipertenzija",
+            "Simptomi: težina i oteklina nogu izraženije navečer i nakon stajanja",
+            "Znakovi: varikoziteti, pigmentacija, lipodermatoskleroza, venski vrijed iznad gležnja",
+            "Liječenje: kompresija, elevacija, hodanje i vježbe mišićne crpke",
+            "Kompresija je kontraindicirana kod teške periferne arterijske bolesti"
+          ],
+          "image": {
+            "file": "patofiziologija/varikozne-vene.jpg",
+            "caption": "Proširene (varikozne) vene na potkoljenici, čest znak kronične venske insuficijencije.",
+            "credits": [
+              {
+                "title": "Ubbu siralu (varicose veins)",
+                "author": "Dr. Gannavarapu Narasimhamurthy",
+                "source": "https://commons.wikimedia.org/wiki/File:%E0%B0%89%E0%B0%AC%E0%B1%8D%E0%B0%AC%E0%B1%81_%E0%B0%B8%E0%B0%BF%E0%B0%B0%E0%B0%B2%E0%B1%81_(_varicose_veins.jpeg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Tromboza i plućna embolija",
+          "body": "Tromboza (lat. thrombosis) stvaranje je krvnog ugruška (tromba) u krvnoj žili ili srcu živog čovjeka. Za razliku od hemostaze, koja fiziološki zaustavlja krvarenje iz ozlijeđene žile, tromb nastaje unutar žile i ometa protok krvi. Tri skupine uzroka opisuje Virchowljev trijas: oštećenje endotela (unutarnjeg sloja žile), poremećaj protoka krvi (zastoj ili vrtloženje) i pojačana sklonost zgrušavanju (hiperkoagulabilnost). U arterijama tromb najčešće nastaje na oštećenom aterosklerotskom plaku i uzrokuje ishemiju (infarkt miokarda, moždani udar); u venama prevladava zastoj krvi.\n\nDuboka venska tromboza (DVT) najčešće zahvaća duboke vene potkoljenice, a može se proširiti na poplitealnu, femoralnu i ilijačnu venu. Čimbenici rizika jesu nepokretnost (ležanje u krevetu, imobilizacija gipsom, dugo putovanje), koja uzrokuje zastoj krvi; operacije, osobito ortopedske ugradnje umjetnog kuka ili koljena, te ozljede i prijelomi, koji oštećuju žile i aktiviraju zgrušavanje; zloćudne bolesti, trudnoća i babinje, hormonska kontracepcija, pretilost, pušenje i dehidracija, koji povećavaju sklonost zgrušavanju; te starija dob i ranija tromboza. Klinički se očituje jednostranom oteklinom noge, boli i osjetljivošću lista, toplinom i crvenilom ili modrikastom bojom kože te proširenim površinskim venama, ali je nerijetko bez simptoma. Dijagnoza se potvrđuje ultrazvukom (obojenim doplerom); negativan nalaz D-dimera u krvi služi za isključivanje tromboze, dok povišen D-dimer nije specifičan jer raste i nakon operacije, kod upale ili tumora.\n\nNajopasnija je komplikacija plućna embolija: dio tromba se odvoji (embolus), krvlju putuje kroz desno srce i začepi plućnu arteriju ili njezine grane. Očituje se naglom zaduhom, boli u prsima, ubrzanim pulsom, ponekad iskašljavanjem krvi i gubitkom svijesti, a može biti smrtonosna. Kasna je posljedica DVT-a posttrombotski sindrom s trajnom venskom insuficijencijom zbog uništenih zalistaka. Tromboza se sprječava ranim ustajanjem nakon operacije, aktivnim vježbama stopala i potkoljenice u krevetu („pumpanje” stopala), kompresijskim čarapama i antikoagulantnim lijekovima (niskomolekularni heparin). Kod sumnje na DVT masaža i intenzivne vježbe zahvaćene noge obustavljaju se zbog opasnosti odvajanja tromba dok liječnik trombozu ne isključi. Ako je tromboza potvrđena, hodanje i lagane vježbe nastavljaju se nakon početka antikoagulantnog liječenja, a masaža zahvaćene noge ostaje kontraindicirana tijekom akutne faze.",
+          "bullets": [
+            "Virchowljev trijas: oštećenje endotela, zastoj ili vrtloženje krvi, hiperkoagulabilnost",
+            "Rizik za DVT: nepokretnost, operacije, ozljede, zloćudne bolesti, trudnoća, hormonska kontracepcija",
+            "Znakovi DVT-a: jednostrana oteklina, bol i osjetljivost lista, toplina, crvenilo",
+            "Komplikacije: plućna embolija (nagla zaduha, bol u prsima) i posttrombotski sindrom",
+            "Prevencija: rana mobilizacija, vježbe stopala, kompresija, antikoagulansi"
+          ]
+        },
+        {
+          "heading": "Limfedem",
+          "body": "Limfni sustav vraća u krvotok tekućinu i bjelančevine koje su iz kapilara izašle u međustanični prostor, prenosi masti iz crijeva i sudjeluje u obrani organizma. Limfa prolazi kroz limfne čvorove i velikim limfnim vodovima utječe u vene na korijenu vrata. Limfedem (lat. lymphoedema) kronična je oteklina koja nastaje kad je odvod limfe nedostatan, pa se u tkivu nakuplja tekućina bogata bjelančevinama. Zadržane bjelančevine potiču kroničnu upalu, umnažanje vezivnog tkiva (fibrozu) i odlaganje masti, zbog čega oteklina s vremenom otvrdne.\n\nPrimarni limfedem posljedica je prirođene nerazvijenosti ili nepravilnosti limfnih žila i može se pojaviti pri rođenju, u pubertetu ili kasnije. Sekundarni limfedem češći je i nastaje oštećenjem prije zdravih limfnih putova: nakon kirurškog odstranjenja limfnih čvorova (primjerice iz pazuha kod raka dojke, kad otekne ruka), nakon zračenja, zbog prorastanja tumorom, nakon ponavljanih infekcija kože (erizipel), nakon ozljeda ili uz dugotrajnu vensku insuficijenciju. U tropskim je krajevima najčešći uzrok parazitarna infekcija (filarijaza).\n\nLimfedem je u pravilu jednostran, počinje na nadlanici ili hrptu stopala i zahvaća prste. Stemmerov znak je pozitivan: kožni nabor na bazi drugog prsta stopala ili šake ne može se podići jer je koža zadebljana. Prema klasifikaciji Međunarodnog društva za limfologiju razlikujemo stadij 0 (latentni, bez vidljive otekline), stadij I (mekana, tjestasta oteklina koja se povlači podizanjem uda), stadij II (oteklina se više ne povlači elevacijom, razvija se fibroza) i stadij III (limfostatska elefantijaza s tvrdom oteklinom i promjenama kože). Koža je zbog bjelančevinama bogate tekućine sklona infekcijama.\n\nLimfedem se ne može izliječiti, ali se može držati pod nadzorom kompleksnom fizikalnom dekongestivnom terapijom, koja ima četiri sastavnice: manualnu limfnu drenažu, kompresiju (višeslojno bandažiranje u intenzivnoj fazi, a kompresijski rukav ili čarapu u fazi održavanja), vježbe uz kompresiju i njegu kože. Diuretici ne pomažu jer ne uklanjaju bjelančevine iz tkiva. Manualna limfna drenaža kontraindicirana je kod akutne infekcije, akutne duboke venske tromboze i dekompenziranog zatajenja srca. Bolesnicima savjetujte da na zahvaćenom udu izbjegavaju mjerenje tlaka, injekcije, ozljede, uske odjevne predmete i pretjeranu toplinu.",
+          "bullets": [
+            "Primarni limfedem: prirođena nepravilnost limfnih žila",
+            "Sekundarni limfedem: nakon odstranjenja limfnih čvorova, zračenja, tumora, infekcija",
+            "Stemmerov znak: kožni nabor na bazi drugog prsta ne može se podići",
+            "Stadiji 0–III: od latentnog do limfostatske elefantijaze",
+            "Kompleksna dekongestivna terapija: limfna drenaža, kompresija, vježbe, njega kože"
+          ]
+        }
+      ],
+      "key_points": [
+        "Edem nastaje poremećajem ravnoteže hidrostatskog i onkotskog tlaka, propusnosti kapilara i limfne drenaže.",
+        "Kronična venska insuficijencija posljedica je zatajenja venskih zalistaka; temelj liječenja je kompresija, uz prethodnu provjeru arterijske cirkulacije.",
+        "Virchowljev trijas: oštećenje endotela, poremećaj protoka krvi i hiperkoagulabilnost.",
+        "Najopasnija komplikacija duboke venske tromboze jest plućna embolija; kod sumnje na DVT masaža i intenzivne vježbe noge su zabranjene.",
+        "Limfedem je oteklina bogata bjelančevinama s pozitivnim Stemmerovim znakom; liječi se kompleksnom dekongestivnom terapijom, a ne diureticima."
+      ]
+    },
+    {
+      "id": "cijeljenje-atrofija-kontrakture",
+      "title": "Cijeljenje tkiva, atrofija, hipertrofija i kontrakture",
+      "summary": "Kako tkiva cijele kroz upalnu, proliferacijsku i remodelacijsku fazu, što cijeljenje ometa te kako nastaju atrofija, hipertrofija i kontrakture.",
+      "estimated_minutes": 11,
+      "sections": [
+        {
+          "heading": "Regeneracija i reparacija",
+          "body": "Oštećeno tkivo cijeli na dva osnovna načina. Regeneracija je nadomještanje izgubljenih stanica istovrsnim stanicama, pa se građa i funkcija tkiva potpuno obnavljaju. Reparacija (popravak) nadomještanje je oštećenog tkiva vezivnim tkivom, odnosno ožiljkom, koji zatvara defekt, ali nema funkciju izvornog tkiva. Koji će način prevladati ovisi o sposobnosti stanica da se dijele i o opsegu oštećenja: ako je razoren i potporni vezivni okvir tkiva, cijeljenje završava ožiljkom.\n\nPrema sposobnosti diobe stanice dijelimo na tri skupine. Labilne stanice stalno se dijele (epitel kože i sluznica, koštana srž), pa se takva tkiva lako regeneriraju. Stabilne stanice u mirovanju se ne dijele, ali se nakon oštećenja mogu umnožiti (stanice jetre i bubrega, fibroblasti, koštane stanice), zbog čega kost cijeli regeneracijom, bez ožiljka. Trajne stanice ne mogu se dijeliti: neuroni središnjeg živčanog sustava i stanice srčanog mišića nadomještaju se ožiljkom. Skeletni mišić ima ograničenu sposobnost regeneracije pomoću satelitskih stanica, no veći defekti cijele ožiljkom.\n\nSposobnost cijeljenja ovisi i o prokrvljenosti. Zglobna hijalina hrskavica nema krvnih žila ni živaca, a hondrociti se gotovo ne dijele, pa su oštećenja hrskavice gotovo nepovratna i popunjavaju se slabijom vlaknastom hrskavicom. Tetive i ligamenti slabo su prokrvljeni i cijele sporo, a zacijeljeni ligament ostaje slabiji od izvornog. Periferni živac može se regenerirati: nakon ozljede distalni dio aksona propada (Wallerova degeneracija), a akson iz proksimalnog dijela ponovno raste brzinom od oko jednog milimetra na dan. Rana sa spojenim rubovima (kirurški rez) cijeli primarno (per primam) s malim ožiljkom, a rana s velikim defektom tkiva sekundarno (per secundam), ispunjavanjem granulacijskim tkivom, sporije i s većim ožiljkom.",
+          "bullets": [
+            "Regeneracija: obnova istovrsnim stanicama (koža, sluznica, jetra, kost)",
+            "Reparacija: nadomještanje ožiljkom (srčani mišić, neuroni središnjeg živčanog sustava)",
+            "Zglobna hrskavica: bez krvnih žila, gotovo se ne obnavlja",
+            "Periferni živac: regeneracija aksona oko 1 mm na dan",
+            "Cijeljenje per primam (spojeni rubovi) i per secundam (granulacijsko tkivo)"
+          ]
+        },
+        {
+          "heading": "Faze cijeljenja rane",
+          "body": "Cijeljenje rane odvija se u trima fazama koje se vremenski preklapaju: upalnoj, proliferacijskoj i remodelacijskoj. Upalna faza počinje odmah nakon ozljede i traje prvih nekoliko dana. Najprije se krvne žile suze, trombociti se nakupljaju i stvara se fibrinski ugrušak koji zaustavlja krvarenje i služi kao privremena potka (hemostaza, koju neki autori izdvajaju kao zasebnu fazu). Slijedi vazodilatacija s eksudacijom: neutrofili čiste ranu od bakterija i ostataka tkiva, a potom dolaze makrofagi, ključne stanice ove faze, koji fagocitiraju i izlučuju faktore rasta kojima pokreću sljedeću fazu. Klinički su prisutni bol, oteklina, toplina i crvenilo, pa su u ovoj fazi na mjestu zaštita, odmor, hlađenje i oprezno, bezbolno opterećenje.\n\nProliferacijska faza počinje oko trećeg dana i traje otprilike do trećeg tjedna. Fibroblasti se umnažaju i sintetiziraju mladi kolagen tipa III, iz rubova rastu nove kapilare (angiogeneza), a zajedno čine granulacijsko tkivo: crveno, zrnato i lako krvareće tkivo koje ispunjava defekt. Rubovi se epitelizacijom prekrivaju novim epitelom, a miofibroblasti stežu ranu (kontrakcija). Novi je kolagen slab, a vlakna su mu nasumično usmjerena, pa postupno, kontrolirano opterećenje u ovoj fazi usmjerava vlakna duž linija opterećenja i sprječava stvaranje priraslica, dok preveliko opterećenje može ponovno oštetiti tkivo.\n\nRemodelacijska faza (faza sazrijevanja) počinje oko trećeg tjedna i može trajati godinu dana i dulje. Kolagen tipa III zamjenjuje se čvršćim kolagenom tipa I, među vlaknima nastaju poprečne veze, vlakna se slažu u smjeru vlaka, broj krvnih žila i stanica se smanjuje, a ožiljak blijedi i postaje ravniji. Čvrstoća ožiljka postupno raste, ali nikada ne dosegne čvrstoću izvornog tkiva: obično doseže otprilike 70–80 % prvotne čvrstoće. U ovoj se fazi primjenjuju progresivno opterećenje, istezanje, jačanje i mobilizacija ožiljka.",
+          "bullets": [
+            "Upalna faza (prvih nekoliko dana): hemostaza, neutrofili, makrofagi; zaštita i hlađenje",
+            "Proliferacijska faza (od oko 3. dana do 3. tjedna): fibroblasti, kolagen tipa III, granulacijsko tkivo; kontrolirano opterećenje",
+            "Remodelacijska faza (od oko 3. tjedna do godine dana i dulje): kolagen tipa I, usmjeravanje vlakana; progresivno opterećenje",
+            "Ožiljak doseže najviše oko 70–80 % čvrstoće izvornog tkiva"
+          ],
+          "image": {
+            "file": "patofiziologija/sivana-rana.jpg",
+            "caption": "Šivana operacijska rana na dlanu nakon zahvata zbog suženja prstenaste sveze tetive (škljocavi prst). Šavovi spajaju rubove rane, koja zatim prolazi upalnu, proliferacijsku i remodelacijsku fazu.",
+            "credits": [
+              {
+                "title": "Chirurgische Naht - sutured wound on left hand 1",
+                "author": "Sciencia58",
+                "source": "https://commons.wikimedia.org/wiki/File:Chirurgische_Naht_-_sutured_wound_on_left_hand_1.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Čimbenici koji ometaju cijeljenje",
+          "body": "Cijeljenje mogu usporiti ili spriječiti lokalni i sustavni čimbenici. Najvažniji je lokalni čimbenik infekcija rane, koja produljuje upalnu fazu i razara novostvoreno tkivo. Cijeljenje ometaju i strano tijelo, nekrotično tkivo, hematom, slaba prokrvljenost (ateroskleroza, venska insuficijencija), izražen edem koji otežava difuziju kisika, pretjerano pomicanje i napetost rubova rane, pritisak na ranu te ranije zračenje tkiva. Velike rane i rane na mjestima slabe prokrvljenosti cijele sporije.\n\nMeđu sustavnim čimbenicima najvažniji su starija životna dob, pothranjenost, osobito manjak bjelančevina, vitamina C (potreban za sintezu kolagena) i cinka, te šećerna bolest, u kojoj oštećene male krvne žile, neuropatija i oslabljena funkcija leukocita usporavaju cijeljenje i pogoduju infekciji. Kortikosteroidi koče upalu i sintezu kolagena, pa oslabljuju ožiljak, a slično djeluju i drugi imunosupresivi te kemoterapija. Pušenje sužava krvne žile i smanjuje opskrbu kisikom, a cijeljenje usporavaju i anemija, pretilost, periferna arterijska bolest te kronične bolesti bubrega i jetre.\n\nPoremećaji cijeljenja očituju se nedostatnim ili pretjeranim stvaranjem tkiva. Nedostatno cijeljenje vodi do rastvaranja rane (dehiscencije) ili kroničnog vrijeda. Pretjerano stvaranje kolagena uzrokuje hipertrofični ožiljak, koji je zadebljan, ali ostaje u granicama rane, i keloid, koji prerasta granice rane. Pretjerana kontrakcija ožiljka, osobito nakon opeklina, dovodi do kontrakture, a vezivne priraslice (adhezije) između tkivnih slojeva ograničavaju klizanje tetiva i mišića.",
+          "bullets": [
+            "Lokalni čimbenici: infekcija (najvažniji), strano tijelo, nekroza, hematom, ishemija, edem, pomicanje rubova",
+            "Sustavni čimbenici: dob, pothranjenost (bjelančevine, vitamin C, cink), šećerna bolest, kortikosteroidi, pušenje",
+            "Hipertrofični ožiljak ostaje u granicama rane; keloid prerasta granice",
+            "Pretjerana kontrakcija ožiljka vodi do kontrakture, priraslice ograničavaju klizanje tkiva"
+          ]
+        },
+        {
+          "heading": "Atrofija i hipertrofija",
+          "body": "Stanice se prilagođavaju promijenjenim zahtjevima. Atrofija (lat. atrophia) smanjenje je veličine stanica, a time i tkiva ili organa, zbog smanjene sinteze i pojačane razgradnje bjelančevina. Za fizioterapiju su najvažnije inaktivitetna atrofija zbog neuporabe (imobilizacija gipsom, ležanje u krevetu, pošteda zbog boli) i denervacijska atrofija nakon oštećenja perifernog živca ili motoričkih neurona, koja nastupa brže i teža je. Atrofija nastaje i zbog slabe prokrvljenosti (ishemijska), pothranjenosti, gubitka hormonskog poticaja i starenja (gubitak mišićne mase u starosti naziva se sarkopenija).\n\nInaktivitetna atrofija skeletnog mišića počinje već u prvim danima potpune imobilizacije, a mišićna masa i snaga najbrže opadaju u prvim tjednima. Najviše stradaju antigravitacijski mišići koji održavaju uspravan stav, poput četveroglavog mišića natkoljenice i mišića lista. Osim mišića, neuporaba zahvaća i kost (gubitak koštane mase) i zglobnu hrskavicu. Inaktivitetna atrofija je povratna: ponovnim opterećenjem mišić se oporavlja, no oporavak traje dulje od vremena imobilizacije. Zato se već tijekom imobilizacije provode izometrične kontrakcije i vježbe slobodnih zglobova, a po potrebi i elektrostimulacija.\n\nHipertrofija (lat. hypertrophia) povećanje je veličine stanica zbog pojačane sinteze bjelančevina, bez porasta broja stanica, i glavni je način prilagodbe tkiva koja se ne mogu dijeliti, poput skeletnog i srčanog mišića. Fiziološka hipertrofija skeletnog mišića nastaje treningom snage: povećavaju se broj miofibrila i debljina mišićnih vlakana, uz poticaj hormona (testosteron, hormon rasta). Patološka je hipertrofija primjerice zadebljanje stijenke lijeve klijetke kod dugotrajne hipertenzije. Hipertrofiju treba razlikovati od hiperplazije (lat. hyperplasia), povećanja broja stanica, koje je moguće samo u tkivima sposobnima za diobu.",
+          "bullets": [
+            "Atrofija: smanjenje veličine stanica (neuporaba, denervacija, ishemija, pothranjenost, starenje)",
+            "Inaktivitetna atrofija: povratna, najbrža u prvim tjednima, najviše zahvaća antigravitacijske mišiće",
+            "Hipertrofija: povećanje veličine stanica (trening snage, hipertenzija)",
+            "Hiperplazija: povećanje broja stanica"
+          ]
+        },
+        {
+          "heading": "Kontrakture",
+          "body": "Kontraktura (lat. contractura) dugotrajno je ograničenje pasivnog opsega pokreta u zglobu zbog skraćenja i fibroze mekih tkiva: mišića, tetiva, ligamenata, zglobne čahure ili kože. Razlikuje se od pareze, kod koje je zbog slabosti mišića ograničen samo aktivni pokret, dok pasivni ostaje slobodan, i od ankiloze (lat. ankylosis), potpune nepokretnosti zgloba zbog vezivnog ili koštanog srastanja zglobnih tijela. Prema tkivu koje je uzrok razlikujemo miogenu (mišićnu), artrogenu (zglobnu: čahura i ligamenti), dermatogenu (kožnu, primjerice ožiljak nakon opekline) i neurogenu kontrakturu, koja nastaje zbog poremećaja živčanog sustava, najčešće spastičnosti, ali i zbog neravnoteže mišića kod mlohave kljenuti.\n\nKontraktura se razvija kad je zglob dulje vrijeme nepokretan u istom položaju. Mišić imobiliziran u skraćenom položaju gubi sarkomere i skraćuje se, u njemu i oko zgloba umnaža se vezivno tkivo, zglobna čahura se zadebljava, stvaraju se priraslice, a hrskavica propada. Nepokretni bolesnici instinktivno drže zglobove u položaju najmanje boli, obično u pregibanju (fleksiji), pa su tipične kontrakture ležećih bolesnika fleksijska kontraktura kuka i koljena te konjsko stopalo (pes equinus) zbog skraćenja mišića lista. Poznati su primjeri i Dupuytrenova kontraktura, fibroza dlanske fascije sa savijanjem prstenjaka i malog prsta, te Volkmannova ishemijska kontraktura podlaktice nakon neliječenog sindroma mišićnog odjeljka (engl. compartment syndrome).\n\nKontrakturu je mnogo lakše spriječiti nego liječiti. Prevencija obuhvaća pravilno pozicioniranje u krevetu, redovito pasivno i aktivno razgibavanje svih zglobova, ranu mobilizaciju, udlage i ortoze te liječenje spastičnosti. Postojeća se kontraktura liječi dugotrajnim istezanjem, često uz prethodno zagrijavanje koje povećava rastezljivost vezivnog tkiva, serijskim gipsanjem ili udlagama, mobilizacijskim tehnikama i vježbama, a fiksirane kontrakture kirurški (produljenje tetive, otvaranje zglobne čahure).",
+          "bullets": [
+            "Kontraktura: ograničen i pasivni i aktivni pokret; pareza: samo aktivni; ankiloza: potpuna nepokretnost",
+            "Vrste: miogena, artrogena, dermatogena, neurogena",
+            "Tipične kontrakture ležećih bolesnika: fleksija kuka i koljena, pes equinus",
+            "Prevencija: pozicioniranje, razgibavanje, rana mobilizacija, udlage"
+          ]
+        }
+      ],
+      "key_points": [
+        "Regeneracija obnavlja istovrsno tkivo; reparacija stvara ožiljak.",
+        "Tri faze cijeljenja: upalna (prvih nekoliko dana), proliferacijska (do oko 3 tjedna) i remodelacijska (do godine dana i dulje).",
+        "Infekcija je najvažniji lokalni čimbenik koji ometa cijeljenje; sustavni su dob, pothranjenost, šećerna bolest, kortikosteroidi i pušenje.",
+        "Inaktivitetna atrofija je povratna i najbrža u prvim tjednima; denervacijska je brža i teža.",
+        "Hipertrofija je povećanje veličine stanica, hiperplazija povećanje njihova broja.",
+        "Kontraktura ograničava pasivni opseg pokreta; sprječava se pozicioniranjem i razgibavanjem."
+      ]
+    },
+    {
+      "id": "tonus-i-bolesti-kostiju-i-zglobova",
+      "title": "Poremećaji mišićnog tonusa, osteoporoza i bolesti zglobova",
+      "summary": "Kako prepoznati flakcidnost, spastičnost i rigidnost te kako se razlikuju osteoporoza, osteoartritis i reumatoidni artritis i što to znači za fizioterapiju.",
+      "estimated_minutes": 12,
+      "sections": [
+        {
+          "heading": "Mišićni tonus i flakcidnost",
+          "body": "Mišićni tonus (lat. tonus muscularis) napetost je mišića u mirovanju, koju klinički procjenjujemo kao otpor pasivnom pokretu. Održava ga refleks na istezanje (miotatski refleks): mišićna vretena bilježe istezanje mišića i preko kralježnične moždine izazivaju njegovu blagu kontrakciju. Podražljivost tog refleksa stalno podešavaju silazni putovi iz mozga, pretežno kočeći je. Normalan tonus omogućuje održavanje položaja tijela i glatko izvođenje pokreta. Poremećaji tonusa idu u dva smjera: sniženi tonus (hipotonija, flakcidnost) i povišeni tonus (hipertonija), koji se javlja kao spastičnost ili rigidnost.\n\nFlakcidnost (lat. flacciditas, mlohavost) stanje je u kojem je mišić mlohav, otpor pasivnom pokretu je smanjen ili ga nema, ud je „težak” i pada kad ga ispustite, a tetivni refleksi su oslabljeni ili ugašeni. Tipična je za oštećenje donjeg motoričkog neurona, odnosno perifernu parezu ili paralizu: ozljede perifernih živaca, polineuropatije, bolesti prednjih rogova kralježnične moždine (dječja paraliza) i oštećenja korijena živaca. Takvu mlohavu kljenut brzo prati denervacijska atrofija mišića, a mogu se vidjeti i fascikulacije, sitni nevoljni trzaji mišićnih vlakana. Hipotoniju nalazimo i kod bolesti malog mozga i bolesti samog mišića (miopatija).\n\nFlakcidnost može biti i prolazna faza oštećenja gornjeg motoričkog neurona. Nakon moždanog udara zahvaćeni je ud u prvim danima mlohav, a spastičnost se razvija tek kasnije. Nakon ozljede kralježnične moždine nastupa spinalni šok: ispod razine ozljede vlada potpuna mlohava kljenut s ugašenim refleksima koja traje danima do tjednima, nakon čega se postupno razvijaju spastičnost i pojačani refleksi. Kod flakcidnog uda fizioterapeut mora spriječiti istegnuće zglobne čahure i ligamenata (primjerice subluksaciju ramena kod hemiplegije) pravilnim pozicioniranjem i podupiranjem te održavati opseg pokreta pasivnim razgibavanjem.",
+          "bullets": [
+            "Tonus: napetost mišića u mirovanju, održava ga refleks na istezanje",
+            "Flakcidnost: smanjen otpor pasivnom pokretu, oslabljeni ili ugašeni refleksi",
+            "Uzroci: oštećenje donjeg motoričkog neurona, miopatije, mali mozak, spinalni šok, rana faza nakon moždanog udara",
+            "Kod oštećenja perifernog živca prati je brza denervacijska atrofija"
+          ]
+        },
+        {
+          "heading": "Spastičnost i rigidnost",
+          "body": "Spastičnost (lat. spasticitas) povišenje je mišićnog tonusa koje ovisi o brzini: što brže pasivno istežete mišić, to je otpor veći, dok pri sporom pokretu može biti gotovo neprimjetan. Dio je sindroma gornjeg motoričkog neurona, koji nastaje oštećenjem piramidnog (kortikospinalnog) puta kod moždanog udara, ozljede kralježnične moždine, multiple skleroze, cerebralne paralize i ozljede mozga. Zbog gubitka silaznog kočenja refleks na istezanje postaje pretjerano podražljiv. Prate je pojačani tetivni refleksi (hiperrefleksija), klonus (ritmični trzaji pri naglom istezanju), pozitivan Babinskijev znak i fenomen „džepnog nožića” (engl. clasp-knife): nakon početnog jakog otpora mišić naglo popusti.\n\nSpastičnost nije jednako raspoređena: u ruci prevladava u mišićima pregibačima (savijeni lakat, ručni zglob i prsti, rame privučeno uz tijelo), a u nozi u mišićima opružačima (ispruženo koljeno, stopalo u plantarnoj fleksiji i inverziji). Takvo držanje kod hemiplegije poznato je kao Wernicke-Mannov stav, a hod s kruženjem noge kao cirkumdukcijski hod. Spastičnost pojačavaju bol, infekcije (osobito mokraćnog sustava), dekubitus, zatvor, pun mokraćni mjehur, hladnoća i stres. Stupanj spastičnosti procjenjuje se modificiranom Ashworthovom ljestvicom. Fizioterapija uključuje pravilno pozicioniranje, sporo i dugotrajno istezanje, opterećenje uda težinom tijela, udlage i izbjegavanje naglih i bolnih podražaja; od lijekova se primjenjuju baklofen, tizanidin i botulinski toksin za žarišnu spastičnost.\n\nRigidnost (lat. rigiditas, ukočenost) povišenje je tonusa koje ne ovisi o brzini pokreta: otpor je jednak tijekom cijelog opsega pokreta, u oba smjera i podjednako u pregibačima i opružačima, kao pri savijanju olovne cijevi (fenomen „olovne cijevi”, engl. lead-pipe). Kad je na rigidnost nadovezan tremor, otpor popušta u trzajima (fenomen „zupčanika”, engl. cogwheel). Rigidnost je znak oštećenja ekstrapiramidnog sustava, odnosno bazalnih ganglija, i tipična je za Parkinsonovu bolest, uz usporenost pokreta (bradikineziju), tremor u mirovanju i nestabilnost držanja. Tetivni refleksi su pritom uredni, a Babinskijev znak negativan. U fizioterapiji bolesnika s rigidnošću naglašavamo pokrete velike amplitude, ritam te vježbanje hoda i ravnoteže.",
+          "bullets": [
+            "Spastičnost: ovisi o brzini, piramidni put, hiperrefleksija, klonus, Babinskijev znak, „džepni nožić”",
+            "Raspored spastičnosti: pregibači ruke, opružači noge (Wernicke-Mannov stav)",
+            "Rigidnost: ne ovisi o brzini, ekstrapiramidni sustav (Parkinsonova bolest), „olovna cijev” i „zupčanik”",
+            "Kod rigidnosti su tetivni refleksi uredni; kod spastičnosti pojačani"
+          ]
+        },
+        {
+          "heading": "Osteoporoza",
+          "body": "Osteoporoza (lat. osteoporosis) sustavna je bolest kostura u kojoj su smanjena koštana masa i narušena mikroarhitektura koštanog tkiva, pa kost postaje krhka i lako se lomi. Kost se cijeli život pregrađuje: osteoklasti razgrađuju staru kost, a osteoblasti stvaraju novu. Vršna koštana masa dosegne se do otprilike tridesete godine, a nakon toga razgradnja postupno nadmašuje izgradnju. Kod osteoporoze je preostala kost normalno mineralizirana, samo je ima premalo; time se razlikuje od osteomalacije, kod koje je zbog manjka vitamina D poremećena mineralizacija (u djece rahitis).\n\nPrimarna osteoporoza obuhvaća postmenopauzalnu, u kojoj manjak estrogena pojačava aktivnost osteoklasta i ponajprije stradava spužvasta kost, i senilnu, koja u dubokoj starosti zahvaća oba spola. Sekundarna osteoporoza posljedica je drugih bolesti i lijekova: najčešći su uzrok dugotrajni kortikosteroidi, a pridonose i hipertireoza, hiperparatireoza, reumatoidni artritis, bolesti probavnog sustava s malapsorpcijom te dugotrajna nepokretnost (inaktivitetna osteoporoza), jer kost bez opterećenja gubi masu. Čimbenici rizika jesu ženski spol, dob, rana menopauza, osteoporoza u obitelji, sitna građa i niska tjelesna težina, manjak kalcija i vitamina D, tjelesna neaktivnost, pušenje i prekomjerni alkohol.\n\nOsteoporoza je „tiha bolest”: ne boli dok ne nastane prijelom, i to pri malom opterećenju, primjerice padu s visine vlastitog tijela. Tipični su osteoporotični prijelomi kompresijski prijelomi kralježaka (bol u leđima, gubitak visine, pojačana prsna kifoza), prijelom distalnog dijela palčane kosti nakon pada na ispruženu ruku i najteži od svih, prijelom vrata bedrene kosti. Dijagnoza se postavlja mjerenjem gustoće kosti dvoenergetskom rendgenskom apsorpciometrijom (DXA): T-vrijednost do −1 je uredna, između −1 i −2,5 označuje osteopeniju, a −2,5 i manje osteoporozu.\n\nLiječenje i prevencija obuhvaćaju dovoljan unos kalcija i vitamina D, prestanak pušenja, lijekove koji koče razgradnju kosti (bisfosfonati) i, što je za fizioterapiju najvažnije, tjelovježbu. Kost se prilagođava opterećenju (Wolffov zakon), pa su korisne vježbe s opterećenjem vlastitom težinom (hodanje, penjanje stubama) i vježbe snage, uz vježbe ravnoteže i mjere za sprječavanje padova, jer je pad neposredni uzrok većine prijeloma kuka. Kod osteoporoze kralježnice izbjegavaju se pregibanje (fleksija) trupa pod opterećenjem, nagli zasuci i podizanje tereta pognutih leđa, jer opterećuju prednji dio trupova kralježaka i povećavaju rizik kompresijskog prijeloma; prednost imaju vježbe jačanja opružača leđa i vježbe držanja.",
+          "bullets": [
+            "Osteoporoza: manje koštane mase, uredna mineralizacija; osteomalacija: poremećena mineralizacija",
+            "Primarna: postmenopauzalna i senilna; sekundarna: kortikosteroidi, nepokretnost, endokrine bolesti",
+            "Tipični prijelomi: kralješci, distalna palčana kost, vrat bedrene kosti",
+            "DXA: T-vrijednost −2,5 i manje = osteoporoza; između −1 i −2,5 = osteopenija",
+            "Vježbe s opterećenjem i ravnoteža; izbjegavati fleksiju trupa pod opterećenjem"
+          ]
+        },
+        {
+          "heading": "Osteoartritis",
+          "body": "Osteoartritis (lat. osteoarthritis), u nas češće nazivan artroza ili degenerativna bolest zglobova, najčešća je bolest zglobova i jedan od glavnih uzroka onesposobljenosti starijih osoba. Osnovni je proces propadanje zglobne hijaline hrskavice: ona omekšava, raspucava se i stanjuje dok se ne ogoli kost ispod nje. Kost reagira zadebljanjem (subhondralna skleroza), stvaranjem šupljina (subhondralne ciste) i koštanih izraslina na rubovima zgloba (osteofiti). Pridružuju se blaga upala sinovijalne ovojnice, zadebljanje zglobne čahure i slabost okolnih mišića. Danas se osteoartritis smatra bolešću cijelog zgloba, a ne samo mehaničkim trošenjem hrskavice.\n\nPrimarni osteoartritis nastaje bez jasnog uzroka, s dobi, a sekundarni nakon ozljede zgloba (prijelom koji zahvaća zglob, oštećenje meniska ili ligamenta), kod prirođenih nepravilnosti (displazija kuka), nakon upalnih bolesti zgloba ili zbog kroničnog preopterećenja. Čimbenici rizika jesu dob, pretilost (osobito za koljeno), ženski spol, ranija ozljeda, nepravilan položaj osi uda (varus i valgus) i slabost mišića, primjerice četveroglavog mišića kod koljena. Najčešće su zahvaćeni zglobovi koji nose težinu, koljeno (gonartroza) i kuk (koksartroza), zatim kralježnica (spondiloza) i šake: distalni interfalangealni (DIP) zglobovi s Heberdenovim čvorićima, proksimalni interfalangealni (PIP) zglobovi s Bouchardovim čvorićima i korijen palca (rizartroza). Metakarpofalangealni (MCP) zglobovi su u pravilu pošteđeni.\n\nBol je mehaničkog tipa: pojačava se pri opterećenju i aktivnosti, a smiruje u mirovanju; tipična je početna bol i ukočenost nakon mirovanja, dok jutarnja ukočenost traje kratko, uglavnom manje od 30 minuta. Prisutni su krepitacije (škripanje) pri pokretu, ograničen opseg pokreta, koštano zadebljanje zgloba, povremeni izljev, nestabilnost, deformacija (primjerice O-noge kod gonartroze) i atrofija mišića. Bolest je obično asimetrična, zahvaća jedan ili nekoliko zglobova i nema sustavnih simptoma, a upalni nalazi u krvi su uredni. Na rendgenskoj snimci vide se četiri klasična znaka: suženje zglobnog prostora, osteofiti, subhondralna skleroza i subhondralne ciste.\n\nLiječenje je ponajprije nefarmakološko: edukacija, smanjenje tjelesne težine, redovito vježbanje (jačanje mišića, osobito četveroglavog, i aerobne aktivnosti male udarne sile poput hodanja, vožnje bicikla i vježbanja u vodi), održavanje opsega pokreta, toplinski postupci, TENS, ortoze i ulošci te pomagala za hod. Štap se nosi u ruci suprotnoj od bolesnog zgloba jer tako najviše rasterećuje kuk i koljeno. Od lijekova se primjenjuju analgetici i nesteroidni protuupalni lijekovi te injekcije kortikosteroida u zglob, a u uznapredovalom stadiju ugrađuje se umjetni zglob (endoproteza).",
+          "bullets": [
+            "Osnovni proces: propadanje hijaline hrskavice; osteofiti, subhondralna skleroza i ciste",
+            "Bol mehaničkog tipa: pogoršava se opterećenjem, jutarnja ukočenost kraća od 30 minuta",
+            "Zglobovi: koljeno, kuk, kralježnica, DIP (Heberden), PIP (Bouchard), korijen palca; MCP pošteđeni",
+            "Rendgen: suženje zglobnog prostora, osteofiti, subhondralna skleroza, ciste",
+            "Liječenje: vježbanje, smanjenje težine, štap u suprotnoj ruci, endoproteza u uznapredovalom stadiju"
+          ],
+          "image": {
+            "file": "patofiziologija/osteoartritis-saka-rtg.jpg",
+            "caption": "Rendgenska snimka šake 76-godišnje poljoprivrednice s erozivnim osteoartritisom: suženi zglobni prostori i nepravilni rubovi u zglobovima prstiju, izgleda „galebovih krila“.",
+            "credits": [
+              {
+                "title": "Erosive osteoarthritis with gull-wing appearance",
+                "author": "Mikael Häggström, M.D. Author info - Reusing images- Conflicts of interest:  None\nMikael Häggström",
+                "source": "https://commons.wikimedia.org/wiki/File:Erosive_osteoarthritis_with_gull-wing_appearance.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Reumatoidni artritis",
+          "body": "Reumatoidni artritis (lat. arthritis rheumatoides) kronična je sustavna autoimuna upalna bolest koja ponajprije zahvaća sinovijalnu ovojnicu zglobova. Dva do tri puta češći je u žena i najčešće počinje u srednjoj životnoj dobi. Imunosni sustav napada vlastitu sinovijalnu ovojnicu: aktivirani limfociti i makrofagi luče citokine (TNF-alfa, IL-1, IL-6) i izazivaju sinovitis. Upaljena sinovija buja u granulacijsko tkivo zvano panus, koje prerasta zglobnu hrskavicu i kost te ih razara stvarajući erozije. Slijede labavost ligamenata, deformacije i naposljetku ankiloza. U krvi se obično nalaze reumatoidni faktor (RF) i protutijela na citrulinirane peptide (anti-CCP), a rizik povećavaju nasljeđe i pušenje.\n\nBolest obično počinje postupno, simetričnim poliartritisom malih zglobova šaka i stopala: zahvaćeni su metakarpofalangealni (MCP) i proksimalni interfalangealni (PIP) zglobovi, ručni zglobovi i metatarzofalangealni zglobovi, dok su distalni interfalangealni (DIP) zglobovi tipično pošteđeni. Zglobovi su otečeni, topli i bolni, a prsti vretenasto zadebljani. Bol je upalnog tipa: najjača je ujutro i nakon mirovanja, a razgibavanjem se smanjuje; jutarnja ukočenost traje dugo, obično dulje od jednog sata. Prate je opći simptomi: umor, blago povišena temperatura, gubitak težine i anemija. Izvanzglobne manifestacije uključuju reumatoidne čvoriće pod kožom na opružnoj strani lakta, suhoću očiju i usta, upalu porebrice (pleuritis) i osrčja (perikarditis) te vaskulitis. Bolest teče u pogoršanjima i zatišjima (remisijama).\n\nTipične deformacije šake jesu ulnarna devijacija prstiju, deformacija „labuđeg vrata” (prekomjerno opružen proksimalni, a savijen distalni interfalangealni zglob) i deformacija „rupice za gumb” (savijen proksimalni, a opružen distalni interfalangealni zglob). Na stopalima nastaju haluks valgus i čekićasti prsti. Posebno je važna moguća nestabilnost vratne kralježnice: upala razlabavljuje veze između prvog i drugog vratnog kralješka (atlantoaksijalna subluksacija), pa nagli pokret ili manipulacija može pomaknuti kralješke i ugroziti kralježničnu moždinu. Zato su kod bolesnika s reumatoidnim artritisom zabranjene manipulacije i nagli pokreti vratne kralježnice. Laboratorijski su povišeni sedimentacija i CRP, a na rendgenskoj snimci vide se osteopenija oko zglobova, simetrično suženje zglobnog prostora i rubne erozije.\n\nLiječenje počinje što ranije lijekovima koji mijenjaju tijek bolesti (metotreksat je lijek prvog izbora, a kod nedovoljnog odgovora biološki lijekovi poput inhibitora TNF-a), uz kortikosteroide i nesteroidne protuupalne lijekove za ublažavanje simptoma. Fizioterapija se prilagođava fazi bolesti: u akutnom pogoršanju zglob se štedi, postavlja u funkcionalni položaj udlagom, hladi i razgibava nježno uz izometrične vježbe; toplina na vruć, upaljen zglob nije prikladna jer pojačava hiperemiju i upalu. U zatišju se provode vježbe snage i izdržljivosti, aerobno vježbanje, hidroterapija, toplinski postupci (parafinske kupke za šake) te edukacija o zaštiti zglobova: izbjegavanje položaja koji potiču ulnarnu devijaciju, uporaba većih zglobova za nošenje tereta i pomagala za svakodnevne aktivnosti.",
+          "bullets": [
+            "Autoimuni sinovitis, panus, erozije; RF i anti-CCP u krvi",
+            "Simetrični poliartritis MCP, PIP, ručnih i MTP zglobova; DIP pošteđeni",
+            "Jutarnja ukočenost dulja od jednog sata, bol se smanjuje razgibavanjem",
+            "Deformacije: ulnarna devijacija, labuđi vrat, rupica za gumb",
+            "Oprez: atlantoaksijalna nestabilnost, bez manipulacija vratne kralježnice",
+            "Akutna faza: pošteda, udlage, hlađenje, izometrične vježbe; zatišje: jačanje, toplina, zaštita zglobova"
+          ]
+        }
+      ],
+      "key_points": [
+        "Spastičnost ovisi o brzini pokreta i znak je oštećenja piramidnog puta; rigidnost ne ovisi o brzini i znak je ekstrapiramidnog oštećenja.",
+        "Flakcidnost prati oštećenje donjeg motoričkog neurona, spinalni šok i ranu fazu nakon moždanog udara.",
+        "Osteoporoza je smanjenje koštane mase s urednom mineralizacijom; dijagnoza DXA (T-vrijednost −2,5 i manje), tipični prijelomi kralješka, palčane kosti i vrata bedrene kosti.",
+        "Osteoartritis: mehanička bol, kratka jutarnja ukočenost, osteofiti; DIP i PIP zahvaćeni, MCP pošteđeni.",
+        "Reumatoidni artritis: simetrični autoimuni sinovitis, jutarnja ukočenost dulja od sata, erozije; MCP i PIP zahvaćeni, DIP pošteđeni.",
+        "Kod reumatoidnog artritisa pazite na nestabilnost vratne kralježnice i ne primjenjujte toplinu na akutno upaljen zglob."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "pf-001",
+      "lesson_id": "upala-i-bol",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Koji kardinalni znak upale označuje latinski naziv functio laesa?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gubitak funkcije"
+        },
+        {
+          "id": "b",
+          "text": "Oteklina"
+        },
+        {
+          "id": "c",
+          "text": "Toplina"
+        },
+        {
+          "id": "d",
+          "text": "Crvenilo"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Functio laesa znači gubitak (oštećenje) funkcije i peti je kardinalni znak upale, dodan nakon četiriju Celzovih znakova. Oteklina je tumor, toplina calor, a crvenilo rubor.",
+      "tags": [
+        "upala",
+        "kardinalni znakovi"
+      ]
+    },
+    {
+      "id": "pf-002",
+      "lesson_id": "upala-i-bol",
+      "type": "true_false",
+      "difficulty": 1,
+      "text": "U akutnoj upali u prvim satima u zahvaćenom tkivu prevladavaju limfociti i plazma-stanice.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "f"
+      ],
+      "explanation": "U prvim satima akutne upale prevladavaju neutrofilni granulociti, koje nakon otprilike jednog do dva dana zamjenjuju monociti, odnosno makrofagi. Limfociti, makrofagi i plazma-stanice obilježje su kronične upale.",
+      "tags": [
+        "akutna upala",
+        "neutrofili"
+      ]
+    },
+    {
+      "id": "pf-003",
+      "lesson_id": "upala-i-bol",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Koje su tvrdnje o medijatorima upale točne?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Histamin se oslobađa iz mastocita i povećava propusnost venula"
+        },
+        {
+          "id": "b",
+          "text": "Nesteroidni protuupalni lijekovi koče ciklooksigenazu i time sintezu prostaglandina"
+        },
+        {
+          "id": "c",
+          "text": "Bradikinin je jedan od najjačih izazivača boli"
+        },
+        {
+          "id": "d",
+          "text": "Leukotrieni nastaju djelovanjem ciklooksigenaze"
+        },
+        {
+          "id": "e",
+          "text": "Kortikosteroidi pojačavaju oslobađanje arahidonske kiseline"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c"
+      ],
+      "explanation": "Histamin je rani medijator iz mastocita koji širi arteriole i povećava propusnost venula, NSAIL koče ciklooksigenazu, a bradikinin iz kininskog sustava snažno izaziva bol. Leukotriene stvara lipoksigenaza, a kortikosteroidi koče, a ne pojačavaju, oslobađanje arahidonske kiseline.",
+      "tags": [
+        "medijatori upale"
+      ]
+    },
+    {
+      "id": "pf-004",
+      "lesson_id": "upala-i-bol",
+      "type": "single",
+      "difficulty": 3,
+      "text": "Zašto kortikosteroidi djeluju protuupalno šire od nesteroidnih protuupalnih lijekova?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Koče oslobađanje arahidonske kiseline iz membrane pa smanjuju stvaranje i prostaglandina i leukotriena"
+        },
+        {
+          "id": "b",
+          "text": "Koče samo ciklooksigenazu, a leukotrieni nastaju nesmetano"
+        },
+        {
+          "id": "c",
+          "text": "Koče oslobađanje histamina iz trombocita, ali ne i sintezu prostaglandina"
+        },
+        {
+          "id": "d",
+          "text": "Potiču stvaranje fibrina koji ograničava širenje upale"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Kortikosteroidi djeluju na početku lanca, kočeći oslobađanje arahidonske kiseline, pa istodobno smanjuju stvaranje prostaglandina (put ciklooksigenaze) i leukotriena (put lipoksigenaze). NSAIL koče samo ciklooksigenazu, pa na leukotriene ne utječu.",
+      "tags": [
+        "medijatori upale",
+        "lijekovi"
+      ]
+    },
+    {
+      "id": "pf-005",
+      "lesson_id": "upala-i-bol",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Bolesnik s dijabetičkom polineuropatijom opisuje žarenje u stopalima, trnce i bol pri laganom dodiru posteljine. O kojoj je vrsti boli najvjerojatnije riječ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Neuropatska bol"
+        },
+        {
+          "id": "b",
+          "text": "Somatska nociceptivna bol"
+        },
+        {
+          "id": "c",
+          "text": "Visceralna nociceptivna bol"
+        },
+        {
+          "id": "d",
+          "text": "Prenesena bol"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Žarenje, parestezije i alodinija (bol na podražaj koji inače ne boli) uz bolest perifernih živaca tipični su za neuropatsku bol. Nociceptivna bol nastaje podraživanjem nociceptora u zdravom živčanom sustavu, a prenesena bol projekcija je visceralne boli na kožu.",
+      "tags": [
+        "bol",
+        "neuropatska bol"
+      ]
+    },
+    {
+      "id": "pf-006",
+      "lesson_id": "upala-i-bol",
+      "type": "true_false",
+      "difficulty": 1,
+      "text": "Akutna bol ima zaštitnu ulogu, prati je aktivacija simpatikusa i prestaje kad tkivo zacijeli.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "t"
+      ],
+      "explanation": "Akutna bol upozorava na oštećenje i prisiljava na poštedu, prate je ubrzan rad srca, povišen tlak i znojenje, a nestaje s cijeljenjem. Kronična bol, naprotiv, traje dulje od vremena cijeljenja i gubi zaštitnu ulogu.",
+      "tags": [
+        "bol",
+        "akutna bol"
+      ]
+    },
+    {
+      "id": "pf-007",
+      "lesson_id": "upala-i-bol",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Prema teoriji kontrole prolaza, podražaj kojih vlakana zatvara „vrata” za bol u stražnjem rogu kralježnične moždine?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Debelih mijeliniziranih vlakana A-beta koja prenose dodir i vibraciju"
+        },
+        {
+          "id": "b",
+          "text": "Tankih nemijeliniziranih vlakana C koja prenose tupu bol"
+        },
+        {
+          "id": "c",
+          "text": "Tankih mijeliniziranih vlakana A-delta koja prenose oštru bol"
+        },
+        {
+          "id": "d",
+          "text": "Motoričkih vlakana koja inerviraju mišiće"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Vlakna A-beta aktiviraju inhibicijske interneurone u želatinoznoj tvari i tako koče prijenos bolnih signala, dok vlakna A-delta i C te interneurone koče i vrata otvaraju. Zato trljanje, masaža i vibracija smanjuju bol.",
+      "tags": [
+        "teorija kontrole prolaza",
+        "bol"
+      ]
+    },
+    {
+      "id": "pf-008",
+      "lesson_id": "upala-i-bol",
+      "type": "single",
+      "difficulty": 3,
+      "text": "Konvencionalni TENS (visoka frekvencija, nizak intenzitet) ublažava bol ponajprije kojim mehanizmom?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Podraživanjem vlakana A-beta i zatvaranjem vrata u stražnjem rogu kralježnične moždine"
+        },
+        {
+          "id": "b",
+          "text": "Oslobađanjem endogenih opioida s odgođenim, ali dugotrajnim učinkom"
+        },
+        {
+          "id": "c",
+          "text": "Kočenjem sinteze prostaglandina u upaljenom tkivu"
+        },
+        {
+          "id": "d",
+          "text": "Izravnim uništavanjem nociceptora u koži"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Konvencionalni TENS podražuje debela vlakna A-beta i zatvara vrata, pa olakšanje nastupa brzo, ali traje uglavnom dok stimulacija traje. Oslobađanje endogenih opioida glavni je mehanizam TENS-a niske frekvencije i jačeg intenziteta, a sintezu prostaglandina koče lijekovi, ne struja.",
+      "tags": [
+        "tens",
+        "teorija kontrole prolaza"
+      ]
+    },
+    {
+      "id": "pf-009",
+      "lesson_id": "edem-i-poremecaji-cirkulacije",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Kojim mehanizmom ponajprije nastaje edem kod nefrotskog sindroma, u kojem se albumin gubi mokraćom?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Smanjenim onkotskim tlakom plazme zbog manjka albumina"
+        },
+        {
+          "id": "b",
+          "text": "Povećanim hidrostatskim tlakom u venama"
+        },
+        {
+          "id": "c",
+          "text": "Povećanom propusnošću kapilara zbog upale"
+        },
+        {
+          "id": "d",
+          "text": "Zaprekom limfnoj drenaži"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Bez albumina onkotski tlak plazme ne može vratiti tekućinu iz tkiva u kapilare, pa ona ostaje u međustaničnom prostoru. Povećan hidrostatski tlak obilježje je zatajenja srca i venske zapreke, povećana propusnost upale, a limfna zapreka limfedema.",
+      "tags": [
+        "edem",
+        "onkotski tlak"
+      ]
+    },
+    {
+      "id": "pf-010",
+      "lesson_id": "edem-i-poremecaji-cirkulacije",
+      "type": "multiple",
+      "difficulty": 1,
+      "text": "Koji su čimbenici rizika za nastanak duboke venske tromboze?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dugotrajna nepokretnost, primjerice ležanje u krevetu ili imobilizacija gipsom"
+        },
+        {
+          "id": "b",
+          "text": "Ortopedska operacija ugradnje umjetnog kuka ili koljena"
+        },
+        {
+          "id": "c",
+          "text": "Zloćudna bolest"
+        },
+        {
+          "id": "d",
+          "text": "Redovito hodanje"
+        },
+        {
+          "id": "e",
+          "text": "Nošenje kompresijskih čarapa"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c"
+      ],
+      "explanation": "Nepokretnost uzrokuje zastoj krvi, operacije oštećuju žile i aktiviraju zgrušavanje, a zloćudne bolesti povećavaju sklonost zgrušavanju, što su sastavnice Virchowljeva trijasa. Hodanje i kompresijske čarape, naprotiv, potiču venski protok i služe prevenciji tromboze.",
+      "tags": [
+        "tromboza",
+        "čimbenici rizika"
+      ]
+    },
+    {
+      "id": "pf-011",
+      "lesson_id": "edem-i-poremecaji-cirkulacije",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Treći dan nakon operacije kuka bolesnica ima jednostranu oteklinu potkoljenice, bol i osjetljivost lista te toplu kožu. Kako treba postupiti fizioterapeut?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Prekinuti masažu i intenzivne vježbe te noge i odmah obavijestiti liječnika zbog sumnje na duboku vensku trombozu"
+        },
+        {
+          "id": "b",
+          "text": "Izvesti masažu lista kako bi se smanjila oteklina"
+        },
+        {
+          "id": "c",
+          "text": "Primijeniti toplinu na list i nastaviti s vježbama hoda"
+        },
+        {
+          "id": "d",
+          "text": "Spustiti nogu niže od razine srca i nastaviti program vježbi"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Jednostrana oteklina, bol u listu i toplina nakon operacije kuka tipični su znakovi duboke venske tromboze. Masaža i intenzivno vježbanje mogu odvojiti tromb i izazvati plućnu emboliju, pa se obustavljaju dok liječnik trombozu ne isključi; ako je potvrđena, hodanje i lagane vježbe nastavljaju se nakon početka antikoagulantnog liječenja, a masaža noge ostaje kontraindicirana u akutnoj fazi.",
+      "tags": [
+        "tromboza",
+        "fizioterapija"
+      ]
+    },
+    {
+      "id": "pf-012",
+      "lesson_id": "edem-i-poremecaji-cirkulacije",
+      "type": "true_false",
+      "difficulty": 2,
+      "text": "Kod limfedema diuretici su lijek izbora jer učinkovito uklanjaju nakupljenu tekućinu iz tkiva.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "f"
+      ],
+      "explanation": "Limfedem je nakupljanje tekućine bogate bjelančevinama, a diuretici ne uklanjaju bjelančevine iz tkiva pa ne pomažu. Temelj liječenja je kompleksna fizikalna dekongestivna terapija: limfna drenaža, kompresija, vježbe i njega kože.",
+      "tags": [
+        "limfedem"
+      ]
+    },
+    {
+      "id": "pf-013",
+      "lesson_id": "edem-i-poremecaji-cirkulacije",
+      "type": "single",
+      "difficulty": 3,
+      "text": "Koji klinički znak najpouzdanije upućuje na limfedem, a ne na venski edem potkoljenice?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pozitivan Stemmerov znak: kožni nabor na bazi drugog prsta stopala ne može se podići"
+        },
+        {
+          "id": "b",
+          "text": "Oteklina gležnja koja se preko noći potpuno povuče"
+        },
+        {
+          "id": "c",
+          "text": "Smeđa pigmentacija kože iznad gležnja"
+        },
+        {
+          "id": "d",
+          "text": "Proširene površinske vene potkoljenice"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Zadebljana koža zbog koje se nabor na bazi drugog prsta ne može podići (Stemmerov znak) obilježje je limfedema, koji zahvaća hrbat stopala i prste. Oteklina koja se preko noći povlači, pigmentacija i varikoziteti znakovi su kronične venske insuficijencije.",
+      "tags": [
+        "limfedem",
+        "stemmerov znak"
+      ]
+    },
+    {
+      "id": "pf-014",
+      "lesson_id": "edem-i-poremecaji-cirkulacije",
+      "type": "multiple",
+      "difficulty": 1,
+      "text": "Što čini Virchowljev trijas, odnosno tri skupine uzroka tromboze?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Oštećenje endotela krvne žile"
+        },
+        {
+          "id": "b",
+          "text": "Zastoj ili vrtloženje krvi"
+        },
+        {
+          "id": "c",
+          "text": "Pojačana sklonost zgrušavanju (hiperkoagulabilnost)"
+        },
+        {
+          "id": "d",
+          "text": "Smanjen onkotski tlak plazme"
+        },
+        {
+          "id": "e",
+          "text": "Povećana propusnost kapilara"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c"
+      ],
+      "explanation": "Virchowljev trijas opisuje oštećenje endotela, poremećaj protoka krvi (zastoj ili vrtloženje) i hiperkoagulabilnost. Smanjen onkotski tlak i povećana propusnost kapilara mehanizmi su nastanka edema, a ne tromboze.",
+      "tags": [
+        "tromboza",
+        "virchowljev trijas"
+      ]
+    },
+    {
+      "id": "pf-015",
+      "lesson_id": "edem-i-poremecaji-cirkulacije",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Što treba isključiti prije primjene kompresijske terapije kod bolesnika s kroničnom venskom insuficijencijom?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tešku perifernu arterijsku bolest"
+        },
+        {
+          "id": "b",
+          "text": "Varikozitete potkoljenice"
+        },
+        {
+          "id": "c",
+          "text": "Tjestasti edem gležnja"
+        },
+        {
+          "id": "d",
+          "text": "Smeđu pigmentaciju kože"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Kompresija je kontraindicirana kod teške periferne arterijske bolesti jer bi dodatno smanjila ionako oslabljenu arterijsku opskrbu uda. Varikoziteti, edem i pigmentacija znakovi su same venske insuficijencije i upravo se kompresijom liječe.",
+      "tags": [
+        "venska insuficijencija",
+        "kompresija"
+      ]
+    },
+    {
+      "id": "pf-016",
+      "lesson_id": "cijeljenje-atrofija-kontrakture",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Kojim redoslijedom teku faze cijeljenja rane?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Upalna, proliferacijska, remodelacijska"
+        },
+        {
+          "id": "b",
+          "text": "Proliferacijska, upalna, remodelacijska"
+        },
+        {
+          "id": "c",
+          "text": "Remodelacijska, upalna, proliferacijska"
+        },
+        {
+          "id": "d",
+          "text": "Upalna, remodelacijska, proliferacijska"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Cijeljenje počinje upalnom fazom (hemostaza i čišćenje rane), nastavlja se proliferacijskom (granulacijsko tkivo i mladi kolagen) i završava remodelacijskom fazom (sazrijevanje i jačanje ožiljka). Faze se vremenski preklapaju, ali redoslijed je uvijek isti.",
+      "tags": [
+        "cijeljenje",
+        "faze cijeljenja"
+      ]
+    },
+    {
+      "id": "pf-017",
+      "lesson_id": "cijeljenje-atrofija-kontrakture",
+      "type": "true_false",
+      "difficulty": 2,
+      "text": "U remodelacijskoj fazi kolagen tipa III zamjenjuje se čvršćim kolagenom tipa I, ali ožiljak ni tada ne dosegne čvrstoću izvornog tkiva.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "t"
+      ],
+      "explanation": "Tijekom remodelacije mladi kolagen tipa III zamjenjuje se kolagenom tipa I, stvaraju se poprečne veze i vlakna se slažu u smjeru vlaka, no ožiljak doseže najviše oko 70–80 % prvotne čvrstoće tkiva.",
+      "tags": [
+        "cijeljenje",
+        "ožiljak"
+      ]
+    },
+    {
+      "id": "pf-018",
+      "lesson_id": "cijeljenje-atrofija-kontrakture",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Koji je najvažniji lokalni čimbenik koji usporava cijeljenje rane?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Infekcija rane"
+        },
+        {
+          "id": "b",
+          "text": "Strano tijelo u rani"
+        },
+        {
+          "id": "c",
+          "text": "Hematom u rani"
+        },
+        {
+          "id": "d",
+          "text": "Edem okolnog tkiva"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Infekcija je najvažniji lokalni uzrok usporenog cijeljenja jer produljuje upalnu fazu i razara novostvoreno tkivo. Strano tijelo, hematom i edem također ometaju cijeljenje, ali infekcija ima najveći utjecaj.",
+      "tags": [
+        "cijeljenje",
+        "infekcija"
+      ]
+    },
+    {
+      "id": "pf-019",
+      "lesson_id": "cijeljenje-atrofija-kontrakture",
+      "type": "multiple",
+      "difficulty": 1,
+      "text": "Koji sustavni čimbenici ometaju cijeljenje tkiva?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Šećerna bolest"
+        },
+        {
+          "id": "b",
+          "text": "Dugotrajno uzimanje kortikosteroida"
+        },
+        {
+          "id": "c",
+          "text": "Pušenje"
+        },
+        {
+          "id": "d",
+          "text": "Dovoljan unos bjelančevina i vitamina C"
+        },
+        {
+          "id": "e",
+          "text": "Mlađa životna dob"
+        },
+        {
+          "id": "f",
+          "text": "Uredna prokrvljenost tkiva"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c"
+      ],
+      "explanation": "Šećerna bolest oštećuje male krvne žile i funkciju leukocita, kortikosteroidi koče upalu i sintezu kolagena, a pušenje sužava žile i smanjuje opskrbu kisikom. Dovoljno bjelančevina i vitamina C, mlađa dob i dobra prokrvljenost cijeljenje, naprotiv, pospješuju.",
+      "tags": [
+        "cijeljenje",
+        "čimbenici"
+      ]
+    },
+    {
+      "id": "pf-020",
+      "lesson_id": "cijeljenje-atrofija-kontrakture",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Nakon šest tjedana imobilizacije koljena gipsom četveroglavi mišić natkoljenice vidljivo je smanjen. O kojoj je prilagodbi tkiva riječ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Inaktivitetna atrofija"
+        },
+        {
+          "id": "b",
+          "text": "Denervacijska atrofija"
+        },
+        {
+          "id": "c",
+          "text": "Hipertrofija"
+        },
+        {
+          "id": "d",
+          "text": "Hiperplazija"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Smanjenje mišića zbog neuporabe tijekom imobilizacije jest inaktivitetna atrofija, koja je povratna ponovnim opterećenjem. Denervacijska atrofija nastaje nakon oštećenja živca, a hipertrofija i hiperplazija su povećanja tkiva.",
+      "tags": [
+        "atrofija",
+        "imobilizacija"
+      ]
+    },
+    {
+      "id": "pf-021",
+      "lesson_id": "cijeljenje-atrofija-kontrakture",
+      "type": "single",
+      "difficulty": 3,
+      "text": "Po čemu se kontraktura razlikuje od pareze?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kod kontrakture je ograničen i pasivni opseg pokreta, a kod pareze samo aktivni"
+        },
+        {
+          "id": "b",
+          "text": "Kod kontrakture je ograničen samo aktivni pokret, a pasivni je slobodan"
+        },
+        {
+          "id": "c",
+          "text": "Kontraktura je potpuno koštano srastanje zglobnih tijela"
+        },
+        {
+          "id": "d",
+          "text": "Kod pareze su skraćeni mišići i zglobna čahura"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Kontraktura je skraćenje i fibroza mekih tkiva, pa zglob ni pasivno ne možemo pomaknuti kroz puni opseg, dok kod pareze oslabljeni mišić ne može izvesti aktivni pokret, ali pasivni ostaje slobodan. Potpuno srastanje zglobnih tijela naziva se ankiloza.",
+      "tags": [
+        "kontraktura",
+        "pareza"
+      ]
+    },
+    {
+      "id": "pf-022",
+      "lesson_id": "cijeljenje-atrofija-kontrakture",
+      "type": "true_false",
+      "difficulty": 1,
+      "text": "Zglobna hijalina hrskavica dobro cijeli jer je obilno prokrvljena.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "f"
+      ],
+      "explanation": "Zglobna hrskavica nema krvnih žila ni živaca, a hondrociti se gotovo ne dijele, pa su njezina oštećenja gotovo nepovratna i popunjavaju se slabijom vlaknastom hrskavicom.",
+      "tags": [
+        "cijeljenje",
+        "hrskavica"
+      ]
+    },
+    {
+      "id": "pf-023",
+      "lesson_id": "tonus-i-bolesti-kostiju-i-zglobova",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Što je obilježje flakcidne (mlohave) kljenuti?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Smanjen otpor pasivnom pokretu i oslabljeni ili ugašeni tetivni refleksi"
+        },
+        {
+          "id": "b",
+          "text": "Pojačani tetivni refleksi i klonus"
+        },
+        {
+          "id": "c",
+          "text": "Otpor jednak tijekom cijelog opsega pasivnog pokreta"
+        },
+        {
+          "id": "d",
+          "text": "Pozitivan Babinskijev znak"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Flakcidnost je sniženi tonus: mišić je mlohav, otpor pasivnom pokretu je smanjen ili ga nema, a refleksi su oslabljeni ili ugašeni, tipično kod oštećenja donjeg motoričkog neurona. Pojačani refleksi, klonus i Babinskijev znak prate spastičnost, a ravnomjeran otpor rigidnost.",
+      "tags": [
+        "mišićni tonus",
+        "flakcidnost"
+      ]
+    },
+    {
+      "id": "pf-024",
+      "lesson_id": "tonus-i-bolesti-kostiju-i-zglobova",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Pri pasivnom pokretu ruke otpor je to veći što brže istežete mišić, a nakon početnog jakog otpora mišić naglo popusti. Koji je to poremećaj tonusa?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Spastičnost"
+        },
+        {
+          "id": "b",
+          "text": "Rigidnost"
+        },
+        {
+          "id": "c",
+          "text": "Flakcidnost"
+        },
+        {
+          "id": "d",
+          "text": "Klonus"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Ovisnost otpora o brzini istezanja i fenomen „džepnog nožića” obilježja su spastičnosti, koja nastaje oštećenjem piramidnog puta. Kod rigidnosti otpor ne ovisi o brzini, kod flakcidnosti ga nema, a klonus su ritmični trzaji koji spastičnost prate, a nisu poremećaj tonusa.",
+      "tags": [
+        "spastičnost",
+        "mišićni tonus"
+      ]
+    },
+    {
+      "id": "pf-025",
+      "lesson_id": "tonus-i-bolesti-kostiju-i-zglobova",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Za koje je stanje tipičan fenomen „zupčanika” pri pasivnom pokretu?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rigidnost kod Parkinsonove bolesti"
+        },
+        {
+          "id": "b",
+          "text": "Spastičnost nakon moždanog udara"
+        },
+        {
+          "id": "c",
+          "text": "Flakcidnost nakon ozljede perifernog živca"
+        },
+        {
+          "id": "d",
+          "text": "Spinalni šok nakon ozljede kralježnične moždine"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Fenomen zupčanika nastaje kad se na rigidnost nadoveže tremor, pa otpor popušta u trzajima; rigidnost je znak oštećenja ekstrapiramidnog sustava, tipično kod Parkinsonove bolesti. Spastičnost prati fenomen „džepnog nožića”, a flakcidnost i spinalni šok obilježava sniženi tonus.",
+      "tags": [
+        "rigidnost",
+        "parkinsonova bolest"
+      ]
+    },
+    {
+      "id": "pf-026",
+      "lesson_id": "tonus-i-bolesti-kostiju-i-zglobova",
+      "type": "multiple",
+      "difficulty": 3,
+      "text": "Koje su tvrdnje o spastičnosti točne?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dio je sindroma gornjeg motoričkog neurona"
+        },
+        {
+          "id": "b",
+          "text": "Prate je pojačani tetivni refleksi i klonus"
+        },
+        {
+          "id": "c",
+          "text": "U ruci prevladava u mišićima pregibačima, a u nozi u opružačima"
+        },
+        {
+          "id": "d",
+          "text": "Otpor je jednak tijekom cijelog opsega pokreta, neovisno o brzini"
+        },
+        {
+          "id": "e",
+          "text": "Tetivni refleksi su ugašeni"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c"
+      ],
+      "explanation": "Spastičnost nastaje oštećenjem piramidnog puta (sindrom gornjeg motoričkog neurona), prate je hiperrefleksija i klonus te tipični raspored u pregibačima ruke i opružačima noge (Wernicke-Mannov stav). Otpor neovisan o brzini obilježje je rigidnosti, a ugašeni refleksi flakcidnosti.",
+      "tags": [
+        "spastičnost"
+      ]
+    },
+    {
+      "id": "pf-027",
+      "lesson_id": "tonus-i-bolesti-kostiju-i-zglobova",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Kojom se metodom postavlja dijagnoza osteoporoze i koja T-vrijednost označuje osteoporozu?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dvoenergetskom rendgenskom apsorpciometrijom (DXA); T-vrijednost −2,5 i manje"
+        },
+        {
+          "id": "b",
+          "text": "Dvoenergetskom rendgenskom apsorpciometrijom (DXA); T-vrijednost između −1 i −2,5"
+        },
+        {
+          "id": "c",
+          "text": "Klasičnom rendgenskom snimkom; T-vrijednost do −1"
+        },
+        {
+          "id": "d",
+          "text": "Ultrazvukom zglobova; T-vrijednost −2,5 i manje"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Gustoća kosti mjeri se DXA-om, a T-vrijednost −2,5 i manje označuje osteoporozu. Vrijednosti između −1 i −2,5 znače osteopeniju, a do −1 uredan nalaz.",
+      "tags": [
+        "osteoporoza",
+        "dxa"
+      ]
+    },
+    {
+      "id": "pf-028",
+      "lesson_id": "tonus-i-bolesti-kostiju-i-zglobova",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Koje vježbe treba izbjegavati kod bolesnice s osteoporozom kralježnice?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pregibanje (fleksiju) trupa pod opterećenjem i podizanje tereta pognutih leđa"
+        },
+        {
+          "id": "b",
+          "text": "Hodanje i penjanje stubama"
+        },
+        {
+          "id": "c",
+          "text": "Vježbe jačanja opružača leđa"
+        },
+        {
+          "id": "d",
+          "text": "Vježbe ravnoteže"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Fleksija trupa pod opterećenjem, nagli zasuci i podizanje tereta pognutih leđa opterećuju prednji dio trupova kralježaka i povećavaju rizik kompresijskog prijeloma. Hodanje, vježbe opružača leđa i vježbe ravnoteže, naprotiv, jačaju kost i smanjuju rizik pada.",
+      "tags": [
+        "osteoporoza",
+        "vježbanje"
+      ]
+    },
+    {
+      "id": "pf-029",
+      "lesson_id": "tonus-i-bolesti-kostiju-i-zglobova",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Koji nalaz govori u prilog osteoartritisu, a ne reumatoidnom artritisu?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jutarnja ukočenost kraća od 30 minuta i bol koja se pojačava opterećenjem"
+        },
+        {
+          "id": "b",
+          "text": "Simetrični artritis metakarpofalangealnih zglobova"
+        },
+        {
+          "id": "c",
+          "text": "Jutarnja ukočenost dulja od jednog sata koja popušta razgibavanjem"
+        },
+        {
+          "id": "d",
+          "text": "Reumatoidni čvorići i pozitivan reumatoidni faktor"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Osteoartritis obilježava mehanička bol koja se pojačava opterećenjem i kratka jutarnja ukočenost, obično kraća od 30 minuta. Simetrični artritis MCP zglobova, dugotrajna jutarnja ukočenost, reumatoidni čvorići i reumatoidni faktor obilježja su reumatoidnog artritisa.",
+      "tags": [
+        "osteoartritis",
+        "reumatoidni artritis"
+      ]
+    },
+    {
+      "id": "pf-030",
+      "lesson_id": "tonus-i-bolesti-kostiju-i-zglobova",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Koje su tvrdnje o reumatoidnom artritisu točne?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Autoimuna je sustavna bolest u kojoj upaljena sinovija (panus) razara hrskavicu i kost"
+        },
+        {
+          "id": "b",
+          "text": "Simetrično zahvaća metakarpofalangealne i proksimalne interfalangealne zglobove, a distalni interfalangealni zglobovi su pošteđeni"
+        },
+        {
+          "id": "c",
+          "text": "Bol se pojačava opterećenjem, a smiruje mirovanjem"
+        },
+        {
+          "id": "d",
+          "text": "Na rendgenskoj snimci tipični su osteofiti i subhondralna skleroza"
+        }
+      ],
+      "correct": [
+        "a",
+        "b"
+      ],
+      "explanation": "Reumatoidni artritis autoimuni je sinovitis s panusom i erozijama koji simetrično zahvaća MCP, PIP i ručne zglobove, dok DIP zglobove poštedi. Bol koja se pojačava opterećenjem te osteofiti i subhondralna skleroza obilježja su osteoartritisa; kod reumatoidnog artritisa bol je upalna, a na rendgenu se vide erozije i osteopenija oko zglobova.",
+      "tags": [
+        "reumatoidni artritis"
+      ]
+    },
+    {
+      "id": "pf-031",
+      "lesson_id": "tonus-i-bolesti-kostiju-i-zglobova",
+      "type": "single",
+      "difficulty": 3,
+      "text": "Zašto su kod bolesnika s reumatoidnim artritisom zabranjene manipulacije i nagli pokreti vratne kralježnice?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zbog moguće atlantoaksijalne subluksacije nastale razlabavljenjem veza prvog i drugog vratnog kralješka"
+        },
+        {
+          "id": "b",
+          "text": "Zbog osteofita na vratnim kralješcima koji bi mogli pritisnuti živce"
+        },
+        {
+          "id": "c",
+          "text": "Zbog rigidnosti vratnih mišića"
+        },
+        {
+          "id": "d",
+          "text": "Zbog kompresijskih prijeloma vratnih kralježaka"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Upalni proces kod reumatoidnog artritisa razlabavljuje veze između prvog i drugog vratnog kralješka, pa nagli pokret ili manipulacija može pomaknuti kralješke i ugroziti kralježničnu moždinu. Osteofiti su obilježje osteoartritisa, rigidnost ekstrapiramidnih bolesti, a kompresijski prijelomi osteoporoze.",
+      "tags": [
+        "reumatoidni artritis",
+        "vratna kralježnica"
+      ]
+    },
+    {
+      "id": "pf-032",
+      "lesson_id": "tonus-i-bolesti-kostiju-i-zglobova",
+      "type": "true_false",
+      "difficulty": 1,
+      "text": "U akutnom pogoršanju reumatoidnog artritisa na vruć i otečen zglob primjenjuje se toplina kako bi se ubrzalo smirivanje upale.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "f"
+      ],
+      "explanation": "Na akutno upaljen zglob toplina nije prikladna jer pojačava hiperemiju i upalu; u pogoršanju se zglob štedi, hladi, postavlja u funkcionalni položaj i nježno razgibava uz izometrične vježbe. Toplinski postupci poput parafinskih kupki primjenjuju se u zatišju bolesti.",
+      "tags": [
+        "reumatoidni artritis",
+        "fizioterapija"
+      ]
+    }
+  ]
+}

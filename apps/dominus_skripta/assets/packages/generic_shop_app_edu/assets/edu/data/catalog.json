@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "programs": [
+    {
+      "id": "fizioterapeut",
+      "title": "Fizioterapeut",
+      "subtitle": "Fizioterapeutski tehničar · stručni studij fizioterapije",
+      "description": "Priprema za ispite iz strukovnih predmeta: anatomija i fiziologija, kineziologija, fizikalna terapija, kineziterapija, masaža, patofiziologija, klinička medicina, prva pomoć i mikrobiologija.",
+      "language": "hr",
+      "color": "#4D2447",
+      "icon": "healing",
+      "subjects": [
+        "anatomija-i-fiziologija", "osnove-kineziologije", "fizikalna-terapija", "kineziterapija",
+        "masaza", "patofiziologija", "klinicka-medicina", "prva-pomoc", "mikrobiologija"
+      ]
+    }
+  ]
+}

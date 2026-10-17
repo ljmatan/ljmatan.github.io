@@ -1,0 +1,1241 @@
+{
+  "id": "fizikalna-terapija",
+  "program_id": "fizioterapeut",
+  "title": "Fizikalna terapija",
+  "short_title": "Fizikalna terapija",
+  "description": "Fizikalni agensi u liječenju i rehabilitaciji: elektroterapija, termoterapija i krioterapija, ultrazvuk, fototerapija, magnetoterapija, hidroterapija i balneoterapija te njihovi učinci, indikacije, kontraindikacije i načela doziranja.",
+  "color": "#0EA5E9",
+  "icon": "bolt",
+  "year": 2,
+  "lessons": [
+    {
+      "id": "elektroterapija",
+      "title": "Elektroterapija",
+      "summary": "Lekcija objašnjava što je fizikalna terapija i kako se u liječenju primjenjuju galvanska, dijadinamske i interferentne struje, TENS te elektrostimulacija mišića.",
+      "estimated_minutes": 12,
+      "sections": [
+        {
+          "heading": "Fizikalna terapija i podjela fizikalnih agensa",
+          "body": "Fizikalna terapija grana je fizikalne medicine koja u liječenju, rehabilitaciji i prevenciji koristi fizikalne agense: električnu struju, toplinu i hladnoću, mehaničku energiju, svjetlost, vodu, magnetsko polje i pokret. Cilj je primjene smanjiti bol, upalu i oteklinu, poboljšati cirkulaciju i prehranu tkiva, održati ili vratiti pokretljivost i snagu te ubrzati cijeljenje. Fizikalni agensi sami po sebi rijetko uklanjaju uzrok bolesti; oni stvaraju uvjete u kojima tkivo lakše cijeli i u kojima je kineziterapija (liječenje pokretom) djelotvornija, pa se gotovo uvijek primjenjuju kao dio cjelovitog programa rehabilitacije.\n\nAgensi se dijele prema vrsti energije koju prenose u tkivo. Elektroterapija koristi električnu struju različitih oblika i frekvencija, termoterapija toplinu, a krioterapija hladnoću. Mehanoterapija obuhvaća ultrazvuk, masažu i trakciju, fototerapija svjetlost (terapijski laser, ultraljubičasto i infracrveno zračenje), hidroterapija i balneoterapija vodu i prirodne ljekovite činitelje, a magnetoterapija pulsirajuće elektromagnetsko polje. Prema dubini djelovanja razlikujemo površinske agense, koji djeluju na kožu i potkožje, i dubinske, koji energiju prenose u mišiće, zglobove i kosti.\n\nSvaki agens ima fiziološke učinke, indikacije i kontraindikacije koje terapeut mora poznavati prije primjene. Zajednička su načela pregled kože i provjera osjeta prije prve primjene, odabir doze prema stadiju bolesti (akutni, subakutni, kronični), nadzor bolesnika tijekom postupka i dokumentiranje svih parametara. O kontraindikacijama i doziranju detaljno govori posljednja lekcija ovog predmeta, a u ovoj se lekciji bavimo elektroterapijom, koja je u svakodnevnoj fizioterapijskoj praksi najzastupljenija skupina postupaka.",
+          "bullets": [
+            "Elektroterapija: galvanska, dijadinamske i interferentne struje, TENS, elektrostimulacija",
+            "Termoterapija i krioterapija: parafin, topli oblozi, led i hladni oblozi",
+            "Mehanoterapija: ultrazvuk, masaža, trakcija",
+            "Fototerapija: terapijski laser, ultraljubičasto i infracrveno zračenje",
+            "Hidroterapija i balneoterapija: kupke, bazen, ljekovite mineralne vode, peloidi",
+            "Magnetoterapija: pulsirajuće elektromagnetsko polje niske frekvencije"
+          ]
+        },
+        {
+          "heading": "Galvanizacija i iontoforeza",
+          "body": "Galvanizacija je primjena istosmjerne (galvanske) struje stalnog smjera i nepromjenjive jakosti. Struja teče između dviju elektroda, pozitivne anode i negativne katode, koje se na kožu postavljaju preko debelih spužvastih ili viskoznih podložaka natopljenih vodom. Podlošci su obvezni jer istosmjerna struja na dodiru elektrode i kože izaziva elektrolizu: ispod katode nastaje lužnata, a ispod anode kisela reakcija, pa bi gola metalna elektroda prouzročila kemijsku opeklinu kože. Iz istog razloga koža u polju elektroda mora biti neoštećena.\n\nUčinci se razlikuju ispod elektroda. Ispod katode povećava se podražljivost živaca i mišića i nastaje izrazita hiperemija, a ispod anode podražljivost se smanjuje, pa anoda ima analgetski i sedativni učinak. Zbog toga se kod bolnih stanja anoda postavlja na bolno mjesto. Galvanska struja ujedno širi krvne žile, poboljšava prehranu tkiva i potiče resorpciju. Jakost se dozira prema površini elektrode, uobičajeno do oko 0,1 mA po četvornom centimetru, i prema osjetu bolesnika, koji treba osjećati samo ugodno peckanje bez boli; postupak traje 10 do 30 minuta, a serija obuhvaća 10 do 15 postupaka.\n\nIontoforeza (ionoforeza) iskorištava galvansku struju za unošenje ioniziranih lijekova kroz kožu. Lijek se stavlja pod elektrodu istog naboja kao i njegov djelatni ion, jer se istoimeni naboji odbijaju pa struja ione potiskuje u tkivo: negativno nabijeni ioni unose se ispod katode, a pozitivno nabijeni ispod anode. Tako se lokalno, bez uboda i bez opterećenja probavnog sustava, primjenjuju protuupalni lijekovi, lokalni anestetici i vazodilatatori. Indikacije za galvanizaciju i iontoforezu su kronični bolni sindromi, degenerativne bolesti zglobova, neuralgije i periferne pareze, a kontraindikacije oštećenja kože, poremećaj osjeta, elektrostimulator srca te metalna strana tijela ili implantati u polju struje (relativna kontraindikacija: oprez, niža doza ili drugi položaj elektroda, jer metal koncentrira struju).",
+          "bullets": [
+            "Anoda (pozitivna elektroda): smanjuje podražljivost, analgetski i sedativni učinak, kisela reakcija ispod elektrode",
+            "Katoda (negativna elektroda): povećava podražljivost, jača hiperemija, lužnata reakcija ispod elektrode",
+            "Debeli vlažni podlošci ispod elektroda sprječavaju kemijsku opeklinu",
+            "Iontoforeza: lijek se stavlja pod elektrodu istog naboja kao njegov djelatni ion"
+          ]
+        },
+        {
+          "heading": "Dijadinamske struje",
+          "body": "Dijadinamske struje (Bernardove struje) niskofrekventne su pulsne struje dobivene ispravljanjem izmjenične sinusne struje frekvencije 50 Hz. Jednostranim (poluvalnim) ispravljanjem nastaje osnovni oblik MF (monophasé fixe) frekvencije 50 Hz, a dvostranim (punovalnim) ispravljanjem oblik DF (diphasé fixe) frekvencije 100 Hz. Kombiniranjem tih dvaju osnovnih oblika u različitim vremenskim intervalima dobivaju se modulirani oblici CP (courtes périodes, kratke periode) i LP (longues périodes, duge periode). Sve dijadinamske struje imaju galvansku komponentu, pa i za njih vrijede pravila o vlažnim podlošcima, neoštećenoj koži i polaritetu elektroda.\n\nOblik DF djeluje izrazito analgetski, ali se na njega organizam brzo privikava (akomodacija), pa se primjenjuje kratko, obično 1 do 2 minute, na početku svakog postupka kao priprema tkiva. Oblik MF jače podražuje: izaziva vidljive mišićne kontrakcije i hiperemiju, pa se koristi kod atrofije mišića i za poticanje cirkulacije. CP naizmjence mijenja MF i DF u intervalima od po jedne sekunde, djeluje analgetski i potiče resorpciju otekline i hematoma. LP izmjenjuje oblike u duljim intervalima, ima najdugotrajniji analgetski učinak i najbolje se podnosi, pa se bira kod kroničnih bolnih stanja.\n\nU jednom se postupku obično kombiniraju dva ili tri oblika, a ukupno trajanje po jednom polju ne prelazi desetak minuta, jer dulja primjena ne pojačava učinak, a povećava nadražaj kože. Jakost se dozira do osjeta jasnih, ali ugodnih vibracija, bez bolnih kontrakcija. Glavne su indikacije akutni i kronični bolni sindromi sustava za kretanje: distorzije, kontuzije, epikondilitis, periartritis ramena, lumbalni i cervikalni sindrom te neuralgije. Kontraindikacije su jednake kao za galvansku struju: oštećena koža u polju elektroda, poremećaj osjeta, elektrostimulator srca te metalna strana tijela ili implantati u polju struje (relativna kontraindikacija: oprez, niža doza ili drugi položaj elektroda).",
+          "bullets": [
+            "DF (100 Hz): snažan, ali kratkotrajan analgetski učinak; uvodni oblik 1 do 2 minute",
+            "MF (50 Hz): jača stimulacija, vidljive mišićne kontrakcije i hiperemija",
+            "CP: izmjena MF i DF svake sekunde; analgezija i resorpcija otekline",
+            "LP: izmjena u duljim intervalima; najdugotrajnija analgezija, kronična stanja"
+          ]
+        },
+        {
+          "heading": "TENS i interferentne struje",
+          "body": "TENS (transkutana električna živčana stimulacija, engl. transcutaneous electrical nerve stimulation) primjena je niskofrekventnih pulsnih struja preko površinskih elektroda isključivo radi ublažavanja boli. Analgezija se tumači teorijom nadzora prolaza boli (engl. gate control, Melzack i Wall): podraživanjem debelih osjetnih vlakana za dodir zatvara se prolaz bolnim podražajima na razini stražnjeg roga kralježnične moždine. Pri stimulaciji niskom frekvencijom i jačim intenzitetom dodatno se oslobađaju endogeni opioidi (endorfini), koji djeluju sporije, ali dugotrajnije.\n\nRazlikujemo dva glavna načina. Konvencionalni TENS koristi visoku frekvenciju, oko 50 do 100 Hz, kratke impulse i nizak intenzitet; bolesnik osjeća ugodno trnjenje bez mišićnih kontrakcija, analgezija nastupa brzo, ali traje uglavnom samo tijekom stimulacije i kratko nakon nje. Akupunkturni TENS koristi nisku frekvenciju, oko 2 do 4 Hz, dulje impulse i viši intenzitet uz vidljive mišićne trzaje; učinak nastupa sporije, nakon dvadesetak minuta, ali traje satima. Elektrode se postavljaju na bolno područje, duž perifernog živca, na dermatom ili na okidne (trigger) točke. Zbog jednostavnosti i sigurnosti TENS uređaje bolesnici mogu uz uputu koristiti i kod kuće.\n\nInterferentne struje (Nemecove struje) nastaju križanjem dviju srednjefrekventnih izmjeničnih struja, primjerice od 4000 Hz i 4100 Hz, koje se u tkivo dovode preko dvaju parova elektroda. U dubini tkiva, gdje se struje sijeku, interferencijom nastaje niskofrekventna struja čija frekvencija odgovara razlici dviju ulaznih frekvencija, dakle od 0 do 100 Hz. Srednjefrekventna struja nailazi na malen otpor kože, pa prodire dublje i ugodnija je od niskofrekventnih struja. Frekvencije od 0 do 10 Hz izazivaju mišićne kontrakcije, od 90 do 100 Hz djeluju analgetski, a promjenjivi raspon od 0 do 100 Hz sprječava akomodaciju te potiče cirkulaciju i resorpciju otekline. Indikacije su bolni sindromi i degenerativne bolesti zglobova, posttraumatska stanja i atrofija mišića, a elektrode se često primjenjuju kao vakuumske."
+        },
+        {
+          "heading": "Elektrostimulacija mišića",
+          "body": "Elektrostimulacija je izazivanje mišićne kontrakcije električnim impulsima. Kod inerviranog mišića podražuje se motorički živac, pa su dovoljni kratki impulsi, trajanja oko 0,1 do 1 ms, pravokutnog ili bifaznog oblika. Frekvencija od 30 do 50 Hz daje glatku tetaničku kontrakciju, a impulsi se grupiraju u nizove s pauzama; omjer rada i odmora, primjerice 1:3, sprječava zamor mišića. Takva se stimulacija naziva i neuromuskularna električna stimulacija (NMES) i koristi se za sprječavanje atrofije nakon imobilizacije, jačanje oslabljenog mišića i ponovno učenje pokreta, uvijek uz aktivno sudjelovanje bolesnika kad god je to moguće.\n\nDenervirani mišić, kojemu je prekinut periferni živac, ne reagira na kratke impulse jer se podražuje izravno mišićno vlakno, kojemu je potreban znatno dulji podražaj. Zato se koriste eksponencijalni (trokutasti) impulsi dugog trajanja, od 100 do 1000 ms, i niske frekvencije, kojima se izazivaju pojedinačne kontrakcije. Takav je podražaj ujedno selektivan: inervirani (zdravi) mišić, odnosno njegov motorički živac, akomodira se na sporo rastuću struju i ne kontrahira se, a denervirana mišićna vlakna, koja su izgubila sposobnost akomodacije, reagiraju. Cilj je usporiti atrofiju i očuvati kontraktilnost mišića dok traje regeneracija živca, pa stimulacija mora početi što ranije i provoditi se redovito, u više kratkih serija dnevno.\n\nStanje živčano-mišićne podražljivosti ispituje se elektrodijagnostikom, najčešće krivuljom jakosti i trajanja podražaja (I/t krivulja). Reobaza je najmanja jakost struje koja uz dovoljno dug impuls izaziva minimalnu kontrakciju, a kronaksija najkraće trajanje impulsa koje izaziva kontrakciju pri jakosti dvostruke reobaze. Kod denervacije kronaksija se znatno produljuje, a krivulja se pomiče udesno, prema duljim impulsima. Kontraindikacije elektrostimulacije su elektrostimulator srca, primjena u području vrata i srca, tromboza, akutna upala, maligna bolest u polju, trudnoća (trbuh i slabinsko područje) i oštećena koža.",
+          "image": {
+            "file": "fizikalna-terapija/ems-uredaj.jpg",
+            "caption": "Prijenosni četverokanalni uređaj za elektrostimulaciju mišića (EMS) s otvorenim poklopcem: svaki kanal ima vlastiti regulator jakosti struje.",
+            "credits": [
+              {
+                "title": "N607EMSOpen",
+                "author": "Simon Speed",
+                "source": "https://commons.wikimedia.org/wiki/File:N607EMSOpen.JPG",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        }
+      ],
+      "key_points": [
+        "Fizikalna terapija koristi fizikalne agense (struja, toplina, hladnoća, ultrazvuk, svjetlost, voda, magnetsko polje) za smanjenje boli i upale te poticanje cijeljenja.",
+        "Galvanska struja zahtijeva vlažne podloške; anoda djeluje analgetski, a katoda podražajno; iontoforezom se lijek unosi ispod elektrode istog naboja.",
+        "Dijadinamske struje izvode se iz struje od 50 Hz: DF (100 Hz) kratko analgetski, MF (50 Hz) podražajno, CP resorptivno, LP dugotrajno analgetski.",
+        "Konvencionalni TENS: visoka frekvencija i nizak intenzitet, brz i kratak učinak; akupunkturni TENS: niska frekvencija i viši intenzitet, spor i dugotrajan učinak.",
+        "Interferentne struje nastaju križanjem dviju srednjefrekventnih struja i djeluju u dubini uz malen otpor kože.",
+        "Inervirani mišić stimulira se kratkim impulsima (NMES, 30 do 50 Hz), denervirani dugim eksponencijalnim impulsima; kod denervacije kronaksija se produljuje."
+      ]
+    },
+    {
+      "id": "termoterapija-i-krioterapija",
+      "title": "Termoterapija i krioterapija",
+      "summary": "Lekcija obrađuje fiziološke učinke topline i hladnoće te primjenu parafina, toplih obloga i različitih oblika krioterapije.",
+      "estimated_minutes": 10,
+      "sections": [
+        {
+          "heading": "Fiziološki učinci topline i načini prijenosa",
+          "body": "Termoterapija je liječenje toplinom. Toplina se u tkivo prenosi na četiri načina: vođenjem (kondukcija) izravnim dodirom s toplim tijelom, kao kod parafina i toplih obloga; strujanjem (konvekcija) gibanjem zagrijane tekućine ili zraka, kao u toploj kupki ili vrtložnoj kupelji; zračenjem (radijacija) elektromagnetskim valovima, kao kod infracrvene lampe; te pretvorbom (konverzija) druge vrste energije u toplinu unutar samog tkiva, kao kod ultrazvuka i kratkovalne dijatermije (zagrijavanja visokofrekventnim elektromagnetskim poljem frekvencije 27,12 MHz). Prva tri načina zagrijavaju površinski, do dubine od oko jednog centimetra, a jedino konverzija omogućuje dubinsko zagrijavanje mišića i zglobova.\n\nZagrijavanje tkiva širi krvne žile (vazodilatacija) i povećava protok krvi, čime se pojačavaju dotok kisika i hranjivih tvari te odvođenje produkata upale. Ubrzava se metabolizam stanica, povećava se rastezljivost vezivnog tkiva (kolagena), smanjuje se viskoznost sinovijalne tekućine, a napetost (tonus) mišića i mišićni grč (spazam) popuštaju. Toplina podiže prag boli i djeluje sedativno. Zbog povećane rastezljivosti kolagena zagrijavanje je najkorisnije neposredno prije razgibavanja i istezanja, a najbolji se učinak postiže ako se tkivo rasteže dok je još zagrijano.\n\nIsti učinci objašnjavaju i kontraindikacije. U akutnoj upali i neposredno nakon ozljede toplina pojačava krvarenje i oteklinu, pa se u prva dva do tri dana (48 do 72 sata) primjenjuje hladnoća. Toplina se ne primjenjuje nad malignim tumorom, nad područjem s poremećajem osjeta ili oštećenom cirkulacijom (opasnost od opekline), kod akutnog tromboflebitisa, nad krvarenjem, kod vrućice te na trbuh u trudnoći. Oprez je potreban u starijih osoba, u bolesnika sa šećernom bolesti i kod svih koji ne mogu pouzdano prijaviti prejaku toplinu, primjerice kod smetenosti ili smanjene svijesti.",
+          "bullets": [
+            "Kondukcija (vođenje): parafin, topli oblozi, termofor",
+            "Konvekcija (strujanje): topla kupka, vrtložna kupelj, topli zrak",
+            "Radijacija (zračenje): infracrvena lampa",
+            "Konverzija (pretvorba): ultrazvuk, kratkovalna dijatermija; jedini dubinski način zagrijavanja"
+          ]
+        },
+        {
+          "heading": "Parafinoterapija",
+          "body": "Parafin je smjesa ugljikovodika koja se tali na temperaturi nešto višoj od 50 °C. Terapijski se koristi uz dodatak parafinskog ulja, koje snižava talište i čini sloj mekšim i elastičnijim, u posebnim kadama s termostatom koje ga održavaju rastaljenim na temperaturi malo iznad tališta. Iako je ta temperatura viša od one koju bi koža podnijela u vodi, parafin se dobro podnosi jer ima nisku toplinsku vodljivost i malu specifičnu toplinu: prvi sloj na koži brzo se skrutne i stvara izolacijski omotač koji sporo i ravnomjerno predaje toplinu.\n\nNajčešća je metoda uranjanja (imerzija): šaka ili stopalo uzastopce se nekoliko puta uranja u parafin i vadi, tako da nastane šest do deset slojeva, zatim se umota u foliju i vuneni ili frotirni omot i ostavi 15 do 20 minuta. Kod većih ili nedostupnih površina parafin se nanosi kistom u više slojeva ili se primjenjuju gotovi parafinski oblozi. Koža prije postupka mora biti čista, suha i bez ozljeda, a bolesnik tijekom primjene miruje. Nakon skidanja parafina koža je topla, mekana i prokrvljena, što je idealan trenutak za razgibavanje, istezanje i masažu.\n\nParafin je osobito prikladan za šake i stopala jer potpuno obavija nepravilne površine. Glavne su indikacije kronične faze reumatoidnog artritisa i artroze malih zglobova, kontrakture i ukočenost nakon imobilizacije i ozljeda, Dupuytrenova kontraktura, stanja nakon operacija šake te sklerodermija. Kontraindikacije su otvorene rane, kožne infekcije i dermatitis, poremećaj osjeta, poremećaji periferne cirkulacije, akutna upala zgloba i izražena oteklina. Parafin se ne primjenjuje u akutnoj fazi reumatoidnog artritisa jer toplina pojačava upalu, oteklinu i bol."
+        },
+        {
+          "heading": "Topli oblozi i druge metode površinske topline",
+          "body": "Topli (vrući) oblozi najjednostavniji su oblik kondukcijske termoterapije. Standardni su oblozi platnene vrećice punjene silikatnim gelom koje se griju u vodenoj kupelji (hidrokolatoru) na temperaturi od oko 70 °C; gel zadržava vodu i polako otpušta toplinu. Prije primjene oblog se obvezno umota u više slojeva frotirnog ručnika, obično šest do osam, kako ne bi izazvao opeklinu, a bolesnik ne smije ležati na oblogu jer pritisak smanjuje cirkulaciju i povećava opasnost od oštećenja kože. Primjena traje 20 do 30 minuta, a kožu treba pregledati tijekom i nakon postupka.\n\nOsim gelnih obloga koriste se termofor s toplom vodom, električni jastuci, topli ručnici, oblozi od ljekovitog blata (peloidni oblozi) i vrećice sa sjemenkama koje se griju. Svi oni zagrijavaju samo kožu i potkožje, pa ih primjenjujemo kod površinskih bolnih stanja, mišićnog spazma, kroničnih bolova u vratu i leđima, degenerativnih promjena površinskih zglobova te kao pripremu za masažu, istezanje i vježbe. Topli se oblozi često kombiniraju s drugim postupcima, primjerice se primjenjuju prije elektroterapije kako bi se smanjio otpor kože i poboljšalo podnošenje struje.\n\nDoza površinske topline određuje se temperaturom izvora, debljinom izolacije, trajanjem primjene i subjektivnim osjetom: bolesnik treba osjećati ugodnu toplinu, nikada žarenje. Osjet topline ispituje se prije prve primjene, osobito u bolesnika s neurološkim bolestima, šećernom bolesti ili nakon ozljeda živaca. Opekline nastaju najčešće zbog nedovoljne izolacije, predugog trajanja, bolesnika koji je zaspao ili oštećenog osjeta. Tijekom postupka i nakon njega koža treba biti ravnomjerno crvena i topla; mrljasto crvenilo ili blijeda, bolna koža znak je pregrijavanja i zahtijeva trenutačni prekid postupka.",
+          "image": {
+            "file": "fizikalna-terapija/termofor.jpg",
+            "caption": "Gumeni termofor, boca za toplu vodu: jednostavan izvor površinske topline koja se na tkivo prenosi kondukcijom.",
+            "credits": [
+              {
+                "title": "Grelka",
+                "author": "BarbariSka88",
+                "source": "https://commons.wikimedia.org/wiki/File:%D0%93%D1%80%D0%B5%D0%BB%D0%BA%D0%B0.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Krioterapija",
+          "body": "Krioterapija je liječenje hladnoćom. Hlađenje tkiva sužava krvne žile (vazokonstrikcija), smanjuje protok krvi, metabolizam stanica i potrebu tkiva za kisikom, usporava provođenje živčanih impulsa i smanjuje podražljivost receptora za bol, pa djeluje analgetski. Hladnoća smanjuje mišićni spazam, a kod neuroloških bolesnika privremeno smanjuje i spastičnost. U akutnoj ozljedi hladnoća ograničava krvarenje i oteklinu te usporava oslobađanje upalnih medijatora. Pri duljem hlađenju, nakon petnaestak minuta, krvne se žile naizmjence šire i sužavaju (Lewisova reakcija, hladnoćom izazvana vazodilatacija), čime se tkivo štiti od smrzavanja.\n\nOblici primjene su oblozi i vrećice s ledom, hladni gel oblozi, masaža ledom (kružno trljanje komadom leda po bolnom mjestu 5 do 10 minuta), hladne kupke temperature oko 10 do 15 °C, hladni zrak iz posebnih uređaja, rashladni sprejevi koji isparavanjem hlade kožu te krioterapija cijelog tijela u komorama s temperaturom nižom od −100 °C. Vrećica s ledom nikada se ne stavlja izravno na kožu, nego preko vlažne krpe ili ručnika, a primjena traje 10 do 20 minuta i ponavlja se više puta dnevno u prvim danima nakon ozljede. Bolesnik tijekom hlađenja redom osjeća hladnoću, žarenje, tupu bol i na kraju obamrlost; pojava obamrlosti znak je da je postignut učinak.\n\nGlavna je indikacija akutna ozljeda mekih tkiva (distorzija, kontuzija, nategnuće mišića) u prva dva do tri dana (48 do 72 sata) nakon ozljede, u sklopu postupka koji uključuje mirovanje, led, kompresiju i podizanje ozlijeđenog uda (engl. RICE); novije smjernice (POLICE, PEACE i LOVE) umjesto dugotrajnog mirovanja naglašavaju zaštitu i rano, optimalno opterećenje. Hladnoća se primjenjuje i kod akutne upale zglobova, burzitisa i tendinitisa, nakon operacija, kod spastičnosti i boli, a kratkotrajno i prije vježbanja kako bi se smanjila bol i omogućilo razgibavanje. Kontraindikacije su Raynaudova bolest i fenomen, preosjetljivost na hladnoću (hladna urtikarija) i krioglobulinemija, jer hladnoća kod njih izaziva vazospazam, alergijsku reakciju kože ili taloženje bjelančevina u krvi, zatim teže bolesti perifernih arterija, poremećaj osjeta te područje regeneracije perifernog živca.",
+          "bullets": [
+            "Vazokonstrikcija i smanjen metabolizam: manje krvarenje i oteklina u akutnoj ozljedi",
+            "Usporeno provođenje živčanih impulsa: analgezija",
+            "Smanjen mišićni spazam i privremeno smanjena spastičnost",
+            "Vrećica s ledom i hladni oblozi: 10 do 20 minuta, uvijek preko zaštitnog sloja tkanine; masaža ledom: izravno na kožu, 5 do 10 minuta"
+          ],
+          "image": {
+            "file": "fizikalna-terapija/hladni-oblog.jpg",
+            "caption": "Hladni gel-oblog za krioterapiju. Na kožu se stavlja preko zaštitnog sloja tkanine, obično 10 do 20 minuta.",
+            "credits": [
+              {
+                "title": "Kühlakku",
+                "author": "Mona Hitzenauer",
+                "source": "https://commons.wikimedia.org/wiki/File:K%C3%BChlakku.png",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        }
+      ],
+      "key_points": [
+        "Toplina širi krvne žile, ubrzava metabolizam, povećava rastezljivost kolagena i smanjuje spazam i bol; primjenjuje se u subakutnim i kroničnim stanjima.",
+        "Toplina se prenosi kondukcijom, konvekcijom, radijacijom i konverzijom; samo konverzija (ultrazvuk, dijatermija) zagrijava dubinski.",
+        "Parafin se dobro podnosi zbog niske toplinske vodljivosti i male specifične topline; metoda uranjanja za šake i stopala traje 15 do 20 minuta.",
+        "Topli oblozi iz hidrokolatora umataju se u više slojeva ručnika i primjenjuju 20 do 30 minuta; bolesnik ne leži na oblogu.",
+        "Hladnoća sužava žile, smanjuje metabolizam, oteklinu, bol i spazam; indicirana je u prva dva do tri dana (48 do 72 sata) nakon ozljede.",
+        "Kontraindikacije krioterapije: Raynaudova bolest, hladna urtikarija, krioglobulinemija, poremećaj osjeta i bolesti perifernih arterija."
+      ]
+    },
+    {
+      "id": "ultrazvuk-fototerapija-i-magnetoterapija",
+      "title": "Ultrazvučna terapija, fototerapija i magnetoterapija",
+      "summary": "Lekcija objašnjava fizikalne osnove, doziranje, indikacije i kontraindikacije terapijskog ultrazvuka, lasera, ultraljubičastog i infracrvenog zračenja te magnetoterapije.",
+      "estimated_minutes": 12,
+      "sections": [
+        {
+          "heading": "Terapijski ultrazvuk: fizikalne osnove i učinci",
+          "body": "Ultrazvuk su mehanički longitudinalni valovi frekvencije više od 20 kHz, dakle iznad granice ljudskog sluha. U terapiji se koriste frekvencije od 1 MHz i 3 MHz. Valove stvara piezoelektrični kristal u glavi sonde koji se pod utjecajem izmjeničnog napona ritmički steže i širi (obrnuti piezoelektrični učinak). Ultrazvuk se kroz zrak prenosi vrlo slabo, a na granici zraka i kože zbog velike razlike akustičke impedancije gotovo se potpuno reflektira, pa je između sonde i kože obvezan kontaktni medij: gel, voda ili ulje. Energija se najjače apsorbira u tkivima bogatim bjelančevinama, poput tetiva, ligamenata, zglobnih čahura i ožiljaka, a najslabije u masnom tkivu.\n\nDubina prodiranja ovisi o frekvenciji: što je frekvencija viša, apsorpcija je jača, a prodiranje pliće. Ultrazvuk od 1 MHz prodire do dubine od oko 5 cm i koristi se za dublje strukture, primjerice zglob kuka ili debele mišiće, dok 3 MHz djeluje površinski, do 1 do 2 cm, i prikladan je za površinske tetive, ligamente i ožiljke. Na granici mekog tkiva i kosti dio se energije reflektira i apsorbira u pokosnici (periostu), pa se pri prejakoj dozi ili pri mirovanju sonde javlja oštra periostalna bol, koja je znak da jakost treba odmah smanjiti.\n\nUčinci su toplinski i netoplinski. Toplinski učinak, izraženiji u kontinuiranom načinu, dubinski zagrijava tkivo i time povećava rastezljivost kolagena, protok krvi i prag boli. Netoplinski (mehanički) učinci prevladavaju u pulsnom načinu: titranje čestica djeluje kao mikromasaža, mijenja propusnost staničnih membrana, potiče mikrocirkulaciju i difuziju te ubrzava resorpciju otekline i cijeljenje tkiva. U pulsnom načinu energija se u sondu dovodi u kratkim paketima s pauzama, primjerice u radnom ciklusu od 20 %, pa se tkivo između impulsa hladi i ukupno predana toplina ostaje mala. Zato se pulsni ultrazvuk bira kod akutnih i subakutnih stanja, a kontinuirani kod kroničnih."
+        },
+        {
+          "heading": "Ultrazvuk: tehnika, doziranje, indikacije i kontraindikacije",
+          "body": "Jakost ultrazvuka izražava se u vatima po četvornom centimetru (W/cm²) površine sonde, a terapijski se raspon kreće od oko 0,1 do 2 W/cm², iznimno do 3 W/cm² (niske doze do 0,3, srednje 0,3 do 1,2, visoke 1,2 do 3 W/cm²); niže vrijednosti biraju se za akutna stanja, pulsni način i površinska tkiva, a više za kronična stanja i dublja tkiva. Jedno polje tretira se 5 do 10 minuta, a serija obuhvaća obično 10 do 15 postupaka. Sonda se tijekom cijelog postupka polako i ravnomjerno pomiče kružnim ili uzdužnim pokretima, uz stalan dodir s kožom preko gela; zadržavanje sonde na jednom mjestu stvara vruće točke i periostalnu bol.\n\nKod nepravilnih površina poput šake, stopala i gležnja koristi se subakvalna (podvodna) metoda: dio tijela i sonda uranjaju se u vodu, a sonda se vodi 1 do 2 cm iznad kože; voda je ovdje kontaktni medij. Ultrazvukom se može unositi i lijek kroz kožu (sonoforeza ili fonoforeza), najčešće protuupalni gel, koji tada ujedno služi kao kontaktni medij. Bolesnik u kontinuiranom načinu osjeća tek blagu toplinu, a u pulsnom načinu najčešće ne osjeća ništa, pa poštovanje preporučenih parametara, stalno pomicanje sonde i praćenje bolesnikovih reakcija predstavljaju jedinu zaštitu od pretjerane doze.\n\nIndikacije su prije svega kronične i subakutne lezije mekih tkiva: tendinopatije i entezopatije (epikondilitis, tendinopatija Ahilove tetive), burzitisi, periartritis ramena, ožiljci i priraslice, kontrakture, kalcificirajući tendinitis, degenerativne bolesti zglobova i posttraumatska stanja. Kontraindikacije su primjena nad očima, nad trudnom maternicom, nad spolnim žlijezdama, nad zonama rasta kostiju u djece, nad malignim tumorom, nad elektrostimulatorom srca, nad akutnom infekcijom i tromboflebitisom, nad područjem krvarenja te nad kralježničnom moždinom nakon laminektomije. Metalni implantati zahtijevaju oprez i nižu dozu, a cementirane endoproteze se zaobilaze jer se koštani cement pod ultrazvukom pregrijava.",
+          "bullets": [
+            "1 MHz: dublje strukture, do oko 5 cm; 3 MHz: površinske strukture, do 1 do 2 cm",
+            "Kontinuirani način: toplinski učinak, kronična stanja; pulsni način: netoplinski učinci, akutna i subakutna stanja",
+            "Obvezan kontaktni medij (gel, voda) i stalno pomicanje sonde",
+            "Periostalna bol je znak predoziranja: odmah smanjiti jakost"
+          ]
+        },
+        {
+          "heading": "Terapijski laser",
+          "body": "Laser (engl. light amplification by stimulated emission of radiation) izvor je svjetlosti koja je monokromatska (jedne valne duljine), koherentna (valovi su u fazi) i usmjerena (snop se gotovo ne širi). U fizikalnoj terapiji najčešće se koriste laseri male snage (niskoenergetski, biostimulacijski laseri; engl. low-level laser therapy, LLLT), koji ne zagrijavaju tkivo, nego svojom energijom potiču procese u stanicama; u novije se vrijeme primjenjuju i laseri visokog intenziteta (engl. high-intensity laser therapy, HILT), koji uz fotobiostimulaciju imaju i toplinski učinak. Najčešće se koriste crveni laseri valne duljine oko 630 do 690 nm, koji prodiru plitko i prikladni su za kožu i rane, te infracrveni laseri valne duljine oko 800 do 905 nm, koji prodiru dublje i koriste se za zglobove, tetive i mišiće.\n\nUčinci se nazivaju fotobiostimulacijom: potiče se metabolizam mitohondrija i stvaranje energije (ATP) u stanicama, ubrzava se dioba stanica i sinteza kolagena, poboljšava mikrocirkulacija, smanjuju se upala i oteklina te podiže prag boli. Doza se izražava u džulima po četvornom centimetru (J/cm²) i ovisi o snazi uređaja, trajanju primjene i ozračenoj površini; stanja u akutnoj fazi liječe se nižim, a kronična višim dozama. Zraka se primjenjuje točkasto ili pomicanjem po površini, u izravnom dodiru s kožom ili iz male udaljenosti, a jedna točka tretira se obično nekoliko desetaka sekundi.\n\nIndikacije su kronične rane i ulkusi (dekubitus, venski ulkus), tendinopatije, epikondilitis, sindrom karpalnog kanala, artroza malih zglobova, bolni sindromi kralježnice, ožiljci i oporavak perifernih živaca. Najvažnije sigurnosno pravilo jest zaštita očiju: laserska zraka može oštetiti mrežnicu, pa bolesnik i terapeut nose zaštitne naočale, a zraka se nikada ne usmjerava prema očima. Kontraindikacije su maligni tumori u polju primjene, trudna maternica, fotosenzitivnost i uzimanje fotosenzibilizirajućih lijekova, aktivno krvarenje te područje štitnjače i drugih endokrinih žlijezda; oprez je potreban kod epilepsije."
+        },
+        {
+          "heading": "Ultraljubičasto i infracrveno zračenje",
+          "body": "Ultraljubičasto (UV) zračenje nevidljivi je dio spektra valnih duljina kraćih od vidljive svjetlosti, između 100 i 400 nm, i dijeli se na UVA (320 do 400 nm), UVB (280 do 320 nm) i UVC (100 do 280 nm). UVA prodire u kožu najdublje i izaziva pigmentaciju, UVB izaziva crvenilo kože (eritem) i potiče sintezu vitamina D, a UVC ima baktericidni učinak i koristi se za dezinfekciju i liječenje inficiranih rana. UV zračenje prodire samo u kožu, pa su mu i učinci kožni: eritem, pigmentacija, zadebljanje epiderme i poticanje stvaranja vitamina D.\n\nDoza UV zračenja određuje se prema minimalnoj eritemskoj dozi (MED), najmanjoj količini zračenja koja na koži bolesnika nakon 24 sata izaziva jedva vidljivo crvenilo. Odredi se probnim zračenjem malih polja kože različitim vremenom izlaganja, a terapijske se doze zatim izražavaju kao višekratnici MED-a, jer je osjetljivost kože individualna. Glavne su indikacije psorijaza (uz fotosenzibilizator psoralen i UVA kao PUVA terapija ili uskopojasni UVB), neke druge kožne bolesti, kronične rane i rahitis. Kontraindikacije su fotosenzitivnost, sustavni eritemski lupus, kožni tumori, akutni dermatitis i uzimanje fotosenzibilizirajućih lijekova; oči se uvijek štite tamnim naočalama.\n\nInfracrveno (IC) zračenje ima valne duljine dulje od vidljive svjetlosti, od 760 nm do oko 1 mm, i u tkivu se pretvara u toplinu; riječ je o površinskoj termoterapiji zračenjem. Kratkovalno (blisko) infracrveno zračenje prodire nekoliko milimetara u kožu, a dugovalno gotovo potpuno apsorbira njezina površina. Izvor je infracrvena lampa (primjerice Sollux), koja se postavlja okomito na tretiranu površinu, na udaljenosti koju bolesnik osjeća kao ugodnu toplinu; primjena traje 15 do 30 minuta. Učinci su hiperemija kože, analgezija i opuštanje mišića, pa se koristi kao priprema za masažu, vježbe i elektroterapiju. Oči se štite, a kontraindikacije su kao za površinsku toplinu: poremećaj osjeta, akutna upala, oštećena cirkulacija i maligne bolesti.",
+          "bullets": [
+            "UVA (320 do 400 nm): pigmentacija, PUVA terapija psorijaze",
+            "UVB (280 do 320 nm): eritem i sinteza vitamina D",
+            "UVC (100 do 280 nm): baktericidni učinak, inficirane rane",
+            "Infracrveno zračenje (od 760 nm): površinska toplina, priprema za druge postupke"
+          ],
+          "image": {
+            "file": "fizikalna-terapija/uv-lampa.jpg",
+            "caption": "Tamnjenje pod UV lampom na sajmu fitnessa u Amsterdamu, 1983. Tamnjenje je pigmentacija koju izaziva UVA zračenje; u terapiji se doza određuje prema minimalnoj eritemskoj dozi.",
+            "credits": [
+              {
+                "title": "Fitness-beurs in RAI bruin worden middels UV-straling",
+                "author": "Marcel Antonisse / Anefo",
+                "source": "https://commons.wikimedia.org/wiki/File:Fitness-beurs_in_RAI_bruin_worden_middels_UV-straling,_Bestanddeelnr_932-8147.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Magnetoterapija",
+          "body": "Magnetoterapija je primjena pulsirajućeg elektromagnetskog polja niske frekvencije (engl. pulsed electromagnetic field, PEMF) i niskog intenziteta, izraženog u militeslama (mT). Polje stvaraju zavojnice (solenoidi) kroz koje teče struja; dio tijela stavlja se u veliku zavojnicu ili se manje zavojnice (aplikatori) polažu na površinu tijela. Polje prolazi kroz odjeću, zavoje i sadreni zavoj jednako kao i kroz tkivo, pa se može primjenjivati i preko imobilizacije, što je važna prednost kod liječenja prijeloma. Bolesnik tijekom primjene obično ne osjeća ništa.\n\nUčinci se tumače djelovanjem polja na ione i membranski potencijal stanica: poboljšava se mikrocirkulacija i opskrba tkiva kisikom, ubrzava se stvaranje koštanog tkiva (osteogeneza), smanjuju se oteklina, upala i bol te se ubrzava cijeljenje mekih tkiva. Doziranje obuhvaća frekvenciju (uobičajeno od 1 do 100 Hz), jakost polja u militeslama, trajanje postupka, obično 20 do 30 minuta, i broj postupaka u seriji; niže frekvencije i jakosti biraju se kod akutnih, a više kod kroničnih stanja.\n\nIndikacije su prijelomi, osobito usporeno cijeljenje i pseudoartroza, osteoporoza, degenerativne bolesti zglobova i kralježnice, Sudeckova bolest (kompleksni regionalni bolni sindrom), kronične ozljede mekih tkiva, loše cijeljenje rana i neke neurološke bolesti. Apsolutne kontraindikacije su elektrostimulator srca i drugi elektronički implantati, jer polje ometa njihov rad, zatim trudnoća, maligne bolesti, aktivna tuberkuloza, akutne infekcije s vrućicom i sklonost krvarenju. Metalni implantati za osteosintezu u pravilu nisu zapreka za niskofrekventno pulsirajuće polje, za razliku od visokofrekventne dijatermije, ali se uvijek poštuju upute proizvođača uređaja."
+        }
+      ],
+      "key_points": [
+        "Ultrazvuk od 1 MHz prodire do oko 5 cm, 3 MHz do 1 do 2 cm; kontaktni medij je obvezan jer se ultrazvuk na granici zraka i kože gotovo potpuno reflektira.",
+        "Kontinuirani ultrazvuk ima toplinski učinak (kronična stanja), pulsni netoplinski (akutna i subakutna stanja); periostalna bol znači predoziranje.",
+        "Terapijski laser je monokromatski, koherentan i usmjeren; niskoenergetski laser ne zagrijava tkivo, nego ga fotobiostimulira; zaštita očiju je obvezna.",
+        "UVA pigmentira, UVB izaziva eritem i sintezu vitamina D, UVC ubija bakterije; doza se izražava u višekratnicima MED-a.",
+        "Infracrveno zračenje je površinska toplina zračenjem, priprema za masažu i vježbe.",
+        "Magnetoterapija potiče osteogenezu i mikrocirkulaciju i prolazi kroz sadreni zavoj; elektrostimulator srca je apsolutna kontraindikacija."
+      ]
+    },
+    {
+      "id": "hidroterapija-balneoterapija-i-nacela-primjene",
+      "title": "Hidroterapija, balneoterapija i načela primjene",
+      "summary": "Lekcija obrađuje svojstva vode i oblike hidroterapije, prirodne ljekovite činitelje balneoterapije te opće kontraindikacije i načela doziranja fizikalnih postupaka.",
+      "estimated_minutes": 11,
+      "sections": [
+        {
+          "heading": "Fizikalna svojstva vode i oblici hidroterapije",
+          "body": "Hidroterapija je primjena obične vode u liječenju, u obliku kupki, tuševa, obloga, podvodne masaže i vježbanja u bazenu. Terapijski učinak počiva na fizikalnim svojstvima vode. Uzgon (Arhimedov zakon) smanjuje prividnu težinu tijela, pa se u vodi lakše pokreću oslabljeni mišići i rasterećuju bolni zglobovi; pri uranjanju do vrata tijelo nosi tek desetak posto svoje težine. Hidrostatski tlak raste s dubinom, pritišće površinske vene i limfne žile te potiče povratak krvi prema srcu i smanjuje oteklinu udova. Viskoznost vode pruža otpor pokretu koji raste s brzinom, pa se u vodi mišići mogu i jačati.\n\nVoda provodi toplinu mnogo bolje od zraka, pa je toplinski podražaj u vodi snažan i brz. Prema temperaturi razlikujemo hladne kupke (ispod 20 °C), mlake (između hladnih i indiferentnih), indiferentne ili neutralne (oko 34 do 35 °C), tople (oko 36 do 38 °C) i vruće (iznad 38 °C). Indiferentna je temperatura ona pri kojoj bolesnik ne osjeća ni toplo ni hladno, a tijelo niti prima niti gubi toplinu; takve se kupke koriste za opuštanje i vježbanje. Tople i vruće kupke opuštaju mišiće i smanjuju bol, ali opterećuju srce i krvotok, pa im se ograničava trajanje i nadziru bolesnici s kardiovaskularnim bolestima.\n\nOblici hidroterapije su potpune i djelomične kupke (kupke za ruke i noge, sjedeće kupke), vrtložna kupelj (engl. whirlpool) u kojoj struja vode masira ud, podvodna masaža mlazom vode pod tlakom (tangentor), Hubbardova kada za cijelo tijelo, četverostanična galvanska kupelj u kojoj kroz vodu teče galvanska struja, naizmjenični topli i hladni tuševi i kupke (Kneippovi postupci, škotski tuš) te hidrokineziterapija, vježbanje u terapijskom bazenu s vodom temperature oko 32 do 35 °C. Kontraindikacije za kupke i bazen su srčana i dišna insuficijencija, nekontrolirana hipertenzija, vrućica i akutne infekcije, zarazne kožne bolesti, otvorene rane, inkontinencija mokraće i stolice te nekontrolirana epilepsija.",
+          "bullets": [
+            "Uzgon: rasterećenje zglobova i olakšan pokret",
+            "Hidrostatski tlak: bolji venski i limfni povrat, manja oteklina",
+            "Viskoznost: otpor pokretu, jačanje mišića",
+            "Toplinska vodljivost: snažan i brz toplinski podražaj"
+          ]
+        },
+        {
+          "heading": "Balneoterapija i klimatoterapija",
+          "body": "Balneoterapija je liječenje prirodnim ljekovitim činiteljima: ljekovitim mineralnim i termalnim vodama, ljekovitim blatom (peloidima), naftalanom i klimom, a provodi se u lječilištima (toplicama). Termalnom se smatra voda čija je temperatura na izvoru viša od 20 °C, a mineralnom voda koja sadrži povećanu količinu otopljenih mineralnih tvari ili posebno djelatne sastojke poput sumpora, radona ili ugljikova dioksida. Učinak ljekovite vode zbroj je toplinskog i mehaničkog djelovanja (uzgon, hidrostatski tlak) te kemijskog djelovanja otopljenih tvari, koje se dijelom upijaju kroz kožu.\n\nSumporne vode primjenjuju se kod degenerativnih bolesti zglobova i kralježnice te kroničnih kožnih bolesti, radonske vode imaju analgetski učinak kod reumatskih bolesti, a ugljičnokisele kupke (kupke s ugljikovim dioksidom) šire periferne krvne žile i koriste se kod poremećaja periferne cirkulacije. Peloidi (fango, treset, ljekovito morsko blato) nanose se topli u obliku obloga ili kupki i dugo zadržavaju toplinu, pa su prikladni za kronične bolesti zglobova. Naftalan, ljekovito mineralno ulje koje se u Hrvatskoj primjenjuje u Ivanić-Gradu, koristi se u liječenju psorijaze i reumatskih bolesti. Poznata hrvatska lječilišta s termalnim vodama su Varaždinske Toplice, Daruvarske Toplice, Krapinske Toplice, Lipik, Topusko i Stubičke Toplice.\n\nKlimatoterapija koristi obilježja klime: morsku klimu s čistim, slanim zrakom i sunčevim zračenjem (talasoterapija, uz kupanje u moru) kod kroničnih dišnih i kožnih bolesti te planinsku klimu kod dišnih bolesti i oporavka. Balneoterapija je uvijek dio cjelovitog lječilišnog programa koji uključuje kineziterapiju, hidroterapiju, elektroterapiju i edukaciju bolesnika, a provodi se u serijama od dva do tri tjedna. Opće kontraindikacije za lječilišno liječenje su akutne i zarazne bolesti, maligne bolesti, dekompenzirana srčana i dišna insuficijencija, teže psihičke bolesti, trudnoća kod toplih i vrućih kupki te stanja koja onemogućuju samostalnu skrb.",
+          "image": {
+            "file": "fizikalna-terapija/termalni-bazen.jpg",
+            "caption": "Zatvoreni bazen s termalnom vodom u lječilištu Patince u Slovačkoj.",
+            "credits": [
+              {
+                "title": "2025 Patince spa",
+                "author": "Qasinka",
+                "source": "https://commons.wikimedia.org/wiki/File:2025_Patince_spa.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Opće kontraindikacije fizikalne terapije",
+          "body": "Kontraindikacija je stanje u kojem primjena postupka može naštetiti bolesniku. Apsolutne kontraindikacije isključuju postupak u cijelosti, a relativne dopuštaju primjenu uz prilagodbu doze, izbor drugog agensa ili izbjegavanje određenog područja. Nekoliko se stanja ponavlja kod gotovo svih fizikalnih agensa, pa ih terapeut provjerava prije svake prve primjene: elektrostimulator srca (engl. pacemaker) i drugi elektronički implantati, metalni implantati u polju primjene, trudnoća, maligne bolesti, akutna upala i infekcija, krvarenje i tromboza, poremećaj osjeta te oštećena koža u polju primjene.\n\nRazlozi su fiziološki jasni. Električna struja i elektromagnetska polja (elektroterapija, magnetoterapija, visokofrekventna dijatermija) mogu poremetiti rad elektrostimulatora srca. Metalni implantati u polju visokofrekventnih struja koncentriraju energiju i pregrijavaju okolno tkivo, a pod elektrodama istosmjerne struje koncentriraju struju; zato su apsolutna kontraindikacija za kratkovalnu dijatermiju, a za ostale postupke razlog za oprez i prilagodbu. Toplina i podražajni agensi nad malignim tumorom pojačavaju njegovu prokrvljenost i mogu pospješiti rast i širenje, a u trudnoći se izbjegava primjena bilo kojeg agensa na trbuh, zdjelicu i slabinski dio leđa jer učinci na plod nisu dovoljno poznati.\n\nU akutnoj upali i neposredno nakon ozljede toplina, masaža i podražajne struje pojačavaju krvarenje, oteklinu i bol, pa je u tom razdoblju agens izbora hladnoća. Nad trombozom se ne primjenjuje ništa što povećava cirkulaciju ili mehanički pritišće žilu, zbog opasnosti da se ugrušak otkine. Poremećaj osjeta na toplo, hladno i bol onemogućuje bolesniku da upozori na prejak podražaj, pa toplinski i električni postupci lako izazovu opeklinu; ispitivanje osjeta zato prethodi prvoj primjeni. Oštećena koža slabije podnosi struju i toplinu i otvorena je za infekciju. Posebne kontraindikacije pojedinih agensa, poput Raynaudove bolesti kod hladnoće ili fotosenzitivnosti kod UV zračenja, obrađene su uz svaki agens.",
+          "bullets": [
+            "Elektrostimulator srca: nikakva elektroterapija, magnetoterapija ni dijatermija",
+            "Metalni implantati: apsolutna kontraindikacija za visokofrekventnu dijatermiju, oprez kod ostalih agensa",
+            "Trudnoća: ništa na trbuh, zdjelicu i slabinski dio leđa",
+            "Maligna bolest, akutna upala, krvarenje i tromboza: bez topline i podražajnih postupaka u polju",
+            "Poremećaj osjeta i oštećena koža: opasnost od opekline i infekcije"
+          ]
+        },
+        {
+          "heading": "Načela doziranja",
+          "body": "Doza fizikalnog agensa određena je jakošću (intenzitetom) podražaja, trajanjem jedne primjene, učestalošću primjena (svakodnevno ili svaki drugi dan) i ukupnim brojem postupaka u seriji, koja obično obuhvaća 10 do 15, iznimno do 20 postupaka. Ista se doza ne propisuje svima: ovisi o stadiju bolesti, veličini i dubini tretiranog područja, dobi i općem stanju bolesnika te individualnoj osjetljivosti. Osnovno je pravilo da se u akutnim stanjima primjenjuju niske doze i kratko trajanje, a u kroničnima jače doze i dulje trajanje, uz postupno povećavanje tijekom serije.\n\nOdnos jakosti podražaja i odgovora organizma opisuje Arndt-Schulzovo pravilo: slabi podražaji potiču fiziološku aktivnost, srednje jaki je pojačavaju, jaki je koče, a vrlo jaki ukidaju. Cilj je zato pronaći najmanju dozu koja daje terapijski odgovor, a ne najveću koju bolesnik podnosi. Važan je i fenomen akomodacije (prilagodbe): živčano se tkivo na nepromijenjen podražaj privikne i odgovor slabi, pa se parametri tijekom serije mijenjaju, a kod elektroterapije koriste modulirani oblici struje i promjenjive frekvencije.\n\nU praksi je najvažniji vodič subjektivni osjet bolesnika: toplina mora biti ugodna, struja jasno osjetna, ali bezbolna, a pojava boli, žarenja ili nelagode razlog je za trenutačno smanjenje doze ili prekid postupka. Prije prve primjene terapeut objašnjava postupak i očekivani osjet, provjerava kontraindikacije i osjet kože, uklanja metalne predmete iz polja primjene i pregledava kožu; tijekom postupka bolesnika nadzire, a nakon njega ponovno pregledava kožu i bilježi sve parametre (vrstu agensa, jakost, trajanje, područje, reakciju). Učinak se vrednuje tijekom serije i, ako izostane nakon nekoliko postupaka, postupak se mijenja, a ne nastavlja po inerciji.",
+          "bullets": [
+            "Jakost, trajanje, učestalost i broj postupaka u seriji (obično 10 do 15)",
+            "Akutno: niske doze, kratko; kronično: više doze, dulje, postupno povećavanje",
+            "Arndt-Schulzovo pravilo: slabi podražaji potiču, jaki koče",
+            "Bol ili žarenje tijekom postupka: odmah smanjiti dozu ili prekinuti",
+            "Prije postupka provjera kontraindikacija i osjeta; nakon postupka pregled kože i dokumentacija"
+          ]
+        }
+      ],
+      "key_points": [
+        "Uzgon rasterećuje zglobove, hidrostatski tlak potiče venski povrat, viskoznost daje otpor; indiferentna temperatura vode je oko 34 do 35 °C.",
+        "Balneoterapija koristi prirodne činitelje: termalne (iznad 20 °C na izvoru) i mineralne vode, peloide, naftalan i klimu.",
+        "Opće kontraindikacije: elektrostimulator srca, metalni implantati u polju, trudnoća, maligne bolesti, akutna upala, krvarenje i tromboza, poremećaj osjeta, oštećena koža.",
+        "Akutna stanja: hladnoća i niske doze; kronična stanja: toplina i više doze uz postupno povećavanje.",
+        "Arndt-Schulzovo pravilo: slabi podražaji potiču, jaki koče; traži se najmanja djelotvorna doza.",
+        "Osjet bolesnika je glavni vodič doziranja; provjera osjeta i kože prije i nakon postupka, uz dokumentaciju."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "ft-001",
+      "lesson_id": "elektroterapija",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Koji od navedenih postupaka pripada fototerapiji?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Terapijski laser"
+        },
+        {
+          "id": "b",
+          "text": "Interferentne struje"
+        },
+        {
+          "id": "c",
+          "text": "Parafinske obloge"
+        },
+        {
+          "id": "d",
+          "text": "Kupke u ljekovitoj mineralnoj vodi"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Fototerapija koristi svjetlost: terapijski laser, ultraljubičasto i infracrveno zračenje. Interferentne struje pripadaju elektroterapiji, parafin termoterapiji, a kupke u ljekovitoj mineralnoj vodi balneoterapiji.",
+      "tags": [
+        "fizikalni agensi",
+        "podjela"
+      ]
+    },
+    {
+      "id": "ft-002",
+      "lesson_id": "elektroterapija",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Zašto se kod galvanizacije elektrode na kožu postavljaju preko debelih vlažnih podložaka?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jer istosmjerna struja elektrolizom stvara kisele i lužnate produkte koji bi bez podloška kemijski opekli kožu"
+        },
+        {
+          "id": "b",
+          "text": "Jer podlošci snižavaju frekvenciju struje na terapijsku razinu"
+        },
+        {
+          "id": "c",
+          "text": "Jer vlažni podlošci omogućuju da struja prodre do kosti"
+        },
+        {
+          "id": "d",
+          "text": "Jer podlošci sprječavaju nastanak mišićnih kontrakcija"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Galvanska struja na dodiru elektrode i kože izaziva elektrolizu: ispod katode nastaje lužnata, a ispod anode kisela reakcija. Debeli vlažni podlošci sprječavaju da ti produkti kemijski opeku kožu; ostali navedeni razlozi nemaju veze s podlošcima.",
+      "tags": [
+        "galvanizacija"
+      ]
+    },
+    {
+      "id": "ft-003",
+      "lesson_id": "elektroterapija",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Kod galvanizacije bolnog područja analgetski učinak postiže se tako da se na bolno mjesto postavi:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Anoda (pozitivna elektroda)"
+        },
+        {
+          "id": "b",
+          "text": "Katoda (negativna elektroda)"
+        },
+        {
+          "id": "c",
+          "text": "Bilo koja elektroda, jer polaritet ne utječe na učinak"
+        },
+        {
+          "id": "d",
+          "text": "Katoda bez vlažnog podloška, radi jačeg podražaja"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Ispod anode se podražljivost živaca smanjuje, pa anoda djeluje analgetski i sedativno, dok ispod katode podražljivost raste. Elektroda bez vlažnog podloška nikada se ne primjenjuje jer bi izazvala kemijsku opeklinu.",
+      "tags": [
+        "galvanizacija",
+        "analgezija"
+      ]
+    },
+    {
+      "id": "ft-004",
+      "lesson_id": "elektroterapija",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Koje su tvrdnje o dijadinamskim strujama točne?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Oblik DF ima frekvenciju 100 Hz i organizam se na njega brzo privikava"
+        },
+        {
+          "id": "b",
+          "text": "Oblik MF izaziva vidljive mišićne kontrakcije i hiperemiju"
+        },
+        {
+          "id": "c",
+          "text": "Oblik CP naizmjence mijenja MF i DF u intervalima od po jedne sekunde"
+        },
+        {
+          "id": "d",
+          "text": "Oblik LP primjenjuje se isključivo u akutnoj fazi ozljede"
+        },
+        {
+          "id": "e",
+          "text": "Dijadinamske struje nemaju galvansku komponentu, pa vlažni podlošci nisu potrebni"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c"
+      ],
+      "explanation": "DF (100 Hz) djeluje snažno analgetski, ali brzo izaziva akomodaciju, MF (50 Hz) podražuje mišić, a CP izmjenjuje oba oblika svake sekunde. LP ima najdugotrajniji analgetski učinak i bira se kod kroničnih stanja, a sve dijadinamske struje imaju galvansku komponentu, pa su vlažni podlošci obvezni.",
+      "tags": [
+        "dijadinamske struje"
+      ]
+    },
+    {
+      "id": "ft-005",
+      "lesson_id": "elektroterapija",
+      "type": "true_false",
+      "difficulty": 1,
+      "text": "Postupak s dijadinamskim strujama obično se započinje oblikom DF u trajanju od 1 do 2 minute.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "t"
+      ],
+      "explanation": "DF djeluje izrazito analgetski, ali se organizam na njega brzo privikava, pa se primjenjuje kratko na početku postupka kao priprema tkiva, nakon čega slijede drugi oblici.",
+      "tags": [
+        "dijadinamske struje"
+      ]
+    },
+    {
+      "id": "ft-006",
+      "lesson_id": "elektroterapija",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Što je obilježje konvencionalnog TENS-a?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Visoka frekvencija (oko 50 do 100 Hz) i nizak intenzitet, bez mišićnih kontrakcija"
+        },
+        {
+          "id": "b",
+          "text": "Niska frekvencija (oko 2 do 4 Hz) i visok intenzitet s vidljivim mišićnim trzajima"
+        },
+        {
+          "id": "c",
+          "text": "Dvije srednjefrekventne struje od oko 4000 Hz koje se križaju u tkivu"
+        },
+        {
+          "id": "d",
+          "text": "Istosmjerna struja stalne jakosti s analgetskim učinkom ispod anode"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Konvencionalni TENS djeluje preko teorije nadzora prolaza boli: visoka frekvencija i nizak intenzitet daju brzu, ali kratkotrajnu analgeziju bez kontrakcija. Niska frekvencija i visok intenzitet obilježja su akupunkturnog TENS-a, križanje srednjefrekventnih struja obilježje je interferentnih struja, a istosmjerna struja obilježje galvanizacije.",
+      "tags": [
+        "tens",
+        "analgezija"
+      ]
+    },
+    {
+      "id": "ft-007",
+      "lesson_id": "elektroterapija",
+      "type": "single",
+      "difficulty": 3,
+      "text": "Dvije srednjefrekventne struje od 4000 Hz i 4100 Hz križaju se u tkivu. Koja terapijska frekvencija nastaje u području interferencije?",
+      "options": [
+        {
+          "id": "a",
+          "text": "100 Hz"
+        },
+        {
+          "id": "b",
+          "text": "4050 Hz"
+        },
+        {
+          "id": "c",
+          "text": "8100 Hz"
+        },
+        {
+          "id": "d",
+          "text": "50 Hz"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Interferencijom u dubini tkiva nastaje niskofrekventna struja čija frekvencija odgovara razlici ulaznih frekvencija: 4100 Hz manje 4000 Hz daje 100 Hz, što je područje analgetskog djelovanja.",
+      "tags": [
+        "interferentne struje"
+      ]
+    },
+    {
+      "id": "ft-008",
+      "lesson_id": "elektroterapija",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Koji se oblik impulsa koristi za elektrostimulaciju denerviranog mišića?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Eksponencijalni (trokutasti) impulsi dugog trajanja, od 100 do 1000 ms"
+        },
+        {
+          "id": "b",
+          "text": "Kratki pravokutni impulsi od 0,1 do 1 ms u nizovima frekvencije 30 do 50 Hz"
+        },
+        {
+          "id": "c",
+          "text": "Srednjefrekventna struja od 4000 Hz s vakuumskim elektrodama"
+        },
+        {
+          "id": "d",
+          "text": "Kontinuirana galvanska struja bez impulsa"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Kod denerviranog mišića podražuje se izravno mišićno vlakno, kojemu treba dug podražaj; sporo rastući eksponencijalni impulsi ujedno su selektivni jer se inervirani mišić, odnosno njegov motorički živac, na njih akomodira, a denervirana vlakna tu sposobnost gube. Kratki impulsi u nizovima koriste se za inervirani mišić (NMES).",
+      "tags": [
+        "elektrostimulacija"
+      ]
+    },
+    {
+      "id": "ft-009",
+      "lesson_id": "elektroterapija",
+      "type": "true_false",
+      "difficulty": 3,
+      "text": "Kod denerviranog mišića kronaksija se skraćuje.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "f"
+      ],
+      "explanation": "Kronaksija je najkraće trajanje impulsa koje izaziva kontrakciju pri jakosti dvostruke reobaze. Denervirani mišić zahtijeva dulje impulse, pa se kronaksija produljuje, a I/t krivulja pomiče udesno.",
+      "tags": [
+        "elektrodijagnostika",
+        "elektrostimulacija"
+      ]
+    },
+    {
+      "id": "ft-010",
+      "lesson_id": "termoterapija-i-krioterapija",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Koji način prijenosa topline omogućuje dubinsko zagrijavanje mišića i zglobova?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Konverzija (pretvorba), kao kod ultrazvuka i kratkovalne dijatermije"
+        },
+        {
+          "id": "b",
+          "text": "Kondukcija (vođenje), kao kod parafina"
+        },
+        {
+          "id": "c",
+          "text": "Konvekcija (strujanje), kao kod tople kupke"
+        },
+        {
+          "id": "d",
+          "text": "Radijacija (zračenje), kao kod infracrvene lampe"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Kondukcija, konvekcija i radijacija zagrijavaju tkivo s površine, do dubine od oko jednog centimetra. Samo konverzija, pri kojoj se druga vrsta energije pretvara u toplinu unutar samog tkiva, zagrijava dubinski.",
+      "tags": [
+        "termoterapija",
+        "prijenos topline"
+      ]
+    },
+    {
+      "id": "ft-011",
+      "lesson_id": "termoterapija-i-krioterapija",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Koji su fiziološki učinci lokalne primjene topline?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vazodilatacija i povećan protok krvi"
+        },
+        {
+          "id": "b",
+          "text": "Povećana rastezljivost vezivnog tkiva (kolagena)"
+        },
+        {
+          "id": "c",
+          "text": "Smanjenje mišićnog spazma"
+        },
+        {
+          "id": "d",
+          "text": "Smanjenje metabolizma stanica"
+        },
+        {
+          "id": "e",
+          "text": "Usporeno provođenje živčanih impulsa"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c"
+      ],
+      "explanation": "Toplina širi krvne žile, ubrzava metabolizam, povećava rastezljivost kolagena, smanjuje spazam i podiže prag boli. Smanjen metabolizam i usporeno provođenje živčanih impulsa učinci su hlađenja, a ne zagrijavanja.",
+      "tags": [
+        "termoterapija"
+      ]
+    },
+    {
+      "id": "ft-012",
+      "lesson_id": "termoterapija-i-krioterapija",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Zašto se parafin dobro podnosi na temperaturi na kojoj bi voda izazvala opeklinu?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jer ima nisku toplinsku vodljivost i malu specifičnu toplinu, pa toplinu predaje sporo i ravnomjerno"
+        },
+        {
+          "id": "b",
+          "text": "Jer sadrži lokalni anestetik koji smanjuje osjet topline"
+        },
+        {
+          "id": "c",
+          "text": "Jer mu je temperatura u kadi zapravo niža od temperature tople vode"
+        },
+        {
+          "id": "d",
+          "text": "Jer brzo isparava s kože i time je hladi"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Parafin ima nisku toplinsku vodljivost i malu specifičnu toplinu, a prvi sloj na koži brzo se skrutne i stvara izolacijski omotač, pa se toplina predaje sporo. Zato se podnosi na temperaturi iznad tališta, koja je viša od one koju bi koža podnijela u vodi.",
+      "tags": [
+        "parafin"
+      ]
+    },
+    {
+      "id": "ft-013",
+      "lesson_id": "termoterapija-i-krioterapija",
+      "type": "true_false",
+      "difficulty": 1,
+      "text": "Parafin je agens izbora u akutnoj fazi reumatoidnog artritisa.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "f"
+      ],
+      "explanation": "Parafin je toplinski postupak, a toplina u akutnoj upali pojačava oteklinu i bol; primjenjuje se u kroničnoj fazi reumatoidnog artritisa, kod kontraktura i ukočenosti malih zglobova.",
+      "tags": [
+        "parafin",
+        "kontraindikacije"
+      ]
+    },
+    {
+      "id": "ft-014",
+      "lesson_id": "termoterapija-i-krioterapija",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Koje su mjere opreza pri primjeni toplog obloga iz hidrokolatora?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Oblog se umata u više slojeva frotirnog ručnika"
+        },
+        {
+          "id": "b",
+          "text": "Bolesnik ne smije ležati na oblogu"
+        },
+        {
+          "id": "c",
+          "text": "Koža se pregledava tijekom i nakon postupka"
+        },
+        {
+          "id": "d",
+          "text": "Oblog se primjenjuje 60 minuta kako bi učinak bio jači"
+        },
+        {
+          "id": "e",
+          "text": "Oblog se stavlja izravno na kožu radi boljeg prijenosa topline"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c"
+      ],
+      "explanation": "Oblog se grije u vodi temperature oko 70 °C, pa se umata u šest do osam slojeva ručnika i ne stavlja izravno na kožu; bolesnik ne leži na oblogu jer pritisak smanjuje cirkulaciju i povećava opasnost od opekline. Primjena traje 20 do 30 minuta, a koža se pregledava tijekom i nakon postupka.",
+      "tags": [
+        "topli oblozi"
+      ]
+    },
+    {
+      "id": "ft-015",
+      "lesson_id": "termoterapija-i-krioterapija",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Što je od navedenog učinak hlađenja tkiva?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Usporeno provođenje živčanih impulsa i analgezija"
+        },
+        {
+          "id": "b",
+          "text": "Povećana rastezljivost kolagena"
+        },
+        {
+          "id": "c",
+          "text": "Ubrzan metabolizam stanica"
+        },
+        {
+          "id": "d",
+          "text": "Vazodilatacija već u prvim minutama primjene"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Hladnoća usporava provođenje živčanih impulsa i smanjuje podražljivost receptora za bol, pa djeluje analgetski; ujedno sužava krvne žile i smanjuje metabolizam. Vazodilatacija (Lewisova reakcija) javlja se tek nakon duljeg hlađenja, a povećana rastezljivost kolagena učinak je topline.",
+      "tags": [
+        "krioterapija"
+      ]
+    },
+    {
+      "id": "ft-016",
+      "lesson_id": "termoterapija-i-krioterapija",
+      "type": "multiple",
+      "difficulty": 3,
+      "text": "Koja su od navedenih stanja kontraindikacije za krioterapiju?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Raynaudova bolest"
+        },
+        {
+          "id": "b",
+          "text": "Hladna urtikarija"
+        },
+        {
+          "id": "c",
+          "text": "Krioglobulinemija"
+        },
+        {
+          "id": "d",
+          "text": "Akutna distorzija gležnja"
+        },
+        {
+          "id": "e",
+          "text": "Spastičnost"
+        },
+        {
+          "id": "f",
+          "text": "Akutni burzitis"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c"
+      ],
+      "explanation": "Kod Raynaudove bolesti, hladne urtikarije i krioglobulinemije hladnoća izaziva vazospazam, alergijsku reakciju kože ili taloženje bjelančevina u krvi. Akutna distorzija, akutni burzitis i spastičnost indikacije su za krioterapiju.",
+      "tags": [
+        "krioterapija",
+        "kontraindikacije"
+      ]
+    },
+    {
+      "id": "ft-017",
+      "lesson_id": "ultrazvuk-fototerapija-i-magnetoterapija",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Zašto je pri primjeni ultrazvuka obvezan kontaktni medij (gel ili voda)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jer sloj zraka između sonde i kože gotovo potpuno reflektira ultrazvučne valove"
+        },
+        {
+          "id": "b",
+          "text": "Jer gel udvostručuje toplinski učinak ultrazvuka"
+        },
+        {
+          "id": "c",
+          "text": "Jer gel sprječava elektrolizu ispod sonde"
+        },
+        {
+          "id": "d",
+          "text": "Jer gel štiti kožu od toplinskog učinka sonde"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Ultrazvuk se kroz zrak prenosi vrlo slabo, a na granici zraka i kože zbog velike razlike akustičke impedancije gotovo se potpuno reflektira, pa bez gela, vode ili ulja energija ne ulazi u tkivo. Elektroliza je pojava kod istosmjerne struje, a ne kod ultrazvuka.",
+      "tags": [
+        "ultrazvuk",
+        "kontaktni medij"
+      ]
+    },
+    {
+      "id": "ft-018",
+      "lesson_id": "ultrazvuk-fototerapija-i-magnetoterapija",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Za liječenje površinske tetive, primjerice kod epikondilitisa, prikladniji je ultrazvuk frekvencije:",
+      "options": [
+        {
+          "id": "a",
+          "text": "3 MHz, jer se jače apsorbira i djeluje do dubine od 1 do 2 cm"
+        },
+        {
+          "id": "b",
+          "text": "1 MHz, jer prodire do dubine od oko 5 cm"
+        },
+        {
+          "id": "c",
+          "text": "20 kHz, jer je na granici čujnosti"
+        },
+        {
+          "id": "d",
+          "text": "4000 Hz, jer prolazi kroz kožu uz malen otpor"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Što je frekvencija viša, apsorpcija je jača, a prodiranje pliće: 3 MHz djeluje površinski, do 1 do 2 cm, pa je prikladan za površinske tetive i ligamente, dok se 1 MHz bira za dublje strukture. 20 kHz je granica čujnosti, a 4000 Hz frekvencija interferentnih struja.",
+      "tags": [
+        "ultrazvuk"
+      ]
+    },
+    {
+      "id": "ft-019",
+      "lesson_id": "ultrazvuk-fototerapija-i-magnetoterapija",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Koji način ultrazvučne terapije treba odabrati kod akutnog stanja s oteklinom?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pulsni način niske jakosti, jer daje netoplinske učinke uz malo zagrijavanja"
+        },
+        {
+          "id": "b",
+          "text": "Kontinuirani način visoke jakosti, jer jače zagrijava tkivo"
+        },
+        {
+          "id": "c",
+          "text": "Kontinuirani način sa sondom koja miruje na najbolnijem mjestu"
+        },
+        {
+          "id": "d",
+          "text": "Subakvalnu metodu, jer voda hladi tkivo i poništava učinak"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "U pulsnom načinu tkivo se između impulsa hladi, pa prevladavaju netoplinski učinci (mikromasaža, poticanje mikrocirkulacije i resorpcije otekline) koji su poželjni u akutnoj fazi. Kontinuirani način i visoka jakost zagrijavaju tkivo i biraju se kod kroničnih stanja, a sonda se uvijek pomiče.",
+      "tags": [
+        "ultrazvuk",
+        "doziranje"
+      ]
+    },
+    {
+      "id": "ft-020",
+      "lesson_id": "ultrazvuk-fototerapija-i-magnetoterapija",
+      "type": "true_false",
+      "difficulty": 1,
+      "text": "Oštra periostalna bol tijekom primjene ultrazvuka znak je da je doza prejaka ili da sonda miruje na jednom mjestu.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "t"
+      ],
+      "explanation": "Na granici mekog tkiva i kosti dio se energije reflektira i apsorbira u pokosnici; pri prejakoj dozi ili nepomičnoj sondi nastaju vruće točke i periostalna bol, pa jakost treba odmah smanjiti.",
+      "tags": [
+        "ultrazvuk",
+        "doziranje"
+      ]
+    },
+    {
+      "id": "ft-021",
+      "lesson_id": "ultrazvuk-fototerapija-i-magnetoterapija",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Koje su tvrdnje o terapijskom laseru točne?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Laserska svjetlost je monokromatska i koherentna"
+        },
+        {
+          "id": "b",
+          "text": "Niskoenergetski laser djeluje fotobiostimulacijom, a ne zagrijavanjem tkiva"
+        },
+        {
+          "id": "c",
+          "text": "Bolesnik i terapeut tijekom primjene nose zaštitne naočale"
+        },
+        {
+          "id": "d",
+          "text": "Crveni laser prodire u tkivo dublje od infracrvenog"
+        },
+        {
+          "id": "e",
+          "text": "Doza lasera izražava se u militeslama (mT)"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c"
+      ],
+      "explanation": "Laser daje monokromatsku, koherentnu i usmjerenu svjetlost, a niskoenergetski laser potiče stanični metabolizam bez zagrijavanja; zaštita očiju je obvezna jer zraka može oštetiti mrežnicu. Infracrveni laser prodire dublje od crvenoga, a doza se izražava u J/cm², dok su militesle jedinica jakosti magnetskog polja.",
+      "tags": [
+        "laser"
+      ]
+    },
+    {
+      "id": "ft-022",
+      "lesson_id": "ultrazvuk-fototerapija-i-magnetoterapija",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Koji dio ultraljubičastog spektra ima baktericidni učinak i koristi se kod inficiranih rana?",
+      "options": [
+        {
+          "id": "a",
+          "text": "UVC (100 do 280 nm)"
+        },
+        {
+          "id": "b",
+          "text": "UVA (320 do 400 nm)"
+        },
+        {
+          "id": "c",
+          "text": "UVB (280 do 320 nm)"
+        },
+        {
+          "id": "d",
+          "text": "Infracrveno zračenje (iznad 760 nm)"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "UVC ima najkraću valnu duljinu i baktericidno djelovanje, pa se koristi za dezinfekciju i liječenje inficiranih rana. UVA izaziva pigmentaciju, UVB eritem i sintezu vitamina D, a infracrveno zračenje nije ultraljubičasto, nego toplinsko.",
+      "tags": [
+        "uv zračenje",
+        "fototerapija"
+      ]
+    },
+    {
+      "id": "ft-023",
+      "lesson_id": "ultrazvuk-fototerapija-i-magnetoterapija",
+      "type": "single",
+      "difficulty": 3,
+      "text": "Što je minimalna eritemska doza (MED)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Najmanja doza UV zračenja koja na koži bolesnika nakon 24 sata izaziva jedva vidljivo crvenilo"
+        },
+        {
+          "id": "b",
+          "text": "Najveća doza UV zračenja koju koža podnosi bez opekline"
+        },
+        {
+          "id": "c",
+          "text": "Doza infracrvenog zračenja koja u 10 minuta izazove hiperemiju kože"
+        },
+        {
+          "id": "d",
+          "text": "Standardna doza od 1 J/cm², jednaka za sve bolesnike"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "MED se određuje probnim zračenjem malih polja kože različitim vremenom izlaganja i očitava nakon 24 sata; terapijske doze zatim se izražavaju kao višekratnici MED-a. Osjetljivost kože je individualna, pa ne postoji standardna doza jednaka za sve.",
+      "tags": [
+        "uv zračenje",
+        "doziranje"
+      ]
+    },
+    {
+      "id": "ft-024",
+      "lesson_id": "ultrazvuk-fototerapija-i-magnetoterapija",
+      "type": "true_false",
+      "difficulty": 1,
+      "text": "Pulsirajuće elektromagnetsko polje niske frekvencije prolazi kroz sadreni zavoj, pa se magnetoterapija može primijeniti i preko imobilizacije.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "t"
+      ],
+      "explanation": "Magnetsko polje prolazi kroz odjeću, zavoje i sadreni zavoj jednako kao kroz tkivo, što je važna prednost kod liječenja prijeloma s usporenim cijeljenjem.",
+      "tags": [
+        "magnetoterapija"
+      ]
+    },
+    {
+      "id": "ft-025",
+      "lesson_id": "hidroterapija-balneoterapija-i-nacela-primjene",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Koje svojstvo vode omogućuje rasterećenje bolnih zglobova i olakšan pokret oslabljenih mišića?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Uzgon"
+        },
+        {
+          "id": "b",
+          "text": "Viskoznost"
+        },
+        {
+          "id": "c",
+          "text": "Hidrostatski tlak"
+        },
+        {
+          "id": "d",
+          "text": "Toplinska vodljivost"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Uzgon (Arhimedov zakon) smanjuje prividnu težinu tijela, pa se zglobovi rasterećuju, a oslabljeni mišići lakše pokreću ud. Viskoznost pruža otpor pokretu, hidrostatski tlak potiče venski povrat, a toplinska vodljivost određuje jačinu toplinskog podražaja.",
+      "tags": [
+        "hidroterapija"
+      ]
+    },
+    {
+      "id": "ft-026",
+      "lesson_id": "hidroterapija-balneoterapija-i-nacela-primjene",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Indiferentna (neutralna) temperatura vode, pri kojoj bolesnik ne osjeća ni toplo ni hladno, iznosi oko:",
+      "options": [
+        {
+          "id": "a",
+          "text": "34 do 35 °C"
+        },
+        {
+          "id": "b",
+          "text": "20 do 22 °C"
+        },
+        {
+          "id": "c",
+          "text": "40 do 42 °C"
+        },
+        {
+          "id": "d",
+          "text": "28 do 30 °C"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Pri oko 34 do 35 °C tijelo niti prima niti gubi toplinu, pa se takve kupke koriste za opuštanje i vježbanje. Voda ispod 20 °C je hladna, a iznad 38 °C vruća.",
+      "tags": [
+        "hidroterapija",
+        "temperatura"
+      ]
+    },
+    {
+      "id": "ft-027",
+      "lesson_id": "hidroterapija-balneoterapija-i-nacela-primjene",
+      "type": "true_false",
+      "difficulty": 1,
+      "text": "Termalnom se smatra voda čija je temperatura na izvoru viša od 20 °C.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "t"
+      ],
+      "explanation": "Granica za termalnu vodu je temperatura na izvoru viša od 20 °C, dok se mineralnom smatra voda s povećanom količinom otopljenih mineralnih tvari ili posebno djelatnim sastojcima poput sumpora, radona ili ugljikova dioksida.",
+      "tags": [
+        "balneoterapija"
+      ]
+    },
+    {
+      "id": "ft-028",
+      "lesson_id": "hidroterapija-balneoterapija-i-nacela-primjene",
+      "type": "multiple",
+      "difficulty": 3,
+      "text": "Koji su postupci kontraindicirani u bolesnika s ugrađenim elektrostimulatorom srca?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Interferentne struje"
+        },
+        {
+          "id": "b",
+          "text": "Magnetoterapija"
+        },
+        {
+          "id": "c",
+          "text": "TENS"
+        },
+        {
+          "id": "d",
+          "text": "Parafinske obloge na šake"
+        },
+        {
+          "id": "e",
+          "text": "Hladni oblog na koljeno"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c"
+      ],
+      "explanation": "Električna struja i elektromagnetska polja mogu poremetiti rad elektrostimulatora srca, pa su elektroterapija (TENS, interferentne, dijadinamske i galvanske struje), magnetoterapija i dijatermija kontraindicirane. Parafin i hladni oblog toplinski su postupci bez električnog polja i mogu se primijeniti na udove.",
+      "tags": [
+        "kontraindikacije",
+        "elektrostimulator srca"
+      ]
+    },
+    {
+      "id": "ft-029",
+      "lesson_id": "hidroterapija-balneoterapija-i-nacela-primjene",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Zašto je poremećaj osjeta kontraindikacija za toplinske i električne postupke?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jer bolesnik ne može upozoriti na prejak podražaj, pa lako nastane opeklina"
+        },
+        {
+          "id": "b",
+          "text": "Jer se agens u području oštećenog osjeta ne apsorbira u tkivo"
+        },
+        {
+          "id": "c",
+          "text": "Jer poremećaj osjeta pojačava krvarenje u tkivu"
+        },
+        {
+          "id": "d",
+          "text": "Jer bi se postupkom trajno pogoršao poremećaj osjeta"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Subjektivni osjet bolesnika glavni je vodič doziranja; kad osjet za toplo, hladno i bol nedostaje, bolesnik ne prijavljuje prejak podražaj i toplinski ili električni postupak lako izazove opeklinu. Zato ispitivanje osjeta prethodi prvoj primjeni.",
+      "tags": [
+        "kontraindikacije",
+        "poremećaj osjeta"
+      ]
+    },
+    {
+      "id": "ft-030",
+      "lesson_id": "hidroterapija-balneoterapija-i-nacela-primjene",
+      "type": "single",
+      "difficulty": 3,
+      "text": "Što kaže Arndt-Schulzovo pravilo o odnosu jakosti podražaja i odgovora organizma?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Slabi podražaji potiču fiziološku aktivnost, srednje jaki je pojačavaju, jaki koče, a vrlo jaki ukidaju"
+        },
+        {
+          "id": "b",
+          "text": "Učinak raste proporcionalno jakosti podražaja bez gornje granice"
+        },
+        {
+          "id": "c",
+          "text": "Terapijski učinak imaju samo podražaji koje bolesnik osjeća kao bolne"
+        },
+        {
+          "id": "d",
+          "text": "Jakost podražaja nije važna, odgovor ovisi samo o trajanju primjene"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Prema Arndt-Schulzovu pravilu odgovor nije proporcionalan jakosti: slabi i srednje jaki podražaji potiču, a jaki koče i vrlo jaki ukidaju fiziološku aktivnost. Zato se traži najmanja doza koja daje terapijski odgovor, a ne najveća koju bolesnik podnosi.",
+      "tags": [
+        "doziranje"
+      ]
+    }
+  ]
+}

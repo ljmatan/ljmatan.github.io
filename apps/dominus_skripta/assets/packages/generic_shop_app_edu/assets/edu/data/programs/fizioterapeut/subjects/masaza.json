@@ -1,0 +1,1295 @@
+{
+  "id": "masaza",
+  "program_id": "fizioterapeut",
+  "title": "Masaža",
+  "short_title": "Masaža",
+  "description": "Vrste i povijest masaže, pet osnovnih hvatova klasične masaže i njihov redoslijed, fiziološki učinci, indikacije i kontraindikacije te osnove limfne drenaže, sportske masaže, masaže vezivnog tkiva i segmentne masaže.",
+  "color": "#8B5CF6",
+  "icon": "spa",
+  "year": 2,
+  "lessons": [
+    {
+      "id": "uvod-u-masazu",
+      "title": "Uvod u masažu: definicija, povijest i vrste",
+      "summary": "Lekcija definira masažu, prikazuje njezinu povijest i podjelu te opisuje higijenske uvjete, pripremu prostora, sredstva za masažu i položaj pacijenta.",
+      "estimated_minutes": 10,
+      "sections": [
+        {
+          "heading": "Što je masaža",
+          "body": "Masaža je skup mehaničkih postupaka, odnosno hvatova, koji se rukama ili pomagalima izvode na površini tijela radi liječenja, sprječavanja bolesti, ubrzavanja oporavka i opuštanja. Riječ masaža najčešće se tumači grčkom riječi massein (gnječiti) i arapskom riječi mass (dodirivati). Masaža je pasivan postupak: pacijent miruje, a sav rad obavlja terapeut. Zbog toga masaža ne zamjenjuje aktivno vježbanje, nego ga nadopunjuje, osobito u pripremi tkiva za kineziterapiju.\n\nHvatovi djeluju na tkivo dvojako. Mehanički učinak nastaje izravnim pritiskom, rastezanjem i pomicanjem kože, potkožja i mišića, čime se potiskuju venska krv i limfa, razdvajaju priraslice i smanjuje napetost. Refleksni učinak nastaje podražajem receptora u koži i dubljim tkivima, a preko živčanog sustava odražava se na krvne žile, mišiće, unutarnje organe i opće stanje pacijenta. Obje su sastavnice uvijek prisutne, no ovisno o tehnici prevladava jedna od njih.\n\nU fizioterapiji masaža je dio fizikalne terapije i izvodi se prema indikaciji liječnika, nakon procjene stanja pacijenta. Terapeut mora dobro poznavati anatomiju, osobito položaj mišića, krvnih žila, živaca i limfnih čvorova, jer o tome ovise smjer i snaga hvatova. Zapamtite da je masaža medicinski postupak s jasnim indikacijama i kontraindikacijama, a ne samo ugodno iskustvo za pacijenta."
+        },
+        {
+          "heading": "Povijest masaže",
+          "body": "Masaža je jedan od najstarijih načina liječenja. Opisi trljanja i pritiskanja tijela nalaze se u drevnim kineskim i indijskim medicinskim spisima, a prizori masaže sačuvani su i u egipatskim grobnicama. U staroj Grčkoj Hipokrat (5. i 4. stoljeće prije Krista) preporučivao je trljanje (anatripsis) i zapisao da liječnik mora biti vješt u mnogim stvarima, a svakako u trljanju. Galen, najpoznatiji liječnik rimskog doba, propisivao je masažu gladijatorima prije i poslije vježbanja.\n\nU srednjem je vijeku znanje o masaži u Europi uglavnom bilo zapostavljeno, ali su ga sačuvali arapski liječnici, među kojima je najpoznatiji Avicena (Ibn Sina) sa svojim Kanonom medicine. Suvremeni razvoj počinje u 19. stoljeću. Šveđanin Per Henrik Ling (1776. – 1839.) utemeljio je sustav švedske gimnastike koji je povezivao vježbe i hvatove masaže, pa se klasična masaža i danas često naziva švedskom. Nizozemski liječnik Johann Georg Mezger uveo je francuske nazive hvatova (efleraža, petrisaža, frikcija, tapotman) koji su ostali u uporabi do danas.\n\nU 20. stoljeću nastale su posebne tehnike: njemačka fizioterapeutkinja Elisabeth Dicke razvila je masažu vezivnog tkiva (1929.), Danac Emil Vodder sa suprugom Estrid manualnu limfnu drenažu (tridesetih godina), a britanski liječnik James Cyriax duboku poprečnu frikciju za liječenje tetiva i ligamenata. Danas se učinci masaže proučavaju znanstvenim metodama, a njezina se primjena temelji na dokazima i na jasnim pravilima sigurnosti.",
+          "image": {
+            "file": "masaza/natpis-masaza.jpg",
+            "caption": "Stari emajlirani reklamni natpis nizozemske prakse za medicinsku gimnastiku i masažu (Heilgymnastiek – Massage).",
+            "credits": [
+              {
+                "title": "Enamel advertising sign, Heilgymnastiek, Massage, Joh L Dreijer, Langcat Bussum",
+                "author": "Alf van Beem",
+                "source": "https://commons.wikimedia.org/wiki/File:Enamel_advertising_sign,_Heilgymnastiek,_Massage,_Joh_L_Dreijer,_Langcat_Bussum.JPG",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Podjela masaže",
+          "body": "Masaža se dijeli prema nekoliko kriterija, a isti se postupak može svrstati u više skupina. Prema svrsi (namjeni) razlikujemo ljekovitu (terapijsku) masažu koja se primjenjuje kod bolesti i ozljeda, sportsku masažu koja prati trening i natjecanje, higijensku (preventivnu, relaksacijsku) masažu kojoj je cilj održavanje zdravlja i opuštanje te kozmetičku masažu lica i tijela.\n\nPrema načinu izvođenja masaža može biti ručna (manualna), koju terapeut izvodi vlastitim rukama, i aparaturna, pri kojoj se upotrebljavaju uređaji, na primjer vibracijska, vakuumska ili podvodna masaža mlazom vode. Prema opsegu razlikujemo opću masažu cijelog tijela i djelomičnu (parcijalnu) masažu pojedinog dijela, na primjer leđa ili jednog uda. Opća masaža traje znatno dulje i veće je opterećenje za pacijenta, pa se u terapiji češće izvodi djelomična masaža.\n\nPrema tehnici razlikujemo klasičnu (švedsku) masažu s pet osnovnih hvatova, refleksne masaže koje preko živčanog sustava djeluju na udaljena područja i organe (masaža vezivnog tkiva, segmentna masaža, refleksna masaža stopala), manualnu limfnu drenažu te tehnike iz istočnjačke tradicije poput shiatsua i tuine. U ovom je predmetu težište na klasičnoj masaži, uz osnove limfne drenaže, sportske masaže, masaže vezivnog tkiva i segmentne masaže.",
+          "bullets": [
+            "Prema svrsi: ljekovita (terapijska), sportska, higijenska (relaksacijska), kozmetička",
+            "Prema načinu izvođenja: ručna (manualna) i aparaturna (vibracijska, vakuumska, podvodna)",
+            "Prema opsegu: opća (cijelo tijelo) i djelomična (parcijalna)",
+            "Prema tehnici: klasična (švedska), refleksne masaže, manualna limfna drenaža, istočnjačke tehnike"
+          ]
+        },
+        {
+          "heading": "Higijena, prostor i sredstva za masažu",
+          "body": "Masaža se izvodi u mirnoj, čistoj i dobro prozračenoj prostoriji bez propuha, ugodno zagrijanoj, toplijoj od uobičajene sobne temperature, jer se pacijent masira razodjeven, a hladnoća izaziva napetost mišića. Svjetlo je prigušeno, a buka svedena na najmanju mjeru. Masažni stol mora biti stabilan, prikladno obložen i prilagođen visini terapeuta, približno do zglobova šake spuštenih ruku, kako bi terapeut radio uspravnih leđa i snagu hvata postizao prijenosom težine tijela, a ne samo snagom ruku.\n\nHigijenske mjere štite i pacijenta i terapeuta. Terapeut prije i nakon svake masaže pere i dezinficira ruke, nokti su kratko podrezani, a prstenje, sat i narukvice skidaju se jer mogu ozlijediti kožu i prenositi uzročnike bolesti. Ruke moraju biti tople i suhe. Za svakog se pacijenta rabe čista plahta i ručnik, a stol se nakon upotrebe dezinficira. Rukavice se ne nose rutinski, nego samo kada postoji opasnost od prijenosa infekcije, na primjer kod oštećene kože na rukama terapeuta.\n\nSredstva za masažu (ulja, kreme, losioni, puder) imaju jednu glavnu svrhu: smanjiti trenje između ruke i kože kako bi ruka klizila glatko, bez čupanja dlaka i nadraživanja kože. Rabe se u umjerenoj količini, jer previše ulja onemogućuje dobar hvat tkiva pri gnječenju. Pojedine se tehnike izvode namjerno bez sredstava: trenje (frikcija), masaža vezivnog tkiva, segmentna masaža i manualna limfna drenaža zahtijevaju da ruka zahvati kožu, a ne da klizi po njoj. Prije prve primjene provjerite ima li pacijent alergiju na sastojke pripravka."
+        },
+        {
+          "heading": "Položaj pacijenta i terapeuta",
+          "body": "Osnovno je pravilo da dio tijela koji se masira mora biti potpuno opušten i dobro poduprt, a mišići u srednjem, lagano skraćenom položaju. Pacijent je razodjeven samo onoliko koliko je potrebno, a ostatak tijela pokriven je plahtom ili ručnikom radi topline i dostojanstva. Prije masaže terapeut uzima kratku anamnezu, pregledava i opipava kožu i tkivo te isključuje kontraindikacije. Pacijent prije masaže isprazni mokraćni mjehur, a masaža se ne izvodi neposredno nakon obilnog obroka.\n\nZa masažu leđa pacijent leži potrbuške (u potrbušnom, proniranom položaju), s glavom okrenutom u stranu ili smještenom u otvor stola, rukama uz tijelo i jastukom ili valjkom ispod gležnjeva. Valjak ispod gležnjeva opušta mišiće lista i stražnje strane nogu te rasterećuje slabinski (lumbalni) dio kralježnice. Prema potrebi manji jastuk stavlja se ispod trbuha, čime se smanjuje slabinska lordoza. Za masažu prednje strane tijela pacijent leži na leđima (u leđnom, supiniranom položaju) s jastukom ispod koljena, što opušta trbušnu stijenku i rasterećuje križa, te s manjim jastukom ispod glave.\n\nMasaža vrata i ramenog obruča može se izvoditi i u sjedećem položaju, s podlakticama oslonjenima na stol i čelom na jastuku. Terapeut stoji ili sjedi uz stol u stabilnom stavu, s lagano savijenim koljenima, uspravnih leđa i opuštenih ramena. Snaga hvata postiže se prijenosom težine tijela, a ne stiskanjem ruke. Tijekom masaže terapeut prati reakcije pacijenta, pita o boli i nelagodi te prilagođava pritisak; masaža nikada ne smije izazvati jaku bol."
+        }
+      ],
+      "key_points": [
+        "Masaža je skup mehaničkih hvatova s mehaničkim i refleksnim učinkom; pasivan je postupak i ne zamjenjuje aktivno vježbanje.",
+        "Ling je utemeljio švedsku gimnastiku, Mezger je uveo francuske nazive hvatova, a Dicke, Vodder i Cyriax autori su posebnih tehnika 20. stoljeća.",
+        "Masaža se dijeli prema svrsi, načinu izvođenja, opsegu i tehnici.",
+        "Higijena: oprane ruke, kratki nokti, bez nakita, čista plahta za svakog pacijenta, topla prostorija bez propuha.",
+        "Sredstva za masažu smanjuju trenje; trenje, masaža vezivnog tkiva, segmentna masaža i manualna limfna drenaža izvode se bez njih.",
+        "Dio tijela koji se masira mora biti opušten i poduprt: valjak ispod gležnjeva u potrbušnom, jastuk ispod koljena u leđnom položaju."
+      ]
+    },
+    {
+      "id": "hvatovi-klasicne-masaze",
+      "title": "Osnovni hvatovi klasične (švedske) masaže",
+      "summary": "Pet osnovnih hvatova klasične masaže, način njihova izvođenja i učinci te pravila redoslijeda, smjera i doziranja.",
+      "estimated_minutes": 12,
+      "sections": [
+        {
+          "heading": "Glađenje (efleraža)",
+          "body": "Glađenje (efleraža, franc. effleurer – lagano dodirnuti) jest hvat kojim svaka masaža počinje i završava te kojim se povezuju svi ostali hvatovi. Izvodi se cijelim dlanom s ispruženim, blago priljubljenim prstima, jednom rukom ili objema rukama, a na manjim područjima samo vrhovima prstiju ili palcem. Ruka klizi po koži ravnomjernom brzinom, uvijek u smjeru prema srcu (centripetalno), odnosno u smjeru venskog i limfnog otjecanja, a vraća se bez pritiska. Pritisak je stalan tijekom cijelog poteza i ne smije se naglo prekidati.\n\nRazlikujemo površinsko i duboko glađenje. Površinsko glađenje izvodi se laganim pritiskom, djeluje prije svega na kožu i receptore u njoj te umiruje: pacijent se navikava na dodir terapeuta, a sredstvo za masažu ravnomjerno se raspoređuje. Duboko glađenje izvodi se jačim pritiskom, dlanom ili korijenom dlana, i mehanički potiskuje vensku krv i limfu prema srcu, pa je važno kod otoka i zastoja cirkulacije. Na udovima se potezi izvode od distalnog prema proksimalnom dijelu, a na leđima uzduž mišića uz kralježnicu, od križa prema vratu i ramenima.\n\nGlađenje je i dijagnostički hvat: dok ruka klizi, terapeut opipava temperaturu kože, napetost i bolna mjesta te prema tome prilagođava daljnju masažu. Ono je ujedno najblaži hvat, pa se primjenjuje i kada su drugi hvatovi preteški za pacijenta, na primjer kod osjetljivog tkiva, te u završnoj fazi masaže radi smirivanja. U terapijskoj se masaži izvodi polagano i ritmično, jer brzo i isprekidano glađenje podražuje umjesto da umiruje; brzo se glađenje namjerno rabi samo kada je cilj podražaj, na primjer u pripremnoj sportskoj masaži.",
+          "bullets": [
+            "Prvi i posljednji hvat svake masaže; povezuje sve ostale hvatove",
+            "Smjer prema srcu (centripetalno), u smjeru venskog i limfnog otjecanja",
+            "Površinsko glađenje: lagan pritisak, umirujući učinak na kožu i živčani sustav",
+            "Duboko glađenje: jači pritisak, potiskuje vensku krv i limfu, smanjuje otok"
+          ],
+          "image": {
+            "file": "masaza/masaza-potkoljenice.jpg",
+            "caption": "Maser Feyenoorda Gerard Meijer masira potkoljenicu nogometaša Coena Moulijna, 1965.",
+            "credits": [
+              {
+                "title": "Training Feyenoord, Coen Moulijn gemasseerd door Gerard Meijer",
+                "author": "Eric Koch for Anefo",
+                "source": "https://commons.wikimedia.org/wiki/File:Training_Feyenoord,_Coen_Moulijn_gemasseerd_door_Gerard_Meijer,_Bestanddeelnr_918-0454.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Gnječenje (petrisaža)",
+          "body": "Gnječenje (petrisaža, franc. pétrir – mijesiti) glavni je hvat za mišiće i zauzima najveći dio klasične masaže. Tkivo, prije svega mišić s potkožjem, zahvaća se između palca i ostalih prstiju ili između dviju ruku, odiže od podloge, stišće i pušta, a zatim se ruka pomiče dalje uzduž mišića. Pokret je spor i ritmičan, a izvodi se u smjeru mišićnih vlakana, od distalnog prema proksimalnom kraju mišića. Za razliku od glađenja, ruka ne klizi po koži, nego pomiče tkivo zajedno s kožom.\n\nPostoje brojne inačice gnječenja: gnječenje jednom rukom na manjim mišićima, gnječenje objema rukama na velikim mišićnim skupinama poput natkoljenice, valjanje, pri kojem se mišić kotrlja između dlanova, cijeđenje ili stiskanje, pri kojem se mišić obuhvaća i stišće poput spužve, poprečno gnječenje u obliku slova S, kada se dvije ruke pomiču u suprotnim smjerovima, te podizanje nabora kože i potkožja koji se pomiče ispred prstiju. Terapeut bira inačicu prema veličini mišića i cilju masaže.\n\nGnječenje mehanički istiskuje vensku krv i limfu iz mišića i tako omogućuje dotok svježe arterijske krvi, ubrzava uklanjanje otpadnih tvari mišićnog rada, povećava elastičnost i rastezljivost mišića te smanjuje njegovu napetost. Zbog toga je gnječenje hvat izbora kod mišićnog umora, napetosti i skraćenih mišića. Previše sredstva za masažu onemogućuje dobro zahvaćanje tkiva, a prejako gnječenje izaziva bol i obrambenu napetost mišića, što poništava učinak.",
+          "bullets": [
+            "Glavni hvat za mišiće; najdulji dio klasične masaže",
+            "Tkivo se odiže od podloge, stišće i pušta, u smjeru mišićnih vlakana",
+            "Inačice: gnječenje jednom i objema rukama, valjanje, cijeđenje, poprečno (S) gnječenje",
+            "Učinci: bolja prokrvljenost mišića, uklanjanje otpadnih tvari, manja napetost, veća elastičnost"
+          ]
+        },
+        {
+          "heading": "Trenje (frikcija)",
+          "body": "Trenje (frikcija, lat. fricare – trljati) najdublji je i najlokaliziraniji hvat klasične masaže. Izvodi se jagodicama prstiju, palcem, korijenom dlana ili laktom, kružnim ili poprečnim pokretima malog opsega. Pri tome prsti ne klize po koži, nego kožu i potkožje pomiču zajedno sa sobom preko dubljih struktura, pa se trenje izvodi bez sredstva za masažu. Pritisak postupno raste u dubinu i usmjeren je na malo, točno određeno mjesto.\n\nTrenje se primjenjuje na ožiljke, priraslice, zadebljana i otvrdnula mjesta u mišićima, hvatišta tetiva, ligamente i tkivo oko zglobova, dakle na mjesta koja ostali hvatovi ne dosežu. Mehanički razdvaja slijepljene slojeve tkiva, čini ožiljak pomičnim i izaziva snažno lokalno crvenilo (hiperemiju), čime se ubrzava obnavljanje tkiva. Duboka poprečna frikcija po Cyriaxu izvodi se okomito na smjer vlakana tetive ili ligamenta i upotrebljava se kod kroničnih ozljeda tih struktura.\n\nTrenje je često neugodno, pa se dozira pažljivo: na jednom mjestu traje kratko, a nikada se ne izvodi na akutno upaljenom ili svježe ozlijeđenom tkivu, jer bi pojačalo krvarenje i oteklinu. Nakon trenja područje se uvijek smiruje glađenjem. Trenje se ne izvodi ni preko koštanih izbočina bez mekog tkiva, niti preko većih površinskih krvnih žila i živaca.",
+          "bullets": [
+            "Mali kružni ili poprečni pokreti; koža se pomiče zajedno s prstima",
+            "Bez sredstva za masažu; najdublji i najlokaliziraniji hvat",
+            "Za ožiljke, priraslice, hvatišta tetiva, ligamente i tkivo oko zglobova",
+            "Nikada na akutnoj upali ili svježoj ozljedi; nakon trenja slijedi glađenje"
+          ]
+        },
+        {
+          "heading": "Lupkanje (tapotman) i vibracija",
+          "body": "Lupkanje (tapotman, franc. tapoter – lupkati) skup je udarnih hvatova koji se izvode brzim, ritmičnim, naizmjeničnim udarcima opuštenih ruku. Ovisno o dijelu ruke kojim se udara, razlikujemo sjeckanje ulnarnim rubom šake s raširenim prstima, pljeskanje dlanom oblikovanim u kupolu (tako da pri udarcu nastaje zračni jastuk), lupkanje vršcima prstiju i udaranje labavo stisnutom šakom. Zglob šake mora biti opušten, a udarci kratki i elastični, nikada tvrdi.\n\nLupkanje djeluje podražajno: povisuje tonus mišića, izaziva snažnu hiperemiju i pojačava podražljivost živčanog sustava, pa se primjenjuje kod mlohavih, slabih mišića i u pripremnoj sportskoj masaži. Pljeskanje kupolastim dlanom po prsnom košu rabi se u respiratornoj fizioterapiji za olakšavanje iskašljavanja. Lupkanje se ne izvodi preko bubrega, kralježnice i koštanih izbočina, preko napetih, bolnih i spastičnih mišića, niti kod osjetljivih i uzbuđenih pacijenata.\n\nVibracija je hvat pri kojem se iz ruke terapeuta prenose sitni, brzi oscilirajući pokreti na tkivo, a ruka pritom ne gubi dodir s kožom. Izvodi se vrhovima prstiju ili cijelim dlanom uz stalan lagani pritisak, a nastaje naizmjeničnim brzim stezanjem mišića podlaktice i nadlaktice terapeuta. Fina vibracija umiruje, smanjuje napetost mišića i ublažava bol, a grublje protresanje opušta velike mišićne skupine udova. Vibracija po prsnom košu pri izdisaju pomaže odvajanju sekreta. Ručna vibracija brzo zamara terapeuta, pa se često zamjenjuje uređajima.",
+          "bullets": [
+            "Lupkanje: sjeckanje, pljeskanje kupolastim dlanom, lupkanje prstima, udaranje šakom",
+            "Lupkanje podražuje i povisuje tonus; ne preko bubrega, kralježnice i koštanih izbočina",
+            "Vibracija: sitni oscilirajući pokreti bez prekida dodira; fina vibracija umiruje",
+            "Pljeskanje i vibracija po prsnom košu olakšavaju iskašljavanje"
+          ]
+        },
+        {
+          "heading": "Redoslijed hvatova, smjer i doziranje",
+          "body": "Klasična masaža obično slijedi ovaj redoslijed: započinje glađenjem, nastavlja se gnječenjem, zatim trenjem, pa lupkanjem i vibracijom, a završava ponovno glađenjem. Redoslijed srednjih hvatova (gnječenja i trenja) u literaturi varira; nepromjenjivo je pravilo da masaža počinje i završava glađenjem te da se hvatovi nižu od blažih prema jačima i od površine u dubinu, a pri završetku se intenzitet ponovno smanjuje. Glađenje se umeće i između pojedinih hvatova, tako da masaža teče neprekinuto, bez naglih prijelaza. Nije nužno primijeniti svih pet hvatova: lupkanje se, na primjer, izostavlja kod napetih i bolnih mišića te kada je cilj masaže opuštanje.\n\nSmjer hvatova prati vensko i limfno otjecanje, dakle prema srcu i prema regionalnim limfnim čvorovima. Zbog toga se na udovima potezi izvode od distalnih prema proksimalnim dijelovima, ali se redoslijed obrade segmenata kreće obrnuto: najprije se obradi proksimalni dio uda, na primjer natkoljenica, da se oslobodi put otjecanju, a zatim potkoljenica i stopalo. Trbuh se masira u smjeru kazaljke na satu, prateći tijek debelog crijeva. Leđa se masiraju od križa prema vratu i ramenima, uzduž mišića uz kralježnicu, a ne po samim trnastim nastavcima kralježaka.\n\nDoziranje masaže određuju jačina pritiska, brzina i ritam hvatova, trajanje jednog postupka i broj postupaka u seriji. Pritisak i trajanje prilagođavaju se dobi, građi i stanju pacijenta te debljini mišićnog sloja: na natkoljenici je dopušten znatno jači pritisak nego na vratu. Djelomična masaža jednog dijela tijela traje kraće, obično 10 do 20 minuta, dok opća masaža cijelog tijela traje znatno dulje. Masaža nikada ne smije izazvati jaku bol; pojava boli, obrambene napetosti mišića ili modrica znak je da je doza prejaka.",
+          "bullets": [
+            "Uobičajeni redoslijed: glađenje, gnječenje, trenje, lupkanje, vibracija, glađenje",
+            "Od blažih prema jačim hvatovima, od površine u dubinu; glađenje između hvatova",
+            "Potezi prema srcu; na udu se najprije obradi proksimalni segment, zatim distalni",
+            "Trbuh u smjeru kazaljke na satu; leđa od križa prema ramenima, uz kralježnicu",
+            "Doza: pritisak, brzina, trajanje i broj postupaka; jaka bol znači prejaku dozu"
+          ]
+        }
+      ],
+      "key_points": [
+        "Pet osnovnih hvatova klasične masaže: glađenje (efleraža), gnječenje (petrisaža), trenje (frikcija), lupkanje (tapotman) i vibracija.",
+        "Glađenje je prvi i posljednji hvat i izvodi se prema srcu; gnječenje je glavni hvat za mišiće; trenje je najdublji, lokalni hvat za ožiljke i priraslice.",
+        "Lupkanje podražuje i povisuje tonus; fina vibracija umiruje i smanjuje napetost.",
+        "Redoslijed: od blažih prema jačim hvatovima i od površine u dubinu, s glađenjem između hvatova i na kraju.",
+        "Na udu se najprije obradi proksimalni segment, a potezi idu od distalnog prema proksimalnom; trbuh se masira u smjeru kazaljke na satu.",
+        "Masaža ne smije izazvati jaku bol; dozu određuju pritisak, brzina, trajanje i broj postupaka."
+      ]
+    },
+    {
+      "id": "ucinci-indikacije-i-kontraindikacije",
+      "title": "Fiziološki učinci, indikacije i kontraindikacije",
+      "summary": "Kako masaža djeluje na kožu, mišiće, krvotok, limfu i živčani sustav te kada je indicirana, a kada se ne smije izvoditi.",
+      "estimated_minutes": 11,
+      "sections": [
+        {
+          "heading": "Učinci na kožu i potkožno tkivo",
+          "body": "Koža je prvo tkivo na koje masaža djeluje i preko kojega se ostvaruje većina refleksnih učinaka. Mehanički se s površine uklanjaju odumrle stanice rožnatog sloja epiderme, otvaraju se izvodni kanali žlijezda lojnica i znojnica te se potiče njihovo lučenje, pa koža postaje mekša i elastičnija. Pomicanjem kože prema potkožju rastežu se i razdvajaju priraslice među slojevima, zbog čega ožiljci postaju pomičniji i mekši.\n\nTrljanjem se u koži šire krvne žile: koža pocrveni i zagrije se, što nazivamo hiperemijom. Dio hiperemije nastaje izravnim mehaničkim podražajem stijenke žila, dio refleksno, preko živčanog sustava (aksonski refleks), a dio humoralno, oslobađanjem histamina i sličnih tvari iz stanica kože koje šire kapilare. Bolja prokrvljenost znači bolju prehranu kože i brže cijeljenje. Masaža pospješuje i protok limfe iz potkožja, pa smanjuje otok i nakupljanje tekućine u tkivu.\n\nKoža je bogata osjetnim receptorima za dodir, pritisak, temperaturu i bol, pa je svaki hvat ujedno i podražaj živčanog sustava. Preko kožnih receptora i leđne moždine podražaj se refleksno prenosi na krvne žile, mišiće i unutarnje organe istog segmenta, što je temelj refleksnih masaža. Stanje kože terapeut procjenjuje prije svake masaže: oštećena, upaljena ili zaražena koža kontraindikacija je za masažu tog područja."
+        },
+        {
+          "heading": "Učinci na mišiće i cirkulaciju",
+          "body": "Mišić je glavni cilj klasične masaže. Gnječenjem i dubokim glađenjem iz mišića se istiskuju venska krv i limfa, a na njihovo mjesto dotječe svježa arterijska krv bogata kisikom i hranjivim tvarima. Istodobno se ubrzava odstranjivanje metaboličkih produkata mišićnog rada, pa se umoran mišić brže oporavlja. Zato se masaža primjenjuje nakon velikih napora i u sportu.\n\nMasaža mijenja napetost (tonus) mišića ovisno o načinu izvođenja: spori, blagi i ritmični hvatovi smanjuju napetost i opuštaju grčevito stegnuti mišić, dok brzi i snažni hvatovi, osobito lupkanje, povisuju tonus i podražuju mlohav mišić. Rastezanjem mišićnih vlakana i vezivnih ovojnica masaža povećava elastičnost mišića. Važno je zapamtiti da masaža ne povećava mišićnu snagu ni mišićnu masu; to postiže samo aktivno vježbanje, a masaža mišić priprema za vježbanje i pomaže oporavku.\n\nUčinak na cirkulaciju dvojak je. Mehanički, potezi usmjereni prema srcu potiskuju vensku krv i limfu prema trupu, čemu pomažu zalisci u venama koji sprječavaju povratak krvi; zbog toga se potezi i izvode u tom smjeru. Refleksno se šire kapilare i arteriole u koži i mišićima, pa se lokalni protok krvi znatno povećava. Opuštajuća masaža općenito usporava rad srca i može blago sniziti krvni tlak, a otok smanjuje poticanjem venskog i limfnog otjecanja."
+        },
+        {
+          "heading": "Učinci na živčani sustav i opći učinci",
+          "body": "Živčani sustav masaža podražuje preko receptora u koži, mišićima i tetivama. Učinak ovisi o jačini i brzini hvatova: blagi, spori i ritmični hvatovi djeluju umirujuće (sedativno), smanjuju napetost i potiču san, dok brzi, snažni i kratki hvatovi djeluju podražajno te povisuju budnost i tonus. Masaža tako može biti opuštajuća ili stimulirajuća, a izbor ovisi o cilju liječenja.\n\nMasaža ublažava bol na nekoliko načina. Prema teoriji kontrole prolaza (engl. gate control) Melzacka i Walla, podražaj debelih osjetnih vlakana za dodir i pritisak u leđnoj moždini prigušuje prijenos bolnih podražaja tankim vlaknima, pa dodir i trljanje bolnog mjesta smanjuju osjet boli. Masaža potiče i otpuštanje endorfina, tjelesnih tvari koje djeluju protiv boli i poboljšavaju raspoloženje, a uklanjanjem mišićne napetosti i boljom prokrvljenošću uklanja i same uzroke boli u mišićima.\n\nOpći učinci masaže uključuju osjećaj ugode i opuštenosti, smanjenje tjeskobe i stresa te poboljšanje općeg stanja pacijenta, što je dijelom posljedica smirivanja simpatičkog i prevladavanja parasimpatičkog dijela autonomnog živčanog sustava. Dodir i pažnja terapeuta imaju i psihološki učinak koji se ne smije podcijeniti. Masaža trbuha u smjeru kazaljke na satu potiče peristaltiku crijeva, pa pomaže kod zatvora (opstipacije).",
+          "bullets": [
+            "Blagi, spori hvatovi umiruju; brzi, snažni hvatovi podražuju",
+            "Bol se smanjuje kontrolom prolaza u leđnoj moždini, endorfinima i uklanjanjem mišićne napetosti",
+            "Opći učinci: opuštenost, manje stresa i tjeskobe, prevladavanje parasimpatikusa",
+            "Masaža trbuha u smjeru kazaljke na satu potiče peristaltiku"
+          ],
+          "image": {
+            "file": "masaza/masaza-nakon-utrke.jpg",
+            "caption": "Biciklist G. Kersten na masaži tijekom Tour de Francea 1960. Masaža nakon napora opušta i pomaže oporavku.",
+            "credits": [
+              {
+                "title": "Tour de France , G Kersten tijdens de massage",
+                "author": "Harry Pot for Anefo",
+                "source": "https://commons.wikimedia.org/wiki/File:Tour_de_France_,_G_Kersten_tijdens_de_massage,_Bestanddeelnr_911-3785.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Indikacije",
+          "body": "Masaža se primjenjuje prema indikaciji liječnika, najčešće u kroničnim stanjima i u fazama oporavka, kada je akutna faza bolesti ili ozljede prošla. Najvažnije su indikacije bolna stanja i povećana napetost mišića: mialgije, napetost vratnih i leđnih mišića, glavobolja tenzijskog tipa i kronična križobolja. Masaža je korisna i kod mišićnog umora nakon velikih napora te kod skraćenih mišića prije istezanja.\n\nU traumatologiji i ortopediji masaža se primjenjuje nakon što prođe akutna faza ozljede: kod nagnječenja i uganuća nakon prvih dana, nakon skidanja gipsa i duže imobilizacije radi uklanjanja ukočenosti i otoka, kod ožiljaka i priraslica te kod kontraktura. U reumatologiji je indicirana kod degenerativnih bolesti zglobova i kralježnice izvan faze akutnog pogoršanja, a kod upalnih reumatskih bolesti samo u mirnoj fazi. U neurologiji se primjenjuje kod mlohavih kljenuti (podražajna masaža) i kod spastičnosti (blaga, umirujuća masaža), uvijek uz kineziterapiju.\n\nMasaža pomaže i kod poremećaja cirkulacije: kod otoka nakon ozljeda i operacija te limfedema (manualna limfna drenaža), kod stanja nakon dugotrajnog ležanja radi prevencije ukočenosti i, uz druge postupke, kod kroničnih plućnih bolesti za olakšavanje iskašljavanja. U sportu masaža priprema sportaša za napor i ubrzava oporavak. Napokon, masaža se primjenjuje i kod zdravih osoba radi opuštanja, uklanjanja stresa i održavanja zdravlja (higijenska masaža).",
+          "bullets": [
+            "Bolna stanja i napetost mišića: mialgije, tenzijska glavobolja, kronična križobolja",
+            "Stanja nakon ozljeda i imobilizacije (izvan akutne faze), ožiljci, priraslice, kontrakture",
+            "Degenerativne bolesti zglobova i kralježnice izvan akutnog pogoršanja",
+            "Mlohave kljenuti (podražajno) i spastičnost (umirujuće), uz kineziterapiju",
+            "Otoci i limfedem, oporavak u sportu, opuštanje i prevencija kod zdravih osoba"
+          ]
+        },
+        {
+          "heading": "Kontraindikacije",
+          "body": "Kontraindikacije su stanja u kojima bi masaža pogoršala bolest ili ugrozila pacijenta. Opće (apsolutne) kontraindikacije isključuju svaku masažu: vrućica i akutne zarazne bolesti, akutne upale s općim simptomima (povišena temperatura, loše opće stanje), tromboza i tromboflebitis (pokretanje ugruška masažom može izazvati plućnu emboliju), neliječena (aktivna) maligna bolest (kod liječene i stabilne bolesti masaža je moguća samo u dogovoru s liječnikom, uz izbjegavanje područja tumora), izražena sklonost krvarenju (npr. hemofilija), teške bolesti srca i krvnih žila, aneurizma te akutne bolesti trbušnih organa (akutni abdomen).\n\nLokalne kontraindikacije isključuju masažu samo određenog područja: zarazne kožne bolesti (gnojne, gljivične i virusne infekcije kože), otvorene rane, opekline i svježi ožiljci, svježe ozljede s krvarenjem u tkivo tijekom prvih dana, proširene vene (varikoziteti) i područje nad njima, trbuh i slabinski dio u trudnoći, nedavno slomljene kosti te područje tumora i uvećanih limfnih čvorova nepoznata uzroka. Masaža se ne izvodi ni na području akutno upaljenog zgloba, jer pojačava upalu.\n\nRelativne kontraindikacije zahtijevaju oprez, prilagođenu tehniku i dogovor s liječnikom: osteoporoza (bez snažnih hvatova i lupkanja), liječenje antikoagulansima (samo blaga masaža, bez dubokih hvatova i lupkanja), šećerna bolest s oštećenom osjetljivošću kože, uznapredovala ateroskleroza, nestabilan krvni tlak te duševne bolesti i stanja u kojima pacijent ne može surađivati. Opće je pravilo da terapeut u slučaju nejasnoća masažu odgađa i traži mišljenje liječnika. Nagla bol, oteklina, crvenilo i toplina uda tijekom liječenja znak su za prekid i hitnu liječničku procjenu, jer mogu značiti trombozu.",
+          "bullets": [
+            "Opće: vrućica, akutne zarazne bolesti i upale s općim simptomima, tromboza, neliječena maligna bolest, sklonost krvarenju, teške bolesti srca",
+            "Lokalne: kožne infekcije, rane, opekline, svježe ozljede, proširene vene, trbuh u trudnoći",
+            "Relativne: osteoporoza, liječenje antikoagulansima, šećerna bolest, ateroskleroza, nestabilan krvni tlak",
+            "U nejasnim slučajevima masaža se odgađa i traži se mišljenje liječnika"
+          ]
+        }
+      ],
+      "key_points": [
+        "Na koži masaža uklanja odumrle stanice, potiče lučenje žlijezda i izaziva hiperemiju; preko kožnih receptora djeluje refleksno.",
+        "Mišićima masaža poboljšava prokrvljenost, ubrzava uklanjanje otpadnih tvari i mijenja tonus, ali ne povećava snagu; to čini samo vježbanje.",
+        "Potezi prema srcu potiskuju vensku krv i limfu, kapilare se šire refleksno; opuštajuća masaža usporava srce i blago snižava tlak.",
+        "Blagi spori hvatovi umiruju, brzi snažni podražuju; bol se smanjuje kontrolom prolaza i endorfinima.",
+        "Indikacije: napetost i bol u mišićima, stanja nakon ozljeda izvan akutne faze, ožiljci, degenerativne bolesti, kljenuti, otoci.",
+        "Opće kontraindikacije: vrućica, akutna upala s općim simptomima, tromboza, neliječena (aktivna) maligna bolest, sklonost krvarenju; lokalne: kožne infekcije, rane, varikoziteti, akutno upaljen zglob, trbuh u trudnoći."
+      ]
+    },
+    {
+      "id": "posebne-tehnike-masaze",
+      "title": "Posebne tehnike: limfna drenaža, sportska masaža, masaža vezivnog tkiva i segmentna masaža",
+      "summary": "Osnove manualne limfne drenaže, sportske masaže, masaže vezivnog tkiva i segmentne masaže: po čemu se razlikuju od klasične masaže i kada se primjenjuju.",
+      "estimated_minutes": 12,
+      "sections": [
+        {
+          "heading": "Manualna limfna drenaža: načela",
+          "body": "Manualna limfna drenaža (MLD) tehnika je kojom se potiče otjecanje limfe iz tkiva prema limfnim čvorovima i dalje u venski sustav. Razvili su je Emil i Estrid Vodder tridesetih godina 20. stoljeća. Limfni sustav nema vlastitu crpku poput srca: limfa se pokreće stezanjem limfnih žila, radom mišića, disanjem i vanjskim pritiskom, a limfne žile imaju zaliske koji sprječavaju povrat. Na tome se temelji MLD: nježnim rastezanjem kože i potkožja potiču se stezanje limfnih žila i protok limfe u smjeru otjecanja.\n\nMLD se u mnogočemu razlikuje od klasične masaže. Pritisak je vrlo lagan, tek toliki da se koža pomiče zajedno s rukom preko podloge, jer jači pritisak stišće i zatvara tanke površinske limfne žile. Hvatovi su spori, ritmični i kružni, izvode se bez sredstva za masažu i ne smiju izazvati crvenilo ni bol. Svaki hvat ima fazu pritiska, u kojoj se koža pomiče u smjeru otjecanja limfe, i fazu opuštanja, u kojoj se ruka rastereti, a koža se sama vraća u početni položaj. Hvat se na istom mjestu ponavlja više puta.\n\nOsnovni Vodderovi hvatovi jesu stojeći ili stacionarni krugovi (njem. stehende Kreise), pumpni hvat (Pumpgriff), crpni hvat (Schöpfgriff) i rotacijski ili okretni hvat (Drehgriff), a svi se izvode cijelim dlanom ili prstima položenima na kožu. Drenaža uvijek počinje središnje, na vratu, u području gdje limfa utječe u venski sustav, i na regionalnim limfnim čvorovima, kako bi se najprije ispraznili središnji putovi; tek se zatim obrađuju proksimalni pa distalni dijelovi uda, a sam otečeni dio obrađuje se posljednji. Jedan postupak traje dulje od klasične masaže jer se svaki hvat polagano ponavlja.",
+          "bullets": [
+            "Vrlo lagan pritisak, spori kružni hvatovi, bez sredstva za masažu, bez crvenila i boli",
+            "Svaki hvat: faza pritiska u smjeru otjecanja limfe i faza opuštanja",
+            "Hvatovi po Vodderu: stojeći krugovi, pumpni, crpni i rotacijski hvat",
+            "Redoslijed: vrat i regionalni limfni čvorovi, zatim proksimalni pa distalni dio uda"
+          ]
+        },
+        {
+          "heading": "Manualna limfna drenaža: indikacije i kontraindikacije",
+          "body": "Glavna je indikacija limfedem: primarni, zbog prirođene slabosti limfnog sustava, i sekundarni, koji nastaje nakon odstranjenja ili zračenja limfnih čvorova, na primjer otok ruke nakon operacije raka dojke s uklanjanjem pazušnih limfnih čvorova. MLD se primjenjuje i kod otoka nakon ozljeda i operacija, kod lipedema, kod kronične venske insuficijencije uz kompresiju te kod bolnih stanja u kojima je potreban osobito nježan postupak.\n\nU liječenju limfedema MLD nije samostalan postupak, nego dio kompleksne dekongestivne terapije koju čine četiri sastavnice: manualna limfna drenaža, kompresija zavojima ili kompresivnim čarapama, vježbe uz kompresiju i njega kože. Bez kompresije se postignuto smanjenje otoka brzo gubi. Pacijent se poučava njezi kože i izbjegavanju ozljeda otečenog uda, jer je takav ud sklon infekcijama.\n\nKontraindikacije za MLD jesu akutne infekcije, osobito bakterijska upala kože i potkožja (erizipel) na otečenom udu, akutna tromboza vena, srčani otoci kod dekompenzacije srca (tekućina koju drenaža vraća u krvotok dodatno opterećuje slabo srce) i neliječena maligna bolest. Za drenažu vrata kontraindikacije su još pojačani rad štitnjače i preosjetljivost karotidnog sinusa. Pacijent sa sniženim krvnim tlakom nakon drenaže ustaje polako.",
+          "bullets": [
+            "Indikacije: primarni i sekundarni limfedem (npr. ruka nakon operacije dojke), otoci nakon ozljeda i operacija, lipedem",
+            "Kompleksna dekongestivna terapija: MLD, kompresija, vježbe uz kompresiju, njega kože",
+            "Kontraindikacije: erizipel i akutne infekcije, akutna tromboza, dekompenzacija srca, neliječena maligna bolest"
+          ],
+          "image": {
+            "file": "masaza/kompresivni-zavoj.jpg",
+            "caption": "Prilagodljivi kompresivni zavoj s čičak-trakama za potkoljenicu i stopalo. U liječenju limfedema kompresija održava smanjenje otekline postignuto limfnom drenažom.",
+            "credits": [
+              {
+                "title": "Adaptive Kompressionsbandage mit Fußteil",
+                "author": "Enter",
+                "source": "https://commons.wikimedia.org/wiki/File:Adaptive_Kompressionsbandage_mit_Fu%C3%9Fteil.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Sportska masaža",
+          "body": "Sportska masaža primjenjuje hvatove klasične masaže prilagođene potrebama sportaša: priprema mišiće za napor, ubrzava oporavak nakon treninga i natjecanja te pomaže u sprječavanju i liječenju sportskih ozljeda. Prema vremenu primjene razlikujemo pripremnu masažu prije natjecanja ili treninga, trenažnu masažu kao redovit dio trenažnog procesa, masažu oporavka (regeneracijsku) nakon napora i masažu u liječenju sportskih ozljeda nakon završetka akutne faze.\n\nPripremna masaža izvodi se neposredno prije natjecanja, kratko traje te je brza i podražajna: prevladavaju brzo glađenje, gnječenje, lupkanje i protresanje, kojima se mišići zagrijavaju i povisuje im se tonus. Ne smije biti duboka ni bolna, jer bi opustila i umorila mišić prije napora, i ne zamjenjuje aktivno zagrijavanje. Masaža oporavka izvodi se nakon natjecanja ili treninga, kada se tijelo smiri: sporija je, dulja i umirujuća, s prevladavanjem glađenja, laganog gnječenja i vibracije, a cilj joj je ubrzati uklanjanje otpadnih tvari, smanjiti napetost i bolnost mišića te ubrzati oporavak.\n\nKod akutnih sportskih ozljeda mekih tkiva, poput uganuća i nagnječenja, masaža je u prvim danima kontraindicirana jer bi pojačala krvarenje i oteklinu; umjesto nje primjenjuju se mirovanje, hlađenje, kompresija i podizanje uda. Hlađenje služi ponajprije ublažavanju boli u prvim danima, a nakon toga važno je rano, postupno opterećenje. Tek kada akutna faza prođe, masaža se uvodi radi uklanjanja otoka i ukočenosti, a kod kroničnih ozljeda tetiva i ligamenata primjenjuje se trenje. Kod mišićnog grča na natjecanju mišić se najprije istegne, a zatim lagano gladi i gnječi.",
+          "bullets": [
+            "Pripremna masaža: kratka, brza, podražajna (lupkanje, protresanje), ne duboka ni bolna",
+            "Trenažna masaža: redovit dio trenažnog procesa",
+            "Masaža oporavka: sporija, dulja, umirujuća (glađenje, lagano gnječenje, vibracija)",
+            "Akutna ozljeda: bez masaže; mirovanje, hlađenje, kompresija, podizanje uda"
+          ],
+          "image": {
+            "file": "masaza/sportska-masaza.jpg",
+            "caption": "Maser obrađuje natkoljenicu biciklistice Truus van der Plaat na Svjetskom prvenstvu u biciklizmu 1979. u Amsterdamu.",
+            "credits": [
+              {
+                "title": "Truus van der Plaat wordt gemasseerd",
+                "author": "Rob Bogaerts for Anefo",
+                "source": "https://commons.wikimedia.org/wiki/File:Truus_van_der_Plaat_wordt_gemasseerd,_Bestanddeelnr_930-4161.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Masaža vezivnog tkiva",
+          "body": "Masaža vezivnog tkiva refleksna je tehnika koju je 1929. razvila njemačka fizioterapeutkinja Elisabeth Dicke. Polazi od zapažanja da se bolesti unutarnjih organa odražavaju na vezivno tkivo kože i potkožja u obliku promijenjene napetosti, uvučenih ili zadebljanih područja, takozvanih zona vezivnog tkiva, koje odgovaraju segmentalnoj inervaciji oboljelog organa. Obradom tih zona preko refleksnih putova u leđnoj moždini i autonomnom živčanom sustavu djeluje se na cirkulaciju i rad organa.\n\nTehnika se razlikuje od klasične masaže: izvodi se bez sredstva za masažu, jagodicama srednjeg prsta i prstenjaka, tako da se koža i potkožje povlače i rastežu u odnosu na dublje slojeve dugim ili kratkim potezima. Pacijent pri tome osjeća karakterističan osjećaj rezanja ili grebanja, kao da se po koži povlači noktom, a na koži nastaje crvena pruga (dermografizam) koja može trajati satima. Ti su osjećaji očekivani znakovi pravilno izvedenog poteza, a ne komplikacija.\n\nLiječenje uvijek počinje temeljnom obradom križnog (sakralnog), zdjeličnog i slabinskog područja, bez obzira na to koji je organ bolestan, jer se tako postupno uključuje autonomni živčani sustav; tek se potom obrađuju zone udaljene od zdjelice. Pacijent najčešće sjedi, a terapeut radi iza njega. Indikacije su poremećaji periferne cirkulacije, na primjer hladni udovi i Raynaudov fenomen, funkcionalni poremećaji unutarnjih organa poput zatvora i bronhalne astme, kronične reumatske bolesti, glavobolje i stanja nakon ozljeda.",
+          "bullets": [
+            "Elisabeth Dicke, 1929.; refleksna tehnika na zonama vezivnog tkiva",
+            "Bez sredstva za masažu, jagodicama srednjeg prsta i prstenjaka; koža se povlači, ne klizi",
+            "Osjećaj rezanja i crvena pruga (dermografizam) očekivani su znakovi",
+            "Počinje temeljnom obradom križnog, zdjeličnog i slabinskog područja"
+          ]
+        },
+        {
+          "heading": "Segmentna masaža",
+          "body": "Segmentna masaža refleksna je tehnika koja se temelji na segmentalnoj građi živčanog sustava: svaki segment leđne moždine inervira određeni dio kože (dermatom), mišića (miotom), kosti (sklerotom) i unutarnjih organa (viscerotom). Zbog toga se bolest unutarnjeg organa odražava na kožu i mišiće istog segmenta kao preosjetljivost, bol i napetost. Takva su područja pojačane osjetljivosti kože opisana kao Headove zone, a područja napetosti u mišićima kao Mackenziejeve zone.\n\nObradom tih promijenjenih područja na koži, u potkožju, mišićima i pokosnici djeluje se preko leđne moždine na oboljeli organ i njegovu prokrvljenost. Sustav segmentne masaže razradili su njemački autori Gläser i Dalicho sredinom 20. stoljeća. Osim prilagođenih hvatova klasične masaže upotrebljavaju se posebni hvatovi, na primjer pilanje, pri kojem se koža između ulnarnih rubova obiju ruku pomiče naizmjeničnim pokretima poput piljenja, i bušenje (svrdlanje), pri kojem se jagodicama prstiju kružnim pokretima prodire uz kralježnicu u dubinu.\n\nSegmentna se masaža izvodi bez sredstva za masažu, kako bi terapeut mogao osjetiti promjene u tkivu. Počinje na leđima, u paravertebralnom području uz kralježnicu, i to od donjih (kaudalnih) prema gornjim (kranijalnim) segmentima, od površinskih slojeva prema dubini i od područja uz kralježnicu prema periferiji; tek se potom obrađuju trup i udovi. Hvatovi se izvode polako, s postupnim povećanjem pritiska. Indikacije su slične kao kod masaže vezivnog tkiva: funkcionalne i kronične bolesti unutarnjih organa, kronični reumatski procesi i poremećaji cirkulacije, a kontraindikacije su one koje vrijede za svaku masažu, osobito akutne upale i vrućica.",
+          "bullets": [
+            "Temelj: segmentalna inervacija; Headove zone (koža) i Mackenziejeve zone (mišići)",
+            "Posebni hvatovi: pilanje i bušenje (svrdlanje) uz kralježnicu",
+            "Bez sredstva za masažu; počinje paravertebralno, od kaudalnih prema kranijalnim segmentima, od površine u dubinu",
+            "Indikacije: funkcionalne i kronične bolesti unutarnjih organa, kronični reumatizam, poremećaji cirkulacije"
+          ]
+        }
+      ],
+      "key_points": [
+        "MLD (Vodder): vrlo lagan pritisak, spori kružni hvatovi bez sredstva za masažu; počinje na vratu i regionalnim limfnim čvorovima, zatim proksimalno pa distalno.",
+        "MLD je dio kompleksne dekongestivne terapije (drenaža, kompresija, vježbe, njega kože); kontraindikacije su erizipel, akutna tromboza, dekompenzacija srca i neliječena maligna bolest.",
+        "Sportska masaža: pripremna je kratka i podražajna, masaža oporavka spora i umirujuća; akutna ozljeda se ne masira.",
+        "Masaža vezivnog tkiva (Dicke, 1929.): potezi srednjim prstom i prstenjakom bez sredstva, osjećaj rezanja i dermografizam; počinje temeljnom obradom zdjelice.",
+        "Segmentna masaža: refleksno djelovanje na organe istog segmenta (Headove i Mackenziejeve zone), posebni hvatovi pilanje i bušenje, od kaudalnih prema kranijalnim segmentima."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "ms-001",
+      "lesson_id": "uvod-u-masazu",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Što je masaža?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Skup mehaničkih hvatova koji se rukama ili pomagalima izvode na površini tijela radi liječenja, sprječavanja bolesti i opuštanja"
+        },
+        {
+          "id": "b",
+          "text": "Oblik aktivnog vježbanja kojim pacijent sam povećava mišićnu snagu"
+        },
+        {
+          "id": "c",
+          "text": "Primjena električne struje na kožu radi smanjenja boli"
+        },
+        {
+          "id": "d",
+          "text": "Zagrijavanje tkiva infracrvenim zračenjem"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Masaža je skup mehaničkih hvatova s mehaničkim i refleksnim učinkom. Riječ je o pasivnom postupku u kojem pacijent miruje, pa ona nije oblik aktivnog vježbanja, a ne služi se ni strujom ni zračenjem, nego rukama ili pomagalima.",
+      "tags": [
+        "definicija"
+      ]
+    },
+    {
+      "id": "ms-002",
+      "lesson_id": "uvod-u-masazu",
+      "type": "true_false",
+      "difficulty": 1,
+      "text": "Masaža je pasivan postupak: pacijent miruje, a sav rad obavlja terapeut, pa masaža ne zamjenjuje aktivno vježbanje.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "t"
+      ],
+      "explanation": "Masaža je pasivan postupak koji aktivno vježbanje nadopunjuje, ali ga ne zamjenjuje; često se rabi za pripremu tkiva za kineziterapiju.",
+      "tags": [
+        "definicija",
+        "kineziterapija"
+      ]
+    },
+    {
+      "id": "ms-003",
+      "lesson_id": "uvod-u-masazu",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Tko je uveo francuske nazive hvatova (efleraža, petrisaža, frikcija, tapotman) koji se rabe i danas?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Per Henrik Ling"
+        },
+        {
+          "id": "b",
+          "text": "Johann Georg Mezger"
+        },
+        {
+          "id": "c",
+          "text": "Hipokrat"
+        },
+        {
+          "id": "d",
+          "text": "Emil Vodder"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Nizozemski liječnik Johann Georg Mezger uveo je francuske nazive hvatova. Ling je utemeljio švedsku gimnastiku po kojoj se klasična masaža naziva švedskom, Hipokrat je preporučivao trljanje (anatripsis), a Vodder je autor manualne limfne drenaže.",
+      "tags": [
+        "povijest"
+      ]
+    },
+    {
+      "id": "ms-004",
+      "lesson_id": "uvod-u-masazu",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Koje su tvrdnje o povijesti masaže točne?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hipokrat je preporučivao trljanje (anatripsis)"
+        },
+        {
+          "id": "b",
+          "text": "Per Henrik Ling utemeljio je sustav švedske gimnastike koji je povezivao vježbe i hvatove masaže"
+        },
+        {
+          "id": "c",
+          "text": "Elisabeth Dicke razvila je manualnu limfnu drenažu"
+        },
+        {
+          "id": "d",
+          "text": "James Cyriax razvio je duboku poprečnu frikciju za liječenje tetiva i ligamenata"
+        },
+        {
+          "id": "e",
+          "text": "Masaža vezivnog tkiva nastala je u staroj Grčkoj"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "d"
+      ],
+      "explanation": "Tvrdnje o Hipokratu, Lingu i Cyriaxu su točne. Manualnu limfnu drenažu razvili su Emil i Estrid Vodder tridesetih godina 20. stoljeća, a masažu vezivnog tkiva Elisabeth Dicke (1929.), dakle ne u staroj Grčkoj.",
+      "tags": [
+        "povijest"
+      ]
+    },
+    {
+      "id": "ms-005",
+      "lesson_id": "uvod-u-masazu",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Prema opsegu masaža se dijeli na:",
+      "options": [
+        {
+          "id": "a",
+          "text": "opću i djelomičnu (parcijalnu)"
+        },
+        {
+          "id": "b",
+          "text": "ručnu i aparaturnu"
+        },
+        {
+          "id": "c",
+          "text": "ljekovitu i sportsku"
+        },
+        {
+          "id": "d",
+          "text": "klasičnu i refleksnu"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Prema opsegu razlikujemo opću masažu cijelog tijela i djelomičnu masažu pojedinog dijela tijela. Podjela na ručnu i aparaturnu odnosi se na način izvođenja, na ljekovitu i sportsku na svrhu, a na klasičnu i refleksnu na tehniku.",
+      "tags": [
+        "podjela"
+      ]
+    },
+    {
+      "id": "ms-006",
+      "lesson_id": "uvod-u-masazu",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Koji se hvat klasične masaže izvodi namjerno bez sredstva za masažu, jer ruka mora zahvatiti kožu, a ne kliziti po njoj?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Površinsko glađenje"
+        },
+        {
+          "id": "b",
+          "text": "Trenje (frikcija)"
+        },
+        {
+          "id": "c",
+          "text": "Duboko glađenje"
+        },
+        {
+          "id": "d",
+          "text": "Gnječenje (petrisaža)"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Trenje, masaža vezivnog tkiva, segmentna masaža i manualna limfna drenaža izvode se bez sredstva za masažu jer prsti kožu pomiču zajedno sa sobom preko dubljih slojeva. Pri glađenju sredstvo smanjuje trenje da bi ruka glatko klizila, a pri gnječenju se rabi umjereno, jer previše ulja onemogućuje dobar hvat tkiva.",
+      "tags": [
+        "sredstva za masažu",
+        "frikcija"
+      ]
+    },
+    {
+      "id": "ms-007",
+      "lesson_id": "uvod-u-masazu",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Pacijent leži potrbuške radi masaže leđa. Što se stavlja ispod gležnjeva i zašto?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Valjak ili jastuk, da se opuste mišići lista i stražnje strane nogu te rastereti slabinska kralježnica"
+        },
+        {
+          "id": "b",
+          "text": "Vreća s pijeskom, da se noge ne pomiču tijekom lupkanja"
+        },
+        {
+          "id": "c",
+          "text": "Ništa; stopala moraju biti oslonjena na stol u dorzalnoj fleksiji"
+        },
+        {
+          "id": "d",
+          "text": "Hladni oblog, da se smanji otok gležnjeva"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Valjak ispod gležnjeva opušta mišiće lista i stražnje strane nogu te rasterećuje slabinski dio kralježnice. Opće je pravilo da dio tijela koji se masira mora biti opušten i dobro poduprt.",
+      "tags": [
+        "položaj pacijenta"
+      ]
+    },
+    {
+      "id": "ms-008",
+      "lesson_id": "uvod-u-masazu",
+      "type": "true_false",
+      "difficulty": 1,
+      "text": "Terapeut pri svakoj masaži rutinski nosi rukavice.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "f"
+      ],
+      "explanation": "Rukavice se nose samo kada postoji opasnost od prijenosa infekcije, na primjer kod oštećene kože na rukama terapeuta. Osnovne su higijenske mjere pranje i dezinfekcija ruku, kratko podrezani nokti i skidanje nakita.",
+      "tags": [
+        "higijena"
+      ]
+    },
+    {
+      "id": "ms-009",
+      "lesson_id": "hvatovi-klasicne-masaze",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Kojim hvatom svaka klasična masaža počinje i završava?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Glađenje (efleraža)"
+        },
+        {
+          "id": "b",
+          "text": "Gnječenje (petrisaža)"
+        },
+        {
+          "id": "c",
+          "text": "Trenje (frikcija)"
+        },
+        {
+          "id": "d",
+          "text": "Lupkanje (tapotman)"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Glađenje je prvi i posljednji hvat i umeće se između ostalih hvatova. Gnječenje je glavni hvat za mišiće, trenje najdublji lokalni hvat, a lupkanje podražajni hvat kojim se masaža ne započinje ni ne završava.",
+      "tags": [
+        "glađenje",
+        "redoslijed"
+      ]
+    },
+    {
+      "id": "ms-010",
+      "lesson_id": "hvatovi-klasicne-masaze",
+      "type": "single",
+      "difficulty": 1,
+      "text": "U kojem se smjeru izvode potezi glađenja na udovima?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Od proksimalnog prema distalnom dijelu, u smjeru arterijskog protoka"
+        },
+        {
+          "id": "b",
+          "text": "Od distalnog prema proksimalnom dijelu, prema srcu, u smjeru venskog i limfnog otjecanja"
+        },
+        {
+          "id": "c",
+          "text": "Poprečno na uzdužnu os uda, jednakim pritiskom u oba smjera"
+        },
+        {
+          "id": "d",
+          "text": "U smjeru u kojem pacijent osjeća manju bol, bez stalnog pravila"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Glađenje potiskuje vensku krv i limfu, pa se izvodi centripetalno, prema srcu, a ruka se vraća bez pritiska. Smjer arterijskog protoka bio bi suprotan venskom i limfnom otjecanju.",
+      "tags": [
+        "glađenje",
+        "smjer"
+      ]
+    },
+    {
+      "id": "ms-011",
+      "lesson_id": "hvatovi-klasicne-masaze",
+      "type": "true_false",
+      "difficulty": 1,
+      "text": "Gnječenje (petrisaža) glavni je hvat za mišiće i zauzima najveći dio klasične masaže.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "t"
+      ],
+      "explanation": "Gnječenjem se mišić odiže od podloge, stišće i pušta u smjeru vlakana, čime se istiskuju venska krv i limfa, uklanjaju otpadne tvari i smanjuje napetost; zato je ono najdulji dio klasične masaže.",
+      "tags": [
+        "gnječenje"
+      ]
+    },
+    {
+      "id": "ms-012",
+      "lesson_id": "hvatovi-klasicne-masaze",
+      "type": "single",
+      "difficulty": 3,
+      "text": "Pacijent ima stari, slabo pomičan ožiljak s priraslicama na podlaktici nakon zacijeljene ozljede. Koji je hvat klasične masaže najprikladniji za to mjesto?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Površinsko glađenje s obiljem ulja"
+        },
+        {
+          "id": "b",
+          "text": "Trenje (frikcija) bez sredstva za masažu"
+        },
+        {
+          "id": "c",
+          "text": "Lupkanje vršcima prstiju"
+        },
+        {
+          "id": "d",
+          "text": "Protresanje cijelog uda"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Trenje mehanički razdvaja slijepljene slojeve tkiva i čini ožiljak pomičnim, a izvodi se bez sredstva jer koža mora putovati zajedno s prstima. Glađenje i lupkanje ne dosežu dublje slojeve, a protresanje opušta velike mišićne skupine.",
+      "tags": [
+        "frikcija",
+        "ožiljak"
+      ]
+    },
+    {
+      "id": "ms-013",
+      "lesson_id": "hvatovi-klasicne-masaze",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Koje su tvrdnje o lupkanju (tapotmanu) točne?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Izvodi se brzim, ritmičnim, naizmjeničnim udarcima opuštenih ruku"
+        },
+        {
+          "id": "b",
+          "text": "Djeluje podražajno i povisuje tonus mišića"
+        },
+        {
+          "id": "c",
+          "text": "Hvat je izbora kod napetih i spastičnih mišića"
+        },
+        {
+          "id": "d",
+          "text": "Pljeskanje kupolastim dlanom po prsnom košu olakšava iskašljavanje"
+        },
+        {
+          "id": "e",
+          "text": "Izvodi se preko bubrega i kralježnice jačim udarcima"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "d"
+      ],
+      "explanation": "Lupkanje podražuje, povisuje tonus i izaziva hiperemiju, pa se ne primjenjuje na napete, bolne i spastične mišiće. Ne izvodi se preko bubrega, kralježnice i koštanih izbočina, a pljeskanje po prsnom košu rabi se u respiratornoj fizioterapiji.",
+      "tags": [
+        "lupkanje"
+      ]
+    },
+    {
+      "id": "ms-014",
+      "lesson_id": "hvatovi-klasicne-masaze",
+      "type": "true_false",
+      "difficulty": 2,
+      "text": "Fina vibracija umiruje i smanjuje napetost mišića, a ručna vibracija brzo zamara terapeuta pa se često zamjenjuje uređajima.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "t"
+      ],
+      "explanation": "Fina vibracija djeluje umirujuće, smanjuje napetost i ublažava bol, za razliku od lupkanja koje podražuje. Budući da nastaje brzim naizmjeničnim stezanjem mišića ruke terapeuta, ručna vibracija brzo zamara, pa se često izvodi uređajima.",
+      "tags": [
+        "vibracija"
+      ]
+    },
+    {
+      "id": "ms-015",
+      "lesson_id": "hvatovi-klasicne-masaze",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Koji redoslijed hvatova odgovara pravilima klasične masaže?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Glađenje, gnječenje, trenje, lupkanje, vibracija, glađenje"
+        },
+        {
+          "id": "b",
+          "text": "Lupkanje, trenje, gnječenje, glađenje, vibracija"
+        },
+        {
+          "id": "c",
+          "text": "Trenje, glađenje, vibracija, gnječenje, lupkanje"
+        },
+        {
+          "id": "d",
+          "text": "Gnječenje, lupkanje, glađenje, trenje, vibracija"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Masaža počinje i završava glađenjem, a hvatovi se nižu od blažih prema jačima i od površine u dubinu. Lupkanje i trenje nikada nisu prvi hvat jer bi nepripremljeno tkivo nadražili.",
+      "tags": [
+        "redoslijed"
+      ]
+    },
+    {
+      "id": "ms-016",
+      "lesson_id": "hvatovi-klasicne-masaze",
+      "type": "single",
+      "difficulty": 3,
+      "text": "Masirate cijelu nogu nakon duže imobilizacije. Kojim redoslijedom obrađujete segmente i u kojem smjeru idu potezi?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Najprije natkoljenica, zatim potkoljenica i stopalo; potezi od distalnog prema proksimalnom dijelu"
+        },
+        {
+          "id": "b",
+          "text": "Najprije stopalo, zatim potkoljenica i natkoljenica; potezi od proksimalnog prema distalnom dijelu"
+        },
+        {
+          "id": "c",
+          "text": "Najprije stopalo, zatim potkoljenica i natkoljenica; potezi od distalnog prema proksimalnom dijelu"
+        },
+        {
+          "id": "d",
+          "text": "Redoslijed segmenata nije važan ako su potezi dovoljno snažni"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Proksimalni segment obrađuje se prvi da se oslobodi put venskom i limfnom otjecanju, a svaki potez ide prema srcu, dakle od distalnog prema proksimalnom dijelu. Potezi usmjereni distalno protivili bi se otjecanju.",
+      "tags": [
+        "redoslijed",
+        "smjer"
+      ]
+    },
+    {
+      "id": "ms-017",
+      "lesson_id": "ucinci-indikacije-i-kontraindikacije",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Kako se nazivaju crvenilo i zagrijanost kože koji nastaju širenjem krvnih žila tijekom masaže?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hiperemija"
+        },
+        {
+          "id": "b",
+          "text": "Cijanoza"
+        },
+        {
+          "id": "c",
+          "text": "Ishemija"
+        },
+        {
+          "id": "d",
+          "text": "Edem"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Hiperemija je povećana prokrvljenost koja se očituje crvenilom i toplinom kože. Nastaje mehanički, refleksno preko živčanog sustava i humoralno, oslobađanjem histamina koji širi kapilare.",
+      "tags": [
+        "koža",
+        "hiperemija"
+      ]
+    },
+    {
+      "id": "ms-018",
+      "lesson_id": "ucinci-indikacije-i-kontraindikacije",
+      "type": "true_false",
+      "difficulty": 1,
+      "text": "Redovitom masažom mišić postaje snažniji i povećava mu se masa, pa masaža može zamijeniti vježbe snage.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "f"
+      ],
+      "explanation": "Masaža poboljšava prokrvljenost, ubrzava uklanjanje otpadnih tvari, povećava elastičnost i mijenja tonus mišića, ali ne povećava mišićnu snagu ni masu. To postiže samo aktivno vježbanje.",
+      "tags": [
+        "mišići"
+      ]
+    },
+    {
+      "id": "ms-019",
+      "lesson_id": "ucinci-indikacije-i-kontraindikacije",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Kako masaža djeluje na tonus mišića?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Uvijek ga snižava, bez obzira na vrstu hvata"
+        },
+        {
+          "id": "b",
+          "text": "Uvijek ga povisuje, jer svaki hvat podražuje mišić"
+        },
+        {
+          "id": "c",
+          "text": "Spori, blagi hvatovi snižavaju tonus, a brzi, snažni hvatovi ga povisuju"
+        },
+        {
+          "id": "d",
+          "text": "Ne djeluje na tonus, nego samo na kožu"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "Učinak na tonus ovisi o načinu izvođenja: blago i sporo gnječenje opušta grčevito stegnuti mišić, a brzo lupkanje podražuje mlohav mišić. Zato se lupkanje izostavlja kada je cilj opuštanje.",
+      "tags": [
+        "mišići",
+        "tonus"
+      ]
+    },
+    {
+      "id": "ms-020",
+      "lesson_id": "ucinci-indikacije-i-kontraindikacije",
+      "type": "single",
+      "difficulty": 3,
+      "text": "Prema teoriji kontrole prolaza (engl. gate control) masaža smanjuje bol jer:",
+      "options": [
+        {
+          "id": "a",
+          "text": "podražaj debelih osjetnih vlakana za dodir i pritisak u leđnoj moždini prigušuje prijenos bolnih podražaja tankim vlaknima"
+        },
+        {
+          "id": "b",
+          "text": "zagrijavanje kože uništava receptore za bol"
+        },
+        {
+          "id": "c",
+          "text": "mehanički pritisak potpuno prekida provođenje perifernih živaca"
+        },
+        {
+          "id": "d",
+          "text": "hiperemija ispire histamin, koji je jedini uzrok boli"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Dodir i pritisak aktiviraju debela osjetna vlakna koja na razini leđne moždine prigušuju prijenos bolnih podražaja tankim vlaknima. Masaža uz to potiče otpuštanje endorfina i uklanja mišićnu napetost, ali ne uništava receptore niti prekida provođenje živaca.",
+      "tags": [
+        "bol",
+        "živčani sustav"
+      ]
+    },
+    {
+      "id": "ms-021",
+      "lesson_id": "ucinci-indikacije-i-kontraindikacije",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Koji su učinci opuštajuće masaže s blagim, sporim hvatovima?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Usporavanje rada srca"
+        },
+        {
+          "id": "b",
+          "text": "Blago sniženje krvnog tlaka"
+        },
+        {
+          "id": "c",
+          "text": "Povišenje tonusa mišića"
+        },
+        {
+          "id": "d",
+          "text": "Smanjenje tjeskobe i napetosti"
+        },
+        {
+          "id": "e",
+          "text": "Povećanje budnosti i podražljivosti živčanog sustava"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "d"
+      ],
+      "explanation": "Blagi, spori hvatovi djeluju sedativno uz prevladavanje parasimpatikusa, pa se rad srca usporava, tlak blago snižava, a tjeskoba i napetost smanjuju. Povišenje tonusa i budnosti učinak je brzih, snažnih, podražajnih hvatova.",
+      "tags": [
+        "živčani sustav",
+        "cirkulacija"
+      ]
+    },
+    {
+      "id": "ms-022",
+      "lesson_id": "ucinci-indikacije-i-kontraindikacije",
+      "type": "multiple",
+      "difficulty": 3,
+      "text": "Koja su stanja indikacije za klasičnu masažu?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kronična križobolja s napetošću leđnih mišića"
+        },
+        {
+          "id": "b",
+          "text": "Ukočenost nakon skidanja gipsa, bez otoka i boli u mirovanju"
+        },
+        {
+          "id": "c",
+          "text": "Akutno uganuće gležnja prvog dana nakon ozljede"
+        },
+        {
+          "id": "d",
+          "text": "Glavobolja tenzijskog tipa"
+        },
+        {
+          "id": "e",
+          "text": "Duboka venska tromboza potkoljenice"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "d"
+      ],
+      "explanation": "Masaža je indicirana kod napetosti i boli u mišićima te nakon imobilizacije kada akutna faza prođe. Svježa ozljeda masažom bi se pogoršala pojačanim krvarenjem i otokom, a tromboza je opća kontraindikacija zbog opasnosti od plućne embolije.",
+      "tags": [
+        "indikacije"
+      ]
+    },
+    {
+      "id": "ms-023",
+      "lesson_id": "ucinci-indikacije-i-kontraindikacije",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Zašto je tromboza vena kontraindikacija za masažu?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jer masaža može pokrenuti ugrušak i izazvati plućnu emboliju"
+        },
+        {
+          "id": "b",
+          "text": "Jer masaža povisuje tjelesnu temperaturu"
+        },
+        {
+          "id": "c",
+          "text": "Jer masaža snižava broj trombocita"
+        },
+        {
+          "id": "d",
+          "text": "Jer masaža zatvara zaliske u venama"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Mehanički pritisak na venu s ugruškom može ugrušak otkinuti i odnijeti krvotokom u pluća, pa se kod tromboze i tromboflebitisa ne masira. Ostale navedene učinke masaža nema.",
+      "tags": [
+        "kontraindikacije",
+        "tromboza"
+      ]
+    },
+    {
+      "id": "ms-024",
+      "lesson_id": "ucinci-indikacije-i-kontraindikacije",
+      "type": "single",
+      "difficulty": 3,
+      "text": "Koje od navedenih stanja NIJE opća (apsolutna) kontraindikacija, nego samo lokalna kontraindikacija za masažu određenog područja?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vrućica s akutnom zaraznom bolešću"
+        },
+        {
+          "id": "b",
+          "text": "Proširene vene (varikoziteti) potkoljenice"
+        },
+        {
+          "id": "c",
+          "text": "Neliječena maligna bolest"
+        },
+        {
+          "id": "d",
+          "text": "Hemofilija i izražena sklonost krvarenju"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Varikoziteti isključuju masažu samo područja nad njima, pa su lokalna kontraindikacija. Vrućica, neliječena maligna bolest i izražena sklonost krvarenju isključuju svaku masažu.",
+      "tags": [
+        "kontraindikacije"
+      ]
+    },
+    {
+      "id": "ms-025",
+      "lesson_id": "posebne-tehnike-masaze",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Po čemu se manualna limfna drenaža razlikuje od klasične masaže?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pritisak je vrlo lagan, tek toliki da se koža pomiče zajedno s rukom"
+        },
+        {
+          "id": "b",
+          "text": "Izvodi se bez sredstva za masažu"
+        },
+        {
+          "id": "c",
+          "text": "Hvatovi su brzi i udarni, poput lupkanja"
+        },
+        {
+          "id": "d",
+          "text": "Počinje na vratu i regionalnim limfnim čvorovima, a ne na otečenom dijelu"
+        },
+        {
+          "id": "e",
+          "text": "Cilj joj je izazvati snažno crvenilo kože"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "d"
+      ],
+      "explanation": "MLD rabi spore, kružne hvatove s vrlo laganim pritiskom, bez sredstva za masažu te bez crvenila i boli, jer jači pritisak zatvara tanke površinske limfne žile. Drenaža najprije prazni središnje putove na vratu i regionalnim čvorovima, a otečeni dio obrađuje posljednji.",
+      "tags": [
+        "limfna drenaža"
+      ]
+    },
+    {
+      "id": "ms-026",
+      "lesson_id": "posebne-tehnike-masaze",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Koje je stanje kontraindikacija za manualnu limfnu drenažu?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sekundarni limfedem ruke nakon operacije raka dojke"
+        },
+        {
+          "id": "b",
+          "text": "Erizipel (bakterijska upala kože i potkožja) na otečenom udu"
+        },
+        {
+          "id": "c",
+          "text": "Otok koljena dva tjedna nakon operacije, bez znakova upale"
+        },
+        {
+          "id": "d",
+          "text": "Lipedem"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Akutne infekcije, osobito erizipel, kao i akutna tromboza, dekompenzacija srca i neliječena maligna bolest kontraindikacije su za MLD. Limfedem, otok nakon operacije bez upale i lipedem glavne su indikacije.",
+      "tags": [
+        "limfna drenaža",
+        "kontraindikacije"
+      ]
+    },
+    {
+      "id": "ms-027",
+      "lesson_id": "posebne-tehnike-masaze",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Koje su sastavnice kompleksne dekongestivne terapije limfedema?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Manualna limfna drenaža, kompresija, vježbe uz kompresiju i njega kože"
+        },
+        {
+          "id": "b",
+          "text": "Manualna limfna drenaža, lupkanje, topli oblozi i mirovanje"
+        },
+        {
+          "id": "c",
+          "text": "Elektroterapija, duboka frikcija, istezanje i hlađenje"
+        },
+        {
+          "id": "d",
+          "text": "Kompresija, lijekovi za izmokravanje, dijeta i mirovanje"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Kompleksnu dekongestivnu terapiju čine manualna limfna drenaža, kompresija zavojima ili čarapama, vježbe uz kompresiju i njega kože. Bez kompresije se postignuto smanjenje otoka brzo gubi.",
+      "tags": [
+        "limfedem"
+      ]
+    },
+    {
+      "id": "ms-028",
+      "lesson_id": "posebne-tehnike-masaze",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Kakva je pripremna sportska masaža neposredno prije natjecanja?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Duga, spora i umirujuća, s dubokim trenjem"
+        },
+        {
+          "id": "b",
+          "text": "Kratka, brza i podražajna, s lupkanjem i protresanjem, bez dubokih i bolnih hvatova"
+        },
+        {
+          "id": "c",
+          "text": "Izvodi se samo na ozlijeđenom mišiću uz hladni oblog"
+        },
+        {
+          "id": "d",
+          "text": "Zamjenjuje aktivno zagrijavanje, pa se ono izostavlja"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Pripremna masaža zagrijava mišiće i povisuje im tonus, pa je kratka i podražajna; duboka i bolna masaža opustila bi i umorila mišić, a aktivno zagrijavanje masaža ne zamjenjuje. Spora, umirujuća masaža jest masaža oporavka nakon napora.",
+      "tags": [
+        "sportska masaža"
+      ]
+    },
+    {
+      "id": "ms-029",
+      "lesson_id": "posebne-tehnike-masaze",
+      "type": "true_false",
+      "difficulty": 1,
+      "text": "Neposredno nakon uganuća gležnja na natjecanju treba ozlijeđeno područje odmah snažno izmasirati da se spriječi oteklina.",
+      "options": [
+        {
+          "id": "t",
+          "text": "Točno"
+        },
+        {
+          "id": "f",
+          "text": "Netočno"
+        }
+      ],
+      "correct": [
+        "f"
+      ],
+      "explanation": "Masaža akutne ozljede pojačala bi krvarenje u tkivo i oteklinu. U prvim se danima primjenjuju mirovanje, hlađenje, kompresija i podizanje uda, a masaža se uvodi tek nakon akutne faze.",
+      "tags": [
+        "sportska masaža",
+        "ozljede"
+      ]
+    },
+    {
+      "id": "ms-030",
+      "lesson_id": "posebne-tehnike-masaze",
+      "type": "single",
+      "difficulty": 3,
+      "text": "Tijekom masaže vezivnog tkiva pacijent navodi oštar osjećaj rezanja, a na koži se pojavljuje crvena pruga. Što to znači?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Potez je pravilno izveden; to su očekivani znakovi tehnike"
+        },
+        {
+          "id": "b",
+          "text": "Nastala je alergijska reakcija na ulje za masažu"
+        },
+        {
+          "id": "c",
+          "text": "Terapeut je oštetio kožu i masažu treba odmah prekinuti"
+        },
+        {
+          "id": "d",
+          "text": "Pacijent ima kontraindikaciju i tehnika se više ne smije primijeniti"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Osjećaj rezanja i crvena pruga (dermografizam) očekivani su znakovi pravilno izvedenog poteza masaže vezivnog tkiva, a ne komplikacija. Alergija na ulje je isključena jer se ta tehnika izvodi bez sredstva za masažu.",
+      "tags": [
+        "masaža vezivnog tkiva"
+      ]
+    },
+    {
+      "id": "ms-031",
+      "lesson_id": "posebne-tehnike-masaze",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Koje su tvrdnje o segmentnoj masaži točne?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Temelji se na segmentalnoj inervaciji i refleksnim zonama (Headove i Mackenziejeve zone)"
+        },
+        {
+          "id": "b",
+          "text": "Izvodi se bez sredstva za masažu"
+        },
+        {
+          "id": "c",
+          "text": "Počinje na stopalima i napreduje prema glavi"
+        },
+        {
+          "id": "d",
+          "text": "Posebni su hvatovi pilanje i bušenje (svrdlanje)"
+        },
+        {
+          "id": "e",
+          "text": "Glavna joj je indikacija akutna upala unutarnjih organa"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "d"
+      ],
+      "explanation": "Segmentna masaža preko leđne moždine djeluje na organ istog segmenta, izvodi se bez sredstva i rabi posebne hvatove poput pilanja i bušenja. Počinje paravertebralno na leđima, od kaudalnih prema kranijalnim segmentima, a akutne upale i vrućica kontraindikacije su kao i za svaku masažu.",
+      "tags": [
+        "segmentna masaža"
+      ]
+    }
+  ]
+}

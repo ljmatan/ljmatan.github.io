@@ -1,0 +1,826 @@
+{
+  "id": "kineziterapija",
+  "program_id": "fizioterapeut",
+  "title": "Kineziterapija",
+  "short_title": "Kineziterapija",
+  "description": "Liječenje pokretom: procjena mišićne snage i opsega pokreta, vrste vježbi i doziranje opterećenja, istezanje, disanje i ravnoteža te rehabilitacija nakon ozljeda i operacija s pomagalima za hod.",
+  "color": "#10B981",
+  "icon": "fitness_center",
+  "year": 3,
+  "lessons": [
+    {
+      "id": "procjena-mmt-i-goniometrija",
+      "title": "Procjena: manualni mišićni test i goniometrija",
+      "summary": "Kako se prije planiranja vježbi procjenjuju mišićna snaga manualnim mišićnim testom i opseg pokreta goniometrom.",
+      "estimated_minutes": 10,
+      "sections": [
+        {
+          "heading": "Kineziterapija i proces procjene",
+          "body": "Kineziterapija (grč. kinesis – pokret, therapeia – liječenje) jest liječenje pokretom. Ona je dio fizikalne terapije u kojem je tjelesna vježba, pasivna ili aktivna, glavno sredstvo liječenja. Ciljevi su joj održati ili povećati opseg pokreta u zglobovima, mišićnu snagu i izdržljivost, poboljšati koordinaciju i ravnotežu te bolesnika vratiti na najvišu moguću razinu samostalnosti u svakodnevnim aktivnostima. Primjenjuje se u ortopediji, traumatologiji, neurologiji, reumatologiji, kardiologiji i pulmologiji, ali i u prevenciji bolesti kod zdravih osoba.\n\nKineziterapijski postupak uvijek počinje procjenom. Uzmite anamnezu, promotrite držanje i obrazac pokreta (inspekcija), opipajte tkiva (palpacija) te izmjerite opseg pokreta i mišićnu snagu. Na temelju nalaza postavljaju se mjerljivi ciljevi i izrađuje plan vježbanja, a nakon provedbe mjerenje se ponavlja kako bi se utvrdio učinak. Bez početnog mjerenja nije moguće objektivno pratiti napredak ni opravdati promjenu opterećenja.\n\nProcjena otkriva i stanja u kojima vježbanje nije dopušteno. Opće kontraindikacije za kineziterapiju jesu akutna upala zgloba ili mekih tkiva, nestabilan prijelom, povišena tjelesna temperatura, akutne bolesti srca i krvnih žila, akutna, još neliječena duboka venska tromboza te jaka bol koja se pokretom pogoršava. Mišićna slabost i ukočenost zgloba, naprotiv, nisu kontraindikacije nego glavne indikacije za vježbanje. Fizioterapeut se pritom drži liječničkih uputa o dopuštenom opterećenju i vrsti pokreta, osobito nakon operacija.",
+          "bullets": [
+            "Anamneza: tegobe, dosadašnje liječenje, zanimanje i razina aktivnosti",
+            "Inspekcija: držanje, hod, otekline, ožiljci, atrofija mišića",
+            "Palpacija: temperatura kože, bolnost, napetost mišića",
+            "Mjerenje: opseg pokreta goniometrom i snaga manualnim mišićnim testom",
+            "Funkcionalni testovi: hod, ravnoteža, aktivnosti svakodnevnog života"
+          ],
+          "image": {
+            "file": "kineziterapija/dinamometar.jpg",
+            "caption": "Ručni dinamometar mjeri snagu stiska šake: objektivna, brojčana mjera mišićne snage u procjeni.",
+            "credits": [
+              {
+                "title": "Hand dynamometer",
+                "author": "Ashashyou",
+                "source": "https://commons.wikimedia.org/wiki/File:Hand_dynamometer.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Manualni mišićni test: ocjene 0 do 5",
+          "body": "Manualni mišićni test (MMT) jest standardizirani postupak kojim se snaga pojedinog mišića ili mišićne skupine procjenjuje bez uređaja, rukama ispitivača. Snaga se ocjenjuje na ljestvici od 0 do 5, pri čemu se promatra može li mišić izazvati kontrakciju, pokrenuti segment kroz puni opseg pokreta, svladati silu teže (gravitaciju) i na kraju svladati otpor koji daje ispitivač. Ljestvica potječe od Lovettova testa, a danas se najčešće koristi inačica britanskog Vijeća za medicinska istraživanja (MRC).\n\nOcjena 0 (nula) znači da nema ni vidljive ni opipljive kontrakcije. Ocjena 1 (trag kontrakcije) znači da se kontrakcija vidi ili opipa, ali ne proizvodi pokret. Ocjena 2 (slabo) znači da mišić izvodi puni opseg pokreta samo kada je sila teže isključena, dakle u vodoravnoj ravnini ili uz potporu segmenta. Ocjena 3 (dobro) znači puni opseg pokreta protiv sile teže, ali bez ikakva dodatnog otpora.\n\nOcjena 4 (vrlo dobro) znači puni opseg pokreta protiv sile teže i umjerenog otpora ispitivača, a ocjena 5 (normalno) puni opseg pokreta protiv sile teže i maksimalnog otpora, jednako kao na zdravoj strani. Prema izvornoj Lovettovoj ljestvici ocjene se orijentacijski izražavaju i postotkom normalne snage: 5 je 100 %, 4 je 75 %, 3 je 50 %, 2 je 25 %, 1 je 10 %, a 0 je 0 %. Ocjene se mogu dopuniti znakovima plus i minus (na primjer 3+ ili 4-) kada snaga leži između dviju ocjena.",
+          "bullets": [
+            "0: nema vidljive ni opipljive kontrakcije",
+            "1: vidljiva ili opipljiva kontrakcija bez pokreta",
+            "2: puni opseg pokreta uz isključenu silu teže",
+            "3: puni opseg pokreta protiv sile teže, bez otpora",
+            "4: puni opseg pokreta protiv sile teže i umjerenog otpora",
+            "5: puni opseg pokreta protiv sile teže i maksimalnog otpora"
+          ]
+        },
+        {
+          "heading": "Provedba manualnog mišićnog testa",
+          "body": "Prije testa objasnite bolesniku postupak i pokažite mu pokret. Testiranje počinje u položaju protiv sile teže, kojim se razlikuju ocjene 3 do 5. Bolesnik se namješta tako da ispitivani pokret ide okomito prema gore, proksimalni segment stabilizira se rukom ispitivača, a bolesnik aktivno izvodi pokret kroz cijeli opseg. Ako to uspije, ispitivač na kraju opsega pokreta daje postupan otpor na distalnom dijelu segmenta i ocjenjuje koliko ga mišić može izdržati. Otpor se daje polako, bez trzaja, u smjeru suprotnom od smjera pokreta.\n\nAko bolesnik ne može izvesti puni pokret protiv sile teže, prelazi se u položaj s isključenom silom teže: segment se postavlja u vodoravnu ravninu ili se podupire na glatkoj podlozi, a pokret se izvodi uzduž podloge. Puni opseg pokreta u tom položaju daje ocjenu 2. Kada ni tada nema pokreta, ispitivač opipava trbuh mišića ili tetivu: opipljiva kontrakcija daje ocjenu 1, a potpuna odsutnost kontrakcije ocjenu 0.\n\nRezultat ovisi o znanju i iskustvu ispitivača, pa je test djelomično subjektivan, osobito u razlikovanju ocjena 4 i 5. Zbog toga se nalaz uvijek uspoređuje sa suprotnom stranom tijela i ponavlja u istim uvjetima, u isto doba dana i s istim ispitivačem. Test se ne izvodi kada je mišićna kontrakcija zabranjena ili opasna, na primjer neposredno nakon šivanja tetive, kod nestabilnog prijeloma ili u akutnoj upali, a bol tijekom testa upisuje se u nalaz jer može lažno sniziti ocjenu.",
+          "bullets": [
+            "Objasnite i pokažite pokret, namjestite početni položaj",
+            "Stabilizirajte proksimalni segment",
+            "Najprije testirajte protiv sile teže, zatim uz isključenu silu teže",
+            "Otpor dajte postupno, bez trzaja, na kraju opsega pokreta",
+            "Usporedite sa suprotnom stranom i zabilježite ocjenu i bol"
+          ]
+        },
+        {
+          "heading": "Mjerenje opsega pokreta goniometrom",
+          "body": "Opseg pokreta (engl. range of motion, ROM) jest luk kroz koji se segment kreće u zglobu, a izražava se u stupnjevima. Mjeri se goniometrom, kutomjerom koji ima tijelo s mjernom ljestvicom i osovinom te dva kraka: nepomični (stacionarni) krak i pomični krak. Osovina goniometra postavlja se na os rotacije zgloba, nepomični krak uzduž uzdužne osi proksimalnog segmenta, a pomični krak uzduž uzdužne osi distalnog segmenta, prateći koštane orijentacijske točke; samo tako kut na ljestvici odgovara kutu u zglobu.\n\nRazlikuje se aktivni opseg pokreta, koji bolesnik izvodi vlastitom mišićnom snagom, i pasivni opseg pokreta, koji izvodi ispitivač bez sudjelovanja bolesnika. Pasivni opseg obično je nešto veći od aktivnoga jer na kraju pokreta ispitivač može dodatno istegnuti meka tkiva. Ako je pasivni opseg uredan, a aktivni znatno manji, zglob i meka tkiva nisu ograničeni, pa je uzrok najčešće mišićna slabost ili bol koja koči aktivnu kontrakciju. Ako su oba opsega jednako smanjena, uzrok je u samom zglobu ili okolnim mekim tkivima, na primjer skraćena zglobna čahura (kapsula), kontraktura ili koštana prepreka.\n\nMjerenje se bilježi neutralnom nultom metodom: anatomski položaj zgloba označava se kao 0 stupnjeva, a pokreti se bilježe od tog položaja u oba smjera. Na primjer, za koljeno se piše ispružanje (ekstenzija) – neutralni položaj – pregibanje (fleksija) kao 0–0–130, dok 15–0–130 znači petnaest stupnjeva prekomjernog ispružanja (hiperekstenzije). Kada se zglob ne može dovesti u nulti položaj, nula se piše na strani pokreta koji nedostaje: zapis 0–15–130 znači da ispružanje staje petnaest stupnjeva prije nultog položaja, odnosno da koljenu nedostaje petnaest stupnjeva do punog ispružanja, dok pregibanje iznosi 130 stupnjeva.\n\nPri mjerenju bolesnik je opušten, proksimalni segment stabiliziran, a svako se mjerenje ponavlja u istom položaju i istim goniometrom; razlike manje od pet stupnjeva ne smatraju se stvarnom promjenom. Na kraju pasivnog pokreta ispitivač procjenjuje i osjećaj kraja pokreta: tvrdi (kost na kost, na primjer puno ispružanje lakta), mekani (približavanje mekih tkiva, na primjer pregibanje koljena) ili čvrsti, elastični (napetost čahure i sveza, na primjer vanjska rotacija ramena). Prazni osjećaj kraja pokreta, kada bol zaustavlja pokret prije bilo kakva otpora tkiva, upućuje na akutni proces.",
+          "bullets": [
+            "Osovina goniometra: na os rotacije zgloba",
+            "Nepomični krak: uzduž proksimalnog segmenta",
+            "Pomični krak: uzduž distalnog segmenta",
+            "Zapis neutralnom nultom metodom: pokret – 0 – suprotni pokret",
+            "Uvijek usporedite sa suprotnom stranom i ponovite u istim uvjetima"
+          ]
+        }
+      ],
+      "key_points": [
+        "Kineziterapija je liječenje pokretom; svaki plan vježbanja počinje procjenom i mjerenjem.",
+        "MMT ocjenjuje snagu od 0 (nema kontrakcije) do 5 (puni pokret protiv maksimalnog otpora).",
+        "Ocjena 2 znači puni pokret samo uz isključenu silu teže; ocjena 3 puni pokret protiv sile teže bez otpora.",
+        "Goniometrom se mjeri opseg pokreta u stupnjevima: osovina na os zgloba, krakovi uzduž segmenata.",
+        "Pasivni opseg obično je veći od aktivnoga; velika razlika upućuje na slabost ili bol kao uzrok.",
+        "Neutralna nulta metoda bilježi pokrete od anatomskog položaja (0 stupnjeva) u oba smjera."
+      ]
+    },
+    {
+      "id": "vrste-vjezbi-i-doziranje",
+      "title": "Vrste vježbi i doziranje opterećenja",
+      "summary": "Pasivne, aktivno-potpomognute, aktivne, izometričke i vježbe s otporom te načela po kojima se opterećenje dozira i postupno povećava.",
+      "estimated_minutes": 11,
+      "sections": [
+        {
+          "heading": "Pasivne vježbe",
+          "body": "Pasivne su vježbe pokreti koje u zglobu bolesnika izvodi vanjska sila, najčešće ruke fizioterapeuta, a ponekad uređaj za kontinuirani pasivni pokret (CPM) ili zdravi ud bolesnika, bez ikakve aktivne mišićne kontrakcije. Primjenjuju se kada bolesnik ne može ili ne smije sam pokretati segment: kod oduzetosti (paralize) i teške slabosti (pareze) s ocjenom MMT 0 ili 1, kod bolesnika bez svijesti te u ranoj fazi nakon ozljede ili operacije kada bi aktivna kontrakcija ometala cijeljenje.\n\nCilj pasivnih vježbi jest očuvati postojeći opseg pokreta i elastičnost mišića, čahure i sveza, spriječiti nastanak kontraktura i sraslina, pomoći cirkulaciji i dati zglobu proprioceptivni podražaj. Važno je znati što pasivne vježbe ne mogu: one ne povećavaju mišićnu snagu, ne sprječavaju mišićnu atrofiju i ne poboljšavaju izdržljivost, jer se mišić uopće ne kontrahira. Čim je bolesnik sposoban sudjelovati, prelazi se na aktivno-potpomognute vježbe.\n\nPokret izvodite polako i ritmično, kroz cijeli slobodni opseg do točke blagog otpora tkiva, bez prolaska kroz bol. Jednom rukom stabilizirajte proksimalni segment, a drugom obuhvatite distalni segment blizu zgloba kako bi poluga bila kratka, a kontrola dobra. Svaki se pokret ponavlja nekoliko puta, više puta na dan. Pasivni pokret kontraindiciran je kada bi poremetio cijeljenje, kao kod nestabilnog prijeloma ili svježeg šava tetive, te kod akutne, neliječene duboke venske tromboze.",
+          "bullets": [
+            "Izvodi ih terapeut, uređaj (CPM) ili zdravi ud bolesnika",
+            "Indikacije: MMT 0 do 1, besvjesno stanje, zabrana aktivne kontrakcije",
+            "Ciljevi: očuvanje opsega pokreta, prevencija kontraktura, pomoć cirkulaciji",
+            "Ne povećavaju snagu i ne sprječavaju atrofiju"
+          ]
+        },
+        {
+          "heading": "Aktivno-potpomognute i aktivne vježbe",
+          "body": "Aktivno-potpomognute vježbe bolesnik započinje vlastitom snagom, a pokret dovršava uz pomoć fizioterapeuta, zdravog uda, remena ili ovjesa (suspenzije), kolotura ili uzgona vode. Namijenjene su mišićima ocjene MMT 2, koji mogu pokrenuti segment, ali ne i svladati silu teže. Pomoć je samo tolika koliko je potrebno da se pokret dovrši kroz cijeli opseg i postupno se smanjuje kako snaga raste.\n\nAktivne vježbe bolesnik izvodi sam, bez pomoći i bez vanjskog otpora, pri čemu mišić svladava samo težinu segmenta i silu teže. Preduvjet je snaga ocjene MMT 3. Aktivne vježbe održavaju i povećavaju opseg pokreta, poboljšavaju koordinaciju i izdržljivost, potiču cirkulaciju i prvi su korak u jačanju. Mogu biti slobodne, bez pomagala, ili se izvode s pomagalima poput palice, lopte ili ljestava za zid, koja olakšavaju kontrolu pokreta.\n\nPrema položaju distalnog segmenta aktivne se vježbe dijele na vježbe otvorenog i zatvorenog kinetičkog lanca. U otvorenom lancu distalni je segment slobodan (na primjer ispružanje koljena u sjedećem položaju ili podizanje ispružene noge ležeći na leđima), pa se izolirano opterećuje jedan zglob. U zatvorenom lancu distalni je segment oslonjen na podlogu (na primjer čučanj), pokret se istodobno zbiva u više zglobova, mišići rade u koaktivaciji, a zglob je izložen pretežno kompresiji, dok su sile smicanja manje nego u otvorenom lancu. Zatvoreni lanac bliži je svakodnevnim aktivnostima i često se prvi uvodi nakon operacija koljena.",
+          "bullets": [
+            "Aktivno-potpomognute: MMT 2, pomoć se postupno smanjuje",
+            "Aktivne: MMT 3, protiv sile teže, bez otpora",
+            "Otvoreni lanac: distalni segment slobodan, izolirani zglob",
+            "Zatvoreni lanac: distalni segment oslonjen, više zglobova, funkcionalnije"
+          ]
+        },
+        {
+          "heading": "Vježbe s otporom i izometričke vježbe",
+          "body": "Vježbe s otporom uvode se čim mišić svlada silu teže kroz puni opseg (ocjena 3+), a glavno su sredstvo jačanja mišića ocjene 4 i 5: njima se povećavaju snaga, izdržljivost i mišićna masa. Otpor može biti manualni, kada ga fizioterapeut daje rukama i prilagođava tijekom pokreta, ili mehanički: utezi, elastične trake, vlastita težina tijela, kolotura s utezima ili sprave. Mehanički je otpor mjerljiv i ponovljiv, pa je prikladan za samostalno vježbanje i praćenje napretka.\n\nPrema vrsti mišićne kontrakcije razlikujemo izotoničke (dinamičke) i izometričke (statičke) vježbe. U izotoničkoj vježbi mijenja se duljina mišića i postoji pokret u zglobu: u koncentričnoj kontrakciji mišić se skraćuje i svladava otpor, a u ekscentričnoj se produljuje dok kontrolirano popušta otporu, na primjer pri polaganom spuštanju utega. Ekscentrična kontrakcija razvija veću silu uz manji utrošak energije, ali češće izaziva odgođenu mišićnu bol. Izokinetičke vježbe izvode se na posebnom uređaju koji održava stalnu brzinu pokreta.\n\nU izometričkoj vježbi mišić se napinje, ali se njegova duljina ne mijenja i u zglobu nema pokreta, na primjer napinjanje četveroglavog mišića natkoljenice (m. quadriceps femoris) uz ispruženo koljeno. Primjenjuju se kada je pokret bolan ili zabranjen: u gipsu, neposredno nakon operacije ili u smirivanju upale zgloba, kada pokret zahvaćenog zgloba još nije dopušten, a liječnik odobri blage izometričke kontrakcije. Kontrakcija se zadržava nekoliko sekundi, a jačanje je najizraženije u kutu u kojem se vježba izvodi. Izometrička kontrakcija povisuje krvni tlak, osobito ako bolesnik zadržava dah, pa se kod srčanih bolesnika primjenjuje oprezno, uz pravilno disanje.",
+          "bullets": [
+            "Koncentrična: mišić se skraćuje (podizanje utega)",
+            "Ekscentrična: mišić se produljuje pod opterećenjem (spuštanje utega)",
+            "Izometrička: nema promjene duljine ni pokreta u zglobu",
+            "Izokinetička: stalna brzina pokreta na uređaju"
+          ],
+          "image": {
+            "file": "kineziterapija/bucice.jpg",
+            "caption": "Bučice različite težine na polici u teretani. Vježbe s otporom doziraju se težinom, brojem ponavljanja i brojem serija.",
+            "credits": [
+              {
+                "title": "Colorful barbells on a shelf",
+                "author": "Ser Amantio di Nicolao",
+                "source": "https://commons.wikimedia.org/wiki/File:Colorful_barbells_on_a_shelf.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Načela doziranja i progresije opterećenja",
+          "body": "Doziranje vježbe određuju četiri osnovna parametra: učestalost (koliko puta tjedno), intenzitet (veličina otpora ili napora), trajanje (broj ponavljanja i serija ili vrijeme) i vrsta vježbe. Vježbe opsega pokreta izvode se svakodnevno, često i više puta na dan, dok se vježbe snage s većim otporom izvode obično dva do tri puta tjedno, s danom odmora između, jer se mišić oporavlja i jača upravo tijekom odmora. Za snagu se bira veći otpor i manji broj ponavljanja, a za izdržljivost manji otpor i velik broj ponavljanja.\n\nNačelo preopterećenja kaže da mišić jača samo ako je opterećenje veće od onoga na koje je naviknut; načelo postupnosti traži da se opterećenje povećava malim koracima, mijenjajući jedan parametar odjednom; načelo specifičnosti znači da se tijelo prilagođava upravo onoj vrsti napora kojom vježba; a načelo reverzibilnosti upozorava da su učinci privremeni i da se gube prestankom vježbanja. Uobičajeni redoslijed progresije jest: najprije vratiti opseg pokreta, zatim povećati broj ponavljanja, pa tek onda otpor.\n\nKlasičan primjer progresivnog vježbanja s otporom je DeLormeova metoda: odredi se najveći teret koji se može podići deset puta (10 RM, engl. repetition maximum), a zatim se izvode tri serije po deset ponavljanja s 50 %, 75 % i 100 % tog tereta, pa opterećenje raste od serije do serije. Intenzitet se u praksi prati i subjektivno, na primjer Borgovom ljestvicom procjene napora, te razgovorom i promatranjem bolesnika. Blagi umor mišića neposredno nakon vježbe očekivan je, a veći broj ponavljanja koji bolesnik može izvesti znak je napretka. Nasuprot tome, bol koja se pojača tijekom vježbe i traje do sljedećeg dana, oteklina, toplina ili smanjen opseg pokreta znakovi su prevelikog opterećenja i razlog da se doza smanji.",
+          "bullets": [
+            "Učestalost, intenzitet, trajanje i vrsta vježbe: osnovni parametri doziranja",
+            "Preopterećenje: podražaj mora biti veći od uobičajenog",
+            "Postupnost: mali koraci, jedan parametar odjednom",
+            "Specifičnost i reverzibilnost: učinak je specifičan i gubi se prestankom vježbanja",
+            "Bol, oteklina i smanjen opseg pokreta koji traju do sljedećeg dana znače preveliku dozu"
+          ]
+        }
+      ],
+      "key_points": [
+        "Pasivne vježbe izvodi vanjska sila; čuvaju opseg pokreta, ali ne jačaju mišić i ne sprječavaju atrofiju.",
+        "Aktivno-potpomognute vježbe odgovaraju ocjeni MMT 2, aktivne ocjeni 3, a od ocjene 3+ (osobito 4 i 5) vježbe s otporom.",
+        "Izometrička kontrakcija ne mijenja duljinu mišića ni položaj zgloba; koristi se kada je pokret zabranjen ili bolan.",
+        "Ekscentrična kontrakcija razvija veću silu, ali češće izaziva odgođenu mišićnu bol.",
+        "Opterećenje se dozira učestalošću, intenzitetom, trajanjem i vrstom vježbe te povećava postupno, jedan parametar odjednom.",
+        "Bol, oteklina i smanjen opseg pokreta koji traju do sljedećeg dana znak su prevelikog opterećenja."
+      ]
+    },
+    {
+      "id": "istezanje-disanje-ravnoteza",
+      "title": "Istezanje, mobilizacija, disanje i ravnoteža",
+      "summary": "Tehnike istezanja i mobilizacije zglobova, vježbe disanja te vježbe ravnoteže i koordinacije s načelima njihove progresije.",
+      "estimated_minutes": 12,
+      "sections": [
+        {
+          "heading": "Vježbe istezanja: statičko, dinamičko i PNF",
+          "body": "Istezanje je postupak kojim se produljuju skraćeni mišići i vezivna tkiva radi povećanja opsega pokreta i gipkosti. Statičko istezanje izvodi se tako da se mišić polako dovede do položaja u kojem se osjeća zatezanje, ali ne bol, i u tom se položaju zadrži, obično 15 do 30 sekundi, kod starijih osoba i dulje, uz nekoliko ponavljanja. Ono je sigurno, lako se uči i najčešće se primjenjuje u rehabilitaciji. Može biti aktivno, kada bolesnik sam drži položaj, ili pasivno, kada položaj održava terapeut ili vanjska sila.\n\nDinamičko istezanje čine kontrolirani pokreti umjerene brzine kroz cijeli opseg, bez trzaja i bez zadržavanja u krajnjem položaju, na primjer kontrolirani zamasi nogom ili kruženje rukama; prikladno je kao zagrijavanje prije aktivnosti. Od njega treba razlikovati balističko istezanje, s naglim trzajima i odbijanjem u krajnjem položaju: nagli pokret izaziva obrambeni refleks istezanja (miotatski refleks) koji mišić dodatno napne, pa je rizik ozljede veći. Balističko se istezanje u kineziterapiji ne preporučuje.\n\nIstezanje po načelima proprioceptivne neuromuskularne facilitacije (PNF) iskorištava živčane reflekse. U tehnici zadrži – opusti (engl. hold-relax) skraćeni se mišić najprije pasivno istegne do granice, zatim ga bolesnik nekoliko sekundi izometrički napinje protiv otpora terapeuta, a nakon opuštanja terapeut ga istegne dalje. Nakon snažne izometričke kontrakcije Golgijevi tetivni organi refleksno opuštaju isti mišić, što se naziva autogena inhibicija. U inačici s kontrakcijom agonista (mišića koji izvodi pokret u smjeru istezanja) bolesnik aktivno napinje mišić suprotan skraćenome, pa se skraćeni mišić opušta recipročnom inhibicijom. PNF tehnike daju brz učinak, ali traže suradnju bolesnika i uvježbanog terapeuta.\n\nOpća pravila istezanja: tkivo se isteže zagrijano, nakon aktivnosti ili primjene topline; pokret je polagan; proksimalni segment je stabiliziran; bolesnik diše mirno i ne zadržava dah; isteže se do zatezanja, nikad kroz oštru bol. Istezanje je kontraindicirano kod svježeg prijeloma, akutne upale ili krvarenja u tkivu, kod prekomjerne pokretljivosti (hipermobilnosti) zgloba i kada skraćenje mišića služi funkciji, na primjer skraćeni pregibači prstiju koji tetraplegičaru omogućuju hvat.",
+          "bullets": [
+            "Statičko: polagano do zatezanja, zadržavanje položaja",
+            "Dinamičko: kontrolirani pokreti kroz opseg, bez zadržavanja",
+            "Balističko: trzaji i odbijanje, ne preporučuje se",
+            "PNF zadrži – opusti: izometrička kontrakcija, pa opuštanje i daljnje istezanje"
+          ],
+          "image": {
+            "file": "kineziterapija/istezanje.jpg",
+            "caption": "Skupina vježbača isteže stražnju stranu nogu sjedeći na tlu nakon zajedničke šetnje u Nigeriji.",
+            "credits": [
+              {
+                "title": "Wikimedia Nigeria Imo State Network Fitness Walk and Exercise 3",
+                "author": "Emmanuel Obiajulu",
+                "source": "https://commons.wikimedia.org/wiki/File:Wikimedia_Nigeria_Imo_State_Network_Fitness_Walk_and_Exercise_3.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Mobilizacija zglobova",
+          "body": "Mobilizacija zglobova skup je pasivnih manualnih tehnika kojima terapeut smanjuje bol i povećava pokretljivost ukočenog (hipomobilnog) zgloba. Osim fizioloških pokreta, koje bolesnik može izvesti sam, mobilizacijom se izvode i pomoćni (akcesorni) pokreti koje bolesnik ne može izvesti hotimično: trakcija, pri kojoj se zglobne plohe razmiču okomito na ravninu zgloba, i klizanje (translacija), pri kojem jedna zglobna ploha klizi paralelno s drugom. Upravo su ti mali pokreti nužni za normalan opseg fizioloških pokreta.\n\nSmjer klizanja određuje se prema pravilu konveksno – konkavno: kada se pomiče konveksni zglobni partner, klizanje je suprotno od smjera pokreta kosti, a kada se pomiče konkavni partner, klizanje je u istom smjeru kao pokret kosti. Primjerice, pri odmicanju (abdukciji) ruke konveksna glava nadlaktične kosti klizi prema dolje po konkavnoj zglobnoj plohi lopatice, pa se za poboljšanje abdukcije ramena primjenjuje klizanje prema dolje. Tehnike se stupnjuju prema amplitudi i položaju u opsegu pokreta, od malih oscilacija na početku opsega za smanjenje boli do istezanja na kraju opsega za povećanje pokretljivosti.\n\nMobilizaciju treba razlikovati od manipulacije, brzog pokreta male amplitude na kraju opsega, koju izvode samo posebno educirani stručnjaci. Mobilizacija je kontraindicirana kod prekomjerne pokretljivosti (hipermobilnosti) i nestabilnosti zgloba, nesaniranog prijeloma, akutne upale, zloćudnih bolesti kosti i teške osteoporoze. U širem smislu riječ mobilizacija označava i rano podizanje bolesnika iz kreveta nakon operacije, o čemu govori posljednja lekcija.",
+          "bullets": [
+            "Trakcija: razmicanje zglobnih ploha okomito na ravninu zgloba",
+            "Klizanje (translacija): pomak jedne zglobne plohe paralelno s drugom",
+            "Konveksni partner se pomiče: klizanje suprotno od pokreta kosti",
+            "Konkavni partner se pomiče: klizanje u smjeru pokreta kosti",
+            "Kontraindikacije: hipermobilnost, prijelom, akutna upala, tumor kosti"
+          ]
+        },
+        {
+          "heading": "Vježbe disanja",
+          "body": "Vježbe disanja sastavni su dio kineziterapije plućnih, srčanih i neuroloških bolesnika, a nezaobilazne su u ranom razdoblju nakon operacija jer sprječavaju nakupljanje sekreta, kolaps dijelova pluća (atelektazu) i upalu pluća. Osnovno pravilo jest udah kroz nos, izdah kroz usta, pri čemu je izdah dulji od udaha: produljeni izdah potpunije prazni pluća i opušta bolesnika. Vježbe se izvode u udobnom položaju, najčešće polusjedećem ili ležećem s podignutim uzglavljem i pogrčenim koljenima, s opuštenim ramenima.\n\nDijafragmalno (trbušno) disanje uči bolesnika da udiše pretežno pomoću ošita (dijafragme): jedna ruka leži na trbuhu, a druga na prsnom košu; pri polaganom udahu kroz nos podiže se ruka na trbuhu, dok prsni koš miruje; pri izdahu kroz usta trbuh se spušta. Ovakvo disanje smanjuje rad pomoćnih dišnih mišića i olakšava zaduhu. Disanje kroz stisnute (napućene) usne znači polagan izdah kroz usne skupljene kao za zvižduk, čime se produljuje izdah i održava tlak u dišnim putovima, pa se oni pri izdahu ne sklapaju; posebno pomaže bolesnicima s kroničnom opstruktivnom plućnom bolešću.\n\nSegmentalno (lokalizirano) disanje usmjerava zrak u određeni dio pluća: položite dlanove na odgovarajući dio prsnog koša, prije udaha blago pritisnite, a bolesnik udiše tako da širi prsni koš prema vašim dlanovima. Primjenjuje se nakon operacija prsnog koša i trbuha te kod atelektaze. Nakon operacije bolesnik se uči i učinkovitom iskašljavanju uz pridržavanje rane jastukom ili dlanovima te vježba na poticajnom spirometru, koji vizualno prikazuje dubinu udaha. Pri svim vježbama snage disanje se usklađuje s pokretom: napor se izvodi na izdah, a dah se nikada ne zadržava.",
+          "bullets": [
+            "Udah kroz nos, izdah kroz usta; izdah dulji od udaha",
+            "Dijafragmalno disanje: podiže se trbuh, prsni koš miruje",
+            "Disanje kroz stisnute usne: produljen izdah, dišni putovi ostaju otvoreni",
+            "Segmentalno disanje: udah prema dlanovima terapeuta na prsnom košu",
+            "Napor na izdah, bez zadržavanja daha"
+          ],
+          "image": {
+            "file": "kineziterapija/spirometar.jpg",
+            "caption": "Poticajni (volumetrijski) spirometar: polaganim dubokim udahom kroz cijev pacijent podiže klip i tako vježba disanje, primjerice nakon operacije.",
+            "credits": [
+              {
+                "title": "A Spirometer",
+                "author": "Suneksiriaaron",
+                "source": "https://commons.wikimedia.org/wiki/File:A_Spirometer.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Vježbe ravnoteže i koordinacije",
+          "body": "Ravnoteža je sposobnost održavanja težišta tijela iznad oslonačne površine. Statička ravnoteža održava položaj (stajanje, sjedenje), a dinamička ravnoteža održava stabilnost tijekom pokreta, na primjer pri hodu. Ravnoteža ovisi o tri osjetilna sustava: vidnom, vestibularnom (organ ravnoteže u unutarnjem uhu) i somatosenzornom (propriocepcija iz mišića i zglobova te osjet dodira i pritiska iz kože stopala), čije podatke središnji živčani sustav spaja i odgovara mišićnim strategijama: strategijom gležnja pri malim poremećajima, strategijom kuka pri većima i strategijom koraka kada bi težište inače izašlo iz oslonačne površine.\n\nPrije vježbanja ravnoteža se procjenjuje. Rombergov test izvodi se stajanjem sa spojenim stopalima, najprije otvorenih, zatim zatvorenih očiju; ako se bolesnik pri zatvorenim očima pojačano njiše ili pada, ravnotežu je održavao vidom, što najčešće upućuje na oštećenu propriocepciju, rjeđe na vestibularni poremećaj. Slabost mišića nogu ili ukočen gležanj ometali bi stajanje i otvorenih očiju. Koriste se i Bergova ljestvica ravnoteže (14 zadataka, najviše 56 bodova) te test ustani i hodaj na vrijeme (engl. Timed Up and Go): bolesnik ustaje sa stolice, hoda tri metra, okreće se, vraća i sjeda, a mjeri se vrijeme; dulje vrijeme izvođenja povezuje se s većim rizikom pada.\n\nVježbe ravnoteže napreduju postupnim otežavanjem: od široke prema uskoj oslonačnoj površini (stopala razmaknuta, spojena, jedno ispred drugoga, stajanje na jednoj nozi), od otvorenih prema zatvorenim očima, od stabilne prema nestabilnoj podlozi (mekani jastuk, balansna ploča), od mirovanja prema pokretu i od jednostavnog zadatka prema dvostrukom zadatku, na primjer hodu uz razgovor ili dodavanje lopte. Vježba se uvijek uz dostupan oslonac, razboj ili rukohvat, s terapeutom pokraj bolesnika i u neklizajućoj obući, jer je prevencija pada glavna mjera sigurnosti.\n\nKoordinacija je sposobnost izvođenja preciznih, glatkih i usklađenih pokreta, a oštećena je kod bolesti malog mozga, oštećenja propriocepcije i kod mnogih neuroloških bolesnika. Procjenjuje se testom prst – nos i testom peta – koljeno te procjenom brzine naizmjeničnih pokreta. Klasične su Frenkelove vježbe za ataksiju (poremećaj koordinacije): polagani, precizni pokreti koji se ponavljaju uz nadzor vidom, od jednostavnih prema složenima i od ležećeg preko sjedećeg do stojećeg položaja, na primjer klizanje petom po potkoljenici druge noge ili postavljanje stopala na označena mjesta na podu.",
+          "bullets": [
+            "Tri sustava ravnoteže: vid, vestibularni sustav, somatosenzorni sustav (propriocepcija i osjet iz kože stopala)",
+            "Progresija: uža oslonačna površina, zatvorene oči, nestabilna podloga, pokret, dvostruki zadatak",
+            "Testovi: Rombergov test, Bergova ljestvica, test ustani i hodaj",
+            "Koordinacija: Frenkelove vježbe, polagane i precizne, uz nadzor vidom",
+            "Sigurnost: oslonac, terapeut pokraj bolesnika, neklizajuća obuća"
+          ]
+        }
+      ],
+      "key_points": [
+        "Statičko istezanje zadržava položaj zatezanja; balističko istezanje s trzajima se ne preporučuje.",
+        "PNF istezanje iskorištava izometričku kontrakciju i potom opuštanje (autogena inhibicija) ili kontrakciju suprotnog mišića (recipročna inhibicija).",
+        "Mobilizacijom se izvode trakcija i klizanje; smjer klizanja određuje pravilo konveksno – konkavno.",
+        "Osnovna pravila disanja: udah kroz nos, dulji izdah kroz usta, napor na izdah, bez zadržavanja daha.",
+        "Ravnoteža ovisi o vidu, vestibularnom i somatosenzornom sustavu (propriocepciji); vježbe se otežavaju sužavanjem oslonačne površine, zatvaranjem očiju i nestabilnom podlogom.",
+        "Frenkelove su vježbe polagani, precizni, ponavljani pokreti uz nadzor vidom za bolesnike s ataksijom."
+      ]
+    },
+    {
+      "id": "rehabilitacija-i-pomagala-za-hod",
+      "title": "Kineziterapija nakon ozljeda i operacija te pomagala za hod",
+      "summary": "Faze cijeljenja i rehabilitacije nakon ozljeda i operacija, rana mobilizacija i stupnjevi opterećenja te izbor, podešavanje i uporaba pomagala za hod.",
+      "estimated_minutes": 12,
+      "sections": [
+        {
+          "heading": "Faze cijeljenja i faze rehabilitacije",
+          "body": "Oporavak nakon ozljede ili operacije slijedi biološke faze cijeljenja tkiva. U upalnoj fazi, koja traje prvih nekoliko dana, područje je bolno, toplo, otečeno i crveno; u proliferacijskoj fazi, koja traje nekoliko tjedana, stvara se novo, još slabo vezivno tkivo; u fazi remodeliranja (sazrijevanja), koja traje mjesecima, vlakna se preuređuju u smjeru opterećenja i tkivo jača. Kineziterapija se prilagođava fazi: opterećenje mora biti dovoljno da usmjeri cijeljenje, ali ne toliko da ga poremeti.\n\nFaze rehabilitacije prate faze cijeljenja. U akutnoj fazi (faza najveće zaštite) cilj je kontrola boli i otekline te zaštita ozlijeđenog tkiva: primjenjuje se načelo PRICE (zaštita, odmor, led, kompresija, podignut položaj uda), pasivni ili blagi aktivni pokreti unutar bezbolnog opsega, blage (submaksimalne), bezbolne izometričke kontrakcije radi očuvanja mišićne aktivnosti te aktivne vježbe susjednih, nezahvaćenih zglobova. Novije smjernice (POLICE, odnosno PEACE i LOVE) umjesto potpunog odmora naglašavaju rano, optimalno opterećenje u bezbolnom opsegu, a led preporučuju samo radi ublažavanja boli. Istezanje i vježbe s otporom ozlijeđenog tkiva u ovoj se fazi ne izvode, a toplina se ne primjenjuje dok traje akutna upala.\n\nU subakutnoj fazi (faza kontroliranog pokreta) upala se smiruje, pa se postupno vraća puni opseg pokreta aktivno-potpomognutim i aktivnim vježbama, uvodi se blago istezanje na kraju opsega i vježbe s malim otporom te počinje vježbanje propriocepcije. U kroničnoj fazi (faza povratka funkciji) tkivo podnosi veće opterećenje: progresivno se povećava otpor, vježbaju se izdržljivost, ravnoteža i koordinacija te pokreti specifični za bolesnikov posao ili sport. Povratak boli, otekline ili topline nakon vježbanja znak je da je faza preskočena i da se opterećenje mora vratiti na prethodnu razinu.",
+          "bullets": [
+            "Upalna faza: nekoliko dana; proliferacijska: nekoliko tjedana; remodeliranje: mjeseci",
+            "Akutna faza: PRICE, zaštita, bezbolni pokret, blage izometričke kontrakcije, vježbe nezahvaćenih zglobova",
+            "Subakutna faza: vraćanje opsega pokreta, blago istezanje, mali otpor, propriocepcija",
+            "Kronična faza: progresivni otpor, izdržljivost, specifične aktivnosti"
+          ]
+        },
+        {
+          "heading": "Rana mobilizacija nakon operacije",
+          "body": "Dugotrajno mirovanje u krevetu šteti gotovo svim organskim sustavima: mišić gubi snagu i masu, zglobovi se ukočuju, u venama nogu usporava se protok krvi pa raste rizik duboke venske tromboze i plućne embolije, plitko disanje pogoduje atelektazi i upali pluća, a stalan pritisak na kožu stvara dekubitus. Zato se nakon operacije, čim to opće stanje i kirurg dopuste, često već prvoga dana, započinje s ranom mobilizacijom: sjedenjem na rubu kreveta, ustajanjem i hodom uz pomoć. Rana mobilizacija tako smanjuje rizik tromboze, upale pluća, atrofije, kontraktura i dekubitusa.\n\nProgram prvih dana obuhvaća vježbe disanja i iskašljavanja, vježbe cirkulacije (ritmično pregibanje i ispružanje stopala u gležnju, takozvano pumpanje), izometričke kontrakcije mišića operiranog uda, aktivne vježbe neoperiranih udova te učenje sigurnog okretanja, sjedanja i ustajanja. Tijekom cijelog programa poštujte kirurgove upute o dopuštenom opterećenju operiranog uda, zabranjenim pokretima i zaštiti rane.\n\nPrimjer su mjere opreza nakon ugradnje totalne endoproteze kuka klasičnim stražnjim pristupom: u prvim se tjednima izbjegavaju pregibanje (fleksija) kuka iznad 90 stupnjeva, primicanje (adukcija) noge preko sredine tijela, odnosno prekriživanje nogu, i unutarnja rotacija, jer takva kombinacija može izazvati iščašenje (luksaciju) proteze. Iščašenje se, dakle, sprječava izbjegavanjem zabranjenih pokreta, a ne mirovanjem. Bolesnik spava s jastukom među nogama, sjedi na povišenom sjedalu i ne saginje se prema stopalu. Vježbe započinju izometričkim napinjanjem glutealnih mišića i četveroglavog mišića, nastavljaju se aktivnim ispružanjem i odmicanjem noge u dopuštenom opsegu te hodom s pomagalom uz propisano opterećenje.",
+          "bullets": [
+            "Komplikacije mirovanja: tromboza, upala pluća, atrofija, kontrakture, dekubitus",
+            "Prvi dani: disanje, vježbe cirkulacije, izometrika, aktivne vježbe neoperiranih udova",
+            "Endoproteza kuka (stražnji pristup): bez fleksije iznad 90 stupnjeva, adukcije preko sredine i unutarnje rotacije"
+          ]
+        },
+        {
+          "heading": "Stupnjevi opterećenja i izbor pomagala za hod",
+          "body": "Nakon ozljeda i operacija donjih udova kirurg propisuje koliko se operirana noga smije opteretiti. Razlikuju se: bez opterećenja, kada noga uopće ne dodiruje tlo; opterećenje dodirom, kada stopalo smije samo dodirivati tlo radi ravnoteže; djelomično opterećenje, izraženo postotkom tjelesne težine ili u kilogramima; opterećenje prema podnošljivosti, koje ograničava samo bol; i puno opterećenje. Djelomično opterećenje bolesnik uvježbava na vagi kako bi osjetio dopuštenu silu, a pomagala za hod omogućuju da se ostatak težine prenese na ruke.\n\nPomagala za hod razlikuju se po količini potpore koju daju. Najviše potpore pružaju paralelne šipke (razboj) u dvorani, u kojima bolesnik uči prve korake; slijedi hodalica, bez kotača ili s kotačima; zatim pazušne (aksilarne) štake, podlaktične (lakatne) štake i na kraju štap, koji daje najmanje potpore. Hodalica je najstabilnije pomagalo, ali je spora i nepraktična na stubama; podlaktične štake traže dobru snagu ruku i ravnotežu; štap služi bolesnicima koji trebaju samo rasterećenje jedne noge ili dodatnu sigurnost.\n\nPodesite pomagalo prije prvog hoda. Kod štapa i štaka ručka je u visini velikog obrtača bedrene kosti (trochanter major) ili ručnog zgloba kada bolesnik stoji uspravno s opuštenim rukama, tako da je lakat pri oslanjanju blago pogrčen, za oko 20 do 30 stupnjeva. Gornji kraj (pazušni jastučić) pazušne štake mora biti dva do tri prsta ispod pazuha, a težina se prenosi na ruke: oslanjanje pazuhom na štaku pritišće živčani splet i može uzrokovati oduzetost ruke. Gumeni nastavci na donjem kraju pomagala, koji dodiruju tlo, moraju biti neoštećeni.",
+          "bullets": [
+            "Stupnjevi: bez opterećenja, dodir, djelomično, prema podnošljivosti, puno",
+            "Potpora od najveće prema najmanjoj: razboj, hodalica, pazušne štake, podlaktične štake, štap",
+            "Ručka u visini velikog obrtača, lakat pogrčen 20 do 30 stupnjeva",
+            "Pazušna štaka: dva do tri prsta ispod pazuha, težina na rukama"
+          ],
+          "image": {
+            "file": "kineziterapija/hodalica.jpg",
+            "caption": "Žena se pridržava hodalicom. Od pomagala za hod više potpore od hodalice daje samo razboj, a manje štake i štap.",
+            "credits": [
+              {
+                "title": "A woman supporting herself with a walking frame",
+                "author": "rawpixel.com",
+                "source": "https://commons.wikimedia.org/wiki/File:A_woman_supporting_herself_with_a_walking_frame.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Obrasci hoda s pomagalima i hod po stubama",
+          "body": "Štap se drži u ruci na suprotnoj (kontralateralnoj) strani od ozlijeđene ili slabije noge i pomiče se naprijed istodobno s njom. Tako se oslonačna površina proširuje, obrazac hoda ostaje naravan jer se ruka i suprotna noga ionako kreću zajedno, a opterećenje bolesnog kuka i rad njegovih odmicača znatno se smanjuju. Štap u ruci na istoj strani daje slabiju potporu i izobličuje hod.\n\nS dvjema štakama primjenjuju se četiri osnovna obrasca. Četverotaktni hod (desna štaka, lijeva noga, lijeva štaka, desna noga) najsporiji je i najstabilniji jer su na tlu uvijek tri oslonca; namijenjen je bolesnicima sa slabošću obiju nogu ili lošom ravnotežom. Dvotaktni hod pomiče štaku i suprotnu nogu istodobno; brži je, ali traži bolju ravnotežu. Oba ta obrasca pretpostavljaju da obje noge mogu nositi težinu.\n\nTrotaktni hod primjenjuje se kada se jedna noga ne smije opteretiti ili se smije opteretiti samo djelomično: najprije se naprijed pomaknu obje štake i ozlijeđena noga, a zatim se zdrava noga dovede do njih ili ispred njih, pa se dio težine prenosi na ruke. Hod njihanjem, pri kojem se obje noge zamahom prenesu do štaka ili preko njih, primjenjuju bolesnici s ortozama i jakim rukama.\n\nNa stubama vrijedi pravilo: zdrava noga prva gore, ozlijeđena noga prva dolje. Pri usponu bolesnik najprije na višu stubu stavlja zdravu nogu, zatim na istu stubu podiže ozlijeđenu nogu i štake; pri silasku najprije na nižu stubu spušta štake i ozlijeđenu nogu, a potom zdravu nogu, koja tako nosi težinu dok se tijelo spušta. Ako postoji rukohvat, bolesnik se drži za njega, a obje štake drži u drugoj ruci. Stojte iza bolesnika pri usponu i ispred njega pri silasku, dakle uvijek na nižoj strani stuba.",
+          "bullets": [
+            "Štap: u suprotnoj ruci od bolesne noge, pomiče se zajedno s njom",
+            "Četverotaktni hod: najstabilniji, uvijek tri oslonca",
+            "Trotaktni hod: obje štake i ozlijeđena noga, pa zdrava noga; za nogu bez ili s djelomičnim opterećenjem",
+            "Stube: zdrava noga prva gore, ozlijeđena noga sa štakama prva dolje",
+            "Terapeut uvijek stoji na nižoj strani stuba"
+          ],
+          "image": {
+            "file": "kineziterapija/stake.jpg",
+            "caption": "Muškarac hoda sa štakama po popločanom trgu.",
+            "credits": [
+              {
+                "title": "FPeople with crutches in the Philippines",
+                "author": "Judgefloro",
+                "source": "https://commons.wikimedia.org/wiki/File:FPeople_with_crutches_in_the_Philippines.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        }
+      ],
+      "key_points": [
+        "Cijeljenje tkiva prolazi upalnu, proliferacijsku i fazu remodeliranja; rehabilitacija prati akutnu, subakutnu i kroničnu fazu.",
+        "U akutnoj fazi vrijedi PRICE, bezbolni pokret i blage izometričke kontrakcije; istezanje i otpor dolaze kasnije.",
+        "Rana mobilizacija nakon operacije sprječava trombozu, upalu pluća, atrofiju, kontrakture i dekubitus.",
+        "Nakon endoproteze kuka stražnjim pristupom izbjegavaju se fleksija iznad 90 stupnjeva, adukcija preko sredine i unutarnja rotacija.",
+        "Potpora pomagala pada od razboja preko hodalice i štaka do štapa; štap se nosi u suprotnoj ruci od bolesne noge.",
+        "Trotaktni hod rasterećuje jednu nogu; na stubama zdrava noga ide prva gore, a ozlijeđena prva dolje."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "kt-001",
+      "lesson_id": "procjena-mmt-i-goniometrija",
+      "type": "true_false",
+      "difficulty": 1,
+      "text": "Kineziterapija je dio fizikalne terapije u kojem je glavno sredstvo liječenja pokret, odnosno tjelesna vježba.",
+      "options": [
+        {"id": "t", "text": "Točno"},
+        {"id": "f", "text": "Netočno"}
+      ],
+      "correct": ["t"],
+      "explanation": "Naziv dolazi od grčkih riječi kinesis (pokret) i therapeia (liječenje); kineziterapija primjenjuje pasivnu i aktivnu vježbu kao glavno sredstvo liječenja.",
+      "tags": ["kineziterapija", "definicija"]
+    },
+    {
+      "id": "kt-002",
+      "lesson_id": "procjena-mmt-i-goniometrija",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Koja su stanja opće kontraindikacije za provođenje kineziterapije?",
+      "options": [
+        {"id": "a", "text": "Akutna upala zgloba"},
+        {"id": "b", "text": "Nestabilan prijelom"},
+        {"id": "c", "text": "Akutna, neliječena duboka venska tromboza"},
+        {"id": "d", "text": "Mišićna slabost ocjene MMT 2"},
+        {"id": "e", "text": "Ukočenost zgloba nakon skidanja gipsa"}
+      ],
+      "correct": ["a", "b", "c"],
+      "explanation": "Akutna upala, nestabilan prijelom i neliječena duboka venska tromboza stanja su u kojima pokret može pogoršati bolest ili izazvati komplikacije, pa se vježbanje ne provodi. Mišićna slabost i ukočenost zgloba, naprotiv, glavne su indikacije za kineziterapiju.",
+      "tags": ["kontraindikacije"]
+    },
+    {
+      "id": "kt-003",
+      "lesson_id": "procjena-mmt-i-goniometrija",
+      "type": "true_false",
+      "difficulty": 1,
+      "text": "Ocjena 3 manualnog mišićnog testa znači da mišić izvodi puni opseg pokreta protiv sile teže i umjerenog otpora ispitivača.",
+      "options": [
+        {"id": "t", "text": "Točno"},
+        {"id": "f", "text": "Netočno"}
+      ],
+      "correct": ["f"],
+      "explanation": "Ocjena 3 znači puni opseg pokreta protiv sile teže, ali bez ikakva dodatnog otpora; puni pokret protiv sile teže i umjerenog otpora odgovara ocjeni 4.",
+      "tags": ["mmt", "mišićna snaga"]
+    },
+    {
+      "id": "kt-004",
+      "lesson_id": "procjena-mmt-i-goniometrija",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Bolesnik pomiče podlakticu kroz puni opseg pokreta samo kada je ruka položena na glatki stol, u vodoravnoj ravnini. Koju ocjenu manualnog mišićnog testa dobivaju pregibači lakta?",
+      "options": [
+        {"id": "a", "text": "1"},
+        {"id": "b", "text": "2"},
+        {"id": "c", "text": "3"},
+        {"id": "d", "text": "4"}
+      ],
+      "correct": ["b"],
+      "explanation": "Puni opseg pokreta uz isključenu silu teže, dakle u vodoravnoj ravnini ili uz potporu segmenta, odgovara ocjeni 2. Za ocjenu 3 mišić bi morao izvesti puni pokret protiv sile teže, a ocjena 1 znači kontrakciju bez pokreta.",
+      "tags": ["mmt"]
+    },
+    {
+      "id": "kt-005",
+      "lesson_id": "procjena-mmt-i-goniometrija",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Što vrijedi za pravilnu provedbu manualnog mišićnog testa?",
+      "options": [
+        {"id": "a", "text": "Proksimalni segment stabilizira se rukom ispitivača"},
+        {"id": "b", "text": "Otpor se daje postupno na kraju opsega pokreta"},
+        {"id": "c", "text": "Testiranje uvijek počinje u položaju s isključenom silom teže"},
+        {"id": "d", "text": "Nalaz se uspoređuje sa suprotnom stranom tijela"},
+        {"id": "e", "text": "Otpor se daje naglim trzajem kako bi se otkrila najveća snaga"}
+      ],
+      "correct": ["a", "b", "d"],
+      "explanation": "Testiranje počinje u položaju protiv sile teže, a tek ako bolesnik ne može izvesti puni pokret, prelazi se u položaj s isključenom silom teže. Otpor se daje polako i postupno, bez trzaja, uz stabiliziran proksimalni segment, a nalaz se uspoređuje sa zdravom stranom.",
+      "tags": ["mmt", "provedba"]
+    },
+    {
+      "id": "kt-006",
+      "lesson_id": "procjena-mmt-i-goniometrija",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Kamo se pri mjerenju opsega pokreta postavlja osovina goniometra?",
+      "options": [
+        {"id": "a", "text": "Na os rotacije zgloba"},
+        {"id": "b", "text": "Na sredinu proksimalnog segmenta"},
+        {"id": "c", "text": "Na sredinu distalnog segmenta"},
+        {"id": "d", "text": "Na najistaknutiji dio mišićnog trbuha"}
+      ],
+      "correct": ["a"],
+      "explanation": "Osovina goniometra postavlja se na os rotacije zgloba, nepomični krak uzduž proksimalnog, a pomični krak uzduž distalnog segmenta; samo tako kut na ljestvici odgovara kutu u zglobu.",
+      "tags": ["goniometrija", "opseg pokreta"]
+    },
+    {
+      "id": "kt-007",
+      "lesson_id": "procjena-mmt-i-goniometrija",
+      "type": "single",
+      "difficulty": 3,
+      "text": "Aktivni opseg pregibanja (fleksije) ramena znatno je manji od pasivnog, koji je uredan. Na koji uzrok ograničenja taj nalaz najprije upućuje?",
+      "options": [
+        {"id": "a", "text": "Skraćenje zglobne čahure"},
+        {"id": "b", "text": "Mišićnu slabost ili bol"},
+        {"id": "c", "text": "Koštanu prepreku u zglobu"},
+        {"id": "d", "text": "Prekomjernu pokretljivost zgloba"}
+      ],
+      "correct": ["b"],
+      "explanation": "Kada ispitivač pasivno može izvesti puni pokret, zglob i meka tkiva nisu ograničeni, pa je uzrok smanjenog aktivnog pokreta mišićna slabost ili bol koja koči aktivnu kontrakciju. Skraćena čahura ili koštana prepreka jednako bi smanjile i pasivni opseg.",
+      "tags": ["goniometrija", "opseg pokreta"]
+    },
+    {
+      "id": "kt-008",
+      "lesson_id": "procjena-mmt-i-goniometrija",
+      "type": "single",
+      "difficulty": 3,
+      "text": "Opseg pokreta koljena zabilježen je neutralnom nultom metodom kao ispružanje – 0 – pregibanje: 0–15–130. Što taj zapis znači?",
+      "options": [
+        {"id": "a", "text": "Koljeno ima 15 stupnjeva prekomjernog ispružanja"},
+        {"id": "b", "text": "Koljenu nedostaje 15 stupnjeva do punog ispružanja"},
+        {"id": "c", "text": "Pregibanje koljena iznosi samo 15 stupnjeva"},
+        {"id": "d", "text": "Ukupni opseg pokreta koljena iznosi 15 stupnjeva"}
+      ],
+      "correct": ["b"],
+      "explanation": "U neutralnoj nultoj metodi nula označava anatomski položaj; kada se zglob ne može dovesti u nulti položaj, nula se piše na strani pokreta koji nedostaje, pa 0–15–130 znači da ispružanje staje 15 stupnjeva prije nultog položaja, dok pregibanje iznosi 130 stupnjeva. Prekomjerno ispružanje od 15 stupnjeva pisalo bi se 15–0–130.",
+      "tags": ["goniometrija", "neutralna nulta metoda"]
+    },
+    {
+      "id": "kt-009",
+      "lesson_id": "vrste-vjezbi-i-doziranje",
+      "type": "true_false",
+      "difficulty": 2,
+      "text": "Redovite pasivne vježbe sprječavaju atrofiju mišića oduzetog uda.",
+      "options": [
+        {"id": "t", "text": "Točno"},
+        {"id": "f", "text": "Netočno"}
+      ],
+      "correct": ["f"],
+      "explanation": "Pri pasivnim vježbama mišić se ne kontrahira, pa one ne sprječavaju atrofiju i ne povećavaju snagu; njihov je cilj očuvati opseg pokreta i elastičnost mekih tkiva te spriječiti kontrakture.",
+      "tags": ["pasivne vježbe"]
+    },
+    {
+      "id": "kt-010",
+      "lesson_id": "vrste-vjezbi-i-doziranje",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Kojoj ocjeni manualnog mišićnog testa prvenstveno odgovaraju aktivno-potpomognute vježbe?",
+      "options": [
+        {"id": "a", "text": "0"},
+        {"id": "b", "text": "2"},
+        {"id": "c", "text": "3"},
+        {"id": "d", "text": "5"}
+      ],
+      "correct": ["b"],
+      "explanation": "Aktivno-potpomognute vježbe namijenjene su mišićima ocjene 2, koji mogu pokrenuti segment, ali ne i svladati silu teže; za ocjenu 3 primjenjuju se aktivne vježbe, a od ocjene 3+ (osobito 4 i 5) vježbe s otporom.",
+      "tags": ["aktivno-potpomognute vježbe", "mmt"]
+    },
+    {
+      "id": "kt-011",
+      "lesson_id": "vrste-vjezbi-i-doziranje",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Koja je od navedenih vježbi primjer vježbe zatvorenog kinetičkog lanca?",
+      "options": [
+        {"id": "a", "text": "Ispružanje koljena u sjedećem položaju"},
+        {"id": "b", "text": "Čučanj sa stopalima oslonjenima na pod"},
+        {"id": "c", "text": "Podizanje ispružene noge ležeći na leđima"},
+        {"id": "d", "text": "Pregibanje lakta s utegom u ruci"}
+      ],
+      "correct": ["b"],
+      "explanation": "U zatvorenom kinetičkom lancu distalni je segment oslonjen na podlogu, kao stopalo pri čučnju, pa se pokret zbiva u više zglobova istodobno. U ostalim primjerima distalni je segment slobodan, što je obilježje otvorenog lanca.",
+      "tags": ["kinetički lanac"]
+    },
+    {
+      "id": "kt-012",
+      "lesson_id": "vrste-vjezbi-i-doziranje",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Kako se naziva mišićna kontrakcija pri kojoj se mišić napinje, ali se njegova duljina ne mijenja i u zglobu nema pokreta?",
+      "options": [
+        {"id": "a", "text": "Koncentrična"},
+        {"id": "b", "text": "Ekscentrična"},
+        {"id": "c", "text": "Izometrička"},
+        {"id": "d", "text": "Izokinetička"}
+      ],
+      "correct": ["c"],
+      "explanation": "Izometrička (statička) kontrakcija ne mijenja duljinu mišića ni položaj zgloba, na primjer napinjanje četveroglavog mišića uz ispruženo koljeno. Koncentrična i ekscentrična kontrakcija su dinamičke, s promjenom duljine mišića i pokretom u zglobu.",
+      "tags": ["izometričke vježbe"]
+    },
+    {
+      "id": "kt-013",
+      "lesson_id": "vrste-vjezbi-i-doziranje",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Što vrijedi za ekscentričnu mišićnu kontrakciju?",
+      "options": [
+        {"id": "a", "text": "Mišić se produljuje dok kontrolirano popušta otporu"},
+        {"id": "b", "text": "Razvija veću silu nego koncentrična kontrakcija"},
+        {"id": "c", "text": "U zglobu nema pokreta"},
+        {"id": "d", "text": "Češće izaziva odgođenu mišićnu bol"},
+        {"id": "e", "text": "Izvodi se isključivo na izokinetičkom uređaju"}
+      ],
+      "correct": ["a", "b", "d"],
+      "explanation": "Ekscentrična je kontrakcija dinamička: mišić se produljuje pod opterećenjem, na primjer pri polaganom spuštanju utega, razvija veću silu uz manji utrošak energije, ali češće izaziva odgođenu mišićnu bol. Odsutnost pokreta obilježje je izometričke kontrakcije, a stalna brzina na uređaju izokinetičke vježbe.",
+      "tags": ["ekscentrična kontrakcija"]
+    },
+    {
+      "id": "kt-014",
+      "lesson_id": "vrste-vjezbi-i-doziranje",
+      "type": "single",
+      "difficulty": 3,
+      "text": "Prema DeLormeovoj metodi progresivnog vježbanja s otporom izvode se tri serije po deset ponavljanja. Kojim se opterećenjem izvodi prva serija?",
+      "options": [
+        {"id": "a", "text": "25 % od 10 RM"},
+        {"id": "b", "text": "50 % od 10 RM"},
+        {"id": "c", "text": "75 % od 10 RM"},
+        {"id": "d", "text": "100 % od 10 RM"}
+      ],
+      "correct": ["b"],
+      "explanation": "DeLormeova metoda polazi od najvećeg tereta koji se može podići deset puta (10 RM): prva serija izvodi se s 50 %, druga sa 75 %, a treća sa 100 % tog tereta, pa opterećenje raste od serije do serije.",
+      "tags": ["doziranje", "progresija"]
+    },
+    {
+      "id": "kt-015",
+      "lesson_id": "vrste-vjezbi-i-doziranje",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Koje načelo doziranja kaže da se postignuti učinci vježbanja gube prestankom vježbanja?",
+      "options": [
+        {"id": "a", "text": "Načelo preopterećenja"},
+        {"id": "b", "text": "Načelo postupnosti"},
+        {"id": "c", "text": "Načelo specifičnosti"},
+        {"id": "d", "text": "Načelo reverzibilnosti"}
+      ],
+      "correct": ["d"],
+      "explanation": "Načelo reverzibilnosti upozorava da su učinci vježbanja privremeni i nestaju kada podražaj prestane. Preopterećenje govori o veličini podražaja, postupnost o brzini povećanja, a specifičnost o vrsti prilagodbe.",
+      "tags": ["doziranje", "načela"]
+    },
+    {
+      "id": "kt-016",
+      "lesson_id": "vrste-vjezbi-i-doziranje",
+      "type": "multiple",
+      "difficulty": 1,
+      "text": "Koji su znakovi da je opterećenje u kineziterapiji preveliko?",
+      "options": [
+        {"id": "a", "text": "Bol koja se pojača tijekom vježbe i traje do sljedećeg dana"},
+        {"id": "b", "text": "Oteklina i toplina zgloba nakon vježbanja"},
+        {"id": "c", "text": "Smanjen opseg pokreta sljedećeg dana"},
+        {"id": "d", "text": "Blagi umor mišića neposredno nakon vježbe"},
+        {"id": "e", "text": "Veći broj ponavljanja koji bolesnik može izvesti"}
+      ],
+      "correct": ["a", "b", "c"],
+      "explanation": "Pojačana bol koja traje do sljedećeg dana, oteklina, toplina i smanjen opseg pokreta znakovi su preopterećenja tkiva i razlog za smanjenje doze. Blagi umor nakon vježbe očekivan je, a veći broj ponavljanja znak je napretka.",
+      "tags": ["doziranje"]
+    },
+    {
+      "id": "kt-017",
+      "lesson_id": "istezanje-disanje-ravnoteza",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Koja se vrsta istezanja u kineziterapiji ne preporučuje jer nagli trzaji izazivaju refleks istezanja i povećavaju rizik ozljede?",
+      "options": [
+        {"id": "a", "text": "Statičko istezanje"},
+        {"id": "b", "text": "Balističko istezanje"},
+        {"id": "c", "text": "Dinamičko istezanje"},
+        {"id": "d", "text": "PNF istezanje"}
+      ],
+      "correct": ["b"],
+      "explanation": "Balističko istezanje s trzajima i odbijanjem u krajnjem položaju izaziva miotatski refleks koji mišić dodatno napne, pa je rizik ozljede veći. Dinamičko istezanje čine kontrolirani pokreti umjerene brzine, bez trzaja, i ne treba ga miješati s balističkim.",
+      "tags": ["istezanje"]
+    },
+    {
+      "id": "kt-018",
+      "lesson_id": "istezanje-disanje-ravnoteza",
+      "type": "single",
+      "difficulty": 3,
+      "text": "U PNF tehnici zadrži – opusti skraćeni se mišić nakon izometričke kontrakcije lakše isteže. Kojim se mehanizmom to objašnjava?",
+      "options": [
+        {"id": "a", "text": "Recipročnom inhibicijom zbog kontrakcije suprotnog mišića"},
+        {"id": "b", "text": "Autogenom inhibicijom posredovanom Golgijevim tetivnim organima"},
+        {"id": "c", "text": "Refleksom istezanja (miotatskim refleksom)"},
+        {"id": "d", "text": "Zagrijavanjem mišića tijekom kontrakcije"}
+      ],
+      "correct": ["b"],
+      "explanation": "Nakon snažne izometričke kontrakcije Golgijevi tetivni organi refleksno opuštaju isti mišić, što se naziva autogena inhibicija. Recipročna inhibicija koristi se u inačici s kontrakcijom agonista, kada bolesnik napinje mišić suprotan skraćenome.",
+      "tags": ["pnf", "istezanje"]
+    },
+    {
+      "id": "kt-019",
+      "lesson_id": "istezanje-disanje-ravnoteza",
+      "type": "single",
+      "difficulty": 3,
+      "text": "Pri odmicanju (abdukciji) ruke konveksna glava nadlaktične kosti pomiče se po konkavnoj zglobnoj plohi lopatice. U kojem se smjeru primjenjuje klizanje mobilizacijom kako bi se poboljšala abdukcija ramena?",
+      "options": [
+        {"id": "a", "text": "Prema gore"},
+        {"id": "b", "text": "Prema dolje"},
+        {"id": "c", "text": "Prema naprijed"},
+        {"id": "d", "text": "Prema natrag"}
+      ],
+      "correct": ["b"],
+      "explanation": "Prema pravilu konveksno – konkavno, kada se pomiče konveksni zglobni partner, klizanje je suprotno od smjera pokreta kosti; ruka ide prema gore, pa glava nadlaktične kosti klizi prema dolje i mobilizacija se izvodi klizanjem prema dolje.",
+      "tags": ["mobilizacija", "pravilo konveksno – konkavno"]
+    },
+    {
+      "id": "kt-020",
+      "lesson_id": "istezanje-disanje-ravnoteza",
+      "type": "true_false",
+      "difficulty": 1,
+      "text": "Pri vježbama disanja udiše se kroz nos, a izdiše kroz usta, pri čemu je izdah dulji od udaha.",
+      "options": [
+        {"id": "t", "text": "Točno"},
+        {"id": "f", "text": "Netočno"}
+      ],
+      "correct": ["t"],
+      "explanation": "Osnovno pravilo vježbi disanja jest udah kroz nos i izdah kroz usta uz izdah dulji od udaha; produljeni izdah potpunije prazni pluća i opušta bolesnika.",
+      "tags": ["vježbe disanja"]
+    },
+    {
+      "id": "kt-021",
+      "lesson_id": "istezanje-disanje-ravnoteza",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Koja tehnika disanja produljuje izdah i održava dišne putove otvorenima, pa posebno pomaže bolesnicima s kroničnom opstruktivnom plućnom bolešću?",
+      "options": [
+        {"id": "a", "text": "Dijafragmalno disanje"},
+        {"id": "b", "text": "Disanje kroz stisnute usne"},
+        {"id": "c", "text": "Segmentalno disanje"},
+        {"id": "d", "text": "Vježbanje na poticajnom spirometru"}
+      ],
+      "correct": ["b"],
+      "explanation": "Polagan izdah kroz usne skupljene kao za zvižduk održava tlak u dišnim putovima pa se oni pri izdahu ne sklapaju, a izdah se produljuje. Dijafragmalno disanje smanjuje rad pomoćnih dišnih mišića, a segmentalno disanje usmjerava zrak u određeni dio pluća.",
+      "tags": ["vježbe disanja", "kopb"]
+    },
+    {
+      "id": "kt-022",
+      "lesson_id": "istezanje-disanje-ravnoteza",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Kako se vježbe ravnoteže pravilno otežavaju (progresija)?",
+      "options": [
+        {"id": "a", "text": "Sužavanjem oslonačne površine"},
+        {"id": "b", "text": "Zatvaranjem očiju"},
+        {"id": "c", "text": "Prelaskom sa stabilne na nestabilnu podlogu"},
+        {"id": "d", "text": "Udaljavanjem terapeuta od bolesnika i vježbanjem bez rukohvata u dosegu"},
+        {"id": "e", "text": "Prelaskom s dvostrukog zadatka na jednostavan zadatak"}
+      ],
+      "correct": ["a", "b", "c"],
+      "explanation": "Ravnoteža se otežava sužavanjem oslonačne površine, zatvaranjem očiju, nestabilnom podlogom, prelaskom iz mirovanja u pokret i dodavanjem drugog zadatka. Rukohvat ili razboj moraju ostati u dosegu, a terapeut pokraj bolesnika radi prevencije pada; prelazak s dvostrukog na jednostavan zadatak bio bi olakšanje, a ne otežavanje.",
+      "tags": ["ravnoteža", "progresija"]
+    },
+    {
+      "id": "kt-023",
+      "lesson_id": "istezanje-disanje-ravnoteza",
+      "type": "true_false",
+      "difficulty": 1,
+      "text": "Frenkelove vježbe namijenjene su bolesnicima s poremećajem koordinacije (ataksijom) i izvode se polako, precizno i uz nadzor vidom.",
+      "options": [
+        {"id": "t", "text": "Točno"},
+        {"id": "f", "text": "Netočno"}
+      ],
+      "correct": ["t"],
+      "explanation": "Frenkelove su vježbe polagani, precizni i ponavljani pokreti koji se nadziru vidom, od ležećeg preko sjedećeg do stojećeg položaja, namijenjeni bolesnicima s ataksijom.",
+      "tags": ["koordinacija", "frenkelove vježbe"]
+    },
+    {
+      "id": "kt-024",
+      "lesson_id": "istezanje-disanje-ravnoteza",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Bolesnik stoji sa spojenim stopalima mirno dok su mu oči otvorene, a nakon zatvaranja očiju snažno se zanjiše. Na što taj nalaz Rombergova testa najčešće upućuje?",
+      "options": [
+        {"id": "a", "text": "Na oštećenu propriocepciju"},
+        {"id": "b", "text": "Na oštećen vid"},
+        {"id": "c", "text": "Na slabost mišića nogu"},
+        {"id": "d", "text": "Na ukočenost gležnja"}
+      ],
+      "correct": ["a"],
+      "explanation": "Pogoršanje ravnoteže tek nakon zatvaranja očiju pokazuje da je bolesnik ravnotežu održavao vidom jer mu je oštećen osjet položaja (propriocepcija). Slabost mišića ili ukočenost gležnja ometale bi stajanje i otvorenih očiju.",
+      "tags": ["ravnoteža", "rombergov test"]
+    },
+    {
+      "id": "kt-025",
+      "lesson_id": "rehabilitacija-i-pomagala-za-hod",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Što označava tradicionalna kratica PRICE koja se primjenjuje u akutnoj fazi nakon ozljede?",
+      "options": [
+        {"id": "a", "text": "Zaštita, odmor, led, kompresija, podignut položaj uda"},
+        {"id": "b", "text": "Progresija, otpor, istezanje, koordinacija, izdržljivost"},
+        {"id": "c", "text": "Zaštita, zagrijavanje, istezanje, kompresija, ustajanje"},
+        {"id": "d", "text": "Odmor, toplina, masaža, kompresija, podignut položaj uda"}
+      ],
+      "correct": ["a"],
+      "explanation": "PRICE objedinjuje mjere akutne faze: zaštitu ozlijeđenog tkiva, odmor, led, kompresiju i podignut položaj uda, kojima se smanjuju bol i oteklina. Toplina, istezanje i otpor pripadaju kasnijim fazama.",
+      "tags": ["akutna faza", "price"]
+    },
+    {
+      "id": "kt-026",
+      "lesson_id": "rehabilitacija-i-pomagala-za-hod",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Koji su postupci primjereni u akutnoj fazi nakon ozljede mekih tkiva?",
+      "options": [
+        {"id": "a", "text": "Blage, bezbolne izometričke kontrakcije mišića ozlijeđenog uda"},
+        {"id": "b", "text": "Aktivne vježbe susjednih, nezahvaćenih zglobova"},
+        {"id": "c", "text": "Pasivni pokreti unutar bezbolnog opsega"},
+        {"id": "d", "text": "Statičko istezanje ozlijeđenog mišića do granice zatezanja"},
+        {"id": "e", "text": "Vježbe s otporom za ozlijeđeni mišić"}
+      ],
+      "correct": ["a", "b", "c"],
+      "explanation": "U akutnoj fazi tkivo se štiti: dopušteni su bezbolni pasivni ili blagi aktivni pokreti, blage izometričke kontrakcije radi očuvanja mišićne aktivnosti i vježbe nezahvaćenih zglobova. Istezanje i otpor ozlijeđenog tkiva uvode se tek u subakutnoj i kroničnoj fazi.",
+      "tags": ["akutna faza", "faze rehabilitacije"]
+    },
+    {
+      "id": "kt-027",
+      "lesson_id": "rehabilitacija-i-pomagala-za-hod",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Koje komplikacije dugotrajnog mirovanja u krevetu sprječava rana mobilizacija nakon operacije?",
+      "options": [
+        {"id": "a", "text": "Duboku vensku trombozu"},
+        {"id": "b", "text": "Upalu pluća"},
+        {"id": "c", "text": "Dekubitus"},
+        {"id": "d", "text": "Iščašenje endoproteze kuka"},
+        {"id": "e", "text": "Odgođenu mišićnu bol"}
+      ],
+      "correct": ["a", "b", "c"],
+      "explanation": "Mirovanje usporava protok krvi u venama nogu, pogoduje plitkom disanju i atelektazi te stvara stalan pritisak na kožu, pa rana mobilizacija smanjuje rizik tromboze, upale pluća i dekubitusa. Iščašenje endoproteze sprječava se izbjegavanjem zabranjenih pokreta, a odgođena mišićna bol posljedica je ekscentričnog vježbanja, a ne mirovanja.",
+      "tags": ["rana mobilizacija", "komplikacije"]
+    },
+    {
+      "id": "kt-028",
+      "lesson_id": "rehabilitacija-i-pomagala-za-hod",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Koji je pokret zabranjen u prvim tjednima nakon ugradnje totalne endoproteze kuka klasičnim stražnjim pristupom?",
+      "options": [
+        {"id": "a", "text": "Pregibanje (fleksija) kuka iznad 90 stupnjeva"},
+        {"id": "b", "text": "Ispružanje (ekstenzija) kuka do neutralnog položaja"},
+        {"id": "c", "text": "Odmicanje (abdukcija) noge u stranu"},
+        {"id": "d", "text": "Izometričko napinjanje glutealnih mišića"}
+      ],
+      "correct": ["a"],
+      "explanation": "Nakon stražnjeg pristupa izbjegavaju se pregibanje kuka iznad 90 stupnjeva, primicanje preko sredine tijela i unutarnja rotacija jer ta kombinacija može izazvati iščašenje proteze. Ispružanje, odmicanje i izometričko napinjanje dio su programa vježbanja.",
+      "tags": ["endoproteza kuka", "mjere opreza"]
+    },
+    {
+      "id": "kt-029",
+      "lesson_id": "rehabilitacija-i-pomagala-za-hod",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Koje od navedenih pomagala za hod pruža bolesniku najveću potporu?",
+      "options": [
+        {"id": "a", "text": "Štap"},
+        {"id": "b", "text": "Podlaktične štake"},
+        {"id": "c", "text": "Pazušne štake"},
+        {"id": "d", "text": "Hodalica"}
+      ],
+      "correct": ["d"],
+      "explanation": "Potpora pada od razboja preko hodalice, pazušnih i podlaktičnih štaka do štapa; hodalica je najstabilnije pomagalo, ali je spora i nepraktična na stubama.",
+      "tags": ["pomagala za hod"]
+    },
+    {
+      "id": "kt-030",
+      "lesson_id": "rehabilitacija-i-pomagala-za-hod",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Bolesnik ima slabost lijeve noge i hoda sa štapom. U kojoj ruci drži štap i s kojom ga nogom pomiče naprijed?",
+      "options": [
+        {"id": "a", "text": "U lijevoj ruci, zajedno s lijevom nogom"},
+        {"id": "b", "text": "U desnoj ruci, zajedno s lijevom nogom"},
+        {"id": "c", "text": "U desnoj ruci, zajedno s desnom nogom"},
+        {"id": "d", "text": "U lijevoj ruci, zajedno s desnom nogom"}
+      ],
+      "correct": ["b"],
+      "explanation": "Štap se drži u ruci suprotnoj od slabije noge i pomiče se istodobno s njom: tako se proširuje oslonačna površina, zadržava naravan obrazac hoda i rasterećuje bolesni kuk.",
+      "tags": ["štap", "hod"]
+    },
+    {
+      "id": "kt-031",
+      "lesson_id": "rehabilitacija-i-pomagala-za-hod",
+      "type": "single",
+      "difficulty": 3,
+      "text": "Bolesnik nakon operacije smije operiranu nogu opteretiti samo djelomično i hoda s dvjema štakama. Koji je obrazac hoda pravilan?",
+      "options": [
+        {"id": "a", "text": "Četverotaktni hod"},
+        {"id": "b", "text": "Dvotaktni hod"},
+        {"id": "c", "text": "Trotaktni hod"},
+        {"id": "d", "text": "Hod njihanjem preko štaka"}
+      ],
+      "correct": ["c"],
+      "explanation": "Trotaktni hod rasterećuje jednu nogu: naprijed idu obje štake i operirana noga, a zatim zdrava noga, pa se dio težine prenosi na ruke. Četverotaktni i dvotaktni hod pretpostavljaju da obje noge nose težinu, a hod njihanjem primjenjuju bolesnici s ortozama i jakim rukama.",
+      "tags": ["obrasci hoda", "štake"]
+    },
+    {
+      "id": "kt-032",
+      "lesson_id": "rehabilitacija-i-pomagala-za-hod",
+      "type": "true_false",
+      "difficulty": 2,
+      "text": "Pri silasku niz stube bolesnik sa štakama najprije na nižu stubu spušta zdravu nogu.",
+      "options": [
+        {"id": "t", "text": "Točno"},
+        {"id": "f", "text": "Netočno"}
+      ],
+      "correct": ["f"],
+      "explanation": "Vrijedi pravilo zdrava noga prva gore, ozlijeđena prva dolje: pri silasku najprije se na nižu stubu spuštaju štake i ozlijeđena noga, a zatim zdrava noga, koja tako nosi težinu dok se tijelo spušta.",
+      "tags": ["stube", "štake"]
+    }
+  ]
+}

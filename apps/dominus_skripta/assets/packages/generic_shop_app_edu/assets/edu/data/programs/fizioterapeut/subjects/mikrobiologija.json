@@ -1,0 +1,1015 @@
+{
+  "id": "mikrobiologija",
+  "program_id": "fizioterapeut",
+  "title": "Mikrobiologija",
+  "short_title": "Mikrobiologija",
+  "description": "Mikroorganizmi i bolesti koje uzrokuju: građa i svojstva bakterija, virusa, gljiva i parazita, mikroskopija i laboratorijska dijagnostika, antibiotici i otpornost bakterija te sprječavanje širenja infekcija u fizioterapijskoj praksi.",
+  "color": "#65A30D",
+  "icon": "coronavirus",
+  "year": 1,
+  "lessons": [
+    {
+      "id": "uvod-u-mikrobiologiju",
+      "title": "Uvod u mikrobiologiju i laboratorijska dijagnostika",
+      "summary": "Lekcija objašnjava što su mikroorganizmi i kako se dijele, kako je nastala mikrobiologija te kako se mikroorganizmi promatraju mikroskopom, boje po Gramu i dokazuju u laboratoriju.",
+      "estimated_minutes": 11,
+      "sections": [
+        {
+          "heading": "Mikroorganizmi i njihova podjela",
+          "body": "Mikrobiologija je znanost o mikroorganizmima, živim bićima toliko sitnima da se većina može vidjeti samo mikroskopom. Medicinska mikrobiologija proučava bakterije, viruse, gljive i parazite koji uzrokuju bolesti ljudi te načine na koje ih otkrivamo, liječimo i sprječavamo njihovo širenje. Za fizioterapeuta je to znanje temelj sigurnog rada: on svakodnevno dodiruje bolesnike, dijeli s njima opremu i prostor te radi s osobama čija je otpornost često smanjena.\n\nVećina mikroorganizama nije štetna. Na koži, u ustima i u crijevima zdravog čovjeka živi normalna mikrobna flora (mikrobiota), koja pomaže probavi, stvara neke vitamine i zauzimanjem prostora sprječava naseljavanje uzročnika bolesti. Mikroorganizmi koji mogu izazvati bolest nazivaju se patogeni, a oportunistički patogeni uzrokuju bolest tek kada je obrana domaćina oslabljena, na primjer kod teških bolesnika, starijih osoba ili nakon operacije.",
+          "bullets": [
+            "Bakterije: jednostanični prokarioti bez jezgre, veličine oko 0,5 do 5 µm",
+            "Virusi: nestanične čestice veličine oko 20 do 300 nm, koje se umnožavaju samo u živoj stanici",
+            "Gljive: eukarioti, jednostanični kvasci i končaste plijesni",
+            "Paraziti: praživotinje (protozoi), crvi (helminti) i člankonošci poput uši i grinja"
+          ]
+        },
+        {
+          "heading": "Iz povijesti mikrobiologije",
+          "body": "Mikroorganizme je prvi opisao nizozemski trgovac tkaninama i samouki istraživač Antonie van Leeuwenhoek, koji je u drugoj polovici 17. stoljeća jednostavnim mikroskopima s jednom lećom promatrao „životinjice“ u vodi i zubnim naslagama. Dva stoljeća kasnije Louis Pasteur dokazao je da mikroorganizmi ne nastaju spontano iz nežive tvari, objasnio vrenje i kvarenje hrane djelovanjem mikroba, uveo pasterizaciju i razvio cjepivo protiv bjesnoće. Robert Koch pokazao je da određena bakterija uzrokuje određenu bolest: opisao je uzročnike bedrenice (antraksa) i tuberkuloze te postavio načela po kojima se uzročnik bolesti dokazuje, Kochove postulate.\n\nU isto je vrijeme shvaćena i važnost higijene. Ignaz Semmelweis uočio je 1847. u bečkoj Općoj bolnici da je smrtnost rodilja od babinje groznice mnogo manja kada liječnici prije pregleda operu ruke otopinom klornog vapna, a Joseph Lister je 1860-ih uveo antiseptičko liječenje rana i kirurških instrumenata karbolnom kiselinom. Penicilin, koji je Alexander Fleming otkrio 1928., otvorio je doba antibiotika, a cijepljenje je omogućilo iskorjenjivanje velikih boginja i nestanak dječje paralize iz većine svijeta.",
+          "bullets": [
+            "Antonie van Leeuwenhoek (17. st.): prvi opis mikroorganizama",
+            "Louis Pasteur (19. st.): opovrgnuće spontanog nastanka, pasterizacija, cjepivo protiv bjesnoće",
+            "Robert Koch (19. st.): uzročnici bedrenice i tuberkuloze, Kochovi postulati",
+            "Ignaz Semmelweis i Joseph Lister: higijena ruku i antisepsa"
+          ]
+        },
+        {
+          "heading": "Mikroskop i veličine mikroorganizama",
+          "body": "Svjetlosni mikroskop povećava sliku pomoću dvaju sustava leća: objektiva, koji je blizu preparata, i okulara, kroz koji se gleda. Ukupno povećanje umnožak je povećanja objektiva i okulara, pa imerzijski objektiv 100× s okularom 10× daje povećanje od 1000 puta. Pri takvom se povećanju između preparata i objektiva stavlja kap imerzijskog ulja, koje smanjuje lom svjetlosti između stakla i zraka i izoštrava sliku.\n\nMoć razlučivanja svjetlosnog mikroskopa iznosi oko 0,2 µm, što je dovoljno za bakterije, gljive i praživotinje, ali ne i za većinu virusa. Viruse vidimo elektronskim mikroskopom, koji umjesto svjetlosti koristi snop elektrona i postiže povećanja od nekoliko stotina tisuća puta. Bakterije se prije promatranja najčešće boje, jer su nebojene gotovo prozirne.",
+          "bullets": [
+            "1 mm = 1000 µm (mikrometara), a 1 µm = 1000 nm (nanometara)",
+            "Stanica kvasca: oko 3 do 10 µm; bakterija: oko 0,5 do 5 µm; virus: oko 20 do 300 nm"
+          ],
+          "image": {
+            "file": "mikrobiologija/mikroskop.jpg",
+            "caption": "Svjetlosni mikroskop: okular je na vrhu tubusa, objektivi su na okretnom revolveru, a ispod njih je stolić za preparat.",
+            "credits": [
+              {
+                "title": "Compound Microscope",
+                "author": "Acagastya",
+                "source": "https://commons.wikimedia.org/wiki/File:Compound_Microscope.JPG",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Bojenje po Gramu",
+          "body": "Bojenje po Gramu, koje je 1884. opisao danski liječnik Hans Christian Gram, najvažnija je metoda bojenja u bakteriologiji. Preparat se redom boji kristal-violetom, učvršćuje Lugolovom otopinom joda, ispire alkoholom ili acetonom i na kraju dobojava safraninom. Gram-pozitivne bakterije zadržavaju ljubičastu boju, jer alkohol isuši njihov debeli sloj peptidoglikana i zarobi spoj boje i joda u stijenci, a gram-negativne se alkoholom obezboje i poprime crvenu ili ružičastu boju safranina.\n\nVeć sama boja i oblik bakterija u preparatu daju prvu, brzu informaciju: gram-pozitivni koki u grozdovima upućuju na stafilokoke, a gram-negativni štapići na crijevne bakterije poput bakterije Escherichia coli. Razlika u građi stijenke važna je i za liječenje, jer neki antibiotici slabo prolaze kroz vanjsku membranu gram-negativnih bakterija. Neke se bakterije bojenjem po Gramu ne mogu dobro prikazati; mikobakterije, uzročnici tuberkuloze, imaju voštanu stijenku i boje se posebnim postupkom po Ziehl-Neelsenu.",
+          "bullets": [
+            "Gram-pozitivne: ljubičaste, debeli sloj peptidoglikana (npr. stafilokoki, streptokoki, klostridiji)",
+            "Gram-negativne: crvene ili ružičaste, tanki sloj peptidoglikana i vanjska membrana (npr. E. coli, pseudomonas, legionela)"
+          ],
+          "image": {
+            "file": "mikrobiologija/gram-bojenje.jpg",
+            "caption": "Bojenje po Gramu pod imerzijskim objektivom: lijevo ljubičasti gram-pozitivni koki Staphylococcus epidermidis, desno ružičasti gram-negativni štapići Escherichia coli. Tamnoljubičaste mrlje na desnoj polovici talog su boje. Spoj dviju fotografija istog autora.",
+            "credits": [
+              {
+                "title": "S epidermidis gram positive",
+                "author": "Owashxd",
+                "source": "https://commons.wikimedia.org/wiki/File:S_epidermidis_gram_positive.jpg",
+                "license": "CC0 1.0"
+              },
+              {
+                "title": "Gram negative stain e coli",
+                "author": "Owashxd",
+                "source": "https://commons.wikimedia.org/wiki/File:Gram_negative_stain_e_coli.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Uzgoj i laboratorijska dijagnostika",
+          "body": "Bakterije se u laboratoriju uzgajaju na hranjivim podlogama, najčešće na agaru u Petrijevim zdjelicama, i inkubiraju na 37 °C. Iz jedne bakterije umnožavanjem nastaje kolonija vidljiva golim okom, a izgled kolonija, promjene na podlozi i biokemijski testovi pomažu u prepoznavanju vrste. Na krvnom agaru, na primjer, Staphylococcus aureus stvara bjelkaste do žućkaste kolonije, često okružene prozirnom zonom razgrađenih eritrocita (beta-hemoliza).\n\nZa pouzdan nalaz presudan je pravilno uzet uzorak: bris rane, nosa ili ždrijela, urin, krv za hemokulturu ili iskašljaj uzimaju se sterilnim priborom, prije početka antibiotske terapije kad god je to moguće, i bez odgode šalju u laboratorij. Osim uzgojem, mikroorganizmi se dokazuju i brzim testovima na antigene, serološkim pretragama koje u krvi traže protutijela te molekularnim metodama poput PCR-a, koje u nekoliko sati otkrivaju nasljedni materijal uzročnika.",
+          "bullets": [
+            "Uzgoj (kultivacija) na hranjivim podlogama i određivanje osjetljivosti na antibiotike (antibiogram)",
+            "Mikroskopski pregled obojenog preparata",
+            "Serološke pretrage: protutijela u krvi bolesnika",
+            "Molekularne metode (PCR): nasljedni materijal uzročnika"
+          ],
+          "image": {
+            "file": "mikrobiologija/staphylococcus-krvni-agar.jpg",
+            "caption": "Kolonije bakterije Staphylococcus aureus na krvnom agaru, osvijetljene odostraga; prozirna zona oko kolonija nastaje razgradnjom eritrocita (beta-hemoliza).",
+            "credits": [
+              {
+                "title": "Staphylococcus aureus on blood agar, mildly backlit",
+                "author": "Mikael Häggström, M.D.",
+                "source": "https://commons.wikimedia.org/wiki/File:Staphylococcus_aureus_on_blood_agar,_mildly_backlit.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        }
+      ],
+      "key_points": [
+        "Bakterije, virusi, gljive i paraziti glavne su skupine mikroorganizama; većina mikroba nije štetna, a normalna flora štiti od uzročnika bolesti.",
+        "Pasteur i Koch utemeljili su mikrobiologiju, a Semmelweis i Lister pokazali važnost higijene ruku i antisepse.",
+        "Svjetlosnim mikroskopom uz povećanje od 1000 puta i imerzijsko ulje vide se bakterije, a virusi tek elektronskim mikroskopom.",
+        "Gram-pozitivne bakterije oboje se ljubičasto, a gram-negativne crveno ili ružičasto, zbog razlike u građi stanične stijenke.",
+        "Uzročnik se dokazuje uzgojem, mikroskopijom, serološkim i molekularnim metodama; za točan nalaz presudan je pravilno uzet uzorak."
+      ]
+    },
+    {
+      "id": "bakterije",
+      "title": "Bakterije: građa, važni uzročnici i antibiotici",
+      "summary": "Lekcija objašnjava oblike i građu bakterija, njihov rast i spore, najvažnije uzročnike bolesti u fizioterapijskoj praksi te djelovanje antibiotika i nastanak otpornosti.",
+      "estimated_minutes": 12,
+      "sections": [
+        {
+          "heading": "Oblici i građa bakterija",
+          "body": "Prema obliku bakterije dijelimo na okrugle koke, štapićaste bacile i zavijene oblike. Koki se nakon dijeljenja mogu držati u parovima (diplokoki, na primjer pneumokok), u lancima (streptokoki) ili u nepravilnim nakupinama nalik grozdu (stafilokoki). Zavijeni oblici su zarezasti vibrioni, kao uzročnik kolere, kruti spirili i savitljive spirohete, među kojima su uzročnici sifilisa i lajmske borelioze.\n\nBakterija je prokariot: nema jezgru ni organele obavijene membranom. Njezin je nasljedni materijal jedan kružni kromosom smješten u citoplazmi (nukleoid), a mnoge bakterije imaju i male kružne molekule DNA, plazmide, koji često nose gene za otpornost na antibiotike i mogu se prenositi na druge bakterije. Citoplazmu obavija citoplazmatska membrana, a nju čvrsta stanična stijenka od peptidoglikana, koja daje oblik i štiti bakteriju od pucanja; upravo izgradnju stijenke sprječavaju penicilini.",
+          "bullets": [
+            "Kapsula: sluzavi omotač koji štiti bakteriju od fagocitoze",
+            "Bičevi (flagele): kretanje",
+            "Fimbrije (pili): prianjanje uz stanice domaćina; spolni pil služi prijenosu plazmida",
+            "Ribosomi: sinteza bjelančevina i mjesto djelovanja mnogih antibiotika"
+          ],
+          "image": {
+            "file": "mikrobiologija/gram-pozitivni-koki.jpg",
+            "caption": "Gram-pozitivni koki obojeni po Gramu: tamnoljubičaste okrugle stanice pojedinačno, u parovima i u kraćim i duljim lancima.",
+            "credits": [
+              {
+                "title": "Microscopic Arrangement of Gram-Positive Cocci",
+                "author": "Ajay Kumar Chaurasiya",
+                "source": "https://commons.wikimedia.org/wiki/File:Microscopic_Arrangement_of_Gram-Positive_Cocci.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Rast, spore i otpornost bakterija",
+          "body": "Bakterije se razmnožavaju jednostavnom diobom: jedna se stanica podijeli u dvije jednake. U povoljnim uvjetima to se kod nekih vrsta događa svakih dvadesetak minuta, pa iz jedne stanice za nekoliko sati nastanu milijuni. Prema potrebi za kisikom razlikujemo aerobne bakterije, kojima je kisik nužan, anaerobne, kojima kisik šteti (na primjer klostridiji), i fakultativno anaerobne, koje rastu i s kisikom i bez njega, poput stafilokoka i bakterije E. coli. Uzročnici bolesti ljudi najbolje rastu pri temperaturi tijela, oko 37 °C.\n\nNeke bakterije, prije svega rodovi Bacillus i Clostridium, u nepovoljnim uvjetima stvaraju endospore: mirujuće oblike s debelom ovojnicom koji preživljavaju isušivanje, kuhanje i većinu dezinficijensa te godinama ostaju u tlu i prašini. Kada dospiju u povoljne uvjete, na primjer u duboku, onečišćenu ranu, spora proklija i ponovno nastaje aktivna bakterija. Zbog spora se kirurški instrumenti ne smiju samo dezinficirati, nego se moraju sterilizirati, najčešće vodenom parom pod tlakom u autoklavu.",
+          "bullets": [
+            "Aerobi, anaerobi i fakultativni anaerobi",
+            "Endospore: rodovi Bacillus i Clostridium; otporne na kuhanje, isušivanje i alkohol",
+            "Spore pouzdano uništava tek sterilizacija, na primjer u autoklavu pri 121 °C"
+          ],
+          "image": {
+            "file": "mikrobiologija/endospore-bacillus.jpg",
+            "caption": "Bojenje endospora bakterije Bacillus subtilis malahitnim zelenilom i safraninom: spore su zelene, a vegetativne stanice crvene.",
+            "credits": [
+              {
+                "title": "Stained Bacillus subtilis",
+                "author": "Panzer VI-II",
+                "source": "https://commons.wikimedia.org/wiki/File:Stained_Bacillus_subtilis.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Važni uzročnici bolesti",
+          "body": "Staphylococcus aureus živi na koži i u nosu otprilike trećine zdravih ljudi, a uzrokuje gnojne infekcije kože (furunkule, impetigo), infekcije kirurških rana, upalu kosti (osteomijelitis), gnojnu upalu zglobova i sepsu. Sojevi otporni na meticilin i većinu beta-laktamskih antibiotika, MRSA, važni su uzročnici bolničkih infekcija i najčešće se prenose rukama. Streptococcus pyogenes uzrokuje anginu, šarlah i crveni vjetar (erizipel), a nekoliko tjedana nakon neliječene streptokokne angine može se razviti reumatska vrućica s upalom zglobova i srca.\n\nMycobacterium tuberculosis, uzročnik tuberkuloze, prenosi se zrakom, sitnim kapljicama koje oboljeli izbacuje kašljem. Najčešće zahvaća pluća, ali može zahvatiti i kosti i zglobove, osobito kralježnicu (Pottova bolest). Raste vrlo sporo, pa nalaz kulture stiže tek nakon nekoliko tjedana, a liječenje kombinacijom više lijekova u pravilu traje šest mjeseci. Clostridium tetani živi u tlu i crijevima životinja; njegove spore ulaze u tijelo kroz onečišćene rane, a toksin bakterije uzrokuje bolne grčeve mišića, od grča žvačnih mišića (trizmus) do generaliziranih grčeva. Od tetanusa štiti cijepljenje.",
+          "bullets": [
+            "Escherichia coli: dio normalne crijevne flore i najčešći uzročnik infekcija mokraćnog sustava",
+            "Pseudomonas aeruginosa: vlažna okolina (umivaonici, kade, bazeni), bolničke infekcije, često višestruko otporan",
+            "Legionella pneumophila: topla voda u vodovodnim sustavima i tuševima; upala pluća udisanjem aerosola, ne prenosi se s čovjeka na čovjeka",
+            "Clostridioides difficile: proljev nakon antibiotske terapije; spore otporne na alkohol",
+            "Borrelia burgdorferi: lajmska borelioza, prenose je krpelji"
+          ],
+          "image": {
+            "file": "mikrobiologija/mycobacterium-ziehl-neelsen.jpg",
+            "caption": "Bacili tuberkuloze u bronhoalveolarnom lavatu obojenom po Ziehl-Neelsenu: acidorezistentni štapići zadržavaju crvenu boju, a pozadina je modra.",
+            "credits": [
+              {
+                "title": "Acid fast bacilli of Mycobacterium tuberculosis",
+                "author": "Ajay Kumar Chaurasiya",
+                "source": "https://commons.wikimedia.org/wiki/File:Acid_fast_bacilli_of_Mycobacterium_tuberculosis.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Antibiotici i otpornost bakterija",
+          "body": "Antibiotici su lijekovi koji ubijaju bakterije ili zaustavljaju njihov rast, a djeluju na strukture kojih u ljudskim stanicama nema ili su drukčije građe. Penicilini i cefalosporini sprječavaju izgradnju stanične stijenke, makrolidi, tetraciklini i aminoglikozidi ometaju sintezu bjelančevina na bakterijskim ribosomima, a kinoloni ometaju umnožavanje bakterijske DNA. Na viruse antibiotici ne djeluju, pa ih kod prehlade, gripe i većine upala grla ne treba uzimati.\n\nBakterije postaju otporne (rezistentne) mutacijama i preuzimanjem gena otpornosti od drugih bakterija, najčešće plazmidima. Svaka primjena antibiotika odabire otporne sojeve, pa nepotrebna i nepravilna upotreba, u medicini i u stočarstvu, ubrzava širenje otpornosti. Višestruko otporne bakterije, poput MRSA-e, enterokoka otpornih na vankomicin (VRE) i gram-negativnih bakterija koje stvaraju beta-laktamaze proširenog spektra (ESBL) ili su otporne na karbapeneme, sve su češći uzročnici bolničkih infekcija koje se teško liječe. Koji će antibiotik djelovati, laboratorij određuje antibiogramom.",
+          "bullets": [
+            "Antibiotik se uzima samo kada ga propiše liječnik, u propisanoj dozi i trajanju",
+            "Antibiotici ne liječe virusne infekcije",
+            "Higijena ruku i čišćenje opreme sprječavaju širenje otpornih bakterija među bolesnicima"
+          ],
+          "image": {
+            "file": "mikrobiologija/antibiogram.jpg",
+            "caption": "Antibiogram disk-difuzijskom metodom na Mueller-Hintonovu agaru: oko diskova s antibioticima na koje je bakterija osjetljiva ostaje prozirna zona bez rasta.",
+            "credits": [
+              {
+                "title": "Leuconostoc antibiogram result",
+                "author": "Ajay Kumar Chaurasiya",
+                "source": "https://commons.wikimedia.org/wiki/File:Leuconostoc_antibiogram_result.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        }
+      ],
+      "key_points": [
+        "Bakterije su prokarioti bez jezgre; stanična stijenka od peptidoglikana daje im oblik, a njezinu izgradnju sprječavaju penicilini.",
+        "Prema obliku razlikujemo koke, bacile i zavijene oblike; stafilokoki tvore grozdove, a streptokoki lance.",
+        "Endospore klostridija i bacila preživljavaju kuhanje i dezinfekciju, pa ih pouzdano uništava tek sterilizacija.",
+        "Staphylococcus aureus i MRSA, uzročnik tuberkuloze, Clostridium tetani, pseudomonas i legionela važni su uzročnici za fizioterapijsku praksu.",
+        "Antibiotici ne djeluju na viruse; nepotrebna i nepravilna primjena ubrzava širenje otpornih bakterija."
+      ]
+    },
+    {
+      "id": "virusi-gljive-i-paraziti",
+      "title": "Virusi, gljive i paraziti",
+      "summary": "Lekcija objašnjava građu i umnožavanje virusa, virusne bolesti važne u fizioterapiji, kvasce, plijesni i dermatofite te parazite i prijenosnike bolesti poput krpelja.",
+      "estimated_minutes": 12,
+      "sections": [
+        {
+          "heading": "Građa i umnožavanje virusa",
+          "body": "Virusi su nestanične čestice građene od nasljednog materijala, DNA ili RNA, i proteinskog omotača, kapside. Neki virusi imaju i vanjsku lipidnu ovojnicu, koju pri izlasku preuzimaju od membrane stanice domaćina. Virusi nemaju vlastiti metabolizam, pa se mogu umnožavati samo unutar žive stanice, zbog čega ih ubrajamo u obligatne unutarstanične parazite.\n\nUmnožavanje virusa počinje vezanjem za receptor na površini stanice i ulaskom u nju. Virus zatim oslobodi svoj nasljedni materijal i preusmjeri stanicu da proizvodi njegove dijelove, iz kojih se slažu nove čestice koje izlaze iz stanice, često je pritom razarajući. Neki virusi, poput virusa iz skupine herpesa, nakon prve infekcije doživotno ostaju u organizmu u mirujućem obliku i mogu se ponovno aktivirati. Virusi s ovojnicom osjetljiviji su na alkohol i deterdžente od virusa bez ovojnice, kao što je norovirus.",
+          "bullets": [
+            "Faze umnožavanja: vezanje, ulazak, oslobađanje nasljednog materijala, sinteza dijelova, slaganje i izlazak",
+            "Antibiotici ne djeluju; neke viruse koče antivirusni lijekovi, na primjer aciklovir viruse herpesa",
+            "Od mnogih virusnih bolesti najbolje štiti cijepljenje"
+          ]
+        },
+        {
+          "heading": "Virusne bolesti važne u fizioterapiji",
+          "body": "Virusi gripe i SARS-CoV-2 prenose se kapljicama i aerosolom pri kašljanju, kihanju i govoru, a mogu uzrokovati tešku upalu pluća, osobito kod starijih i kroničnih bolesnika. Virus varicella-zoster pri prvoj infekciji uzrokuje vodene kozice, a zatim ostaje u osjetnim živčanim ganglijima; njegova kasnija reaktivacija izaziva herpes zoster, bolan osip u području jednog dermatoma, nakon kojeg može zaostati dugotrajna bol (postherpetička neuralgija).\n\nVirusi hepatitisa B i C i HIV prenose se krvlju i spolnim putem, a ne svakodnevnim dodirom, rukovanjem ili zajedničkim korištenjem opreme za vježbanje. Zdravstveni radnik izložen je ponajprije ubodom igle ili prskanjem krvi po sluznici, pa su nužni oprez s oštrim predmetima i cijepljenje protiv hepatitisa B. Poliovirus se prenosi fekalno-oralnim putem i može oštetiti motoričke neurone kralježnične moždine te uzrokovati mlohavu kljenut; desetljećima nakon preboljele bolesti mnogi bolesnici razviju postpolio sindrom s novom slabošću mišića i umorom, koji je čest razlog za fizioterapiju.",
+          "bullets": [
+            "Gripa i COVID-19: kapljice i aerosol, teži tijek kod starijih i kroničnih bolesnika",
+            "Herpes zoster: reaktivacija virusa vodenih kozica, bol i osip u području dermatoma",
+            "Hepatitis B, hepatitis C i HIV: krv i spolni put",
+            "Norovirus: vrlo zarazan proljev i povraćanje, slabo osjetljiv na alkohol"
+          ]
+        },
+        {
+          "heading": "Gljive",
+          "body": "Gljive su eukariotski organizmi čija je stanična stijenka građena od hitina. Kvasci su jednostanične gljive koje se razmnožavaju pupanjem; najvažniji je Candida albicans, sastavni dio normalne flore usta, crijeva i rodnice, koji pri oslabljenoj otpornosti, šećernoj bolesti ili nakon antibiotske terapije uzrokuje soor (bijele naslage na sluznici usta) i druge oblike kandidijaze. Plijesni rastu kao razgranate niti, hife; Aspergillus kod osoba s teško oslabljenom imunosti može uzrokovati tešku upalu pluća.\n\nDermatofiti su gljive koje se hrane keratinom kože, kose i noktiju. Uzrokuju gljivične infekcije stopala (tinea pedis), noktiju (onihomikoza) i kože, a prenose se dodirom te preko vlažnih podova svlačionica, tuševa i bazena. Zato se u hidroterapiji i na zajedničkim površinama nosi obuća za kupanje, stopala se nakon kupanja dobro osuše, a podovi i ležajevi redovito čiste i dezinficiraju.",
+          "bullets": [
+            "Kvasci (Candida): soor i kandidijaza kože i sluznica",
+            "Plijesni (Aspergillus): infekcije pluća kod osoba s oslabljenom imunosti",
+            "Dermatofiti: gljivice stopala i noktiju, šire se preko vlažnih podova"
+          ],
+          "image": {
+            "file": "mikrobiologija/aspergillus-kultura.jpg",
+            "caption": "Kolonije plijesni Aspergillus fumigatus na Sabouraudovu dekstroznom agaru, podlozi za uzgoj gljiva.",
+            "credits": [
+              {
+                "title": "Aspergillus fumigatus growth on SDA",
+                "author": "Ajay Kumar Chaurasiya",
+                "source": "https://commons.wikimedia.org/wiki/File:Aspergillus_fumigatus_growth_on_SDA.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Paraziti i prijenosnici bolesti",
+          "body": "Paraziti su organizmi koji žive na račun domaćina. Praživotinje (protozoi) su jednostanični eukarioti: Toxoplasma gondii prenosi se mačjim izmetom i nedovoljno pečenim mesom te je opasna u trudnoći, a uzročnici malarije prenose se ubodom komaraca roda Anopheles. Crvi (helminti) su višestanični: dječja glista (Enterobius vermicularis) česta je u djece i uzrokuje svrbež oko čmara, a pseća trakavica (Echinococcus granulosus) stvara ciste u jetri i plućima.\n\nNa koži žive ektoparaziti. Grinja Sarcoptes scabiei uzrokuje šugu (svrab): ženka kopa hodnike u koži, najčešće između prstiju, na zapešćima i u pazusima, a svrbež je najjači noću. Šuga se prenosi duljim izravnim dodirom kože, rjeđe posteljinom i odjećom, pa se širi u domovima za starije i drugim ustanovama, gdje fizioterapeut pri pojavi sumnjivog osipa nosi rukavice i zaštitni ogrtač te o tome obavještava tim. Krpelj Ixodes ricinus prenosi lajmsku boreliozu i krpeljni meningoencefalitis, pa se nakon boravka u prirodi tijelo pregleda, a pričvršćen krpelj što prije ukloni.",
+          "bullets": [
+            "Protozoi: toksoplazma, uzročnici malarije, giardija",
+            "Helminti: dječja glista, pseća trakavica",
+            "Ektoparaziti: grinja šuge i uši",
+            "Krpelji: lajmska borelioza i krpeljni meningoencefalitis"
+          ],
+          "image": {
+            "file": "mikrobiologija/krpelj-ixodes.jpg",
+            "caption": "Šumski krpelj Ixodes ricinus, prijenosnik lajmske borelioze i krpeljnog meningoencefalitisa.",
+            "credits": [
+              {
+                "title": "Ixodes-ricinus-01-fws",
+                "author": "Francisco Welter-Schultes",
+                "source": "https://commons.wikimedia.org/wiki/File:Ixodes-ricinus-01-fws.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        }
+      ],
+      "key_points": [
+        "Virusi su nestanične čestice s DNA ili RNA koje se umnožavaju samo u živoj stanici; antibiotici na njih ne djeluju.",
+        "Virus vodenih kozica ostaje u osjetnim ganglijima, a njegova reaktivacija uzrokuje herpes zoster u području dermatoma.",
+        "Hepatitis B, hepatitis C i HIV prenose se krvlju i spolnim putem, a ne svakodnevnim dodirom.",
+        "Candida uzrokuje soor i kandidijaze, a dermatofiti gljivične infekcije stopala koje se šire preko vlažnih podova.",
+        "Šuga se prenosi duljim dodirom kože, a krpelji prenose lajmsku boreliozu i krpeljni meningoencefalitis."
+      ]
+    },
+    {
+      "id": "sprjecavanje-infekcija",
+      "title": "Infekcija, imunost i sprječavanje infekcija u fizioterapiji",
+      "summary": "Lekcija objašnjava lanac infekcije i putove prijenosa, obranu organizma i cijepljenje te higijenu ruku, čišćenje, dezinfekciju, sterilizaciju i zaštitnu opremu u fizioterapijskom radu.",
+      "estimated_minutes": 12,
+      "sections": [
+        {
+          "heading": "Lanac infekcije i putovi prijenosa",
+          "body": "Da bi nastala infekcija, mora postojati neprekinut lanac od šest karika: uzročnik, izvor (rezervoar) u kojem uzročnik živi, izlazna vrata kroz koja napušta izvor, put prijenosa, ulazna vrata u novog domaćina i osjetljiv domaćin. Izvor može biti bolesnik, zdravi kliconoša, životinja ili okoliš, primjerice voda u vodovodnim cijevima. Prekidanjem bilo koje karike, na primjer higijenom ruku, dezinfekcijom opreme ili cijepljenjem, infekcija se sprječava.\n\nNajčešći put prijenosa u zdravstvu je kontakt, izravni, dodirom kože, ili neizravni, preko ruku osoblja, opreme i površina. Kapljični prijenos događa se većim kapljicama koje pri kašljanju i govoru padaju na udaljenosti do otprilike jednog do dva metra, a zračni sitnim česticama koje dugo lebde u zraku, kao kod tuberkuloze, ospica i vodenih kozica. Ostali su putovi fekalno-oralni, prijenos krvlju, prijenos prijenosnicima (vektorima) poput krpelja i komaraca te prijenos s majke na dijete.",
+          "bullets": [
+            "Kontaktni prijenos, izravni i neizravni",
+            "Kapljični i zračni prijenos",
+            "Fekalno-oralni prijenos",
+            "Prijenos krvlju (parenteralni)",
+            "Prijenos vektorima i s majke na dijete (vertikalni)"
+          ]
+        },
+        {
+          "heading": "Obrana organizma i cijepljenje",
+          "body": "Prvu crtu obrane čine nespecifični (urođeni) mehanizmi: neoštećena koža i sluznice, kiselina u želucu, normalna flora te stanice koje gutaju mikroorganizme (fagociti), poput neutrofila i makrofaga. Upala i vrućica dio su iste obrane. Specifična (stečena) imunost razvija se nakon dodira s uzročnikom: B-limfociti stvaraju protutijela koja se vežu za uzročnika, a T-limfociti uništavaju zaražene stanice i usmjeravaju imunosni odgovor. Nakon prve infekcije ostaju memorijske stanice, pa je odgovor pri ponovnom susretu brži i jači.\n\nAktivna imunost nastaje preboljenjem bolesti ili cijepljenjem, kojim organizam dobiva oslabljeni ili mrtvi uzročnik, njegov dio, toksoid ili uputu za stvaranje jedne njegove bjelančevine (mRNA cjepiva), pa imunost nastaje bez opasnosti od same bolesti. Pasivna imunost prijenos je gotovih protutijela, s majke na dijete kroz posteljicu i mlijekom ili davanjem imunoglobulina, i traje samo nekoliko tjedana do mjeseci. Zdravstvenim se radnicima preporučuje cijepljenje protiv hepatitisa B i sezonske gripe te provjera zaštite od ospica, rubeole, vodenih kozica, difterije i tetanusa.",
+          "bullets": [
+            "Nespecifična imunost: koža, sluznice, fagociti, upala i vrućica",
+            "Specifična imunost: B-limfociti (protutijela) i T-limfociti",
+            "Aktivna imunost: preboljenje bolesti ili cijepljenje",
+            "Pasivna imunost: protutijela s majke ili imunoglobulini"
+          ]
+        },
+        {
+          "heading": "Higijena ruku",
+          "body": "Higijena ruku najvažnija je pojedinačna mjera sprječavanja infekcija povezanih sa zdravstvenom skrbi. Prema Svjetskoj zdravstvenoj organizaciji ruke treba očistiti u pet trenutaka: prije dodira s bolesnikom, prije čistog ili aseptičnog postupka, nakon izlaganja tjelesnim tekućinama, nakon dodira s bolesnikom i nakon dodira s bolesnikovom okolinom, primjerice terapijskim ležajem ili pomagalom. Za fizioterapeuta, koji bolesnika dodiruje tijekom cijele terapije, to znači higijenu ruku najmanje prije i nakon svakog bolesnika.\n\nUtrljavanje alkoholnog pripravka traje 20 do 30 sekundi i kada ruke nisu vidljivo prljave djelotvornije je od pranja. Ruke se peru vodom i sapunom 40 do 60 sekundi kada su vidljivo prljave, nakon korištenja toaleta te pri skrbi za bolesnike s proljevom koji uzrokuje Clostridioides difficile ili norovirus, jer alkohol ne uništava spore i slabo djeluje na norovirus. Nokti trebaju biti kratki, bez umjetnih noktiju i laka, a za vrijeme rada ne nose se prstenje, sat i narukvice.",
+          "bullets": [
+            "Prije dodira s bolesnikom",
+            "Prije čistog ili aseptičnog postupka",
+            "Nakon izlaganja tjelesnim tekućinama",
+            "Nakon dodira s bolesnikom",
+            "Nakon dodira s bolesnikovom okolinom"
+          ],
+          "image": {
+            "file": "mikrobiologija/pranje-ruku.jpg",
+            "caption": "Pranje ruku vodom i sapunom: sapun se utrljava po dlanovima, nadlanicama i između prstiju.",
+            "credits": [
+              {
+                "title": "Hand washing man",
+                "author": "MarkBuckawicki",
+                "source": "https://commons.wikimedia.org/wiki/File:Hand_washing_man.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Čišćenje, dezinfekcija i sterilizacija",
+          "body": "Čišćenje je mehaničko uklanjanje nečistoće i organske tvari vodom i deterdžentom i uvijek prethodi dezinfekciji, jer prljavština štiti mikroorganizme. Dezinfekcija uništava većinu mikroorganizama na predmetima i površinama, ali ne nužno i bakterijske spore, a antisepsa je uništavanje mikroorganizama na koži, sluznicama i u ranama. Sterilizacija uništava sve oblike mikroorganizama, uključujući spore; najčešće se provodi zasićenom vodenom parom pod tlakom u autoklavu, na primjer pri 121 °C kroz 15 do 20 minuta ili pri 134 °C kroz nekoliko minuta.\n\nU fizioterapiji se nakon svakog bolesnika čiste i dezinficiraju terapijski ležajevi, glave ultrazvučnih aparata, elektrode i podlošci, pomagala za hod i sprave za vježbanje. Plahte i ručnici mijenjaju se nakon svakog bolesnika ili se ležaj prekriva jednokratnim papirom. Kod bolesnika u kontaktnoj izolaciji, primjerice zbog MRSA-e, nose se rukavice i zaštitni ogrtač te se, kad god je moguće, koristi oprema namijenjena samo tom bolesniku.",
+          "bullets": [
+            "Čišćenje: uklanja nečistoću i prethodi dezinfekciji",
+            "Dezinfekcija: predmeti i površine, ne uništava nužno spore",
+            "Antisepsa: koža, sluznice i rane",
+            "Sterilizacija: uništava sve mikroorganizme, uključujući spore"
+          ],
+          "image": {
+            "file": "mikrobiologija/autoklav.jpg",
+            "caption": "Autoklavi iz medicinskog laboratorija: sterilizacija zasićenom vodenom parom pod tlakom.",
+            "credits": [
+              {
+                "title": "Autoclaves; from a medical laboratory in Abuja, Nigeria",
+                "author": "Frankincense Diala",
+                "source": "https://commons.wikimedia.org/wiki/File:Autoclaves;_from_a_medical_laboratory_in_Abuja,_Nigeria.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Zaštitna oprema i hidroterapija",
+          "body": "Standardne mjere opreza primjenjuju se kod svih bolesnika: krv, tjelesne tekućine, izlučevine, oštećena koža i sluznice smatraju se potencijalno zaraznima. Rukavice se nose pri očekivanom dodiru s krvlju, tjelesnim tekućinama, sluznicama ili oštećenom kožom, mijenjaju se između bolesnika, a nakon njihova skidanja uvijek se provodi higijena ruku, jer rukavice ne štite potpuno. Zaštitni ogrtač ili pregača štiti odjeću od onečišćenja, a maska i zaštita očiju nose se kada prijeti prskanje te kod bolesnika s infekcijom koja se širi kapljicama.\n\nU hidroterapiji topla voda i aerosol pogoduju bakterijama Pseudomonas aeruginosa i Legionella pneumophila, pa se kakvoća vode, razina dezinficijensa, najčešće klora, i temperatura redovito nadziru. Bolesnici se prije ulaska u bazen tuširaju, a u bazen ne ulaze osobe s otvorenim ranama, proljevom, akutnim kožnim ili drugim zaraznim bolestima te s nekontroliranom inkontinencijom. Kade i kupke za pojedine dijelove tijela čiste se i dezinficiraju nakon svakog bolesnika.",
+          "bullets": [
+            "Rukavice: dodir s krvlju, tjelesnim tekućinama, sluznicama i oštećenom kožom",
+            "Nakon skidanja rukavica uvijek higijena ruku",
+            "Maska i zaštita očiju: opasnost od prskanja i kapljične infekcije",
+            "Hidroterapija: tuširanje prije bazena; bez bolesnika s otvorenim ranama i zaraznim bolestima"
+          ],
+          "image": {
+            "file": "mikrobiologija/rukavica.jpg",
+            "caption": "Jednokratna rukavica od lateksa; mijenja se između bolesnika, a nakon skidanja uvijek slijedi higijena ruku.",
+            "credits": [
+              {
+                "title": "Latex Einmalhandschuh",
+                "author": "Sciencia58",
+                "source": "https://commons.wikimedia.org/wiki/File:Latex_Einmalhandschuh.jpg",
+                "license": "CC0 1.0"
+              }
+            ]
+          }
+        }
+      ],
+      "key_points": [
+        "Infekcija nastaje kada je lanac od uzročnika do osjetljivog domaćina neprekinut; prekidanjem bilo koje karike se sprječava.",
+        "Kontakt preko ruku osoblja, opreme i površina najčešći je put prijenosa u zdravstvu.",
+        "Higijena ruku u pet trenutaka najvažnija je mjera: alkoholni pripravak 20 do 30 sekundi, pranje vodom i sapunom 40 do 60 sekundi.",
+        "Kod proljeva koji uzrokuje Clostridioides difficile ili norovirus ruke se peru vodom i sapunom, jer alkohol ne uništava spore i slabo djeluje na norovirus.",
+        "Čišćenje prethodi dezinfekciji, a tek sterilizacija, na primjer u autoklavu, uništava i spore.",
+        "Rukavice ne zamjenjuju higijenu ruku; nakon njihova skidanja ruke se uvijek očiste."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "mb-001",
+      "lesson_id": "uvod-u-mikrobiologiju",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Koja skupina mikroorganizama nema staničnu građu i umnožava se samo unutar žive stanice?",
+      "options": [
+        {"id": "a", "text": "Virusi"},
+        {"id": "b", "text": "Bakterije"},
+        {"id": "c", "text": "Kvasci"},
+        {"id": "d", "text": "Praživotinje"}
+      ],
+      "correct": ["a"],
+      "explanation": "Virusi su nestanične čestice građene od nasljednog materijala i proteinskog omotača; nemaju vlastiti metabolizam, pa se umnožavaju samo u živoj stanici. Bakterije, kvasci i praživotinje su stanice.",
+      "tags": ["podjela mikroorganizama", "virusi"]
+    },
+    {
+      "id": "mb-002",
+      "lesson_id": "uvod-u-mikrobiologiju",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Tko je prvi opisao mikroorganizme promatrajući ih jednostavnim mikroskopom?",
+      "options": [
+        {"id": "a", "text": "Antonie van Leeuwenhoek"},
+        {"id": "b", "text": "Robert Koch"},
+        {"id": "c", "text": "Louis Pasteur"},
+        {"id": "d", "text": "Joseph Lister"}
+      ],
+      "correct": ["a"],
+      "explanation": "Leeuwenhoek je u drugoj polovici 17. stoljeća jednostavnim mikroskopima s jednom lećom opisao mikroorganizme u vodi i zubnim naslagama. Pasteur i Koch djelovali su dva stoljeća kasnije, a Lister je uveo antisepsu.",
+      "tags": ["povijest"]
+    },
+    {
+      "id": "mb-003",
+      "lesson_id": "uvod-u-mikrobiologiju",
+      "type": "true_false",
+      "difficulty": 1,
+      "text": "Ignaz Semmelweis pokazao je da pranje ruku otopinom klornog vapna smanjuje smrtnost rodilja od babinje groznice.",
+      "options": [
+        {"id": "t", "text": "Točno"},
+        {"id": "f", "text": "Netočno"}
+      ],
+      "correct": ["t"],
+      "explanation": "Semmelweis je 1847. u bečkoj Općoj bolnici uočio da je smrtnost rodilja mnogo manja kada liječnici prije pregleda operu ruke otopinom klornog vapna, što je jedan od prvih dokaza važnosti higijene ruku.",
+      "tags": ["povijest", "higijena ruku"]
+    },
+    {
+      "id": "mb-004",
+      "lesson_id": "uvod-u-mikrobiologiju",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Koliko iznosi ukupno povećanje svjetlosnog mikroskopa s imerzijskim objektivom 100× i okularom 10×?",
+      "options": [
+        {"id": "a", "text": "1000 puta"},
+        {"id": "b", "text": "110 puta"},
+        {"id": "c", "text": "100 puta"},
+        {"id": "d", "text": "10 000 puta"}
+      ],
+      "correct": ["a"],
+      "explanation": "Ukupno povećanje umnožak je povećanja objektiva i okulara: 100 × 10 = 1000. Povećanja se ne zbrajaju, pa 110 puta nije točno.",
+      "tags": ["mikroskop"]
+    },
+    {
+      "id": "mb-005",
+      "lesson_id": "uvod-u-mikrobiologiju",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Zašto se većina virusa ne može vidjeti svjetlosnim mikroskopom?",
+      "options": [
+        {"id": "a", "text": "Manji su od moći razlučivanja svjetlosnog mikroskopa, koja iznosi oko 0,2 µm"},
+        {"id": "b", "text": "Prozirni su i ne mogu se obojiti nijednom bojom"},
+        {"id": "c", "text": "Raspadaju se čim ih obasja svjetlost"},
+        {"id": "d", "text": "Nalaze se isključivo unutar jezgre stanice"}
+      ],
+      "correct": ["a"],
+      "explanation": "Većina virusa velika je oko 20 do 300 nm, a svjetlosni mikroskop razlučuje tek oko 0,2 µm (200 nm). Zato se virusi promatraju elektronskim mikroskopom, koji koristi snop elektrona.",
+      "tags": ["mikroskop", "virusi"]
+    },
+    {
+      "id": "mb-006",
+      "lesson_id": "uvod-u-mikrobiologiju",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Koje su tvrdnje o bojenju po Gramu točne?",
+      "options": [
+        {"id": "a", "text": "Gram-pozitivne bakterije oboje se ljubičasto"},
+        {"id": "b", "text": "Gram-negativne bakterije imaju vanjsku membranu i tanki sloj peptidoglikana"},
+        {"id": "c", "text": "Alkohol obezboji gram-negativne bakterije, koje zatim poprime boju safranina"},
+        {"id": "d", "text": "Mikobakterije se najbolje prikazuju upravo bojenjem po Gramu"},
+        {"id": "e", "text": "Gram-pozitivne bakterije oboje se crveno"}
+      ],
+      "correct": ["a", "b", "c"],
+      "explanation": "Debeli sloj peptidoglikana gram-pozitivnih bakterija zadrži ljubičasti spoj kristal-violeta i joda, a tanka stijenka gram-negativnih s vanjskom membranom se alkoholom obezboji i poprimi crvenu boju safranina. Mikobakterije imaju voštanu stijenku i boje se po Ziehl-Neelsenu.",
+      "tags": ["bojenje po Gramu"]
+    },
+    {
+      "id": "mb-007",
+      "lesson_id": "uvod-u-mikrobiologiju",
+      "type": "single",
+      "difficulty": 3,
+      "text": "Zašto se uzorak za mikrobiološku pretragu uzima prije početka antibiotske terapije kad god je to moguće?",
+      "options": [
+        {"id": "a", "text": "Antibiotik može spriječiti rast uzročnika u kulturi, pa nalaz bude lažno negativan"},
+        {"id": "b", "text": "Antibiotik mijenja boju bakterija pri bojenju po Gramu"},
+        {"id": "c", "text": "Uzorak bez antibiotika može se čuvati neograničeno dugo"},
+        {"id": "d", "text": "Antibiotici razgrađuju hranjive podloge u laboratoriju"}
+      ],
+      "correct": ["a"],
+      "explanation": "Već započeta antibiotska terapija može oštetiti ili zaustaviti uzročnika u uzorku, pa on u kulturi ne izraste i nalaz lažno pokaže da uzročnika nema. Uzorak se zato uzima prije prve doze kad god to stanje bolesnika dopušta.",
+      "tags": ["dijagnostika", "uzorak"]
+    },
+    {
+      "id": "mb-008",
+      "lesson_id": "uvod-u-mikrobiologiju",
+      "type": "single",
+      "difficulty": 3,
+      "text": "U preparatu obojenom po Gramu vide se ljubičasti okrugli mikroorganizmi u nepravilnim nakupinama nalik grozdu. Na koje to bakterije najprije upućuje?",
+      "options": [
+        {"id": "a", "text": "Na stafilokoke"},
+        {"id": "b", "text": "Na streptokoke"},
+        {"id": "c", "text": "Na bakteriju Escherichia coli"},
+        {"id": "d", "text": "Na mikobakterije"}
+      ],
+      "correct": ["a"],
+      "explanation": "Ljubičasta boja znači gram-pozitivne bakterije, okrugli oblik koke, a nakupine nalik grozdu stafilokoke. Streptokoki tvore lance, E. coli je gram-negativni štapić, a mikobakterije se boje po Ziehl-Neelsenu.",
+      "tags": ["bojenje po Gramu", "stafilokoki"]
+    },
+    {
+      "id": "mb-009",
+      "lesson_id": "uvod-u-mikrobiologiju",
+      "type": "true_false",
+      "difficulty": 2,
+      "text": "Beta-hemoliza na krvnom agaru prozirna je zona oko kolonija koja nastaje razgradnjom eritrocita.",
+      "options": [
+        {"id": "t", "text": "Točno"},
+        {"id": "f", "text": "Netočno"}
+      ],
+      "correct": ["t"],
+      "explanation": "Neke bakterije, poput bakterije Staphylococcus aureus i streptokoka skupine A, stvaraju tvari koje potpuno razgrađuju eritrocite u krvnom agaru, pa oko kolonija nastaje prozirna zona. Taj izgled pomaže u prepoznavanju vrste.",
+      "tags": ["dijagnostika", "uzgoj"]
+    },
+    {
+      "id": "mb-010",
+      "lesson_id": "bakterije",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Kako se nazivaju bakterije okruglog oblika?",
+      "options": [
+        {"id": "a", "text": "Koki"},
+        {"id": "b", "text": "Bacili"},
+        {"id": "c", "text": "Spirohete"},
+        {"id": "d", "text": "Vibrioni"}
+      ],
+      "correct": ["a"],
+      "explanation": "Okrugle bakterije su koki. Bacili su štapićasti, spirohete savitljive zavijene bakterije, a vibrioni zarezasti štapići.",
+      "tags": ["oblici bakterija"]
+    },
+    {
+      "id": "mb-011",
+      "lesson_id": "bakterije",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Koja struktura bakterijske stanice štiti bakteriju od fagocitoze?",
+      "options": [
+        {"id": "a", "text": "Kapsula"},
+        {"id": "b", "text": "Bič (flagela)"},
+        {"id": "c", "text": "Ribosom"},
+        {"id": "d", "text": "Nukleoid"}
+      ],
+      "correct": ["a"],
+      "explanation": "Kapsula je sluzavi omotač koji fagocitima otežava da progutaju bakteriju. Bič služi kretanju, ribosomi sintezi bjelančevina, a nukleoid je područje s kromosomom.",
+      "tags": ["građa bakterija"]
+    },
+    {
+      "id": "mb-012",
+      "lesson_id": "bakterije",
+      "type": "true_false",
+      "difficulty": 1,
+      "text": "Bakterijska stanica ima jezgru obavijenu membranom.",
+      "options": [
+        {"id": "t", "text": "Točno"},
+        {"id": "f", "text": "Netočno"}
+      ],
+      "correct": ["f"],
+      "explanation": "Bakterije su prokarioti: nemaju jezgru ni organele obavijene membranom, a njihov kružni kromosom nalazi se slobodno u citoplazmi, u području koje se naziva nukleoid.",
+      "tags": ["građa bakterija"]
+    },
+    {
+      "id": "mb-013",
+      "lesson_id": "bakterije",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Zašto se kirurški instrumenti moraju sterilizirati, a ne samo dezinficirati?",
+      "options": [
+        {"id": "a", "text": "Dezinfekcija ne uništava pouzdano bakterijske endospore"},
+        {"id": "b", "text": "Dezinficijensi oštećuju čelik instrumenata"},
+        {"id": "c", "text": "Sterilizacija traje kraće od dezinfekcije"},
+        {"id": "d", "text": "Dezinfekcija ne djeluje na gram-negativne bakterije"}
+      ],
+      "correct": ["a"],
+      "explanation": "Endospore klostridija i bacila preživljavaju kuhanje i većinu dezinficijensa. Instrumenti koji ulaze u sterilna tkiva zato se steriliziraju, najčešće vodenom parom pod tlakom u autoklavu, jer tek sterilizacija pouzdano uništava i spore.",
+      "tags": ["spore", "sterilizacija"]
+    },
+    {
+      "id": "mb-014",
+      "lesson_id": "bakterije",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Koja se bakterija najčešće prenosi rukama osoblja i kao soj otporan na meticilin uzrokuje bolničke infekcije?",
+      "options": [
+        {"id": "a", "text": "Staphylococcus aureus"},
+        {"id": "b", "text": "Legionella pneumophila"},
+        {"id": "c", "text": "Mycobacterium tuberculosis"},
+        {"id": "d", "text": "Clostridium tetani"}
+      ],
+      "correct": ["a"],
+      "explanation": "Sojevi bakterije Staphylococcus aureus otporni na meticilin (MRSA) važni su uzročnici bolničkih infekcija i prenose se ponajprije rukama. Legionela se udiše s aerosolom, tuberkuloza se prenosi zrakom, a tetanus onečišćenim ranama.",
+      "tags": ["MRSA", "stafilokoki"]
+    },
+    {
+      "id": "mb-015",
+      "lesson_id": "bakterije",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Koje su tvrdnje o tuberkulozi točne?",
+      "options": [
+        {"id": "a", "text": "Prenosi se zrakom, sitnim kapljicama koje oboljeli izbacuje kašljem"},
+        {"id": "b", "text": "Uzročnik raste sporo, pa nalaz kulture stiže tek nakon nekoliko tjedana"},
+        {"id": "c", "text": "Može zahvatiti kralježnicu"},
+        {"id": "d", "text": "Liječi se jednim antibiotikom tijekom tjedan dana"},
+        {"id": "e", "text": "Uzročnik se dobro prikazuje bojenjem po Gramu"}
+      ],
+      "correct": ["a", "b", "c"],
+      "explanation": "Tuberkuloza se prenosi zrakom, uzročnik raste vrlo sporo, a bolest može zahvatiti i kralježnicu (Pottova bolest). Liječi se kombinacijom više lijekova u pravilu šest mjeseci, a mikobakterije se boje po Ziehl-Neelsenu, ne po Gramu.",
+      "tags": ["tuberkuloza"]
+    },
+    {
+      "id": "mb-016",
+      "lesson_id": "bakterije",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Kako uzročnik tetanusa, Clostridium tetani, najčešće ulazi u organizam?",
+      "options": [
+        {"id": "a", "text": "Sporama kroz ranu onečišćenu zemljom"},
+        {"id": "b", "text": "Kapljicama pri kašljanju"},
+        {"id": "c", "text": "Ubodom komarca"},
+        {"id": "d", "text": "Nedovoljno pečenim mesom"}
+      ],
+      "correct": ["a"],
+      "explanation": "Spore bakterije Clostridium tetani nalaze se u tlu i crijevima životinja i ulaze u tijelo kroz onečišćene rane, osobito duboke. U rani proklijaju, a toksin bakterije uzrokuje grčeve mišića; od tetanusa štiti cijepljenje.",
+      "tags": ["tetanus", "spore"]
+    },
+    {
+      "id": "mb-017",
+      "lesson_id": "bakterije",
+      "type": "true_false",
+      "difficulty": 2,
+      "text": "Antibiotici su djelotvorni u liječenju gripe i prehlade.",
+      "options": [
+        {"id": "t", "text": "Točno"},
+        {"id": "f", "text": "Netočno"}
+      ],
+      "correct": ["f"],
+      "explanation": "Gripu i prehladu uzrokuju virusi, a antibiotici djeluju na strukture bakterija, poput stanične stijenke i bakterijskih ribosoma. Nepotrebna primjena antibiotika kod virusnih infekcija samo ubrzava širenje otpornih bakterija.",
+      "tags": ["antibiotici"]
+    },
+    {
+      "id": "mb-018",
+      "lesson_id": "bakterije",
+      "type": "single",
+      "difficulty": 3,
+      "text": "Nakon kupanja u toploj hidroterapijskoj kupki bolesnik je dobio upalu folikula kože, a iz brisa je izolirana gram-negativna bakterija koja voli vlažnu okolinu i često je višestruko otporna. O kojoj se bakteriji najvjerojatnije radi?",
+      "options": [
+        {"id": "a", "text": "Pseudomonas aeruginosa"},
+        {"id": "b", "text": "Streptococcus pyogenes"},
+        {"id": "c", "text": "Staphylococcus aureus"},
+        {"id": "d", "text": "Clostridium tetani"}
+      ],
+      "correct": ["a"],
+      "explanation": "Pseudomonas aeruginosa je gram-negativni štapić koji živi u vlažnoj okolini, uključujući tople kupke i bazene, uzrokuje folikulitis nakon kupanja i često je višestruko otporan. Streptokoki, stafilokoki i klostridiji su gram-pozitivni.",
+      "tags": ["pseudomonas", "hidroterapija"]
+    },
+    {
+      "id": "mb-019",
+      "lesson_id": "bakterije",
+      "type": "multiple",
+      "difficulty": 3,
+      "text": "Koje mjere usporavaju širenje bakterija otpornih na antibiotike?",
+      "options": [
+        {"id": "a", "text": "Propisivanje antibiotika samo kada je bakterijska infekcija vjerojatna"},
+        {"id": "b", "text": "Higijena ruku između bolesnika"},
+        {"id": "c", "text": "Čišćenje i dezinfekcija opreme nakon svakog bolesnika"},
+        {"id": "d", "text": "Uzimanje antibiotika pri svakoj prehladi"},
+        {"id": "e", "text": "Dijeljenje preostalih antibiotika s drugim osobama"}
+      ],
+      "correct": ["a", "b", "c"],
+      "explanation": "Svaka primjena antibiotika odabire otporne sojeve, pa ih treba propisivati samo kada su potrebni, a higijena ruku i dezinfekcija opreme sprječavaju prijenos otpornih bakterija s bolesnika na bolesnika. Antibiotici kod prehlade i dijeljenje lijekova ubrzavaju širenje otpornosti.",
+      "tags": ["antibiotici", "otpornost"]
+    },
+    {
+      "id": "mb-020",
+      "lesson_id": "virusi-gljive-i-paraziti",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Od čega je građena kapsida virusa?",
+      "options": [
+        {"id": "a", "text": "Od bjelančevina"},
+        {"id": "b", "text": "Od peptidoglikana"},
+        {"id": "c", "text": "Od hitina"},
+        {"id": "d", "text": "Od celuloze"}
+      ],
+      "correct": ["a"],
+      "explanation": "Kapsida je proteinski omotač koji štiti nasljedni materijal virusa. Peptidoglikan gradi stijenku bakterija, hitin stijenku gljiva, a celuloza stijenku biljnih stanica.",
+      "tags": ["virusi", "građa"]
+    },
+    {
+      "id": "mb-021",
+      "lesson_id": "virusi-gljive-i-paraziti",
+      "type": "true_false",
+      "difficulty": 1,
+      "text": "Virusi se mogu umnožavati samo unutar žive stanice.",
+      "options": [
+        {"id": "t", "text": "Točno"},
+        {"id": "f", "text": "Netočno"}
+      ],
+      "correct": ["t"],
+      "explanation": "Virusi nemaju vlastiti metabolizam ni ribosome, pa za umnožavanje koriste sustave stanice domaćina. Zato ih ubrajamo u obligatne unutarstanične parazite.",
+      "tags": ["virusi"]
+    },
+    {
+      "id": "mb-022",
+      "lesson_id": "virusi-gljive-i-paraziti",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Koja gljiva uzrokuje soor, bijele naslage na sluznici usta?",
+      "options": [
+        {"id": "a", "text": "Candida albicans"},
+        {"id": "b", "text": "Aspergillus fumigatus"},
+        {"id": "c", "text": "Dermatofit iz roda Trichophyton"},
+        {"id": "d", "text": "Penicillium notatum"}
+      ],
+      "correct": ["a"],
+      "explanation": "Candida albicans je kvasac iz normalne flore koji pri oslabljenoj otpornosti, šećernoj bolesti ili nakon antibiotske terapije uzrokuje soor. Aspergillus je plijesan koja zahvaća pluća, a dermatofiti kožu, kosu i nokte.",
+      "tags": ["gljive", "kandida"]
+    },
+    {
+      "id": "mb-023",
+      "lesson_id": "virusi-gljive-i-paraziti",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Što je herpes zoster?",
+      "options": [
+        {"id": "a", "text": "Ponovna aktivacija virusa vodenih kozica koji je mirovao u osjetnim ganglijima"},
+        {"id": "b", "text": "Prva infekcija virusom vodenih kozica u djetinjstvu"},
+        {"id": "c", "text": "Gljivična infekcija kože trupa"},
+        {"id": "d", "text": "Bakterijska infekcija živca nakon ozljede"}
+      ],
+      "correct": ["a"],
+      "explanation": "Virus varicella-zoster pri prvoj infekciji uzrokuje vodene kozice i zatim ostaje u osjetnim ganglijima. Kada se kasnije ponovno aktivira, uzrokuje bolan osip u području jednog dermatoma, herpes zoster.",
+      "tags": ["herpes zoster", "virusi"]
+    },
+    {
+      "id": "mb-024",
+      "lesson_id": "virusi-gljive-i-paraziti",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Kojim se putovima prenosi virus hepatitisa B?",
+      "options": [
+        {"id": "a", "text": "Krvlju, na primjer ubodom igle"},
+        {"id": "b", "text": "Spolnim putem"},
+        {"id": "c", "text": "S majke na dijete pri porodu"},
+        {"id": "d", "text": "Rukovanjem"},
+        {"id": "e", "text": "Zajedničkim korištenjem sprava za vježbanje"}
+      ],
+      "correct": ["a", "b", "c"],
+      "explanation": "Virus hepatitisa B prenosi se krvlju, spolnim putem i s majke na dijete pri porodu. Ne prenosi se rukovanjem ni dodirom opreme za vježbanje; zdravstveni radnici štite se oprezom s oštrim predmetima i cijepljenjem.",
+      "tags": ["hepatitis B", "putovi prijenosa"]
+    },
+    {
+      "id": "mb-025",
+      "lesson_id": "virusi-gljive-i-paraziti",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Gdje se najčešće prenose dermatofiti koji uzrokuju gljivične infekcije stopala?",
+      "options": [
+        {"id": "a", "text": "Na vlažnim podovima svlačionica, tuševa i bazena"},
+        {"id": "b", "text": "Ubodom krpelja"},
+        {"id": "c", "text": "Kapljicama pri kašljanju"},
+        {"id": "d", "text": "Nedovoljno pečenim mesom"}
+      ],
+      "correct": ["a"],
+      "explanation": "Dermatofiti se prenose dodirom i preko vlažnih zajedničkih površina, pa se u hidroterapiji nosi obuća za kupanje, stopala se nakon kupanja osuše, a podovi redovito čiste i dezinficiraju.",
+      "tags": ["dermatofiti", "hidroterapija"]
+    },
+    {
+      "id": "mb-026",
+      "lesson_id": "virusi-gljive-i-paraziti",
+      "type": "true_false",
+      "difficulty": 2,
+      "text": "Šuga se najčešće prenosi duljim izravnim dodirom kože.",
+      "options": [
+        {"id": "t", "text": "Točno"},
+        {"id": "f", "text": "Netočno"}
+      ],
+      "correct": ["t"],
+      "explanation": "Grinja Sarcoptes scabiei prelazi s osobe na osobu ponajprije duljim izravnim dodirom kože, a rjeđe posteljinom i odjećom. Zato se šuga lako širi u domovima za starije i drugim ustanovama.",
+      "tags": ["šuga", "paraziti"]
+    },
+    {
+      "id": "mb-027",
+      "lesson_id": "virusi-gljive-i-paraziti",
+      "type": "single",
+      "difficulty": 3,
+      "text": "Bolesnica koja je u djetinjstvu preboljela dječju paralizu nakon četrdeset godina dolazi na fizioterapiju zbog nove slabosti mišića i umora. Što je najvjerojatniji uzrok?",
+      "options": [
+        {"id": "a", "text": "Postpolio sindrom"},
+        {"id": "b", "text": "Nova infekcija poliovirusom"},
+        {"id": "c", "text": "Herpes zoster"},
+        {"id": "d", "text": "Lajmska borelioza"}
+      ],
+      "correct": ["a"],
+      "explanation": "Postpolio sindrom razvija se desetljećima nakon preboljele dječje paralize, a očituje se novom slabošću mišića i umorom; nije nova infekcija. Herpes zoster uzrokuje bolan osip u dermatomu, a lajmska borelioza prenosi se krpeljima.",
+      "tags": ["poliomijelitis", "postpolio sindrom"]
+    },
+    {
+      "id": "mb-028",
+      "lesson_id": "virusi-gljive-i-paraziti",
+      "type": "single",
+      "difficulty": 3,
+      "text": "Zašto su virusi bez ovojnice, poput norovirusa, otporniji na alkoholne dezinficijense od virusa s ovojnicom?",
+      "options": [
+        {"id": "a", "text": "Nemaju lipidnu ovojnicu koju alkohol otapa"},
+        {"id": "b", "text": "Imaju staničnu stijenku od peptidoglikana"},
+        {"id": "c", "text": "Stvaraju endospore"},
+        {"id": "d", "text": "Umnožavaju se izvan stanica"}
+      ],
+      "correct": ["a"],
+      "explanation": "Alkohol i deterdženti razaraju lipidnu ovojnicu virusa, bez koje virus s ovojnicom više ne može ući u stanicu. Virusi bez ovojnice imaju samo proteinsku kapsidu i otporniji su, pa se kod norovirusa ruke peru vodom i sapunom.",
+      "tags": ["virusi", "dezinfekcija"]
+    },
+    {
+      "id": "mb-029",
+      "lesson_id": "virusi-gljive-i-paraziti",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Koje uzročnike prenose krpelji?",
+      "options": [
+        {"id": "a", "text": "Borrelia burgdorferi, uzročnik lajmske borelioze"},
+        {"id": "b", "text": "Virus krpeljnog meningoencefalitisa"},
+        {"id": "c", "text": "Virus hepatitisa C"},
+        {"id": "d", "text": "Candida albicans"},
+        {"id": "e", "text": "Toxoplasma gondii"}
+      ],
+      "correct": ["a", "b"],
+      "explanation": "Krpelj Ixodes ricinus prenosi bakteriju Borrelia burgdorferi i virus krpeljnog meningoencefalitisa. Hepatitis C prenosi se krvlju, kandida je dio normalne flore, a toksoplazma se prenosi mačjim izmetom i nedovoljno pečenim mesom.",
+      "tags": ["krpelji", "prijenosnici"]
+    },
+    {
+      "id": "mb-030",
+      "lesson_id": "sprjecavanje-infekcija",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Koja je najvažnija pojedinačna mjera sprječavanja infekcija povezanih sa zdravstvenom skrbi?",
+      "options": [
+        {"id": "a", "text": "Higijena ruku"},
+        {"id": "b", "text": "Nošenje maske tijekom cijelog radnog dana"},
+        {"id": "c", "text": "Svakodnevno uzimanje vitamina"},
+        {"id": "d", "text": "Provjetravanje prostorije"}
+      ],
+      "correct": ["a"],
+      "explanation": "Većina uzročnika prenosi se kontaktom, ponajprije rukama osoblja, pa je higijena ruku najvažnija pojedinačna mjera. Ostale mjere imaju svoju ulogu, ali je ne mogu zamijeniti.",
+      "tags": ["higijena ruku"]
+    },
+    {
+      "id": "mb-031",
+      "lesson_id": "sprjecavanje-infekcija",
+      "type": "single",
+      "difficulty": 1,
+      "text": "Koliko dugo traje utrljavanje alkoholnog pripravka za ruke?",
+      "options": [
+        {"id": "a", "text": "20 do 30 sekundi"},
+        {"id": "b", "text": "3 do 5 sekundi"},
+        {"id": "c", "text": "2 do 3 minute"},
+        {"id": "d", "text": "10 minuta"}
+      ],
+      "correct": ["a"],
+      "explanation": "Prema preporuci Svjetske zdravstvene organizacije alkoholni se pripravak utrljava 20 do 30 sekundi, dok ruke ne budu suhe, a pranje vodom i sapunom traje 40 do 60 sekundi.",
+      "tags": ["higijena ruku"]
+    },
+    {
+      "id": "mb-032",
+      "lesson_id": "sprjecavanje-infekcija",
+      "type": "true_false",
+      "difficulty": 1,
+      "text": "Rukavice potpuno zamjenjuju higijenu ruku, pa nakon njihova skidanja ruke nije potrebno očistiti.",
+      "options": [
+        {"id": "t", "text": "Točno"},
+        {"id": "f", "text": "Netočno"}
+      ],
+      "correct": ["f"],
+      "explanation": "Rukavice ne štite potpuno: mogu imati sitna oštećenja, a ruke se onečiste i pri skidanju. Nakon skidanja rukavica zato se uvijek provodi higijena ruku.",
+      "tags": ["rukavice", "higijena ruku"]
+    },
+    {
+      "id": "mb-033",
+      "lesson_id": "sprjecavanje-infekcija",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Kada treba oprati ruke vodom i sapunom umjesto utrljavanja alkoholnog pripravka?",
+      "options": [
+        {"id": "a", "text": "Pri skrbi za bolesnika s proljevom koji uzrokuje Clostridioides difficile"},
+        {"id": "b", "text": "Prije svakog dodira s bolesnikom"},
+        {"id": "c", "text": "Nakon dodira s terapijskim ležajem"},
+        {"id": "d", "text": "Prije uključivanja aparata za elektroterapiju"}
+      ],
+      "correct": ["a"],
+      "explanation": "Alkohol ne uništava spore bakterije Clostridioides difficile, pa ih treba mehanički isprati vodom i sapunom. Ruke se peru i kada su vidljivo prljave, a u ostalim je trenucima alkoholni pripravak djelotvorniji i brži.",
+      "tags": ["higijena ruku", "spore"]
+    },
+    {
+      "id": "mb-034",
+      "lesson_id": "sprjecavanje-infekcija",
+      "type": "multiple",
+      "difficulty": 2,
+      "text": "Koji su od navedenih trenutaka dio pet trenutaka za higijenu ruku Svjetske zdravstvene organizacije?",
+      "options": [
+        {"id": "a", "text": "Prije dodira s bolesnikom"},
+        {"id": "b", "text": "Nakon dodira s bolesnikovom okolinom"},
+        {"id": "c", "text": "Nakon izlaganja tjelesnim tekućinama"},
+        {"id": "d", "text": "Samo na kraju radnog dana"},
+        {"id": "e", "text": "Samo kada su ruke vidljivo prljave"}
+      ],
+      "correct": ["a", "b", "c"],
+      "explanation": "Pet trenutaka su: prije dodira s bolesnikom, prije čistog ili aseptičnog postupka, nakon izlaganja tjelesnim tekućinama, nakon dodira s bolesnikom i nakon dodira s njegovom okolinom. Higijena ruku samo na kraju dana ili samo kod vidljive prljavštine ne sprječava prijenos.",
+      "tags": ["higijena ruku"]
+    },
+    {
+      "id": "mb-035",
+      "lesson_id": "sprjecavanje-infekcija",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Koja je tvrdnja o dezinfekciji i sterilizaciji točna?",
+      "options": [
+        {"id": "a", "text": "Sterilizacija uništava sve mikroorganizme, uključujući spore, a dezinfekcija ne nužno"},
+        {"id": "b", "text": "Dezinfekcija uništava spore, a sterilizacija ne"},
+        {"id": "c", "text": "Sterilizacija se provodi na koži bolesnika"},
+        {"id": "d", "text": "Dezinfekcija i sterilizacija istoznačni su pojmovi"}
+      ],
+      "correct": ["a"],
+      "explanation": "Dezinfekcija uništava većinu mikroorganizama na predmetima i površinama, ali ne nužno spore, dok sterilizacija uništava sve oblike, uključujući spore. Uništavanje mikroorganizama na koži i sluznicama naziva se antisepsa.",
+      "tags": ["dezinfekcija", "sterilizacija"]
+    },
+    {
+      "id": "mb-036",
+      "lesson_id": "sprjecavanje-infekcija",
+      "type": "single",
+      "difficulty": 2,
+      "text": "Kojim se putem prijenosa šire tuberkuloza, ospice i vodene kozice?",
+      "options": [
+        {"id": "a", "text": "Zračnim putem, sitnim česticama koje dugo lebde u zraku"},
+        {"id": "b", "text": "Fekalno-oralnim putem"},
+        {"id": "c", "text": "Krvlju"},
+        {"id": "d", "text": "Ubodom krpelja"}
+      ],
+      "correct": ["a"],
+      "explanation": "Uzročnici tuberkuloze, ospica i vodenih kozica šire se sitnim česticama koje dugo lebde u zraku i mogu se raširiti po prostoriji, za razliku od većih kapljica koje padnu unutar jednog do dva metra.",
+      "tags": ["putovi prijenosa"]
+    },
+    {
+      "id": "mb-037",
+      "lesson_id": "sprjecavanje-infekcija",
+      "type": "true_false",
+      "difficulty": 2,
+      "text": "Čišćenje mora prethoditi dezinfekciji, jer nečistoća i organska tvar štite mikroorganizme.",
+      "options": [
+        {"id": "t", "text": "Točno"},
+        {"id": "f", "text": "Netočno"}
+      ],
+      "correct": ["t"],
+      "explanation": "Krv, izlučevine i prljavština štite mikroorganizme i smanjuju djelovanje dezinficijensa, pa se površina najprije mehanički očisti vodom i deterdžentom, a tek zatim dezinficira.",
+      "tags": ["čišćenje", "dezinfekcija"]
+    },
+    {
+      "id": "mb-038",
+      "lesson_id": "sprjecavanje-infekcija",
+      "type": "single",
+      "difficulty": 3,
+      "text": "Fizioterapeut nakon vježbi s bolesnikom u kontaktnoj izolaciji zbog MRSA-e skida rukavice i zaštitni ogrtač. Što treba učiniti odmah zatim?",
+      "options": [
+        {"id": "a", "text": "Provesti higijenu ruku"},
+        {"id": "b", "text": "Obući nove rukavice i bez higijene ruku prijeći sljedećem bolesniku"},
+        {"id": "c", "text": "Oprati rukavice i ponovno ih upotrijebiti"},
+        {"id": "d", "text": "Ništa, jer su rukavice zaštitile ruke"}
+      ],
+      "correct": ["a"],
+      "explanation": "Pri skidanju rukavica i ogrtača ruke se lako onečiste, a rukavice ne štite potpuno. Odmah nakon skidanja zaštitne opreme zato slijedi higijena ruku, jer se MRSA najčešće prenosi upravo rukama osoblja.",
+      "tags": ["MRSA", "rukavice", "higijena ruku"]
+    },
+    {
+      "id": "mb-039",
+      "lesson_id": "sprjecavanje-infekcija",
+      "type": "multiple",
+      "difficulty": 3,
+      "text": "Koje mjere smanjuju opasnost od infekcija u hidroterapiji?",
+      "options": [
+        {"id": "a", "text": "Tuširanje bolesnika prije ulaska u bazen"},
+        {"id": "b", "text": "Redovito nadziranje kakvoće vode i razine dezinficijensa"},
+        {"id": "c", "text": "Isključenje bolesnika s otvorenim ranama ili proljevom"},
+        {"id": "d", "text": "Ponovna upotreba kade za kupke bez čišćenja"},
+        {"id": "e", "text": "Hodanje bosih nogu po podovima svlačionica"}
+      ],
+      "correct": ["a", "b", "c"],
+      "explanation": "Tuširanje, nadzor kakvoće vode i razine dezinficijensa te isključenje bolesnika s otvorenim ranama ili proljevom smanjuju opasnost od pseudomonasa, legionele i drugih uzročnika. Nečišćene kade i hodanje bosih nogu po vlažnim podovima šire infekcije, uključujući gljivice stopala.",
+      "tags": ["hidroterapija"]
+    }
+  ]
+}
