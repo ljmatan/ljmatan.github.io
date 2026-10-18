@@ -6,11 +6,12 @@
 //
 // The shell, the content and the fonts are kept when the worker installs; CanvasKit and
 // anything else the first visit loaded is kept once the page reports it (see index.html);
-// a lesson picture is kept the first time it is shown. Everything is read from the network
-// first while online, so a deploy shows at once; the copy answers when the network does not.
-// The CMS (admin/) is never kept: it needs the network anyway.
+// then, one by one in the background, every lesson picture — unless the browser asks to save
+// data, in which case a picture is kept the first time it is shown. Everything is read from
+// the network first while online, so a deploy shows at once; the copy answers when the
+// network does not. The CMS (admin/) is never kept: it needs the network anyway.
 
-const VERSION = 'a50f309f';
+const VERSION = '5cce2e0a';
 const CACHE = 'skripta-' + VERSION;
 const PRECACHE = [
   "./",
@@ -26,16 +27,16 @@ const PRECACHE = [
   "assets/packages/generic_shop_app_content/assets/fonts/Quicksand-SemiBold.ttf",
   "assets/packages/generic_shop_app_edu/assets/edu/brand/dominus-logo.png",
   "assets/packages/generic_shop_app_edu/assets/edu/data/catalog.json",
-  "assets/packages/generic_shop_app_edu/assets/edu/data/programs/fizioterapeut/subjects/anatomija-i-fiziologija.json",
-  "assets/packages/generic_shop_app_edu/assets/edu/data/programs/fizioterapeut/subjects/fizikalna-terapija.json",
-  "assets/packages/generic_shop_app_edu/assets/edu/data/programs/fizioterapeut/subjects/kineziterapija.json",
-  "assets/packages/generic_shop_app_edu/assets/edu/data/programs/fizioterapeut/subjects/klinicka-medicina.json",
-  "assets/packages/generic_shop_app_edu/assets/edu/data/programs/fizioterapeut/subjects/masaza.json",
-  "assets/packages/generic_shop_app_edu/assets/edu/data/programs/fizioterapeut/subjects/mikrobiologija.json",
-  "assets/packages/generic_shop_app_edu/assets/edu/data/programs/fizioterapeut/subjects/osnove-kineziologije.json",
-  "assets/packages/generic_shop_app_edu/assets/edu/data/programs/fizioterapeut/subjects/patofiziologija.json",
-  "assets/packages/generic_shop_app_edu/assets/edu/data/programs/fizioterapeut/subjects/prva-pomoc.json",
-  "assets/packages/generic_shop_app_edu/assets/edu/data/programs/fizioterapeut/tests.json",
+  "assets/packages/generic_shop_app_edu/assets/edu/data/subjects/anatomija-i-fiziologija.json",
+  "assets/packages/generic_shop_app_edu/assets/edu/data/subjects/fizikalna-terapija.json",
+  "assets/packages/generic_shop_app_edu/assets/edu/data/subjects/kineziterapija.json",
+  "assets/packages/generic_shop_app_edu/assets/edu/data/subjects/klinicka-medicina.json",
+  "assets/packages/generic_shop_app_edu/assets/edu/data/subjects/masaza.json",
+  "assets/packages/generic_shop_app_edu/assets/edu/data/subjects/mikrobiologija.json",
+  "assets/packages/generic_shop_app_edu/assets/edu/data/subjects/osnove-kineziologije.json",
+  "assets/packages/generic_shop_app_edu/assets/edu/data/subjects/patofiziologija.json",
+  "assets/packages/generic_shop_app_edu/assets/edu/data/subjects/prva-pomoc.json",
+  "assets/packages/generic_shop_app_edu/assets/edu/data/tests.json",
   "assets/packages/generic_shop_app_edu/fonts/Rubik.ttf",
   "assets/packages/generic_shop_app_edu/fonts/literata/Literata-Italic.ttf",
   "assets/packages/generic_shop_app_edu/fonts/literata/Literata-Regular.ttf",
@@ -56,6 +57,61 @@ const PRECACHE = [
   "main.dart.js",
   "manifest.json",
   "version.json"
+];
+const IMAGES = [
+  "assets/packages/generic_shop_app_edu/assets/edu/images/anatomija-i-fiziologija/kostur.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/anatomija-i-fiziologija/neuron.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/anatomija-i-fiziologija/pluca-model.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/anatomija-i-fiziologija/skeletno-misicno-tkivo.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/anatomija-i-fiziologija/srce.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/fizikalna-terapija/ems-uredaj.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/fizikalna-terapija/hladni-oblog.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/fizikalna-terapija/termalni-bazen.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/fizikalna-terapija/termofor.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/fizikalna-terapija/uv-lampa.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/kineziterapija/bucice.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/kineziterapija/dinamometar.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/kineziterapija/hodalica.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/kineziterapija/istezanje.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/kineziterapija/spirometar.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/kineziterapija/stake.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/klinicka-medicina/endoproteza-kuka-rtg.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/klinicka-medicina/kraljeznicna-mozdina.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/klinicka-medicina/mozdani-udar-presjek.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/klinicka-medicina/prijelom-kuka-rtg.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/klinicka-medicina/reumatoidni-artritis-sake.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/masaza/kompresivni-zavoj.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/masaza/masaza-nakon-utrke.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/masaza/masaza-potkoljenice.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/masaza/natpis-masaza.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/masaza/sportska-masaza.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/mikrobiologija/antibiogram.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/mikrobiologija/aspergillus-kultura.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/mikrobiologija/autoklav.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/mikrobiologija/endospore-bacillus.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/mikrobiologija/gram-bojenje.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/mikrobiologija/gram-pozitivni-koki.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/mikrobiologija/krpelj-ixodes.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/mikrobiologija/mikroskop.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/mikrobiologija/mycobacterium-ziehl-neelsen.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/mikrobiologija/pranje-ruku.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/mikrobiologija/rukavica.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/mikrobiologija/staphylococcus-krvni-agar.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/osnove-kineziologije/hod.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/osnove-kineziologije/kifoticno-drzanje.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/osnove-kineziologije/klackalica.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/osnove-kineziologije/koljeno-rtg.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/osnove-kineziologije/pregib-lakta.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/osnove-kineziologije/ravnine-tijela.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/patofiziologija/erizipel.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/patofiziologija/osteoartritis-saka-rtg.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/patofiziologija/sivana-rana.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/patofiziologija/varikozne-vene.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/prva-pomoc/aed-novigrad.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/prva-pomoc/bocni-polozaj.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/prva-pomoc/lancetar-glukometar.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/prva-pomoc/tecaj-ozivljavanja.jpg",
+  "assets/packages/generic_shop_app_edu/assets/edu/images/prva-pomoc/zavoj-palca.jpg"
 ];
 const NETWORK_TIMEOUT_MS = 6000;
 
@@ -100,6 +156,10 @@ self.addEventListener('activate', (event) => {
 
 self.addEventListener('message', (event) => {
   const data = event.data || {};
+  if (data.type === 'cache-images') {
+    event.waitUntil(keepImages());
+    return;
+  }
   if (data.type !== 'cache-urls' || !Array.isArray(data.urls)) return;
   event.waitUntil((async () => {
     const cache = await caches.open(CACHE);
@@ -119,6 +179,26 @@ self.addEventListener('message', (event) => {
     }
   })());
 });
+
+// Every lesson picture, one at a time so the app's own requests keep the bandwidth; a picture
+// already kept is skipped, so a later visit only finishes what an earlier one began.
+let keepingImages = null;
+function keepImages() {
+  keepingImages = keepingImages || (async () => {
+    const cache = await caches.open(CACHE);
+    for (const path of IMAGES) {
+      if (await cache.match(path)) continue;
+      try {
+        await cache.add(path);
+      } catch (e) {
+        console.warn('sw: could not keep', path, e);
+      }
+    }
+  })().finally(() => {
+    keepingImages = null;
+  });
+  return keepingImages;
+}
 
 self.addEventListener('fetch', (event) => {
   const request = event.request;

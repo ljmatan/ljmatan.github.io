@@ -174,7 +174,8 @@
     // Offline use: sw.js (generated after the build by plugins/edu/tool/web_offline.dart) keeps
     // a copy of the app. Once the app has painted, it is told every file this visit loaded —
     // the CanvasKit build this browser picked, the fonts — since the first visit's requests
-    // happen before the worker controls the page.
+    // happen before the worker controls the page; then it fetches every lesson picture in the
+    // background, unless the browser asks to save data.
     (function () {
       if (!('serviceWorker' in navigator)) return;
       navigator.serviceWorker.register('sw.js').catch(function (e) {
@@ -183,7 +184,10 @@
       window.addEventListener('flutter-first-frame', function () {
         navigator.serviceWorker.ready.then(function (registration) {
           var urls = performance.getEntriesByType('resource').map(function (entry) { return entry.name; });
-          if (registration.active) registration.active.postMessage({ type: 'cache-urls', urls: urls });
+          if (!registration.active) return;
+          registration.active.postMessage({ type: 'cache-urls', urls: urls });
+          var saveData = navigator.connection && navigator.connection.saveData;
+          if (!saveData) registration.active.postMessage({ type: 'cache-images' });
         });
       });
     })();
