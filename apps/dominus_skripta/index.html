@@ -31,6 +31,7 @@
       --ink: #1E1A1D;
       --primary: #4D2447;
       --track: #F1E3EE;
+      --muted: #6B5F68;
     }
     @media (prefers-color-scheme: dark) {
       :root {
@@ -38,6 +39,7 @@
         --ink: #F2EAEF;
         --primary: #E3B4D6;
         --track: #5A2A52;
+        --muted: #B9ABB5;
       }
     }
 
@@ -133,6 +135,15 @@
       to   { transform: translateX(250%); }
     }
 
+    #splash .slow {
+      max-width: 280px;
+      margin: 0;
+      font: 400 14px/20px "Rubik", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      color: var(--muted);
+      text-align: center;
+      visibility: hidden;
+    }
+    #splash.splash--slow .slow { visibility: visible; }
     @media (prefers-reduced-motion: reduce) {
       #splash .brand, #splash .bar { animation: none; opacity: 1; }
       #splash .bar::after { animation: none; width: 100%; opacity: 0.5; }
@@ -150,12 +161,14 @@
       </div>
     </div>
     <div class="bar"></div>
+    <p class="slow">Učitavanje traje dulje nego inače — aplikacija se preuzima prvi put. Nakon toga radi i bez interneta.</p>
   </div>
 
   <script>
     // Remove the splash the moment Flutter paints its first frame, fading it out over the
-    // in-app splash (same page colour) for a smooth hand-off. The timeout is a safety net so the
-    // splash is never left stuck if the event is somehow missed.
+    // in-app splash (same page colour) for a smooth hand-off. It is never removed before that —
+    // a blank page on a slow first download reads as a broken site — but after 8 s it says why
+    // the wait is long.
     (function () {
       var splash = document.getElementById('splash');
       var removed = false;
@@ -168,7 +181,9 @@
         });
       }
       window.addEventListener('flutter-first-frame', hideSplash);
-      window.setTimeout(hideSplash, 12000);
+      window.setTimeout(function () {
+        if (!removed && splash) splash.classList.add('splash--slow');
+      }, 8000);
     })();
 
     // Offline use: sw.js (generated after the build by plugins/edu/tool/web_offline.dart) keeps

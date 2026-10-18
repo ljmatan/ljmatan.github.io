@@ -11,7 +11,7 @@
 // the network first while online, so a deploy shows at once; the copy answers when the
 // network does not. The CMS (admin/) is never kept: it needs the network anyway.
 
-const VERSION = '5cce2e0a';
+const VERSION = 'a1f1721c';
 const CACHE = 'skripta-' + VERSION;
 const PRECACHE = [
   "./",
@@ -117,7 +117,13 @@ const NETWORK_TIMEOUT_MS = 6000;
 
 const scopePath = new URL(self.registration.scope).pathname;
 
+// CanvasKit comes from Google's CDN, under a path named by the engine build.
+function canvasKit(url) {
+  return url.origin === 'https://www.gstatic.com' && url.pathname.startsWith('/flutter-canvaskit/');
+}
+
 function handled(url) {
+  if (canvasKit(url)) return true;
   if (url.origin !== self.location.origin) return false;
   if (!url.pathname.startsWith(scopePath)) return false;
   const path = url.pathname.slice(scopePath.length);
@@ -126,6 +132,7 @@ function handled(url) {
 
 // Files whose name never changes within a build and that are large: from the copy first.
 function immutable(url) {
+  if (canvasKit(url)) return true;
   const path = url.pathname.slice(scopePath.length);
   return path.startsWith('canvaskit/') || path.startsWith('assets/packages/generic_shop_app_edu/assets/edu/images/');
 }
@@ -213,7 +220,8 @@ async function fromCopyFirst(request) {
   const hit = await cache.match(request, { ignoreSearch: true });
   if (hit) return hit;
   const response = await fetch(request);
-  if (response.ok) await cache.put(request, response.clone());
+  // A script tag fetches a cross-origin file without CORS: its response is opaque, yet usable.
+  if (response.ok || response.type === 'opaque') await cache.put(request, response.clone());
   return response;
 }
 
