@@ -13,10 +13,12 @@ backend:
   # The repository Pages CMS (.pages.yml at its root) edits too, so both editors change the same files.
   repo: ljmatan/dominus-skripta-delivery
   branch: main
-  # Editors sign in with a GitHub account that can write to the repository: either with a
-  # personal access token (Sveltia's „Sign in with token“), or through an OAuth worker —
-  # https://github.com/sveltia/sveltia-cms-auth — whose URL goes here:
+  # Editors sign in with a GitHub token that can write to the repository („Sign In Using Access
+  # Token“). „Sign In with GitHub“ needs an OAuth worker (https://github.com/sveltia/sveltia-cms-auth);
+  # without one it opens Netlify's, which answers "Not Found", so it is hidden. With a worker,
+  # add `oauth` to auth_methods and set its URL:
   # base_url: https://sveltia-cms-auth.<account>.workers.dev
+  auth_methods: [token]
   commit_messages:
     create: 'edu: dodaj {{collection}} „{{slug}}“'
     update: 'edu: uredi {{collection}} „{{slug}}“'
