@@ -11,7 +11,7 @@
 // the network first while online, so a deploy shows at once; the copy answers when the
 // network does not. The CMS (admin/) is never kept: it needs the network anyway.
 
-const VERSION = '8088bb1a';
+const VERSION = '543c1d4d';
 const CACHE = 'skripta-' + VERSION;
 const PRECACHE = [
   "./",
