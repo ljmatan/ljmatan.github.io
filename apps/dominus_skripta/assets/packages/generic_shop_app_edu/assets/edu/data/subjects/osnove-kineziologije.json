@@ -34,7 +34,7 @@
             "Medijana ravnina: sagitalna ravnina kroz sredinu tijela, dijeli ga na dvije jednake polovice"
           ],
           "image": {
-            "file": "osnove-kineziologije/ravnine-tijela.jpg",
+            "file": "/osnove-kineziologije/ravnine-tijela.jpg",
             "caption": "Tri glavne ravnine tijela prikazane na glavi: sagitalna (Sagittal), frontalna ili koronalna (Coronal) te transverzalna ili horizontalna (Horizontal).",
             "credits": [
               {
@@ -85,7 +85,7 @@
           "heading": "Spojevi kostiju i građa zgloba",
           "body": "Kosti su međusobno povezane spojevima koji se prema građi i pokretljivosti dijele u dvije velike skupine. Neprekinuti spojevi (sinartroze) nemaju zglobne šupljine: kosti su povezane vezivnim tkivom (sindezmoza, na primjer šavovi lubanje i spoj između kostiju potkoljenice), hrskavicom (sinhondroza, spoj hijalinom hrskavicom, na primjer hrskavica rasta u djece; simfiza, spoj vezivnom hrskavicom, na primjer preponska simfiza) ili su koštano srasle (sinostoza, na primjer srasli kralješci križne kosti). Takvi su spojevi nepokretni ili slabo pokretni. Prekinuti spojevi ili pravi zglobovi (dijartroze) imaju zglobnu šupljinu i omogućuju slobodan pokret.\n\nSvaki pravi zglob ima stalne dijelove: zglobna tijela, obično glavu i čašicu, prekrivena glatkom hijalinom zglobnom hrskavicom, zglobnu čahuru koja zatvara zglob i zglobnu šupljinu ispunjenu sinovijalnom tekućinom. Vanjski sloj čahure čvrsti je vezivni sloj, a unutarnji je sinovijalna membrana koja luči sinovijalnu tekućinu; ona podmazuje zglob, smanjuje trenje i hrani hrskavicu, koja nema vlastitih krvnih žila. Zglob učvršćuju sveze (ligamenti), a u pokretu ga stabiliziraju mišići koji ga okružuju.\n\nNeki zglobovi imaju i pomoćne dijelove: zglobne usne (labrum) koje produbljuju plitku čašicu ramena i kuka, zglobne kolutove (meniskuse) i pločice (diskuse) od vezivne hrskavice koje izjednačavaju nepodudarne zglobne plohe, na primjer u koljenu, te sluzne vreće (burze) koje smanjuju trenje između tetiva i kosti. Prema broju kostiju koje se u njemu spajaju zglob je jednostavan, ako se spajaju dvije kosti, poput kuka, ili složen, ako se spajaju tri ili više kostiju, poput lakta.",
           "image": {
-            "file": "osnove-kineziologije/koljeno-rtg.jpg",
+            "file": "/osnove-kineziologije/koljeno-rtg.jpg",
             "caption": "Rendgenska snimka zdravog koljena sa strane: bedrena kost, goljenična kost i iver, a između zglobnih tijela zglobni prostor u kojem je hrskavica, nevidljiva na snimci.",
             "credits": [
               {
@@ -163,7 +163,7 @@
             "U ljudskom tijelu prevladavaju poluge trećeg reda"
           ],
           "image": {
-            "file": "osnove-kineziologije/klackalica.jpg",
+            "file": "/osnove-kineziologije/klackalica.jpg",
             "caption": "Klackalica na dječjem igralištu je poluga prvog reda: oslonac je u sredini, između sile i tereta.",
             "credits": [
               {
@@ -185,7 +185,7 @@
             "Izokinetička: stalna brzina pokreta uz prilagodljiv otpor – samo na posebnim uređajima"
           ],
           "image": {
-            "file": "osnove-kineziologije/pregib-lakta.jpg",
+            "file": "/osnove-kineziologije/pregib-lakta.jpg",
             "caption": "Pregib lakta s bučicom: pri podizanju dvoglavi mišić nadlaktice radi koncentrično, a pri polaganom spuštanju ekscentrično. Lakat je pritom poluga trećeg reda.",
             "credits": [
               {
@@ -233,7 +233,7 @@
             "Dvostruki oslonac: dvaput u ciklusu, ukupno oko 20 %; u trčanju ga nema"
           ],
           "image": {
-            "file": "osnove-kineziologije/hod.jpg",
+            "file": "/osnove-kineziologije/hod.jpg",
             "caption": "Hod bos po šumskoj stazi. Svaki korak izmjenjuje fazu oslonca, dok stopalo nosi težinu tijela, i fazu zamaha, dok se noga prenosi naprijed.",
             "credits": [
               {
@@ -270,7 +270,7 @@
             "Genu varum – O-noge; genu valgum – X-noge; pes planus – spušteni svod stopala"
           ],
           "image": {
-            "file": "osnove-kineziologije/kifoticno-drzanje.jpg",
+            "file": "/osnove-kineziologije/kifoticno-drzanje.jpg",
             "caption": "Pognuto držanje: pojačana prsna kifoza (hiperkifoza, okrugla leđa), označena strelicom.",
             "credits": [
               {

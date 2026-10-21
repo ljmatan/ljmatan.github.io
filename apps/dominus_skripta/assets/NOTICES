@@ -7497,15 +7497,6 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
-generic_shop_app_architecture
-generic_shop_app_content
-generic_shop_app_data
-generic_shop_app_plugin
-generic_shop_app_services
-
-TODO: Add your license here.
-
---------------------------------------------------------------------------------
 glfw
 
 

@@ -38,7 +38,7 @@
             "Sezamske kosti: uložene u tetive; najveći je iver (patella)"
           ],
           "image": {
-            "file": "anatomija-i-fiziologija/kostur.jpg",
+            "file": "/anatomija-i-fiziologija/kostur.jpg",
             "caption": "Ljudski kostur u Muzeju osteologije u Oklahoma Cityju. Vide se duge kosti udova, plosnate kosti lubanje, prsne kosti i zdjelice te kralježnica složena od kralježaka.",
             "credits": [
               {
@@ -91,7 +91,7 @@
           "heading": "Građa skeletnog mišića",
           "body": "Skeletni mišić građen je od mišićnih vlakana, dugačkih višejezgrenih stanica koje su snopovima (fascikulima) udružene u cijeli mišić. Svako vlakno obavija tanka vezivna ovojnica endomizij, snop vlakana perimizij, a cijeli mišić epimizij; te se ovojnice na krajevima mišića nastavljaju u tetivu (tendo), čvrstu vezivnu vrpcu kojom se mišić pripaja na kost. Plosnata, široka tetiva naziva se aponeuroza. Mjesto na kojem mišić polazi, obično na manje pokretnoj kosti bliže trupu, naziva se polazište (origo), a mjesto pripoja na pokretnijoj kosti hvatište (insertio).\n\nUnutar mišićnog vlakna nalaze se miofibrile, a u njima se pravilno izmjenjuju tanke niti bjelančevine aktina i debele niti bjelančevine miozina. Odsječak miofibrile između dviju Z-linija zove se sarkomera i najmanja je kontraktilna jedinica mišića; pravilan raspored sarkomera daje skeletnom i srčanom mišiću poprečnu prugavost. Mišićno vlakno ima mnogo mitohondrija i razgranatu sarkoplazmatsku mrežicu, spremište kalcijevih iona nužnih za kontrakciju.\n\nMišići rijetko rade sami. Mišić koji izvodi željeni pokret naziva se agonist (pokretač), mišić koji izvodi suprotan pokret antagonist, a mišići koji pomažu agonistu ili učvršćuju susjedne zglobove sinergisti. Pri pregibanju lakta dvoglavi mišić nadlaktice je agonist, a troglavi antagonist; da bi pokret bio skladan, antagonist se istodobno opušta (recipročna inhibicija). Mišići koji prelaze preko jednog zgloba jednozglobni su, a oni koji prelaze preko dvaju zglobova, poput ravnog bedrenog mišića, dvozglobni.",
           "image": {
-            "file": "anatomija-i-fiziologija/skeletno-misicno-tkivo.jpg",
+            "file": "/anatomija-i-fiziologija/skeletno-misicno-tkivo.jpg",
             "caption": "Skeletno mišićno tkivo pod mikroskopom (povećanje 200×): dugačka mišićna vlakna s poprečnom ispruganošću i jezgrama smještenima uz rub vlakna.",
             "credits": [
               {
@@ -158,7 +158,7 @@
           "heading": "Neuron i živčano tkivo",
           "body": "Živčani sustav (systema nervosum) prima podražaje iz okoline i iz tijela, obrađuje ih i upravlja radom mišića, žlijezda i organa. Osnovna je građevna i funkcionalna jedinica živčanog tkiva živčana stanica, neuron. Neuron se sastoji od tijela stanice s jezgrom, kratkih razgranatih izdanaka, dendrita, koji primaju podražaje i vode ih prema tijelu stanice, i jednog dugog izdanka, aksona (neurita), koji vodi impuls od tijela stanice prema drugom neuronu, mišiću ili žlijezdi. Osim neurona, živčano tkivo sadrži potporne stanice (neuroglija), koje neurone hrane, štite i izoliraju.\n\nMnogi su aksoni obavijeni mijelinskom ovojnicom, masnom izolacijom koju u perifernom živčanom sustavu stvaraju Schwannove stanice. Ovojnica je prekinuta Ranvierovim suženjima, pa impuls skače od suženja do suženja, zbog čega mijelinizirana vlakna provode podražaj znatno brže od nemijeliniziranih. Mjesto na kojem se podražaj prenosi s jednog neurona na drugi neuron ili na efektor zove se sinapsa; prijenos se u pravilu odvija kemijski, oslobađanjem neurotransmitera (acetilkolin, noradrenalin, dopamin, serotonin i drugi) u sinaptičku pukotinu, i to samo u jednom smjeru.\n\nPrema smjeru provođenja razlikujemo osjetne (senzorne, aferentne) neurone, koji vode podražaje iz receptora prema središnjem živčanom sustavu, motoričke (eferentne) neurone, koji vode naredbe iz središnjeg živčanog sustava prema mišićima i žlijezdama, te interneurone (umetnute neurone), koji ih povezuju unutar središnjeg živčanog sustava. Zreli neuroni u pravilu se ne dijele, pa se oštećenje tijela živčane stanice ne obnavlja; oštećeni periferni akson, međutim, može polako urastati uz očuvanu ovojnicu, što je temelj oporavka nakon ozljede perifernog živca.",
           "image": {
-            "file": "anatomija-i-fiziologija/neuron.jpg",
+            "file": "/anatomija-i-fiziologija/neuron.jpg",
             "caption": "Shematski prikaz neurona: razgranati dendriti primaju signale, tijelo stanice s jezgrom ih obrađuje, a dugi akson prenosi impuls do završnih ogranaka.",
             "credits": [
               {
@@ -230,7 +230,7 @@
             "Frekvencija u mirovanju 60–100 otkucaja u minuti; minutni volumen = udarni volumen × frekvencija (približno 5 L/min)"
           ],
           "image": {
-            "file": "anatomija-i-fiziologija/srce.jpg",
+            "file": "/anatomija-i-fiziologija/srce.jpg",
             "caption": "Srce odraslog muškarca nakon obdukcije. Površinu prekrivaju masno tkivo i koronarne krvne žile, a iz gornjeg dijela, baze srca, izlaze velike krvne žile.",
             "credits": [
               {
@@ -263,7 +263,7 @@
             "Frekvencija disanja u mirovanju 12–20 udisaja u minuti; dišni volumen oko 500 ml"
           ],
           "image": {
-            "file": "anatomija-i-fiziologija/pluca-model.jpg",
+            "file": "/anatomija-i-fiziologija/pluca-model.jpg",
             "caption": "Trodimenzionalni model pluća i dišnih putova unutar prsnog koša: dušnik se dijeli na glavne bronhe, a plućna krila okružuju rebra.",
             "credits": [
               {

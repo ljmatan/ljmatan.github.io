@@ -53,7 +53,7 @@
           "heading": "Elektrostimulacija mišića",
           "body": "Elektrostimulacija je izazivanje mišićne kontrakcije električnim impulsima. Kod inerviranog mišića podražuje se motorički živac, pa su dovoljni kratki impulsi, trajanja oko 0,1 do 1 ms, pravokutnog ili bifaznog oblika. Frekvencija od 30 do 50 Hz daje glatku tetaničku kontrakciju, a impulsi se grupiraju u nizove s pauzama; omjer rada i odmora, primjerice 1:3, sprječava zamor mišića. Takva se stimulacija naziva i neuromuskularna električna stimulacija (NMES) i koristi se za sprječavanje atrofije nakon imobilizacije, jačanje oslabljenog mišića i ponovno učenje pokreta, uvijek uz aktivno sudjelovanje bolesnika kad god je to moguće.\n\nDenervirani mišić, kojemu je prekinut periferni živac, ne reagira na kratke impulse jer se podražuje izravno mišićno vlakno, kojemu je potreban znatno dulji podražaj. Zato se koriste eksponencijalni (trokutasti) impulsi dugog trajanja, od 100 do 1000 ms, i niske frekvencije, kojima se izazivaju pojedinačne kontrakcije. Takav je podražaj ujedno selektivan: inervirani (zdravi) mišić, odnosno njegov motorički živac, akomodira se na sporo rastuću struju i ne kontrahira se, a denervirana mišićna vlakna, koja su izgubila sposobnost akomodacije, reagiraju. Cilj je usporiti atrofiju i očuvati kontraktilnost mišića dok traje regeneracija živca, pa stimulacija mora početi što ranije i provoditi se redovito, u više kratkih serija dnevno.\n\nStanje živčano-mišićne podražljivosti ispituje se elektrodijagnostikom, najčešće krivuljom jakosti i trajanja podražaja (I/t krivulja). Reobaza je najmanja jakost struje koja uz dovoljno dug impuls izaziva minimalnu kontrakciju, a kronaksija najkraće trajanje impulsa koje izaziva kontrakciju pri jakosti dvostruke reobaze. Kod denervacije kronaksija se znatno produljuje, a krivulja se pomiče udesno, prema duljim impulsima. Kontraindikacije elektrostimulacije su elektrostimulator srca, primjena u području vrata i srca, tromboza, akutna upala, maligna bolest u polju, trudnoća (trbuh i slabinsko područje) i oštećena koža.",
           "image": {
-            "file": "fizikalna-terapija/ems-uredaj.jpg",
+            "file": "/fizikalna-terapija/ems-uredaj.jpg",
             "caption": "Prijenosni četverokanalni uređaj za elektrostimulaciju mišića (EMS) s otvorenim poklopcem: svaki kanal ima vlastiti regulator jakosti struje.",
             "credits": [
               {
@@ -99,7 +99,7 @@
           "heading": "Topli oblozi i druge metode površinske topline",
           "body": "Topli (vrući) oblozi najjednostavniji su oblik kondukcijske termoterapije. Standardni su oblozi platnene vrećice punjene silikatnim gelom koje se griju u vodenoj kupelji (hidrokolatoru) na temperaturi od oko 70 °C; gel zadržava vodu i polako otpušta toplinu. Prije primjene oblog se obvezno umota u više slojeva frotirnog ručnika, obično šest do osam, kako ne bi izazvao opeklinu, a bolesnik ne smije ležati na oblogu jer pritisak smanjuje cirkulaciju i povećava opasnost od oštećenja kože. Primjena traje 20 do 30 minuta, a kožu treba pregledati tijekom i nakon postupka.\n\nOsim gelnih obloga koriste se termofor s toplom vodom, električni jastuci, topli ručnici, oblozi od ljekovitog blata (peloidni oblozi) i vrećice sa sjemenkama koje se griju. Svi oni zagrijavaju samo kožu i potkožje, pa ih primjenjujemo kod površinskih bolnih stanja, mišićnog spazma, kroničnih bolova u vratu i leđima, degenerativnih promjena površinskih zglobova te kao pripremu za masažu, istezanje i vježbe. Topli se oblozi često kombiniraju s drugim postupcima, primjerice se primjenjuju prije elektroterapije kako bi se smanjio otpor kože i poboljšalo podnošenje struje.\n\nDoza površinske topline određuje se temperaturom izvora, debljinom izolacije, trajanjem primjene i subjektivnim osjetom: bolesnik treba osjećati ugodnu toplinu, nikada žarenje. Osjet topline ispituje se prije prve primjene, osobito u bolesnika s neurološkim bolestima, šećernom bolesti ili nakon ozljeda živaca. Opekline nastaju najčešće zbog nedovoljne izolacije, predugog trajanja, bolesnika koji je zaspao ili oštećenog osjeta. Tijekom postupka i nakon njega koža treba biti ravnomjerno crvena i topla; mrljasto crvenilo ili blijeda, bolna koža znak je pregrijavanja i zahtijeva trenutačni prekid postupka.",
           "image": {
-            "file": "fizikalna-terapija/termofor.jpg",
+            "file": "/fizikalna-terapija/termofor.jpg",
             "caption": "Gumeni termofor, boca za toplu vodu: jednostavan izvor površinske topline koja se na tkivo prenosi kondukcijom.",
             "credits": [
               {
@@ -121,7 +121,7 @@
             "Vrećica s ledom i hladni oblozi: 10 do 20 minuta, uvijek preko zaštitnog sloja tkanine; masaža ledom: izravno na kožu, 5 do 10 minuta"
           ],
           "image": {
-            "file": "fizikalna-terapija/hladni-oblog.jpg",
+            "file": "/fizikalna-terapija/hladni-oblog.jpg",
             "caption": "Hladni gel-oblog za krioterapiju. Na kožu se stavlja preko zaštitnog sloja tkanine, obično 10 do 20 minuta.",
             "credits": [
               {
@@ -177,7 +177,7 @@
             "Infracrveno zračenje (od 760 nm): površinska toplina, priprema za druge postupke"
           ],
           "image": {
-            "file": "fizikalna-terapija/uv-lampa.jpg",
+            "file": "/fizikalna-terapija/uv-lampa.jpg",
             "caption": "Tamnjenje pod UV lampom na sajmu fitnessa u Amsterdamu, 1983. Tamnjenje je pigmentacija koju izaziva UVA zračenje; u terapiji se doza određuje prema minimalnoj eritemskoj dozi.",
             "credits": [
               {
@@ -223,7 +223,7 @@
           "heading": "Balneoterapija i klimatoterapija",
           "body": "Balneoterapija je liječenje prirodnim ljekovitim činiteljima: ljekovitim mineralnim i termalnim vodama, ljekovitim blatom (peloidima), naftalanom i klimom, a provodi se u lječilištima (toplicama). Termalnom se smatra voda čija je temperatura na izvoru viša od 20 °C, a mineralnom voda koja sadrži povećanu količinu otopljenih mineralnih tvari ili posebno djelatne sastojke poput sumpora, radona ili ugljikova dioksida. Učinak ljekovite vode zbroj je toplinskog i mehaničkog djelovanja (uzgon, hidrostatski tlak) te kemijskog djelovanja otopljenih tvari, koje se dijelom upijaju kroz kožu.\n\nSumporne vode primjenjuju se kod degenerativnih bolesti zglobova i kralježnice te kroničnih kožnih bolesti, radonske vode imaju analgetski učinak kod reumatskih bolesti, a ugljičnokisele kupke (kupke s ugljikovim dioksidom) šire periferne krvne žile i koriste se kod poremećaja periferne cirkulacije. Peloidi (fango, treset, ljekovito morsko blato) nanose se topli u obliku obloga ili kupki i dugo zadržavaju toplinu, pa su prikladni za kronične bolesti zglobova. Naftalan, ljekovito mineralno ulje koje se u Hrvatskoj primjenjuje u Ivanić-Gradu, koristi se u liječenju psorijaze i reumatskih bolesti. Poznata hrvatska lječilišta s termalnim vodama su Varaždinske Toplice, Daruvarske Toplice, Krapinske Toplice, Lipik, Topusko i Stubičke Toplice.\n\nKlimatoterapija koristi obilježja klime: morsku klimu s čistim, slanim zrakom i sunčevim zračenjem (talasoterapija, uz kupanje u moru) kod kroničnih dišnih i kožnih bolesti te planinsku klimu kod dišnih bolesti i oporavka. Balneoterapija je uvijek dio cjelovitog lječilišnog programa koji uključuje kineziterapiju, hidroterapiju, elektroterapiju i edukaciju bolesnika, a provodi se u serijama od dva do tri tjedna. Opće kontraindikacije za lječilišno liječenje su akutne i zarazne bolesti, maligne bolesti, dekompenzirana srčana i dišna insuficijencija, teže psihičke bolesti, trudnoća kod toplih i vrućih kupki te stanja koja onemogućuju samostalnu skrb.",
           "image": {
-            "file": "fizikalna-terapija/termalni-bazen.jpg",
+            "file": "/fizikalna-terapija/termalni-bazen.jpg",
             "caption": "Zatvoreni bazen s termalnom vodom u lječilištu Patince u Slovačkoj.",
             "credits": [
               {

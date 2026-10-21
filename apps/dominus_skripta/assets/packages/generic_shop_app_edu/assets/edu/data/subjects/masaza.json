@@ -21,7 +21,7 @@
           "heading": "Povijest masaže",
           "body": "Masaža je jedan od najstarijih načina liječenja. Opisi trljanja i pritiskanja tijela nalaze se u drevnim kineskim i indijskim medicinskim spisima, a prizori masaže sačuvani su i u egipatskim grobnicama. U staroj Grčkoj Hipokrat (5. i 4. stoljeće prije Krista) preporučivao je trljanje (anatripsis) i zapisao da liječnik mora biti vješt u mnogim stvarima, a svakako u trljanju. Galen, najpoznatiji liječnik rimskog doba, propisivao je masažu gladijatorima prije i poslije vježbanja.\n\nU srednjem je vijeku znanje o masaži u Europi uglavnom bilo zapostavljeno, ali su ga sačuvali arapski liječnici, među kojima je najpoznatiji Avicena (Ibn Sina) sa svojim Kanonom medicine. Suvremeni razvoj počinje u 19. stoljeću. Šveđanin Per Henrik Ling (1776. – 1839.) utemeljio je sustav švedske gimnastike koji je povezivao vježbe i hvatove masaže, pa se klasična masaža i danas često naziva švedskom. Nizozemski liječnik Johann Georg Mezger uveo je francuske nazive hvatova (efleraža, petrisaža, frikcija, tapotman) koji su ostali u uporabi do danas.\n\nU 20. stoljeću nastale su posebne tehnike: njemačka fizioterapeutkinja Elisabeth Dicke razvila je masažu vezivnog tkiva (1929.), Danac Emil Vodder sa suprugom Estrid manualnu limfnu drenažu (tridesetih godina), a britanski liječnik James Cyriax duboku poprečnu frikciju za liječenje tetiva i ligamenata. Danas se učinci masaže proučavaju znanstvenim metodama, a njezina se primjena temelji na dokazima i na jasnim pravilima sigurnosti.",
           "image": {
-            "file": "masaza/natpis-masaza.jpg",
+            "file": "/masaza/natpis-masaza.jpg",
             "caption": "Stari emajlirani reklamni natpis nizozemske prakse za medicinsku gimnastiku i masažu (Heilgymnastiek – Massage).",
             "credits": [
               {
@@ -77,7 +77,7 @@
             "Duboko glađenje: jači pritisak, potiskuje vensku krv i limfu, smanjuje otok"
           ],
           "image": {
-            "file": "masaza/masaza-potkoljenice.jpg",
+            "file": "/masaza/masaza-potkoljenice.jpg",
             "caption": "Maser Feyenoorda Gerard Meijer masira potkoljenicu nogometaša Coena Moulijna, 1965.",
             "credits": [
               {
@@ -164,7 +164,7 @@
             "Masaža trbuha u smjeru kazaljke na satu potiče peristaltiku"
           ],
           "image": {
-            "file": "masaza/masaza-nakon-utrke.jpg",
+            "file": "/masaza/masaza-nakon-utrke.jpg",
             "caption": "Biciklist G. Kersten na masaži tijekom Tour de Francea 1960. Masaža nakon napora opušta i pomaže oporavku.",
             "credits": [
               {
@@ -232,7 +232,7 @@
             "Kontraindikacije: erizipel i akutne infekcije, akutna tromboza, dekompenzacija srca, neliječena maligna bolest"
           ],
           "image": {
-            "file": "masaza/kompresivni-zavoj.jpg",
+            "file": "/masaza/kompresivni-zavoj.jpg",
             "caption": "Prilagodljivi kompresivni zavoj s čičak-trakama za potkoljenicu i stopalo. U liječenju limfedema kompresija održava smanjenje otekline postignuto limfnom drenažom.",
             "credits": [
               {
@@ -254,7 +254,7 @@
             "Akutna ozljeda: bez masaže; mirovanje, hlađenje, kompresija, podizanje uda"
           ],
           "image": {
-            "file": "masaza/sportska-masaza.jpg",
+            "file": "/masaza/sportska-masaza.jpg",
             "caption": "Maser obrađuje natkoljenicu biciklistice Truus van der Plaat na Svjetskom prvenstvu u biciklizmu 1979. u Amsterdamu.",
             "credits": [
               {

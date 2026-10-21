@@ -4,7 +4,9 @@
       "id": "probni-anatomija-i-fiziologija",
       "title": "Probni ispit: Anatomija i fiziologija",
       "description": "20 pitanja iz anatomije i fiziologije, 20 minuta, prag prolaza 60 %.",
-      "subject_ids": ["anatomija-i-fiziologija"],
+      "subject_ids": [
+        "anatomija-i-fiziologija"
+      ],
       "question_count": 20,
       "time_limit_minutes": 20,
       "pass_percent": 60,
@@ -15,7 +17,9 @@
       "id": "probni-osnove-kineziologije",
       "title": "Probni ispit: Osnove kineziologije",
       "description": "20 pitanja iz osnova kineziologije, 20 minuta, prag prolaza 60 %.",
-      "subject_ids": ["osnove-kineziologije"],
+      "subject_ids": [
+        "osnove-kineziologije"
+      ],
       "question_count": 20,
       "time_limit_minutes": 20,
       "pass_percent": 60,
@@ -26,7 +30,9 @@
       "id": "probni-fizikalna-terapija",
       "title": "Probni ispit: Fizikalna terapija",
       "description": "20 pitanja iz fizikalne terapije, 20 minuta, prag prolaza 60 %.",
-      "subject_ids": ["fizikalna-terapija"],
+      "subject_ids": [
+        "fizikalna-terapija"
+      ],
       "question_count": 20,
       "time_limit_minutes": 20,
       "pass_percent": 60,
@@ -37,7 +43,9 @@
       "id": "probni-kineziterapija",
       "title": "Probni ispit: Kineziterapija",
       "description": "20 pitanja iz kineziterapije, 20 minuta, prag prolaza 60 %.",
-      "subject_ids": ["kineziterapija"],
+      "subject_ids": [
+        "kineziterapija"
+      ],
       "question_count": 20,
       "time_limit_minutes": 20,
       "pass_percent": 60,
@@ -48,7 +56,9 @@
       "id": "probni-masaza",
       "title": "Probni ispit: Masaža",
       "description": "20 pitanja iz masaže, 20 minuta, prag prolaza 60 %.",
-      "subject_ids": ["masaza"],
+      "subject_ids": [
+        "masaza"
+      ],
       "question_count": 20,
       "time_limit_minutes": 20,
       "pass_percent": 60,
@@ -59,7 +69,9 @@
       "id": "probni-patofiziologija",
       "title": "Probni ispit: Patofiziologija",
       "description": "20 pitanja iz patofiziologije, 20 minuta, prag prolaza 60 %.",
-      "subject_ids": ["patofiziologija"],
+      "subject_ids": [
+        "patofiziologija"
+      ],
       "question_count": 20,
       "time_limit_minutes": 20,
       "pass_percent": 60,
@@ -70,7 +82,9 @@
       "id": "probni-klinicka-medicina",
       "title": "Probni ispit: Klinička medicina",
       "description": "20 pitanja iz kliničke medicine, 20 minuta, prag prolaza 60 %.",
-      "subject_ids": ["klinicka-medicina"],
+      "subject_ids": [
+        "klinicka-medicina"
+      ],
       "question_count": 20,
       "time_limit_minutes": 20,
       "pass_percent": 60,
@@ -81,7 +95,9 @@
       "id": "probni-prva-pomoc",
       "title": "Probni ispit: Prva pomoć",
       "description": "20 pitanja iz prve pomoći, 20 minuta, prag prolaza 60 %.",
-      "subject_ids": ["prva-pomoc"],
+      "subject_ids": [
+        "prva-pomoc"
+      ],
       "question_count": 20,
       "time_limit_minutes": 20,
       "pass_percent": 60,
@@ -92,7 +108,9 @@
       "id": "probni-mikrobiologija",
       "title": "Probni ispit: Mikrobiologija",
       "description": "20 pitanja iz mikrobiologije, 20 minuta, prag prolaza 60 %.",
-      "subject_ids": ["mikrobiologija"],
+      "subject_ids": [
+        "mikrobiologija"
+      ],
       "question_count": 20,
       "time_limit_minutes": 20,
       "pass_percent": 60,

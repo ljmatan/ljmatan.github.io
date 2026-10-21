@@ -24,7 +24,7 @@
             "Dob, prethodni moždani udar ili TIA"
           ],
           "image": {
-            "file": "klinicka-medicina/mozdani-udar-presjek.jpg",
+            "file": "/klinicka-medicina/mozdani-udar-presjek.jpg",
             "caption": "Presjek mozga nakon starog moždanog udara u stražnjem dijelu lijevog tjemenog režnja: strelice pokazuju mjesto na kojem je moždano tkivo odumrlo.",
             "credits": [
               {
@@ -126,7 +126,7 @@
             "Slabinske lezije: hod uz ortoze i štake"
           ],
           "image": {
-            "file": "klinicka-medicina/kraljeznicna-mozdina.jpg",
+            "file": "/klinicka-medicina/kraljeznicna-mozdina.jpg",
             "caption": "Poprečni presjek kralježnične moždine: siva tvar u obliku leptira u sredini, okružena bijelom tvari (L. Testut, Traité d'anatomie humaine).",
             "credits": [
               {
@@ -176,7 +176,7 @@
             "Atlantoaksijalna nestabilnost: bez manipulacija i forsirane fleksije vrata"
           ],
           "image": {
-            "file": "klinicka-medicina/reumatoidni-artritis-sake.jpg",
+            "file": "/klinicka-medicina/reumatoidni-artritis-sake.jpg",
             "caption": "Teško deformirane šake kod uznapredovalog reumatoidnog artritisa: zglobovi prstiju su zadebljani, a prsti iskrivljeni.",
             "credits": [
               {
@@ -257,7 +257,7 @@
             "Faza remodeliranja: pregradnja u lamelarnu kost prema opterećenju, mjeseci do godine"
           ],
           "image": {
-            "file": "klinicka-medicina/prijelom-kuka-rtg.jpg",
+            "file": "/klinicka-medicina/prijelom-kuka-rtg.jpg",
             "caption": "Rendgenska snimka kuka 77-godišnje osobe koja je pala u kući: strelice pokazuju blago uklješteni (impaktirani) prijelom gornjeg dijela bedrene kosti.",
             "credits": [
               {
@@ -291,7 +291,7 @@
             "Oprez: tromboza (oteklina, bol, toplina potkoljenice), infekcija, bez udarnih opterećenja"
           ],
           "image": {
-            "file": "klinicka-medicina/endoproteza-kuka-rtg.jpg",
+            "file": "/klinicka-medicina/endoproteza-kuka-rtg.jpg",
             "caption": "Rendgenska snimka kuka s totalnom endoprotezom: metalni trn usađen je u bedrenu kost, a umjetna glava zglobljava se s čašicom u zdjelici.",
             "credits": [
               {

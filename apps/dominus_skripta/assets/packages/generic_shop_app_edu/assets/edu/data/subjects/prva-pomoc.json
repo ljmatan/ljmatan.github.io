@@ -53,7 +53,7 @@
             "Nakon 30 minuta okrenite osobu na drugu stranu."
           ],
           "image": {
-            "file": "prva-pomoc/bocni-polozaj.jpg",
+            "file": "/prva-pomoc/bocni-polozaj.jpg",
             "caption": "Bočni položaj za oporavak (računalni prikaz): nadlanica gornje ruke uz obraz, gornja noga savijena u kuku i koljenu, glava zabačena, a usta usmjerena prema podlozi.",
             "credits": [
               {
@@ -100,7 +100,7 @@
             "Ako ne možete davati upuhe, pritiskajte bez prekida."
           ],
           "image": {
-            "file": "prva-pomoc/tecaj-ozivljavanja.jpg",
+            "file": "/prva-pomoc/tecaj-ozivljavanja.jpg",
             "caption": "Polaznici vatrogasne škole u Alexandriji (SAD) vježbaju kompresije prsnog koša na lutkama za oživljavanje, 2023.",
             "credits": [
               {
@@ -132,7 +132,7 @@
             "Nakon šoka odmah nastavite oživljavanje 2 minute, do nove analize."
           ],
           "image": {
-            "file": "prva-pomoc/aed-novigrad.jpg",
+            "file": "/prva-pomoc/aed-novigrad.jpg",
             "caption": "Automatski vanjski defibrilator (AED) u javno dostupnom ormariću na stupu u novigradskoj luci, označen međunarodnim simbolom.",
             "credits": [
               {
@@ -191,7 +191,7 @@
             "Nakon previjanja provjerite toplinu, boju, osjet i pokretljivost prstiju."
           ],
           "image": {
-            "file": "prva-pomoc/zavoj-palca.jpg",
+            "file": "/prva-pomoc/zavoj-palca.jpg",
             "caption": "Zavoj oko palca i dlana prekriva šivanu ranu nakon zahvata na šaci i štiti je od onečišćenja.",
             "credits": [
               {
@@ -281,7 +281,7 @@
             "U nedoumici dajte šećer."
           ],
           "image": {
-            "file": "prva-pomoc/lancetar-glukometar.jpg",
+            "file": "/prva-pomoc/lancetar-glukometar.jpg",
             "caption": "Lancetar za ubod u jagodicu prsta; kap krvi zatim se analizira glukometrom (u pozadini) radi mjerenja šećera u krvi.",
             "credits": [
               {

@@ -10,7 +10,7 @@ logo:
 
 backend:
   name: github
-  # The repository Pages CMS (.pages.yml at its root) edits too, so both editors change the same files.
+  # In the obfuscated delivery (scripts/obfuscate/edu_delivery.sh) this is the delivery's repository.
   repo: ljmatan/dominus-skripta-delivery
   branch: main
   # Editors sign in with a GitHub token that can write to the repository („Sign In Using Access

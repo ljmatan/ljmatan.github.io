@@ -11,7 +11,7 @@
 // the network first while online, so a deploy shows at once; the copy answers when the
 // network does not. The CMS (admin/) is never kept: it needs the network anyway.
 
-const VERSION = 'a1f1721c';
+const VERSION = '543c1d4d';
 const CACHE = 'skripta-' + VERSION;
 const PRECACHE = [
   "./",
@@ -20,11 +20,6 @@ const PRECACHE = [
   "assets/FontManifest.json",
   "assets/fonts/MaterialIcons-Regular.otf",
   "assets/packages/flutter_map/lib/assets/flutter_map_logo.png",
-  "assets/packages/generic_shop_app_content/assets/fonts/Quicksand-Bold.ttf",
-  "assets/packages/generic_shop_app_content/assets/fonts/Quicksand-Light.ttf",
-  "assets/packages/generic_shop_app_content/assets/fonts/Quicksand-Medium.ttf",
-  "assets/packages/generic_shop_app_content/assets/fonts/Quicksand-Regular.ttf",
-  "assets/packages/generic_shop_app_content/assets/fonts/Quicksand-SemiBold.ttf",
   "assets/packages/generic_shop_app_edu/assets/edu/brand/dominus-logo.png",
   "assets/packages/generic_shop_app_edu/assets/edu/data/catalog.json",
   "assets/packages/generic_shop_app_edu/assets/edu/data/subjects/anatomija-i-fiziologija.json",
@@ -45,6 +40,11 @@ const PRECACHE = [
   "assets/packages/generic_shop_app_edu/fonts/pdf/Rubik-Bold.ttf",
   "assets/packages/generic_shop_app_edu/fonts/pdf/Rubik-Medium.ttf",
   "assets/packages/generic_shop_app_edu/fonts/pdf/Rubik-Regular.ttf",
+  "assets/packages/merged_gsa/assets/fonts/Quicksand-Bold.ttf",
+  "assets/packages/merged_gsa/assets/fonts/Quicksand-Light.ttf",
+  "assets/packages/merged_gsa/assets/fonts/Quicksand-Medium.ttf",
+  "assets/packages/merged_gsa/assets/fonts/Quicksand-Regular.ttf",
+  "assets/packages/merged_gsa/assets/fonts/Quicksand-SemiBold.ttf",
   "assets/shaders/ink_sparkle.frag",
   "assets/shaders/stretch_effect.frag",
   "flutter.js",

@@ -2,7 +2,14 @@
   "version": 2,
   "language": "hr",
   "subjects": [
-    "anatomija-i-fiziologija", "osnove-kineziologije", "fizikalna-terapija", "kineziterapija",
-    "masaza", "patofiziologija", "klinicka-medicina", "prva-pomoc", "mikrobiologija"
+    "anatomija-i-fiziologija",
+    "osnove-kineziologije",
+    "fizikalna-terapija",
+    "kineziterapija",
+    "masaza",
+    "patofiziologija",
+    "klinicka-medicina",
+    "prva-pomoc",
+    "mikrobiologija"
   ]
 }
