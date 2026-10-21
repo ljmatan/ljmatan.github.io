@@ -1,7 +1,8 @@
 # Sveltia CMS — content editor for Dominus Skripta (docs/editing.md).
 #
 # Every form below mirrors docs/content-format.md, so an editor cannot save most invalid content;
-# test/content_schema_test.dart still checks every commit (CI runs it on each change).
+# test/content_schema_test.dart still checks every commit (CI runs it on each change). Neither
+# pins what the editors may decide — titles, colours, exams, how many lessons or questions.
 # Paths are relative to the repository root (the monorepo), not to this file.
 
 # The admin wears the school's badge.
@@ -32,6 +33,12 @@ backend:
 # (An empty public_folder would save the whole repository path, which the app cannot find.)
 media_folder: merged/generic_shop_app_edu/assets/edu/images
 public_folder: /
+
+# An uploaded picture's name in lowercase ASCII ("Mišić Ruka.PNG" → "misic-ruka.png"), as the
+# content test requires; entry slugs are the id fields, which are ASCII already.
+slug:
+  encoding: ascii
+  clean_accents: true
 
 output:
   omit_empty_optional_fields: true
@@ -79,8 +86,6 @@ collections:
         label: Lekcije
         label_singular: Lekcija
         widget: list
-        min: 3
-        max: 4
         summary: '{{fields.title}}'
         collapsed: true
         fields:
@@ -96,8 +101,6 @@ collections:
             label: Odjeljci
             label_singular: Odjeljak
             widget: list
-            min: 3
-            max: 5
             summary: '{{fields.heading}}'
             collapsed: true
             fields:
@@ -121,13 +124,20 @@ collections:
                 fields:
                   - name: file
                     label: Datoteka
-                    hint: JPG ili PNG, najviše 400 KB, ime malim slovima bez razmaka i dijakritika.
+                    hint: Fotografija ili crtež (JPG, PNG, WebP, HEIC s iPhonea). Uređivač je sam smanji i preimenuje.
                     widget: image
                     choose_url: false
-                    accept: image/jpeg,image/png
+                    accept: image/jpeg,image/png,image/webp,image/heic,image/heif
+                    # Each upload is renamed (see `slug` above) and scaled to at most 1200 px; a
+                    # photo becomes a JPEG, a PNG stays a PNG (a drawing keeps its sharp edges and
+                    # transparency). The 400 KB limit applies to the result.
                     media_library:
                       config:
                         max_file_size: 409600
+                        slugify_filename: true
+                        transformations:
+                          raster_image: { format: jpeg, quality: 80, width: 1200, height: 1200 }
+                          png: { format: png, width: 1200, height: 1200 }
                   - { name: caption, label: Opis slike, widget: text, hint: Jedna do dvije rečenice o tome što slika prikazuje. }
                   - name: credits
                     label: Izvori
@@ -147,18 +157,16 @@ collections:
           - name: key_points
             label: Ključno
             label_singular: Ključna točka
-            hint: 3 do 6 kratkih rečenica.
+            hint: Kratke rečenice koje sažimaju lekciju.
             widget: list
-            min: 3
-            max: 6
+            required: false
             field: { name: point, label: Ključna točka, widget: string }
 
       - name: questions
         label: Pitanja
         label_singular: Pitanje
-        hint: Najmanje 24 pitanja, najmanje 5 po lekciji.
         widget: list
-        min: 24
+        required: false
         summary: '{{fields.id}} · {{fields.text}}'
         collapsed: true
         fields:
@@ -177,9 +185,9 @@ collections:
             widget: select
             default: single
             options:
-              - { label: 'Jedan točan odgovor (3–5 ponuđenih)', value: single }
-              - { label: 'Više točnih odgovora (4–6 ponuđenih)', value: multiple }
-              - { label: 'Točno / netočno (t i f)', value: true_false }
+              - { label: 'Jedan točan odgovor', value: single }
+              - { label: 'Više točnih odgovora', value: multiple }
+              - { label: 'Točno / netočno', value: true_false }
           - name: difficulty
             label: Težina
             widget: select
@@ -192,7 +200,7 @@ collections:
           - name: options
             label: Ponuđeni odgovori
             label_singular: Odgovor
-            hint: Oznake redom a, b, c… — kod „točno / netočno“ točno t (Točno) pa f (Netočno). Bez „sve navedeno“, jer se redoslijed miješa.
+            hint: Oznake redom a, b, c… (kod „točno / netočno“ obično t = Točno, f = Netočno). Bez „sve navedeno“, jer se redoslijed miješa.
             widget: list
             min: 2
             max: 6
