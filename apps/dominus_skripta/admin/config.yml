@@ -124,7 +124,7 @@ collections:
                 fields:
                   - name: file
                     label: Datoteka
-                    hint: Fotografija ili crtež (JPG, PNG, WebP, HEIC s iPhonea). Uređivač je sam smanji i preimenuje.
+                    hint: Fotografija kao JPG (ili HEIC s iPhonea), crtež kao PNG. Uređivač je sam smanji i preimenuje.
                     widget: image
                     choose_url: false
                     accept: image/jpeg,image/png,image/webp,image/heic,image/heif
