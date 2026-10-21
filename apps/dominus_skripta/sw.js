@@ -15,7 +15,7 @@
 // keep a file for 10 minutes, which would hide a publish from anyone who opened the app shortly
 // before it. Every such read is revalidated (an unchanged file costs a 304).
 
-const VERSION = '82388e47';
+const VERSION = '80d22878';
 const CACHE = 'skripta-' + VERSION;
 const PRECACHE = [
   "./",
