@@ -10,6 +10,10 @@
 // data, in which case a picture is kept the first time it is shown. Everything is read from
 // the network first while online, so a deploy shows at once; the copy answers when the
 // network does not. The CMS (admin/) is never kept: it needs the network anyway.
+//
+// "The network" means the server, not the browser's HTTP cache: GitHub Pages lets a browser
+// keep a file for 10 minutes, which would hide a publish from anyone who opened the app shortly
+// before it. Every such read is revalidated (an unchanged file costs a 304).
 
 const VERSION = '543c1d4d';
 const CACHE = 'skripta-' + VERSION;
@@ -225,10 +229,18 @@ async function fromCopyFirst(request) {
   return response;
 }
 
+// A navigation's Request cannot be copied with new options, so it is fetched by its URL — with
+// redirects left to the browser, as for the navigation itself (".../admin" → ".../admin/").
+function revalidated(request) {
+  return request.mode === 'navigate'
+    ? fetch(request.url, { cache: 'no-cache', redirect: 'manual' })
+    : fetch(request, { cache: 'no-cache' });
+}
+
 async function fromNetworkFirst(request) {
   const cache = await caches.open(CACHE);
   try {
-    const response = await withTimeout(fetch(request), NETWORK_TIMEOUT_MS);
+    const response = await withTimeout(revalidated(request), NETWORK_TIMEOUT_MS);
     if (response.ok) await cache.put(request, response.clone());
     return response;
   } catch (e) {
