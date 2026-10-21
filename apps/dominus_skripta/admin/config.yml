@@ -1,0 +1,267 @@
+# Sveltia CMS — content editor for Dominus Skripta (docs/editing.md).
+#
+# Every form below mirrors docs/content-format.md, so an editor cannot save most invalid content;
+# test/content_schema_test.dart still checks every commit (CI runs it on each change).
+# Paths are relative to the repository root (the monorepo), not to this file.
+
+# The admin wears the school's badge.
+logo:
+  src: ../icons/dominus-logo.png
+
+backend:
+  name: github
+  # The repository Pages CMS (.pages.yml at its root) edits too, so both editors change the same files.
+  repo: ljmatan/dominus-skripta-delivery
+  branch: main
+  # Editors sign in with a GitHub account that can write to the repository: either with a
+  # personal access token (Sveltia's „Sign in with token“), or through an OAuth worker —
+  # https://github.com/sveltia/sveltia-cms-auth — whose URL goes here:
+  # base_url: https://sveltia-cms-auth.<account>.workers.dev
+  commit_messages:
+    create: 'edu: dodaj {{collection}} „{{slug}}“'
+    update: 'edu: uredi {{collection}} „{{slug}}“'
+    delete: 'edu: obriši {{collection}} „{{slug}}“'
+    uploadMedia: 'edu: dodaj sliku {{path}}'
+    deleteMedia: 'edu: obriši sliku {{path}}'
+
+# Pictures live under assets/edu/images; the content stores the path below that folder. With
+# public_folder "/" a new picture is saved as "/mikrobiologija/mikroskop.jpg"; the app and the
+# content test drop the leading slash, so it reads the same as "mikrobiologija/mikroskop.jpg".
+# (An empty public_folder would save the whole repository path, which the app cannot find.)
+media_folder: merged/generic_shop_app_edu/assets/edu/images
+public_folder: /
+
+output:
+  omit_empty_optional_fields: true
+  json:
+    indent_style: space
+    indent_size: 2
+
+collections:
+  # --------------------------------------------------------------------------------------------
+  - name: subjects
+    label: Predmeti
+    label_singular: Predmet
+    description: Predmeti — lekcije s odjeljcima i slikama te pitanja za vježbu i ispite.
+    folder: merged/generic_shop_app_edu/assets/edu/data/subjects
+    extension: json
+    format: json
+    identifier_field: title
+    slug: '{{fields.id}}'
+    create: true
+    delete: false
+    summary: '{{fields.title}}'
+    sortable_fields: [title, year]
+    fields:
+      - name: id
+        label: Oznaka predmeta
+        hint: Jednaka imenu datoteke. Mala slova bez dijakritika, brojke i crtice. Ne mijenja se nakon objave.
+        widget: string
+        pattern: ['^[a-z0-9]+(-[a-z0-9]+)*$', 'Samo mala slova bez dijakritika, brojke i crtice (npr. prva-pomoc).']
+      - { name: title, label: Naziv, widget: string }
+      - { name: short_title, label: Kratki naziv, widget: string, hint: Za pločice i oznake. }
+      - { name: description, label: Opis, widget: text }
+      - name: color
+        label: Boja
+        hint: '#RRGGBB'
+        widget: string
+        pattern: ['^#[0-9A-Fa-f]{6}$', 'Boja u obliku #RRGGBB.']
+      - &icon
+        name: icon
+        label: Ikona
+        widget: select
+        options: [accessibility_new, directions_run, bolt, fitness_center, spa, biotech, medical_services, emergency, healing, psychology, favorite, science, menu_book, school, local_hospital, monitor_heart, air, water_drop, thermostat, waves, back_hand, elderly, child_care, quiz, self_improvement, accessible, health_and_safety, vaccines, medication, bloodtype, masks, ac_unit, electric_bolt, pool, sports, timer, lightbulb, history_edu, library_books, checklist, groups, star, coronavirus]
+      - { name: year, label: Godina, widget: number, value_type: int, min: 1, max: 6, required: false }
+
+      - name: lessons
+        label: Lekcije
+        label_singular: Lekcija
+        widget: list
+        min: 3
+        max: 4
+        summary: '{{fields.title}}'
+        collapsed: true
+        fields:
+          - name: id
+            label: Oznaka lekcije
+            hint: Jedinstvena u cijelom sadržaju; napredak učenika vezan je uz nju, pa se ne mijenja nakon objave.
+            widget: string
+            pattern: ['^[a-z0-9]+(-[a-z0-9]+)*$', 'Samo mala slova bez dijakritika, brojke i crtice.']
+          - { name: title, label: Naslov, widget: string }
+          - { name: summary, label: Sažetak, widget: string, hint: Jedna rečenica za popis lekcija. }
+          - { name: estimated_minutes, label: Trajanje čitanja (min), widget: number, value_type: int, min: 1, max: 60, default: 10 }
+          - name: sections
+            label: Odjeljci
+            label_singular: Odjeljak
+            widget: list
+            min: 3
+            max: 5
+            summary: '{{fields.heading}}'
+            collapsed: true
+            fields:
+              - { name: heading, label: Naslov odjeljka, widget: string }
+              - name: body
+                label: Tekst
+                hint: Odlomke odvojite praznim retkom. Bez oznaka za podebljanje, poveznica ili HTML-a.
+                widget: text
+              - name: bullets
+                label: Natuknice
+                label_singular: Natuknica
+                widget: list
+                required: false
+                field: { name: bullet, label: Natuknica, widget: string }
+              - name: image
+                label: Slika
+                hint: Samo djela s licencom CC0 1.0 (Wikimedia Commons, vlastito djelo autora) — vidi docs/editing.md.
+                widget: object
+                required: false
+                collapsed: true
+                fields:
+                  - name: file
+                    label: Datoteka
+                    hint: JPG ili PNG, najviše 400 KB, ime malim slovima bez razmaka i dijakritika.
+                    widget: image
+                    choose_url: false
+                    accept: image/jpeg,image/png
+                    media_library:
+                      config:
+                        max_file_size: 409600
+                  - { name: caption, label: Opis slike, widget: text, hint: Jedna do dvije rečenice o tome što slika prikazuje. }
+                  - name: credits
+                    label: Izvori
+                    label_singular: Izvor
+                    widget: list
+                    min: 1
+                    summary: '{{fields.title}} — {{fields.author}}'
+                    fields:
+                      - { name: title, label: Naziv djela, widget: string, hint: Kako je navedeno na izvoru. }
+                      - { name: author, label: Autor, widget: string }
+                      - name: source
+                        label: Stranica izvora
+                        hint: Stranica datoteke na kojoj piše licenca (ne sama slika).
+                        widget: string
+                        pattern: ['^https://', 'Poveznica mora počinjati s https://']
+                      - { name: license, label: Licenca, widget: select, options: ['CC0 1.0'], default: 'CC0 1.0' }
+          - name: key_points
+            label: Ključno
+            label_singular: Ključna točka
+            hint: 3 do 6 kratkih rečenica.
+            widget: list
+            min: 3
+            max: 6
+            field: { name: point, label: Ključna točka, widget: string }
+
+      - name: questions
+        label: Pitanja
+        label_singular: Pitanje
+        hint: Najmanje 24 pitanja, najmanje 5 po lekciji.
+        widget: list
+        min: 24
+        summary: '{{fields.id}} · {{fields.text}}'
+        collapsed: true
+        fields:
+          - name: id
+            label: Oznaka pitanja
+            hint: Prefiks predmeta, crtica i tri znamenke (npr. ft-031). Jedinstvena u cijeloj bazi; ne mijenja se nakon objave.
+            widget: string
+            pattern: ['^[a-z]+-[0-9]{3}$', 'Oblik: prefiks, crtica i tri znamenke (npr. ft-031).']
+          - name: lesson_id
+            label: Lekcija
+            hint: Oznaka lekcije ovog predmeta kojoj pitanje pripada.
+            widget: string
+            pattern: ['^[a-z0-9]+(-[a-z0-9]+)*$', 'Oznaka lekcije (mala slova i crtice).']
+          - name: type
+            label: Vrsta
+            widget: select
+            default: single
+            options:
+              - { label: 'Jedan točan odgovor (3–5 ponuđenih)', value: single }
+              - { label: 'Više točnih odgovora (4–6 ponuđenih)', value: multiple }
+              - { label: 'Točno / netočno (t i f)', value: true_false }
+          - name: difficulty
+            label: Težina
+            widget: select
+            default: 1
+            options:
+              - { label: '1 — prisjećanje', value: 1 }
+              - { label: '2 — razumijevanje', value: 2 }
+              - { label: '3 — zaključivanje', value: 3 }
+          - { name: text, label: Pitanje, widget: text }
+          - name: options
+            label: Ponuđeni odgovori
+            label_singular: Odgovor
+            hint: Oznake redom a, b, c… — kod „točno / netočno“ točno t (Točno) pa f (Netočno). Bez „sve navedeno“, jer se redoslijed miješa.
+            widget: list
+            min: 2
+            max: 6
+            summary: '{{fields.id}}) {{fields.text}}'
+            fields:
+              - { name: id, label: Oznaka, widget: select, options: [a, b, c, d, e, f, t] }
+              - { name: text, label: Tekst, widget: string }
+          - name: correct
+            label: Točni odgovori
+            hint: Oznake točnih odgovora.
+            widget: select
+            multiple: true
+            min: 1
+            options: [a, b, c, d, e, f, t]
+          - { name: explanation, label: Objašnjenje, widget: text, hint: 1–3 rečenice zašto je odgovor točan. }
+          - name: tags
+            label: Oznake teme
+            widget: list
+            required: false
+            field: { name: tag, label: Oznaka, widget: string }
+
+  # --------------------------------------------------------------------------------------------
+  - name: settings
+    label: Testovi i redoslijed
+    files:
+      - name: tests
+        label: Testovi
+        file: merged/generic_shop_app_edu/assets/edu/data/tests.json
+        format: json
+        fields:
+          - name: tests
+            label: Testovi
+            label_singular: Test
+            widget: list
+            summary: '{{fields.title}}'
+            collapsed: true
+            fields:
+              - name: id
+                label: Oznaka
+                widget: string
+                pattern: ['^[a-z0-9]+(-[a-z0-9]+)*$', 'Samo mala slova bez dijakritika, brojke i crtice.']
+              - { name: title, label: Naslov, widget: string }
+              - { name: description, label: Opis, widget: string }
+              - name: subject_ids
+                label: Predmeti
+                hint: Prazno = svi predmeti.
+                widget: relation
+                collection: subjects
+                value_field: id
+                search_fields: [title]
+                display_fields: [title]
+                multiple: true
+                required: false
+              - { name: question_count, label: Broj pitanja, widget: number, value_type: int, min: 1 }
+              - { name: time_limit_minutes, label: Vrijeme (min), widget: number, value_type: int, min: 1 }
+              - { name: pass_percent, label: Prag prolaza (%), widget: number, value_type: int, min: 1, max: 100 }
+              - { name: difficulty, label: Težina (prazno = bilo koja), widget: number, value_type: int, min: 1, max: 3, required: false }
+              - { name: shuffle_options, label: Miješaj odgovore, widget: boolean, default: true }
+      - name: catalog
+        label: Redoslijed predmeta
+        file: merged/generic_shop_app_edu/assets/edu/data/catalog.json
+        format: json
+        fields:
+          - { name: version, label: Verzija formata, widget: hidden, default: 2 }
+          - { name: language, label: Jezik sadržaja, widget: hidden, default: hr }
+          - name: subjects
+            label: Predmeti (redoslijed prikaza)
+            hint: Novi predmet pojavljuje se u aplikaciji tek kad ga dodate ovdje.
+            widget: relation
+            collection: subjects
+            value_field: id
+            search_fields: [title]
+            display_fields: [title]
+            multiple: true
