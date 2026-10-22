@@ -17,7 +17,7 @@
 // revalidated (an unchanged file costs a 304). The CMS (admin/) is never kept: it needs the
 // network anyway.
 
-const VERSION = '04c4bdd5';
+const VERSION = 'b7b63ede';
 // One copy for every version; FILES says which of its files are current.
 const CACHE = 'skripta-files';
 // The fingerprints of the files CACHE holds, under MANIFEST.
@@ -131,7 +131,7 @@ const FILES = {
   "icons/dominus-logo.png": "a4f06226",
   "icons/favicon.png": "a9b180ac",
   "index.html": "9559d4f8",
-  "main.dart.js": "b34bfb20",
+  "main.dart.js": "212fa88d",
   "manifest.json": "560eee7b",
   "version.json": "e26f50ba"
 };
