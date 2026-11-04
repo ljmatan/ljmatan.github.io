@@ -1,0 +1,293 @@
+{
+  "id": "fox",
+  "category_id": "animals",
+  "symbol_id": "fox",
+  "thumbnail": "fox_thumb.webp",
+  "title_en": "Foxes",
+  "title_de": "Füchse",
+  "title_it": "Volpi",
+  "title_fr": "Renards",
+  "title_es": "zorros",
+  "title_hr": "Lisice",
+  "title_cs": "Lišky",
+  "title_pl": "Lisy",
+  "title_fi": "Ketut",
+  "title_sk": "Líšky",
+  "title_da": "Ræve",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about foxes. Foxes are small, clever animals with bright orange fur, pointed ears, and a long bushy tail. They live in many parts of the world and are famous for being quick, curious, and very good at solving problems.",
+      "script_de": "Heute lernen wir etwas über Füchse. Füchse sind kleine, kluge Tiere mit leuchtend orangefarbenem Fell, spitzen Ohren und einem langen, buschigen Schwanz. Sie leben in vielen Teilen der Welt und sind dafür bekannt, schnell und neugierig zu sein und Probleme sehr gut zu lösen.",
+      "script_it": "Oggi impareremo a conoscere le volpi. Le volpi sono animali piccoli e intelligenti con pelliccia arancione brillante, orecchie a punta e una lunga coda folta. Vivono in molte parti del mondo e sono famosi per essere veloci, curiosi e molto bravi a risolvere i problemi.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur les renards. Les renards sont de petits animaux intelligents avec une fourrure orange vif, des oreilles pointues et une longue queue touffue. Ils vivent dans de nombreuses régions du monde et sont réputés pour être rapides, curieux et très doués pour résoudre les problèmes.",
+      "script_es": "Hoy vamos a aprender sobre los zorros. Los zorros son animales pequeños e inteligentes con pelaje de color naranja brillante, orejas puntiagudas y una cola larga y tupida. Viven en muchas partes del mundo y son famosos por ser rápidos, curiosos y muy buenos resolviendo problemas.",
+      "script_hr": "Danas ćemo učiti o lisicama. Lisice su male, pametne životinje jarko narančastog krzna, šiljastih ušiju i dugog čupavog repa. Žive u mnogim dijelovima svijeta i poznati su po tome što su brzi, znatiželjni i vrlo dobri u rješavanju problema.",
+      "script_cs": "Dnes se budeme učit o liškách. Lišky jsou malá, chytrá zvířata s jasně oranžovou srstí, špičatýma ušima a dlouhým huňatým ocasem. Žijí v mnoha částech světa a jsou známí tím, že jsou rychlí, zvědaví a velmi dobří v řešení problémů.",
+      "script_pl": "Dziś będziemy uczyć się o lisach. Lisy to małe, sprytne zwierzęta o jasnopomarańczowym futrze, spiczastych uszach i długim, puszystym ogonie. Mieszkają w wielu częściach świata i słyną z szybkości, ciekawości i bardzo dobrego rozwiązywania problemów.",
+      "script_fi": "Tänään opimme kettuja. Ketut ovat pieniä, älykkäitä eläimiä, joilla on kirkkaan oranssi turkki, terävät korvat ja pitkä tuuhea häntä. He asuvat monissa osissa maailmaa ja ovat kuuluisia nopeistaan, uteliaista ja erittäin hyvistä ongelmien ratkaisemisesta.",
+      "script_sk": "Dnes sa budeme učiť o líškach. Líšky sú malé, šikovné zvieratá s jasne oranžovou srsťou, špicatými ušami a dlhým huňatým chvostom. Žijú v mnohých častiach sveta a sú známi tým, že sú rýchli, zvedaví a veľmi dobrí v riešení problémov.",
+      "script_da": "I dag skal vi lære om ræve. Ræve er små, kloge dyr med lys orange pels, spidse ører og en lang busket hale. De bor i mange dele af verden og er berømte for at være hurtige, nysgerrige og meget gode til at løse problemer.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "habitat",
+      "script_en": "Foxes can make their homes in many different places. They live in forests, meadows, farmland, and even near towns and cities. A fox often digs a den underground, or finds a quiet hole among tree roots, where it can rest and keep its babies safe.",
+      "script_de": "Füchse können sich an vielen verschiedenen Orten niederlassen. Sie leben in Wäldern, Wiesen, auf dem Ackerland und sogar in der Nähe von Städten. Ein Fuchs gräbt oft eine Höhle unter der Erde oder findet ein ruhiges Loch zwischen Baumwurzeln, wo er sich ausruhen und seine Jungen beschützen kann.",
+      "script_it": "Le volpi possono costruire le loro case in molti posti diversi. Vivono nelle foreste, nei prati, nei terreni agricoli e persino vicino a paesi e città. Spesso una volpe scava una tana sottoterra o trova un buco tranquillo tra le radici degli alberi, dove può riposarsi e tenere al sicuro i suoi piccoli.",
+      "script_fr": "Les renards peuvent s’installer dans de nombreux endroits différents. Ils vivent dans les forêts, les prairies, les terres agricoles et même à proximité des villes. Un renard creuse souvent une tanière sous terre ou trouve un trou tranquille parmi les racines des arbres, où il peut se reposer et assurer la sécurité de ses bébés.",
+      "script_es": "Los zorros pueden vivir en muchos lugares diferentes. Viven en bosques, prados, tierras de cultivo e incluso cerca de pueblos y ciudades. Un zorro a menudo cava una guarida bajo tierra o encuentra un agujero tranquilo entre las raíces de los árboles, donde puede descansar y mantener a sus crías a salvo.",
+      "script_hr": "Lisice mogu napraviti svoje domove na mnogo različitih mjesta. Žive u šumama, livadama, poljoprivrednim zemljištima, pa čak i u blizini gradova. Lisica često kopa jazbinu pod zemljom ili pronađe mirnu rupu među korijenjem drveća, gdje se može odmoriti i čuvati svoje mlade.",
+      "script_cs": "Lišky mohou mít své domovy na mnoha různých místech. Žijí v lesích, na loukách, na zemědělské půdě a dokonce i v blízkosti měst a měst. Liška si často vyhrabe doupě pod zemí nebo najde tichou díru mezi kořeny stromů, kde může odpočívat a udržovat svá mláďata v bezpečí.",
+      "script_pl": "Lisy mogą zakładać swoje domy w wielu różnych miejscach. Żyją w lasach, na łąkach, na polach uprawnych, a nawet w pobliżu miast. Lis często kopie norę pod ziemią lub znajduje cichą dziurę wśród korzeni drzew, gdzie może odpocząć i zapewnić bezpieczeństwo swoim dzieciom.",
+      "script_fi": "Ketut voivat rakentaa kotinsa moniin eri paikkoihin. He asuvat metsissä, niityillä, viljelymailla ja jopa kaupunkien ja kaupunkien lähellä. Kettu kaivaa usein luolan maan alle tai löytää puiden juurista hiljaisen kuopan, jossa se voi levätä ja pitää vauvansa turvassa.",
+      "script_sk": "Líšky môžu mať svoje domovy na mnohých rôznych miestach. Žijú v lesoch, na lúkach, na poľnohospodárskej pôde a dokonca aj v blízkosti miest a miest. Líška si často vyhrabáva brloh pod zemou alebo si nájde tichú dieru medzi koreňmi stromov, kde si môže oddýchnuť a udržať svoje mláďatá v bezpečí.",
+      "script_da": "Ræve kan lave deres hjem mange forskellige steder. De bor i skove, enge, landbrugsjord og endda i nærheden af ​​byer. En ræv graver ofte en hule under jorden eller finder et stille hul mellem trærødderne, hvor den kan hvile og holde sine babyer i sikkerhed.",
+      "images": [
+        "habitat.webp",
+        "habitat_2.webp",
+        "habitat_3.webp"
+      ]
+    },
+    {
+      "id": "body",
+      "script_en": "A fox has a body built for hunting and exploring. Its big pointed ears can hear the smallest sounds, and its narrow snout can smell food from far away. Its long tail helps it balance when it runs and keeps it warm when it curls up to sleep.",
+      "script_de": "Ein Fuchs hat einen Körper, der zum Jagen und Erkunden gebaut ist. Seine großen, spitzen Ohren können die kleinsten Geräusche hören und seine schmale Schnauze kann Essen aus der Ferne riechen. Sein langer Schwanz hilft ihm beim Laufen das Gleichgewicht zu halten und hält ihn warm, wenn er sich zum Schlafen zusammenrollt.",
+      "script_it": "Una volpe ha un corpo costruito per cacciare ed esplorare. Le sue grandi orecchie appuntite riescono a sentire i suoni più piccoli e il suo muso stretto può sentire l'odore del cibo da molto lontano. La sua lunga coda gli aiuta a restare in equilibrio quando corre e lo mantiene caldo quando si rannicchia per dormire.",
+      "script_fr": "Un renard a un corps construit pour chasser et explorer. Ses grandes oreilles pointues peuvent entendre les moindres sons et son museau étroit peut sentir la nourriture de loin. Sa longue queue l'aide à s'équilibrer lorsqu'il court et le garde au chaud lorsqu'il se recroqueville pour dormir.",
+      "script_es": "Un zorro tiene un cuerpo diseñado para cazar y explorar. Sus grandes orejas puntiagudas pueden oír los sonidos más pequeños y su estrecho hocico puede oler la comida desde lejos. Su larga cola le ayuda a mantener el equilibrio cuando corre y le mantiene caliente cuando se acurruca para dormir.",
+      "script_hr": "Lisica ima tijelo građeno za lov i istraživanje. Njegove velike šiljate uši mogu čuti i najmanje zvukove, a njegova uska njuška može izdaleka namirisati hranu. Njegov dugi rep pomaže joj u ravnoteži dok trči i grije je dok se sklupča da spava.",
+      "script_cs": "Liška má tělo stavěné pro lov a průzkum. Jeho velké špičaté uši slyší i ty nejmenší zvuky a jeho úzký čenich cítí jídlo na dálku. Jeho dlouhý ocas mu pomáhá udržovat rovnováhu při běhu a udržuje ho v teple, když se stočí ke spánku.",
+      "script_pl": "Lis ma ciało zbudowane do polowań i eksploracji. Jego duże, spiczaste uszy słyszą najmniejsze dźwięki, a wąski pysk potrafi wyczuć jedzenie z dużej odległości. Długi ogon pomaga mu zachować równowagę podczas biegu i utrzymuje ciepło, gdy zwija się do snu.",
+      "script_fi": "Ketulla on vartalo, joka on rakennettu metsästystä ja tutkimista varten. Sen suuret terävät korvat kuulevat pienimmätkin äänet, ja sen kapea kuono voi haistaa ruokaa kaukaa. Sen pitkä häntä auttaa sitä tasapainossa juokseessaan ja pitää sen lämpimänä, kun se käpristyy nukkumaan.",
+      "script_sk": "Líška má telo postavené na lov a objavovanie. Jeho veľké špicaté uši počujú aj tie najmenšie zvuky a jeho úzky ňufák cíti jedlo z diaľky. Jeho dlhý chvost mu pomáha udržiavať rovnováhu pri behu a udržiava ho v teple, keď sa stočí k spánku.",
+      "script_da": "En ræv har en krop bygget til jagt og udforskning. Dens store spidse ører kan høre de mindste lyde, og dens smalle snude kan lugte mad på lang afstand. Dens lange hale hjælper den med at balancere, når den løber og holder den varm, når den krøller sig sammen for at sove.",
+      "images": [
+        "body.webp",
+        "body_2.webp",
+        "body_3.webp"
+      ]
+    },
+    {
+      "id": "family",
+      "script_en": "Baby foxes are called cubs. They are born in spring inside a warm den. Their mother stays close and feeds them milk, while their father brings food to the den. The cubs play and wrestle together, which helps them learn the skills they will need to hunt.",
+      "script_de": "Babyfüchse werden Junge genannt. Sie werden im Frühling in einer warmen Höhle geboren. Ihre Mutter bleibt in der Nähe und füttert sie mit Milch, während ihr Vater Futter in die Höhle bringt. Die Jungen spielen und ringen miteinander, wodurch sie die Fähigkeiten erlernen, die sie zum Jagen benötigen.",
+      "script_it": "Le piccole volpi sono chiamate cuccioli. Nascono in primavera all'interno di una calda tana. La madre sta vicino e dà loro il latte, mentre il padre porta il cibo nella tana. I cuccioli giocano e lottano insieme, il che li aiuta ad apprendere le abilità di cui avranno bisogno per cacciare.",
+      "script_fr": "Les bébés renards sont appelés petits. Ils naissent au printemps dans une tanière chaude. Leur mère reste proche et leur donne du lait, tandis que leur père apporte de la nourriture à la tanière. Les oursons jouent et luttent ensemble, ce qui les aide à acquérir les compétences dont ils auront besoin pour chasser.",
+      "script_es": "Los zorros bebés se llaman cachorros. Nacen en primavera dentro de una cálida guarida. Su madre permanece cerca y les da leche, mientras su padre lleva comida a la guarida. Los cachorros juegan y luchan juntos, lo que les ayuda a aprender las habilidades que necesitarán para cazar.",
+      "script_hr": "Mladunci lisice nazivaju se mladunci. Rađaju se u proljeće u toploj jazbini. Majka im je blizu i hrani ih mlijekom, dok im otac donosi hranu u jazbinu. Mladunci se zajedno igraju i hrvaju, što im pomaže u učenju vještina koje će im trebati u lovu.",
+      "script_cs": "Mláďata lišek se nazývají mláďata. Rodí se na jaře v teplém doupěti. Jejich matka zůstává blízko a krmí je mlékem, zatímco otec nosí jídlo do doupěte. Mláďata si spolu hrají a zápasí, což jim pomáhá naučit se dovednosti, které budou potřebovat k lovu.",
+      "script_pl": "Małe lisy nazywane są młodymi. Przychodzą na świat wiosną w ciepłej jaskini. Matka pozostaje blisko i karmi je mlekiem, a ojciec przynosi jedzenie do jaskini. Młode bawią się i walczą razem, co pomaga im nabyć umiejętności potrzebne do polowania.",
+      "script_fi": "Ketunvauvoja kutsutaan pentuiksi. Ne syntyvät keväällä lämpimässä luolassa. Heidän äitinsä pysyy lähellä ja ruokkii heille maitoa, kun taas heidän isänsä tuo ruokaa luolaan. Pennut leikkivät ja painivat yhdessä, mikä auttaa heitä oppimaan taidot, joita he tarvitsevat metsästykseen.",
+      "script_sk": "Mláďatá líšok sa nazývajú mláďatá. Rodia sa na jar v teplom brlohu. Ich matka zostáva blízko a kŕmi ich mliekom, zatiaľ čo otec nosí jedlo do brlohu. Mláďatá sa spolu hrajú a zápasia, čo im pomáha naučiť sa zručnosti, ktoré budú potrebovať na lov.",
+      "script_da": "Babyræve kaldes unger. De fødes om foråret i en varm hule. Deres mor bliver tæt på og giver dem mælk, mens deres far bringer mad til hulen. Ungerne leger og kæmper sammen, hvilket hjælper dem med at lære de færdigheder, de skal bruge for at jage.",
+      "images": [
+        "family.webp",
+        "family_2.webp",
+        "family_3.webp"
+      ]
+    },
+    {
+      "id": "life_today",
+      "script_en": "Today foxes live all over the world, from wild forests to busy cities. They are most active at dawn and dusk, when they quietly search for food. People have told stories about clever foxes for thousands of years, and these beautiful animals still surprise us with how well they adapt.",
+      "script_de": "Heute leben Füchse auf der ganzen Welt, von wilden Wäldern bis hin zu geschäftigen Städten. Am aktivsten sind sie in der Morgen- und Abenddämmerung, wenn sie in aller Stille nach Nahrung suchen. Seit Tausenden von Jahren erzählen Menschen Geschichten über kluge Füchse, und diese wunderschönen Tiere überraschen uns immer noch mit ihrer Anpassungsfähigkeit.",
+      "script_it": "Oggi le volpi vivono in tutto il mondo, dalle foreste selvagge alle città trafficate. Sono più attivi all'alba e al tramonto, quando cercano silenziosamente il cibo. Per migliaia di anni le persone hanno raccontato storie di volpi intelligenti e questi bellissimi animali ci sorprendono ancora per la loro capacità di adattamento.",
+      "script_fr": "Aujourd’hui, les renards vivent partout dans le monde, des forêts sauvages aux villes animées. Ils sont plus actifs à l’aube et au crépuscule, lorsqu’ils recherchent tranquillement de la nourriture. Les gens racontent des histoires sur les renards intelligents depuis des milliers d’années, et ces magnifiques animaux nous surprennent encore par leur capacité d’adaptation.",
+      "script_es": "Hoy en día, los zorros viven en todo el mundo, desde bosques salvajes hasta ciudades bulliciosas. Son más activos al amanecer y al anochecer, cuando buscan comida en silencio. La gente ha contado historias sobre zorros inteligentes durante miles de años, y estos hermosos animales todavía nos sorprenden por lo bien que se adaptan.",
+      "script_hr": "Danas lisice žive po cijelom svijetu, od divljih šuma do užurbanih gradova. Najaktivniji su u zoru i sumrak, kada tiho traže hranu. Ljudi pričaju priče o pametnim lisicama tisućama godina, a ove prekrasne životinje još uvijek nas iznenađuju koliko se dobro prilagođavaju.",
+      "script_cs": "Dnes žijí lišky po celém světě, od divokých lesů po rušná města. Nejaktivnější jsou za svítání a za soumraku, kdy tiše hledají potravu. Lidé vyprávějí příběhy o chytrých liškách po tisíce let a tato krásná zvířata nás stále překvapují, jak dobře se přizpůsobují.",
+      "script_pl": "Dziś lisy żyją na całym świecie, od dzikich lasów po ruchliwe miasta. Największą aktywność wykazują o świcie i zmierzchu, kiedy spokojnie poszukują pożywienia. Ludzie od tysięcy lat opowiadają historie o sprytnych lisach, a te piękne zwierzęta wciąż zaskakują nas tym, jak dobrze się przystosowują.",
+      "script_fi": "Nykyään kettuja elää kaikkialla maailmassa villimetsistä kiireisiin kaupunkeihin. Ne ovat aktiivisimpia aamunkoitteessa ja hämärässä, kun he etsivät hiljaa ruokaa. Ihmiset ovat kertoneet tarinoita älykkäistä ketuista tuhansia vuosia, ja nämä kauniit eläimet yllättävät meidät edelleen niiden sopeutumiskyvyllä.",
+      "script_sk": "Dnes líšky žijú po celom svete, od divokých lesov až po rušné mestá. Najaktívnejšie sú za úsvitu a súmraku, keď si potichu hľadajú potravu. Ľudia rozprávali príbehy o šikovných líškach už tisíce rokov a tieto krásne zvieratá nás stále prekvapujú, ako dobre sa prispôsobujú.",
+      "script_da": "I dag lever ræve over hele verden, fra vilde skove til travle byer. De er mest aktive ved daggry og skumringstid, når de stille og roligt leder efter føde. Folk har fortalt historier om kloge ræve i tusinder af år, og disse smukke dyr overrasker os stadig med, hvor godt de tilpasser sig.",
+      "images": [
+        "life_today.webp",
+        "life_today_2.webp",
+        "life_today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "home",
+      "correct": "den",
+      "question_en": "Where does a fox often make its home?",
+      "question_de": "Wo ist ein Fuchs oft zu Hause?",
+      "question_it": "Dove vive spesso la volpe?",
+      "question_fr": "Où un renard habite-t-il souvent ?",
+      "question_es": "¿Dónde suele vivir el zorro?",
+      "question_hr": "Gdje se lisica često nalazi?",
+      "question_cs": "Kde má liška často domov?",
+      "question_pl": "Gdzie często zamieszkuje lis?",
+      "question_fi": "Missä kettu usein asuu?",
+      "question_sk": "Kde si často býva líška?",
+      "question_da": "Hvor gør en ræv ofte sit hjem?",
+      "options": [
+        {
+          "id": "den",
+          "label_en": "In an underground den",
+          "label_de": "In einer unterirdischen Höhle",
+          "label_it": "In una tana sotterranea",
+          "label_fr": "Dans une tanière souterraine",
+          "label_es": "En una guarida subterránea",
+          "label_hr": "U podzemnoj jazbini",
+          "label_cs": "V podzemním doupěti",
+          "label_pl": "W podziemnej jaskini",
+          "label_fi": "Maanalaisessa luolassa",
+          "label_sk": "V podzemnom brlohu",
+          "label_da": "I en underjordisk hule"
+        },
+        {
+          "id": "tree_nest",
+          "label_en": "In a nest high in a tree",
+          "label_de": "In einem Nest hoch oben in einem Baum",
+          "label_it": "In un nido in alto su un albero",
+          "label_fr": "Dans un nid haut dans un arbre",
+          "label_es": "En un nido en lo alto de un árbol",
+          "label_hr": "U gnijezdu visoko na drvetu",
+          "label_cs": "V hnízdě vysoko na stromě",
+          "label_pl": "W gnieździe wysoko na drzewie",
+          "label_fi": "Korkealla puussa olevassa pesässä",
+          "label_sk": "V hniezde vysoko na strome",
+          "label_da": "I en rede højt i et træ"
+        },
+        {
+          "id": "ocean_cave",
+          "label_en": "In a cave under the sea",
+          "label_de": "In einer Höhle unter dem Meer",
+          "label_it": "In una grotta sotto il mare",
+          "label_fr": "Dans une grotte sous la mer",
+          "label_es": "En una cueva bajo el mar",
+          "label_hr": "U špilji pod morem",
+          "label_cs": "V jeskyni pod mořem",
+          "label_pl": "W jaskini pod morzem",
+          "label_fi": "Meren alla olevassa luolassa",
+          "label_sk": "V jaskyni pod morom",
+          "label_da": "I en hule under havet"
+        }
+      ]
+    },
+    {
+      "id": "baby",
+      "correct": "cub",
+      "question_en": "What is a baby fox called?",
+      "question_de": "Wie heißt ein Babyfuchs?",
+      "question_it": "Come si chiama un cucciolo di volpe?",
+      "question_fr": "Comment s’appelle un bébé renard ?",
+      "question_es": "¿Cómo se llama un zorro bebé?",
+      "question_hr": "Kako se zove beba lisica?",
+      "question_cs": "Jak se nazývá mládě lišky?",
+      "question_pl": "Jak nazywa się mały lis?",
+      "question_fi": "Millä nimellä kettuvauvaa kutsutaan?",
+      "question_sk": "Ako sa volá mláďa líšky?",
+      "question_da": "Hvad hedder en babyræv?",
+      "options": [
+        {
+          "id": "cub",
+          "label_en": "A cub",
+          "label_de": "Ein Junges",
+          "label_it": "Un cucciolo",
+          "label_fr": "Un petit",
+          "label_es": "un cachorro",
+          "label_hr": "Mladunče",
+          "label_cs": "mládě",
+          "label_pl": "Młode",
+          "label_fi": "Pentu",
+          "label_sk": "Mláďa",
+          "label_da": "En unge"
+        },
+        {
+          "id": "kitten",
+          "label_en": "A kitten",
+          "label_de": "Ein Kätzchen",
+          "label_it": "Un gattino",
+          "label_fr": "Un chaton",
+          "label_es": "un gatito",
+          "label_hr": "Mačić",
+          "label_cs": "Kotě",
+          "label_pl": "Kociak",
+          "label_fi": "Kissanpentu",
+          "label_sk": "Mačiatko",
+          "label_da": "En killing"
+        },
+        {
+          "id": "chick",
+          "label_en": "A chick",
+          "label_de": "Ein Küken",
+          "label_it": "Un pulcino",
+          "label_fr": "Un poussin",
+          "label_es": "un pollito",
+          "label_hr": "pilić",
+          "label_cs": "Kuřátko",
+          "label_pl": "Laska",
+          "label_fi": "Tyttö",
+          "label_sk": "kuriatko",
+          "label_da": "En kylling"
+        }
+      ]
+    },
+    {
+      "id": "active",
+      "correct": "dawn_dusk",
+      "question_en": "When are foxes most active?",
+      "question_de": "Wann sind Füchse am aktivsten?",
+      "question_it": "Quando sono più attive le volpi?",
+      "question_fr": "Quand les renards sont-ils les plus actifs ?",
+      "question_es": "¿Cuándo son más activos los zorros?",
+      "question_hr": "Kada su lisice najaktivnije?",
+      "question_cs": "Kdy jsou lišky nejaktivnější?",
+      "question_pl": "Kiedy lisy są najbardziej aktywne?",
+      "question_fi": "Milloin ketut ovat aktiivisimpia?",
+      "question_sk": "Kedy sú líšky najaktívnejšie?",
+      "question_da": "Hvornår er ræve mest aktive?",
+      "options": [
+        {
+          "id": "dawn_dusk",
+          "label_en": "At dawn and dusk",
+          "label_de": "Im Morgengrauen und in der Abenddämmerung",
+          "label_it": "All'alba e al tramonto",
+          "label_fr": "A l'aube et au crépuscule",
+          "label_es": "Al amanecer y al anochecer",
+          "label_hr": "U zoru i sumrak",
+          "label_cs": "Za úsvitu a soumraku",
+          "label_pl": "O świcie i zmierzchu",
+          "label_fi": "Aamunkoitteessa ja hämärässä",
+          "label_sk": "Za úsvitu a súmraku",
+          "label_da": "Ved daggry og skumringstid"
+        },
+        {
+          "id": "noon",
+          "label_en": "At high noon",
+          "label_de": "Zur Mittagszeit",
+          "label_it": "A mezzogiorno",
+          "label_fr": "En plein midi",
+          "label_es": "al mediodía",
+          "label_hr": "U visoko podne",
+          "label_cs": "V pravé poledne",
+          "label_pl": "W samo południe",
+          "label_fi": "Keskipäivällä",
+          "label_sk": "Na pravé poludnie",
+          "label_da": "Ved høj middag"
+        },
+        {
+          "id": "winter",
+          "label_en": "Only in deep winter",
+          "label_de": "Nur im tiefen Winter",
+          "label_it": "Solo in pieno inverno",
+          "label_fr": "Seulement en hiver profond",
+          "label_es": "Sólo en pleno invierno",
+          "label_hr": "Samo u dubokoj zimi",
+          "label_cs": "Jen v hluboké zimě",
+          "label_pl": "Tylko w głęboką zimę",
+          "label_fi": "Vain syvällä talvella",
+          "label_sk": "Iba v hlbokej zime",
+          "label_da": "Kun i dyb vinter"
+        }
+      ]
+    }
+  ]
+}

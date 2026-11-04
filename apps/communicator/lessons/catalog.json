@@ -127,6 +127,27 @@
       "title_da": "Elefanter"
     },
     {
+      "id": "fox",
+      "category_id": "animals",
+      "symbol_id": "fox",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/fox/fox_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/fox/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2900296,
+      "version": 1,
+      "title_en": "Foxes",
+      "title_de": "Füchse",
+      "title_it": "Volpi",
+      "title_fr": "Renards",
+      "title_es": "zorros",
+      "title_hr": "Lisice",
+      "title_cs": "Lišky",
+      "title_pl": "Lisy",
+      "title_fi": "Ketut",
+      "title_sk": "Líšky",
+      "title_da": "Ræve"
+    },
+    {
       "id": "horse",
       "category_id": "animals",
       "symbol_id": "horse",
