@@ -190,6 +190,27 @@
       "title_da": "Løver"
     },
     {
+      "id": "penguin",
+      "category_id": "animals",
+      "symbol_id": "penguin",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/penguin/penguin_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/penguin/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 1524314,
+      "version": 1,
+      "title_en": "Penguins",
+      "title_de": "Pinguine",
+      "title_it": "Pinguini",
+      "title_fr": "Pingouins",
+      "title_es": "pingüinos",
+      "title_hr": "Pingvini",
+      "title_cs": "Tučňáci",
+      "title_pl": "Pingwiny",
+      "title_fi": "Pingviinit",
+      "title_sk": "Tučniaky",
+      "title_da": "Pingviner"
+    },
+    {
       "id": "apple",
       "category_id": "food",
       "symbol_id": "apple",

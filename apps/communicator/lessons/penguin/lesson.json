@@ -1,0 +1,293 @@
+{
+  "id": "penguin",
+  "category_id": "animals",
+  "symbol_id": "penguin",
+  "thumbnail": "penguin_thumb.webp",
+  "title_en": "Penguins",
+  "title_de": "Pinguine",
+  "title_it": "Pinguini",
+  "title_fr": "Pingouins",
+  "title_es": "pingüinos",
+  "title_hr": "Pingvini",
+  "title_cs": "Tučňáci",
+  "title_pl": "Pingwiny",
+  "title_fi": "Pingviinit",
+  "title_sk": "Tučniaky",
+  "title_da": "Pingviner",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about penguins. Penguins are birds, but they cannot fly in the air. Instead, they are wonderful swimmers. With their black and white feathers and funny waddling walk, penguins are some of the most loved animals on Earth.",
+      "script_de": "Heute lernen wir etwas über Pinguine. Pinguine sind Vögel, aber sie können nicht in der Luft fliegen. Stattdessen sind sie wunderbare Schwimmer. Mit ihren schwarz-weißen Federn und ihrem lustigen Watschelgang gehören Pinguine zu den beliebtesten Tieren der Erde.",
+      "script_it": "Oggi impareremo a conoscere i pinguini. I pinguini sono uccelli, ma non possono volare in aria. Invece sono degli splendidi nuotatori. Con le loro piume bianche e nere e la loro divertente camminata dondolante, i pinguini sono alcuni degli animali più amati sulla Terra.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur les pingouins. Les pingouins sont des oiseaux, mais ils ne peuvent pas voler dans les airs. Au contraire, ce sont d’excellents nageurs. Avec leurs plumes noires et blanches et leur drôle de démarche en se dandinant, les manchots font partie des animaux les plus aimés sur Terre.",
+      "script_es": "Hoy vamos a aprender sobre los pingüinos. Los pingüinos son pájaros, pero no pueden volar por el aire. En cambio, son nadadores maravillosos. Con sus plumas blancas y negras y su divertido andar como pato, los pingüinos son algunos de los animales más queridos de la Tierra.",
+      "script_hr": "Danas ćemo učiti o pingvinima. Pingvini su ptice, ali ne mogu letjeti u zraku. Umjesto toga, oni su izvrsni plivači. Sa svojim crno-bijelim perjem i smiješnim gegajućim hodom, pingvini su neke od najomiljenijih životinja na Zemlji.",
+      "script_cs": "Dnes se budeme učit o tučňákech. Tučňáci jsou ptáci, ale nemohou létat ve vzduchu. Místo toho jsou to skvělí plavci. Se svým černobílým peřím a zábavným kolébáním jsou tučňáci jedny z nejoblíbenějších zvířat na Zemi.",
+      "script_pl": "Dzisiaj będziemy uczyć się o pingwinach. Pingwiny to ptaki, ale nie potrafią latać w powietrzu. Zamiast tego są wspaniałymi pływakami. Dzięki czarno-białym piórom i zabawnemu kroczeniu pingwiny są jednymi z najbardziej lubianych zwierząt na Ziemi.",
+      "script_fi": "Tänään opimme pingviineistä. Pingviinit ovat lintuja, mutta ne eivät voi lentää ilmassa. Sen sijaan he ovat upeita uimareita. Mustavalkoisten höyhenten ja hauskan kahluukävelynsä ansiosta pingviinit ovat eräitä maan rakastetuimmista eläimistä.",
+      "script_sk": "Dnes sa budeme učiť o tučniakoch. Tučniaky sú vtáky, ale nemôžu lietať vo vzduchu. Namiesto toho sú to skvelí plavci. Tučniaky sú vďaka svojim čiernobielym perím a vtipným kolísaním sa jednými z najobľúbenejších zvierat na Zemi.",
+      "script_da": "I dag skal vi lære om pingviner. Pingviner er fugle, men de kan ikke flyve i luften. I stedet er de vidunderlige svømmere. Med deres sorte og hvide fjer og sjove vandretur er pingviner nogle af de mest elskede dyr på jorden.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "habitat",
+      "script_en": "Penguins live in the southern half of the world, especially in Antarctica and along the coasts of South America, Africa, Australia, and New Zealand. They gather in large groups called colonies. The ice and cold water are their home, and they are perfectly suited to life there.",
+      "script_de": "Pinguine leben in der südlichen Hälfte der Welt, insbesondere in der Antarktis und an den Küsten Südamerikas, Afrikas, Australiens und Neuseelands. Sie versammeln sich in großen Gruppen, sogenannten Kolonien. Das Eis und das kalte Wasser sind ihr Zuhause und sie sind perfekt für das Leben dort geeignet.",
+      "script_it": "I pinguini vivono nella metà meridionale del mondo, soprattutto in Antartide e lungo le coste del Sud America, Africa, Australia e Nuova Zelanda. Si riuniscono in grandi gruppi chiamati colonie. Il ghiaccio e l'acqua fredda sono la loro casa e sono perfettamente adatti alla vita lì.",
+      "script_fr": "Les manchots vivent dans la moitié sud du monde, notamment en Antarctique et le long des côtes d’Amérique du Sud, d’Afrique, d’Australie et de Nouvelle-Zélande. Ils se rassemblent en grands groupes appelés colonies. La glace et l’eau froide sont leur maison et ils sont parfaitement adaptés à la vie là-bas.",
+      "script_es": "Los pingüinos viven en la mitad sur del mundo, especialmente en la Antártida y a lo largo de las costas de América del Sur, África, Australia y Nueva Zelanda. Se reúnen en grandes grupos llamados colonias. El hielo y el agua fría son su hogar y se adaptan perfectamente a la vida allí.",
+      "script_hr": "Pingvini žive u južnoj polovici svijeta, osobito na Antarktici i duž obala Južne Amerike, Afrike, Australije i Novog Zelanda. Okupljaju se u velike skupine koje se nazivaju kolonije. Led i hladna voda njihov su dom i savršeno im odgovara život tamo.",
+      "script_cs": "Tučňáci žijí v jižní polovině světa, zejména v Antarktidě a podél pobřeží Jižní Ameriky, Afriky, Austrálie a Nového Zélandu. Shromažďují se ve velkých skupinách nazývaných kolonie. Led a studená voda jsou jejich domovem a život tam se jim dokonale hodí.",
+      "script_pl": "Pingwiny żyją w południowej części świata, szczególnie na Antarktydzie oraz wzdłuż wybrzeży Ameryki Południowej, Afryki, Australii i Nowej Zelandii. Gromadzą się w dużych grupach zwanych koloniami. Lód i zimna woda to ich dom i doskonale nadają się do życia.",
+      "script_fi": "Pingviinit elävät maailman eteläosassa, erityisesti Etelämantereella ja Etelä-Amerikan, Afrikan, Australian ja Uuden-Seelannin rannikoilla. He kokoontuvat suuriin ryhmiin, joita kutsutaan siirtokunnissa. Jää ja kylmä vesi ovat heidän kotinsa, ja ne sopivat täydellisesti elämään siellä.",
+      "script_sk": "Tučniaky žijú v južnej polovici sveta, najmä v Antarktíde a pozdĺž pobrežia Južnej Ameriky, Afriky, Austrálie a Nového Zélandu. Zhromažďujú sa vo veľkých skupinách nazývaných kolónie. Ľadová a studená voda sú ich domovom a život tam im vyhovuje.",
+      "script_da": "Pingviner lever i den sydlige halvdel af verden, især i Antarktis og langs kysterne i Sydamerika, Afrika, Australien og New Zealand. De samles i store grupper kaldet kolonier. Isen og det kolde vand er deres hjem, og de passer perfekt til livet der.",
+      "images": [
+        "habitat.webp",
+        "habitat_2.webp",
+        "habitat_3.webp"
+      ]
+    },
+    {
+      "id": "body",
+      "script_en": "A penguin's body is made for swimming. Its wings have become stiff flippers that push it through the water like oars. Its feathers are small and waterproof, and a thick layer of fat keeps it warm in freezing seas. The black back and white belly help it hide from predators above and below.",
+      "script_de": "Der Körper eines Pinguins ist zum Schwimmen geschaffen. Seine Flügel sind zu steifen Flossen geworden, die ihn wie Ruder durch das Wasser schieben. Seine Federn sind klein und wasserdicht, und eine dicke Fettschicht hält ihn in eiskalten Meeren warm. Der schwarze Rücken und der weiße Bauch helfen ihm, sich vor Raubtieren von oben und unten zu verstecken.",
+      "script_it": "Il corpo del pinguino è fatto per nuotare. Le sue ali sono diventate pinne rigide che lo spingono nell'acqua come remi. Le sue piume sono piccole e impermeabili e uno spesso strato di grasso lo mantiene caldo nei mari gelidi. Il dorso nero e il ventre bianco lo aiutano a nascondersi dai predatori sopra e sotto.",
+      "script_fr": "Le corps d'un pingouin est fait pour nager. Ses ailes sont devenues des nageoires rigides qui le poussent dans l’eau comme des rames. Ses plumes sont petites et imperméables, et une épaisse couche de graisse le garde au chaud dans les mers glaciales. Le dos noir et le ventre blanc l'aident à se cacher des prédateurs au-dessus et en dessous.",
+      "script_es": "El cuerpo de un pingüino está hecho para nadar. Sus alas se han convertido en aletas rígidas que lo empujan a través del agua como si fueran remos. Sus plumas son pequeñas e impermeables, y una gruesa capa de grasa lo mantiene caliente en mares helados. El lomo negro y el vientre blanco le ayudan a esconderse de los depredadores de arriba y de abajo.",
+      "script_hr": "Tijelo pingvina stvoreno je za plivanje. Krila su mu postala krute peraje koje ga guraju kroz vodu poput vesla. Perje mu je maleno i vodootporno, a debeli sloj masti grije ga u ledenim morima. Crna leđa i bijeli trbuh pomažu mu da se sakrije od grabežljivaca iznad i ispod.",
+      "script_cs": "Tělo tučňáka je stvořené k plavání. Z jeho křídel se staly tuhé ploutve, které ho tlačí vodou jako vesla. Jeho peří je malé a nepromokavé a silná vrstva tuku ho udržuje v teple v mrazivých mořích. Černá záda a bílé břicho mu pomáhají schovat se před predátory nahoře i dole.",
+      "script_pl": "Ciało pingwina jest stworzone do pływania. Jego skrzydła zmieniły się w sztywne płetwy, które popychają go przez wodę niczym wiosła. Jego pióra są małe i wodoodporne, a gruba warstwa tłuszczu utrzymuje ciepło w zamarzniętym morzu. Czarny grzbiet i biały brzuch pomagają mu ukryć się przed drapieżnikami z góry i z dołu.",
+      "script_fi": "Pingviinin ruumis on tehty uimaan. Sen siivet ovat muuttuneet jäykiksi räpyläiksi, jotka työntävät sen veden läpi kuin airot. Sen höyhenet ovat pieniä ja vedenpitäviä, ja paksu rasvakerros pitää sen lämpimänä jäätyvässä meressä. Musta selkä ja valkoinen vatsa auttavat sitä piiloutumaan petoeläimiltä ylä- ja alapuolelta.",
+      "script_sk": "Telo tučniaka je stvorené na plávanie. Jeho krídla sa stali tuhými plutvami, ktoré ho tlačia cez vodu ako veslá. Jeho perie je malé a nepremokavé a hrubá vrstva tuku ho udržuje v teple v mrazivých moriach. Čierny chrbát a biele brucho mu pomáhajú skrývať sa pred predátormi zhora a zdola.",
+      "script_da": "En pingvins krop er lavet til svømning. Dens vinger er blevet til stive svømmefødder, der skubber den gennem vandet som årer. Dens fjer er små og vandtætte, og et tykt lag fedt holder den varm i frysende hav. Den sorte ryg og hvide mave hjælper den med at skjule sig for rovdyr over og under.",
+      "images": [
+        "body.webp",
+        "body_2.webp",
+        "body_3.webp"
+      ]
+    },
+    {
+      "id": "family",
+      "script_en": "Penguin parents take turns caring for their egg. One parent keeps the egg warm on its feet while the other swims out to catch fish. When the chick hatches, it is fluffy and grey. It stays close to its parents for warmth and food until it is ready to swim on its own.",
+      "script_de": "Pinguineltern kümmern sich abwechselnd um ihr Ei. Ein Elternteil hält das Ei auf seinen Füßen warm, während der andere hinausschwimmt, um Fische zu fangen. Wenn das Küken schlüpft, ist es flauschig und grau. Es bleibt in der Nähe seiner Eltern, um Wärme und Nahrung zu erhalten, bis es bereit ist, selbstständig zu schwimmen.",
+      "script_it": "I genitori dei pinguini si prendono cura a turno del loro uovo. Un genitore tiene l'uovo caldo sulle zampe mentre l'altro nuota fuori per catturare i pesci. Quando il pulcino si schiude, è soffice e grigio. Resta vicino ai suoi genitori per ricevere calore e cibo finché non è pronto a nuotare da solo.",
+      "script_fr": "Les parents manchots s'occupent à tour de rôle de leur œuf. Un parent garde l’œuf au chaud sur ses pattes pendant que l’autre nage pour attraper du poisson. Lorsque le poussin éclot, il est duveteux et gris. Il reste près de ses parents pour se réchauffer et se nourrir jusqu'à ce qu'il soit prêt à nager seul.",
+      "script_es": "Los padres de pingüinos se turnan para cuidar sus huevos. Uno de los padres mantiene el huevo caliente sobre sus pies mientras el otro nada para pescar. Cuando el polluelo nace, es esponjoso y gris. Permanece cerca de sus padres en busca de calor y alimento hasta que está listo para nadar por sí solo.",
+      "script_hr": "Roditelji pingvina naizmjence brinu o svom jajetu. Jedan roditelj grije jaje na nogama, dok drugi pliva da lovi ribu. Kad se pile izleže, pahuljasto je i sivo. Ostaje blizu svojih roditelja radi topline i hrane sve dok ne bude spremno za samostalno plivanje.",
+      "script_cs": "Rodiče tučňáků se o své vejce střídají. Jeden rodič udržuje vejce v teple na nohou, zatímco druhý plave ven chytat ryby. Když se mládě vylíhne, je nadýchané a šedé. Zůstává blízko rodičů kvůli teplu a jídlu, dokud není připraveno plavat samo.",
+      "script_pl": "Rodzice pingwinów na zmianę opiekują się swoim jajkiem. Jeden z rodziców utrzymuje jajko w cieple na nogach, podczas gdy drugi wypływa, aby łowić ryby. Po wykluciu się pisklę jest puszyste i szare. Pozostaje blisko rodziców, aby zapewnić sobie ciepło i pożywienie, dopóki nie będzie gotowy do samodzielnego pływania.",
+      "script_fi": "Pingviinien vanhemmat huolehtivat vuorotellen munastaan. Toinen vanhempi pitää munan lämpimänä jaloillaan, kun taas toinen ui ulos kalastaakseen. Kun poikanen kuoriutuu, se on pörröinen ja harmaa. Se pysyy lähellä vanhempiaan saadakseen lämpöä ja ruokaa, kunnes se on valmis uimaan yksin.",
+      "script_sk": "Rodičia tučniakov sa striedajú v starostlivosti o svoje vajíčko. Jeden rodič udržuje vajíčko v teple na nohách, zatiaľ čo druhý pláva von, aby chytil ryby. Keď sa mláďa vyliahne, je nadýchané a sivé. Zostáva blízko svojich rodičov kvôli teplu a potrave, kým nie je pripravené samostatne plávať.",
+      "script_da": "Pingvinforældre skiftes til at passe deres æg. Den ene forælder holder ægget varmt på fødderne, mens den anden svømmer ud for at fange fisk. Når kyllingen klækkes, er den luftig og grå. Den holder sig tæt på sine forældre for at få varme og mad, indtil den er klar til at svømme på egen hånd.",
+      "images": [
+        "family.webp",
+        "family_2.webp",
+        "family_3.webp"
+      ]
+    },
+    {
+      "id": "life_today",
+      "script_en": "Today penguins face changing seas and melting ice, and many people work to protect them. They are famous in films, books, and stories because of their cheerful walk and amazing swimming. Watching a penguin glide through the water is a wonderful reminder of how surprising nature can be.",
+      "script_de": "Heutzutage sind Pinguine mit wechselnden Meeresbedingungen und schmelzendem Eis konfrontiert, und viele Menschen setzen sich für ihren Schutz ein. Sie sind in Filmen, Büchern und Geschichten wegen ihres fröhlichen Gangs und ihrer erstaunlichen Schwimmfähigkeiten berühmt. Einen Pinguin beim Gleiten durch das Wasser zu beobachten, ist eine wunderbare Erinnerung daran, wie überraschend die Natur sein kann.",
+      "script_it": "Oggi i pinguini affrontano i cambiamenti dei mari e lo scioglimento dei ghiacci e molte persone lavorano per proteggerli. Sono famosi in film, libri e storie per la loro camminata allegra e il nuoto straordinario. Guardare un pinguino scivolare nell'acqua è un meraviglioso promemoria di quanto possa essere sorprendente la natura.",
+      "script_fr": "Aujourd’hui, les manchots sont confrontés aux changements des mers et à la fonte des glaces, et de nombreuses personnes s’efforcent de les protéger. Ils sont célèbres dans les films, les livres et les histoires en raison de leur démarche joyeuse et de leur nage incroyable. Regarder un pingouin glisser dans l’eau est un merveilleux rappel de la nature surprenante.",
+      "script_es": "Hoy en día, los pingüinos enfrentan mares cambiantes y hielo que se derrite, y muchas personas trabajan para protegerlos. Son famosos en películas, libros e historias por su alegre caminar y su increíble natación. Ver a un pingüino deslizarse por el agua es un maravilloso recordatorio de lo sorprendente que puede ser la naturaleza.",
+      "script_hr": "Danas se pingvini suočavaju s promjenom mora i topljenjem leda, a mnogi ljudi rade na njihovoj zaštiti. Poznati su u filmovima, knjigama i pričama zbog svog veselog hoda i nevjerojatnog plivanja. Gledanje pingvina kako klizi kroz vodu prekrasan je podsjetnik koliko priroda može biti iznenađujuća.",
+      "script_cs": "Dnes tučňáci čelí měnícím se mořím a tajícímu ledu a mnoho lidí pracuje na jejich ochraně. Jsou slavní ve filmech, knihách a příbězích díky své veselé procházce a úžasnému plavání. Pozorování tučňáka klouzajícího po vodě je nádhernou připomínkou toho, jak překvapivá dokáže příroda být.",
+      "script_pl": "Obecnie pingwiny muszą mierzyć się ze zmieniającymi się morzami i topniejącym lodem, a wiele osób pracuje nad ich ochroną. Są sławni w filmach, książkach i opowiadaniach ze względu na wesoły spacer i niesamowite pływanie. Obserwowanie pingwina ślizgającego się po wodzie jest wspaniałym przypomnieniem tego, jak zaskakująca może być przyroda.",
+      "script_fi": "Nykyään pingviinit kohtaavat muuttuvan meren ja sulavan jään, ja monet ihmiset työskentelevät suojellakseen niitä. He ovat kuuluisia elokuvissa, kirjoissa ja tarinoissa iloisen kävelynsä ja upean uintinsa ansiosta. Pingviinin liukumisen katsominen vedessä on upea muistutus siitä, kuinka yllättävää luonto voi olla.",
+      "script_sk": "Dnes tučniaky čelia meniacim sa moriam a topiacemu sa ľadu a veľa ľudí sa ich snaží chrániť. Sú slávni vo filmoch, knihách a príbehoch vďaka svojej veselej prechádzke a úžasnému plávaniu. Sledovanie tučniaka kĺzajúceho sa po vode je nádhernou pripomienkou toho, aká prekvapivá vie byť príroda.",
+      "script_da": "I dag står pingviner over for skiftende hav og smeltende is, og mange mennesker arbejder for at beskytte dem. De er berømte i film, bøger og historier på grund af deres muntre gåtur og fantastiske svømning. At se en pingvin glide gennem vandet er en vidunderlig påmindelse om, hvor overraskende naturen kan være.",
+      "images": [
+        "life_today.webp",
+        "life_today_2.webp",
+        "life_today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "bird",
+      "correct": "bird",
+      "question_en": "What kind of animal is a penguin?",
+      "question_de": "Was für ein Tier ist ein Pinguin?",
+      "question_it": "Che tipo di animale è un pinguino?",
+      "question_fr": "Quel genre d'animal est un pingouin ?",
+      "question_es": "¿Qué tipo de animal es un pingüino?",
+      "question_hr": "Kakva je životinja pingvin?",
+      "question_cs": "Jaké zvíře je tučňák?",
+      "question_pl": "Jakim zwierzęciem jest pingwin?",
+      "question_fi": "Millainen eläin on pingviini?",
+      "question_sk": "Aké zviera je tučniak?",
+      "question_da": "Hvilken slags dyr er en pingvin?",
+      "options": [
+        {
+          "id": "bird",
+          "label_en": "A bird that swims",
+          "label_de": "Ein Vogel, der schwimmt",
+          "label_it": "Un uccello che nuota",
+          "label_fr": "Un oiseau qui nage",
+          "label_es": "Un pájaro que nada",
+          "label_hr": "Ptica koja pliva",
+          "label_cs": "Pták, který plave",
+          "label_pl": "Ptak, który pływa",
+          "label_fi": "Lintu joka ui",
+          "label_sk": "Vták, ktorý pláva",
+          "label_da": "En fugl der svømmer"
+        },
+        {
+          "id": "fish",
+          "label_en": "A kind of fish",
+          "label_de": "Eine Art Fisch",
+          "label_it": "Una specie di pesce",
+          "label_fr": "Une sorte de poisson",
+          "label_es": "una especie de pez",
+          "label_hr": "Vrsta ribe",
+          "label_cs": "Druh ryby",
+          "label_pl": "Rodzaj ryby",
+          "label_fi": "Eräänlainen kala",
+          "label_sk": "Druh ryby",
+          "label_da": "En slags fisk"
+        },
+        {
+          "id": "mammal",
+          "label_en": "A furry mammal",
+          "label_de": "Ein pelziges Säugetier",
+          "label_it": "Un mammifero peloso",
+          "label_fr": "Un mammifère à fourrure",
+          "label_es": "Un mamífero peludo",
+          "label_hr": "Dlakavi sisavac",
+          "label_cs": "Chlupatý savec",
+          "label_pl": "Futrzasty ssak",
+          "label_fi": "Karvainen nisäkäs",
+          "label_sk": "Chlpatý cicavec",
+          "label_da": "Et lodnet pattedyr"
+        }
+      ]
+    },
+    {
+      "id": "home",
+      "correct": "south",
+      "question_en": "Where do penguins mostly live?",
+      "question_de": "Wo leben Pinguine hauptsächlich?",
+      "question_it": "Dove vivono principalmente i pinguini?",
+      "question_fr": "Où vivent principalement les manchots ?",
+      "question_es": "¿Dónde viven principalmente los pingüinos?",
+      "question_hr": "Gdje uglavnom žive pingvini?",
+      "question_cs": "Kde většinou žijí tučňáci?",
+      "question_pl": "Gdzie najczęściej żyją pingwiny?",
+      "question_fi": "Missä pingviinit enimmäkseen elävät?",
+      "question_sk": "Kde väčšinou žijú tučniaky?",
+      "question_da": "Hvor bor pingviner mest?",
+      "options": [
+        {
+          "id": "south",
+          "label_en": "In the southern hemisphere",
+          "label_de": "Auf der Südhalbkugel",
+          "label_it": "Nell'emisfero meridionale",
+          "label_fr": "Dans l'hémisphère sud",
+          "label_es": "En el hemisferio sur",
+          "label_hr": "Na južnoj hemisferi",
+          "label_cs": "Na jižní polokouli",
+          "label_pl": "Na półkuli południowej",
+          "label_fi": "Eteläisellä pallonpuoliskolla",
+          "label_sk": "Na južnej pologuli",
+          "label_da": "På den sydlige halvkugle"
+        },
+        {
+          "id": "desert",
+          "label_en": "In hot deserts",
+          "label_de": "In heißen Wüsten",
+          "label_it": "Nei deserti caldi",
+          "label_fr": "Dans les déserts chauds",
+          "label_es": "En desiertos calientes",
+          "label_hr": "U vrućim pustinjama",
+          "label_cs": "V horkých pouštích",
+          "label_pl": "Na gorących pustyniach",
+          "label_fi": "Kuumissa aavikoissa",
+          "label_sk": "V horúcich púšťach",
+          "label_da": "I varme ørkener"
+        },
+        {
+          "id": "north",
+          "label_en": "At the North Pole",
+          "label_de": "Am Nordpol",
+          "label_it": "Al Polo Nord",
+          "label_fr": "Au pôle Nord",
+          "label_es": "En el polo norte",
+          "label_hr": "Na sjevernom polu",
+          "label_cs": "Na severním pólu",
+          "label_pl": "Na biegunie północnym",
+          "label_fi": "Pohjoisnavalla",
+          "label_sk": "Na severnom póle",
+          "label_da": "På Nordpolen"
+        }
+      ]
+    },
+    {
+      "id": "baby",
+      "correct": "chick",
+      "question_en": "What is a baby penguin called?",
+      "question_de": "Wie heißt ein Pinguinbaby?",
+      "question_it": "Come si chiama un cucciolo di pinguino?",
+      "question_fr": "Comment s’appelle un bébé pingouin ?",
+      "question_es": "¿Cómo se llama un pingüino bebé?",
+      "question_hr": "Kako se zove beba pingvina?",
+      "question_cs": "Jak se nazývá mládě tučňáka?",
+      "question_pl": "Jak nazywa się mały pingwin?",
+      "question_fi": "Mikä on pingviinivauvan nimi?",
+      "question_sk": "Ako sa volá mláďa tučniaka?",
+      "question_da": "Hvad hedder en babypingvin?",
+      "options": [
+        {
+          "id": "chick",
+          "label_en": "A chick",
+          "label_de": "Ein Küken",
+          "label_it": "Un pulcino",
+          "label_fr": "Un poussin",
+          "label_es": "un pollito",
+          "label_hr": "pilić",
+          "label_cs": "Kuřátko",
+          "label_pl": "Laska",
+          "label_fi": "Tyttö",
+          "label_sk": "kuriatko",
+          "label_da": "En kylling"
+        },
+        {
+          "id": "pup",
+          "label_en": "A pup",
+          "label_de": "Ein Welpe",
+          "label_it": "Un cucciolo",
+          "label_fr": "Un chiot",
+          "label_es": "un cachorro",
+          "label_hr": "štene",
+          "label_cs": "štěně",
+          "label_pl": "Szczeniak",
+          "label_fi": "Pentu",
+          "label_sk": "Šteniatko",
+          "label_da": "En hvalp"
+        },
+        {
+          "id": "foal",
+          "label_en": "A foal",
+          "label_de": "Ein Fohlen",
+          "label_it": "Un puledro",
+          "label_fr": "Un poulain",
+          "label_es": "un potro",
+          "label_hr": "Ždrijebe",
+          "label_cs": "Hříbě",
+          "label_pl": "Źrebię",
+          "label_fi": "Varsa",
+          "label_sk": "Žriebätko",
+          "label_da": "Et føl"
+        }
+      ]
+    }
+  ]
+}
