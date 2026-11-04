@@ -1,0 +1,293 @@
+{
+  "id": "cow",
+  "category_id": "animals",
+  "symbol_id": "cow",
+  "thumbnail": "cow_thumb.webp",
+  "title_en": "Cows",
+  "title_de": "Kühe",
+  "title_it": "Le mucche",
+  "title_fr": "Les vaches",
+  "title_es": "Las vacas",
+  "title_hr": "Krave",
+  "title_cs": "Krávy",
+  "title_pl": "Krowy",
+  "title_fi": "Lehmät",
+  "title_sk": "Kravy",
+  "title_da": "Køer",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about cows. Cows are large, gentle farm animals that live with people in almost every part of the world. They are calm and friendly, and they have been important helpers on farms for a very long time.",
+      "script_de": "Heute lernen wir etwas über Kühe. Kühe sind große, sanfte Bauernhoftiere, die fast überall auf der Welt mit den Menschen leben. Sie sind ruhig und freundlich und schon seit sehr langer Zeit wichtige Helfer auf dem Bauernhof.",
+      "script_it": "Oggi impareremo qualcosa sulle mucche. Le mucche sono grandi e dolci animali da fattoria che vivono con le persone in quasi tutte le parti del mondo. Sono calme e amichevoli e da tantissimo tempo sono importanti aiutanti nelle fattorie.",
+      "script_fr": "Aujourd’hui, nous allons apprendre à connaître les vaches. Les vaches sont de grands animaux de ferme très doux qui vivent avec les humains presque partout dans le monde. Elles sont calmes et amicales, et elles aident les fermiers depuis très longtemps.",
+      "script_es": "Hoy vamos a aprender sobre las vacas. Las vacas son animales de granja grandes y muy dulces que viven con las personas en casi todas las partes del mundo. Son tranquilas y amistosas, y han sido importantes ayudantes en las granjas durante mucho tiempo.",
+      "script_hr": "Danas ćemo učiti o kravama. Krave su velike i blage životinje s farme koje žive uz ljude u gotovo svakom dijelu svijeta. Mirne su i prijateljske te su već jako dugo važne pomoćnice na seoskim gospodarstvima.",
+      "script_cs": "Dnes se budeme učit o krávách. Krávy jsou velká a mírná hospodářská zvířata, která žijí s lidmi téměř ve všech částech světa. Jsou klidné a přátelské a už velmi dlouho jsou důležitými pomocníky na statcích.",
+      "script_pl": "Dzisiaj poznamy krowy. Krowy to duże i łagodne zwierzęta gospodarskie, które żyją z ludźmi niemal w każdym zakątku świata. Są spokojne i przyjazne, a od bardzo dawna są ważnymi pomocnikami w gospodarstwach.",
+      "script_fi": "Tänään opimme lehmistä. Lehmät ovat suuria ja lempeitä maatilan eläimiä, jotka elävät ihmisten kanssa lähes joka puolella maailmaa. Ne ovat rauhallisia ja ystävällisiä ja ovat olleet maatiloilla tärkeitä apulaisia jo hyvin pitkään.",
+      "script_sk": "Dnes sa budeme učiť o kravách. Kravy sú veľké a mierne hospodárske zvieratá, ktoré žijú s ľuďmi takmer v každej časti sveta. Sú pokojné a priateľské a už veľmi dlho sú dôležitými pomocníkmi na farmách.",
+      "script_da": "I dag skal vi lære om køer. Køer er store og blide husdyr, der lever sammen med mennesker næsten alle steder i verden. De er rolige og venlige, og de har været vigtige hjælpere på gårdene i meget lang tid.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "origin",
+      "script_en": "Long ago, all cows were wild animals called aurochs. The aurochs was big and strong and lived in the forests and meadows of Europe, Asia, and North Africa. About ten thousand years ago, people in the Middle East began to tame these wild cattle, and that is how the cows we know today came to be.",
+      "script_de": "Vor langer Zeit waren alle Kühe wilde Tiere, die man Auerochsen nannte. Der Auerochse war groß und stark und lebte in den Wäldern und auf den Wiesen Europas, Asiens und Nordafrikas. Vor etwa zehntausend Jahren begannen die Menschen im Nahen Osten, diese wilden Rinder zu zähmen, und so entstanden die Kühe, die wir heute kennen.",
+      "script_it": "Tanto tempo fa, tutte le mucche erano animali selvatici chiamati uri. L’uro era grande e forte e viveva nelle foreste e nei prati d’Europa, Asia e Nord Africa. Circa diecimila anni fa, le persone del Vicino Oriente cominciarono ad addomesticare questi bovini selvatici, e fu così che nacquero le mucche che conosciamo oggi.",
+      "script_fr": "Il y a très longtemps, toutes les vaches étaient des animaux sauvages appelés aurochs. L’aurochs était grand et fort et vivait dans les forêts et les prairies d’Europe, d’Asie et d’Afrique du Nord. Il y a environ dix mille ans, les habitants du Proche-Orient ont commencé à apprivoiser ces bovins sauvages, et c’est ainsi que sont nées les vaches que nous connaissons aujourd’hui.",
+      "script_es": "Hace mucho tiempo, todas las vacas eran animales salvajes llamados uros. El uro era grande y fuerte y vivía en los bosques y praderas de Europa, Asia y el norte de África. Hace unos diez mil años, las personas del Oriente Próximo empezaron a domesticar a estos bovinos salvajes, y así nacieron las vacas que conocemos hoy.",
+      "script_hr": "Davno su sve krave bile divlje životinje koje se zovu prabikovi ili turovi. Tur je bio velik i snažan te je živio u šumama i livadama Europe, Azije i sjeverne Afrike. Prije otprilike deset tisuća godina ljudi na Bliskom istoku počeli su pripitomljavati ta divlja goveda, i tako su nastale krave kakve danas poznajemo.",
+      "script_cs": "Dávno byly všechny krávy divoká zvířata zvaná pratuři. Pratur byl velký a silný a žil v lesích a na loukách Evropy, Asie a severní Afriky. Asi před deseti tisíci lety začali lidé na Blízkém východě krotit tento divoký skot, a tak vznikly krávy, jaké známe dnes.",
+      "script_pl": "Dawno temu wszystkie krowy były dzikimi zwierzętami zwanymi turami. Tur był duży i silny i żył w lasach oraz na łąkach Europy, Azji i północnej Afryki. Około dziesięciu tysięcy lat temu ludzie na Bliskim Wschodzie zaczęli oswajać to dzikie bydło, i tak powstały krowy, które znamy dzisiaj.",
+      "script_fi": "Kauan sitten kaikki lehmät olivat villejä eläimiä, joita kutsuttiin alkuhärjiksi eli uroksiksi. Alkuhärkä oli iso ja vahva ja eli Euroopan, Aasian ja Pohjois-Afrikan metsissä ja niityillä. Noin kymmenentuhatta vuotta sitten Lähi-idässä asuneet ihmiset alkoivat kesyttää tätä villiä karjaa, ja näin syntyivät lehmät, jotka tunnemme nykyään.",
+      "script_sk": "Kedysi dávno boli všetky kravy divé zvieratá zvané pratury. Pratur bol veľký a silný a žil v lesiach a na lúkach Európy, Ázie a severnej Afriky. Asi pred desiatimi tisícami rokov začali ľudia na Blízkom východe skrotiť tento divý dobytok, a tak vznikli kravy, aké poznáme dnes.",
+      "script_da": "For længe siden var alle køer vilde dyr, der hed urokser. Uroksen var stor og stærk og levede i skove og enge i Europa, Asien og Nordafrika. For omkring ti tusind år siden begyndte mennesker i Mellemøsten at tæmme dette vilde kvæg, og sådan opstod de køer, vi kender i dag.",
+      "images": [
+        "origin.webp",
+        "origin_2.webp",
+        "origin_3.webp"
+      ]
+    },
+    {
+      "id": "body",
+      "script_en": "A cow has a strong body and stands on four legs with hard hooves. Inside, it has a very special stomach with four chambers that helps it digest tough grass. Its big eyes are set wide on the sides of its head, so it can see almost all the way around without turning.",
+      "script_de": "Eine Kuh hat einen kräftigen Körper und steht auf vier Beinen mit harten Hufen. Im Inneren hat sie einen ganz besonderen Magen mit vier Kammern, der ihr hilft, zähes Gras zu verdauen. Ihre großen Augen sitzen weit auseinander an den Seiten des Kopfes, sodass sie fast rundherum sehen kann, ohne sich zu drehen.",
+      "script_it": "La mucca ha un corpo robusto e sta su quattro zampe con zoccoli duri. Dentro ha uno stomaco speciale con quattro scomparti, che la aiuta a digerire l’erba dura. I suoi grandi occhi sono posizionati ai lati della testa, così riesce a vedere quasi tutto intorno senza girarsi.",
+      "script_fr": "La vache a un corps solide et se tient sur quatre pattes terminées par des sabots durs. À l’intérieur, elle a un estomac très spécial à quatre compartiments qui l’aide à digérer l’herbe coriace. Ses grands yeux sont placés sur les côtés de sa tête, ce qui lui permet de voir presque tout autour d’elle sans se retourner.",
+      "script_es": "La vaca tiene un cuerpo fuerte y se sostiene sobre cuatro patas con duras pezuñas. Por dentro tiene un estómago muy especial con cuatro cámaras, que le ayuda a digerir la hierba dura. Sus grandes ojos están a los lados de la cabeza, así que puede ver casi todo a su alrededor sin girarse.",
+      "script_hr": "Krava ima snažno tijelo i stoji na četiri noge s tvrdim papcima. U sebi ima poseban želudac s četiri komore koji joj pomaže probaviti tvrdu travu. Velike oči su joj sa strane glave, pa može vidjeti gotovo cijeli krug oko sebe bez okretanja.",
+      "script_cs": "Kráva má silné tělo a stojí na čtyřech nohách s tvrdými kopyty. Uvnitř má velmi zvláštní žaludek se čtyřmi komorami, který jí pomáhá trávit tuhou trávu. Velké oči má posazené po stranách hlavy, takže vidí téměř kolem dokola, aniž by se musela otáčet.",
+      "script_pl": "Krowa ma silne ciało i stoi na czterech nogach zakończonych twardymi racicami. W środku ma bardzo wyjątkowy żołądek z czterema komorami, który pomaga jej trawić twardą trawę. Duże oczy ma osadzone po bokach głowy, więc może widzieć niemal dookoła, nie odwracając się.",
+      "script_fi": "Lehmällä on vahva keho ja se seisoo neljällä jalalla, joissa on kovat sorkat. Sen sisällä on hyvin erityinen vatsa, jossa on neljä osastoa ja joka auttaa sulattamaan sitkeää ruohoa. Suuret silmät ovat sen pään sivuilla, joten se näkee melkein joka suuntaan ilman että sen tarvitsee kääntyä.",
+      "script_sk": "Krava má mohutné telo a stojí na štyroch nohách s tvrdými kopytami. Vo vnútri má veľmi zvláštny žalúdok so štyrmi komorami, ktorý jej pomáha tráviť tvrdú trávu. Veľké oči má posadené po stranách hlavy, takže vidí takmer dookola bez toho, aby sa otáčala.",
+      "script_da": "En ko har en stærk krop og står på fire ben med hårde klove. Indeni har den en helt særlig mave med fire kamre, der hjælper den med at fordøje sejt græs. Dens store øjne sidder langt ude på siderne af hovedet, så den kan se næsten hele vejen rundt uden at vende sig.",
+      "images": [
+        "body.webp",
+        "body_2.webp",
+        "body_3.webp"
+      ]
+    },
+    {
+      "id": "calf",
+      "script_en": "A baby cow is called a calf. A newborn calf can stand up on its own legs within about an hour after it is born. It stays very close to its mother, drinks her warm milk, and slowly learns from the other cows in the herd.",
+      "script_de": "Ein junges Rind nennt man Kalb. Ein neugeborenes Kalb kann schon etwa eine Stunde nach der Geburt auf eigenen Beinen stehen. Es bleibt ganz nah bei seiner Mutter, trinkt ihre warme Milch und lernt langsam von den anderen Kühen in der Herde.",
+      "script_it": "Un cucciolo di mucca si chiama vitello. Un vitello appena nato riesce a stare in piedi sulle proprie zampe già circa un’ora dopo la nascita. Resta vicinissimo alla mamma, beve il suo latte caldo e impara piano piano dalle altre mucche della mandria.",
+      "script_fr": "Un bébé vache s’appelle un veau. Un veau qui vient de naître peut se tenir debout tout seul environ une heure après sa naissance. Il reste très près de sa mère, boit son lait chaud et apprend peu à peu auprès des autres vaches du troupeau.",
+      "script_es": "Una cría de vaca se llama ternero. Un ternero recién nacido puede ponerse de pie por sí mismo aproximadamente una hora después de nacer. Se queda muy cerca de su madre, bebe su leche tibia y aprende poco a poco de las otras vacas de la manada.",
+      "script_hr": "Mladunče krave zove se tele. Novorođeno tele može samo stati na noge već otprilike sat vremena nakon rođenja. Ostaje vrlo blizu majke, pije njezino toplo mlijeko i polako uči od ostalih krava u stadu.",
+      "script_cs": "Mládě krávy se jmenuje tele. Novorozené tele se dokáže postavit na vlastní nohy už asi hodinu po narození. Drží se velmi blízko své matky, pije její teplé mléko a pomalu se učí od ostatních krav ve stádě.",
+      "script_pl": "Małe krowy nazywa się cielęciem. Nowo narodzone cielę potrafi stanąć na własnych nogach już mniej więcej godzinę po przyjściu na świat. Trzyma się bardzo blisko mamy, pije jej ciepłe mleko i powoli uczy się od innych krów w stadzie.",
+      "script_fi": "Lehmän poikasta sanotaan vasikaksi. Vastasyntynyt vasikka pystyy seisomaan omilla jaloillaan jo noin tunnin kuluttua syntymästään. Se pysyy hyvin lähellä emoaan, juo sen lämmintä maitoa ja oppii vähitellen lauman muilta lehmiltä.",
+      "script_sk": "Mláďa kravy sa volá teľa. Novonarodené teľa sa dokáže postaviť na vlastné nohy už asi hodinu po narodení. Zostáva veľmi blízko pri matke, pije jej teplé mlieko a pomaly sa učí od ostatných kráv v stáde.",
+      "script_da": "En babyko kaldes en kalv. En nyfødt kalv kan stå op på sine egne ben omkring en time efter, den er født. Den bliver helt tæt på sin mor, drikker hendes varme mælk og lærer stille og roligt af de andre køer i flokken.",
+      "images": [
+        "calf.webp",
+        "calf_2.webp",
+        "calf_3.webp"
+      ]
+    },
+    {
+      "id": "milk_and_food",
+      "script_en": "Cows give us milk, and from that milk people make cheese, butter, and yogurt. Cows spend most of the day eating grass in the field, taking slow, gentle bites. Later they lie down and chew their food again, which is called chewing the cud.",
+      "script_de": "Kühe geben uns Milch, und aus dieser Milch machen die Menschen Käse, Butter und Joghurt. Den größten Teil des Tages fressen Kühe Gras auf der Weide und nehmen dabei langsame, sanfte Bisse. Später legen sie sich hin und kauen ihr Futter noch einmal – das nennt man Wiederkäuen.",
+      "script_it": "Le mucche ci danno il latte, e con quel latte le persone fanno formaggio, burro e yogurt. Le mucche passano gran parte della giornata a mangiare l’erba nei prati, con piccoli e lenti bocconi. Più tardi si sdraiano e masticano di nuovo il cibo, e questo si chiama ruminare.",
+      "script_fr": "Les vaches nous donnent du lait, et avec ce lait on fabrique du fromage, du beurre et du yaourt. Les vaches passent la plus grande partie de la journée à manger de l’herbe dans le pré, à petites bouchées tranquilles. Ensuite, elles s’allongent et mâchent de nouveau leur nourriture : c’est ce qu’on appelle ruminer.",
+      "script_es": "Las vacas nos dan leche, y con esa leche las personas hacen queso, mantequilla y yogur. Las vacas pasan la mayor parte del día comiendo hierba en el campo, con mordiscos lentos y suaves. Más tarde se acuestan y vuelven a masticar su comida, lo que se llama rumiar.",
+      "script_hr": "Krave nam daju mlijeko, a od tog mlijeka ljudi prave sir, maslac i jogurt. Krave veći dio dana provode pasući travu na pašnjaku, polako i nježno zagrizajući. Kasnije liježu i ponovno žvaču svoju hranu, što se zove preživanje.",
+      "script_cs": "Krávy nám dávají mléko a z toho mléka lidé vyrábějí sýr, máslo a jogurt. Větší část dne krávy tráví na pastvě, kde pomalu a klidně okusují trávu. Pak si lehnou a znovu přežvykují potravu – tomu se říká přežvykování.",
+      "script_pl": "Krowy dają nam mleko, a z tego mleka ludzie wyrabiają ser, masło i jogurt. Większość dnia krowy spędzają na pastwisku, powoli i spokojnie skubiąc trawę. Później kładą się i ponownie żują pokarm, co nazywamy przeżuwaniem.",
+      "script_fi": "Lehmät antavat meille maitoa, ja siitä maidosta ihmiset tekevät juustoa, voita ja jogurttia. Lehmät viettävät suurimman osan päivästä laitumella syöden ruohoa hitain, lempein puraisuin. Myöhemmin ne käyvät makuulle ja pureskelevat ruokansa uudelleen, mitä kutsutaan märehtimiseksi.",
+      "script_sk": "Kravy nám dávajú mlieko a z toho mlieka ľudia vyrábajú syr, maslo a jogurt. Väčšiu časť dňa kravy trávia na pastve, kde pomaly a pokojne odhrýzajú trávu. Neskôr si ľahnú a opäť prežúvajú svoju potravu, čomu sa hovorí prežúvanie.",
+      "script_da": "Køer giver os mælk, og af den mælk laver mennesker ost, smør og yoghurt. Køer bruger størstedelen af dagen på at gå og spise græs på marken med små, rolige bid. Senere lægger de sig ned og tygger maden igen, og det kaldes at tygge drøv.",
+      "images": [
+        "milk_and_food.webp",
+        "milk_and_food_2.webp",
+        "milk_and_food_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ancestor",
+      "question_en": "What wild animal are cows descended from?",
+      "question_de": "Von welchem wilden Tier stammen die Kühe ab?",
+      "question_it": "Da quale animale selvatico discendono le mucche?",
+      "question_fr": "De quel animal sauvage les vaches descendent-elles ?",
+      "question_es": "¿De qué animal salvaje descienden las vacas?",
+      "question_hr": "Od koje divlje životinje potječu krave?",
+      "question_cs": "Z jakého divokého zvířete krávy pocházejí?",
+      "question_pl": "Od jakiego dzikiego zwierzęcia pochodzą krowy?",
+      "question_fi": "Mistä villistä eläimestä lehmät polveutuvat?",
+      "question_sk": "Z akého divého zvieraťa pochádzajú kravy?",
+      "question_da": "Hvilket vildt dyr nedstammer køer fra?",
+      "correct": "aurochs",
+      "options": [
+        {
+          "id": "aurochs",
+          "label_en": "The aurochs",
+          "label_de": "Vom Auerochsen",
+          "label_it": "Dall’uro",
+          "label_fr": "L’aurochs",
+          "label_es": "El uro",
+          "label_hr": "Od tura",
+          "label_cs": "Z pratura",
+          "label_pl": "Od tura",
+          "label_fi": "Alkuhärästä",
+          "label_sk": "Z pratura",
+          "label_da": "Uroksen"
+        },
+        {
+          "id": "bison",
+          "label_en": "The bison",
+          "label_de": "Vom Bison",
+          "label_it": "Dal bisonte",
+          "label_fr": "Le bison",
+          "label_es": "El bisonte",
+          "label_hr": "Od bizona",
+          "label_cs": "Z bizona",
+          "label_pl": "Od bizona",
+          "label_fi": "Biisonista",
+          "label_sk": "Z bizóna",
+          "label_da": "Bisonen"
+        },
+        {
+          "id": "deer",
+          "label_en": "The deer",
+          "label_de": "Vom Hirsch",
+          "label_it": "Dal cervo",
+          "label_fr": "Le cerf",
+          "label_es": "El ciervo",
+          "label_hr": "Od jelena",
+          "label_cs": "Z jelena",
+          "label_pl": "Od jelenia",
+          "label_fi": "Hirvestä",
+          "label_sk": "Z jeleňa",
+          "label_da": "Hjorten"
+        }
+      ]
+    },
+    {
+      "id": "baby_name",
+      "question_en": "What is a baby cow called?",
+      "question_de": "Wie nennt man ein junges Rind?",
+      "question_it": "Come si chiama un cucciolo di mucca?",
+      "question_fr": "Comment appelle-t-on un bébé vache ?",
+      "question_es": "¿Cómo se llama una cría de vaca?",
+      "question_hr": "Kako se zove mladunče krave?",
+      "question_cs": "Jak se říká mláděti krávy?",
+      "question_pl": "Jak nazywa się małe krowy?",
+      "question_fi": "Mikä on lehmän poikasen nimi?",
+      "question_sk": "Ako sa volá mláďa kravy?",
+      "question_da": "Hvad kaldes en babyko?",
+      "correct": "calf",
+      "options": [
+        {
+          "id": "calf",
+          "label_en": "Calf",
+          "label_de": "Kalb",
+          "label_it": "Vitello",
+          "label_fr": "Veau",
+          "label_es": "Ternero",
+          "label_hr": "Tele",
+          "label_cs": "Tele",
+          "label_pl": "Cielę",
+          "label_fi": "Vasikka",
+          "label_sk": "Teľa",
+          "label_da": "Kalv"
+        },
+        {
+          "id": "foal",
+          "label_en": "Foal",
+          "label_de": "Fohlen",
+          "label_it": "Puledro",
+          "label_fr": "Poulain",
+          "label_es": "Potro",
+          "label_hr": "Ždrijebe",
+          "label_cs": "Hříbě",
+          "label_pl": "Źrebak",
+          "label_fi": "Varsa",
+          "label_sk": "Žriebä",
+          "label_da": "Føl"
+        },
+        {
+          "id": "kid",
+          "label_en": "Kid",
+          "label_de": "Zicklein",
+          "label_it": "Capretto",
+          "label_fr": "Chevreau",
+          "label_es": "Cabrito",
+          "label_hr": "Jare",
+          "label_cs": "Kůzle",
+          "label_pl": "Koźlę",
+          "label_fi": "Kili",
+          "label_sk": "Kozľa",
+          "label_da": "Gedekid"
+        }
+      ]
+    },
+    {
+      "id": "stomach",
+      "question_en": "How many stomach chambers does a cow have?",
+      "question_de": "Wie viele Magenkammern hat eine Kuh?",
+      "question_it": "Quante camere ha lo stomaco di una mucca?",
+      "question_fr": "Combien de compartiments l’estomac d’une vache a-t-il ?",
+      "question_es": "¿Cuántas cámaras tiene el estómago de una vaca?",
+      "question_hr": "Koliko komora ima želudac krave?",
+      "question_cs": "Kolik komor má žaludek krávy?",
+      "question_pl": "Ile komór ma żołądek krowy?",
+      "question_fi": "Kuinka monta osastoa lehmän vatsassa on?",
+      "question_sk": "Koľko komôr má žalúdok kravy?",
+      "question_da": "Hvor mange kamre har en kos mave?",
+      "correct": "four",
+      "options": [
+        {
+          "id": "four",
+          "label_en": "Four",
+          "label_de": "Vier",
+          "label_it": "Quattro",
+          "label_fr": "Quatre",
+          "label_es": "Cuatro",
+          "label_hr": "Četiri",
+          "label_cs": "Čtyři",
+          "label_pl": "Cztery",
+          "label_fi": "Neljä",
+          "label_sk": "Štyri",
+          "label_da": "Fire"
+        },
+        {
+          "id": "one",
+          "label_en": "One",
+          "label_de": "Eine",
+          "label_it": "Una",
+          "label_fr": "Un",
+          "label_es": "Una",
+          "label_hr": "Jednu",
+          "label_cs": "Jednu",
+          "label_pl": "Jedną",
+          "label_fi": "Yksi",
+          "label_sk": "Jednu",
+          "label_da": "Et"
+        },
+        {
+          "id": "two",
+          "label_en": "Two",
+          "label_de": "Zwei",
+          "label_it": "Due",
+          "label_fr": "Deux",
+          "label_es": "Dos",
+          "label_hr": "Dvije",
+          "label_cs": "Dvě",
+          "label_pl": "Dwie",
+          "label_fi": "Kaksi",
+          "label_sk": "Dve",
+          "label_da": "To"
+        }
+      ]
+    }
+  ]
+}

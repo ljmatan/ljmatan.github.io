@@ -1,0 +1,293 @@
+{
+  "id": "dolphin",
+  "category_id": "animals",
+  "symbol_id": "dolphin",
+  "thumbnail": "dolphin_thumb.webp",
+  "title_en": "Dolphins",
+  "title_de": "Delfine",
+  "title_it": "I delfini",
+  "title_fr": "Les dauphins",
+  "title_es": "Los delfines",
+  "title_hr": "Dupini",
+  "title_cs": "Delfíni",
+  "title_pl": "Delfiny",
+  "title_fi": "Delfiinit",
+  "title_sk": "Delfíny",
+  "title_da": "Delfiner",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about dolphins. Dolphins are clever and playful sea mammals that love to leap and splash in the waves. They breathe air just like we do, through a small hole on top of their heads called a blowhole.",
+      "script_de": "Heute lernen wir etwas über Delfine. Delfine sind kluge und verspielte Meeressäuger, die gerne aus den Wellen springen und spritzen. Sie atmen Luft genau wie wir, durch ein kleines Loch oben auf dem Kopf, das man Atemloch nennt.",
+      "script_it": "Oggi impareremo qualcosa sui delfini. I delfini sono mammiferi marini intelligenti e giocherelloni che amano saltare e schizzare tra le onde. Respirano aria proprio come noi, attraverso un piccolo foro sopra la testa chiamato sfiatatoio.",
+      "script_fr": "Aujourd’hui, nous allons apprendre à connaître les dauphins. Les dauphins sont des mammifères marins intelligents et joueurs qui adorent sauter et éclabousser dans les vagues. Ils respirent de l’air comme nous, par un petit trou sur le dessus de la tête appelé évent.",
+      "script_es": "Hoy vamos a aprender sobre los delfines. Los delfines son mamíferos marinos inteligentes y juguetones a los que les encanta saltar y chapotear entre las olas. Respiran aire igual que nosotros, a través de un pequeño orificio en la parte superior de la cabeza llamado espiráculo.",
+      "script_hr": "Danas ćemo učiti o dupinima. Dupini su pametni i razigrani morski sisavci koji vole skakati i pljuskati po valovima. Dišu zrak baš kao i mi, kroz malenu rupicu na vrhu glave koja se zove dušnik.",
+      "script_cs": "Dnes se budeme učit o delfínech. Delfíni jsou chytří a hraví mořští savci, kteří milují skákání a šplouchání ve vlnách. Dýchají vzduch stejně jako my, malým otvorem na temeni hlavy, kterému se říká dýchací otvor.",
+      "script_pl": "Dzisiaj poznamy delfiny. Delfiny to mądre i figlarne ssaki morskie, które uwielbiają wyskakiwać z fal i chlapać wodą. Oddychają powietrzem tak jak my, przez maleńki otwór na czubku głowy zwany nozdrzem.",
+      "script_fi": "Tänään opimme delfiineistä. Delfiinit ovat fiksuja ja leikkisiä merinisäkkäitä, jotka rakastavat hyppimistä ja roiskimista aalloissa. Ne hengittävät ilmaa aivan kuten me, pään päällä olevasta pienestä reiästä, jota kutsutaan puhallusaukoksi.",
+      "script_sk": "Dnes sa budeme učiť o delfínoch. Delfíny sú múdre a hravé morské cicavce, ktoré milujú skákanie a špliechanie vo vlnách. Dýchajú vzduch tak ako my, malou dierkou na temene hlavy, ktorá sa volá dýchací otvor.",
+      "script_da": "I dag skal vi lære om delfiner. Delfiner er kloge og legesyge havpattedyr, der elsker at springe og pjaske i bølgerne. De trækker vejret ligesom os, gennem et lille hul oven på hovedet, der kaldes et åndehul.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "habitat",
+      "script_en": "Dolphins live in oceans all around the world. Some kinds prefer warm tropical seas, while others enjoy cooler waters near colder coasts. A few special kinds of dolphins do not live in the sea at all, but in big rivers.",
+      "script_de": "Delfine leben in den Ozeanen auf der ganzen Welt. Manche Arten bevorzugen warme tropische Meere, andere fühlen sich in kühleren Gewässern vor kälteren Küsten wohl. Einige besondere Delfinarten leben gar nicht im Meer, sondern in großen Flüssen.",
+      "script_it": "I delfini vivono negli oceani di tutto il mondo. Alcuni tipi preferiscono i mari tropicali caldi, mentre altri si trovano bene nelle acque più fresche delle coste fredde. Alcuni delfini speciali non vivono affatto nel mare, ma nei grandi fiumi.",
+      "script_fr": "Les dauphins vivent dans les océans du monde entier. Certaines espèces préfèrent les mers tropicales chaudes, tandis que d’autres aiment les eaux plus froides près des côtes fraîches. Quelques espèces particulières ne vivent pas du tout dans la mer, mais dans de grands fleuves.",
+      "script_es": "Los delfines viven en los océanos de todo el mundo. Algunos tipos prefieren los mares tropicales cálidos, mientras que otros disfrutan de aguas más frías cerca de costas frías. Unos pocos delfines especiales no viven en el mar, sino en grandes ríos.",
+      "script_hr": "Dupini žive u oceanima diljem svijeta. Neke vrste više vole topla tropska mora, dok druge uživaju u hladnijim vodama uz hladnije obale. Nekoliko posebnih vrsta dupina uopće ne živi u moru, nego u velikim rijekama.",
+      "script_cs": "Delfíni žijí v oceánech po celém světě. Některé druhy mají rády teplá tropická moře, jiné se cítí dobře v chladnějších vodách u studených pobřeží. Pár výjimečných druhů delfínů nežije v moři vůbec, ale ve velkých řekách.",
+      "script_pl": "Delfiny żyją w oceanach na całym świecie. Niektóre gatunki wolą ciepłe morza tropikalne, inne lubią chłodniejsze wody przy zimnych wybrzeżach. Kilka wyjątkowych gatunków delfinów wcale nie żyje w morzu, lecz w wielkich rzekach.",
+      "script_fi": "Delfiinejä elää valtamerissä ympäri maailmaa. Toiset lajit pitävät lämpimistä trooppisista meristä, toiset taas viihtyvät viileämmissä vesissä kylmien rannikoiden lähellä. Muutamat erityiset delfiinilajit eivät elä lainkaan meressä, vaan suurissa joissa.",
+      "script_sk": "Delfíny žijú v oceánoch po celom svete. Niektoré druhy uprednostňujú teplé tropické moria, iné si užívajú chladnejšie vody pri studených pobrežiach. Niekoľko zvláštnych druhov delfínov nežije v mori vôbec, ale vo veľkých riekach.",
+      "script_da": "Delfiner lever i havene over hele verden. Nogle arter foretrækker varme tropiske have, mens andre kan lide det køligere vand ud for koldere kyster. Nogle få særlige delfinarter lever slet ikke i havet, men i store floder.",
+      "images": [
+        "habitat.webp",
+        "habitat_2.webp",
+        "habitat_3.webp"
+      ]
+    },
+    {
+      "id": "body",
+      "script_en": "A dolphin has a sleek, streamlined body with smooth grey skin. On its back there is a curved fin, and on the sides are two flippers that help it steer. At the end of its body is a powerful tail that pushes it through the water very fast.",
+      "script_de": "Ein Delfin hat einen schlanken, stromlinienförmigen Körper mit glatter grauer Haut. Auf dem Rücken sitzt eine geschwungene Flosse, und an den Seiten hat er zwei Flossen, mit denen er lenkt. Am Ende seines Körpers ist eine kräftige Schwanzflosse, die ihn sehr schnell durchs Wasser schiebt.",
+      "script_it": "Il delfino ha un corpo snello e affusolato, con una pelle grigia e liscia. Sul dorso ha una pinna ricurva, e ai lati due pinne che lo aiutano a dirigersi. All’estremità del corpo ha una coda potente che lo spinge nell’acqua a grande velocità.",
+      "script_fr": "Le dauphin a un corps fin et fuselé, recouvert d’une peau grise et lisse. Sur son dos se trouve une nageoire courbée, et sur les côtés deux nageoires qui l’aident à se diriger. Au bout de son corps, une queue puissante le propulse très vite dans l’eau.",
+      "script_es": "El delfín tiene un cuerpo esbelto y aerodinámico, con una piel gris y suave. En el lomo lleva una aleta curva, y a los lados dos aletas que le ayudan a dirigirse. Al final del cuerpo tiene una cola muy fuerte que lo impulsa por el agua a gran velocidad.",
+      "script_hr": "Dupin ima vitko, aerodinamično tijelo i glatku sivu kožu. Na leđima ima zakrivljenu peraju, a sa strane dvije peraje kojima upravlja. Na kraju tijela ima snažan rep koji ga vrlo brzo gura kroz vodu.",
+      "script_cs": "Delfín má štíhlé, hladké tělo a jemnou šedou kůži. Na hřbetě má zahnutou ploutev a po stranách dvě ploutve, kterými řídí. Na konci těla má mohutný ocas, který ho velmi rychle pohání vodou.",
+      "script_pl": "Delfin ma smukłe, opływowe ciało i gładką szarą skórę. Na grzbiecie ma zakrzywioną płetwę, a po bokach dwie płetwy, które pomagają mu sterować. Na końcu ciała ma silny ogon, który bardzo szybko pcha go przez wodę.",
+      "script_fi": "Delfiinillä on hoikka, virtaviivainen vartalo ja sileä harmaa iho. Selässä on kaareva evä, ja sivuilla kaksi räpylää, joiden avulla se ohjaa kulkuaan. Ruumiin päässä on voimakas pyrstö, joka työntää sen erittäin nopeasti veden läpi.",
+      "script_sk": "Delfín má štíhle, prúdnicovité telo a hladkú sivú kožu. Na chrbte má zakrivenú plutvu a po bokoch dve plutvy, ktorými sa riadi. Na konci tela má silný chvost, ktorý ho veľmi rýchlo poháňa vodou.",
+      "script_da": "En delfin har en slank, strømlinet krop med glat, gråt skind. På ryggen sidder en buet finne, og på siderne to luffer, der hjælper den med at styre. For enden af kroppen er der en kraftfuld hale, som driver den meget hurtigt gennem vandet.",
+      "images": [
+        "body.webp",
+        "body_2.webp",
+        "body_3.webp"
+      ]
+    },
+    {
+      "id": "calf",
+      "script_en": "A baby dolphin is called a calf. From the very moment it is born, the little calf swims close beside its mother and almost never leaves her side. It drinks her warm milk underwater and learns from her how to dive, play, and find food.",
+      "script_de": "Ein Babydelfin nennt man Kalb. Schon im Augenblick seiner Geburt schwimmt das kleine Kalb dicht neben seiner Mutter und weicht ihr fast nie von der Seite. Es trinkt unter Wasser ihre warme Milch und lernt von ihr, wie man taucht, spielt und Futter findet.",
+      "script_it": "Un cucciolo di delfino si chiama piccolo. Fin dal momento in cui nasce, il piccolo nuota accanto alla madre e quasi non si allontana mai da lei. Beve il suo latte caldo sott’acqua e impara da lei a tuffarsi, a giocare e a trovare il cibo.",
+      "script_fr": "Un bébé dauphin s’appelle un delphineau. Dès l’instant de sa naissance, le petit delphineau nage tout près de sa mère et ne la quitte presque jamais. Il boit son lait chaud sous l’eau et apprend d’elle à plonger, à jouer et à trouver à manger.",
+      "script_es": "Una cría de delfín se llama ballenato. Desde el momento mismo en que nace, la pequeña cría nada muy cerca de su madre y casi nunca se aleja de ella. Bebe su leche caliente bajo el agua y aprende de ella a bucear, a jugar y a buscar comida.",
+      "script_hr": "Mladunče dupina zove se mladunac. Već od trenutka kad se rodi, mali mladunac pliva tik uz svoju majku i gotovo nikada se ne odvaja od nje. Pod vodom pije njezino toplo mlijeko i od nje uči kako roniti, igrati se i pronaći hranu.",
+      "script_cs": "Delfíní mládě se nazývá mládě delfína. Hned od chvíle, kdy se narodí, plave maličké mládě těsně vedle své matky a téměř se od ní nevzdaluje. Pod vodou pije její teplé mléko a od ní se učí, jak se potápět, hrát si a hledat potravu.",
+      "script_pl": "Małe delfina nazywa się cielęciem. Od pierwszej chwili po urodzeniu maluch płynie tuż obok matki i prawie nigdy się od niej nie oddala. Pod wodą pije jej ciepłe mleko i uczy się od niej nurkować, bawić i szukać pożywienia.",
+      "script_fi": "Delfiinin poikasta sanotaan vasaksi. Aivan syntymähetkestään lähtien pieni vasa ui aivan emonsa rinnalla eikä juuri koskaan poistu sen luota. Veden alla se juo emon lämmintä maitoa ja oppii siltä, miten sukelletaan, leikitään ja etsitään ruokaa.",
+      "script_sk": "Mláďa delfína sa volá mláďa. Od samotnej chvíle, keď sa narodí, malé mláďa pláva tesne pri svojej matke a takmer sa od nej nevzďaľuje. Pod vodou pije jej teplé mlieko a od nej sa učí, ako sa potápať, hrať a hľadať potravu.",
+      "script_da": "En babydelfin kaldes en kalv. Lige fra det øjeblik den bliver født, svømmer den lille kalv tæt ved sin mor og forlader hende næsten aldrig. Under vandet drikker den hendes varme mælk og lærer af hende at dykke, lege og finde mad.",
+      "images": [
+        "calf.webp",
+        "calf_2.webp",
+        "calf_3.webp"
+      ]
+    },
+    {
+      "id": "smarts",
+      "script_en": "Dolphins are very intelligent animals and they like to live together in family groups called pods. They talk to one another with clicks, whistles, and squeaks, almost like a language of their own. To find fish in the dark water, they use echolocation, sending out sounds and listening to the echoes that come back.",
+      "script_de": "Delfine sind sehr intelligente Tiere und leben gerne in Familiengruppen, die man Schulen nennt. Sie unterhalten sich miteinander mit Klicks, Pfiffen und Quiekslauten, fast wie in einer eigenen Sprache. Um Fische im dunklen Wasser zu finden, nutzen sie die Echoortung: Sie senden Töne aus und lauschen auf das Echo, das zurückkommt.",
+      "script_it": "I delfini sono animali molto intelligenti e amano vivere in gruppi familiari chiamati branchi. Tra loro parlano con clic, fischi e squittii, quasi come una lingua tutta loro. Per trovare i pesci nell’acqua scura usano l’ecolocalizzazione, emettendo suoni e ascoltando l’eco che torna indietro.",
+      "script_fr": "Les dauphins sont des animaux très intelligents et ils aiment vivre en groupes familiaux appelés bancs. Entre eux, ils communiquent avec des clics, des sifflements et des couinements, presque comme une langue à eux. Pour trouver des poissons dans l’eau sombre, ils utilisent l’écholocation : ils envoient des sons et écoutent les échos qui leur reviennent.",
+      "script_es": "Los delfines son animales muy inteligentes y les gusta vivir en grupos familiares llamados manadas. Hablan entre ellos con chasquidos, silbidos y chillidos, casi como si fuera un idioma propio. Para encontrar peces en el agua oscura usan la ecolocalización: emiten sonidos y escuchan los ecos que regresan.",
+      "script_hr": "Dupini su vrlo inteligentne životinje i vole živjeti u obiteljskim skupinama koje se zovu jata. Međusobno razgovaraju klikovima, zvižducima i cijukom, gotovo kao da imaju svoj vlastiti jezik. Da bi pronašli ribu u mračnoj vodi, koriste se ehlokacijom – šalju zvukove i slušaju jeku koja im se vrati.",
+      "script_cs": "Delfíni jsou velmi inteligentní zvířata a rádi žijí v rodinných skupinách, kterým se říká hejna. Mezi sebou si povídají cvakáním, pískáním a kvikáním, skoro jako svým vlastním jazykem. Aby v temné vodě našli ryby, používají echolokaci – vysílají zvuky a poslouchají ozvěnu, která se k nim vrací.",
+      "script_pl": "Delfiny to bardzo inteligentne zwierzęta, które lubią żyć w rodzinnych grupach zwanych stadami. Rozmawiają ze sobą za pomocą klików, gwizdów i piskliwych dźwięków, niemal jak własnym językiem. Aby znaleźć ryby w mrocznej wodzie, używają echolokacji – wysyłają dźwięki i nasłuchują echa, które do nich wraca.",
+      "script_fi": "Delfiinit ovat hyvin älykkäitä eläimiä ja viihtyvät perheryhmissä, joita kutsutaan parveiksi. Ne keskustelevat keskenään naksahduksilla, vihellyksillä ja vinkuvilla äänillä, melkein kuin omalla kielellään. Löytääkseen kaloja pimeästä vedestä ne käyttävät kaikuluotausta: ne lähettävät ääniä ja kuuntelevat takaisin palaavia kaikuja.",
+      "script_sk": "Delfíny sú veľmi inteligentné zvieratá a radi žijú v rodinných skupinách, ktoré sa volajú kŕdle. Medzi sebou sa dorozumievajú cvakaním, pískaním a piskotom, takmer ako vlastným jazykom. Aby v tmavej vode našli ryby, používajú echolokáciu – vysielajú zvuky a počúvajú ozvenu, ktorá sa k nim vráti.",
+      "script_da": "Delfiner er meget intelligente dyr, og de kan godt lide at leve i familiegrupper, der kaldes flokke. De taler sammen med klik, fløjt og pibelyde, næsten som var det deres helt eget sprog. For at finde fisk i det mørke vand bruger de ekkolokalisering: de sender lyde ud og lytter til ekkoet, der kommer tilbage.",
+      "images": [
+        "smarts.webp",
+        "smarts_2.webp",
+        "smarts_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "breathe",
+      "question_en": "How do dolphins breathe?",
+      "question_de": "Wie atmen Delfine?",
+      "question_it": "Come respirano i delfini?",
+      "question_fr": "Comment les dauphins respirent-ils ?",
+      "question_es": "¿Cómo respiran los delfines?",
+      "question_hr": "Kako dupini dišu?",
+      "question_cs": "Jak delfíni dýchají?",
+      "question_pl": "Jak oddychają delfiny?",
+      "question_fi": "Miten delfiinit hengittävät?",
+      "question_sk": "Ako dýchajú delfíny?",
+      "question_da": "Hvordan trækker delfiner vejret?",
+      "correct": "blowhole",
+      "options": [
+        {
+          "id": "blowhole",
+          "label_en": "Through a blowhole on top of their head",
+          "label_de": "Durch ein Atemloch oben auf dem Kopf",
+          "label_it": "Attraverso uno sfiatatoio sopra la testa",
+          "label_fr": "Par un évent situé sur le dessus de la tête",
+          "label_es": "A través de un espiráculo en la parte superior de la cabeza",
+          "label_hr": "Kroz dušnik na vrhu glave",
+          "label_cs": "Dýchacím otvorem na temeni hlavy",
+          "label_pl": "Przez nozdrze na czubku głowy",
+          "label_fi": "Pään päällä olevasta puhallusaukosta",
+          "label_sk": "Cez dýchací otvor na temene hlavy",
+          "label_da": "Gennem et åndehul oven på hovedet"
+        },
+        {
+          "id": "gills",
+          "label_en": "Through gills like fish",
+          "label_de": "Durch Kiemen wie Fische",
+          "label_it": "Attraverso le branchie come i pesci",
+          "label_fr": "Par des branchies, comme les poissons",
+          "label_es": "A través de branquias como los peces",
+          "label_hr": "Kroz škrge poput riba",
+          "label_cs": "Žábrami jako ryby",
+          "label_pl": "Przez skrzela jak ryby",
+          "label_fi": "Kiduksilla kuten kalat",
+          "label_sk": "Cez žiabre ako ryby",
+          "label_da": "Gennem gæller ligesom fisk"
+        },
+        {
+          "id": "nose",
+          "label_en": "Through a nose like a dog",
+          "label_de": "Durch eine Nase wie ein Hund",
+          "label_it": "Attraverso un naso come un cane",
+          "label_fr": "Par un nez comme un chien",
+          "label_es": "A través de una nariz como un perro",
+          "label_hr": "Kroz nos poput psa",
+          "label_cs": "Nosem jako pes",
+          "label_pl": "Przez nos jak pies",
+          "label_fi": "Nenällä kuten koira",
+          "label_sk": "Nosom ako pes",
+          "label_da": "Gennem en næse ligesom en hund"
+        }
+      ]
+    },
+    {
+      "id": "group_name",
+      "question_en": "What is a group of dolphins called?",
+      "question_de": "Wie nennt man eine Gruppe von Delfinen?",
+      "question_it": "Come si chiama un gruppo di delfini?",
+      "question_fr": "Comment appelle-t-on un groupe de dauphins ?",
+      "question_es": "¿Cómo se llama un grupo de delfines?",
+      "question_hr": "Kako se zove skupina dupina?",
+      "question_cs": "Jak se nazývá skupina delfínů?",
+      "question_pl": "Jak nazywa się grupa delfinów?",
+      "question_fi": "Mitä delfiinien ryhmää kutsutaan?",
+      "question_sk": "Ako sa volá skupina delfínov?",
+      "question_da": "Hvad kaldes en gruppe af delfiner?",
+      "correct": "pod",
+      "options": [
+        {
+          "id": "pod",
+          "label_en": "A pod",
+          "label_de": "Eine Schule",
+          "label_it": "Un branco",
+          "label_fr": "Un banc",
+          "label_es": "Una manada",
+          "label_hr": "Jato",
+          "label_cs": "Hejno",
+          "label_pl": "Stado",
+          "label_fi": "Parvi",
+          "label_sk": "Kŕdeľ",
+          "label_da": "En flok"
+        },
+        {
+          "id": "herd",
+          "label_en": "A herd",
+          "label_de": "Eine Herde",
+          "label_it": "Una mandria",
+          "label_fr": "Un troupeau",
+          "label_es": "Un rebaño",
+          "label_hr": "Krdo",
+          "label_cs": "Stádo",
+          "label_pl": "Stado (bydła)",
+          "label_fi": "Lauma",
+          "label_sk": "Stádo",
+          "label_da": "En hjord"
+        },
+        {
+          "id": "flock",
+          "label_en": "A flock",
+          "label_de": "Ein Schwarm (Vögel)",
+          "label_it": "Uno stormo",
+          "label_fr": "Une volée",
+          "label_es": "Una bandada",
+          "label_hr": "Jato (ptica)",
+          "label_cs": "Hejno (ptáků)",
+          "label_pl": "Stado (ptaków)",
+          "label_fi": "Parvi (lintujen)",
+          "label_sk": "Kŕdeľ (vtákov)",
+          "label_da": "En flok (fugle)"
+        }
+      ]
+    },
+    {
+      "id": "find_food",
+      "question_en": "How do dolphins find fish in the dark water?",
+      "question_de": "Wie finden Delfine Fische im dunklen Wasser?",
+      "question_it": "Come fanno i delfini a trovare i pesci nell’acqua scura?",
+      "question_fr": "Comment les dauphins trouvent-ils les poissons dans l’eau sombre ?",
+      "question_es": "¿Cómo encuentran los delfines a los peces en el agua oscura?",
+      "question_hr": "Kako dupini pronalaze ribe u mračnoj vodi?",
+      "question_cs": "Jak delfíni najdou ryby v tmavé vodě?",
+      "question_pl": "Jak delfiny znajdują ryby w ciemnej wodzie?",
+      "question_fi": "Miten delfiinit löytävät kalat pimeästä vedestä?",
+      "question_sk": "Ako delfíny nájdu ryby v tmavej vode?",
+      "question_da": "Hvordan finder delfiner fisk i det mørke vand?",
+      "correct": "echolocation",
+      "options": [
+        {
+          "id": "echolocation",
+          "label_en": "By making clicks and listening to the echo",
+          "label_de": "Indem sie Klicklaute aussenden und auf das Echo hören",
+          "label_it": "Emettendo clic e ascoltando l’eco",
+          "label_fr": "En émettant des clics et en écoutant l’écho",
+          "label_es": "Emitiendo chasquidos y escuchando el eco",
+          "label_hr": "Stvaraju klikove i slušaju jeku",
+          "label_cs": "Vydávají cvakavé zvuky a poslouchají ozvěnu",
+          "label_pl": "Wydając kliknięcia i wsłuchując się w echo",
+          "label_fi": "Tekemällä naksahduksia ja kuuntelemalla kaikua",
+          "label_sk": "Vydávajú cvakavé zvuky a počúvajú ozvenu",
+          "label_da": "Ved at lave klik og lytte til ekkoet"
+        },
+        {
+          "id": "smell",
+          "label_en": "By smelling them",
+          "label_de": "Indem sie sie riechen",
+          "label_it": "Annusandoli",
+          "label_fr": "En les sentant",
+          "label_es": "Oliéndolos",
+          "label_hr": "Po njuhu",
+          "label_cs": "Čichem",
+          "label_pl": "Wąchając je",
+          "label_fi": "Haistamalla ne",
+          "label_sk": "Čuchom",
+          "label_da": "Ved at lugte dem"
+        },
+        {
+          "id": "sight_only",
+          "label_en": "Only by sight",
+          "label_de": "Nur mit den Augen",
+          "label_it": "Solo con la vista",
+          "label_fr": "Uniquement à la vue",
+          "label_es": "Solo con la vista",
+          "label_hr": "Samo vidom",
+          "label_cs": "Pouze zrakem",
+          "label_pl": "Tylko wzrokiem",
+          "label_fi": "Vain näkemällä",
+          "label_sk": "Iba zrakom",
+          "label_da": "Kun ved synet"
+        }
+      ]
+    }
+  ]
+}

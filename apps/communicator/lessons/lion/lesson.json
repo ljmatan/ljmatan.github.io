@@ -1,0 +1,293 @@
+{
+  "id": "lion",
+  "category_id": "animals",
+  "symbol_id": "lion",
+  "thumbnail": "lion_thumb.webp",
+  "title_en": "Lions",
+  "title_de": "Löwen",
+  "title_it": "I leoni",
+  "title_fr": "Les lions",
+  "title_es": "Los leones",
+  "title_hr": "Lavovi",
+  "title_cs": "Lvi",
+  "title_pl": "Lwy",
+  "title_fi": "Leijonat",
+  "title_sk": "Levy",
+  "title_da": "Løver",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about lions. Lions are large, golden big cats with strong bodies and powerful paws. They are often called the kings of the savanna because they are brave, mighty, and full of pride.",
+      "script_de": "Heute lernen wir etwas über Löwen. Löwen sind große, goldfarbene Raubkatzen mit kräftigem Körper und starken Pranken. Man nennt sie oft die Könige der Savanne, weil sie mutig, mächtig und voller Stolz sind.",
+      "script_it": "Oggi impareremo qualcosa sui leoni. I leoni sono grandi felini dorati dal corpo forte e dalle zampe potenti. Spesso vengono chiamati i re della savana perché sono coraggiosi, possenti e pieni di fierezza.",
+      "script_fr": "Aujourd’hui, nous allons apprendre à connaître les lions. Les lions sont de grands félins dorés au corps puissant et aux pattes redoutables. On les appelle souvent les rois de la savane parce qu’ils sont courageux, majestueux et pleins de fierté.",
+      "script_es": "Hoy vamos a aprender sobre los leones. Los leones son grandes felinos dorados, con cuerpos fuertes y patas poderosas. Suelen llamarlos los reyes de la sabana porque son valientes, majestuosos y están llenos de orgullo.",
+      "script_hr": "Danas ćemo učiti o lavovima. Lavovi su velike, zlatne mačke snažnog tijela i moćnih šapa. Često ih nazivaju kraljevima savane jer su hrabri, snažni i puni ponosa.",
+      "script_cs": "Dnes se budeme učit o lvech. Lvi jsou velké zlaté kočkovité šelmy se silným tělem a mocnými tlapami. Často se jim říká králové savany, protože jsou stateční, mocní a hrdí.",
+      "script_pl": "Dzisiaj poznamy lwy. Lwy to wielkie, złociste koty o silnym ciele i potężnych łapach. Często nazywa się je królami sawanny, bo są odważne, potężne i pełne dumy.",
+      "script_fi": "Tänään opimme leijonista. Leijonat ovat suuria, kullanruskeita kissaeläimiä, joilla on vahva keho ja voimakkaat tassut. Niitä sanotaan usein savannin kuninkaiksi, koska ne ovat rohkeita, mahtavia ja ylpeitä.",
+      "script_sk": "Dnes sa budeme učiť o levoch. Levy sú veľké zlaté mačkovité šelmy so silným telom a mocnými labami. Často sa im hovorí králi savany, pretože sú odvážne, mocné a hrdé.",
+      "script_da": "I dag skal vi lære om løver. Løver er store, gyldne kattedyr med stærke kroppe og kraftige poter. De kaldes ofte savannens konger, fordi de er modige, mægtige og fulde af stolthed.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "habitat",
+      "script_en": "Lions live mainly on the wide grasslands of Africa, with a smaller population in India. They prefer open spaces with tall grass and a few scattered trees. From there they can watch over the land and see the herds of animals that share their home.",
+      "script_de": "Löwen leben vor allem in den weiten Graslandschaften Afrikas, eine kleinere Gruppe gibt es noch in Indien. Sie bevorzugen offene Flächen mit hohem Gras und einigen einzelnen Bäumen. Von dort aus können sie das Land überblicken und die Tierherden beobachten, die ihren Lebensraum teilen.",
+      "script_it": "I leoni vivono soprattutto nelle vaste praterie dell’Africa, con una popolazione più piccola in India. Preferiscono spazi aperti con erba alta e pochi alberi sparsi. Da lì possono sorvegliare il territorio e osservare le mandrie di animali che condividono la loro casa.",
+      "script_fr": "Les lions vivent surtout dans les vastes prairies d’Afrique, avec une plus petite population en Inde. Ils préfèrent les espaces ouverts avec de hautes herbes et quelques arbres dispersés. De là, ils peuvent surveiller le paysage et observer les troupeaux d’animaux qui partagent leur territoire.",
+      "script_es": "Los leones viven sobre todo en las amplias praderas de África, con una población más pequeña en la India. Prefieren los espacios abiertos con hierba alta y unos pocos árboles dispersos. Desde allí pueden vigilar la tierra y observar las manadas de animales que comparten su hogar.",
+      "script_hr": "Lavovi žive uglavnom u širokim travnjacima Afrike, a manja populacija živi i u Indiji. Vole otvorene prostore s visokom travom i pokojim stablom. Odande mogu motriti krajolik i pratiti krda životinja s kojima dijele svoj dom.",
+      "script_cs": "Lvi žijí především na rozlehlých travnatých pláních Afriky a menší populace se zachovala v Indii. Mají rádi otevřená místa s vysokou trávou a několika rozesetými stromy. Odtud mohou hlídat okolí a sledovat stáda zvířat, která sdílejí jejich domov.",
+      "script_pl": "Lwy żyją głównie na rozległych sawannach Afryki, a mniejsza populacja występuje też w Indiach. Lubią otwarte przestrzenie z wysoką trawą i kilkoma rozrzuconymi drzewami. Stamtąd mogą obserwować okolicę i stada zwierząt, które dzielą z nimi dom.",
+      "script_fi": "Leijonat elävät pääasiassa Afrikan laajoilla ruohotasangoilla, ja pienempi populaatio asustaa Intiassa. Ne pitävät avoimista paikoista, joilla on korkeaa ruohoa ja muutamia harvoja puita. Sieltä käsin ne voivat tarkkailla maisemaa ja eläinlaumoja, jotka jakavat niiden kotiseudun.",
+      "script_sk": "Levy žijú najmä na šírych trávnatých pláňach Afriky a menšia populácia sa zachovala v Indii. Majú radi otvorené priestory s vysokou trávou a niekoľkými roztrúsenými stromami. Odtiaľ môžu strážiť krajinu a sledovať stáda zvierat, ktoré s nimi zdieľajú domov.",
+      "script_da": "Løver lever især på Afrikas vidtstrakte græssletter, og en mindre bestand findes i Indien. De foretrækker åbne områder med højt græs og spredte træer. Derfra kan de holde øje med landskabet og se de dyreflokke, der deler deres hjem.",
+      "images": [
+        "habitat.webp",
+        "habitat_2.webp",
+        "habitat_3.webp"
+      ]
+    },
+    {
+      "id": "pride",
+      "script_en": "Lions live in family groups called prides. A pride is usually made up of several mothers, their cubs, and a few adult males. The lions in a pride work together, take care of each other, and share the food they catch.",
+      "script_de": "Löwen leben in Familiengruppen, die man Rudel nennt. Ein Rudel besteht meistens aus mehreren Müttern, ihren Jungen und einigen erwachsenen Männchen. Die Löwen im Rudel arbeiten zusammen, kümmern sich umeinander und teilen die Beute, die sie machen.",
+      "script_it": "I leoni vivono in gruppi familiari chiamati branchi. Un branco è di solito formato da diverse madri, i loro cuccioli e alcuni maschi adulti. I leoni del branco collaborano, si prendono cura gli uni degli altri e condividono il cibo che cacciano.",
+      "script_fr": "Les lions vivent en groupes familiaux appelés des troupes. Une troupe est généralement composée de plusieurs mères, de leurs petits et de quelques mâles adultes. Les lions d’une troupe coopèrent, prennent soin les uns des autres et partagent la nourriture qu’ils attrapent.",
+      "script_es": "Los leones viven en grupos familiares llamados manadas. Una manada suele estar formada por varias madres, sus cachorros y unos pocos machos adultos. Los leones de una manada trabajan juntos, se cuidan entre sí y comparten la comida que cazan.",
+      "script_hr": "Lavovi žive u obiteljskim skupinama koje se zovu čopori. Čopor obično čine nekoliko majki, njihovi mladunci i nekoliko odraslih mužjaka. Lavovi u čoporu surađuju, brinu jedni o drugima i dijele hranu koju ulove.",
+      "script_cs": "Lvi žijí v rodinných skupinách, kterým se říká smečky. Smečku obvykle tvoří několik matek, jejich mláďata a několik dospělých samců. Lvi ve smečce spolupracují, starají se jeden o druhého a dělí se o úlovek.",
+      "script_pl": "Lwy żyją w rodzinnych grupach zwanych stadami. Stado tworzy zwykle kilka matek, ich młode i kilku dorosłych samców. Lwy w stadzie współpracują, troszczą się o siebie nawzajem i dzielą się zdobytym pożywieniem.",
+      "script_fi": "Leijonat elävät perheryhmissä, joita kutsutaan laumoiksi. Laumassa on yleensä useita emoja, niiden pennut ja muutama aikuinen uros. Lauman leijonat tekevät yhteistyötä, pitävät huolta toisistaan ja jakavat saaliinsa.",
+      "script_sk": "Levy žijú v rodinných skupinách, ktoré sa volajú svorky. Svorku zvyčajne tvorí niekoľko matiek, ich mláďatá a niekoľko dospelých samcov. Levy vo svorke spolupracujú, starajú sa o seba a delia sa o ulovenú korisť.",
+      "script_da": "Løver lever i familiegrupper, som kaldes flokke. En flok består som regel af flere mødre, deres unger og nogle få voksne hanner. Løverne i en flok samarbejder, passer på hinanden og deler den mad, de fanger.",
+      "images": [
+        "pride.webp",
+        "pride_2.webp",
+        "pride_3.webp"
+      ]
+    },
+    {
+      "id": "cub",
+      "script_en": "A baby lion is called a cub. Cubs are born with soft spots on their fur and drink their mother’s milk for the first months of life. They learn to hunt by playing and tumbling with their brothers and sisters.",
+      "script_de": "Ein junger Löwe heißt Welpe oder Jungtier. Welpen kommen mit weichen Flecken im Fell zur Welt und trinken in den ersten Monaten die Milch ihrer Mutter. Sie lernen das Jagen, indem sie mit ihren Geschwistern spielen und herumtollen.",
+      "script_it": "Un piccolo di leone si chiama cucciolo. I cuccioli nascono con macchie morbide sul pelo e nei primi mesi bevono il latte della madre. Imparano a cacciare giocando e ruzzolando con i loro fratelli e sorelle.",
+      "script_fr": "Un bébé lion s’appelle un lionceau. Les lionceaux naissent avec de petites taches douces sur le pelage et boivent le lait de leur mère pendant les premiers mois. Ils apprennent à chasser en jouant et en se chamaillant avec leurs frères et sœurs.",
+      "script_es": "Una cría de león se llama cachorro. Los cachorros nacen con suaves manchas en el pelaje y beben la leche de su madre durante los primeros meses. Aprenden a cazar jugando y revolcándose con sus hermanos y hermanas.",
+      "script_hr": "Mladunče lava zove se mladunče ili lavić. Mladunci se rađaju s mekanim pjegama u krznu i prvih mjeseci piju majčino mlijeko. Lov uče kroz igru i hrvanje sa svojom braćom i sestrama.",
+      "script_cs": "Mládě lva se nazývá lvíče. Lvíčata se rodí s měkkými skvrnami na srsti a první měsíce pijí mateřské mléko. Lovit se učí tím, že si hrají a peskují se se svými sourozenci.",
+      "script_pl": "Małego lwa nazywa się lwiątkiem. Lwiątka rodzą się z miękkimi plamkami na futrze i przez pierwsze miesiące piją mleko matki. Polowania uczą się przez zabawę i mocowanie się ze swoim rodzeństwem.",
+      "script_fi": "Leijonan poikasta sanotaan pennuksi. Pennut syntyvät pehmeästi täplikkäinä ja juovat ensimmäisten kuukausien ajan emonsa maitoa. Ne oppivat metsästämään leikkimällä ja telmimällä sisarustensa kanssa.",
+      "script_sk": "Mláďa leva sa volá levíča. Levíčatá sa rodia s mäkkými škvrnami v srsti a prvé mesiace pijú materské mlieko. Loviť sa učia tým, že sa hrajú a doháňajú so súrodencami.",
+      "script_da": "En babyløve kaldes en unge. Ungerne fødes med bløde pletter i pelsen og drikker deres mors mælk i de første måneder. De lærer at jage ved at lege og brydes med deres søskende.",
+      "images": [
+        "cub.webp",
+        "cub_2.webp",
+        "cub_3.webp"
+      ]
+    },
+    {
+      "id": "roar_and_hunt",
+      "script_en": "A male lion’s thick mane shows other lions just how strong and grown-up he is. Their mighty roar can be heard from many kilometers away across the savanna. The lionesses do most of the hunting, working together quietly at dusk and dawn.",
+      "script_de": "Die dichte Mähne eines männlichen Löwen zeigt den anderen Löwen, wie stark und erwachsen er ist. Ihr gewaltiges Brüllen ist über viele Kilometer hinweg in der Savanne zu hören. Die Löwinnen erledigen den größten Teil der Jagd und arbeiten dabei in der Dämmerung leise zusammen.",
+      "script_it": "La folta criniera del leone maschio mostra agli altri leoni quanto sia forte e adulto. Il loro potente ruggito si sente a chilometri di distanza nella savana. Le leonesse si occupano della maggior parte della caccia, lavorando insieme in silenzio all’alba e al tramonto.",
+      "script_fr": "L’épaisse crinière du lion mâle montre aux autres lions à quel point il est fort et adulte. Leur puissant rugissement s’entend à plusieurs kilomètres dans la savane. Ce sont les lionnes qui chassent le plus, en travaillant ensemble en silence à l’aube et au crépuscule.",
+      "script_es": "La espesa melena del león macho muestra a los demás leones lo fuerte y adulto que es. Su poderoso rugido puede oírse a muchos kilómetros de distancia en la sabana. Las leonas se encargan de la mayor parte de la caza, trabajando juntas en silencio al amanecer y al atardecer.",
+      "script_hr": "Gusta griva mužjaka lava drugim lavovima pokazuje koliko je snažan i odrastao. Njihova snažna rika čuje se na kilometre daleko u savani. Većinu lova obavljaju lavice, koje zajedno tiho rade u sumrak i u zoru.",
+      "script_cs": "Hustá hříva samce lva ostatním lvům ukazuje, jak je silný a dospělý. Jejich mocný řev je v savaně slyšet na mnoho kilometrů daleko. Většinu lovu obstarávají lvice, které pracují společně potichu za soumraku a za úsvitu.",
+      "script_pl": "Gęsta grzywa samca lwa pokazuje innym lwom, jaki jest silny i dorosły. Ich potężny ryk słychać w sawannie z odległości wielu kilometrów. Większość polowań prowadzą lwice, które cicho współpracują o świcie i o zmierzchu.",
+      "script_fi": "Urosleijonan tuuhea harja kertoo muille leijonille, kuinka vahva ja aikuinen se on. Niiden mahtava karjunta kuuluu monen kilometrin päähän savannilla. Suurimman osan saalistuksesta hoitavat naarasleijonat, jotka tekevät yhdessä hiljaa työtä iltahämärässä ja aamunkoitossa.",
+      "script_sk": "Hustá hriva samca leva ukazuje ostatným levom, aký je silný a dospelý. Ich mohutný rev je v savane počuť na mnoho kilometrov ďaleko. Väčšinu lovu zvládajú levice, ktoré spolu potichu pracujú za súmraku a za úsvitu.",
+      "script_da": "Hannløvens tykke manke viser de andre løver, hvor stærk og voksen den er. Deres mægtige brøl kan høres mange kilometer væk ude på savannen. Det er løvinderne, der står for det meste af jagten, og de arbejder stille sammen i skumringen og ved daggry.",
+      "images": [
+        "roar_and_hunt.webp",
+        "roar_and_hunt_2.webp",
+        "roar_and_hunt_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "group_name",
+      "question_en": "What is a lion family group called?",
+      "question_de": "Wie nennt man eine Löwenfamilie?",
+      "question_it": "Come si chiama un gruppo familiare di leoni?",
+      "question_fr": "Comment appelle-t-on un groupe familial de lions ?",
+      "question_es": "¿Cómo se llama un grupo familiar de leones?",
+      "question_hr": "Kako se zove obiteljska skupina lavova?",
+      "question_cs": "Jak se nazývá rodinná skupina lvů?",
+      "question_pl": "Jak nazywa się rodzinna grupa lwów?",
+      "question_fi": "Mikä on leijonien perheryhmän nimi?",
+      "question_sk": "Ako sa volá rodinná skupina levov?",
+      "question_da": "Hvad kaldes en løvefamilie?",
+      "correct": "pride",
+      "options": [
+        {
+          "id": "pride",
+          "label_en": "A pride",
+          "label_de": "Ein Rudel",
+          "label_it": "Un branco",
+          "label_fr": "Une troupe",
+          "label_es": "Una manada",
+          "label_hr": "Čopor",
+          "label_cs": "Smečka",
+          "label_pl": "Stado",
+          "label_fi": "Lauma",
+          "label_sk": "Svorka",
+          "label_da": "En flok"
+        },
+        {
+          "id": "pack",
+          "label_en": "A pack",
+          "label_de": "Ein Wolfsrudel",
+          "label_it": "Un branco (di lupi)",
+          "label_fr": "Une meute",
+          "label_es": "Una jauría",
+          "label_hr": "Čopor (vukova)",
+          "label_cs": "Smečka (vlčí)",
+          "label_pl": "Wataha",
+          "label_fi": "Susilauma",
+          "label_sk": "Vlčia svorka",
+          "label_da": "En ulveflok"
+        },
+        {
+          "id": "herd",
+          "label_en": "A herd",
+          "label_de": "Eine Herde",
+          "label_it": "Una mandria",
+          "label_fr": "Un troupeau",
+          "label_es": "Un rebaño",
+          "label_hr": "Krdo",
+          "label_cs": "Stádo",
+          "label_pl": "Stado (zwierząt kopytnych)",
+          "label_fi": "Karja",
+          "label_sk": "Stádo",
+          "label_da": "En hjord"
+        }
+      ]
+    },
+    {
+      "id": "cub",
+      "question_en": "What is a baby lion called?",
+      "question_de": "Wie nennt man ein junges Löwenbaby?",
+      "question_it": "Come si chiama un cucciolo di leone?",
+      "question_fr": "Comment appelle-t-on un bébé lion ?",
+      "question_es": "¿Cómo se llama una cría de león?",
+      "question_hr": "Kako se zove mladunče lava?",
+      "question_cs": "Jak se říká mláděti lva?",
+      "question_pl": "Jak nazywa się małe lwa?",
+      "question_fi": "Mikä on leijonan poikasen nimi?",
+      "question_sk": "Ako sa volá mláďa leva?",
+      "question_da": "Hvad kaldes en babyløve?",
+      "correct": "cub",
+      "options": [
+        {
+          "id": "cub",
+          "label_en": "Cub",
+          "label_de": "Löwenjunges",
+          "label_it": "Cucciolo",
+          "label_fr": "Lionceau",
+          "label_es": "Cachorro",
+          "label_hr": "Mladunče",
+          "label_cs": "Lvíče",
+          "label_pl": "Lwiątko",
+          "label_fi": "Pentu",
+          "label_sk": "Levíča",
+          "label_da": "Løveunge"
+        },
+        {
+          "id": "pup",
+          "label_en": "Pup",
+          "label_de": "Welpe",
+          "label_it": "Cucciolo (di cane)",
+          "label_fr": "Chiot",
+          "label_es": "Cachorro (de perro)",
+          "label_hr": "Štene",
+          "label_cs": "Štěně",
+          "label_pl": "Szczeniak",
+          "label_fi": "Pentu (koira)",
+          "label_sk": "Šteňa",
+          "label_da": "Hvalp"
+        },
+        {
+          "id": "kit",
+          "label_en": "Kit",
+          "label_de": "Fuchsjunges",
+          "label_it": "Cucciolo (di volpe)",
+          "label_fr": "Renardeau",
+          "label_es": "Zorrito",
+          "label_hr": "Mladunče lisice",
+          "label_cs": "Mládě lišky",
+          "label_pl": "Lisiątko",
+          "label_fi": "Ketunpentu",
+          "label_sk": "Mláďa líšky",
+          "label_da": "Ræveunge"
+        }
+      ]
+    },
+    {
+      "id": "hunters",
+      "question_en": "Who does most of the hunting in a lion pride?",
+      "question_de": "Wer übernimmt im Löwenrudel den größten Teil der Jagd?",
+      "question_it": "Chi si occupa della maggior parte della caccia in un branco di leoni?",
+      "question_fr": "Qui fait l’essentiel de la chasse dans une troupe de lions ?",
+      "question_es": "¿Quién se encarga de la mayor parte de la caza en una manada de leones?",
+      "question_hr": "Tko obavlja većinu lova u lavljem čoporu?",
+      "question_cs": "Kdo ve smečce lvů obstarává většinu lovu?",
+      "question_pl": "Kto w stadzie lwów wykonuje większość polowań?",
+      "question_fi": "Kuka hoitaa suurimman osan saalistuksesta leijonalaumassa?",
+      "question_sk": "Kto vo svorke levov zvláda väčšinu lovu?",
+      "question_da": "Hvem står for det meste af jagten i en løveflok?",
+      "correct": "lionesses",
+      "options": [
+        {
+          "id": "lionesses",
+          "label_en": "The lionesses (females)",
+          "label_de": "Die Löwinnen (Weibchen)",
+          "label_it": "Le leonesse (femmine)",
+          "label_fr": "Les lionnes (les femelles)",
+          "label_es": "Las leonas (las hembras)",
+          "label_hr": "Lavice (ženke)",
+          "label_cs": "Lvice (samice)",
+          "label_pl": "Lwice (samice)",
+          "label_fi": "Naarasleijonat",
+          "label_sk": "Levice (samice)",
+          "label_da": "Løvinderne (hunnerne)"
+        },
+        {
+          "id": "males",
+          "label_en": "The adult males",
+          "label_de": "Die erwachsenen Männchen",
+          "label_it": "I maschi adulti",
+          "label_fr": "Les mâles adultes",
+          "label_es": "Los machos adultos",
+          "label_hr": "Odrasli mužjaci",
+          "label_cs": "Dospělí samci",
+          "label_pl": "Dorosłe samce",
+          "label_fi": "Aikuiset urokset",
+          "label_sk": "Dospelí samci",
+          "label_da": "De voksne hanner"
+        },
+        {
+          "id": "cubs",
+          "label_en": "The young cubs",
+          "label_de": "Die jungen Welpen",
+          "label_it": "I cuccioli più piccoli",
+          "label_fr": "Les jeunes lionceaux",
+          "label_es": "Los cachorros pequeños",
+          "label_hr": "Mladi mladunci",
+          "label_cs": "Mladá lvíčata",
+          "label_pl": "Małe lwiątka",
+          "label_fi": "Nuoret pennut",
+          "label_sk": "Mladé levíčatá",
+          "label_da": "De små unger"
+        }
+      ]
+    }
+  ]
+}

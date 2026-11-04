@@ -1,0 +1,293 @@
+{
+  "id": "cat",
+  "category_id": "animals",
+  "symbol_id": "cat",
+  "thumbnail": "cat_thumb.webp",
+  "title_en": "Cats",
+  "title_de": "Katzen",
+  "title_it": "I gatti",
+  "title_fr": "Les chats",
+  "title_es": "Los gatos",
+  "title_hr": "Mačke",
+  "title_cs": "Kočky",
+  "title_pl": "Koty",
+  "title_fi": "Kissat",
+  "title_sk": "Mačky",
+  "title_da": "Katte",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about cats. Cats are soft, curious, and clever animals that have lived alongside people for thousands of years. They are loved all over the world for their playful nature and the close friendship they share with humans.",
+      "script_de": "Heute lernen wir etwas über Katzen. Katzen sind weiche, neugierige und kluge Tiere, die seit Tausenden von Jahren mit den Menschen leben. Sie werden auf der ganzen Welt für ihr verspieltes Wesen und ihre enge Freundschaft mit den Menschen geliebt.",
+      "script_it": "Oggi impareremo qualcosa sui gatti. I gatti sono animali morbidi, curiosi e intelligenti, che vivono accanto agli esseri umani da migliaia di anni. Sono amati in tutto il mondo per il loro carattere giocoso e per la profonda amicizia che condividono con le persone.",
+      "script_fr": "Aujourd’hui, nous allons apprendre à connaître les chats. Les chats sont des animaux doux, curieux et intelligents qui vivent aux côtés des humains depuis des milliers d’années. Ils sont aimés dans le monde entier pour leur caractère joueur et l’amitié étroite qu’ils partagent avec les gens.",
+      "script_es": "Hoy vamos a aprender sobre los gatos. Los gatos son animales suaves, curiosos e inteligentes que han vivido junto a las personas durante miles de años. Son queridos en todo el mundo por su carácter juguetón y la estrecha amistad que comparten con los humanos.",
+      "script_hr": "Danas ćemo učiti o mačkama. Mačke su mekane, znatiželjne i pametne životinje koje žive uz ljude već tisućama godina. Vole ih posvuda u svijetu zbog njihove razigrane naravi i bliskog prijateljstva koje dijele s ljudima.",
+      "script_cs": "Dnes se budeme učit o kočkách. Kočky jsou měkká, zvědavá a chytrá zvířata, která žijí po boku lidí už tisíce let. Mají je rádi po celém světě pro jejich hravou povahu a blízké přátelství, které sdílejí s lidmi.",
+      "script_pl": "Dzisiaj poznamy koty. Koty to miękkie, ciekawskie i mądre zwierzęta, które żyją u boku ludzi od tysięcy lat. Są kochane na całym świecie za swój zabawny charakter i bliską przyjaźń, jaką dzielą z człowiekiem.",
+      "script_fi": "Tänään opimme kissoista. Kissat ovat pehmeitä, uteliaita ja älykkäitä eläimiä, jotka ovat eläneet ihmisten rinnalla tuhansia vuosia. Niitä rakastetaan ympäri maailmaa niiden leikkisän luonteen ja ihmisten kanssa jakaman läheisen ystävyyden vuoksi.",
+      "script_sk": "Dnes sa budeme učiť o mačkách. Mačky sú jemné, zvedavé a múdre zvieratá, ktoré žijú po boku ľudí už tisíce rokov. Sú obľúbené po celom svete pre svoju hravú povahu a blízke priateľstvo, ktoré zdieľajú s ľuďmi.",
+      "script_da": "I dag skal vi lære om katte. Katte er bløde, nysgerrige og kloge dyr, der har levet side om side med mennesker i tusinder af år. De er elsket overalt i verden for deres legesyge væsen og det tætte venskab, de deler med mennesker.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "wild_origin",
+      "script_en": "Pet cats come from a wild ancestor called the African wildcat. About ten thousand years ago, when people first began to store grain, wildcats came close to villages to hunt the mice that ate the grain. Little by little they grew used to humans, and that is how cats started living with us.",
+      "script_de": "Hauskatzen stammen von einem wilden Vorfahren ab, der Falbkatze. Vor etwa zehntausend Jahren, als die Menschen anfingen, Getreide zu lagern, kamen Wildkatzen in die Nähe der Dörfer, um die Mäuse zu jagen, die das Getreide fraßen. Nach und nach gewöhnten sie sich an die Menschen, und so begannen Katzen, mit uns zu leben.",
+      "script_it": "I gatti domestici discendono da un antenato selvatico chiamato gatto selvatico africano. Circa diecimila anni fa, quando le persone iniziarono a conservare il grano, i gatti selvatici si avvicinarono ai villaggi per cacciare i topi che mangiavano il grano. Poco a poco si abituarono agli esseri umani, ed è così che i gatti hanno cominciato a vivere con noi.",
+      "script_fr": "Les chats domestiques descendent d’un ancêtre sauvage appelé le chat sauvage d’Afrique. Il y a environ dix mille ans, quand les humains ont commencé à stocker du grain, les chats sauvages se sont approchés des villages pour chasser les souris qui mangeaient le grain. Petit à petit, ils se sont habitués aux humains, et c’est ainsi que les chats ont commencé à vivre avec nous.",
+      "script_es": "Los gatos domésticos descienden de un antepasado salvaje llamado gato montés africano. Hace unos diez mil años, cuando las personas empezaron a almacenar grano, los gatos salvajes se acercaron a las aldeas para cazar los ratones que se comían el grano. Poco a poco se acostumbraron a los humanos, y así fue como los gatos comenzaron a vivir con nosotros.",
+      "script_hr": "Domaće mačke potječu od divljeg pretka koji se zove afrička divlja mačka. Prije otprilike deset tisuća godina, kad su ljudi počeli skladištiti žito, divlje su se mačke približile selima kako bi lovile miševe koji su jeli žito. Malo po malo navikle su se na ljude, i tako su mačke počele živjeti s nama.",
+      "script_cs": "Domácí kočky pocházejí z divokého předka, který se nazývá kočka divoká plavá. Asi před deseti tisíci lety, když lidé začali skladovat obilí, divoké kočky se přiblížily k vesnicím, aby lovily myši, které obilí ujídaly. Postupně si na lidi zvykly, a tak začaly kočky žít s námi.",
+      "script_pl": "Domowe koty pochodzą od dzikiego przodka zwanego żbikiem afrykańskim. Około dziesięciu tysięcy lat temu, kiedy ludzie zaczęli przechowywać ziarno, dzikie koty zbliżały się do wiosek, by polować na myszy, które zjadały zboże. Powoli przyzwyczajały się do ludzi, i tak właśnie koty zaczęły żyć razem z nami.",
+      "script_fi": "Kotikissat polveutuvat villistä esi-isästä, jota kutsutaan afrikkalaiseksi villikissaksi. Noin kymmenen tuhatta vuotta sitten, kun ihmiset alkoivat varastoida viljaa, villikissat tulivat kylien lähelle pyydystämään hiiriä, jotka söivät viljaa. Vähitellen ne tottuivat ihmisiin, ja näin kissat alkoivat elää meidän kanssamme.",
+      "script_sk": "Domáce mačky pochádzajú z divého predka, ktorý sa volá mačka divá africká. Asi pred desiatimi tisíckami rokov, keď ľudia začali skladovať obilie, divoké mačky sa priblížili k dedinám, aby lovili myši, ktoré obilie ujedali. Postupne si zvykli na ľudí, a tak začali mačky žiť s nami.",
+      "script_da": "Tamkatte stammer fra en vild forfader, der hedder den afrikanske vildkat. For omkring ti tusind år siden, da mennesker begyndte at gemme korn, kom vildkattene tæt på landsbyerne for at jage de mus, der spiste kornet. Lidt efter lidt vænnede de sig til mennesker, og sådan begyndte katte at leve sammen med os.",
+      "images": [
+        "wild_origin.webp",
+        "wild_origin_2.webp",
+        "wild_origin_3.webp"
+      ]
+    },
+    {
+      "id": "body",
+      "script_en": "A cat has a wonderful body made for quiet hunting. It has keen eyes that see well in the dark, long whiskers that feel even the smallest movement, and sharp claws that can slide in and out of its soft paws. Its spine is so flexible that it can twist and stretch into almost any shape.",
+      "script_de": "Eine Katze hat einen wunderbaren Körper, der zum leisen Jagen gemacht ist. Sie hat scharfe Augen, die im Dunkeln gut sehen, lange Schnurrhaare, die selbst die kleinste Bewegung spüren, und scharfe Krallen, die in ihren weichen Pfoten ein- und ausgefahren werden können. Ihre Wirbelsäule ist so beweglich, dass sie sich in fast jede Form drehen und strecken kann.",
+      "script_it": "Il gatto ha un corpo meraviglioso, fatto per cacciare in silenzio. Ha occhi acuti che vedono bene al buio, lunghi baffi che percepiscono anche il più piccolo movimento e artigli affilati che possono uscire e rientrare nelle sue zampe morbide. La sua spina dorsale è così flessibile da potersi piegare e allungare in quasi qualsiasi forma.",
+      "script_fr": "Le chat a un corps merveilleux, fait pour chasser en silence. Il a des yeux perçants qui voient bien dans le noir, de longues moustaches qui sentent le moindre mouvement et des griffes pointues qui peuvent rentrer et sortir de ses pattes douces. Sa colonne vertébrale est si souple qu’il peut se tordre et s’étirer dans presque toutes les positions.",
+      "script_es": "El gato tiene un cuerpo maravilloso, hecho para cazar en silencio. Tiene ojos agudos que ven bien en la oscuridad, largos bigotes que sienten hasta el más pequeño movimiento y garras afiladas que pueden meterse y sacarse de sus suaves patas. Su columna es tan flexible que puede girarse y estirarse en casi cualquier forma.",
+      "script_hr": "Mačka ima divno tijelo stvoreno za tihi lov. Ima oštre oči koje dobro vide u mraku, duge brkove koji osjete i najmanji pokret te oštre pandže koje se mogu izvući i uvući u meke šape. Kralježnica joj je toliko gibljiva da se može uvinuti i istegnuti u gotovo svaki oblik.",
+      "script_cs": "Kočka má úžasné tělo stvořené k tichému lovu. Má bystré oči, které dobře vidí ve tmě, dlouhé vousky, jež cítí i ten nejmenší pohyb, a ostré drápy, které dokáže zatáhnout a vysunout ze svých měkkých tlapek. Páteř má tak ohebnou, že se umí prohnout a protáhnout téměř do jakéhokoli tvaru.",
+      "script_pl": "Kot ma wspaniałe ciało stworzone do cichego polowania. Ma bystre oczy, które dobrze widzą w ciemności, długie wąsy wyczuwające nawet najmniejszy ruch oraz ostre pazury, które potrafi chować i wysuwać z miękkich łapek. Jego kręgosłup jest tak giętki, że potrafi się skręcać i wyciągać w niemal każdą stronę.",
+      "script_fi": "Kissalla on ihmeellinen, hiljaiseen metsästykseen tehty keho. Sillä on tarkat silmät, jotka näkevät hyvin pimeässä, pitkät viikset, jotka tuntevat pieninkin liikkeen, sekä terävät kynnet, jotka liukuvat sisään ja ulos sen pehmeistä tassuista. Sen selkäranka on niin notkea, että se voi vääntyä ja venyä lähes mihin tahansa muotoon.",
+      "script_sk": "Mačka má nádherné telo stvorené na tichý lov. Má bystré oči, ktoré dobre vidia v tme, dlhé fúzy, ktoré cítia aj ten najmenší pohyb, a ostré pazúry, ktoré dokáže zatiahnuť a vysunúť z mäkkých labiek. Jej chrbtica je taká ohybná, že sa dokáže prehnúť a natiahnuť takmer do akéhokoľvek tvaru.",
+      "script_da": "En kat har en vidunderlig krop, der er skabt til stille jagt. Den har skarpe øjne, der ser godt i mørket, lange knurhår, der mærker selv den mindste bevægelse, og skarpe kløer, som kan glide ind og ud af dens bløde poter. Dens rygsøjle er så smidig, at den kan vride og strække sig næsten i alle former.",
+      "images": [
+        "body.webp",
+        "body_2.webp",
+        "body_3.webp"
+      ]
+    },
+    {
+      "id": "kitten",
+      "script_en": "A baby cat is called a kitten. Kittens are born very small and cannot open their eyes at first, so they sleep close to their mother to stay warm and safe. After about a week their eyes open, and soon they begin to play with their brothers and sisters, learning to pounce, climb, and look after themselves.",
+      "script_de": "Ein junges Kätzchen nennt man Kätzchen. Kätzchen sind bei der Geburt sehr klein und können ihre Augen zuerst nicht öffnen, also schlafen sie dicht bei ihrer Mutter, um warm und sicher zu sein. Nach etwa einer Woche öffnen sich ihre Augen, und bald beginnen sie, mit ihren Geschwistern zu spielen und so zu lernen, wie man springt, klettert und auf sich aufpasst.",
+      "script_it": "Un cucciolo di gatto si chiama gattino. I gattini nascono molto piccoli e all’inizio non riescono ad aprire gli occhi, perciò dormono accanto alla mamma per restare al caldo e al sicuro. Dopo circa una settimana i loro occhi si aprono e ben presto cominciano a giocare con i fratellini e le sorelline, imparando a balzare, arrampicarsi e a badare a se stessi.",
+      "script_fr": "Un bébé chat s’appelle un chaton. Les chatons naissent tout petits et ne peuvent pas ouvrir les yeux au début, alors ils dorment tout près de leur mère pour rester au chaud et en sécurité. Après environ une semaine, leurs yeux s’ouvrent, et bientôt ils se mettent à jouer avec leurs frères et sœurs, en apprenant à bondir, grimper et prendre soin d’eux-mêmes.",
+      "script_es": "Una cría de gato se llama gatito. Los gatitos nacen muy pequeños y al principio no pueden abrir los ojos, por eso duermen junto a su madre para estar calientes y a salvo. Al cabo de una semana sus ojos se abren, y pronto empiezan a jugar con sus hermanos y hermanas, aprendiendo a saltar, trepar y cuidarse a sí mismos.",
+      "script_hr": "Mladunče mačke zove se mače. Mačići se rađaju jako maleni i isprva ne mogu otvoriti oči, pa spavaju uz svoju mamu kako bi bili topli i sigurni. Nakon otprilike tjedan dana oči im se otvore, a uskoro počinju se igrati s braćom i sestrama, učeći se skakati, penjati i brinuti se sami za sebe.",
+      "script_cs": "Mládě kočky se nazývá kotě. Koťata se rodí velmi malá a zpočátku nemohou otevřít oči, a tak spí těsně u své maminky, aby byla v teple a bezpečí. Asi po týdnu se jim oči otevřou a brzy si začnou hrát se sourozenci, kde se učí skákat, šplhat a starat se samy o sebe.",
+      "script_pl": "Małego kota nazywa się kociakiem. Kociaki rodzą się bardzo małe i z początku nie potrafią otworzyć oczu, dlatego śpią blisko mamy, aby było im ciepło i bezpiecznie. Po około tygodniu otwierają oczy i wkrótce zaczynają się bawić z rodzeństwem, ucząc się skakać, wspinać i dbać o siebie.",
+      "script_fi": "Kissan poikasta sanotaan pennuksi. Kissanpennut syntyvät hyvin pieninä eivätkä saa aluksi silmiään auki, joten ne nukkuvat lähellä emoaan pysyäkseen lämpiminä ja turvassa. Noin viikon kuluttua niiden silmät avautuvat, ja pian ne alkavat leikkiä sisarustensa kanssa oppien hyppäämään, kiipeämään ja huolehtimaan itsestään.",
+      "script_sk": "Mláďa mačky sa volá mačiatko. Mačiatka sa rodia veľmi malé a spočiatku nedokážu otvoriť oči, preto spia blízko mamy, aby boli v teple a bezpečí. Asi po týždni sa im oči otvoria a čoskoro sa začnú hrať so súrodencami, pričom sa učia skákať, šplhať a starať sa o seba.",
+      "script_da": "En babykat kaldes en killing. Killinger fødes meget små og kan ikke åbne øjnene i starten, så de sover tæt på deres mor for at være varme og trygge. Efter omkring en uge åbner deres øjne, og snart begynder de at lege med deres søskende, hvor de lærer at springe, klatre og passe på sig selv.",
+      "images": [
+        "kitten.webp",
+        "kitten_2.webp",
+        "kitten_3.webp"
+      ]
+    },
+    {
+      "id": "life_today",
+      "script_en": "Today cats live as pets and companions in homes all over the world. They love to rest and sleep for about sixteen hours every day, often curled up in a sunny spot. They talk to us in many ways, with soft purring, gentle meows, and the way they move their tails and ears.",
+      "script_de": "Heute leben Katzen als Haustiere und Begleiter in Häusern auf der ganzen Welt. Sie ruhen und schlafen sehr gern, etwa sechzehn Stunden am Tag, oft eingerollt an einem sonnigen Plätzchen. Sie sprechen auf viele Arten mit uns, durch leises Schnurren, sanftes Miauen und die Bewegungen ihres Schwanzes und ihrer Ohren.",
+      "script_it": "Oggi i gatti vivono come animali domestici e compagni in case di tutto il mondo. Amano riposare e dormire circa sedici ore al giorno, spesso raggomitolati in un angolo soleggiato. Ci parlano in tanti modi, con dolci fusa, miagolii gentili e con il movimento della coda e delle orecchie.",
+      "script_fr": "Aujourd’hui, les chats vivent comme animaux de compagnie dans des maisons partout dans le monde. Ils adorent se reposer et dormir environ seize heures par jour, souvent en boule dans un coin ensoleillé. Ils nous parlent de bien des façons, par leur doux ronronnement, leurs miaulements gentils et les mouvements de leur queue et de leurs oreilles.",
+      "script_es": "Hoy los gatos viven como mascotas y compañeros en hogares de todo el mundo. Les encanta descansar y dormir unas dieciséis horas al día, muchas veces acurrucados en un rincón soleado. Nos hablan de muchas maneras, con suaves ronroneos, dulces maullidos y los movimientos de su cola y sus orejas.",
+      "script_hr": "Danas mačke žive kao kućni ljubimci i prijatelji u domovima diljem svijeta. Vole se odmarati i spavati oko šesnaest sati dnevno, često sklupčane na sunčanom mjestu. S nama razgovaraju na mnogo načina, tihim predenjem, nježnim maukanjem te pokretima repa i ušiju.",
+      "script_cs": "Dnes kočky žijí jako domácí mazlíčci a společníci v domovech po celém světě. Rády odpočívají a spí asi šestnáct hodin denně, často stočené do klubíčka na slunném místě. Mluví s námi mnoha způsoby, tichým předením, jemným mňoukáním a pohyby ocásku a uší.",
+      "script_pl": "Dziś koty żyją jako domowi pupile i towarzysze w domach na całym świecie. Uwielbiają odpoczywać i przesypiać około szesnastu godzin dziennie, często zwinięte w kłębek w słonecznym miejscu. Rozmawiają z nami na wiele sposobów, cichym mruczeniem, łagodnym miauczeniem oraz ruchami ogona i uszu.",
+      "script_fi": "Nykyään kissat elävät lemmikkeinä ja seuralaisina kodeissa ympäri maailmaa. Ne lepäävät ja nukkuvat mielellään noin kuusitoista tuntia päivässä, usein keräytyneenä kerälle aurinkoiseen paikkaan. Ne puhuvat meille monin tavoin, hiljaisella kehräyksellä, lempeällä naukumisella sekä hännän ja korvien liikkeillä.",
+      "script_sk": "Dnes mačky žijú ako domáci miláčikovia a spoločníci v domácnostiach po celom svete. Rady oddychujú a spia približne šestnásť hodín denne, často stočené na slnečnom mieste. S nami sa rozprávajú mnohými spôsobmi, tichým priadením, jemným mňaukaním a pohybmi chvosta a uší.",
+      "script_da": "I dag lever katte som kæledyr og følgesvende i hjem over hele verden. De elsker at hvile og sove omkring seksten timer hver dag, ofte krøllet sammen i en solrig krog. De taler til os på mange måder, med blid spinden, milde mjav og måden, de bevæger halen og ørerne på.",
+      "images": [
+        "life_today.webp",
+        "life_today_2.webp",
+        "life_today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "origin",
+      "question_en": "Which wild animal are pet cats descended from?",
+      "question_de": "Von welchem wilden Tier stammen Hauskatzen ab?",
+      "question_it": "Da quale animale selvatico discendono i gatti domestici?",
+      "question_fr": "De quel animal sauvage les chats domestiques descendent-ils ?",
+      "question_es": "¿De qué animal salvaje descienden los gatos domésticos?",
+      "question_hr": "Od koje divlje životinje potječu domaće mačke?",
+      "question_cs": "Z jakého divokého zvířete pocházejí domácí kočky?",
+      "question_pl": "Od jakiego dzikiego zwierzęcia pochodzą domowe koty?",
+      "question_fi": "Mistä villieläimestä kotikissat polveutuvat?",
+      "question_sk": "Z ktorého divého zvieraťa pochádzajú domáce mačky?",
+      "question_da": "Hvilket vildt dyr stammer tamkatte fra?",
+      "correct": "african_wildcat",
+      "options": [
+        {
+          "id": "african_wildcat",
+          "label_en": "African wildcat",
+          "label_de": "Afrikanische Falbkatze",
+          "label_it": "Gatto selvatico africano",
+          "label_fr": "Chat sauvage d’Afrique",
+          "label_es": "Gato montés africano",
+          "label_hr": "Afrička divlja mačka",
+          "label_cs": "Kočka divoká plavá",
+          "label_pl": "Żbik afrykański",
+          "label_fi": "Afrikkalainen villikissa",
+          "label_sk": "Mačka divá africká",
+          "label_da": "Afrikansk vildkat"
+        },
+        {
+          "id": "lion",
+          "label_en": "Lion",
+          "label_de": "Löwe",
+          "label_it": "Leone",
+          "label_fr": "Lion",
+          "label_es": "León",
+          "label_hr": "Lav",
+          "label_cs": "Lev",
+          "label_pl": "Lew",
+          "label_fi": "Leijona",
+          "label_sk": "Lev",
+          "label_da": "Løve"
+        },
+        {
+          "id": "wolf",
+          "label_en": "Wolf",
+          "label_de": "Wolf",
+          "label_it": "Lupo",
+          "label_fr": "Loup",
+          "label_es": "Lobo",
+          "label_hr": "Vuk",
+          "label_cs": "Vlk",
+          "label_pl": "Wilk",
+          "label_fi": "Susi",
+          "label_sk": "Vlk",
+          "label_da": "Ulv"
+        }
+      ]
+    },
+    {
+      "id": "body",
+      "question_en": "What helps cats see well in the dark?",
+      "question_de": "Was hilft Katzen, im Dunkeln gut zu sehen?",
+      "question_it": "Cosa aiuta i gatti a vedere bene al buio?",
+      "question_fr": "Qu’est-ce qui aide les chats à bien voir dans le noir ?",
+      "question_es": "¿Qué ayuda a los gatos a ver bien en la oscuridad?",
+      "question_hr": "Što pomaže mačkama da dobro vide u mraku?",
+      "question_cs": "Co pomáhá kočkám dobře vidět ve tmě?",
+      "question_pl": "Co pomaga kotom dobrze widzieć w ciemności?",
+      "question_fi": "Mikä auttaa kissoja näkemään hyvin pimeässä?",
+      "question_sk": "Čo pomáha mačkám dobre vidieť v tme?",
+      "question_da": "Hvad hjælper katte med at se godt i mørket?",
+      "correct": "keen_eyes",
+      "options": [
+        {
+          "id": "keen_eyes",
+          "label_en": "Special eyes that gather light",
+          "label_de": "Besondere Augen, die Licht sammeln",
+          "label_it": "Occhi speciali che raccolgono la luce",
+          "label_fr": "Des yeux spéciaux qui captent la lumière",
+          "label_es": "Ojos especiales que recogen la luz",
+          "label_hr": "Posebne oči koje skupljaju svjetlost",
+          "label_cs": "Zvláštní oči, které zachycují světlo",
+          "label_pl": "Specjalne oczy, które zbierają światło",
+          "label_fi": "Erityiset silmät, jotka keräävät valoa",
+          "label_sk": "Zvláštne oči, ktoré zbierajú svetlo",
+          "label_da": "Særlige øjne, der opfanger lys"
+        },
+        {
+          "id": "whiskers",
+          "label_en": "Their whiskers",
+          "label_de": "Ihre Schnurrhaare",
+          "label_it": "I loro baffi",
+          "label_fr": "Leurs moustaches",
+          "label_es": "Sus bigotes",
+          "label_hr": "Njihovi brkovi",
+          "label_cs": "Jejich vousky",
+          "label_pl": "Ich wąsy",
+          "label_fi": "Niiden viikset",
+          "label_sk": "Ich fúzy",
+          "label_da": "Deres knurhår"
+        },
+        {
+          "id": "claws",
+          "label_en": "Their claws",
+          "label_de": "Ihre Krallen",
+          "label_it": "I loro artigli",
+          "label_fr": "Leurs griffes",
+          "label_es": "Sus garras",
+          "label_hr": "Njihove pandže",
+          "label_cs": "Jejich drápy",
+          "label_pl": "Ich pazury",
+          "label_fi": "Niiden kynnet",
+          "label_sk": "Ich pazúry",
+          "label_da": "Deres kløer"
+        }
+      ]
+    },
+    {
+      "id": "sleep",
+      "question_en": "About how many hours a day does a cat sleep?",
+      "question_de": "Wie viele Stunden am Tag schläft eine Katze ungefähr?",
+      "question_it": "Quante ore al giorno dorme un gatto, all’incirca?",
+      "question_fr": "Combien d’heures par jour dort un chat environ ?",
+      "question_es": "¿Cuántas horas al día duerme un gato, aproximadamente?",
+      "question_hr": "Otprilike koliko sati dnevno mačka spava?",
+      "question_cs": "Asi kolik hodin denně kočka spí?",
+      "question_pl": "Mniej więcej ile godzin dziennie śpi kot?",
+      "question_fi": "Kuinka monta tuntia päivässä kissa suunnilleen nukkuu?",
+      "question_sk": "Asi koľko hodín denne mačka spí?",
+      "question_da": "Hvor mange timer om dagen sover en kat cirka?",
+      "correct": "sixteen",
+      "options": [
+        {
+          "id": "sixteen",
+          "label_en": "About 16 hours",
+          "label_de": "Etwa 16 Stunden",
+          "label_it": "Circa 16 ore",
+          "label_fr": "Environ 16 heures",
+          "label_es": "Unas 16 horas",
+          "label_hr": "Oko 16 sati",
+          "label_cs": "Asi 16 hodin",
+          "label_pl": "Około 16 godzin",
+          "label_fi": "Noin 16 tuntia",
+          "label_sk": "Približne 16 hodín",
+          "label_da": "Omkring 16 timer"
+        },
+        {
+          "id": "four",
+          "label_en": "About 4 hours",
+          "label_de": "Etwa 4 Stunden",
+          "label_it": "Circa 4 ore",
+          "label_fr": "Environ 4 heures",
+          "label_es": "Unas 4 horas",
+          "label_hr": "Oko 4 sata",
+          "label_cs": "Asi 4 hodiny",
+          "label_pl": "Około 4 godzin",
+          "label_fi": "Noin 4 tuntia",
+          "label_sk": "Približne 4 hodiny",
+          "label_da": "Omkring 4 timer"
+        },
+        {
+          "id": "twenty_four",
+          "label_en": "About 24 hours",
+          "label_de": "Etwa 24 Stunden",
+          "label_it": "Circa 24 ore",
+          "label_fr": "Environ 24 heures",
+          "label_es": "Unas 24 horas",
+          "label_hr": "Oko 24 sata",
+          "label_cs": "Asi 24 hodin",
+          "label_pl": "Około 24 godzin",
+          "label_fi": "Noin 24 tuntia",
+          "label_sk": "Približne 24 hodín",
+          "label_da": "Omkring 24 timer"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "id": "butterfly",
+  "category_id": "animals",
+  "symbol_id": "butterfly",
+  "thumbnail": "butterfly_thumb.webp",
+  "title_en": "Butterflies",
+  "title_de": "Schmetterlinge",
+  "title_it": "Le farfalle",
+  "title_fr": "Les papillons",
+  "title_es": "Las mariposas",
+  "title_hr": "Leptiri",
+  "title_cs": "Motýli",
+  "title_pl": "Motyle",
+  "title_fi": "Perhoset",
+  "title_sk": "Motýle",
+  "title_da": "Sommerfugle",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about butterflies. Butterflies are colorful insects that flutter through gardens and meadows during the warm months of the year. With their bright wings and gentle flight, they are one of the most beautiful sights of spring and summer.",
+      "script_de": "Heute lernen wir etwas über Schmetterlinge. Schmetterlinge sind bunte Insekten, die in den warmen Monaten des Jahres durch Gärten und Wiesen flattern. Mit ihren leuchtenden Flügeln und ihrem sanften Flug gehören sie zu den schönsten Anblicken im Frühling und Sommer.",
+      "script_it": "Oggi impareremo qualcosa sulle farfalle. Le farfalle sono insetti colorati che svolazzano nei giardini e nei prati durante i mesi caldi dell’anno. Con le loro ali brillanti e il loro volo leggero, sono uno degli spettacoli più belli della primavera e dell’estate.",
+      "script_fr": "Aujourd’hui, nous allons apprendre à connaître les papillons. Les papillons sont des insectes colorés qui voltigent dans les jardins et les prairies pendant les mois chauds de l’année. Avec leurs ailes éclatantes et leur vol léger, ils sont l’un des plus beaux spectacles du printemps et de l’été.",
+      "script_es": "Hoy vamos a aprender sobre las mariposas. Las mariposas son insectos coloridos que revolotean por los jardines y las praderas durante los meses cálidos del año. Con sus alas brillantes y su vuelo suave, son uno de los espectáculos más bonitos de la primavera y el verano.",
+      "script_hr": "Danas ćemo učiti o leptirima. Leptiri su šareni kukci koji lepršaju kroz vrtove i livade tijekom toplih mjeseci u godini. Sa svojim svijetlim krilima i nježnim letom jedan su od najljepših prizora proljeća i ljeta.",
+      "script_cs": "Dnes se budeme učit o motýlech. Motýli jsou pestrobarevný hmyz, který za teplých měsíců poletuje po zahradách a loukách. Se svými jasnými křídly a jemným letem patří k nejkrásnějším pohledům jara a léta.",
+      "script_pl": "Dzisiaj poznamy motyle. Motyle to barwne owady, które fruwają po ogrodach i łąkach w ciepłych miesiącach roku. Dzięki swoim jasnym skrzydłom i lekkiemu lotowi są jednym z najpiękniejszych widoków wiosny i lata.",
+      "script_fi": "Tänään opimme perhosista. Perhoset ovat värikkäitä hyönteisiä, jotka lepattavat puutarhoissa ja niityillä vuoden lämpiminä kuukausina. Kirkkailla siivillään ja kevyellä lennollaan ne ovat yksi kevään ja kesän kauneimmista näyistä.",
+      "script_sk": "Dnes sa budeme učiť o motýľoch. Motýle sú pestrofarebný hmyz, ktorý počas teplých mesiacov v roku poletuje po záhradách a lúkach. So svojimi jasnými krídlami a jemným letom patria medzi najkrajšie pohľady jari a leta.",
+      "script_da": "I dag skal vi lære om sommerfugle. Sommerfugle er farverige insekter, der flagrer rundt i haver og på enge i årets varme måneder. Med deres lyse vinger og lette flugt er de et af de smukkeste syn om foråret og sommeren.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "lifecycle",
+      "script_en": "A butterfly’s life passes through four very different stages. It begins as a tiny egg laid on a leaf, then becomes a hungry caterpillar that eats and grows. After that it forms a quiet chrysalis, and finally a winged butterfly comes out and flies away.",
+      "script_de": "Das Leben eines Schmetterlings verläuft in vier ganz unterschiedlichen Stufen. Es beginnt als winziges Ei auf einem Blatt, dann schlüpft eine hungrige Raupe, die frisst und wächst. Danach bildet sich eine stille Puppe, und schließlich kommt ein geflügelter Schmetterling heraus und fliegt davon.",
+      "script_it": "La vita di una farfalla passa attraverso quattro fasi molto diverse. Inizia come un piccolo uovo deposto su una foglia, poi diventa un bruco affamato che mangia e cresce. Successivamente forma una crisalide silenziosa e infine ne esce una farfalla alata che vola via.",
+      "script_fr": "La vie d’un papillon passe par quatre étapes très différentes. Elle commence par un tout petit œuf déposé sur une feuille, puis devient une chenille affamée qui mange et grandit. Ensuite, elle forme une chrysalide silencieuse, et enfin un papillon ailé en sort et s’envole.",
+      "script_es": "La vida de una mariposa pasa por cuatro etapas muy diferentes. Comienza como un huevo diminuto puesto sobre una hoja, luego se convierte en una oruga hambrienta que come y crece. Después forma una crisálida silenciosa y, por fin, sale una mariposa con alas que echa a volar.",
+      "script_hr": "Život leptira prolazi kroz četiri vrlo različite faze. Počinje kao maleno jaje položeno na list, zatim postaje gladna gusjenica koja jede i raste. Nakon toga oblikuje tihu kukuljicu, a na kraju iz nje izlazi krilati leptir koji odleti.",
+      "script_cs": "Život motýla prochází čtyřmi velmi odlišnými stádii. Začíná jako droboučké vajíčko nakladené na list, pak se z něj stane hladová housenka, která jí a roste. Potom se zakuklí do tiché kukly a nakonec z ní vylétne okřídlený motýl.",
+      "script_pl": "Życie motyla przebiega przez cztery zupełnie różne etapy. Zaczyna się od maleńkiego jajeczka złożonego na liściu, potem powstaje głodna gąsienica, która je i rośnie. Następnie formuje się cicha poczwarka, a na końcu wyłania się skrzydlaty motyl i odlatuje.",
+      "script_fi": "Perhosen elämä kulkee neljän hyvin erilaisen vaiheen läpi. Se alkaa pieneksi munaksi, joka on muninut lehdelle, ja muuttuu sitten nälkäiseksi toukaksi, joka syö ja kasvaa. Sen jälkeen muodostuu hiljainen kotelo, ja lopulta siitä lentää ulos siivekäs perhonen.",
+      "script_sk": "Život motýľa prechádza štyrmi veľmi odlišnými štádiami. Začína sa ako maličké vajíčko položené na liste, potom z neho vznikne hladná húsenica, ktorá je a rastie. Následne sa zakuklí do tichej kukly a nakoniec z nej vyletí okrídlený motýľ.",
+      "script_da": "En sommerfugls liv går gennem fire meget forskellige stadier. Det begynder som et lillebitte æg, der bliver lagt på et blad, og bliver så til en sulten larve, der spiser og vokser. Derefter danner den en stille puppe, og til sidst kommer en sommerfugl med vinger ud og flyver væk.",
+      "images": [
+        "lifecycle.webp",
+        "lifecycle_2.webp",
+        "lifecycle_3.webp"
+      ]
+    },
+    {
+      "id": "wings",
+      "script_en": "A butterfly’s large wings are covered with tiny scales arranged like the tiles on a roof. These scales give the wings their colors and beautiful patterns. The patterns can help the butterfly hide from hungry birds or attract a partner.",
+      "script_de": "Die großen Flügel eines Schmetterlings sind mit winzigen Schuppen bedeckt, die wie Dachziegel angeordnet sind. Diese Schuppen geben den Flügeln ihre Farben und schönen Muster. Die Muster können dem Schmetterling helfen, sich vor hungrigen Vögeln zu verstecken oder einen Partner anzulocken.",
+      "script_it": "Le grandi ali di una farfalla sono coperte da minuscole scaglie disposte come le tegole di un tetto. Queste scaglie danno alle ali i loro colori e i loro splendidi disegni. I disegni possono aiutare la farfalla a nascondersi dagli uccelli affamati o ad attirare un compagno.",
+      "script_fr": "Les grandes ailes d’un papillon sont couvertes de minuscules écailles disposées comme les tuiles d’un toit. Ces écailles donnent aux ailes leurs couleurs et leurs magnifiques motifs. Les motifs peuvent aider le papillon à se cacher des oiseaux affamés ou à attirer un partenaire.",
+      "script_es": "Las grandes alas de una mariposa están cubiertas de diminutas escamas dispuestas como las tejas de un tejado. Estas escamas dan a las alas sus colores y sus hermosos dibujos. Los dibujos pueden ayudar a la mariposa a esconderse de los pájaros hambrientos o a atraer a una pareja.",
+      "script_hr": "Velika krila leptira prekrivena su sićušnim ljuskama posloženim poput crijepova na krovu. Te ljuske krilima daju boje i prekrasne uzorke. Uzorci leptiru mogu pomoći da se sakrije od gladnih ptica ili da privuče partnera.",
+      "script_cs": "Velká křídla motýla jsou pokryta drobnými šupinkami uspořádanými jako tašky na střeše. Tyto šupinky dávají křídlům jejich barvy a krásné vzory. Vzory mohou motýlovi pomoci ukrýt se před hladovými ptáky nebo přilákat partnera.",
+      "script_pl": "Duże skrzydła motyla pokryte są maleńkimi łuskami ułożonymi jak dachówki na dachu. To właśnie te łuski nadają skrzydłom barwy i piękne wzory. Wzory pomagają motylowi ukryć się przed głodnymi ptakami lub przyciągnąć partnera.",
+      "script_fi": "Perhosen suuret siivet ovat pienten suomujen peitossa, jotka asettuvat kuin katon tiilet päällekkäin. Nämä suomut antavat siiville niiden värit ja kauniit kuviot. Kuviot voivat auttaa perhosta piiloutumaan nälkäisiltä linnuilta tai houkuttelemaan kumppania.",
+      "script_sk": "Veľké krídla motýľa sú pokryté maličkými šupinkami usporiadanými ako škridly na streche. Tieto šupinky dávajú krídlam ich farby a krásne vzory. Vzory môžu motýľovi pomôcť skryť sa pred hladnými vtákmi alebo prilákať partnera.",
+      "script_da": "En sommerfugls store vinger er dækket af bittesmå skæl, der ligger som tagsten på et tag. Disse skæl giver vingerne deres farver og smukke mønstre. Mønstrene kan hjælpe sommerfuglen med at gemme sig for sultne fugle eller med at tiltrække en partner.",
+      "images": [
+        "wings.webp",
+        "wings_2.webp",
+        "wings_3.webp"
+      ]
+    },
+    {
+      "id": "nectar",
+      "script_en": "Butterflies sip sweet nectar from flowers through a long, curled tongue called a proboscis. When they are not drinking, the proboscis is rolled up tightly under their head. As they move from flower to flower, they also help pollinate the plants in the garden.",
+      "script_de": "Schmetterlinge saugen den süßen Nektar aus Blüten durch eine lange, eingerollte Zunge, die Rüssel heißt. Wenn sie nicht trinken, ist der Rüssel fest unter dem Kopf eingerollt. Während sie von Blüte zu Blüte fliegen, helfen sie zugleich, die Pflanzen im Garten zu bestäuben.",
+      "script_it": "Le farfalle sorseggiano il dolce nettare dei fiori attraverso una lunga lingua arrotolata chiamata spirotromba. Quando non bevono, la spirotromba resta arrotolata sotto la testa. Spostandosi di fiore in fiore, aiutano anche a impollinare le piante del giardino.",
+      "script_fr": "Les papillons aspirent le doux nectar des fleurs grâce à une longue trompe enroulée appelée proboscis. Quand ils ne boivent pas, la trompe reste bien enroulée sous leur tête. En passant de fleur en fleur, ils aident aussi à polliniser les plantes du jardin.",
+      "script_es": "Las mariposas beben el dulce néctar de las flores con una lengua larga y enrollada llamada espiritrompa. Cuando no están bebiendo, la espiritrompa se enrolla bien apretada bajo su cabeza. Al pasar de flor en flor, también ayudan a polinizar las plantas del jardín.",
+      "script_hr": "Leptiri srču slatki nektar iz cvjetova kroz dugačak, smotani jezik koji se zove rilce. Kad ne piju, rilce im je čvrsto smotano ispod glave. Dok prelijeću s cvijeta na cvijet, pomažu i oprašiti biljke u vrtu.",
+      "script_cs": "Motýli sají sladký nektar z květů dlouhým, stočeným sosákem, kterému se říká proboscis. Když nepijí, mají sosák pevně stočený pod hlavou. Jak přelétají z květu na květ, pomáhají také opylovat rostliny v zahradě.",
+      "script_pl": "Motyle popijają słodki nektar z kwiatów za pomocą długiego, zwiniętego języka zwanego ssawką. Kiedy nie piją, ssawka jest ciasno zwinięta pod ich głową. Przelatując z kwiatka na kwiatek, pomagają też zapylać rośliny w ogrodzie.",
+      "script_fi": "Perhoset siemailevat kukista makeaa mettä pitkällä, kierteelle käpertyneellä imukärsällä, jota kutsutaan proboskikseksi. Kun ne eivät juo, imukärsä on tiukasti kiepillä pään alla. Lentäessään kukasta kukkaan ne myös pölyttävät puutarhan kasveja.",
+      "script_sk": "Motýle pijú sladký nektár z kvetov dlhým, stočeným jazykom, ktorý sa volá cuciak. Keď nepijú, cuciak majú pevne stočený pod hlavou. Pri preletovaní z kvetu na kvet zároveň pomáhajú opeľovať rastliny v záhrade.",
+      "script_da": "Sommerfugle drikker den søde nektar fra blomster gennem en lang, sammenrullet tunge, der hedder en snabel. Når de ikke drikker, er snabelen rullet tæt sammen under deres hoved. Mens de flyver fra blomst til blomst, hjælper de også med at bestøve haveplanterne.",
+      "images": [
+        "nectar.webp",
+        "nectar_2.webp",
+        "nectar_3.webp"
+      ]
+    },
+    {
+      "id": "migration",
+      "script_en": "Some butterflies, like the monarch, travel thousands of kilometers to spend the winter in a warmer place. They follow the same paths every year, even though no single butterfly knows the way alone. Often many generations together share one long journey from start to finish.",
+      "script_de": "Manche Schmetterlinge, wie der Monarchfalter, reisen Tausende von Kilometern, um den Winter an einem wärmeren Ort zu verbringen. Jedes Jahr folgen sie denselben Wegen, obwohl kein einzelner Schmetterling den Weg allein kennt. Oft teilen sich mehrere Generationen gemeinsam eine einzige lange Reise vom Anfang bis zum Ende.",
+      "script_it": "Alcune farfalle, come la monarca, percorrono migliaia di chilometri per passare l’inverno in un luogo più caldo. Seguono ogni anno gli stessi percorsi, anche se nessuna singola farfalla conosce la strada da sola. Spesso più generazioni si dividono insieme un unico lungo viaggio dall’inizio alla fine.",
+      "script_fr": "Certains papillons, comme le monarque, parcourent des milliers de kilomètres pour passer l’hiver dans un endroit plus chaud. Ils suivent chaque année les mêmes chemins, alors qu’aucun papillon ne connaît la route à lui tout seul. Souvent, plusieurs générations se partagent un même long voyage, du début à la fin.",
+      "script_es": "Algunas mariposas, como la monarca, viajan miles de kilómetros para pasar el invierno en un lugar más cálido. Siguen cada año los mismos caminos, aunque ninguna mariposa conoce la ruta por sí sola. A menudo varias generaciones comparten juntas un único viaje largo, de principio a fin.",
+      "script_hr": "Neki leptiri, poput monarha, putuju tisuće kilometara da bi zimu proveli na toplijem mjestu. Svake godine slijede iste putove, iako nijedan leptir sam ne poznaje cijeli put. Često više naraštaja zajedno dijeli jedno dugo putovanje od početka do kraja.",
+      "script_cs": "Někteří motýli, jako třeba monarcha stěhovavý, urazí tisíce kilometrů, aby strávili zimu na teplejším místě. Každý rok letí stejnými cestami, i když celou trasu nezná žádný jednotlivý motýl. Často se na jedné dlouhé cestě od začátku do konce podílí hned několik generací.",
+      "script_pl": "Niektóre motyle, jak monarcha, pokonują tysiące kilometrów, by spędzić zimę w cieplejszym miejscu. Co roku podążają tymi samymi szlakami, choć żaden motyl nie zna całej trasy sam. Często kilka pokoleń razem przebywa jedną długą wędrówkę od początku do końca.",
+      "script_fi": "Jotkin perhoset, kuten monarkki, lentävät tuhansia kilometrejä viettääkseen talven lämpimämmässä paikassa. Ne seuraavat joka vuosi samoja reittejä, vaikka yksikään yksittäinen perhonen ei tunne koko matkaa. Usein useat sukupolvet jakavat yhdessä yhden pitkän matkan alusta loppuun.",
+      "script_sk": "Niektoré motýle, ako napríklad monarcha, prekonajú tisíce kilometrov, aby zimu strávili na teplejšom mieste. Každý rok letia tými istými cestami, aj keď nijaký motýľ sám celú trasu nepozná. Často si jednu dlhú cestu od začiatku do konca delí spoločne niekoľko generácií.",
+      "script_da": "Nogle sommerfugle, som monarken, rejser tusindvis af kilometer for at tilbringe vinteren et varmere sted. De følger de samme ruter hvert år, selvom ingen enkelt sommerfugl kender vejen alene. Ofte deler flere generationer tilsammen én lang rejse fra start til slut.",
+      "images": [
+        "migration.webp",
+        "migration_2.webp",
+        "migration_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "stages",
+      "question_en": "How many stages are there in a butterfly’s life?",
+      "question_de": "Wie viele Stufen hat das Leben eines Schmetterlings?",
+      "question_it": "Quante fasi ha la vita di una farfalla?",
+      "question_fr": "Combien d’étapes y a-t-il dans la vie d’un papillon ?",
+      "question_es": "¿Cuántas etapas tiene la vida de una mariposa?",
+      "question_hr": "Koliko faza ima život leptira?",
+      "question_cs": "Kolik má život motýla stádií?",
+      "question_pl": "Ile etapów ma życie motyla?",
+      "question_fi": "Kuinka monta vaihetta perhosen elämässä on?",
+      "question_sk": "Koľko štádií má život motýľa?",
+      "question_da": "Hvor mange stadier er der i en sommerfugls liv?",
+      "correct": "four",
+      "options": [
+        {
+          "id": "four",
+          "label_en": "Four — egg, caterpillar, chrysalis, butterfly",
+          "label_de": "Vier — Ei, Raupe, Puppe, Schmetterling",
+          "label_it": "Quattro — uovo, bruco, crisalide, farfalla",
+          "label_fr": "Quatre — œuf, chenille, chrysalide, papillon",
+          "label_es": "Cuatro — huevo, oruga, crisálida, mariposa",
+          "label_hr": "Četiri — jaje, gusjenica, kukuljica, leptir",
+          "label_cs": "Čtyři — vajíčko, housenka, kukla, motýl",
+          "label_pl": "Cztery — jajo, gąsienica, poczwarka, motyl",
+          "label_fi": "Neljä — muna, toukka, kotelo, perhonen",
+          "label_sk": "Štyri — vajíčko, húsenica, kukla, motýľ",
+          "label_da": "Fire — æg, larve, puppe, sommerfugl"
+        },
+        {
+          "id": "two",
+          "label_en": "Two — egg and butterfly",
+          "label_de": "Zwei — Ei und Schmetterling",
+          "label_it": "Due — uovo e farfalla",
+          "label_fr": "Deux — œuf et papillon",
+          "label_es": "Dos — huevo y mariposa",
+          "label_hr": "Dvije — jaje i leptir",
+          "label_cs": "Dvě — vajíčko a motýl",
+          "label_pl": "Dwa — jajo i motyl",
+          "label_fi": "Kaksi — muna ja perhonen",
+          "label_sk": "Dve — vajíčko a motýľ",
+          "label_da": "To — æg og sommerfugl"
+        },
+        {
+          "id": "three",
+          "label_en": "Three — egg, caterpillar, butterfly",
+          "label_de": "Drei — Ei, Raupe, Schmetterling",
+          "label_it": "Tre — uovo, bruco, farfalla",
+          "label_fr": "Trois — œuf, chenille, papillon",
+          "label_es": "Tres — huevo, oruga, mariposa",
+          "label_hr": "Tri — jaje, gusjenica, leptir",
+          "label_cs": "Tři — vajíčko, housenka, motýl",
+          "label_pl": "Trzy — jajo, gąsienica, motyl",
+          "label_fi": "Kolme — muna, toukka, perhonen",
+          "label_sk": "Tri — vajíčko, húsenica, motýľ",
+          "label_da": "Tre — æg, larve, sommerfugl"
+        }
+      ]
+    },
+    {
+      "id": "tongue",
+      "question_en": "What is a butterfly’s long curled tongue called?",
+      "question_de": "Wie heißt die lange, eingerollte Zunge eines Schmetterlings?",
+      "question_it": "Come si chiama la lunga lingua arrotolata di una farfalla?",
+      "question_fr": "Comment s’appelle la longue langue enroulée d’un papillon ?",
+      "question_es": "¿Cómo se llama la larga lengua enrollada de una mariposa?",
+      "question_hr": "Kako se zove dugačak, smotani jezik leptira?",
+      "question_cs": "Jak se jmenuje dlouhý stočený jazyk motýla?",
+      "question_pl": "Jak nazywa się długi, zwinięty język motyla?",
+      "question_fi": "Mikä on perhosen pitkän, kierteellä olevan imukärsän nimi?",
+      "question_sk": "Ako sa volá dlhý, stočený jazyk motýľa?",
+      "question_da": "Hvad hedder en sommerfugls lange, sammenrullede tunge?",
+      "correct": "proboscis",
+      "options": [
+        {
+          "id": "proboscis",
+          "label_en": "A proboscis",
+          "label_de": "Ein Rüssel",
+          "label_it": "Una spirotromba",
+          "label_fr": "Une trompe (proboscis)",
+          "label_es": "Una espiritrompa",
+          "label_hr": "Rilce",
+          "label_cs": "Sosák (proboscis)",
+          "label_pl": "Ssawka",
+          "label_fi": "Imukärsä (proboskis)",
+          "label_sk": "Cuciak (proboscis)",
+          "label_da": "En snabel"
+        },
+        {
+          "id": "beak",
+          "label_en": "A beak",
+          "label_de": "Ein Schnabel",
+          "label_it": "Un becco",
+          "label_fr": "Un bec",
+          "label_es": "Un pico",
+          "label_hr": "Kljun",
+          "label_cs": "Zobák",
+          "label_pl": "Dziób",
+          "label_fi": "Nokka",
+          "label_sk": "Zobák",
+          "label_da": "Et næb"
+        },
+        {
+          "id": "whisker",
+          "label_en": "A whisker",
+          "label_de": "Ein Schnurrhaar",
+          "label_it": "Un baffo",
+          "label_fr": "Une moustache",
+          "label_es": "Un bigote",
+          "label_hr": "Brk",
+          "label_cs": "Vous",
+          "label_pl": "Wąs",
+          "label_fi": "Viiksikarva",
+          "label_sk": "Fúz",
+          "label_da": "En knurhår"
+        }
+      ]
+    },
+    {
+      "id": "food",
+      "question_en": "What do most butterflies drink from flowers?",
+      "question_de": "Was trinken die meisten Schmetterlinge aus Blüten?",
+      "question_it": "Che cosa bevono la maggior parte delle farfalle dai fiori?",
+      "question_fr": "Que boivent la plupart des papillons dans les fleurs ?",
+      "question_es": "¿Qué beben la mayoría de las mariposas de las flores?",
+      "question_hr": "Što većina leptira pije iz cvjetova?",
+      "question_cs": "Co většina motýlů pije z květů?",
+      "question_pl": "Co większość motyli pije z kwiatów?",
+      "question_fi": "Mitä useimmat perhoset juovat kukista?",
+      "question_sk": "Čo väčšina motýľov pije z kvetov?",
+      "question_da": "Hvad drikker de fleste sommerfugle fra blomster?",
+      "correct": "nectar",
+      "options": [
+        {
+          "id": "nectar",
+          "label_en": "Nectar",
+          "label_de": "Nektar",
+          "label_it": "Nettare",
+          "label_fr": "Du nectar",
+          "label_es": "Néctar",
+          "label_hr": "Nektar",
+          "label_cs": "Nektar",
+          "label_pl": "Nektar",
+          "label_fi": "Mettä",
+          "label_sk": "Nektár",
+          "label_da": "Nektar"
+        },
+        {
+          "id": "water",
+          "label_en": "Plain water",
+          "label_de": "Reines Wasser",
+          "label_it": "Acqua pura",
+          "label_fr": "De l’eau pure",
+          "label_es": "Agua",
+          "label_hr": "Obična voda",
+          "label_cs": "Čistou vodu",
+          "label_pl": "Zwykłą wodę",
+          "label_fi": "Pelkkää vettä",
+          "label_sk": "Čistú vodu",
+          "label_da": "Almindeligt vand"
+        },
+        {
+          "id": "milk",
+          "label_en": "Milk",
+          "label_de": "Milch",
+          "label_it": "Latte",
+          "label_fr": "Du lait",
+          "label_es": "Leche",
+          "label_hr": "Mlijeko",
+          "label_cs": "Mléko",
+          "label_pl": "Mleko",
+          "label_fi": "Maitoa",
+          "label_sk": "Mlieko",
+          "label_da": "Mælk"
+        }
+      ]
+    }
+  ]
+}

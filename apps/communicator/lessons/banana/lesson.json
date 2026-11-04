@@ -1,0 +1,293 @@
+{
+  "id": "banana",
+  "category_id": "food",
+  "symbol_id": "banana",
+  "thumbnail": "banana_thumb.webp",
+  "title_en": "Bananas",
+  "title_de": "Bananen",
+  "title_it": "Le banane",
+  "title_fr": "Les bananes",
+  "title_es": "Los plátanos",
+  "title_hr": "Banane",
+  "title_cs": "Banány",
+  "title_pl": "Banany",
+  "title_fi": "Banaanit",
+  "title_sk": "Banány",
+  "title_da": "Bananer",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about bananas. Bananas are sweet yellow fruits with a thick peel that you can pull off with your fingers. They are loved by people all around the world and are one of the most popular fruits on the planet.",
+      "script_de": "Heute lernen wir etwas über Bananen. Bananen sind süße, gelbe Früchte mit einer dicken Schale, die man mit den Fingern abziehen kann. Sie werden von Menschen auf der ganzen Welt geliebt und gehören zu den beliebtesten Früchten überhaupt.",
+      "script_it": "Oggi impareremo qualcosa sulle banane. Le banane sono frutti dolci e gialli con una buccia spessa che si toglie facilmente con le dita. Sono amate dalle persone di tutto il mondo e sono tra i frutti più popolari del pianeta.",
+      "script_fr": "Aujourd’hui, nous allons apprendre à connaître les bananes. Les bananes sont des fruits sucrés et jaunes avec une peau épaisse que l’on peut enlever avec les doigts. Elles sont adorées par les gens du monde entier et comptent parmi les fruits les plus populaires de la planète.",
+      "script_es": "Hoy vamos a aprender sobre los plátanos. Los plátanos son frutas dulces y amarillas con una cáscara gruesa que se puede quitar con los dedos. Son queridos por personas de todo el mundo y son una de las frutas más populares del planeta.",
+      "script_hr": "Danas ćemo učiti o bananama. Banane su slatko žuto voće s debelom korom koju lako možeš oguliti prstima. Vole ih ljudi diljem svijeta i jedno su od najpopularnijih voća na planetu.",
+      "script_cs": "Dnes se budeme učit o banánech. Banány jsou sladké žluté ovoce se silnou slupkou, kterou snadno oloupeš prsty. Mají je rádi lidé po celém světě a patří k nejoblíbenějšímu ovoci na planetě.",
+      "script_pl": "Dzisiaj poznamy banany. Banany to słodkie żółte owoce z grubą skórką, którą można zdjąć palcami. Są uwielbiane przez ludzi na całym świecie i należą do najpopularniejszych owoców na naszej planecie.",
+      "script_fi": "Tänään opimme banaaneista. Banaanit ovat makeita keltaisia hedelmiä, joissa on paksu kuori, jonka voi vetää pois sormin. Ne ovat ihmisten rakastamia ympäri maailmaa ja kuuluvat planeetan suosituimpiin hedelmiin.",
+      "script_sk": "Dnes sa budeme učiť o banánoch. Banány sú sladké žlté ovocie s hrubou šupkou, ktorú ľahko olúpeš prstami. Majú ich radi ľudia po celom svete a patria k najobľúbenejšiemu ovociu na planéte.",
+      "script_da": "I dag skal vi lære om bananer. Bananer er søde, gule frugter med en tyk skræl, som man let kan trække af med fingrene. De er elsket af mennesker over hele verden og er en af de mest populære frugter på planeten.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "origin",
+      "script_en": "Bananas first grew in the warm forests of Southeast Asia thousands of years ago. People there picked them from wild plants and slowly began to grow them in gardens and fields. Over many centuries, bananas travelled to other warm parts of the world, like Africa and the Americas.",
+      "script_de": "Bananen wuchsen ursprünglich vor Tausenden von Jahren in den warmen Wäldern Südostasiens. Die Menschen pflückten sie dort von wilden Pflanzen und begannen, sie nach und nach in Gärten und auf Feldern anzubauen. Im Laufe vieler Jahrhunderte gelangten Bananen auch in andere warme Teile der Welt, etwa nach Afrika und Amerika.",
+      "script_it": "Le banane sono nate migliaia di anni fa nelle calde foreste del Sud-Est asiatico. Le persone di quei luoghi le raccoglievano dalle piante selvatiche e poco a poco iniziarono a coltivarle nei giardini e nei campi. Nel corso di molti secoli le banane sono arrivate anche in altre zone calde del mondo, come l’Africa e le Americhe.",
+      "script_fr": "Les bananes ont d’abord poussé dans les forêts chaudes d’Asie du Sud-Est il y a des milliers d’années. Les habitants les cueillaient sur des plantes sauvages et ont peu à peu commencé à les cultiver dans des jardins et des champs. Au fil des siècles, les bananes ont voyagé vers d’autres régions chaudes du monde, comme l’Afrique et les Amériques.",
+      "script_es": "Los plátanos crecieron por primera vez en los cálidos bosques del Sudeste Asiático hace miles de años. Las personas de allí los recogían de plantas silvestres y poco a poco empezaron a cultivarlos en huertos y campos. A lo largo de los siglos, los plátanos viajaron a otras zonas cálidas del mundo, como África y América.",
+      "script_hr": "Banane su prvi put rasle u toplim šumama jugoistočne Azije prije tisućama godina. Ljudi su ih ondje brali s divljih biljaka i postupno počeli uzgajati u vrtovima i na poljima. Tijekom mnogih stoljeća banane su putovale i u druge tople krajeve svijeta, poput Afrike i Amerike.",
+      "script_cs": "Banány poprvé rostly v teplých lesích jihovýchodní Asie před tisíci lety. Lidé je tam sbírali z divokých rostlin a postupně je začali pěstovat na zahradách a polích. Během mnoha staletí banány putovaly i do dalších teplých částí světa, jako je Afrika a Amerika.",
+      "script_pl": "Banany po raz pierwszy rosły w ciepłych lasach Azji Południowo-Wschodniej tysiące lat temu. Tamtejsi ludzie zrywali je z dzikich roślin i powoli zaczęli uprawiać je w ogrodach i na polach. Z biegiem stuleci banany powędrowały także do innych ciepłych części świata, takich jak Afryka i obie Ameryki.",
+      "script_fi": "Banaanit kasvoivat ensimmäisen kerran Kaakkois-Aasian lämpimissä metsissä tuhansia vuosia sitten. Siellä ihmiset poimivat niitä villikasveista ja alkoivat vähitellen viljellä niitä puutarhoissa ja pelloilla. Vuosisatojen kuluessa banaanit kulkeutuivat myös muille lämpimille alueille, kuten Afrikkaan ja Amerikkoihin.",
+      "script_sk": "Banány najprv rástli v teplých lesoch juhovýchodnej Ázie pred tisíckami rokov. Ľudia ich tam zbierali z divokých rastlín a postupne ich začali pestovať v záhradách a na poliach. V priebehu mnohých storočí banány putovali aj do ďalších teplých častí sveta, ako je Afrika a Amerika.",
+      "script_da": "Bananer voksede først i de varme skove i Sydøstasien for tusinder af år siden. Menneskene dér plukkede dem fra vilde planter og begyndte langsomt at dyrke dem i haver og på marker. Gennem mange århundreder rejste bananerne videre til andre varme dele af verden, som Afrika og Amerika.",
+      "images": [
+        "origin.webp",
+        "origin_2.webp",
+        "origin_3.webp"
+      ]
+    },
+    {
+      "id": "growth",
+      "script_en": "Bananas grow on tall plants, not on trees, even though the plants can look like trees. The fruits hang together in big bunches that point upward from the stem. They start out green and slowly ripen to a bright yellow in the warm sun.",
+      "script_de": "Bananen wachsen an hohen Pflanzen, nicht an Bäumen, auch wenn die Pflanzen wie Bäume aussehen. Die Früchte hängen in großen Büscheln zusammen und zeigen vom Stamm nach oben. Sie sind zuerst grün und werden in der warmen Sonne langsam leuchtend gelb.",
+      "script_it": "Le banane crescono su piante alte, non su alberi, anche se queste piante sembrano alberi. I frutti pendono insieme in grandi caschi rivolti verso l’alto. All’inizio sono verdi e poi, sotto il sole caldo, maturano lentamente fino a diventare di un giallo brillante.",
+      "script_fr": "Les bananes poussent sur de grandes plantes, et non sur des arbres, même si ces plantes ressemblent à des arbres. Les fruits pendent ensemble en gros régimes qui pointent vers le haut. Ils sont d’abord verts, puis mûrissent lentement au soleil chaud jusqu’à devenir d’un beau jaune vif.",
+      "script_es": "Los plátanos crecen en plantas altas, no en árboles, aunque las plantas pueden parecer árboles. Los frutos cuelgan juntos en grandes racimos que apuntan hacia arriba desde el tallo. Primero son verdes y poco a poco maduran hasta volverse de un amarillo brillante bajo el sol cálido.",
+      "script_hr": "Banane rastu na visokim biljkama, a ne na stablima, iako biljke izgledaju poput stabala. Plodovi vise zajedno u velikim grozdovima okrenutima prema gore. Najprije su zelene, a zatim na toplom suncu polako sazrijevaju u jarko žute.",
+      "script_cs": "Banány rostou na vysokých rostlinách, ne na stromech, i když ty rostliny vypadají jako stromy. Plody visí pohromadě ve velkých trsech, které směřují od stonku vzhůru. Nejprve jsou zelené a na teplém slunci pomalu dozrávají do jasně žluté barvy.",
+      "script_pl": "Banany rosną na wysokich roślinach, a nie na drzewach, choć rośliny te wyglądają jak drzewa. Owoce wiszą razem w wielkich kiściach skierowanych ku górze. Najpierw są zielone, a powoli na ciepłym słońcu dojrzewają do jasnożółtego koloru.",
+      "script_fi": "Banaanit kasvavat korkeissa kasveissa eivätkä puissa, vaikka kasvit näyttävätkin puilta. Hedelmät riippuvat yhdessä suurissa terttuissa, jotka osoittavat varresta ylöspäin. Aluksi ne ovat vihreitä ja kypsyvät hitaasti lämpimässä auringossa kirkkaan keltaisiksi.",
+      "script_sk": "Banány rastú na vysokých rastlinách, nie na stromoch, hoci rastliny vyzerajú ako stromy. Plody visia spolu vo veľkých strapcoch, ktoré smerujú od stonky nahor. Najprv sú zelené a na teplom slnku pomaly dozrievajú do jasne žltej farby.",
+      "script_da": "Bananer vokser på høje planter, ikke på træer, selvom planterne kan ligne træer. Frugterne hænger sammen i store klaser, der peger opad fra stammen. De starter som grønne og modnes langsomt i den varme sol, indtil de bliver klart gule.",
+      "images": [
+        "growth.webp",
+        "growth_2.webp",
+        "growth_3.webp"
+      ]
+    },
+    {
+      "id": "varieties",
+      "script_en": "There are many different kinds of bananas around the world. Some are small and very sweet, others are long and yellow like the ones we usually see in shops, and there are even red bananas with a pinkish inside. There are also starchy bananas called plantains, which are cooked before being eaten.",
+      "script_de": "Auf der ganzen Welt gibt es viele verschiedene Bananensorten. Manche sind klein und sehr süß, andere sind lang und gelb wie die, die wir meist im Geschäft sehen, und es gibt sogar rote Bananen mit rosafarbenem Fruchtfleisch. Außerdem gibt es stärkereiche Bananen, die Kochbananen heißen und vor dem Essen gekocht werden.",
+      "script_it": "Nel mondo esistono molti tipi diversi di banane. Alcune sono piccole e dolcissime, altre sono lunghe e gialle come quelle che vediamo di solito nei negozi, e ci sono persino banane rosse con la polpa rosata. Esistono anche banane ricche di amido, chiamate platani, che vengono cotte prima di essere mangiate.",
+      "script_fr": "Il existe de nombreuses sortes de bananes à travers le monde. Certaines sont petites et très sucrées, d’autres sont longues et jaunes comme celles que l’on voit d’habitude dans les magasins, et il y a même des bananes rouges à la chair rosée. Il existe aussi des bananes riches en amidon appelées plantains, que l’on cuisine avant de les manger.",
+      "script_es": "Hay muchos tipos diferentes de plátanos en el mundo. Algunos son pequeños y muy dulces, otros son largos y amarillos como los que solemos ver en las tiendas, y existen incluso plátanos rojos con la pulpa rosada. También hay plátanos ricos en almidón, llamados plátanos macho, que se cocinan antes de comerlos.",
+      "script_hr": "Na svijetu postoje mnoge različite vrste banana. Neke su male i jako slatke, druge su duge i žute poput onih koje obično vidimo u trgovinama, a postoje čak i crvene banane s ružičastom unutrašnjosti. Ima i škrobnih banana koje se zovu plantaže ili kuhajuće banane i koje se prije jela kuhaju.",
+      "script_cs": "Na světě existuje mnoho různých druhů banánů. Některé jsou malé a velmi sladké, jiné jsou dlouhé a žluté jako ty, které obvykle vídáme v obchodech, a existují dokonce červené banány s narůžovělou dužinou. Jsou také škrobnaté banány zvané plantainy, které se před jídlem vaří.",
+      "script_pl": "Na świecie istnieje wiele różnych rodzajów bananów. Niektóre są małe i bardzo słodkie, inne długie i żółte jak te, które zwykle widzimy w sklepach, a są nawet czerwone banany z różowawym miąższem. Istnieją także bogate w skrobię banany zwane plantanami, które przed jedzeniem trzeba ugotować.",
+      "script_fi": "Maailmassa on monenlaisia banaaneja. Jotkut ovat pieniä ja hyvin makeita, toiset pitkiä ja keltaisia kuin ne, joita yleensä näemme kaupoissa, ja on jopa punaisia banaaneja, joiden sisus on vaaleanpunertava. On myös tärkkelyspitoisia banaaneja, joita kutsutaan jauhobanaaneiksi tai plantaineiksi ja jotka kypsennetään ennen syömistä.",
+      "script_sk": "Na svete existuje mnoho rôznych druhov banánov. Niektoré sú malé a veľmi sladké, iné sú dlhé a žlté ako tie, ktoré bežne vídame v obchodoch, a existujú dokonca červené banány s ružovkastou dužinou. Sú aj škrobnaté banány zvané plantainy, ktoré sa pred jedením varia.",
+      "script_da": "Der findes mange forskellige slags bananer rundt om i verden. Nogle er små og meget søde, andre er lange og gule som dem, vi normalt ser i butikkerne, og der findes endda røde bananer med en lyserød indre. Der findes også stivelsesrige bananer, der kaldes plantainer, og som koges, før man spiser dem.",
+      "images": [
+        "varieties.webp",
+        "varieties_2.webp",
+        "varieties_3.webp"
+      ]
+    },
+    {
+      "id": "kitchen",
+      "script_en": "People eat bananas in many delicious ways. They peel them and eat them fresh as a quick snack, or slice them onto cereal and yoghurt in the morning. They also bake bananas into bread, pancakes, and cakes, or blend them into smooth, creamy smoothies.",
+      "script_de": "Menschen essen Bananen auf viele leckere Arten. Sie schälen sie und essen sie frisch als schnellen Snack oder schneiden sie morgens in Müsli und Joghurt. Außerdem backen sie Bananen in Brot, Pfannkuchen und Kuchen oder mixen sie zu cremigen Smoothies.",
+      "script_it": "Le persone mangiano le banane in tanti modi gustosi. Le sbucciano e le mangiano fresche come spuntino veloce, oppure le tagliano a fette nei cereali e nello yogurt al mattino. Le usano anche per preparare pane, frittelle e torte, o le frullano in morbidi e cremosi frullati.",
+      "script_fr": "Les gens mangent les bananes de plein de façons délicieuses. Ils les épluchent et les mangent fraîches en collation rapide, ou les coupent en rondelles sur des céréales et du yaourt le matin. Ils les utilisent aussi pour préparer du pain, des crêpes et des gâteaux, ou les mixent dans des smoothies bien onctueux.",
+      "script_es": "La gente come plátanos de muchas formas deliciosas. Los pelan y los comen frescos como un tentempié rápido, o los cortan en rodajas sobre los cereales y el yogur por la mañana. También los usan para hornear pan, tortitas y bizcochos, o los baten en suaves y cremosos batidos.",
+      "script_hr": "Ljudi banane jedu na mnogo ukusnih načina. Ogule ih i pojedu svježe kao brzu užinu, ili ih ujutro narežu na pahuljice i jogurt. Banane se peku u kruhu, palačinkama i kolačima, a usitnjavaju se i u meke, kremaste smoothieje.",
+      "script_cs": "Lidé jedí banány mnoha chutnými způsoby. Oloupou je a snědí čerstvé jako rychlou svačinu, nebo si je ráno krájejí do müsli a jogurtu. Banány také pečou v chlebu, palačinkách a koláčích, nebo z nich mixují jemné krémové smoothie.",
+      "script_pl": "Ludzie jedzą banany na wiele pysznych sposobów. Obierają je i jedzą świeże jako szybką przekąskę albo kroją na płatki śniadaniowe i jogurt rano. Pieką je też w chlebie, naleśnikach i ciastach lub miksują na gładkie, kremowe koktajle.",
+      "script_fi": "Ihmiset syövät banaaneja monilla herkullisilla tavoilla. He kuorivat ne ja syövät ne tuoreina nopeana välipalana tai viipaloivat ne aamulla muroihin ja jogurttiin. Banaaneista paistetaan myös leipää, lättyjä ja kakkuja, tai niistä tehdään sileitä ja kermaisia pirtelöitä.",
+      "script_sk": "Ľudia jedia banány mnohými chutnými spôsobmi. Olúpu ich a zjedia čerstvé ako rýchlu desiatu, alebo si ich ráno nakrájajú do müsli a jogurtu. Banány tiež pečú v chlebe, palacinkách a koláčoch, alebo z nich mixujú jemné krémové smoothie.",
+      "script_da": "Folk spiser bananer på mange lækre måder. De skræller dem og spiser dem friske som en hurtig snack eller skærer dem i skiver i morgenmaden og yoghurten. De bager også bananer i brød, pandekager og kager, eller blender dem til bløde, cremede smoothies.",
+      "images": [
+        "kitchen.webp",
+        "kitchen_2.webp",
+        "kitchen_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "origin",
+      "question_en": "Where did bananas first grow?",
+      "question_de": "Wo wuchsen Bananen zuerst?",
+      "question_it": "Dove sono cresciute per la prima volta le banane?",
+      "question_fr": "Où les bananes ont-elles poussé pour la première fois ?",
+      "question_es": "¿Dónde crecieron por primera vez los plátanos?",
+      "question_hr": "Gdje su banane prvi put rasle?",
+      "question_cs": "Kde banány poprvé rostly?",
+      "question_pl": "Gdzie po raz pierwszy rosły banany?",
+      "question_fi": "Missä banaanit kasvoivat ensimmäisen kerran?",
+      "question_sk": "Kde banány prvýkrát rástli?",
+      "question_da": "Hvor voksede bananer først?",
+      "correct": "southeast_asia",
+      "options": [
+        {
+          "id": "southeast_asia",
+          "label_en": "Southeast Asia",
+          "label_de": "Südostasien",
+          "label_it": "Sud-Est asiatico",
+          "label_fr": "Asie du Sud-Est",
+          "label_es": "Sudeste Asiático",
+          "label_hr": "Jugoistočna Azija",
+          "label_cs": "Jihovýchodní Asie",
+          "label_pl": "Azja Południowo-Wschodnia",
+          "label_fi": "Kaakkois-Aasia",
+          "label_sk": "Juhovýchodná Ázia",
+          "label_da": "Sydøstasien"
+        },
+        {
+          "id": "europe",
+          "label_en": "Europe",
+          "label_de": "Europa",
+          "label_it": "Europa",
+          "label_fr": "Europe",
+          "label_es": "Europa",
+          "label_hr": "Europa",
+          "label_cs": "Evropa",
+          "label_pl": "Europa",
+          "label_fi": "Eurooppa",
+          "label_sk": "Európa",
+          "label_da": "Europa"
+        },
+        {
+          "id": "antarctica",
+          "label_en": "Antarctica",
+          "label_de": "Antarktis",
+          "label_it": "Antartide",
+          "label_fr": "Antarctique",
+          "label_es": "Antártida",
+          "label_hr": "Antarktika",
+          "label_cs": "Antarktida",
+          "label_pl": "Antarktyda",
+          "label_fi": "Etelämanner",
+          "label_sk": "Antarktída",
+          "label_da": "Antarktis"
+        }
+      ]
+    },
+    {
+      "id": "plant",
+      "question_en": "Bananas grow on…",
+      "question_de": "Bananen wachsen auf …",
+      "question_it": "Le banane crescono su…",
+      "question_fr": "Les bananes poussent sur…",
+      "question_es": "Los plátanos crecen en…",
+      "question_hr": "Banane rastu na…",
+      "question_cs": "Banány rostou na…",
+      "question_pl": "Banany rosną na…",
+      "question_fi": "Banaanit kasvavat…",
+      "question_sk": "Banány rastú na…",
+      "question_da": "Bananer vokser på…",
+      "correct": "tall_plants",
+      "options": [
+        {
+          "id": "tall_plants",
+          "label_en": "Tall plants — not trees",
+          "label_de": "hohen Pflanzen – nicht auf Bäumen",
+          "label_it": "Piante alte — non alberi",
+          "label_fr": "De grandes plantes — pas des arbres",
+          "label_es": "Plantas altas — no en árboles",
+          "label_hr": "visokim biljkama — ne na stablima",
+          "label_cs": "vysokých rostlinách — ne na stromech",
+          "label_pl": "wysokich roślinach — nie na drzewach",
+          "label_fi": "korkeissa kasveissa — ei puissa",
+          "label_sk": "vysokých rastlinách — nie na stromoch",
+          "label_da": "høje planter — ikke træer"
+        },
+        {
+          "id": "low_bushes",
+          "label_en": "Small low bushes",
+          "label_de": "kleinen, niedrigen Sträuchern",
+          "label_it": "Piccoli cespugli bassi",
+          "label_fr": "De petits buissons bas",
+          "label_es": "Pequeños arbustos bajos",
+          "label_hr": "malim niskim grmovima",
+          "label_cs": "malých nízkých keřích",
+          "label_pl": "małych, niskich krzewach",
+          "label_fi": "pienissä matalissa pensaissa",
+          "label_sk": "malých nízkych kríkoch",
+          "label_da": "små, lave buske"
+        },
+        {
+          "id": "underground",
+          "label_en": "Underground like potatoes",
+          "label_de": "unter der Erde wie Kartoffeln",
+          "label_it": "Sottoterra come le patate",
+          "label_fr": "Sous la terre comme les pommes de terre",
+          "label_es": "Bajo tierra como las patatas",
+          "label_hr": "pod zemljom poput krumpira",
+          "label_cs": "pod zemí jako brambory",
+          "label_pl": "pod ziemią jak ziemniaki",
+          "label_fi": "maan alla kuten perunat",
+          "label_sk": "pod zemou ako zemiaky",
+          "label_da": "under jorden ligesom kartofler"
+        }
+      ]
+    },
+    {
+      "id": "color",
+      "question_en": "What color is a yellow banana when it is still on the plant and not ripe yet?",
+      "question_de": "Welche Farbe hat eine gelbe Banane, wenn sie noch an der Pflanze hängt und noch nicht reif ist?",
+      "question_it": "Di che colore è una banana gialla quando è ancora sulla pianta e non è ancora matura?",
+      "question_fr": "De quelle couleur est une banane jaune quand elle est encore sur la plante et qu’elle n’est pas encore mûre ?",
+      "question_es": "¿De qué color es un plátano amarillo cuando todavía está en la planta y aún no está maduro?",
+      "question_hr": "Koje je boje žuta banana dok je još na biljci i nije zrela?",
+      "question_cs": "Jakou barvu má žlutý banán, když je ještě na rostlině a není zralý?",
+      "question_pl": "Jakiego koloru jest żółty banan, kiedy jest jeszcze na roślinie i nie jest dojrzały?",
+      "question_fi": "Minkä värinen keltainen banaani on, kun se on vielä kasvissa eikä ole vielä kypsä?",
+      "question_sk": "Akú farbu má žltý banán, keď je ešte na rastline a nie je zrelý?",
+      "question_da": "Hvilken farve har en gul banan, mens den stadig sidder på planten og endnu ikke er moden?",
+      "correct": "green",
+      "options": [
+        {
+          "id": "green",
+          "label_en": "Green",
+          "label_de": "Grün",
+          "label_it": "Verde",
+          "label_fr": "Verte",
+          "label_es": "Verde",
+          "label_hr": "Zelena",
+          "label_cs": "Zelená",
+          "label_pl": "Zielony",
+          "label_fi": "Vihreä",
+          "label_sk": "Zelená",
+          "label_da": "Grøn"
+        },
+        {
+          "id": "red",
+          "label_en": "Red",
+          "label_de": "Rot",
+          "label_it": "Rossa",
+          "label_fr": "Rouge",
+          "label_es": "Rojo",
+          "label_hr": "Crvena",
+          "label_cs": "Červená",
+          "label_pl": "Czerwony",
+          "label_fi": "Punainen",
+          "label_sk": "Červená",
+          "label_da": "Rød"
+        },
+        {
+          "id": "blue",
+          "label_en": "Blue",
+          "label_de": "Blau",
+          "label_it": "Blu",
+          "label_fr": "Bleue",
+          "label_es": "Azul",
+          "label_hr": "Plava",
+          "label_cs": "Modrá",
+          "label_pl": "Niebieski",
+          "label_fi": "Sininen",
+          "label_sk": "Modrá",
+          "label_da": "Blå"
+        }
+      ]
+    }
+  ]
+}

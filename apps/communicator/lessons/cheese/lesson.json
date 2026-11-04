@@ -1,0 +1,293 @@
+{
+  "id": "cheese",
+  "category_id": "food",
+  "symbol_id": "cheese",
+  "thumbnail": "cheese_thumb.webp",
+  "title_en": "Cheese",
+  "title_de": "Käse",
+  "title_it": "Il formaggio",
+  "title_fr": "Le fromage",
+  "title_es": "El queso",
+  "title_hr": "Sir",
+  "title_cs": "Sýr",
+  "title_pl": "Ser",
+  "title_fi": "Juusto",
+  "title_sk": "Syr",
+  "title_da": "Ost",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about cheese. Cheese is a creamy or firm food made from milk. People enjoy it in countless ways in kitchens all around the world.",
+      "script_de": "Heute lernen wir etwas über Käse. Käse ist ein cremiges oder festes Lebensmittel, das aus Milch hergestellt wird. Die Menschen genießen ihn auf unzählige Arten in Küchen auf der ganzen Welt.",
+      "script_it": "Oggi impareremo qualcosa sul formaggio. Il formaggio è un alimento cremoso o consistente fatto con il latte. Le persone lo gustano in moltissimi modi nelle cucine di tutto il mondo.",
+      "script_fr": "Aujourd’hui, nous allons apprendre à connaître le fromage. Le fromage est un aliment crémeux ou ferme fabriqué à partir de lait. On le déguste de mille façons dans les cuisines du monde entier.",
+      "script_es": "Hoy vamos a aprender sobre el queso. El queso es un alimento cremoso o firme hecho a partir de la leche. La gente lo disfruta de muchísimas maneras en las cocinas de todo el mundo.",
+      "script_hr": "Danas ćemo učiti o siru. Sir je kremasta ili čvrsta hrana napravljena od mlijeka. Ljudi u njemu uživaju na bezbroj načina u kuhinjama diljem svijeta.",
+      "script_cs": "Dnes se budeme učit o sýru. Sýr je krémová nebo pevná potravina vyrobená z mléka. Lidé si ho užívají v nesčetných podobách v kuchyních po celém světě.",
+      "script_pl": "Dzisiaj poznamy ser. Ser to kremowy lub twardy produkt spożywczy wytwarzany z mleka. Ludzie cieszą się nim na niezliczone sposoby w kuchniach całego świata.",
+      "script_fi": "Tänään opimme juustosta. Juusto on kermainen tai kiinteä ruoka, joka tehdään maidosta. Ihmiset nauttivat siitä lukemattomilla tavoilla ympäri maailman keittiöissä.",
+      "script_sk": "Dnes sa budeme učiť o syre. Syr je krémová alebo pevná potravina vyrobená z mlieka. Ľudia si ho užívajú nespočetnými spôsobmi v kuchyniach po celom svete.",
+      "script_da": "I dag skal vi lære om ost. Ost er en cremet eller fast madvare, der laves af mælk. Folk nyder den på utallige måder i køkkener over hele verden.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "origin",
+      "script_en": "People have been making cheese for at least seven thousand years. It probably began by accident, when milk was carried in bags made from animal stomachs. As people travelled, the milk turned thick and became the first cheese.",
+      "script_de": "Menschen stellen seit mindestens siebentausend Jahren Käse her. Wahrscheinlich begann alles durch Zufall, als Milch in Beuteln aus Tiermägen mitgenommen wurde. Während der Reise wurde die Milch dick und so entstand der erste Käse.",
+      "script_it": "Le persone fanno il formaggio da almeno settemila anni. Probabilmente nacque per caso, quando il latte veniva trasportato in sacche fatte di stomaci di animali. Durante il viaggio il latte si addensava e diventava il primo formaggio.",
+      "script_fr": "Les humains fabriquent du fromage depuis au moins sept mille ans. Tout a sans doute commencé par hasard, lorsque le lait était transporté dans des sacs faits d’estomacs d’animaux. Pendant le voyage, le lait s’épaississait et devenait le tout premier fromage.",
+      "script_es": "Las personas hacen queso desde hace al menos siete mil años. Probablemente todo empezó por accidente, cuando la leche se transportaba en bolsas hechas con estómagos de animales. Durante el viaje la leche se espesaba y se convertía en el primer queso.",
+      "script_hr": "Ljudi izrađuju sir već najmanje sedam tisuća godina. Vjerojatno je sve počelo slučajno, kada se mlijeko nosilo u vrećama napravljenim od životinjskih želudaca. Tijekom putovanja mlijeko bi se zgusnulo i tako je nastao prvi sir.",
+      "script_cs": "Lidé vyrábějí sýr už nejméně sedm tisíc let. Pravděpodobně to začalo náhodou, když se mléko převáželo ve vacích vyrobených ze zvířecích žaludků. Během cesty mléko zhoustlo a stal se z něj první sýr.",
+      "script_pl": "Ludzie wytwarzają ser od co najmniej siedmiu tysięcy lat. Wszystko zaczęło się zapewne przez przypadek, gdy mleko przenoszono w workach zrobionych ze zwierzęcych żołądków. W trakcie podróży mleko gęstniało i stawało się pierwszym serem.",
+      "script_fi": "Ihmiset ovat valmistaneet juustoa ainakin seitsemän tuhatta vuotta. Se sai todennäköisesti alkunsa vahingossa, kun maitoa kannettiin pusseissa, jotka oli tehty eläinten mahalaukuista. Matkan aikana maito sakeni ja siitä tuli ensimmäinen juusto.",
+      "script_sk": "Ľudia vyrábajú syr už najmenej sedem tisíc rokov. Pravdepodobne to začalo náhodou, keď sa mlieko prenášalo vo vakoch vyrobených zo zvieracích žalúdkov. Počas cesty mlieko zhustlo a stal sa z neho prvý syr.",
+      "script_da": "Mennesker har lavet ost i mindst syv tusind år. Det begyndte sandsynligvis ved et tilfælde, da mælk blev båret i poser lavet af dyremaver. Undervejs på rejsen blev mælken tyk og blev til den første ost.",
+      "images": [
+        "origin.webp",
+        "origin_2.webp",
+        "origin_3.webp"
+      ]
+    },
+    {
+      "id": "making",
+      "script_en": "To make cheese, milk is gently warmed and a special ingredient called rennet is added. The milk separates into soft curds and watery whey. The curds are then pressed together and shaped into the cheese we know.",
+      "script_de": "Um Käse zu machen, wird Milch sanft erwärmt und eine besondere Zutat namens Lab hinzugefügt. Die Milch trennt sich in weichen Bruch und wässrige Molke. Der Bruch wird dann zusammengepresst und in die Form gebracht, die wir als Käse kennen.",
+      "script_it": "Per fare il formaggio si scalda delicatamente il latte e si aggiunge un ingrediente speciale chiamato caglio. Il latte si separa in cagliata morbida e siero acquoso. La cagliata viene poi pressata e modellata fino a diventare il formaggio che conosciamo.",
+      "script_fr": "Pour faire du fromage, on chauffe doucement le lait et on ajoute un ingrédient spécial appelé présure. Le lait se sépare en caillé tendre et en petit-lait. Le caillé est ensuite pressé et façonné pour devenir le fromage que nous connaissons.",
+      "script_es": "Para hacer queso, se calienta suavemente la leche y se añade un ingrediente especial llamado cuajo. La leche se separa en cuajada blanda y suero líquido. Después la cuajada se prensa y se moldea hasta convertirse en el queso que conocemos.",
+      "script_hr": "Da bi se napravio sir, mlijeko se nježno zagrije i doda se poseban sastojak koji se zove sirilo. Mlijeko se odvaja na meki gruš i vodenastu sirutku. Gruš se zatim sabija i oblikuje u sir kakav poznajemo.",
+      "script_cs": "Při výrobě sýra se mléko jemně zahřeje a přidá se zvláštní přísada zvaná syřidlo. Mléko se rozdělí na měkkou sýřeninu a vodnatou syrovátku. Sýřenina se pak slisuje a vytvaruje do podoby sýra, jak ho známe.",
+      "script_pl": "Aby zrobić ser, mleko delikatnie się podgrzewa i dodaje specjalny składnik zwany podpuszczką. Mleko rozdziela się na miękki skrzep i wodnistą serwatkę. Następnie skrzep się prasuje i formuje w ser, jaki znamy.",
+      "script_fi": "Juuston tekemiseksi maito lämmitetään hellävaraisesti ja siihen lisätään erityinen aine nimeltä juoksete. Maito erottuu pehmeäksi juustomassaksi ja vetiseksi heraksi. Juustomassa puristetaan kasaan ja muotoillaan tutuksi juustoksi.",
+      "script_sk": "Pri výrobe syra sa mlieko jemne zahreje a pridá sa zvláštna prísada nazývaná syridlo. Mlieko sa rozdelí na mäkkú zrazeninu a vodnatú srvátku. Zrazenina sa potom stlačí a vytvaruje do syra, ako ho poznáme.",
+      "script_da": "For at lave ost varmes mælken forsigtigt op, og en særlig ingrediens kaldet osteløbe tilsættes. Mælken deler sig i bløde ostemasser og vandet valle. Ostemassen presses derefter sammen og formes til den ost, vi kender.",
+      "images": [
+        "making.webp",
+        "making_2.webp",
+        "making_3.webp"
+      ]
+    },
+    {
+      "id": "varieties",
+      "script_en": "There are thousands of different cheeses in the world. Some are soft and white, some are hard and yellow, some have blue veins, some are stretchy like mozzarella, and some have strong-smelling rinds. Each cheese has its own age, its own taste, and its own home country.",
+      "script_de": "Es gibt Tausende verschiedene Käsesorten auf der Welt. Manche sind weich und weiß, manche hart und gelb, manche haben blaue Adern, manche sind zugfest wie Mozzarella, und manche haben kräftig riechende Rinden. Jeder Käse hat sein eigenes Alter, seinen eigenen Geschmack und sein eigenes Herkunftsland.",
+      "script_it": "Esistono migliaia di formaggi diversi nel mondo. Alcuni sono morbidi e bianchi, altri duri e gialli, altri hanno venature blu, alcuni sono filanti come la mozzarella e altri hanno croste dall’odore intenso. Ogni formaggio ha la propria stagionatura, il proprio sapore e il proprio paese d’origine.",
+      "script_fr": "Il existe des milliers de fromages différents dans le monde. Certains sont mous et blancs, d’autres durs et jaunes, certains ont des veines bleues, certains sont élastiques comme la mozzarella, et d’autres ont des croûtes à l’odeur forte. Chaque fromage a son âge, son goût et son pays d’origine.",
+      "script_es": "Existen miles de quesos diferentes en el mundo. Algunos son blandos y blancos, otros duros y amarillos, algunos tienen vetas azules, otros son elásticos como la mozzarella y otros tienen cortezas de olor intenso. Cada queso tiene su propia maduración, su propio sabor y su propio país de origen.",
+      "script_hr": "Na svijetu postoje tisuće različitih sireva. Neki su mekani i bijeli, neki tvrdi i žuti, neki imaju plave žilice, neki su rastezljivi poput mozzarelle, a neki imaju kore jakog mirisa. Svaki sir ima svoju starost, svoj okus i svoju matičnu zemlju.",
+      "script_cs": "Na světě existují tisíce různých sýrů. Některé jsou měkké a bílé, jiné tvrdé a žluté, některé mají modré žilky, jiné jsou tažné jako mozzarella a některé mají kůrku se silnou vůní. Každý sýr má své stáří, svou chuť a svou domovskou zemi.",
+      "script_pl": "Na świecie istnieją tysiące różnych serów. Niektóre są miękkie i białe, inne twarde i żółte, niektóre mają niebieskie żyłki, inne są ciągliwe jak mozzarella, a jeszcze inne mają intensywnie pachnące skórki. Każdy ser ma swój wiek, swój smak i swój kraj pochodzenia.",
+      "script_fi": "Maailmassa on tuhansia erilaisia juustoja. Jotkin ovat pehmeitä ja valkoisia, jotkin kovia ja keltaisia, joissakin on sinisiä suonia, jotkin venyvät kuin mozzarella, ja joissakin on voimakkaasti tuoksuvat kuoret. Jokaisella juustolla on oma kypsytysaikansa, oma makunsa ja oma kotimaansa.",
+      "script_sk": "Na svete existujú tisíce rôznych syrov. Niektoré sú mäkké a biele, iné tvrdé a žlté, niektoré majú modré žilky, iné sú ťahavé ako mozzarella a niektoré majú kôrky so silnou vôňou. Každý syr má svoj vlastný vek, svoju chuť a svoju domovskú krajinu.",
+      "script_da": "Der findes tusindvis af forskellige oste i verden. Nogle er bløde og hvide, nogle hårde og gule, nogle har blå årer, nogle er sejt strækbare som mozzarella, og nogle har skorper med en stærk lugt. Hver ost har sin egen modningstid, sin egen smag og sit eget hjemland.",
+      "images": [
+        "varieties.webp",
+        "varieties_2.webp",
+        "varieties_3.webp"
+      ]
+    },
+    {
+      "id": "kitchen",
+      "script_en": "In the kitchen, cheese can be enjoyed in many ways. It is sliced onto bread, melted on top of pizza, or grated over hot pasta. It is also wonderful on its own, served with fresh fruit and crunchy crackers.",
+      "script_de": "In der Küche kann man Käse auf viele Arten genießen. Er wird in Scheiben aufs Brot gelegt, auf Pizza geschmolzen oder über heiße Pasta gerieben. Auch ganz für sich, zusammen mit frischem Obst und knusprigen Crackern, schmeckt er wunderbar.",
+      "script_it": "In cucina il formaggio si può gustare in molti modi. Lo si mette a fette sul pane, sciolto sopra la pizza o grattugiato sulla pasta calda. È buonissimo anche da solo, servito con frutta fresca e cracker croccanti.",
+      "script_fr": "En cuisine, le fromage peut être savouré de nombreuses façons. Il se mange en tranches sur du pain, fondu sur une pizza ou râpé sur des pâtes chaudes. Il est aussi délicieux tout seul, accompagné de fruits frais et de crackers croustillants.",
+      "script_es": "En la cocina, el queso se puede disfrutar de muchas maneras. Se pone en lonchas sobre el pan, fundido encima de la pizza o rallado sobre la pasta caliente. También es delicioso por sí solo, acompañado de fruta fresca y galletas crujientes.",
+      "script_hr": "U kuhinji se sir može uživati na mnogo načina. Reže se na kruh, topi se na pizzi ili riba preko vruće tjestenine. Izvrstan je i sam za sebe, poslužen sa svježim voćem i hrskavim krekerima.",
+      "script_cs": "V kuchyni si můžeme sýr vychutnat mnoha způsoby. Krájí se na chléb, taví se na pizze nebo strouhá na horké těstoviny. Je skvělý i sám o sobě, podávaný s čerstvým ovocem a křupavými krekry.",
+      "script_pl": "W kuchni ser można jeść na wiele sposobów. Kroi się go na chleb, rozpuszcza na pizzy lub ściera nad gorącym makaronem. Świetnie smakuje też sam, podany ze świeżymi owocami i chrupiącymi krakersami.",
+      "script_fi": "Keittiössä juustoa voi nauttia monella tavalla. Sitä leikataan viipaleiksi leivän päälle, sulatetaan pizzan päällä tai raastetaan kuuman pastan päälle. Se on herkullista myös sellaisenaan, tarjoiltuna tuoreiden hedelmien ja rapeiden keksien kanssa.",
+      "script_sk": "V kuchyni si syr môžeme vychutnať mnohými spôsobmi. Krája sa na chlieb, taví sa na pizzi alebo sa strúha na horúce cestoviny. Je výborný aj samostatne, podávaný s čerstvým ovocím a chrumkavými krekrami.",
+      "script_da": "I køkkenet kan ost nydes på mange måder. Den skæres i skiver på brød, smeltes oven på pizza eller rives over varm pasta. Den er også skøn helt for sig selv, serveret med frisk frugt og sprøde kiks.",
+      "images": [
+        "kitchen.webp",
+        "kitchen_2.webp",
+        "kitchen_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "made_from",
+      "question_en": "What is cheese made from?",
+      "question_de": "Woraus wird Käse hergestellt?",
+      "question_it": "Con cosa si fa il formaggio?",
+      "question_fr": "À partir de quoi le fromage est-il fabriqué ?",
+      "question_es": "¿De qué se hace el queso?",
+      "question_hr": "Od čega se radi sir?",
+      "question_cs": "Z čeho se vyrábí sýr?",
+      "question_pl": "Z czego robi się ser?",
+      "question_fi": "Mistä juusto tehdään?",
+      "question_sk": "Z čoho sa vyrába syr?",
+      "question_da": "Hvad er ost lavet af?",
+      "correct": "milk",
+      "options": [
+        {
+          "id": "milk",
+          "label_en": "Milk",
+          "label_de": "Milch",
+          "label_it": "Latte",
+          "label_fr": "Lait",
+          "label_es": "Leche",
+          "label_hr": "Mlijeko",
+          "label_cs": "Mléko",
+          "label_pl": "Mleko",
+          "label_fi": "Maito",
+          "label_sk": "Mlieko",
+          "label_da": "Mælk"
+        },
+        {
+          "id": "water",
+          "label_en": "Water",
+          "label_de": "Wasser",
+          "label_it": "Acqua",
+          "label_fr": "Eau",
+          "label_es": "Agua",
+          "label_hr": "Voda",
+          "label_cs": "Voda",
+          "label_pl": "Woda",
+          "label_fi": "Vesi",
+          "label_sk": "Voda",
+          "label_da": "Vand"
+        },
+        {
+          "id": "flour",
+          "label_en": "Flour",
+          "label_de": "Mehl",
+          "label_it": "Farina",
+          "label_fr": "Farine",
+          "label_es": "Harina",
+          "label_hr": "Brašno",
+          "label_cs": "Mouka",
+          "label_pl": "Mąka",
+          "label_fi": "Jauho",
+          "label_sk": "Múka",
+          "label_da": "Mel"
+        }
+      ]
+    },
+    {
+      "id": "age",
+      "question_en": "About how long have people been making cheese?",
+      "question_de": "Wie lange stellen Menschen ungefähr schon Käse her?",
+      "question_it": "Da quanto tempo, all’incirca, le persone fanno il formaggio?",
+      "question_fr": "Depuis environ combien de temps les humains fabriquent-ils du fromage ?",
+      "question_es": "¿Desde hace aproximadamente cuánto tiempo se hace queso?",
+      "question_hr": "Otprilike koliko dugo ljudi izrađuju sir?",
+      "question_cs": "Přibližně jak dlouho už lidé vyrábějí sýr?",
+      "question_pl": "Mniej więcej od jak dawna ludzie wytwarzają ser?",
+      "question_fi": "Kuinka kauan ihmiset suunnilleen ovat valmistaneet juustoa?",
+      "question_sk": "Asi ako dlho už ľudia vyrábajú syr?",
+      "question_da": "Hvor længe har folk omtrent lavet ost?",
+      "correct": "seven_thousand",
+      "options": [
+        {
+          "id": "seven_thousand",
+          "label_en": "At least 7,000 years",
+          "label_de": "Mindestens 7.000 Jahre",
+          "label_it": "Almeno 7.000 anni",
+          "label_fr": "Au moins 7 000 ans",
+          "label_es": "Al menos 7.000 años",
+          "label_hr": "Najmanje 7.000 godina",
+          "label_cs": "Nejméně 7 000 let",
+          "label_pl": "Co najmniej 7 000 lat",
+          "label_fi": "Vähintään 7 000 vuotta",
+          "label_sk": "Aspoň 7 000 rokov",
+          "label_da": "Mindst 7.000 år"
+        },
+        {
+          "id": "one_hundred",
+          "label_en": "About 100 years",
+          "label_de": "Etwa 100 Jahre",
+          "label_it": "Circa 100 anni",
+          "label_fr": "Environ 100 ans",
+          "label_es": "Unos 100 años",
+          "label_hr": "Oko 100 godina",
+          "label_cs": "Asi 100 let",
+          "label_pl": "Około 100 lat",
+          "label_fi": "Noin 100 vuotta",
+          "label_sk": "Približne 100 rokov",
+          "label_da": "Omkring 100 år"
+        },
+        {
+          "id": "ten_million",
+          "label_en": "About 10,000,000 years",
+          "label_de": "Etwa 10.000.000 Jahre",
+          "label_it": "Circa 10.000.000 di anni",
+          "label_fr": "Environ 10 000 000 d’années",
+          "label_es": "Unos 10.000.000 de años",
+          "label_hr": "Oko 10.000.000 godina",
+          "label_cs": "Asi 10 000 000 let",
+          "label_pl": "Około 10 000 000 lat",
+          "label_fi": "Noin 10 000 000 vuotta",
+          "label_sk": "Približne 10 000 000 rokov",
+          "label_da": "Omkring 10.000.000 år"
+        }
+      ]
+    },
+    {
+      "id": "curds_whey",
+      "question_en": "When cheese is made, the milk separates into…",
+      "question_de": "Wenn Käse hergestellt wird, trennt sich die Milch in …",
+      "question_it": "Quando si fa il formaggio, il latte si separa in…",
+      "question_fr": "Quand on fait du fromage, le lait se sépare en…",
+      "question_es": "Cuando se hace queso, la leche se separa en…",
+      "question_hr": "Kada se radi sir, mlijeko se odvaja na…",
+      "question_cs": "Při výrobě sýra se mléko rozdělí na…",
+      "question_pl": "Gdy robi się ser, mleko rozdziela się na…",
+      "question_fi": "Kun juustoa tehdään, maito erottuu…",
+      "question_sk": "Pri výrobe syra sa mlieko rozdelí na…",
+      "question_da": "Når der laves ost, deler mælken sig i …",
+      "correct": "curds_and_whey",
+      "options": [
+        {
+          "id": "curds_and_whey",
+          "label_en": "Soft curds and watery whey",
+          "label_de": "Weichen Bruch und wässrige Molke",
+          "label_it": "Cagliata morbida e siero acquoso",
+          "label_fr": "Caillé tendre et petit-lait",
+          "label_es": "Cuajada blanda y suero líquido",
+          "label_hr": "Meki gruš i vodenastu sirutku",
+          "label_cs": "Měkkou sýřeninu a vodnatou syrovátku",
+          "label_pl": "Miękki skrzep i wodnistą serwatkę",
+          "label_fi": "Pehmeäksi juustomassaksi ja vetiseksi heraksi",
+          "label_sk": "Mäkkú zrazeninu a vodnatú srvátku",
+          "label_da": "Bløde ostemasser og vandet valle"
+        },
+        {
+          "id": "oil_and_sugar",
+          "label_en": "Oil and sugar",
+          "label_de": "Öl und Zucker",
+          "label_it": "Olio e zucchero",
+          "label_fr": "Huile et sucre",
+          "label_es": "Aceite y azúcar",
+          "label_hr": "Ulje i šećer",
+          "label_cs": "Olej a cukr",
+          "label_pl": "Olej i cukier",
+          "label_fi": "Öljyä ja sokeria",
+          "label_sk": "Olej a cukor",
+          "label_da": "Olie og sukker"
+        },
+        {
+          "id": "bread_and_butter",
+          "label_en": "Bread and butter",
+          "label_de": "Brot und Butter",
+          "label_it": "Pane e burro",
+          "label_fr": "Pain et beurre",
+          "label_es": "Pan y mantequilla",
+          "label_hr": "Kruh i maslac",
+          "label_cs": "Chléb a máslo",
+          "label_pl": "Chleb i masło",
+          "label_fi": "Leipää ja voita",
+          "label_sk": "Chlieb a maslo",
+          "label_da": "Brød og smør"
+        }
+      ]
+    }
+  ]
+}

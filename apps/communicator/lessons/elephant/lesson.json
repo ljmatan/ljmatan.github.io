@@ -1,0 +1,293 @@
+{
+  "id": "elephant",
+  "category_id": "animals",
+  "symbol_id": "elephant",
+  "thumbnail": "elephant_thumb.webp",
+  "title_en": "Elephants",
+  "title_de": "Elefanten",
+  "title_it": "Gli elefanti",
+  "title_fr": "Les éléphants",
+  "title_es": "Los elefantes",
+  "title_hr": "Slonovi",
+  "title_cs": "Sloni",
+  "title_pl": "Słonie",
+  "title_fi": "Norsut",
+  "title_sk": "Slony",
+  "title_da": "Elefanter",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about elephants. Elephants are the largest land animals on Earth, and they walk gently on big, padded feet. They are also famous for their kindness, their close families, and their remarkable intelligence.",
+      "script_de": "Heute lernen wir etwas über Elefanten. Elefanten sind die größten Landtiere der Erde und gehen sanft auf großen, gepolsterten Füßen. Sie sind außerdem berühmt für ihre Sanftmut, ihre engen Familien und ihre bemerkenswerte Klugheit.",
+      "script_it": "Oggi impareremo qualcosa sugli elefanti. Gli elefanti sono i più grandi animali terrestri del mondo e camminano in modo lieve sui loro grandi piedi imbottiti. Sono anche famosi per la loro gentilezza, le loro famiglie unite e la loro straordinaria intelligenza.",
+      "script_fr": "Aujourd’hui, nous allons apprendre à connaître les éléphants. Les éléphants sont les plus grands animaux terrestres de la Terre, et ils marchent doucement sur de grands pieds rembourrés. Ils sont aussi célèbres pour leur gentillesse, leurs familles très unies et leur remarquable intelligence.",
+      "script_es": "Hoy vamos a aprender sobre los elefantes. Los elefantes son los animales terrestres más grandes de la Tierra y caminan con suavidad sobre sus grandes patas acolchadas. También son famosos por su amabilidad, por sus familias muy unidas y por su notable inteligencia.",
+      "script_hr": "Danas ćemo učiti o slonovima. Slonovi su najveće kopnene životinje na Zemlji i nježno hodaju na velikim, jastučastim stopalima. Poznati su i po svojoj dobroti, bliskim obiteljima i izuzetnoj inteligenciji.",
+      "script_cs": "Dnes se budeme učit o slonech. Sloni jsou největší suchozemská zvířata na Zemi a po velkých, polstrovaných nohách kráčejí jemně a tiše. Jsou také známí svou laskavostí, blízkými rodinami a pozoruhodnou inteligencí.",
+      "script_pl": "Dzisiaj poznamy słonie. Słonie to największe zwierzęta lądowe na Ziemi, a chodzą cicho na wielkich, miękko wyściełanych stopach. Słyną także z łagodności, bliskich rodzin i niezwykłej inteligencji.",
+      "script_fi": "Tänään opimme norsuista. Norsut ovat maapallon suurimpia maaeläimiä, ja ne kävelevät pehmeästi suurilla, pehmustetuilla jaloillaan. Niitä arvostetaan myös niiden lempeydestä, läheisistä perheistä ja huomattavasta älykkyydestä.",
+      "script_sk": "Dnes sa budeme učiť o slonoch. Slony sú najväčšie suchozemské zvieratá na Zemi a po veľkých, vypchatých nohách kráčajú jemne a ticho. Sú známe aj svojou láskavosťou, blízkymi rodinami a pozoruhodnou inteligenciou.",
+      "script_da": "I dag skal vi lære om elefanter. Elefanter er de største landdyr på Jorden, og de går blidt på store, polstrede fødder. De er også kendt for deres venlighed, deres tætte familier og deres bemærkelsesværdige intelligens.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "habitat",
+      "script_en": "African elephants live on the wide grasslands and savannas of Africa, while Asian elephants live in the warm forests of Asia. Both kinds need plenty of food and water every single day. They walk many kilometres to find fresh leaves, fruit, grass, and a good place to drink.",
+      "script_de": "Afrikanische Elefanten leben in den weiten Graslandschaften und Savannen Afrikas, während asiatische Elefanten in den warmen Wäldern Asiens zu Hause sind. Beide brauchen jeden Tag sehr viel Futter und Wasser. Sie wandern viele Kilometer, um frische Blätter, Früchte, Gras und eine gute Wasserstelle zu finden.",
+      "script_it": "Gli elefanti africani vivono nelle vaste praterie e savane dell’Africa, mentre gli elefanti asiatici vivono nelle foreste calde dell’Asia. Entrambi hanno bisogno di moltissimo cibo e acqua ogni giorno. Camminano per molti chilometri per trovare foglie fresche, frutta, erba e un buon posto dove bere.",
+      "script_fr": "Les éléphants d’Afrique vivent dans les vastes prairies et savanes d’Afrique, tandis que les éléphants d’Asie vivent dans les forêts chaudes d’Asie. Tous les deux ont besoin de beaucoup de nourriture et d’eau chaque jour. Ils marchent sur de nombreux kilomètres pour trouver des feuilles fraîches, des fruits, de l’herbe et un bon endroit pour boire.",
+      "script_es": "Los elefantes africanos viven en las amplias praderas y sabanas de África, mientras que los elefantes asiáticos viven en los cálidos bosques de Asia. Ambos necesitan mucha comida y agua cada día. Caminan muchos kilómetros para encontrar hojas frescas, frutas, hierba y un buen lugar donde beber.",
+      "script_hr": "Afrički slonovi žive na širokim travnjacima i savanama Afrike, dok azijski slonovi žive u toplim šumama Azije. Obje vrste svaki dan trebaju mnogo hrane i vode. Hodaju mnogo kilometara kako bi pronašli svježe lišće, voće, travu i dobro mjesto za piće.",
+      "script_cs": "Sloni afričtí žijí na širokých travnatých pláních a savanách Afriky, zatímco sloni indičtí žijí v teplých lesích Asie. Oba druhy potřebují každý den hodně potravy a vody. Putují mnoho kilometrů, aby našli čerstvé listy, ovoce, trávu a dobré místo k pití.",
+      "script_pl": "Słonie afrykańskie żyją na rozległych łąkach i sawannach Afryki, a słonie azjatyckie zamieszkują ciepłe lasy Azji. Oba gatunki każdego dnia potrzebują dużo jedzenia i wody. Wędrują wiele kilometrów, by znaleźć świeże liście, owoce, trawę i dobre miejsce na wodopój.",
+      "script_fi": "Afrikannorsut elävät Afrikan laajoilla ruohotasangoilla ja savanneilla, kun taas aasiannorsut asuvat Aasian lämpimissä metsissä. Molemmat tarvitsevat joka päivä paljon ravintoa ja vettä. Ne kulkevat monia kilometrejä löytääkseen tuoreita lehtiä, hedelmiä, ruohoa ja hyvän juomapaikan.",
+      "script_sk": "Slony africké žijú na šírych trávnatých pláňach a savanách Afriky, zatiaľ čo slony indické žijú v teplých lesoch Ázie. Oba druhy potrebujú každý deň veľa potravy a vody. Putujú mnoho kilometrov, aby našli čerstvé listy, ovocie, trávu a dobré miesto na pitie.",
+      "script_da": "Afrikanske elefanter lever på de store græssletter og savanner i Afrika, mens asiatiske elefanter lever i Asiens varme skove. Begge arter har brug for masser af mad og vand hver eneste dag. De vandrer mange kilometer for at finde friske blade, frugt, græs og et godt sted at drikke.",
+      "images": [
+        "habitat.webp",
+        "habitat_2.webp",
+        "habitat_3.webp"
+      ]
+    },
+    {
+      "id": "body",
+      "script_en": "An elephant has a long, strong trunk that works like a nose and a hand at the same time. Its big floppy ears flap back and forth to help it stay cool in the heat. It walks softly on huge feet and carries two long ivory tusks beside its mouth.",
+      "script_de": "Ein Elefant hat einen langen, kräftigen Rüssel, der gleichzeitig wie eine Nase und wie eine Hand funktioniert. Seine großen, schlappen Ohren bewegen sich hin und her und helfen ihm, sich in der Hitze abzukühlen. Er geht leise auf riesigen Füßen und trägt zwei lange Stoßzähne aus Elfenbein neben dem Maul.",
+      "script_it": "L’elefante ha una proboscide lunga e forte che funziona allo stesso tempo come naso e come mano. Le sue grandi orecchie morbide sbattono avanti e indietro per aiutarlo a stare fresco con il caldo. Cammina lievemente su piedi enormi e porta due lunghe zanne d’avorio ai lati della bocca.",
+      "script_fr": "L’éléphant a une longue trompe puissante qui fonctionne à la fois comme un nez et comme une main. Ses grandes oreilles souples battent d’avant en arrière pour l’aider à rester au frais quand il fait chaud. Il marche doucement sur d’énormes pieds et porte deux longues défenses en ivoire de chaque côté de la bouche.",
+      "script_es": "El elefante tiene una trompa larga y fuerte que funciona a la vez como nariz y como mano. Sus grandes orejas blandas se mueven de un lado a otro para ayudarle a refrescarse cuando hace calor. Camina con suavidad sobre enormes patas y lleva dos largos colmillos de marfil a los lados de la boca.",
+      "script_hr": "Slon ima dugačku i snažnu surlu koja istovremeno radi i kao nos i kao ruka. Velike, mlohave uši mašu naprijed-natrag i pomažu mu da se rashladi po vrućini. Hoda nježno na ogromnim stopalima i nosi dvije dugačke bjelokosne kljove uz usta.",
+      "script_cs": "Slon má dlouhý, silný chobot, který funguje zároveň jako nos i jako ruka. Jeho velké, plandavé uši se pohybují sem a tam a pomáhají mu chladit se v horku. Po obrovských nohách našlapuje tiše a vedle tlamy nosí dva dlouhé slonovinové kly.",
+      "script_pl": "Słoń ma długą i silną trąbę, która działa jednocześnie jak nos i jak ręka. Wielkie, miękkie uszy machają w przód i w tył, pomagając mu schłodzić się w upale. Stąpa cicho na ogromnych stopach, a po bokach pyska nosi dwa długie kły z kości słoniowej.",
+      "script_fi": "Norsulla on pitkä ja vahva kärsä, joka toimii samaan aikaan nenänä ja kätenä. Sen suuret, lerpattavat korvat heiluvat edestakaisin ja auttavat sitä pysymään viileänä helteessä. Se kävelee pehmeästi valtavilla jaloillaan ja kantaa kahta pitkää norsunluusta tehtyä syöksyhammasta suun molemmin puolin.",
+      "script_sk": "Slon má dlhý a silný chobot, ktorý zároveň funguje ako nos aj ako ruka. Jeho veľké, ovisnuté uši sa pohybujú sem a tam a pomáhajú mu schladiť sa v horúčave. Po obrovských nohách kráča ticho a vedľa tlamy nosí dva dlhé slonovinové kly.",
+      "script_da": "En elefant har en lang, stærk snabel, der både fungerer som næse og som hånd. Dens store, slaskede ører basker frem og tilbage og hjælper den med at holde sig kølig i varmen. Den går blødt på enorme fødder og bærer to lange stødtænder af elfenben ved siden af munden.",
+      "images": [
+        "body.webp",
+        "body_2.webp",
+        "body_3.webp"
+      ]
+    },
+    {
+      "id": "calf",
+      "script_en": "A baby elephant is called a calf. A newborn calf already weighs about one hundred kilograms, which is heavier than most grown-up people. Its mother, aunts, and older sisters all help to feed, protect, and teach the little calf.",
+      "script_de": "Ein Elefantenbaby wird Kalb genannt. Ein neugeborenes Kalb wiegt schon etwa hundert Kilogramm, das ist schwerer als die meisten erwachsenen Menschen. Seine Mutter, seine Tanten und seine älteren Schwestern helfen alle dabei, das kleine Kalb zu füttern, zu beschützen und zu lehren.",
+      "script_it": "Un cucciolo di elefante si chiama elefantino. Un elefantino appena nato pesa già circa cento chili, più della maggior parte degli esseri umani adulti. La mamma, le zie e le sorelle maggiori aiutano tutte insieme a nutrire, proteggere e insegnare al piccolo.",
+      "script_fr": "Un bébé éléphant s’appelle un éléphanteau. Un éléphanteau nouveau-né pèse déjà environ cent kilogrammes, ce qui est plus lourd que la plupart des adultes. Sa mère, ses tantes et ses grandes sœurs aident toutes à le nourrir, à le protéger et à lui apprendre la vie.",
+      "script_es": "Una cría de elefante se llama ternero. Un ternero recién nacido ya pesa unos cien kilos, más que la mayoría de las personas adultas. Su madre, sus tías y sus hermanas mayores le ayudan a alimentarse, lo protegen y le enseñan a vivir.",
+      "script_hr": "Mladunče slona zove se mladunac. Tek rođeni mladunac već teži oko sto kilograma, što je više od većine odraslih ljudi. Majka, tete i starije sestre zajedno pomažu hraniti, štititi i učiti malog slončića.",
+      "script_cs": "Slonímu mláděti se říká slůně. Novorozené slůně už váží asi sto kilogramů, což je víc než většina dospělých lidí. Matka, tety i starší sestry mu společně pomáhají ho krmit, chránit a učit.",
+      "script_pl": "Małe słonia nazywa się słoniątkiem. Nowo narodzone słoniątko waży już około stu kilogramów, czyli więcej niż większość dorosłych ludzi. Matka, ciotki i starsze siostry razem pomagają je karmić, chronić i uczyć życia.",
+      "script_fi": "Norsunpoikasta sanotaan vasaksi. Vastasyntynyt vasa painaa jo noin sata kiloa, mikä on enemmän kuin useimmat aikuiset ihmiset. Emo, tädit ja vanhemmat sisaret auttavat kaikki yhdessä ruokkimaan, suojelemaan ja opettamaan pientä vasaa.",
+      "script_sk": "Mláďa slona sa volá sloniatko. Novonarodené sloniatko už váži približne sto kilogramov, čo je viac než väčšina dospelých ľudí. Matka, tety aj staršie sestry mu spoločne pomáhajú kŕmiť ho, chrániť a učiť ho.",
+      "script_da": "En baby-elefant kaldes en kalv. En nyfødt kalv vejer allerede omkring hundrede kilo, hvilket er mere end de fleste voksne mennesker. Dens mor, tanter og storesøstre hjælper alle med at fodre, beskytte og lære den lille kalv.",
+      "images": [
+        "calf.webp",
+        "calf_2.webp",
+        "calf_3.webp"
+      ]
+    },
+    {
+      "id": "memory_and_family",
+      "script_en": "Elephants live in close family herds led by the oldest and wisest female, called the matriarch. They have a remarkable memory and can remember waterholes, paths, and faces for many years. They greet their friends and family with gentle touches and soft sounds, and they recognise loved ones for their whole life.",
+      "script_de": "Elefanten leben in engen Familienherden, die von der ältesten und klügsten Kuh, der Leitkuh, geführt werden. Sie haben ein bemerkenswertes Gedächtnis und können sich viele Jahre lang an Wasserstellen, Wege und Gesichter erinnern. Ihre Freunde und Familie begrüßen sie mit sanften Berührungen und leisen Lauten und erkennen ihre Lieben ihr ganzes Leben lang wieder.",
+      "script_it": "Gli elefanti vivono in branchi familiari uniti, guidati dalla femmina più anziana e saggia, chiamata matriarca. Hanno una memoria straordinaria e ricordano pozze d’acqua, sentieri e volti per molti anni. Salutano gli amici e i familiari con tocchi delicati e suoni soavi, e riconoscono i loro cari per tutta la vita.",
+      "script_fr": "Les éléphants vivent dans des troupeaux familiaux très soudés, menés par la femelle la plus âgée et la plus sage, appelée la matriarche. Ils ont une mémoire remarquable et peuvent se souvenir des points d’eau, des chemins et des visages pendant de longues années. Ils saluent leurs amis et leur famille par des touches douces et des sons légers, et reconnaissent leurs proches toute leur vie.",
+      "script_es": "Los elefantes viven en manadas familiares muy unidas, guiadas por la hembra más vieja y sabia, llamada matriarca. Tienen una memoria extraordinaria y recuerdan pozos de agua, senderos y caras durante muchos años. Saludan a sus amigos y familiares con suaves caricias y sonidos delicados, y reconocen a sus seres queridos durante toda su vida.",
+      "script_hr": "Slonovi žive u bliskim obiteljskim krdima koja vodi najstarija i najmudrija ženka, zvana matrijarh. Imaju izuzetno pamćenje i godinama mogu pamtiti pojilišta, staze i lica. Pozdravljaju prijatelje i obitelj nježnim dodirima i tihim zvukovima te svoje voljene prepoznaju cijeli život.",
+      "script_cs": "Sloni žijí v blízkých rodinných stádech, která vede nejstarší a nejmoudřejší samice, zvaná matriarcha. Mají pozoruhodnou paměť a dokážou si po mnoho let pamatovat napajedla, cesty i tváře. Své přátele a rodinu zdraví jemnými doteky a tichými zvuky a své blízké poznávají po celý život.",
+      "script_pl": "Słonie żyją w bliskich, rodzinnych stadach, którymi przewodzi najstarsza i najmądrzejsza samica, zwana matriarchą. Mają niezwykłą pamięć i potrafią przez wiele lat pamiętać wodopoje, ścieżki i twarze. Witają przyjaciół i rodzinę delikatnymi dotknięciami i cichymi dźwiękami, a bliskich rozpoznają przez całe życie.",
+      "script_fi": "Norsut elävät tiiviissä perhelaumoissa, joita johtaa vanhin ja viisain naaras, jota kutsutaan matriarkaksi. Niillä on huomattava muisti, ja ne voivat muistaa vesipaikkoja, polkuja ja kasvoja monien vuosien ajan. Ne tervehtivät ystäviään ja perhettään lempeillä kosketuksilla ja hiljaisilla äänillä, ja tunnistavat läheisensä koko elämänsä ajan.",
+      "script_sk": "Slony žijú v blízkych rodinných čriedach, ktoré vedie najstaršia a najmúdrejšia samica, nazývaná matriarcha. Majú pozoruhodnú pamäť a dokážu si dlhé roky pamätať napájadlá, chodníky aj tváre. Svojich priateľov a rodinu zdravia jemnými dotykmi a tichými zvukmi a svojich blízkych poznávajú po celý život.",
+      "script_da": "Elefanter lever i tætte familieflokke, der ledes af den ældste og klogeste hun, kaldet matriarken. De har en bemærkelsesværdig hukommelse og kan huske vandhuller, stier og ansigter i mange år. De hilser på venner og familie med blide berøringer og bløde lyde, og de genkender deres kære hele livet.",
+      "images": [
+        "memory_and_family.webp",
+        "memory_and_family_2.webp",
+        "memory_and_family_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "size",
+      "question_en": "Where do elephants rank in size on land?",
+      "question_de": "Wo stehen Elefanten in der Größe an Land?",
+      "question_it": "Come si collocano gli elefanti per dimensione tra gli animali terrestri?",
+      "question_fr": "Quelle place les éléphants occupent-ils en taille parmi les animaux terrestres ?",
+      "question_es": "¿Qué lugar ocupan los elefantes por tamaño entre los animales terrestres?",
+      "question_hr": "Gdje se slonovi nalaze po veličini među kopnenim životinjama?",
+      "question_cs": "Kde stojí sloni velikostí mezi suchozemskými zvířaty?",
+      "question_pl": "Jakie miejsce zajmują słonie pod względem wielkości wśród zwierząt lądowych?",
+      "question_fi": "Mille sijalle norsut sijoittuvat kooltaan maaeläinten joukossa?",
+      "question_sk": "Kde sa slony nachádzajú podľa veľkosti medzi suchozemskými zvieratami?",
+      "question_da": "Hvor placerer elefanter sig størrelsesmæssigt blandt landdyrene?",
+      "correct": "largest",
+      "options": [
+        {
+          "id": "largest",
+          "label_en": "They are the largest land animal",
+          "label_de": "Sie sind das größte Landtier",
+          "label_it": "Sono il più grande animale terrestre",
+          "label_fr": "Ce sont les plus grands animaux terrestres",
+          "label_es": "Son el animal terrestre más grande",
+          "label_hr": "Najveće su kopnene životinje",
+          "label_cs": "Jsou největším suchozemským zvířetem",
+          "label_pl": "Są największym zwierzęciem lądowym",
+          "label_fi": "Ne ovat suurimpia maaeläimiä",
+          "label_sk": "Sú najväčším suchozemským zvieraťom",
+          "label_da": "De er det største landdyr"
+        },
+        {
+          "id": "medium",
+          "label_en": "They are medium-sized",
+          "label_de": "Sie sind mittelgroß",
+          "label_it": "Sono di taglia media",
+          "label_fr": "Ils sont de taille moyenne",
+          "label_es": "Son de tamaño mediano",
+          "label_hr": "Srednje su veličine",
+          "label_cs": "Jsou středně velcí",
+          "label_pl": "Są średniej wielkości",
+          "label_fi": "Ne ovat keskikokoisia",
+          "label_sk": "Sú stredne veľké",
+          "label_da": "De er mellemstore"
+        },
+        {
+          "id": "smallest",
+          "label_en": "They are among the smallest",
+          "label_de": "Sie gehören zu den kleinsten",
+          "label_it": "Sono tra i più piccoli",
+          "label_fr": "Ils sont parmi les plus petits",
+          "label_es": "Están entre los más pequeños",
+          "label_hr": "Među najmanjima su",
+          "label_cs": "Patří mezi nejmenší",
+          "label_pl": "Należą do najmniejszych",
+          "label_fi": "Ne ovat pienimpien joukossa",
+          "label_sk": "Patria medzi najmenšie",
+          "label_da": "De er blandt de mindste"
+        }
+      ]
+    },
+    {
+      "id": "trunk",
+      "question_en": "What does an elephant use its trunk for?",
+      "question_de": "Wofür benutzt ein Elefant seinen Rüssel?",
+      "question_it": "A cosa serve la proboscide dell’elefante?",
+      "question_fr": "À quoi sert la trompe d’un éléphant ?",
+      "question_es": "¿Para qué usa el elefante su trompa?",
+      "question_hr": "Za što slon koristi svoju surlu?",
+      "question_cs": "K čemu slon používá svůj chobot?",
+      "question_pl": "Do czego słoń używa swojej trąby?",
+      "question_fi": "Mihin norsu käyttää kärsäänsä?",
+      "question_sk": "Na čo používa slon svoj chobot?",
+      "question_da": "Hvad bruger en elefant sin snabel til?",
+      "correct": "many_things",
+      "options": [
+        {
+          "id": "many_things",
+          "label_en": "Smelling, drinking, lifting and greeting",
+          "label_de": "Riechen, Trinken, Heben und Begrüßen",
+          "label_it": "Annusare, bere, sollevare e salutare",
+          "label_fr": "Sentir, boire, soulever et saluer",
+          "label_es": "Oler, beber, levantar y saludar",
+          "label_hr": "Mirisanje, pijenje, podizanje i pozdravljanje",
+          "label_cs": "K čichání, pití, zvedání a zdravení",
+          "label_pl": "Do wąchania, picia, podnoszenia i pozdrawiania",
+          "label_fi": "Haistamiseen, juomiseen, nostamiseen ja tervehtimiseen",
+          "label_sk": "Na ovoniavanie, pitie, zdvíhanie a zdravenie",
+          "label_da": "At lugte, drikke, løfte og hilse"
+        },
+        {
+          "id": "flying",
+          "label_en": "Flying",
+          "label_de": "Fliegen",
+          "label_it": "Volare",
+          "label_fr": "Voler",
+          "label_es": "Volar",
+          "label_hr": "Letenje",
+          "label_cs": "Létání",
+          "label_pl": "Latanie",
+          "label_fi": "Lentämiseen",
+          "label_sk": "Lietanie",
+          "label_da": "At flyve"
+        },
+        {
+          "id": "running",
+          "label_en": "Running faster",
+          "label_de": "Schneller laufen",
+          "label_it": "Correre più veloce",
+          "label_fr": "Courir plus vite",
+          "label_es": "Correr más rápido",
+          "label_hr": "Brže trčanje",
+          "label_cs": "Rychlejší běh",
+          "label_pl": "Szybsze bieganie",
+          "label_fi": "Nopeampaan juoksemiseen",
+          "label_sk": "Rýchlejší beh",
+          "label_da": "At løbe hurtigere"
+        }
+      ]
+    },
+    {
+      "id": "family",
+      "question_en": "Who usually leads an elephant herd?",
+      "question_de": "Wer führt normalerweise eine Elefantenherde an?",
+      "question_it": "Chi guida di solito un branco di elefanti?",
+      "question_fr": "Qui dirige généralement un troupeau d’éléphants ?",
+      "question_es": "¿Quién suele guiar una manada de elefantes?",
+      "question_hr": "Tko obično vodi krdo slonova?",
+      "question_cs": "Kdo obvykle vede stádo slonů?",
+      "question_pl": "Kto zwykle przewodzi stadu słoni?",
+      "question_fi": "Kuka yleensä johtaa norsulaumaa?",
+      "question_sk": "Kto zvyčajne vedie čriedu slonov?",
+      "question_da": "Hvem leder som regel en elefantflok?",
+      "correct": "oldest_female",
+      "options": [
+        {
+          "id": "oldest_female",
+          "label_en": "The oldest female",
+          "label_de": "Die älteste Kuh",
+          "label_it": "La femmina più anziana",
+          "label_fr": "La femelle la plus âgée",
+          "label_es": "La hembra más vieja",
+          "label_hr": "Najstarija ženka",
+          "label_cs": "Nejstarší samice",
+          "label_pl": "Najstarsza samica",
+          "label_fi": "Vanhin naaras",
+          "label_sk": "Najstaršia samica",
+          "label_da": "Den ældste hun"
+        },
+        {
+          "id": "youngest_male",
+          "label_en": "The youngest male",
+          "label_de": "Der jüngste Bulle",
+          "label_it": "Il maschio più giovane",
+          "label_fr": "Le mâle le plus jeune",
+          "label_es": "El macho más joven",
+          "label_hr": "Najmlađi mužjak",
+          "label_cs": "Nejmladší samec",
+          "label_pl": "Najmłodszy samiec",
+          "label_fi": "Nuorin uros",
+          "label_sk": "Najmladší samec",
+          "label_da": "Den yngste han"
+        },
+        {
+          "id": "youngest_calf",
+          "label_en": "The youngest calf",
+          "label_de": "Das jüngste Kalb",
+          "label_it": "Il cucciolo più piccolo",
+          "label_fr": "Le plus jeune éléphanteau",
+          "label_es": "El ternero más pequeño",
+          "label_hr": "Najmlađe mladunče",
+          "label_cs": "Nejmladší slůně",
+          "label_pl": "Najmłodsze słoniątko",
+          "label_fi": "Nuorin vasa",
+          "label_sk": "Najmladšie sloniatko",
+          "label_da": "Den yngste kalv"
+        }
+      ]
+    }
+  ]
+}

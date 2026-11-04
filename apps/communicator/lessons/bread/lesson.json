@@ -1,0 +1,293 @@
+{
+  "id": "bread",
+  "category_id": "food",
+  "symbol_id": "bread",
+  "thumbnail": "bread_thumb.webp",
+  "title_en": "Bread",
+  "title_de": "Brot",
+  "title_it": "Il pane",
+  "title_fr": "Le pain",
+  "title_es": "El pan",
+  "title_hr": "Kruh",
+  "title_cs": "Chléb",
+  "title_pl": "Chleb",
+  "title_fi": "Leipä",
+  "title_sk": "Chlieb",
+  "title_da": "Brød",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Bread is one of the oldest and most loved foods in the world. People have been eating it for thousands of years, and it appears on tables in almost every culture. Whether warm and soft or crusty and golden, bread is part of meals nearly everywhere.",
+      "script_de": "Brot ist eines der ältesten und beliebtesten Lebensmittel der Welt. Die Menschen essen es seit Tausenden von Jahren, und es steht in fast jeder Kultur auf dem Tisch. Ob warm und weich oder knusprig und goldbraun – Brot gehört fast überall zu den Mahlzeiten.",
+      "script_it": "Il pane è uno dei cibi più antichi e amati del mondo. Le persone lo mangiano da migliaia di anni e arriva in tavola in quasi tutte le culture. Caldo e morbido o croccante e dorato, il pane fa parte dei pasti quasi ovunque.",
+      "script_fr": "Le pain est l’un des aliments les plus anciens et les plus aimés au monde. Les gens en mangent depuis des milliers d’années, et il se retrouve sur les tables de presque toutes les cultures. Chaud et moelleux ou croustillant et doré, le pain accompagne les repas presque partout.",
+      "script_es": "El pan es uno de los alimentos más antiguos y queridos del mundo. La gente lo come desde hace miles de años, y aparece en las mesas de casi todas las culturas. Caliente y blando o crujiente y dorado, el pan forma parte de las comidas en casi todas partes.",
+      "script_hr": "Kruh je jedna od najstarijih i najomiljenijih namirnica na svijetu. Ljudi ga jedu već tisućama godina i nalazi se na stolovima gotovo svake kulture. Bilo topao i mekan, bilo hrskav i zlatan, kruh je dio obroka gotovo posvuda.",
+      "script_cs": "Chléb je jedno z nejstarších a nejoblíbenějších jídel na světě. Lidé ho jedí už tisíce let a objevuje se na stolech téměř každé kultury. Ať už teplý a měkký, nebo křupavý a zlatavý, chléb je součástí jídel téměř všude.",
+      "script_pl": "Chleb jest jednym z najstarszych i najbardziej lubianych pokarmów na świecie. Ludzie jedzą go od tysięcy lat i pojawia się na stołach niemal każdej kultury. Ciepły i miękki albo chrupiący i złoty – chleb towarzyszy posiłkom prawie wszędzie.",
+      "script_fi": "Leipä on yksi maailman vanhimmista ja rakastetuimmista ruoista. Ihmiset ovat syöneet sitä tuhansien vuosien ajan, ja se kuuluu lähes jokaisen kulttuurin pöytään. Olipa se lämmin ja pehmeä tai rapea ja kullanruskea, leipä on osa aterioita lähes kaikkialla.",
+      "script_sk": "Chlieb je jedným z najstarších a najobľúbenejších jedál na svete. Ľudia ho jedia už tisíce rokov a objavuje sa na stoloch takmer každej kultúry. Či teplý a mäkký, alebo chrumkavý a zlatý, chlieb je súčasťou jedál takmer všade.",
+      "script_da": "Brød er en af de ældste og mest elskede madvarer i verden. Mennesker har spist det i tusinder af år, og det ligger på bordet i næsten alle kulturer. Varmt og blødt eller sprødt og gyldent – brød er en del af måltiderne næsten overalt.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "origin",
+      "script_en": "People first baked simple flatbreads more than ten thousand years ago. It happened soon after they learned to grow grain in the Middle East. Those early flatbreads were the beginning of every kind of bread we know today.",
+      "script_de": "Die Menschen backten vor mehr als zehntausend Jahren die ersten einfachen Fladenbrote. Das geschah kurz nachdem sie im Nahen Osten gelernt hatten, Getreide anzubauen. Diese frühen Fladenbrote waren der Anfang aller Brotsorten, die wir heute kennen.",
+      "script_it": "Le persone cuocevano i primi semplici pani piatti più di diecimila anni fa. Successe poco dopo che impararono a coltivare il grano in Medio Oriente. Quei pani piatti delle origini sono l’inizio di tutti i tipi di pane che conosciamo oggi.",
+      "script_fr": "Les gens ont cuit leurs premiers pains plats il y a plus de dix mille ans. Cela s’est passé peu après qu’ils ont appris à cultiver des céréales au Moyen-Orient. Ces galettes des origines sont à l’origine de toutes les sortes de pain que nous connaissons aujourd’hui.",
+      "script_es": "Las personas hornearon los primeros panes planos sencillos hace más de diez mil años. Ocurrió poco después de que aprendieran a cultivar cereales en Oriente Medio. Aquellos panes planos antiguos fueron el comienzo de todos los tipos de pan que conocemos hoy.",
+      "script_hr": "Ljudi su prvi put pekli jednostavne lepinje prije više od deset tisuća godina. To se dogodilo ubrzo nakon što su na Bliskom istoku naučili uzgajati žito. Te su rane lepinje bile početak svake vrste kruha koju danas poznajemo.",
+      "script_cs": "Lidé poprvé upekli jednoduché placky před více než deseti tisíci lety. Stalo se to krátce poté, co se na Blízkém východě naučili pěstovat obilí. Tyto rané placky byly počátkem všech druhů chleba, jaké dnes známe.",
+      "script_pl": "Ludzie po raz pierwszy upiekli proste placki ponad dziesięć tysięcy lat temu. Stało się to krótko po tym, jak na Bliskim Wschodzie nauczyli się uprawiać zboże. Te dawne placki były początkiem każdego rodzaju chleba, jaki znamy dzisiaj.",
+      "script_fi": "Ihmiset paistoivat ensimmäiset yksinkertaiset rieskat yli kymmenentuhatta vuotta sitten. Se tapahtui pian sen jälkeen, kun he Lähi-idässä oppivat viljelemään viljaa. Nuo varhaiset rieskat olivat alku kaikille nykyisille leipätyypeille.",
+      "script_sk": "Ľudia prvýkrát upiekli jednoduché placky pred viac ako desiatimi tisíckami rokov. Stalo sa to krátko po tom, ako sa na Blízkom východe naučili pestovať obilie. Tieto dávne placky boli začiatkom všetkých druhov chleba, ktoré dnes poznáme.",
+      "script_da": "Mennesker bagte de første enkle fladbrød for mere end ti tusind år siden. Det skete kort efter, at de havde lært at dyrke korn i Mellemøsten. Disse tidlige fladbrød var begyndelsen på alle de slags brød, vi kender i dag.",
+      "images": [
+        "origin.webp",
+        "origin_2.webp",
+        "origin_3.webp"
+      ]
+    },
+    {
+      "id": "ingredients",
+      "script_en": "Most breads are made from just four basic things: flour, water, salt, and yeast. The flour and water form the dough, while the salt gives it flavor. The yeast is what makes the dough rise and become soft and airy.",
+      "script_de": "Die meisten Brote bestehen nur aus vier Grundzutaten: Mehl, Wasser, Salz und Hefe. Mehl und Wasser bilden den Teig, das Salz gibt ihm Geschmack. Die Hefe lässt den Teig aufgehen und macht ihn weich und luftig.",
+      "script_it": "La maggior parte dei pani si fa con quattro ingredienti di base: farina, acqua, sale e lievito. La farina e l’acqua formano l’impasto, mentre il sale gli dà sapore. Il lievito è ciò che fa lievitare l’impasto e lo rende morbido e ariosо.",
+      "script_fr": "La plupart des pains sont faits avec seulement quatre ingrédients de base : la farine, l’eau, le sel et la levure. La farine et l’eau forment la pâte, et le sel lui donne du goût. C’est la levure qui fait lever la pâte et la rend douce et aérée.",
+      "script_es": "La mayoría de los panes se hacen con solo cuatro ingredientes básicos: harina, agua, sal y levadura. La harina y el agua forman la masa, y la sal le da sabor. La levadura es la que hace que la masa suba y quede blanda y esponjosa.",
+      "script_hr": "Većina kruhova radi se od samo četiri osnovne stvari: brašna, vode, soli i kvasca. Brašno i voda tvore tijesto, a sol mu daje okus. Kvasac je ono što tijesto diže i čini ga mekanim i prozračnim.",
+      "script_cs": "Většina chlebů se dělá ze čtyř základních věcí: mouky, vody, soli a kvasnic. Mouka a voda tvoří těsto a sůl mu dodává chuť. Právě kvasnice nechávají těsto vykynout a dělají ho měkké a nadýchané.",
+      "script_pl": "Większość chlebów powstaje z czterech podstawowych składników: mąki, wody, soli i drożdży. Mąka i woda tworzą ciasto, a sól nadaje mu smak. To drożdże sprawiają, że ciasto rośnie i staje się miękkie oraz puszyste.",
+      "script_fi": "Useimmat leivät tehdään vain neljästä peruaineksesta: jauhoista, vedestä, suolasta ja hiivasta. Jauhot ja vesi muodostavat taikinan, ja suola antaa sille makua. Hiiva on se, joka saa taikinan kohoamaan ja muuttumaan pehmeäksi ja ilmavaksi.",
+      "script_sk": "Väčšina chlebov sa robí len zo štyroch základných vecí: múky, vody, soli a kvasníc. Múka a voda tvoria cesto a soľ mu dodáva chuť. Práve kvasnice nechávajú cesto vykysnúť a robia ho mäkkým a nadýchaným.",
+      "script_da": "De fleste brød er lavet af bare fire grundlæggende ting: mel, vand, salt og gær. Mel og vand danner dejen, og saltet giver smag. Det er gæren, der får dejen til at hæve og blive blød og luftig.",
+      "images": [
+        "ingredients.webp",
+        "ingredients_2.webp",
+        "ingredients_3.webp"
+      ]
+    },
+    {
+      "id": "varieties",
+      "script_en": "There are countless kinds of bread in the world. Soft loaves, crusty baguettes, round pita, dark rye, and sweet brioche all sit on bakery shelves. Each one is tied to a different country and tradition, telling its own story.",
+      "script_de": "Es gibt unzählige Brotsorten auf der Welt. Weiche Laibe, knusprige Baguettes, runde Pita, dunkles Roggenbrot und süße Brioche liegen in den Bäckereiregalen. Jedes ist mit einem anderen Land und einer anderen Tradition verbunden und erzählt seine eigene Geschichte.",
+      "script_it": "Esistono innumerevoli tipi di pane nel mondo. Pagnotte morbide, baguette croccanti, pita rotonde, pane di segale scuro e brioche dolci si trovano sugli scaffali delle panetterie. Ognuno è legato a un Paese e a una tradizione diversa e racconta la propria storia.",
+      "script_fr": "Il existe d’innombrables sortes de pain dans le monde. Pains moelleux, baguettes croustillantes, pitas rondes, pain de seigle foncé et brioches sucrées remplissent les rayons des boulangeries. Chacun est lié à un pays et à une tradition différents, et raconte sa propre histoire.",
+      "script_es": "Existen incontables tipos de pan en el mundo. Hogazas blandas, baguettes crujientes, pitas redondas, pan de centeno oscuro y brioche dulces llenan los estantes de las panaderías. Cada uno está ligado a un país y a una tradición diferentes, y cuenta su propia historia.",
+      "script_hr": "Na svijetu postoji bezbroj vrsta kruha. Meke štruce, hrskave baguette, okrugla pita, tamna raženi kruh i slatka brioš stoje na policama pekarnica. Svaki je vezan uz drugu zemlju i tradiciju i priča svoju vlastitu priču.",
+      "script_cs": "Na světě existuje nespočet druhů chleba. Měkké bochníky, křupavé bagety, kulatá pita, tmavý žitný chléb a sladká briošky najdete na pultech pekáren. Každý z nich patří k jiné zemi a tradici a vypráví svůj vlastní příběh.",
+      "script_pl": "Na świecie istnieje niezliczona ilość rodzajów chleba. Miękkie bochenki, chrupiące bagietki, okrągła pita, ciemny chleb żytni i słodka brioszka leżą na półkach piekarni. Każdy z nich jest związany z innym krajem i tradycją i opowiada swoją własną historię.",
+      "script_fi": "Maailmassa on lukemattomia leipiä. Pehmeät limput, rapeat patongit, pyöreät pitaleivät, tumma ruisleipä ja makea brioche löytyvät leipomoiden hyllyiltä. Jokainen liittyy eri maahan ja perinteeseen ja kertoo oman tarinansa.",
+      "script_sk": "Na svete existuje nespočet druhov chleba. Mäkké bochníky, chrumkavé bagety, okrúhla pita, tmavý ražný chlieb a sladké briošky nájdete na pultoch pekární. Každý z nich patrí k inej krajine a tradícii a rozpráva svoj vlastný príbeh.",
+      "script_da": "Der findes utallige slags brød i verden. Bløde brød, sprøde baguetter, runde pita, mørkt rugbrød og søde brioche fylder bagerens hylder. Hver slags er knyttet til et andet land og en anden tradition og fortæller sin egen historie.",
+      "images": [
+        "varieties.webp",
+        "varieties_2.webp",
+        "varieties_3.webp"
+      ]
+    },
+    {
+      "id": "kitchen",
+      "script_en": "Bread is shaped by hand and then left to rise in a warm place. After that it goes into a hot oven, where it bakes until the crust turns golden brown. By the time it is ready, the whole kitchen smells wonderful.",
+      "script_de": "Brot wird mit den Händen geformt und dann an einem warmen Ort gehen gelassen. Danach kommt es in den heißen Ofen, wo es bäckt, bis die Kruste goldbraun wird. Wenn es fertig ist, duftet die ganze Küche herrlich.",
+      "script_it": "Il pane viene modellato a mano e poi lasciato lievitare in un luogo caldo. Dopo va in un forno ben caldo, dove cuoce finché la crosta diventa dorata. Quando è pronto, tutta la cucina profuma in modo meraviglioso.",
+      "script_fr": "Le pain est façonné à la main, puis laissé à lever dans un endroit chaud. Il passe ensuite dans un four bien chaud, où il cuit jusqu’à ce que la croûte devienne dorée. Quand il est prêt, toute la cuisine sent merveilleusement bon.",
+      "script_es": "El pan se forma a mano y luego se deja reposar en un lugar cálido para que suba. Después se mete en un horno bien caliente, donde se hornea hasta que la corteza queda dorada. Cuando está listo, toda la cocina huele de maravilla.",
+      "script_hr": "Kruh se oblikuje rukama, a zatim ostavlja da se diže na toplome mjestu. Nakon toga ide u vruću pećnicu, gdje se peče dok kora ne postane zlatno-smeđa. Kad je gotov, cijela kuhinja prekrasno miriše.",
+      "script_cs": "Chléb se tvaruje rukama a pak se nechá vykynout na teplém místě. Potom putuje do horké trouby, kde se peče, dokud kůrka nezezlátne dohněda. Než je hotový, voní celá kuchyně nádherně.",
+      "script_pl": "Chleb formuje się rękami, a potem zostawia w ciepłym miejscu, by wyrósł. Następnie trafia do gorącego pieca, gdzie piecze się, aż skórka stanie się złocistobrązowa. Kiedy jest gotowy, w całej kuchni roznosi się cudowny zapach.",
+      "script_fi": "Leipä muotoillaan käsin ja jätetään sitten kohoamaan lämpimään paikkaan. Sen jälkeen se siirretään kuumaan uuniin, jossa se paistuu, kunnes kuori on kullanruskea. Kun se on valmis, koko keittiössä tuoksuu ihanalta.",
+      "script_sk": "Chlieb sa tvaruje rukami a potom sa nechá vykysnúť na teplom mieste. Potom putuje do horúcej rúry, kde sa pečie, kým kôrka nezíska zlatohnedú farbu. Keď je hotový, celá kuchyňa nádherne vonia.",
+      "script_da": "Brødet formes med hænderne og får derefter lov til at hæve på et lunt sted. Bagefter ryger det i en varm ovn, hvor det bager, indtil skorpen bliver gyldenbrun. Når det er færdigt, dufter hele køkkenet skønt.",
+      "images": [
+        "kitchen.webp",
+        "kitchen_2.webp",
+        "kitchen_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "age",
+      "question_en": "About how long have people been baking bread?",
+      "question_de": "Wie lange backen die Menschen ungefähr schon Brot?",
+      "question_it": "Da quanto tempo, all’incirca, le persone fanno il pane?",
+      "question_fr": "Depuis environ combien de temps les humains font-ils du pain ?",
+      "question_es": "¿Desde hace aproximadamente cuánto tiempo hace la gente pan?",
+      "question_hr": "Otprilike koliko dugo ljudi peku kruh?",
+      "question_cs": "Jak dlouho už lidé přibližně pečou chléb?",
+      "question_pl": "Od mniej więcej jak dawna ludzie pieką chleb?",
+      "question_fi": "Kuinka kauan ihmiset ovat suunnilleen leiponeet leipää?",
+      "question_sk": "Asi ako dlho už ľudia pečú chlieb?",
+      "question_da": "Hvor længe har mennesker omtrent bagt brød?",
+      "correct": "ten_thousand",
+      "options": [
+        {
+          "id": "ten_thousand",
+          "label_en": "More than 10,000 years",
+          "label_de": "Mehr als 10.000 Jahre",
+          "label_it": "Più di 10.000 anni",
+          "label_fr": "Plus de 10 000 ans",
+          "label_es": "Más de 10.000 años",
+          "label_hr": "Više od 10.000 godina",
+          "label_cs": "Více než 10 000 let",
+          "label_pl": "Ponad 10 000 lat",
+          "label_fi": "Yli 10 000 vuotta",
+          "label_sk": "Viac ako 10 000 rokov",
+          "label_da": "Mere end 10.000 år"
+        },
+        {
+          "id": "one_hundred",
+          "label_en": "About 100 years",
+          "label_de": "Etwa 100 Jahre",
+          "label_it": "Circa 100 anni",
+          "label_fr": "Environ 100 ans",
+          "label_es": "Unos 100 años",
+          "label_hr": "Oko 100 godina",
+          "label_cs": "Asi 100 let",
+          "label_pl": "Około 100 lat",
+          "label_fi": "Noin 100 vuotta",
+          "label_sk": "Približne 100 rokov",
+          "label_da": "Omkring 100 år"
+        },
+        {
+          "id": "one_million",
+          "label_en": "About 1,000,000 years",
+          "label_de": "Etwa 1.000.000 Jahre",
+          "label_it": "Circa 1.000.000 di anni",
+          "label_fr": "Environ 1 000 000 d’années",
+          "label_es": "Unos 1.000.000 de años",
+          "label_hr": "Oko 1.000.000 godina",
+          "label_cs": "Asi 1 000 000 let",
+          "label_pl": "Około 1 000 000 lat",
+          "label_fi": "Noin 1 000 000 vuotta",
+          "label_sk": "Približne 1 000 000 rokov",
+          "label_da": "Omkring 1.000.000 år"
+        }
+      ]
+    },
+    {
+      "id": "rise",
+      "question_en": "What ingredient makes bread dough rise?",
+      "question_de": "Welche Zutat lässt den Brotteig aufgehen?",
+      "question_it": "Quale ingrediente fa lievitare l’impasto del pane?",
+      "question_fr": "Quel ingrédient fait lever la pâte à pain ?",
+      "question_es": "¿Qué ingrediente hace que la masa del pan suba?",
+      "question_hr": "Koji sastojak diže tijesto za kruh?",
+      "question_cs": "Která složka nechá těsto na chleba vykynout?",
+      "question_pl": "Który składnik sprawia, że ciasto chlebowe wyrasta?",
+      "question_fi": "Mikä raaka-aine saa leipätaikinan kohoamaan?",
+      "question_sk": "Ktorá zložka spôsobuje, že chlebové cesto kysne?",
+      "question_da": "Hvilken ingrediens får brøddejen til at hæve?",
+      "correct": "yeast",
+      "options": [
+        {
+          "id": "yeast",
+          "label_en": "Yeast",
+          "label_de": "Hefe",
+          "label_it": "Lievito",
+          "label_fr": "Levure",
+          "label_es": "Levadura",
+          "label_hr": "Kvasac",
+          "label_cs": "Kvasnice",
+          "label_pl": "Drożdże",
+          "label_fi": "Hiiva",
+          "label_sk": "Kvasnice",
+          "label_da": "Gær"
+        },
+        {
+          "id": "sugar",
+          "label_en": "Sugar",
+          "label_de": "Zucker",
+          "label_it": "Zucchero",
+          "label_fr": "Sucre",
+          "label_es": "Azúcar",
+          "label_hr": "Šećer",
+          "label_cs": "Cukr",
+          "label_pl": "Cukier",
+          "label_fi": "Sokeri",
+          "label_sk": "Cukor",
+          "label_da": "Sukker"
+        },
+        {
+          "id": "oil",
+          "label_en": "Oil",
+          "label_de": "Öl",
+          "label_it": "Olio",
+          "label_fr": "Huile",
+          "label_es": "Aceite",
+          "label_hr": "Ulje",
+          "label_cs": "Olej",
+          "label_pl": "Olej",
+          "label_fi": "Öljy",
+          "label_sk": "Olej",
+          "label_da": "Olie"
+        }
+      ]
+    },
+    {
+      "id": "crust",
+      "question_en": "What color is the crust of a well-baked loaf?",
+      "question_de": "Welche Farbe hat die Kruste eines gut gebackenen Brotes?",
+      "question_it": "Di che colore è la crosta di una pagnotta ben cotta?",
+      "question_fr": "De quelle couleur est la croûte d’un pain bien cuit ?",
+      "question_es": "¿De qué color es la corteza de un pan bien horneado?",
+      "question_hr": "Koje je boje kora dobro pečenog kruha?",
+      "question_cs": "Jakou barvu má kůrka dobře upečeného bochníku?",
+      "question_pl": "Jakiego koloru jest skórka dobrze upieczonego bochenka?",
+      "question_fi": "Minkä värinen on hyvin paistuneen leivän kuori?",
+      "question_sk": "Akú farbu má kôrka dobre upečeného bochníka?",
+      "question_da": "Hvilken farve har skorpen på et godt bagt brød?",
+      "correct": "golden_brown",
+      "options": [
+        {
+          "id": "golden_brown",
+          "label_en": "Golden brown",
+          "label_de": "Goldbraun",
+          "label_it": "Dorata",
+          "label_fr": "Dorée",
+          "label_es": "Dorada",
+          "label_hr": "Zlatno-smeđa",
+          "label_cs": "Zlatohnědá",
+          "label_pl": "Złocistobrązowa",
+          "label_fi": "Kullanruskea",
+          "label_sk": "Zlatohnedá",
+          "label_da": "Gyldenbrun"
+        },
+        {
+          "id": "bright_green",
+          "label_en": "Bright green",
+          "label_de": "Leuchtend grün",
+          "label_it": "Verde brillante",
+          "label_fr": "Vert vif",
+          "label_es": "Verde brillante",
+          "label_hr": "Jarko zelena",
+          "label_cs": "Jasně zelená",
+          "label_pl": "Jaskrawo zielona",
+          "label_fi": "Kirkkaan vihreä",
+          "label_sk": "Jasno zelená",
+          "label_da": "Knaldgrøn"
+        },
+        {
+          "id": "pure_white",
+          "label_en": "Pure white",
+          "label_de": "Reinweiß",
+          "label_it": "Bianco puro",
+          "label_fr": "Blanc pur",
+          "label_es": "Blanco puro",
+          "label_hr": "Čisto bijela",
+          "label_cs": "Čistě bílá",
+          "label_pl": "Czysto biała",
+          "label_fi": "Puhtaan valkoinen",
+          "label_sk": "Čisto biela",
+          "label_da": "Helt hvid"
+        }
+      ]
+    }
+  ]
+}
