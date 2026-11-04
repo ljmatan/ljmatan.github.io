@@ -211,6 +211,27 @@
       "title_da": "Pingviner"
     },
     {
+      "id": "rabbit",
+      "category_id": "animals",
+      "symbol_id": "rabbit",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/rabbit/rabbit_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/rabbit/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 3019357,
+      "version": 1,
+      "title_en": "Rabbits",
+      "title_de": "Kaninchen",
+      "title_it": "Conigli",
+      "title_fr": "Lapins",
+      "title_es": "Conejos",
+      "title_hr": "zečevi",
+      "title_cs": "Králíci",
+      "title_pl": "Króliki",
+      "title_fi": "Kanit",
+      "title_sk": "Králiky",
+      "title_da": "Kaniner"
+    },
+    {
       "id": "apple",
       "category_id": "food",
       "symbol_id": "apple",

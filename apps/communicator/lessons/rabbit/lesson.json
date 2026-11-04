@@ -1,0 +1,293 @@
+{
+  "id": "rabbit",
+  "category_id": "animals",
+  "symbol_id": "rabbit",
+  "thumbnail": "rabbit_thumb.webp",
+  "title_en": "Rabbits",
+  "title_de": "Kaninchen",
+  "title_it": "Conigli",
+  "title_fr": "Lapins",
+  "title_es": "Conejos",
+  "title_hr": "zečevi",
+  "title_cs": "Králíci",
+  "title_pl": "Króliki",
+  "title_fi": "Kanit",
+  "title_sk": "Králiky",
+  "title_da": "Kaniner",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about rabbits. Rabbits are small, gentle animals with long ears, soft fur, and strong back legs that help them hop. They live in many parts of the world and are known for being quick, quiet, and very alert.",
+      "script_de": "Heute lernen wir etwas über Kaninchen. Kaninchen sind kleine, sanfte Tiere mit langen Ohren, weichem Fell und starken Hinterbeinen, die ihnen beim Hüpfen helfen. Sie leben in vielen Teilen der Welt und sind dafür bekannt, schnell, ruhig und sehr wachsam zu sein.",
+      "script_it": "Oggi impareremo a conoscere i conigli. I conigli sono animali piccoli e gentili con orecchie lunghe, pelliccia morbida e zampe posteriori forti che li aiutano a saltare. Vivono in molte parti del mondo e sono noti per essere veloci, silenziosi e molto vigili.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur les lapins. Les lapins sont de petits animaux doux avec de longues oreilles, une fourrure douce et des pattes arrière solides qui les aident à sauter. Ils vivent dans de nombreuses régions du monde et sont connus pour être rapides, silencieux et très alertes.",
+      "script_es": "Hoy vamos a aprender sobre los conejos. Los conejos son animales pequeños y amables con orejas largas, pelaje suave y patas traseras fuertes que les ayudan a saltar. Viven en muchas partes del mundo y son conocidos por ser rápidos, silenciosos y muy alertas.",
+      "script_hr": "Danas ćemo učiti o zečevima. Kunići su male, nježne životinje s dugim ušima, mekim krznom i snažnim stražnjim nogama koje im pomažu u skakutanju. Žive u mnogim dijelovima svijeta i poznati su po tome što su brzi, tihi i vrlo oprezni.",
+      "script_cs": "Dnes se budeme učit o králících. Králíci jsou malá, mírná zvířata s dlouhýma ušima, měkkou srstí a silnými zadními nohami, které jim pomáhají poskakovat. Žijí v mnoha částech světa a jsou známí tím, že jsou rychlí, tiší a velmi ostražití.",
+      "script_pl": "Dzisiaj będziemy uczyć się o królikach. Króliki to małe, łagodne zwierzęta z długimi uszami, miękkim futrem i mocnymi tylnymi nogami, które pomagają im skakać. Żyją w wielu częściach świata i są znane z tego, że są szybkie, ciche i bardzo czujne.",
+      "script_fi": "Tänään opimme kaneista. Kanit ovat pieniä, lempeitä eläimiä, joilla on pitkät korvat, pehmeä turkki ja vahvat takajalat, jotka auttavat niitä hyppäämään. He asuvat monissa osissa maailmaa ja tunnetaan nopeista, hiljaisista ja erittäin valppaista.",
+      "script_sk": "Dnes sa budeme učiť o králikoch. Králiky sú malé, jemné zvieratá s dlhými ušami, mäkkou srsťou a silnými zadnými nohami, ktoré im pomáhajú skákať. Žijú v mnohých častiach sveta a sú známe tým, že sú rýchle, tiché a veľmi ostražité.",
+      "script_da": "I dag skal vi lære om kaniner. Kaniner er små, blide dyr med lange ører, blød pels og stærke bagben, der hjælper dem med at hoppe. De bor i mange dele af verden og er kendt for at være hurtige, stille og meget opmærksomme.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "habitat",
+      "script_en": "Rabbits live in meadows, fields, and the edges of forests. They dig tunnels underground called burrows, and a group of burrows is called a warren. A rabbit keeps its ears up and listens carefully, so it can hurry back into its burrow when danger is near.",
+      "script_de": "Kaninchen leben auf Wiesen, Feldern und an Waldrändern. Sie graben unterirdische Tunnel, sogenannte Höhlen, und eine Gruppe von Höhlen wird Gehege genannt. Ein Kaninchen hält die Ohren hoch und hört aufmerksam zu, damit es schnell in seinen Bau zurückkehren kann, wenn Gefahr droht.",
+      "script_it": "I conigli vivono nei prati, nei campi e ai margini delle foreste. Scavano tunnel sotterranei chiamati tane e un gruppo di tane è chiamato labirinto. Un coniglio tiene le orecchie alte e ascolta attentamente, così da poter tornare di corsa nella sua tana quando il pericolo è vicino.",
+      "script_fr": "Les lapins vivent dans les prairies, les champs et à la lisière des forêts. Ils creusent des tunnels souterrains appelés terriers, et un groupe de terriers est appelé garenne. Un lapin garde les oreilles dressées et écoute attentivement, afin de pouvoir retourner rapidement dans son terrier lorsque le danger est proche.",
+      "script_es": "Los conejos viven en prados, campos y bordes de bosques. Cavan túneles bajo tierra llamados madrigueras, y un grupo de madrigueras se llama madriguera. Un conejo mantiene las orejas levantadas y escucha con atención, para poder regresar rápidamente a su madriguera cuando el peligro se acerca.",
+      "script_hr": "Kunići žive na livadama, poljima i rubovima šuma. Kopaju podzemne tunele koji se nazivaju jazbinama, a skupina jazbina naziva se labirint. Zec drži uši podignute i pažljivo sluša kako bi mogao požuriti natrag u svoju jazbinu kad mu prijeti opasnost.",
+      "script_cs": "Králíci žijí na loukách, polích a okrajích lesů. Kopou v podzemí tunely zvané nory a skupina nor se nazývá nora. Králík drží uši a pozorně naslouchá, takže když se blíží nebezpečí, může spěchat zpět do své nory.",
+      "script_pl": "Króliki żyją na łąkach, polach i obrzeżach lasów. Kopią podziemne tunele zwane norami, a grupa nor nazywa się norą. Królik trzyma uszy wysoko i słucha uważnie, aby móc szybko wrócić do nory, gdy zbliża się niebezpieczeństwo.",
+      "script_fi": "Kanit elävät niityillä, pelloilla ja metsien reunoilla. He kaivavat tunneleita maan alle, joita kutsutaan kaivoiksi, ja kuoppiryhmää kutsutaan warreniksi. Kani pitää korvansa ylhäällä ja kuuntelee tarkkaavaisesti, jotta se voi kiirehtiä takaisin kaivoonsa, kun vaara on lähellä.",
+      "script_sk": "Králiky žijú na lúkach, poliach a okrajoch lesov. Pod zemou kopú tunely, ktoré sa nazývajú nory, a skupina nôr sa nazýva nora. Králik drží uši a pozorne počúva, takže keď sa blíži nebezpečenstvo, môže sa ponáhľať späť do svojej nory.",
+      "script_da": "Kaniner lever på enge, marker og i udkanten af ​​skove. De graver tunneler under jorden kaldet huler, og en gruppe huler kaldes en warren. En kanin holder ørerne oppe og lytter godt efter, så den kan skynde sig tilbage i sin hule, når faren er nær.",
+      "images": [
+        "habitat.webp",
+        "habitat_2.webp",
+        "habitat_3.webp"
+      ]
+    },
+    {
+      "id": "body",
+      "script_en": "A rabbit's long ears do two important jobs: they catch sounds from far away, and they help the rabbit stay cool. Its powerful back legs push it forward in big hops, while its eyes on the sides of its head let it see almost all the way around. Soft whiskers help it feel its way through narrow spaces.",
+      "script_de": "Die langen Ohren eines Kaninchens erfüllen zwei wichtige Aufgaben: Sie fangen Geräusche aus der Ferne auf und helfen dem Kaninchen, einen kühlen Kopf zu bewahren. Seine kräftigen Hinterbeine treiben ihn in großen Sprüngen vorwärts, während seine Augen an den Seiten seines Kopfes ihm ermöglichen, fast die ganze Umgebung zu sehen. Weiche Schnurrhaare helfen ihm, sich durch enge Räume zurechtzufinden.",
+      "script_it": "Le lunghe orecchie di un coniglio svolgono due compiti importanti: captano i suoni provenienti da lontano e aiutano il coniglio a rimanere calmo. Le sue potenti zampe posteriori lo spingono in avanti con grandi salti, mentre i suoi occhi ai lati della testa gli permettono di vedere quasi tutto intorno. I baffi morbidi lo aiutano a farsi strada attraverso gli spazi ristretti.",
+      "script_fr": "Les longues oreilles d'un lapin remplissent deux fonctions importantes : elles captent les sons lointains et aident le lapin à rester au frais. Ses puissantes pattes arrière le poussent vers l'avant à grands sauts, tandis que ses yeux sur les côtés de sa tête lui permettent de voir presque tout autour. Des moustaches douces l’aident à se frayer un chemin dans les espaces étroits.",
+      "script_es": "Las largas orejas de un conejo realizan dos funciones importantes: captan sonidos lejanos y ayudan al conejo a mantenerse fresco. Sus poderosas patas traseras lo empujan hacia adelante con grandes saltos, mientras que sus ojos a los lados de su cabeza le permiten ver casi todo el contorno. Los bigotes suaves le ayudan a sentir su camino a través de espacios estrechos.",
+      "script_hr": "Duge uši zeca obavljaju dva važna posla: hvataju zvukove izdaleka i pomažu zecu da se ohladi. Njegove snažne stražnje noge guraju ga naprijed u velikim skokovima, dok mu oči na stranama glave omogućuju da vidi gotovo sve oko sebe. Meki brkovi pomažu mu da se probije kroz uske prostore.",
+      "script_cs": "Králičí dlouhé uši plní dvě důležité funkce: zachycují zvuky z velké dálky a pomáhají králíkovi zůstat v pohodě. Jeho silné zadní nohy ho tlačí dopředu ve velkých poskocích, zatímco jeho oči po stranách hlavy mu umožňují vidět téměř všude kolem. Měkké vousy mu pomáhají cítit se v úzkých prostorech.",
+      "script_pl": "Długie uszy królika spełniają dwie ważne funkcje: wychwytują dźwięki z daleka i pomagają królikowi zachować spokój. Potężne tylne nogi popychają go do przodu w dużych podskokach, a oczy po bokach głowy pozwalają mu widzieć niemal dookoła. Miękkie wąsy pomagają mu przedostać się przez wąskie przestrzenie.",
+      "script_fi": "Kanin pitkät korvat tekevät kaksi tärkeää tehtävää: ne sieppaavat äänet kaukaa ja auttavat kanin pysymään viileänä. Sen voimakkaat takajalat työntävät sitä eteenpäin suurilla hyppyillä, kun taas sen pään sivuilla olevat silmät antavat sen nähdä melkein koko matkan. Pehmeät viikset auttavat sitä tuntemaan tiensä ahtaissa tiloissa.",
+      "script_sk": "Dlhé uši králika vykonávajú dve dôležité úlohy: zachytávajú zvuky z diaľky a pomáhajú králikovi zostať v pohode. Jeho mohutné zadné nohy ho tlačia dopredu veľkými skokmi, zatiaľ čo oči po stranách hlavy mu umožňujú vidieť takmer dookola. Mäkké fúzy mu pomáhajú cítiť sa v úzkych priestoroch.",
+      "script_da": "En kanins lange ører udfører to vigtige opgaver: De fanger lyde langvejs fra, og de hjælper kaninen med at holde sig kølig. Dens kraftige bagben skubber den frem i store hop, mens dens øjne på siderne af hovedet lader den se næsten hele vejen rundt. Bløde knurhår hjælper den med at føle sig vej gennem snævre rum.",
+      "images": [
+        "body.webp",
+        "body_2.webp",
+        "body_3.webp"
+      ]
+    },
+    {
+      "id": "family",
+      "script_en": "Baby rabbits are called kittens or kits. They are born blind and without fur, so they stay in a warm nest lined with grass and their mother's fur. Their mother visits to feed them, and after a few weeks the young rabbits begin to explore and nibble on grass.",
+      "script_de": "Babykaninchen werden Kätzchen oder Kits genannt. Sie werden blind und ohne Fell geboren und bleiben daher in einem warmen Nest, das mit Gras und dem Fell ihrer Mutter ausgekleidet ist. Ihre Mutter kommt zu Besuch, um sie zu füttern, und nach ein paar Wochen beginnen die jungen Kaninchen, Gras zu erkunden und daran zu knabbern.",
+      "script_it": "I coniglietti sono chiamati gattini o kit. Nascono ciechi e senza pelo, quindi rimangono in un nido caldo rivestito con erba e pelo della madre. La madre viene a dar loro da mangiare e dopo alcune settimane i giovani conigli iniziano a esplorare e sgranocchiare l'erba.",
+      "script_fr": "Les bébés lapins sont appelés chatons ou kits. Ils naissent aveugles et sans fourrure, ils restent donc dans un nid chaud bordé d'herbe et de fourrure de leur mère. Leur mère leur rend visite pour les nourrir et après quelques semaines, les jeunes lapins commencent à explorer et à grignoter l'herbe.",
+      "script_es": "Los conejos bebés se llaman gatitos o kits. Nacen ciegos y sin pelaje, por lo que permanecen en un nido cálido forrado con pasto y el pelaje de su madre. Su madre los visita para alimentarlos y, después de unas semanas, los conejos jóvenes comienzan a explorar y mordisquear la hierba.",
+      "script_hr": "Baby rabbits are called kittens or kits. Rađaju se slijepi i bez krzna, pa borave u toplom gnijezdu obloženom travom i majčinim krznom. Majka ih posjećuje kako bi ih nahranila, a nakon nekoliko tjedana mladi kunići počinju istraživati ​​i grickati travu.",
+      "script_cs": "Mláďata králíků se nazývají koťata nebo stavebnice. Rodí se slepá a bez srsti, takže se zdržují v teplém hnízdě vystlaném trávou a srstí své matky. Jejich matka je navštěvuje, aby je nakrmila, a po několika týdnech začnou mladí králíci zkoumat a okusovat trávu.",
+      "script_pl": "Małe króliki nazywane są kociętami lub zestawami. Rodzą się ślepe i bez futra, dlatego przebywają w ciepłym gnieździe wyłożonym trawą i futrem matki. Matka odwiedza je, aby je nakarmić, a po kilku tygodniach młode króliki zaczynają eksplorować i skubać trawę.",
+      "script_fi": "Kanipentuja kutsutaan kissanpennuiksi tai sarjoiksi. Ne syntyvät sokeina ja ilman turkkia, joten ne pysyvät lämpimässä pesässä, joka on vuorattu ruoholla ja äitinsä turkilla. Heidän äitinsä käy ruokkimassa heitä, ja muutaman viikon kuluttua nuoret kanit alkavat tutkia ja napostella ruohoa.",
+      "script_sk": "Mláďatá králikov sa nazývajú mačiatka alebo súpravy. Narodia sa slepé a bez srsti, preto sa zdržiavajú v teplom hniezde vystlanom trávou a srsťou matky. Ich matka ich navštívi, aby ich nakŕmila, a po niekoľkých týždňoch mladé králiky začnú objavovať a okusovať trávu.",
+      "script_da": "Babykaniner kaldes killinger eller kits. De er født blinde og uden pels, så de opholder sig i en varm rede foret med græs og deres mors pels. Deres mor kommer på besøg for at fodre dem, og efter et par uger begynder de unge kaniner at gå på opdagelse og nappe græs.",
+      "images": [
+        "family.webp",
+        "family_2.webp",
+        "family_3.webp"
+      ]
+    },
+    {
+      "id": "life_today",
+      "script_en": "Today rabbits live both in the wild and as pets in people's homes. Wild rabbits are most active in the early morning and evening, while pet rabbits love to explore, dig, and play. People have told stories about rabbits for centuries, and these gentle animals remain a favourite around the world.",
+      "script_de": "Heutzutage leben Kaninchen sowohl in freier Wildbahn als auch als Haustiere in den Häusern der Menschen. Wildkaninchen sind am frühen Morgen und am Abend am aktivsten, während Hauskaninchen gerne erkunden, graben und spielen. Seit Jahrhunderten erzählen Menschen Geschichten über Kaninchen, und diese sanften Tiere sind auf der ganzen Welt nach wie vor beliebt.",
+      "script_it": "Oggi i conigli vivono sia allo stato brado che come animali domestici nelle case. I conigli selvatici sono più attivi al mattino presto e alla sera, mentre i conigli domestici adorano esplorare, scavare e giocare. Le persone raccontano storie sui conigli da secoli e questi animali gentili rimangono i preferiti in tutto il mondo.",
+      "script_fr": "Aujourd’hui, les lapins vivent à la fois dans la nature et comme animaux de compagnie dans les maisons. Les lapins sauvages sont plus actifs tôt le matin et le soir, tandis que les lapins de compagnie adorent explorer, creuser et jouer. Les gens racontent des histoires sur les lapins depuis des siècles, et ces doux animaux restent un favori dans le monde entier.",
+      "script_es": "Hoy en día los conejos viven tanto en la naturaleza como como mascotas en los hogares de las personas. Los conejos salvajes son más activos temprano en la mañana y en la noche, mientras que a los conejos domésticos les encanta explorar, cavar y jugar. La gente ha contado historias sobre conejos durante siglos y estos gentiles animales siguen siendo los favoritos en todo el mundo.",
+      "script_hr": "Danas kunići žive i u divljini i kao kućni ljubimci u domovima ljudi. Divlji kunići najaktivniji su rano ujutro i navečer, dok kućni ljubimci vole istraživati, kopati i igrati se. Ljudi stoljećima pričaju priče o zečevima, a ove su nježne životinje i dalje omiljene diljem svijeta.",
+      "script_cs": "Dnes králíci žijí jak ve volné přírodě, tak jako domácí mazlíčci v lidských domovech. Divocí králíci jsou nejaktivnější brzy ráno a večer, zatímco králíci milují objevování, kopání a hraní. Lidé vyprávěli příběhy o králících po staletí a tato něžná zvířata zůstávají oblíbená po celém světě.",
+      "script_pl": "Obecnie króliki żyją zarówno na wolności, jak i jako zwierzęta domowe w domach. Dzikie króliki są najbardziej aktywne wczesnym rankiem i wieczorem, podczas gdy króliki domowe uwielbiają odkrywać, kopać i bawić się. Ludzie od wieków opowiadają historie o królikach, a te łagodne zwierzęta pozostają ulubieńcami na całym świecie.",
+      "script_fi": "Nykyään kanit elävät sekä luonnossa että lemmikkeinä ihmisten kodeissa. Villikanit ovat aktiivisimpia aikaisin aamulla ja illalla, kun taas lemmikkikanit rakastavat tutkia, kaivaa ja leikkiä. Ihmiset ovat kertoneet tarinoita kaneista vuosisatojen ajan, ja nämä lempeät eläimet ovat edelleen suosittuja kaikkialla maailmassa.",
+      "script_sk": "Dnes králiky žijú vo voľnej prírode aj ako domáce zvieratá v ľudských domovoch. Divoké králiky sú najaktívnejšie skoro ráno a večer, zatiaľ čo králiky milujú objavovanie, kopanie a hry. Ľudia rozprávali príbehy o králikoch po stáročia a tieto jemné zvieratá zostávajú obľúbené po celom svete.",
+      "script_da": "I dag lever kaniner både i naturen og som kæledyr i folks hjem. Vilde kaniner er mest aktive tidligt om morgenen og aftenen, mens kælekaniner elsker at udforske, grave og lege. Folk har fortalt historier om kaniner i århundreder, og disse blide dyr er stadig en favorit rundt om i verden.",
+      "images": [
+        "life_today.webp",
+        "life_today_2.webp",
+        "life_today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "home",
+      "correct": "burrow",
+      "question_en": "What is a rabbit's underground home called?",
+      "question_de": "Wie heißt das unterirdische Zuhause eines Kaninchens?",
+      "question_it": "Come si chiama la casa sotterranea del coniglio?",
+      "question_fr": "Comment s'appelle la maison souterraine d'un lapin ?",
+      "question_es": "¿Cómo se llama la casa subterránea de un conejo?",
+      "question_hr": "Kako se zove podzemni dom zeca?",
+      "question_cs": "Jak se nazývá králičí podzemní domov?",
+      "question_pl": "Jak nazywa się podziemny domek dla królika?",
+      "question_fi": "Mikä on kanin maanalaisen kodin nimi?",
+      "question_sk": "Ako sa nazýva podzemný dom králika?",
+      "question_da": "Hvad hedder en kanins underjordiske hjem?",
+      "options": [
+        {
+          "id": "burrow",
+          "label_en": "A burrow",
+          "label_de": "Ein Bau",
+          "label_it": "Una tana",
+          "label_fr": "Un terrier",
+          "label_es": "una madriguera",
+          "label_hr": "jazbina",
+          "label_cs": "Nora",
+          "label_pl": "Nora",
+          "label_fi": "Kaivo",
+          "label_sk": "Nora",
+          "label_da": "En hule"
+        },
+        {
+          "id": "nest",
+          "label_en": "A nest in a tree",
+          "label_de": "Ein Nest in einem Baum",
+          "label_it": "Un nido su un albero",
+          "label_fr": "Un nid dans un arbre",
+          "label_es": "Un nido en un árbol",
+          "label_hr": "Gnijezdo na drvetu",
+          "label_cs": "Hnízdo na stromě",
+          "label_pl": "Gniazdo na drzewie",
+          "label_fi": "Pesä puussa",
+          "label_sk": "Hniezdo na strome",
+          "label_da": "En rede i et træ"
+        },
+        {
+          "id": "web",
+          "label_en": "A web",
+          "label_de": "Ein Netz",
+          "label_it": "Una rete",
+          "label_fr": "Une toile",
+          "label_es": "una red",
+          "label_hr": "Web",
+          "label_cs": "Web",
+          "label_pl": "Sieć",
+          "label_fi": "Verkko",
+          "label_sk": "Web",
+          "label_da": "Et web"
+        }
+      ]
+    },
+    {
+      "id": "baby",
+      "correct": "kit",
+      "question_en": "What is a baby rabbit called?",
+      "question_de": "Wie heißt ein Kaninchenbaby?",
+      "question_it": "Come si chiama un coniglietto?",
+      "question_fr": "Comment s’appelle un bébé lapin ?",
+      "question_es": "¿Cómo se llama un conejo bebé?",
+      "question_hr": "Kako se zove beba zeca?",
+      "question_cs": "Jak se jmenuje králičí mládě?",
+      "question_pl": "Jak nazywa się mały królik?",
+      "question_fi": "Mikä on kaninpoikasen nimi?",
+      "question_sk": "Ako sa volá králičie mláďa?",
+      "question_da": "Hvad hedder en kaninunge?",
+      "options": [
+        {
+          "id": "kit",
+          "label_en": "A kit",
+          "label_de": "Ein Bausatz",
+          "label_it": "Un kit",
+          "label_fr": "Une trousse",
+          "label_es": "un kit",
+          "label_hr": "Komplet",
+          "label_cs": "Souprava",
+          "label_pl": "Zestaw",
+          "label_fi": "Pakki",
+          "label_sk": "Súprava",
+          "label_da": "Et sæt"
+        },
+        {
+          "id": "cub",
+          "label_en": "A cub",
+          "label_de": "Ein Junges",
+          "label_it": "Un cucciolo",
+          "label_fr": "Un petit",
+          "label_es": "un cachorro",
+          "label_hr": "Mladunče",
+          "label_cs": "mládě",
+          "label_pl": "Młode",
+          "label_fi": "Pentu",
+          "label_sk": "Mláďa",
+          "label_da": "En unge"
+        },
+        {
+          "id": "calf",
+          "label_en": "A calf",
+          "label_de": "Ein Kalb",
+          "label_it": "Un vitello",
+          "label_fr": "Un veau",
+          "label_es": "un ternero",
+          "label_hr": "tele",
+          "label_cs": "Tele",
+          "label_pl": "Cielę",
+          "label_fi": "Vasikka",
+          "label_sk": "Telíčko",
+          "label_da": "En kalv"
+        }
+      ]
+    },
+    {
+      "id": "ears",
+      "correct": "hear",
+      "question_en": "What do a rabbit's long ears help it do?",
+      "question_de": "Wozu dienen die langen Ohren eines Kaninchens?",
+      "question_it": "Cosa lo aiutano le lunghe orecchie di un coniglio?",
+      "question_fr": "À quoi les longues oreilles d’un lapin l’aident-elles à faire ?",
+      "question_es": "¿Qué le ayudan a hacer las largas orejas de un conejo?",
+      "question_hr": "U čemu zecu pomažu duge uši?",
+      "question_cs": "K čemu králikovi pomáhají dlouhé uši?",
+      "question_pl": "W czym pomagają długie uszy królika?",
+      "question_fi": "Mitä kanin pitkät korvat auttavat sitä?",
+      "question_sk": "V čom králikovi pomáhajú jeho dlhé uši?",
+      "question_da": "Hvad hjælper en kanins lange ører den med?",
+      "options": [
+        {
+          "id": "hear",
+          "label_en": "Hear danger from far away",
+          "label_de": "Hören Sie die Gefahr aus der Ferne",
+          "label_it": "Ascolta il pericolo da molto lontano",
+          "label_fr": "Écoutez le danger de loin",
+          "label_es": "Escuche el peligro desde lejos",
+          "label_hr": "Čuti opasnost izdaleka",
+          "label_cs": "Slyšet nebezpečí z velké dálky",
+          "label_pl": "Usłysz niebezpieczeństwo z daleka",
+          "label_fi": "Kuule vaara kaukaa",
+          "label_sk": "Počuť nebezpečenstvo z diaľky",
+          "label_da": "Hør fare langt væk"
+        },
+        {
+          "id": "fly",
+          "label_en": "Fly between trees",
+          "label_de": "Fliegen Sie zwischen Bäumen",
+          "label_it": "Vola tra gli alberi",
+          "label_fr": "Voler entre les arbres",
+          "label_es": "volar entre arboles",
+          "label_hr": "Letjeti između drveća",
+          "label_cs": "Létat mezi stromy",
+          "label_pl": "Lataj między drzewami",
+          "label_fi": "Lennä puiden välissä",
+          "label_sk": "Lietajte medzi stromami",
+          "label_da": "Flyv mellem træer"
+        },
+        {
+          "id": "swim",
+          "label_en": "Swim deep underwater",
+          "label_de": "Schwimmen Sie tief unter Wasser",
+          "label_it": "Nuota in profondità sott'acqua",
+          "label_fr": "Nager profondément sous l'eau",
+          "label_es": "Nadar profundamente bajo el agua",
+          "label_hr": "Plivajte duboko pod vodom",
+          "label_cs": "Plavat hluboko pod vodou",
+          "label_pl": "Płyń głęboko pod wodą",
+          "label_fi": "Ui syvällä veden alla",
+          "label_sk": "Plávať hlboko pod vodou",
+          "label_da": "Svøm dybt under vandet"
+        }
+      ]
+    }
+  ]
+}
