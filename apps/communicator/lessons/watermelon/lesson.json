@@ -1,0 +1,293 @@
+{
+  "id": "watermelon",
+  "category_id": "food",
+  "symbol_id": "watermelon",
+  "thumbnail": "watermelon_thumb.webp",
+  "title_en": "Watermelon",
+  "title_de": "Wassermelone",
+  "title_it": "Anguria",
+  "title_fr": "Pastèque",
+  "title_es": "Sandía",
+  "title_hr": "Lubenica",
+  "title_cs": "Vodní meloun",
+  "title_pl": "Arbuz",
+  "title_fi": "Vesimeloni",
+  "title_sk": "Vodný melón",
+  "title_da": "Vandmelon",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about watermelon. Watermelon is a large, juicy fruit with a green rind and sweet red flesh. It is full of water, which makes it a refreshing treat on a hot summer day.",
+      "script_de": "Heute lernen wir etwas über Wassermelone. Wassermelone ist eine große, saftige Frucht mit grüner Schale und süßem rotem Fruchtfleisch. Es ist voller Wasser, was es zu einem erfrischenden Genuss an einem heißen Sommertag macht.",
+      "script_it": "Oggi impareremo a conoscere l'anguria. L'anguria è un frutto grande e succoso con una buccia verde e una polpa rossa dolce. È pieno d'acqua, il che lo rende un piacere rinfrescante in una calda giornata estiva.",
+      "script_fr": "Aujourd'hui, nous allons découvrir la pastèque. La pastèque est un gros fruit juteux avec une croûte verte et une chair rouge sucrée. Il est plein d’eau, ce qui en fait un régal rafraîchissant lors d’une chaude journée d’été.",
+      "script_es": "Hoy vamos a aprender sobre la sandía. La sandía es una fruta grande y jugosa con corteza verde y pulpa roja dulce. Está lleno de agua, lo que lo convierte en un placer refrescante en un caluroso día de verano.",
+      "script_hr": "Danas ćemo učiti o lubenici. Lubenica je veliko, sočno voće sa zelenom korom i slatkim crvenim mesom. Pun je vode, što ga čini pravom osvježavajućom poslasticom u vrućim ljetnim danima.",
+      "script_cs": "Dnes se budeme učit o vodním melounu. Meloun je velké, šťavnaté ovoce se zelenou kůrou a sladkou červenou dužninou. Je plný vody, což z něj dělá osvěžující požitek v horkém letním dni.",
+      "script_pl": "Dzisiaj będziemy uczyć się o arbuzie. Arbuz to duży, soczysty owoc o zielonej skórce i słodko-czerwonym miąższu. Jest pełen wody, co sprawia, że ​​jest orzeźwiającą przekąską w upalny, letni dzień.",
+      "script_fi": "Tänään opimme vesimelonista. Vesimeloni on suuri, mehukas hedelmä, jossa on vihreä kuori ja makean punainen hedelmäliha. Se on täynnä vettä, mikä tekee siitä virkistävän herkkupalan kuumana kesäpäivänä.",
+      "script_sk": "Dnes sa dozvieme o vodnom melóne. Vodný melón je veľké, šťavnaté ovocie so zelenou kôrou a sladkou červenou dužinou. Je plný vody, čo z neho robí osviežujúcu pochúťku v horúcom letnom dni.",
+      "script_da": "I dag skal vi lære om vandmelon. Vandmelon er en stor, saftig frugt med en grøn svær og sødt rødt frugtkød. Den er fuld af vand, hvilket gør den til en forfriskende lækkerbisken på en varm sommerdag.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "origin",
+      "script_en": "Watermelons first grew in Africa, where people have eaten them for thousands of years. Long ago they were smaller and less sweet than the ones we know today. Traders carried them to other parts of the world, and now they grow in many warm countries.",
+      "script_de": "Wassermelonen wuchsen erstmals in Afrika, wo die Menschen sie seit Tausenden von Jahren essen. Vor langer Zeit waren sie kleiner und weniger süß als die, die wir heute kennen. Händler brachten sie in andere Teile der Welt und heute wachsen sie in vielen warmen Ländern.",
+      "script_it": "Le angurie sono cresciute per la prima volta in Africa, dove le persone le hanno mangiate per migliaia di anni. Molto tempo fa erano più piccoli e meno dolci di quelli che conosciamo oggi. I commercianti li hanno portati in altre parti del mondo e ora crescono in molti paesi caldi.",
+      "script_fr": "Les pastèques ont poussé pour la première fois en Afrique, où les gens les mangent depuis des milliers d’années. Il y a bien longtemps, ils étaient plus petits et moins sucrés que ceux que nous connaissons aujourd’hui. Les commerçants les ont transportés dans d’autres parties du monde et ils poussent désormais dans de nombreux pays chauds.",
+      "script_es": "Las sandías crecieron por primera vez en África, donde la gente las ha comido durante miles de años. Hace mucho tiempo eran más pequeños y menos dulces que los que conocemos hoy. Los comerciantes los llevaron a otras partes del mundo y ahora crecen en muchos países cálidos.",
+      "script_hr": "Lubenice su prvo rasle u Africi, gdje su ih ljudi jeli tisućama godina. Davno su bili manji i manje slatki od ovih koje poznajemo danas. Trgovci su ih prenijeli u druge dijelove svijeta, a sada rastu u mnogim toplim zemljama.",
+      "script_cs": "Vodní melouny poprvé rostly v Africe, kde je lidé jedli po tisíce let. Kdysi dávno byly menší a méně sladké než ty, které známe dnes. Obchodníci je převáželi do jiných částí světa a nyní rostou v mnoha teplých zemích.",
+      "script_pl": "Arbuzy po raz pierwszy wyhodowano w Afryce, gdzie ludzie jedli je od tysięcy lat. Dawno temu były mniejsze i mniej słodkie niż te, które znamy dzisiaj. Handlarze przenieśli je do innych części świata, a obecnie rosną w wielu ciepłych krajach.",
+      "script_fi": "Vesimelonit kasvoivat ensin Afrikassa, missä ihmiset ovat syöneet niitä tuhansia vuosia. Kauan sitten ne olivat pienempiä ja vähemmän makeita kuin nykyään. Kauppiaat veivät niitä muualle maailmaan, ja nyt ne kasvavat monissa lämpimissä maissa.",
+      "script_sk": "Vodné melóny prvýkrát rástli v Afrike, kde ich ľudia jedli už tisíce rokov. Kedysi boli menšie a menej sladké ako tie, ktoré poznáme dnes. Obchodníci ich preniesli do iných častí sveta a teraz rastú v mnohých teplých krajinách.",
+      "script_da": "Vandmeloner voksede først i Afrika, hvor folk har spist dem i tusinder af år. For længe siden var de mindre og mindre søde end dem, vi kender i dag. Handlende bar dem til andre dele af verden, og nu vokser de i mange varme lande.",
+      "images": [
+        "origin.webp",
+        "origin_2.webp",
+        "origin_3.webp"
+      ]
+    },
+    {
+      "id": "growth",
+      "script_en": "Watermelon plants grow as long vines along the ground. In summer they open yellow flowers, and bees help pollinate them. A small green fruit appears and slowly grows larger and heavier until it is ready to pick.",
+      "script_de": "Wassermelonenpflanzen wachsen als lange Ranken am Boden entlang. Im Sommer öffnen sie gelbe Blüten und Bienen helfen bei der Bestäubung. Eine kleine grüne Frucht erscheint und wird langsam größer und schwerer, bis sie zum Pflücken bereit ist.",
+      "script_it": "Le piante di anguria crescono come lunghe viti lungo il terreno. In estate aprono fiori gialli e le api aiutano a impollinarli. Appare un piccolo frutto verde che lentamente diventa più grande e più pesante finché non è pronto per essere raccolto.",
+      "script_fr": "Les plants de pastèque poussent sous forme de longues vignes sur le sol. En été, elles ouvrent des fleurs jaunes et les abeilles contribuent à leur pollinisation. Un petit fruit vert apparaît et devient lentement plus gros et plus lourd jusqu'à ce qu'il soit prêt à être cueilli.",
+      "script_es": "Las plantas de sandía crecen como largas enredaderas a lo largo del suelo. En verano abren flores amarillas y las abejas ayudan a polinizarlas. Aparece una pequeña fruta verde que lentamente crece y se vuelve más pesada hasta que está lista para ser cosechada.",
+      "script_hr": "Biljke lubenice rastu kao dugačke loze duž zemlje. Ljeti otvaraju žute cvjetove, a pčele im pomažu u oprašivanju. Pojavljuje se mali zeleni plod koji polako postaje veći i teži dok nije spreman za branje.",
+      "script_cs": "Rostliny melounu rostou jako dlouhé liány podél země. V létě otevírají žluté květy a včely je pomáhají opylovat. Objeví se malé zelené ovoce, které se pomalu zvětšuje a těží, dokud není připraveno ke sběru.",
+      "script_pl": "Rośliny arbuza rosną wzdłuż ziemi jako długie pnącza. Latem otwierają żółte kwiaty, a pszczoły pomagają je zapylać. Pojawia się mały zielony owoc, który powoli staje się większy i cięższy, aż będzie gotowy do zbioru.",
+      "script_fi": "Vesimelonikasvit kasvavat pitkinä viiniköynnöksinä maassa. Kesällä ne avaavat keltaisia ​​kukkia, ja mehiläiset auttavat pölyttämään niitä. Pieni vihreä hedelmä ilmestyy ja kasvaa hitaasti suuremmaksi ja raskaammaksi, kunnes se on valmis poimittavaksi.",
+      "script_sk": "Rastliny vodného melónu rastú ako dlhé liany pozdĺž zeme. V lete otvárajú žlté kvety a včely ich pomáhajú opeľovať. Objaví sa malé zelené ovocie, ktoré sa pomaly zväčšuje a ťaží, kým nie je pripravené na zber.",
+      "script_da": "Vandmelonplanter vokser som lange vinstokke langs jorden. Om sommeren åbner de gule blomster, og bier hjælper med at bestøve dem. En lille grøn frugt kommer frem og vokser sig langsomt større og tungere, indtil den er klar til at blive plukket.",
+      "images": [
+        "growth.webp",
+        "growth_2.webp",
+        "growth_3.webp"
+      ]
+    },
+    {
+      "id": "varieties",
+      "script_en": "There are many kinds of watermelon. Some have black seeds, some have small soft seeds, and some have no seeds at all. The flesh can be red, pink, orange, or even yellow. Farmers grow different sizes for family meals and for markets.",
+      "script_de": "Es gibt viele Arten von Wassermelonen. Manche haben schwarze Samen, manche haben kleine weiche Samen und manche haben überhaupt keine Samen. Das Fruchtfleisch kann rot, rosa, orange oder sogar gelb sein. Landwirte bauen unterschiedliche Größen für Familienessen und für Märkte an.",
+      "script_it": "Esistono molti tipi di anguria. Alcuni hanno semi neri, altri hanno semi piccoli e morbidi e altri non ne hanno affatto. La polpa può essere rossa, rosa, arancione o anche gialla. Gli agricoltori coltivano formati diversi per i pasti in famiglia e per i mercati.",
+      "script_fr": "Il existe de nombreuses sortes de pastèques. Certains ont des graines noires, d’autres ont de petites graines molles et d’autres n’ont aucune graine. La chair peut être rouge, rose, orange ou même jaune. Les agriculteurs cultivent différentes tailles pour les repas familiaux et pour les marchés.",
+      "script_es": "Hay muchos tipos de sandía. Algunos tienen semillas negras, otros tienen semillas pequeñas y blandas y otros no tienen ninguna semilla. La pulpa puede ser roja, rosada, naranja o incluso amarilla. Los agricultores cultivan diferentes tamaños para comidas familiares y mercados.",
+      "script_hr": "Postoji mnogo vrsta lubenica. Neki imaju crne sjemenke, neki imaju male mekane sjemenke, a neki ih uopće nemaju. Meso može biti crveno, ružičasto, narančasto ili čak žuto. Farmeri uzgajaju različite veličine za obiteljske obroke i za tržnice.",
+      "script_cs": "Existuje mnoho druhů vodních melounů. Některé mají černá semena, některé mají malá měkká semena a některé nemají semena vůbec. Dužnina může být červená, růžová, oranžová nebo dokonce žlutá. Farmáři pěstují různé velikosti pro rodinná jídla a pro trhy.",
+      "script_pl": "Istnieje wiele rodzajów arbuza. Niektóre mają czarne nasiona, niektóre mają małe, miękkie nasiona, a niektóre nie mają ich wcale. Miąższ może być czerwony, różowy, pomarańczowy, a nawet żółty. Rolnicy uprawiają różne rozmiary na posiłki rodzinne i na rynki.",
+      "script_fi": "Vesimeloneja on monenlaisia. Joissakin on mustia siemeniä, joissakin pieniä pehmeitä siemeniä ja joissakin ei ole siemeniä ollenkaan. Liha voi olla punaista, vaaleanpunaista, oranssia tai jopa keltaista. Maanviljelijät kasvattavat erikokoisia perheen aterioita ja markkinoita varten.",
+      "script_sk": "Existuje veľa druhov vodných melónov. Niektoré majú čierne semená, niektoré majú malé mäkké semená a niektoré nemajú žiadne semená. Dužina môže byť červená, ružová, oranžová alebo dokonca žltá. Farmári pestujú rôzne veľkosti na rodinné jedlá a na trhy.",
+      "script_da": "Der er mange slags vandmelon. Nogle har sorte frø, nogle har små bløde frø, og nogle har slet ingen frø. Kødet kan være rødt, pink, orange eller endda gult. Landmænd dyrker forskellige størrelser til familiemåltider og til markeder.",
+      "images": [
+        "varieties.webp",
+        "varieties_2.webp",
+        "varieties_3.webp"
+      ]
+    },
+    {
+      "id": "kitchen",
+      "script_en": "In the kitchen, watermelon is eaten fresh in slices or cubes. It can be blended into juice or smoothies, added to fruit salads, or frozen into ice lollies. Even the rind can be pickled. It is a fruit that brings a little bit of summer to the table.",
+      "script_de": "In der Küche wird Wassermelone frisch in Scheiben oder Würfeln gegessen. Es kann zu Saft oder Smoothies gemischt, zu Obstsalaten hinzugefügt oder zu Eis am Stiel eingefroren werden. Sogar die Schale kann eingelegt werden. Es ist eine Frucht, die ein bisschen Sommer auf den Tisch bringt.",
+      "script_it": "In cucina l'anguria si consuma fresca a fette o a cubetti. Può essere frullato in succhi o frullati, aggiunto alle macedonie o congelato nei ghiaccioli. Anche la crosta può essere marinata. È un frutto che porta in tavola un po’ di estate.",
+      "script_fr": "En cuisine, la pastèque se consomme fraîche en tranches ou en cubes. Il peut être mélangé à des jus ou des smoothies, ajouté à des salades de fruits ou congelé dans des sucettes glacées. Même la croûte peut être marinée. C'est un fruit qui apporte un peu d'été à table.",
+      "script_es": "En la cocina, la sandía se come fresca en rodajas o en cubos. Se puede mezclar en jugos o batidos, agregar a ensaladas de frutas o congelar en paletas heladas. Incluso la corteza se puede encurtir. Es una fruta que aporta un poquito de verano a la mesa.",
+      "script_hr": "U kuhinji se lubenica jede svježa u ploškama ili kockicama. Može se umiješati u sok ili smoothie, dodati voćnim salatama ili zamrznuti u ledene lizalice. Čak se i kora može ukiseliti. Voće je to koje na stol donosi malo ljeta.",
+      "script_cs": "V kuchyni se meloun jí čerstvý na plátky nebo kostky. Lze jej rozmixovat do šťávy nebo smoothie, přidat do ovocných salátů nebo zmrazit na nanuky. I kůra se dá nakládat. Je to ovoce, které přináší na stůl trochu léta.",
+      "script_pl": "W kuchni arbuza spożywa się na świeżo, w plasterkach lub kostkach. Można go mieszać z sokami lub koktajlami, dodawać do sałatek owocowych lub zamrażać w postaci lizaków lodowych. Nawet skórkę można marynować. To owoc, który wnosi na stół odrobinę lata.",
+      "script_fi": "Keittiössä vesimeloni syödään tuoreena viipaleina tai kuutioina. Se voidaan sekoittaa mehuun tai smoothieihin, lisätä hedelmäsalaatteihin tai pakastaa jäämehuiksi. Jopa kuori voidaan marinoida. Se on hedelmä, joka tuo hieman kesää pöytään.",
+      "script_sk": "V kuchyni sa vodný melón konzumuje čerstvý v plátkoch alebo kockách. Môže sa primiešať do šťavy alebo smoothies, pridať do ovocných šalátov alebo zmraziť na nanuky. Dokonca aj kôra sa dá nakladať. Je to ovocie, ktoré prináša na stôl trochu leta.",
+      "script_da": "I køkkenet spises vandmelon frisk i skiver eller tern. Det kan blandes i juice eller smoothies, tilsættes frugtsalater eller fryses til ispinde. Selv sværen kan syltes. Det er en frugt, der bringer en lille smule sommer på bordet.",
+      "images": [
+        "kitchen.webp",
+        "kitchen_2.webp",
+        "kitchen_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "origin",
+      "correct": "africa",
+      "question_en": "Where did watermelons first grow?",
+      "question_de": "Wo wuchsen Wassermelonen zum ersten Mal?",
+      "question_it": "Dove sono cresciute per la prima volta le angurie?",
+      "question_fr": "Où les pastèques ont-elles poussé pour la première fois ?",
+      "question_es": "¿Dónde crecieron las sandías por primera vez?",
+      "question_hr": "Gdje su prvo rasle lubenice?",
+      "question_cs": "Kde poprvé rostly vodní melouny?",
+      "question_pl": "Gdzie po raz pierwszy wyrosły arbuzy?",
+      "question_fi": "Missä vesimelonit kasvoivat ensimmäisen kerran?",
+      "question_sk": "Kde prvýkrát rástli vodné melóny?",
+      "question_da": "Hvor voksede vandmeloner først?",
+      "options": [
+        {
+          "id": "africa",
+          "label_en": "In Africa",
+          "label_de": "In Afrika",
+          "label_it": "In Africa",
+          "label_fr": "En Afrique",
+          "label_es": "En África",
+          "label_hr": "U Africi",
+          "label_cs": "V Africe",
+          "label_pl": "W Afryce",
+          "label_fi": "Afrikassa",
+          "label_sk": "V Afrike",
+          "label_da": "I Afrika"
+        },
+        {
+          "id": "arctic",
+          "label_en": "In the Arctic",
+          "label_de": "In der Arktis",
+          "label_it": "Nell'Artico",
+          "label_fr": "Dans l'Arctique",
+          "label_es": "en el ártico",
+          "label_hr": "Na Arktiku",
+          "label_cs": "V Arktidě",
+          "label_pl": "W Arktyce",
+          "label_fi": "Arktisella alueella",
+          "label_sk": "V Arktíde",
+          "label_da": "I Arktis"
+        },
+        {
+          "id": "europe",
+          "label_en": "In northern Europe",
+          "label_de": "In Nordeuropa",
+          "label_it": "Nel nord Europa",
+          "label_fr": "En Europe du Nord",
+          "label_es": "En el norte de Europa",
+          "label_hr": "U sjevernoj Europi",
+          "label_cs": "V severní Evropě",
+          "label_pl": "W północnej Europie",
+          "label_fi": "Pohjois-Euroopassa",
+          "label_sk": "V severnej Európe",
+          "label_da": "I det nordlige Europa"
+        }
+      ]
+    },
+    {
+      "id": "plant",
+      "correct": "vine",
+      "question_en": "How does a watermelon plant grow?",
+      "question_de": "Wie wächst eine Wassermelonenpflanze?",
+      "question_it": "Come cresce una pianta di anguria?",
+      "question_fr": "Comment pousse une plante de pastèque ?",
+      "question_es": "¿Cómo crece una planta de sandía?",
+      "question_hr": "Kako raste biljka lubenice?",
+      "question_cs": "Jak roste meloun?",
+      "question_pl": "Jak rośnie roślina arbuza?",
+      "question_fi": "Kuinka vesimelonikasvi kasvaa?",
+      "question_sk": "Ako rastie melón?",
+      "question_da": "Hvordan vokser en vandmelonplante?",
+      "options": [
+        {
+          "id": "vine",
+          "label_en": "As a long vine along the ground",
+          "label_de": "Als lange Ranke am Boden entlang",
+          "label_it": "Come una lunga vite lungo la terra",
+          "label_fr": "Comme une longue vigne sur le sol",
+          "label_es": "Como una larga enredadera a lo largo del suelo",
+          "label_hr": "Kao duga loza uz zemlju",
+          "label_cs": "Jako dlouhá liána podél země",
+          "label_pl": "Jak długa winorośl wzdłuż ziemi",
+          "label_fi": "Kuten pitkä viiniköynnös pitkin maata",
+          "label_sk": "Ako dlhý vinič pozdĺž zeme",
+          "label_da": "Som en lang vinstok langs jorden"
+        },
+        {
+          "id": "tree",
+          "label_en": "As a tall tree",
+          "label_de": "Als hoher Baum",
+          "label_it": "Come un albero alto",
+          "label_fr": "Comme un grand arbre",
+          "label_es": "Como un árbol alto",
+          "label_hr": "Kao visoko drvo",
+          "label_cs": "Jako vysoký strom",
+          "label_pl": "Jako wysokie drzewo",
+          "label_fi": "Kuten korkea puu",
+          "label_sk": "Ako vysoký strom",
+          "label_da": "Som et højt træ"
+        },
+        {
+          "id": "underwater",
+          "label_en": "Underwater",
+          "label_de": "Unterwasser",
+          "label_it": "Sott'acqua",
+          "label_fr": "Sous l'eau",
+          "label_es": "Submarino",
+          "label_hr": "Pod vodom",
+          "label_cs": "Pod vodou",
+          "label_pl": "Podwodny",
+          "label_fi": "Vedenalainen",
+          "label_sk": "Pod vodou",
+          "label_da": "Undervands"
+        }
+      ]
+    },
+    {
+      "id": "water",
+      "correct": "water",
+      "question_en": "Why is watermelon so refreshing?",
+      "question_de": "Warum ist Wassermelone so erfrischend?",
+      "question_it": "Perché l'anguria è così rinfrescante?",
+      "question_fr": "Pourquoi la pastèque est-elle si rafraîchissante ?",
+      "question_es": "¿Por qué la sandía es tan refrescante?",
+      "question_hr": "Zašto je lubenica tako osvježavajuća?",
+      "question_cs": "Proč je meloun tak osvěžující?",
+      "question_pl": "Dlaczego arbuz jest tak orzeźwiający?",
+      "question_fi": "Miksi vesimeloni on niin virkistävää?",
+      "question_sk": "Prečo je melón taký osviežujúci?",
+      "question_da": "Hvorfor er vandmelon så forfriskende?",
+      "options": [
+        {
+          "id": "water",
+          "label_en": "It is full of water",
+          "label_de": "Es ist voller Wasser",
+          "label_it": "È pieno d'acqua",
+          "label_fr": "C'est plein d'eau",
+          "label_es": "esta lleno de agua",
+          "label_hr": "Puna je vode",
+          "label_cs": "Je plná vody",
+          "label_pl": "Jest pełne wody",
+          "label_fi": "Se on täynnä vettä",
+          "label_sk": "Je plná vody",
+          "label_da": "Den er fuld af vand"
+        },
+        {
+          "id": "salt",
+          "label_en": "It is full of salt",
+          "label_de": "Es ist voller Salz",
+          "label_it": "È pieno di sale",
+          "label_fr": "C'est plein de sel",
+          "label_es": "esta lleno de sal",
+          "label_hr": "Puna je soli",
+          "label_cs": "Je plná soli",
+          "label_pl": "Jest pełne soli",
+          "label_fi": "Se on täynnä suolaa",
+          "label_sk": "Je plná soli",
+          "label_da": "Den er fuld af salt"
+        },
+        {
+          "id": "oil",
+          "label_en": "It is full of oil",
+          "label_de": "Es ist voller Öl",
+          "label_it": "E' pieno d'olio",
+          "label_fr": "C'est plein d'huile",
+          "label_es": "esta lleno de aceite",
+          "label_hr": "Pun je ulja",
+          "label_cs": "Je plná oleje",
+          "label_pl": "Jest pełen oleju",
+          "label_fi": "Se on täynnä öljyä",
+          "label_sk": "Je plná oleja",
+          "label_da": "Den er fuld af olie"
+        }
+      ]
+    }
+  ]
+}

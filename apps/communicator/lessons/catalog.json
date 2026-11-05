@@ -545,6 +545,27 @@
       "title_fi": "Tomaatit",
       "title_sk": "Paradajky",
       "title_da": "Tomater"
+    },
+    {
+      "id": "watermelon",
+      "category_id": "food",
+      "symbol_id": "watermelon",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/watermelon/watermelon_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/watermelon/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2119126,
+      "version": 1,
+      "title_en": "Watermelon",
+      "title_de": "Wassermelone",
+      "title_it": "Anguria",
+      "title_fr": "Pastèque",
+      "title_es": "Sandía",
+      "title_hr": "Lubenica",
+      "title_cs": "Vodní meloun",
+      "title_pl": "Arbuz",
+      "title_fi": "Vesimeloni",
+      "title_sk": "Vodný melón",
+      "title_da": "Vandmelon"
     }
   ]
 }
