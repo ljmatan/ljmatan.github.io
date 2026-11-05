@@ -1,0 +1,293 @@
+{
+  "id": "duck",
+  "category_id": "animals",
+  "symbol_id": "duck",
+  "thumbnail": "duck_thumb.webp",
+  "title_en": "Ducks",
+  "title_de": "Enten",
+  "title_it": "Anatre",
+  "title_fr": "Canards",
+  "title_es": "patos",
+  "title_hr": "Patke",
+  "title_cs": "Kachny",
+  "title_pl": "Kaczki",
+  "title_fi": "Ankat",
+  "title_sk": "Kačice",
+  "title_da": "Ænder",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about ducks. Ducks are water birds with webbed feet, waterproof feathers, and a cheerful quack. They live near ponds, rivers, and wetlands all over the world.",
+      "script_de": "Heute lernen wir etwas über Enten. Enten sind Wasservögel mit Schwimmhäuten, wasserfesten Federn und einem fröhlichen Quacksalber. Sie leben in der Nähe von Teichen, Flüssen und Feuchtgebieten auf der ganzen Welt.",
+      "script_it": "Oggi impareremo a conoscere le anatre. Le anatre sono uccelli acquatici con i piedi palmati, piume impermeabili e un allegro ciarlatano. Vivono vicino a stagni, fiumi e zone umide in tutto il mondo.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur les canards. Les canards sont des oiseaux aquatiques dotés de pattes palmées, de plumes imperméables et d'un charlatan joyeux. Ils vivent près des étangs, des rivières et des zones humides partout dans le monde.",
+      "script_es": "Hoy vamos a aprender sobre los patos. Los patos son aves acuáticas con patas palmeadas, plumas impermeables y un alegre graznido. Viven cerca de estanques, ríos y humedales en todo el mundo.",
+      "script_hr": "Danas ćemo učiti o patkama. Patke su vodene ptice s mrežastim nogama, vodootpornim perjem i veselim kvocanjem. Žive u blizini ribnjaka, rijeka i močvara diljem svijeta.",
+      "script_cs": "Dnes se budeme učit o kachnách. Kachny jsou vodní ptáci s plovacími blánami, voděodolným peřím a veselým šarlatánem. Žijí v blízkosti rybníků, řek a mokřadů po celém světě.",
+      "script_pl": "Dziś będziemy uczyć się o kaczkach. Kaczki to ptaki wodne z błoniastymi stopami, wodoodpornymi piórami i wesołym szarlatanerem. Żyją w pobliżu stawów, rzek i terenów podmokłych na całym świecie.",
+      "script_fi": "Tänään opimme ankoista. Ankat ovat vesilintuja, joilla on nauhalliset jalat, vedenpitävät höyhenet ja iloinen kakku. He asuvat lampien, jokien ja kosteikkojen lähellä kaikkialla maailmassa.",
+      "script_sk": "Dnes sa budeme učiť o kačkách. Kačice sú vodné vtáky s labkami, vodeodolným perím a veselým šarlatánom. Žijú v blízkosti rybníkov, riek a mokradí po celom svete.",
+      "script_da": "I dag skal vi lære om ænder. Ænder er vandfugle med svømmehudsfødder, vandtætte fjer og en munter kvaksalver. De lever i nærheden af ​​damme, floder og vådområder over hele verden.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "habitat",
+      "script_en": "Ducks are at home in and around water. They use ponds, lakes, rivers, and marshes for feeding, resting, and raising their young. Some ducks stay in the same place all year, while others travel long distances to find warmer weather.",
+      "script_de": "Enten sind im und am Wasser zu Hause. Sie nutzen Teiche, Seen, Flüsse und Sümpfe zum Füttern, Ausruhen und Aufziehen ihrer Jungen. Manche Enten bleiben das ganze Jahr über am selben Ort, während andere weite Strecken zurücklegen, um wärmeres Wetter zu finden.",
+      "script_it": "Le anatre sono a casa dentro e intorno all'acqua. Usano stagni, laghi, fiumi e paludi per nutrirsi, riposare e allevare i loro piccoli. Alcune anatre rimangono nello stesso posto tutto l'anno, mentre altre percorrono lunghe distanze per trovare un clima più caldo.",
+      "script_fr": "Les canards sont chez eux dans et autour de l’eau. Ils utilisent les étangs, les lacs, les rivières et les marais pour se nourrir, se reposer et élever leurs petits. Certains canards restent au même endroit toute l’année, tandis que d’autres parcourent de longues distances pour trouver un temps plus chaud.",
+      "script_es": "Los patos se sienten como en casa dentro y alrededor del agua. Utilizan estanques, lagos, ríos y marismas para alimentar, descansar y criar a sus crías. Algunos patos permanecen en el mismo lugar todo el año, mientras que otros viajan largas distancias para encontrar un clima más cálido.",
+      "script_hr": "Patke su kod kuće u vodi i oko nje. Koriste ribnjake, jezera, rijeke i močvare za hranjenje, odmor i odgoj mladih. Neke patke ostaju na istom mjestu tijekom cijele godine, dok druge putuju na velike udaljenosti kako bi pronašle toplije vrijeme.",
+      "script_cs": "Kachny jsou doma ve vodě a kolem ní. Ke krmení, odpočinku a výchově mláďat využívají rybníky, jezera, řeky a bažiny. Některé kachny zůstávají celý rok na stejném místě, jiné cestují na velké vzdálenosti, aby našli teplejší počasí.",
+      "script_pl": "Kaczki czują się jak w domu w wodzie i wokół niej. Wykorzystują stawy, jeziora, rzeki i bagna do karmienia, odpoczynku i wychowywania młodych. Niektóre kaczki pozostają w tym samym miejscu przez cały rok, inne zaś pokonują duże odległości w poszukiwaniu cieplejszej pogody.",
+      "script_fi": "Ankat ovat kotonaan vedessä ja sen läheisyydessä. He käyttävät lampia, järviä, jokia ja soita ruokkimiseen, lepäämiseen ja poikasten kasvattamiseen. Jotkut ankat pysyvät samassa paikassa ympäri vuoden, kun taas toiset matkustavat pitkiä matkoja löytääkseen lämpimämmän sään.",
+      "script_sk": "Kačice sú doma vo vode a okolo nej. Rybníky, jazerá, rieky a močiare využívajú na kŕmenie, odpočinok a výchovu mláďat. Niektoré kačice zostávajú na tom istom mieste celý rok, zatiaľ čo iné cestujú na veľké vzdialenosti, aby našli teplejšie počasie.",
+      "script_da": "Ænder er hjemme i og omkring vand. De bruger damme, søer, floder og moser til at fodre, hvile og opdrage deres unger. Nogle ænder bliver det samme sted hele året, mens andre rejser lange afstande for at finde varmere vejr.",
+      "images": [
+        "habitat.webp",
+        "habitat_2.webp",
+        "habitat_3.webp"
+      ]
+    },
+    {
+      "id": "body",
+      "script_en": "A duck's body is built for water. Its webbed feet push against the water like paddles, and its broad bill is good for scooping up plants and small creatures. A special oil makes its feathers waterproof, so the duck stays dry even after a long swim.",
+      "script_de": "Der Körper einer Ente ist für Wasser gebaut. Seine mit Schwimmhäuten versehenen Füße drücken wie Paddel gegen das Wasser und sein breiter Schnabel eignet sich gut zum Aufsammeln von Pflanzen und kleinen Lebewesen. Ein spezielles Öl macht ihre Federn wasserdicht, sodass die Ente auch nach einem langen Schwimmen trocken bleibt.",
+      "script_it": "Il corpo di un'anatra è costruito per l'acqua. I suoi piedi palmati spingono contro l'acqua come remi e il suo becco largo è ottimo per raccogliere piante e piccole creature. Un olio speciale rende le sue piume impermeabili, così l'anatra rimane asciutta anche dopo una lunga nuotata.",
+      "script_fr": "Le corps d'un canard est construit pour l'eau. Ses pattes palmées poussent contre l'eau comme des pagaies, et son large bec est idéal pour ramasser les plantes et les petites créatures. Une huile spéciale rend ses plumes imperméables, de sorte que le canard reste au sec même après une longue baignade.",
+      "script_es": "El cuerpo de un pato está hecho para agua. Sus patas palmeadas empujan el agua como remos y su pico ancho es bueno para recoger plantas y criaturas pequeñas. Un aceite especial hace que sus plumas sean impermeables, por lo que el pato permanece seco incluso después de un largo baño.",
+      "script_hr": "Tijelo patke je građeno za vodu. Njegova mrežasta stopala guraju se o vodu poput vesla, a njegov široki kljun dobar je za grabljenje biljaka i malih stvorenja. Posebno ulje čini njezino perje vodootpornim, pa patka ostaje suha čak i nakon dugog plivanja.",
+      "script_cs": "Kachní tělo je stavěné na vodu. Jeho plovací nohy tlačí do vody jako pádla a jeho široký zobák je dobrý k nabírání rostlin a malých tvorů. Speciální olej dělá její peří voděodolné, takže kachna zůstane v suchu i po dlouhém plavání.",
+      "script_pl": "Ciało kaczki jest zbudowane do wody. Jego płetwiaste stopy poruszają się po wodzie niczym wiosła, a szeroki dziób doskonale nadaje się do zbierania roślin i małych stworzeń. Specjalny olej sprawia, że ​​jej pióra stają się wodoodporne, dzięki czemu kaczka pozostaje sucha nawet po długim pływaniu.",
+      "script_fi": "Ankan ruumis on rakennettu vettä varten. Sen nauhalliset jalat työntyvät vettä vasten kuin melat, ja sen leveä nokka on hyvä kasvien ja pienten olentojen kauhaamiseen. Erityinen öljy tekee höyhenistä vedenpitäviä, joten ankka pysyy kuivana pitkänkin uinnin jälkeen.",
+      "script_sk": "Telo kačice je stavané na vodu. Jeho labinové labky tlačia proti vode ako lopatky a jeho široký zobák je dobrý na naberanie rastlín a malých tvorov. Špeciálny olej robí jej perie vodeodolné, takže kačica zostane suchá aj po dlhom plávaní.",
+      "script_da": "En ands krop er bygget til vand. Dens svømmehud skubber mod vandet som pagajer, og dens brede næb er god til at øse planter og små væsner op. En speciel olie gør dens fjer vandtætte, så anden forbliver tør selv efter en lang svømmetur.",
+      "images": [
+        "body.webp",
+        "body_2.webp",
+        "body_3.webp"
+      ]
+    },
+    {
+      "id": "family",
+      "script_en": "Baby ducks are called ducklings. They hatch from eggs in a nest near the water and soon follow their mother in a neat line. Ducklings can swim almost right away, but they stay close to her for warmth and protection.",
+      "script_de": "Junge Enten werden Entenküken genannt. Sie schlüpfen aus Eiern in einem Nest in der Nähe des Wassers und folgen ihrer Mutter bald in einer ordentlichen Reihe. Entenküken können fast sofort schwimmen, bleiben aber zur Wärme und zum Schutz in ihrer Nähe.",
+      "script_it": "Le anatre si chiamano anatroccoli. Si schiudono dalle uova in un nido vicino all'acqua e presto seguono la madre in fila ordinata. Gli anatroccoli sanno nuotare quasi subito, ma le stanno vicino per ricevere calore e protezione.",
+      "script_fr": "Les bébés canards sont appelés canetons. Ils éclosent dans un nid près de l'eau et suivent bientôt leur mère en une ligne soignée. Les canetons peuvent nager presque immédiatement, mais ils restent près d'elle pour plus de chaleur et de protection.",
+      "script_es": "Los patitos se llaman patitos. Nacen de huevos en un nido cerca del agua y pronto siguen a su madre en una ordenada línea. Los patitos pueden nadar casi de inmediato, pero permanecen cerca de ella para calentarse y protegerse.",
+      "script_hr": "Patke se zovu pačići. Izlegu se iz jaja u gnijezdu blizu vode i ubrzo slijede svoju majku u urednom redu. Pačići mogu plivati ​​gotovo odmah, ali ostaju blizu nje radi topline i zaštite.",
+      "script_cs": "Kachnačkám se říká kachňata. Líhnou se z vajec v hnízdě u vody a brzy následují matku v úhledné linii. Kachňata mohou plavat téměř okamžitě, ale zůstávají blízko ní kvůli teplu a ochraně.",
+      "script_pl": "Młode kaczki nazywane są kaczątkami. Wykluwają się z jaj w gnieździe w pobliżu wody i wkrótce podążają za matką w równej linii. Kaczątka potrafią pływać niemal od razu, ale pozostają blisko niej, zapewniając ciepło i ochronę.",
+      "script_fi": "Ankanpoikia kutsutaan ankanpoikiksi. Ne kuoriutuvat munista pesässä lähellä vettä ja seuraavat pian emoaan siistinä rivinä. Ankanpojat voivat uida melkein heti, mutta ne pysyvät hänen lähellään lämmöksi ja suojaksi.",
+      "script_sk": "Mláďatá kačice sa nazývajú káčatká. Vyliahnu sa z vajec v hniezde pri vode a čoskoro nasledujú matku v úhľadnom rade. Káčatká môžu plávať takmer okamžite, ale zostávajú blízko pri nej, aby mali teplo a ochranu.",
+      "script_da": "Babyænder kaldes ællinger. De klækker fra æg i en rede nær vandet og følger snart deres mor i en pæn linje. Ællinger kan svømme næsten med det samme, men de holder sig tæt på hende for at få varme og beskyttelse.",
+      "images": [
+        "family.webp",
+        "family_2.webp",
+        "family_3.webp"
+      ]
+    },
+    {
+      "id": "life_today",
+      "script_en": "Today ducks live in wild wetlands and on farms. They help spread seeds and eat small insects, and their migration is one of nature's great journeys. Clean water and safe places to nest are important for ducks everywhere.",
+      "script_de": "Heute leben Enten in wilden Feuchtgebieten und auf Bauernhöfen. Sie helfen bei der Verbreitung von Samen und fressen kleine Insekten, und ihre Wanderung ist eine der großen Reisen der Natur. Sauberes Wasser und sichere Nistplätze sind für Enten überall wichtig.",
+      "script_it": "Oggi le anatre vivono nelle zone umide selvagge e nelle fattorie. Aiutano a spargere i semi e a mangiare piccoli insetti, e la loro migrazione è uno dei grandi viaggi della natura. Acqua pulita e luoghi sicuri in cui nidificare sono importanti per le anatre ovunque.",
+      "script_fr": "Aujourd'hui, les canards vivent dans les zones humides sauvages et dans les fermes. Ils aident à répandre les graines et mangent de petits insectes, et leur migration est l'un des grands voyages de la nature. De l’eau propre et des endroits sûrs où nicher sont importants pour les canards du monde entier.",
+      "script_es": "Hoy en día los patos viven en humedales silvestres y en granjas. Ayudan a esparcir semillas y comen pequeños insectos, y su migración es uno de los grandes viajes de la naturaleza. El agua limpia y los lugares seguros para anidar son importantes para los patos de todo el mundo.",
+      "script_hr": "Danas patke žive u divljim močvarama i na farmama. Pomažu u širenju sjemena i jedu male kukce, a njihova je migracija jedno od velikih putovanja prirode. Čista voda i sigurna mjesta za gniježđenje važni su za patke posvuda.",
+      "script_cs": "Dnes kachny žijí v divokých mokřadech a na farmách. Pomáhají šířit semena a jíst malý hmyz a jejich migrace je jednou z velkých cest přírody. Čistá voda a bezpečná místa k hnízdění jsou pro kachny všude důležité.",
+      "script_pl": "Dziś kaczki żyją na dzikich terenach podmokłych i na farmach. Pomagają w rozprzestrzenianiu nasion i zjadaniu małych owadów, a ich migracja jest jedną z największych podróży natury. Czysta woda i bezpieczne miejsca do gniazdowania są ważne dla kaczek na całym świecie.",
+      "script_fi": "Nykyään ankat elävät luonnonvaraisissa kosteikoissa ja maatiloilla. Ne auttavat levittämään siemeniä ja syömään pieniä hyönteisiä, ja niiden muutto on yksi luonnon suurista matkoista. Puhdas vesi ja turvalliset pesimäpaikat ovat ankoilla tärkeitä kaikkialla.",
+      "script_sk": "Dnes kačice žijú v divokých mokradiach a na farmách. Pomáhajú šíriť semená a jesť malý hmyz a ich migrácia je jednou z veľkých ciest prírody. Čistá voda a bezpečné miesta na hniezdenie sú pre kačice všade dôležité.",
+      "script_da": "I dag lever ænder i vilde vådområder og på gårde. De hjælper med at sprede frø og æder små insekter, og deres vandring er en af ​​naturens store rejser. Rent vand og sikre steder at rede er vigtige for ænder overalt.",
+      "images": [
+        "life_today.webp",
+        "life_today_2.webp",
+        "life_today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "baby",
+      "correct": "duckling",
+      "question_en": "What is a baby duck called?",
+      "question_de": "Wie heißt eine Babyente?",
+      "question_it": "Come si chiama un papero?",
+      "question_fr": "Comment s’appelle un bébé canard ?",
+      "question_es": "¿Cómo se llama un patito?",
+      "question_hr": "Kako se zove patka?",
+      "question_cs": "Jak se říká kachnímu mláděti?",
+      "question_pl": "Jak nazywa się mała kaczka?",
+      "question_fi": "Mikä on ankanvauvan nimi?",
+      "question_sk": "Ako sa volá kačacie mláďa?",
+      "question_da": "Hvad hedder en andeunge?",
+      "options": [
+        {
+          "id": "duckling",
+          "label_en": "A duckling",
+          "label_de": "Ein Entlein",
+          "label_it": "Un anatroccolo",
+          "label_fr": "Un caneton",
+          "label_es": "un patito",
+          "label_hr": "pače",
+          "label_cs": "káčátko",
+          "label_pl": "Kaczątko",
+          "label_fi": "Ankanpoikanen",
+          "label_sk": "Káčatko",
+          "label_da": "En ælling"
+        },
+        {
+          "id": "chick",
+          "label_en": "A chick",
+          "label_de": "Ein Küken",
+          "label_it": "Un pulcino",
+          "label_fr": "Un poussin",
+          "label_es": "un pollito",
+          "label_hr": "pilić",
+          "label_cs": "Kuřátko",
+          "label_pl": "Laska",
+          "label_fi": "Tyttö",
+          "label_sk": "kuriatko",
+          "label_da": "En kylling"
+        },
+        {
+          "id": "gosling",
+          "label_en": "A gosling",
+          "label_de": "Ein Gänschen",
+          "label_it": "Una papera",
+          "label_fr": "Un oison",
+          "label_es": "un ansarón",
+          "label_hr": "Guščica",
+          "label_cs": "Housátko",
+          "label_pl": "Gęś",
+          "label_fi": "Gohenpoikanen",
+          "label_sk": "Húska",
+          "label_da": "En gæsling"
+        }
+      ]
+    },
+    {
+      "id": "feet",
+      "correct": "webbed",
+      "question_en": "What helps a duck paddle through the water?",
+      "question_de": "Was hilft einer Ente, durch das Wasser zu paddeln?",
+      "question_it": "Cosa aiuta un'anatra a remare nell'acqua?",
+      "question_fr": "Qu’est-ce qui aide un canard à pagayer dans l’eau ?",
+      "question_es": "¿Qué ayuda a un pato a remar en el agua?",
+      "question_hr": "Što pomaže patki veslati kroz vodu?",
+      "question_cs": "Co pomáhá kachně pádlovat vodou?",
+      "question_pl": "Co pomaga kaczce wiosłować w wodzie?",
+      "question_fi": "Mikä auttaa ankkaa melomaan veden läpi?",
+      "question_sk": "Čo pomáha kačici pádlovať cez vodu?",
+      "question_da": "Hvad hjælper en and med at padle gennem vandet?",
+      "options": [
+        {
+          "id": "webbed",
+          "label_en": "Its webbed feet",
+          "label_de": "Seine Schwimmfüße",
+          "label_it": "I suoi piedi palmati",
+          "label_fr": "Ses pattes palmées",
+          "label_es": "Sus pies palmeados",
+          "label_hr": "Njegova mrežasta stopala",
+          "label_cs": "Jeho plovací nohy",
+          "label_pl": "Jego błoniaste stopy",
+          "label_fi": "Sen nauhalliset jalat",
+          "label_sk": "Jeho nohy s pavučinou",
+          "label_da": "Dens svømmehudsfødder"
+        },
+        {
+          "id": "claws",
+          "label_en": "Its sharp claws",
+          "label_de": "Seine scharfen Krallen",
+          "label_it": "I suoi artigli affilati",
+          "label_fr": "Ses griffes acérées",
+          "label_es": "Sus garras afiladas",
+          "label_hr": "Njegove oštre kandže",
+          "label_cs": "Jeho ostré drápy",
+          "label_pl": "Jego ostre pazury",
+          "label_fi": "Sen terävät kynnet",
+          "label_sk": "Jeho ostré pazúry",
+          "label_da": "Dens skarpe kløer"
+        },
+        {
+          "id": "wings",
+          "label_en": "Its wings",
+          "label_de": "Seine Flügel",
+          "label_it": "Le sue ali",
+          "label_fr": "Ses ailes",
+          "label_es": "sus alas",
+          "label_hr": "Njegova krila",
+          "label_cs": "Jeho křídla",
+          "label_pl": "Jego skrzydła",
+          "label_fi": "Sen siivet",
+          "label_sk": "Jeho krídla",
+          "label_da": "Dens vinger"
+        }
+      ]
+    },
+    {
+      "id": "water",
+      "correct": "oil",
+      "question_en": "Why do ducks stay dry in the water?",
+      "question_de": "Warum bleiben Enten im Wasser trocken?",
+      "question_it": "Perché le anatre rimangono asciutte nell'acqua?",
+      "question_fr": "Pourquoi les canards restent-ils au sec dans l'eau ?",
+      "question_es": "¿Por qué los patos permanecen secos en el agua?",
+      "question_hr": "Zašto patke ostaju suhe u vodi?",
+      "question_cs": "Proč zůstávají kachny ve vodě suché?",
+      "question_pl": "Dlaczego kaczki pozostają suche w wodzie?",
+      "question_fi": "Miksi ankat pysyvät kuivina vedessä?",
+      "question_sk": "Prečo kačice zostávajú vo vode suché?",
+      "question_da": "Hvorfor forbliver ænder tørre i vandet?",
+      "options": [
+        {
+          "id": "oil",
+          "label_en": "Their feathers have a waterproof oil",
+          "label_de": "Ihre Federn haben ein wasserfestes Öl",
+          "label_it": "Le loro piume hanno un olio impermeabile",
+          "label_fr": "Leurs plumes ont une huile imperméable",
+          "label_es": "Sus plumas tienen un aceite impermeable.",
+          "label_hr": "Njihovo perje ima vodootporno ulje",
+          "label_cs": "Jejich peří má voděodolný olej",
+          "label_pl": "Ich pióra zawierają wodoodporny olej",
+          "label_fi": "Niiden höyhenissä on vedenpitävä öljy",
+          "label_sk": "Ich perie má vodeodolný olej",
+          "label_da": "Deres fjer har en vandtæt olie"
+        },
+        {
+          "id": "umbrella",
+          "label_en": "They carry a small umbrella",
+          "label_de": "Sie tragen einen kleinen Regenschirm",
+          "label_it": "Portano un piccolo ombrello",
+          "label_fr": "Ils portent un petit parapluie",
+          "label_es": "Llevan un pequeño paraguas.",
+          "label_hr": "Nose mali kišobran",
+          "label_cs": "Nesou malý deštník",
+          "label_pl": "Niosą mały parasol",
+          "label_fi": "Heillä on pieni sateenvarjo",
+          "label_sk": "Nosia malý dáždnik",
+          "label_da": "De bærer en lille paraply"
+        },
+        {
+          "id": "fur",
+          "label_en": "They have thick fur",
+          "label_de": "Sie haben dickes Fell",
+          "label_it": "Hanno una pelliccia folta",
+          "label_fr": "Ils ont une fourrure épaisse",
+          "label_es": "Tienen pelaje grueso",
+          "label_hr": "Imaju gusto krzno",
+          "label_cs": "Mají hustou srst",
+          "label_pl": "Mają grube futro",
+          "label_fi": "Heillä on paksu turkki",
+          "label_sk": "Majú hustú srsť",
+          "label_da": "De har tyk pels"
+        }
+      ]
+    }
+  ]
+}

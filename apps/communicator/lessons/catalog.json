@@ -127,6 +127,27 @@
       "title_da": "Delfiner"
     },
     {
+      "id": "duck",
+      "category_id": "animals",
+      "symbol_id": "duck",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/duck/duck_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/duck/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 1882732,
+      "version": 1,
+      "title_en": "Ducks",
+      "title_de": "Enten",
+      "title_it": "Anatre",
+      "title_fr": "Canards",
+      "title_es": "patos",
+      "title_hr": "Patke",
+      "title_cs": "Kachny",
+      "title_pl": "Kaczki",
+      "title_fi": "Ankat",
+      "title_sk": "Kačice",
+      "title_da": "Ænder"
+    },
+    {
       "id": "elephant",
       "category_id": "animals",
       "symbol_id": "elephant",
