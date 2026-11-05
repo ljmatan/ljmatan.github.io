@@ -463,6 +463,27 @@
       "title_da": "Druer"
     },
     {
+      "id": "ice_cream",
+      "category_id": "food",
+      "symbol_id": "ice_cream",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/ice_cream/ice_cream_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/ice_cream/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 1776274,
+      "version": 1,
+      "title_en": "Ice Cream",
+      "title_de": "Eiscreme",
+      "title_it": "Gelato",
+      "title_fr": "Glace",
+      "title_es": "Helado",
+      "title_hr": "Sladoled",
+      "title_cs": "Zmrzlina",
+      "title_pl": "Lody",
+      "title_fi": "Jäätelö",
+      "title_sk": "Zmrzlina",
+      "title_da": "Flødeis"
+    },
+    {
       "id": "orange",
       "category_id": "food",
       "symbol_id": "orange",

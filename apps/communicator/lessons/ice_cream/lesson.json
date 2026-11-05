@@ -1,0 +1,293 @@
+{
+  "id": "ice_cream",
+  "category_id": "food",
+  "symbol_id": "ice_cream",
+  "thumbnail": "ice_cream_thumb.webp",
+  "title_en": "Ice Cream",
+  "title_de": "Eiscreme",
+  "title_it": "Gelato",
+  "title_fr": "Glace",
+  "title_es": "Helado",
+  "title_hr": "Sladoled",
+  "title_cs": "Zmrzlina",
+  "title_pl": "Lody",
+  "title_fi": "Jäätelö",
+  "title_sk": "Zmrzlina",
+  "title_da": "Flødeis",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about ice cream. Ice cream is a frozen dessert made from milk, cream, and sugar. It is cold, creamy, and sweet, and it comes in hundreds of flavours.",
+      "script_de": "Heute lernen wir etwas über Eis. Eis ist ein gefrorenes Dessert aus Milch, Sahne und Zucker. Es ist kalt, cremig und süß und in Hunderten von Geschmacksrichtungen erhältlich.",
+      "script_it": "Oggi parleremo del gelato. Il gelato è un dessert gelato a base di latte, panna e zucchero. È freddo, cremoso e dolce ed è disponibile in centinaia di gusti.",
+      "script_fr": "Aujourd'hui, nous allons découvrir la crème glacée. La crème glacée est un dessert glacé à base de lait, de crème et de sucre. Il est froid, crémeux et sucré, et se décline en des centaines de saveurs.",
+      "script_es": "Hoy vamos a aprender sobre el helado. El helado es un postre helado elaborado con leche, nata y azúcar. Es frío, cremoso y dulce, y viene en cientos de sabores.",
+      "script_hr": "Danas ćemo učiti o sladoledu. Sladoled je smrznuti desert napravljen od mlijeka, vrhnja i šećera. Hladan je, kremast i sladak, a dolazi u stotinama okusa.",
+      "script_cs": "Dnes se budeme učit o zmrzlině. Zmrzlina je mražený dezert vyrobený z mléka, smetany a cukru. Je studený, krémový a sladký a přichází ve stovkách příchutí.",
+      "script_pl": "Dzisiaj będziemy uczyć się o lodach. Lody to mrożony deser wytwarzany z mleka, śmietanki i cukru. Jest zimny, kremowy i słodki i występuje w setkach smaków.",
+      "script_fi": "Tänään opimme jäätelöstä. Jäätelö on jäätelö, joka on valmistettu maidosta, kermasta ja sokerista. Se on kylmä, kermainen ja makea, ja sitä on satoja makuja.",
+      "script_sk": "Dnes sa dozvieme niečo o zmrzline. Zmrzlina je mrazený dezert vyrobený z mlieka, smotany a cukru. Je studený, krémový a sladký a prichádza v stovkách príchutí.",
+      "script_da": "I dag skal vi lære om is. Is er en frossen dessert lavet af mælk, fløde og sukker. Den er kold, cremet og sød, og den findes i hundredvis af smagsvarianter.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "origin",
+      "script_en": "People have enjoyed frozen desserts for thousands of years. Long ago, cooks mixed snow or ice with fruit and honey. Later, Italian and French cooks made creamy frozen treats, and ice cream became popular in towns and cities around the world.",
+      "script_de": "Seit Tausenden von Jahren genießen Menschen gefrorene Desserts. Vor langer Zeit vermischten Köche Schnee oder Eis mit Früchten und Honig. Später stellten italienische und französische Köche cremige, gefrorene Leckereien her und Eiscreme wurde in Städten auf der ganzen Welt beliebt.",
+      "script_it": "Le persone apprezzano i dessert surgelati da migliaia di anni. Molto tempo fa, cucinava neve o ghiaccio mescolati con frutta e miele. Successivamente, i cuochi italiani e francesi prepararono prelibatezze cremose e il gelato divenne popolare nelle città di tutto il mondo.",
+      "script_fr": "Les gens apprécient les desserts glacés depuis des milliers d’années. Autrefois, on cuisinait de la neige mélangée ou de la glace avec des fruits et du miel. Plus tard, les cuisiniers italiens et français ont préparé des friandises glacées crémeuses, et la crème glacée est devenue populaire dans les villes du monde entier.",
+      "script_es": "La gente ha disfrutado de los postres helados durante miles de años. Antiguamente se cocinaba mezclando nieve o hielo con frutas y miel. Más tarde, los cocineros italianos y franceses prepararon delicias cremosas congeladas y el helado se hizo popular en pueblos y ciudades de todo el mundo.",
+      "script_hr": "Ljudi uživaju u smrznutim desertima tisućama godina. Nekada su kuhari pomiješali snijeg ili led s voćem i medom. Kasnije su talijanski i francuski kuhari radili kremaste smrznute poslastice, a sladoled je postao popularan u mjestima i gradovima diljem svijeta.",
+      "script_cs": "Lidé si mražené dezerty užívají tisíce let. Kdysi dávno se vaří smíchaný sníh nebo led s ovocem a medem. Později italští a francouzští kuchaři vyráběli krémové mražené pochoutky a zmrzlina se stala populární ve městech po celém světě.",
+      "script_pl": "Ludzie cieszą się mrożonymi deserami od tysięcy lat. Dawno temu gotowano mieszankę śniegu lub lodu z owocami i miodem. Później włoscy i francuscy kucharze robili kremowe mrożone przysmaki, a lody stały się popularne w miastach na całym świecie.",
+      "script_fi": "Ihmiset ovat nauttineet jäädytetyistä jälkiruoista tuhansia vuosia. Kauan sitten keitti lunta tai jäätä hedelmien ja hunajan kanssa. Myöhemmin italialaiset ja ranskalaiset kokit valmistivat kermaisia ​​pakasteherkkuja, ja jäätelöstä tuli suosittua kaupungeissa ympäri maailmaa.",
+      "script_sk": "Ľudia si už tisícky rokov vychutnávajú mrazené dezerty. Dávno varí miešaný sneh alebo ľad s ovocím a medom. Neskôr talianski a francúzski kuchári vyrábali krémové mrazené pochúťky a zmrzlina sa stala populárnou v mestách po celom svete.",
+      "script_da": "Folk har nydt frosne desserter i tusinder af år. For længe siden har kokke blandet sne eller is med frugt og honning. Senere lavede italienske og franske kokke cremede frosne godbidder, og is blev populær i byer rundt om i verden.",
+      "images": [
+        "origin.webp",
+        "origin_2.webp",
+        "origin_3.webp"
+      ]
+    },
+    {
+      "id": "making",
+      "script_en": "To make ice cream, milk, cream, and sugar are mixed together and gently heated. The mixture is cooled, flavoured, and churned while it freezes. Churning adds tiny air bubbles, which makes the ice cream soft and smooth instead of hard like an ice block.",
+      "script_de": "Zur Herstellung von Eis werden Milch, Sahne und Zucker vermischt und leicht erhitzt. Die Mischung wird abgekühlt, aromatisiert und beim Gefrieren umgerührt. Durch das Umrühren entstehen winzige Luftbläschen, wodurch das Eis weich und geschmeidig wird, statt hart wie ein Eisblock.",
+      "script_it": "Per preparare il gelato, latte, panna e zucchero vengono mescolati insieme e riscaldati delicatamente. La miscela viene raffreddata, aromatizzata e agitata mentre si congela. La zangolatura aggiunge minuscole bolle d'aria, che rendono il gelato morbido e liscio anziché duro come un blocco di ghiaccio.",
+      "script_fr": "Pour faire de la glace, le lait, la crème et le sucre sont mélangés et chauffés doucement. Le mélange est refroidi, aromatisé et baratté pendant qu'il gèle. Le barattage ajoute de minuscules bulles d'air, ce qui rend la crème glacée douce et lisse au lieu d'être dure comme un bloc de glace.",
+      "script_es": "Para hacer helado, se mezclan leche, nata y azúcar y se calientan suavemente. La mezcla se enfría, se le da sabor y se bate mientras se congela. Batir agrega pequeñas burbujas de aire, lo que hace que el helado sea suave y terso en lugar de duro como un bloque de hielo.",
+      "script_hr": "Za izradu sladoleda mlijeko, vrhnje i šećer se pomiješaju i lagano zagriju. Smjesa se ohladi, aromatizira i miješa dok se smrzava. Mućkanjem se dodaju sitni mjehurići zraka, što sladoled čini mekim i glatkim umjesto tvrdim poput bloka leda.",
+      "script_cs": "Při výrobě zmrzliny se mléko, smetana a cukr smíchají a jemně zahřejí. Směs se ochladí, ochucuje a během mrazení stlouká. Vrtání přidává drobné vzduchové bublinky, díky nimž je zmrzlina měkká a hladká místo tvrdé jako ledový blok.",
+      "script_pl": "Aby przygotować lody, mleko, śmietanę i cukier miesza się i delikatnie podgrzewa. Mieszaninę schładza się, aromatyzuje i ubija podczas zamrażania. Ubijanie powoduje dodanie drobnych pęcherzyków powietrza, dzięki czemu lody stają się miękkie i gładkie, a nie twarde jak bryła lodu.",
+      "script_fi": "Jäätelön valmistamiseksi maito, kerma ja sokeri sekoitetaan keskenään ja lämmitetään varovasti. Seos jäähdytetään, maustetaan ja sekoitetaan sen jäätyessä. Sekoittaminen lisää pieniä ilmakuplia, mikä tekee jäätelöstä pehmeän ja sileän jääpalan kaltaisen kovan sijaan.",
+      "script_sk": "Na výrobu zmrzliny sa mlieko, smotana a cukor zmiešajú a jemne zahrejú. Zmes sa ochladí, ochutí a počas mrazenia šľahá. Striedanie pridáva drobné vzduchové bublinky, vďaka čomu je zmrzlina mäkká a hladká namiesto tvrdej ako ľadový blok.",
+      "script_da": "For at lave is blandes mælk, fløde og sukker sammen og opvarmes forsigtigt. Blandingen afkøles, smages til og kærnes, mens den fryser. Kærning tilføjer små luftbobler, som gør isen blød og glat i stedet for hård som en isblok.",
+      "images": [
+        "making.webp",
+        "making_2.webp",
+        "making_3.webp"
+      ]
+    },
+    {
+      "id": "varieties",
+      "script_en": "There are many kinds of ice cream. Some are served in cones or cups, some are layered into sundaes, and some are made with fruit or nuts. Gelato is an Italian style that is denser and smoother, while sorbet contains no milk at all.",
+      "script_de": "Es gibt viele Arten von Eis. Einige werden in Tüten oder Tassen serviert, andere werden zu Eisbechern geschichtet und wieder andere werden mit Früchten oder Nüssen zubereitet. Gelato ist eine italienische Art, die dichter und geschmeidiger ist, während Sorbet überhaupt keine Milch enthält.",
+      "script_it": "Esistono molti tipi di gelato. Alcuni vengono serviti in coni o coppe, altri sono disposti a strati in coppe di gelato e altri sono fatti con frutta o noci. Il gelato è uno stile italiano più denso e morbido, mentre il sorbetto non contiene alcun latte.",
+      "script_fr": "Il existe de nombreuses sortes de glaces. Certains sont servis dans des cornets ou des tasses, certains sont superposés dans des coupes glacées et certains sont préparés avec des fruits ou des noix. La glace est un style italien plus dense et plus onctueux, tandis que le sorbet ne contient aucun lait.",
+      "script_es": "Hay muchos tipos de helado. Algunos se sirven en conos o tazas, otros se colocan en capas en helados y otros se preparan con frutas o nueces. El helado es un estilo italiano más denso y suave, mientras que el sorbete no contiene leche.",
+      "script_hr": "Postoji mnogo vrsta sladoleda. Neki se poslužuju u kornetima ili šalicama, neki se slažu u sladoledne kolače, a neki se prave od voća ili orašastih plodova. Gelato je talijanski stil koji je gušći i mekši, dok sorbet uopće ne sadrži mlijeko.",
+      "script_cs": "Existuje mnoho druhů zmrzliny. Některé se podávají v kornoutech nebo šálcích, některé se vrství do pohárů a některé se připravují s ovocem nebo ořechy. Gelato je italský styl, který je hutnější a hladší, zatímco sorbet neobsahuje vůbec žádné mléko.",
+      "script_pl": "Istnieje wiele rodzajów lodów. Niektóre podaje się w rożkach lub filiżankach, inne układa się w lody, a jeszcze inne przyrządza się z owoców lub orzechów. Gelato to włoski styl, który jest gęstszy i gładszy, a sorbet w ogóle nie zawiera mleka.",
+      "script_fi": "Jäätelöä on monenlaista. Jotkut tarjoillaan kartioissa tai kupeissa, jotkut kerrostetaan aurinkolehdiksi ja jotkut on valmistettu hedelmistä tai pähkinöistä. Gelato on italialainen tyyli, joka on tiheämpää ja pehmeämpää, kun taas sorbetti ei sisällä maitoa ollenkaan.",
+      "script_sk": "Existuje veľa druhov zmrzliny. Niektoré sa podávajú v kornútkach alebo pohároch, niektoré sa vrstvia do pohárov a niektoré sa pripravujú s ovocím alebo orechmi. Gelato je taliansky štýl, ktorý je hutnejší a hladší, zatiaľ čo sorbet neobsahuje vôbec žiadne mlieko.",
+      "script_da": "Der findes mange slags is. Nogle serveres i kogler eller kopper, nogle er lagdelt i sundaes, og nogle er lavet med frugt eller nødder. Gelato er en italiensk stil, der er tættere og glattere, mens sorbet slet ikke indeholder mælk.",
+      "images": [
+        "varieties.webp",
+        "varieties_2.webp",
+        "varieties_3.webp"
+      ]
+    },
+    {
+      "id": "life_today",
+      "script_en": "Today ice cream is a favourite treat in every part of the world. People enjoy it on hot summer days, at birthdays, and on family outings. It is a food to savour slowly and share with friends.",
+      "script_de": "Heute ist Eis in allen Teilen der Welt ein beliebter Leckerbissen. Man genießt es an heißen Sommertagen, an Geburtstagen und bei Familienausflügen. Es ist ein Essen, das man langsam genießen und mit Freunden teilen kann.",
+      "script_it": "Oggi il gelato è una delizia preferita in ogni parte del mondo. Le persone lo apprezzano nelle calde giornate estive, ai compleanni e durante le gite in famiglia. È un alimento da assaporare lentamente e condividere con gli amici.",
+      "script_fr": "Aujourd’hui, la crème glacée est un délice apprécié partout dans le monde. Les gens l’apprécient lors des chaudes journées d’été, lors des anniversaires et lors des sorties en famille. C'est un aliment à savourer lentement et à partager entre amis.",
+      "script_es": "Hoy en día, el helado es una delicia favorita en todas partes del mundo. La gente lo disfruta en los calurosos días de verano, en los cumpleaños y en las salidas familiares. Es un alimento para saborear lentamente y compartir con amigos.",
+      "script_hr": "Danas je sladoled omiljena poslastica u svakom dijelu svijeta. Ljudi uživaju u vrućim ljetnim danima, na rođendanima i obiteljskim izletima. To je hrana koju polako kušate i dijelite s prijateljima.",
+      "script_cs": "Dnes je zmrzlina oblíbenou pochoutkou ve všech částech světa. Lidé si to užívají v horkých letních dnech, při narozeninách a na rodinných výletech. Je to jídlo, které si pomalu vychutnávat a sdílet s přáteli.",
+      "script_pl": "Dziś lody to ulubiony przysmak w każdej części świata. Ludzie cieszą się nim w gorące letnie dni, podczas urodzin i rodzinnych wycieczek. Jest to potrawa, którą należy delektować się powoli i dzielić się nią z przyjaciółmi.",
+      "script_fi": "Nykyään jäätelö on suosikkiherkku kaikkialla maailmassa. Ihmiset nauttivat siitä kuumina kesäpäivinä, syntymäpäivinä ja perheen retkillä. Se on ruoka, jota nautitaan hitaasti ja jaetaan ystävien kanssa.",
+      "script_sk": "Dnes je zmrzlina obľúbenou pochúťkou vo všetkých častiach sveta. Ľudia si ho užívajú v horúcich letných dňoch, na narodeniny a na rodinných výletoch. Je to jedlo, ktoré si pomaly vychutnávate a zdieľate s priateľmi.",
+      "script_da": "I dag er is en yndet godbid i alle dele af verden. Folk nyder det på varme sommerdage, til fødselsdage og på familieudflugter. Det er en mad at smage langsomt og dele med venner.",
+      "images": [
+        "life_today.webp",
+        "life_today_2.webp",
+        "life_today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "frozen",
+      "correct": "frozen",
+      "question_en": "What kind of dessert is ice cream?",
+      "question_de": "Was für ein Dessert ist Eis?",
+      "question_it": "Che tipo di dessert è il gelato?",
+      "question_fr": "Quel genre de dessert est la glace ?",
+      "question_es": "¿Qué tipo de postre es el helado?",
+      "question_hr": "Kakva je vrsta deserta sladoled?",
+      "question_cs": "Jaký druh dezertu je zmrzlina?",
+      "question_pl": "Jakim deserem są lody?",
+      "question_fi": "Millainen jälkiruoka on jäätelö?",
+      "question_sk": "Aký druh dezertu je zmrzlina?",
+      "question_da": "Hvilken slags dessert er is?",
+      "options": [
+        {
+          "id": "frozen",
+          "label_en": "A frozen dessert",
+          "label_de": "Ein gefrorenes Dessert",
+          "label_it": "Un dessert ghiacciato",
+          "label_fr": "Un dessert glacé",
+          "label_es": "un postre helado",
+          "label_hr": "Smrznuti desert",
+          "label_cs": "Mražený dezert",
+          "label_pl": "Mrożony deser",
+          "label_fi": "Pakastettu jälkiruoka",
+          "label_sk": "Mrazený dezert",
+          "label_da": "En frossen dessert"
+        },
+        {
+          "id": "baked",
+          "label_en": "A baked bread",
+          "label_de": "Ein gebackenes Brot",
+          "label_it": "Un pane cotto",
+          "label_fr": "Un pain cuit",
+          "label_es": "un pan horneado",
+          "label_hr": "Pečeni kruh",
+          "label_cs": "Pečený chléb",
+          "label_pl": "Upieczony chleb",
+          "label_fi": "Paistettu leipä",
+          "label_sk": "Upečený chlieb",
+          "label_da": "Et bagt brød"
+        },
+        {
+          "id": "soup",
+          "label_en": "A hot soup",
+          "label_de": "Eine heiße Suppe",
+          "label_it": "Una zuppa calda",
+          "label_fr": "Une soupe chaude",
+          "label_es": "una sopa caliente",
+          "label_hr": "Vruća juha",
+          "label_cs": "Horká polévka",
+          "label_pl": "Gorąca zupa",
+          "label_fi": "Kuuma keitto",
+          "label_sk": "Horúca polievka",
+          "label_da": "En varm suppe"
+        }
+      ]
+    },
+    {
+      "id": "ingredients",
+      "correct": "milk",
+      "question_en": "Which ingredients are used to make ice cream?",
+      "question_de": "Aus welchen Zutaten wird Eis hergestellt?",
+      "question_it": "Quali ingredienti vengono utilizzati per fare il gelato?",
+      "question_fr": "Quels ingrédients sont utilisés pour faire de la glace ?",
+      "question_es": "¿Qué ingredientes se utilizan para hacer helado?",
+      "question_hr": "Koji se sastojci koriste za izradu sladoleda?",
+      "question_cs": "Jaké suroviny se používají k výrobě zmrzliny?",
+      "question_pl": "Jakich składników używa się do produkcji lodów?",
+      "question_fi": "Mitä ainesosia jäätelön valmistukseen käytetään?",
+      "question_sk": "Aké suroviny sa používajú na výrobu zmrzliny?",
+      "question_da": "Hvilke ingredienser bruges til at lave is?",
+      "options": [
+        {
+          "id": "milk",
+          "label_en": "Milk, cream and sugar",
+          "label_de": "Milch, Sahne und Zucker",
+          "label_it": "Latte, panna e zucchero",
+          "label_fr": "Lait, crème et sucre",
+          "label_es": "Leche, nata y azúcar",
+          "label_hr": "Mlijeko, vrhnje i šećer",
+          "label_cs": "Mléko, smetana a cukr",
+          "label_pl": "Mleko, śmietana i cukier",
+          "label_fi": "Maito, kerma ja sokeri",
+          "label_sk": "Mlieko, smotana a cukor",
+          "label_da": "Mælk, fløde og sukker"
+        },
+        {
+          "id": "flour",
+          "label_en": "Flour and yeast",
+          "label_de": "Mehl und Hefe",
+          "label_it": "Farina e lievito",
+          "label_fr": "Farine et levure",
+          "label_es": "harina y levadura",
+          "label_hr": "Brašno i kvasac",
+          "label_cs": "Mouka a droždí",
+          "label_pl": "Mąka i drożdże",
+          "label_fi": "Jauhot ja hiiva",
+          "label_sk": "Múka a droždie",
+          "label_da": "Mel og gær"
+        },
+        {
+          "id": "rice",
+          "label_en": "Rice and beans",
+          "label_de": "Reis und Bohnen",
+          "label_it": "Riso e fagioli",
+          "label_fr": "Riz et haricots",
+          "label_es": "arroz y frijoles",
+          "label_hr": "Riža i grah",
+          "label_cs": "Rýže a fazole",
+          "label_pl": "Ryż i fasola",
+          "label_fi": "Riisi ja pavut",
+          "label_sk": "Ryža a fazuľa",
+          "label_da": "Ris og bønner"
+        }
+      ]
+    },
+    {
+      "id": "gelato",
+      "correct": "italy",
+      "question_en": "Which country is gelato associated with?",
+      "question_de": "Mit welchem ​​Land wird Gelato in Verbindung gebracht?",
+      "question_it": "A quale paese è associato il gelato?",
+      "question_fr": "À quel pays la glace est-elle associée ?",
+      "question_es": "¿Con qué país está asociado el helado?",
+      "question_hr": "Uz koju se zemlju povezuje gelato?",
+      "question_cs": "Se kterou zemí je gelato spojeno?",
+      "question_pl": "Z jakim krajem kojarzone są lody?",
+      "question_fi": "Mihin maahan gelato liittyy?",
+      "question_sk": "S ktorou krajinou sa spája gelato?",
+      "question_da": "Hvilket land er gelato forbundet med?",
+      "options": [
+        {
+          "id": "italy",
+          "label_en": "Italy",
+          "label_de": "Italien",
+          "label_it": "Italia",
+          "label_fr": "Italie",
+          "label_es": "Italia",
+          "label_hr": "Italija",
+          "label_cs": "Itálie",
+          "label_pl": "Włochy",
+          "label_fi": "Italia",
+          "label_sk": "Taliansko",
+          "label_da": "Italien"
+        },
+        {
+          "id": "norway",
+          "label_en": "Norway",
+          "label_de": "Norwegen",
+          "label_it": "Norvegia",
+          "label_fr": "Norvège",
+          "label_es": "Noruega",
+          "label_hr": "Norveška",
+          "label_cs": "Norsko",
+          "label_pl": "Norwegia",
+          "label_fi": "Norja",
+          "label_sk": "Nórsko",
+          "label_da": "Norge"
+        },
+        {
+          "id": "india",
+          "label_en": "India",
+          "label_de": "Indien",
+          "label_it": "India",
+          "label_fr": "Inde",
+          "label_es": "India",
+          "label_hr": "Indija",
+          "label_cs": "Indie",
+          "label_pl": "Indie",
+          "label_fi": "Intia",
+          "label_sk": "India",
+          "label_da": "Indien"
+        }
+      ]
+    }
+  ]
+}
