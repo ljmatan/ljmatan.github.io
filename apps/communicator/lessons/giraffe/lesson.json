@@ -1,0 +1,293 @@
+{
+  "id": "giraffe",
+  "category_id": "animals",
+  "symbol_id": "giraffe",
+  "thumbnail": "giraffe_thumb.webp",
+  "title_en": "Giraffes",
+  "title_de": "Giraffen",
+  "title_it": "Giraffe",
+  "title_fr": "Girafes",
+  "title_es": "jirafas",
+  "title_hr": "Žirafe",
+  "title_cs": "Žirafy",
+  "title_pl": "Żyrafy",
+  "title_fi": "kirahvit",
+  "title_sk": "Žirafy",
+  "title_da": "Giraffer",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about giraffes. Giraffes are the tallest animals on land. With their long necks, patterned coats, and gentle eyes, they are one of the most recognisable animals in the world.",
+      "script_de": "Heute lernen wir etwas über Giraffen. Giraffen sind die größten Tiere an Land. Mit ihrem langen Hals, dem gemusterten Fell und den sanften Augen gehören sie zu den Tieren mit dem höchsten Wiedererkennungswert auf der Welt.",
+      "script_it": "Oggi impareremo a conoscere le giraffe. Le giraffe sono gli animali più alti sulla terra. Con il loro collo lungo, il mantello fantasia e gli occhi gentili, sono uno degli animali più riconoscibili al mondo.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur les girafes. Les girafes sont les animaux les plus grands sur terre. Avec son long cou, son pelage à motifs et ses yeux doux, il est l'un des animaux les plus reconnaissables au monde.",
+      "script_es": "Hoy vamos a aprender sobre las jirafas. Las jirafas son los animales terrestres más altos. Con sus cuellos largos, pelajes estampados y ojos tiernos, son uno de los animales más reconocibles del mundo.",
+      "script_hr": "Danas ćemo učiti o žirafama. Žirafe su najviše životinje na kopnu. Sa svojim dugim vratom, šarenim dlakama i blagim očima, jedna su od najprepoznatljivijih životinja na svijetu.",
+      "script_cs": "Dnes se budeme učit o žirafách. Žirafy jsou nejvyšší zvířata na zemi. S jejich dlouhým krkem, vzorovanou srstí a jemnýma očima jsou jedním z nejznámějších zvířat na světě.",
+      "script_pl": "Dzisiaj będziemy uczyć się o żyrafach. Żyrafy to najwyższe zwierzęta na lądzie. Dzięki długim szyjom, wzorzystej sierści i łagodnym oczom są jednymi z najbardziej rozpoznawalnych zwierząt na świecie.",
+      "script_fi": "Tänään opimme kirahveista. Kirahvit ovat maan korkeimmat eläimet. Pitkän kaulan, kuviollisen turkkinsa ja lempein silmiensä ansiosta ne ovat yksi maailman tunnistetuimmista eläimistä.",
+      "script_sk": "Dnes sa budeme učiť o žirafách. Žirafy sú najvyššie zvieratá na zemi. So svojimi dlhými krkmi, vzorovanými kabátmi a nežnými očami sú jedným z najznámejších zvierat na svete.",
+      "script_da": "I dag skal vi lære om giraffer. Giraffer er de højeste dyr på land. Med deres lange halse, mønstrede frakker og blide øjne er de et af de mest genkendelige dyr i verden.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "habitat",
+      "script_en": "Giraffes live in Africa, on open savannas and in light woodland. They travel in loose groups and spend much of the day eating leaves from tall trees, especially acacia. Their height lets them reach food that other animals cannot.",
+      "script_de": "Giraffen leben in Afrika, in offenen Savannen und in lichten Wäldern. Sie reisen in losen Gruppen und verbringen einen Großteil des Tages damit, Blätter von hohen Bäumen, insbesondere Akazien, zu fressen. Aufgrund ihrer Größe erreichen sie Nahrung, die andere Tiere nicht erreichen können.",
+      "script_it": "Le giraffe vivono in Africa, nelle savane aperte e nei boschi radi. Viaggiano in gruppi sciolti e trascorrono gran parte della giornata mangiando foglie di alberi ad alto fusto, soprattutto di acacia. La loro altezza consente loro di raggiungere il cibo che altri animali non possono raggiungere.",
+      "script_fr": "Les girafes vivent en Afrique, dans les savanes ouvertes et dans les forêts claires. Ils voyagent en groupes lâches et passent une grande partie de la journée à manger les feuilles des grands arbres, notamment les acacias. Leur hauteur leur permet d’atteindre de la nourriture que les autres animaux ne peuvent pas atteindre.",
+      "script_es": "Las jirafas viven en África, en sabanas abiertas y en bosques claros. Viajan en grupos sueltos y pasan gran parte del día comiendo hojas de árboles altos, especialmente de acacia. Su altura les permite alcanzar alimentos que otros animales no pueden.",
+      "script_hr": "Žirafe žive u Africi, na otvorenim savanama iu svijetlim šumama. Putuju u opuštenim skupinama i veći dio dana provode jedući lišće s visokog drveća, osobito bagrema. Njihova visina im omogućuje da dohvate hranu koju druge životinje ne mogu.",
+      "script_cs": "Žirafy žijí v Africe, na otevřených savanách a ve světlých lesích. Cestují ve volných skupinách a většinu dne tráví pojídáním listů z vysokých stromů, zejména akátu. Jejich výška jim umožňuje dosáhnout potravy, kterou jiná zvířata nemohou.",
+      "script_pl": "Żyrafy żyją w Afryce, na otwartych sawannach i w jasnych lasach. Podróżują w luźnych grupach i spędzają większość dnia na jedzeniu liści z wysokich drzew, zwłaszcza akacji. Ich wysokość pozwala im dotrzeć do pożywienia, którego inne zwierzęta nie mogą.",
+      "script_fi": "Kirahvit elävät Afrikassa, avoimilla savanneilla ja vaaleissa metsissä. He matkustavat löyhissä ryhmissä ja viettävät suuren osan päivästä syöden lehtiä korkeista puista, erityisesti akaasiasta. Niiden korkeus antaa heille mahdollisuuden saavuttaa ruokaa, jota muut eläimet eivät pysty.",
+      "script_sk": "Žirafy žijú v Afrike, na otvorených savanách a vo svetlých lesoch. Cestujú vo voľných skupinách a väčšinu dňa trávia jedením listov vysokých stromov, najmä akácie. Ich výška im umožňuje dosiahnuť jedlo, ktoré iné zvieratá nedokážu.",
+      "script_da": "Giraffer lever i Afrika, på åbne savanner og i lys skov. De rejser i løse grupper og bruger meget af dagen på at spise blade fra høje træer, især akacie. Deres højde lader dem nå mad, som andre dyr ikke kan.",
+      "images": [
+        "habitat.webp",
+        "habitat_2.webp",
+        "habitat_3.webp"
+      ]
+    },
+    {
+      "id": "body",
+      "script_en": "A giraffe's neck can be two metres long, yet it has the same number of neck bones as you do. Its long tongue can pull leaves from thorny branches, and the small horns on its head are called ossicones. Every giraffe's spot pattern is different, like a fingerprint.",
+      "script_de": "Der Hals einer Giraffe kann bis zu zwei Meter lang sein, hat aber genauso viele Halsknochen wie wir. Seine lange Zunge kann Blätter aus dornigen Zweigen ziehen und die kleinen Hörner auf seinem Kopf werden Ossikonen genannt. Das Fleckenmuster jeder Giraffe ist anders, wie ein Fingerabdruck.",
+      "script_it": "Il collo di una giraffa può essere lungo due metri, ma ha lo stesso numero di ossa del tuo collo. La sua lunga lingua può staccare le foglie dai rami spinosi e le piccole corna sulla sua testa sono chiamate ossiconi. Il disegno delle macchie di ogni giraffa è diverso, come un'impronta digitale.",
+      "script_fr": "Le cou d'une girafe peut mesurer deux mètres de long, mais elle possède le même nombre d'os du cou que vous. Sa longue langue peut arracher les feuilles des branches épineuses et les petites cornes sur sa tête sont appelées ossicones. Le motif des taches de chaque girafe est différent, comme une empreinte digitale.",
+      "script_es": "El cuello de una jirafa puede medir dos metros de largo, pero tiene el mismo número de huesos que tú. Su larga lengua puede arrancar hojas de ramas espinosas y los pequeños cuernos de su cabeza se llaman osicones. El patrón de manchas de cada jirafa es diferente, como una huella digital.",
+      "script_hr": "Žirafin vrat može biti dugačak dva metra, a ipak ima isti broj vratnih kostiju kao i vi. Njegov dugi jezik može čupati lišće s trnovitih grana, a mali rogovi na glavi zovu se ossicones. Uzorak pjega svake žirafe je drugačiji, poput otiska prsta.",
+      "script_cs": "Krk žirafy může být dva metry dlouhý, přesto má stejný počet krčních kostí jako vy. Jeho dlouhý jazyk dokáže tahat listy z trnitých větví a malé rohy na hlavě se nazývají ossicones. Bodový vzor každé žirafy je jiný, jako otisk prstu.",
+      "script_pl": "Szyja żyrafy może mieć dwa metry długości, ale ma taką samą liczbę kości szyi jak ty. Jego długi język potrafi wyciągać liście z ciernistych gałęzi, a małe rogi na głowie nazywane są ossikonami. Wzór plamek każdej żyrafy jest inny, jak odcisk palca.",
+      "script_fi": "Kirahvin kaula voi olla kaksi metriä pitkä, mutta siinä on sama määrä kaulaluita kuin sinulla. Sen pitkä kieli voi vetää lehtiä piikkisistä oksista, ja sen päässä olevia pieniä sarvia kutsutaan ossikoneiksi. Jokaisen kirahvin täpläkuvio on erilainen, kuten sormenjälki.",
+      "script_sk": "Krk žirafy môže byť dlhý dva metre, no napriek tomu má rovnaký počet krčných kostí ako vy. Jeho dlhý jazyk dokáže strhávať listy z ostnatých konárov a malé rohy na hlave sa nazývajú ossicones. Bodový vzor každej žirafy je iný, napríklad odtlačok prsta.",
+      "script_da": "En girafs hals kan være to meter lang, men alligevel har den samme antal halsknogler som dig. Dens lange tunge kan trække blade fra tornede grene, og de små horn på hovedet kaldes ossiconer. Hver girafs pletmønster er forskelligt, ligesom et fingeraftryk.",
+      "images": [
+        "body.webp",
+        "body_2.webp",
+        "body_3.webp"
+      ]
+    },
+    {
+      "id": "family",
+      "script_en": "Baby giraffes are called calves. A newborn calf is already almost two metres tall and can stand within an hour. Its mother keeps it close and protects it, while other females in the herd often help watch over the young.",
+      "script_de": "Babygiraffen werden Kälber genannt. Ein neugeborenes Kalb ist bereits fast zwei Meter groß und kann innerhalb einer Stunde stehen. Seine Mutter hält es in der Nähe und beschützt es, während andere Weibchen in der Herde oft dabei helfen, auf die Jungen aufzupassen.",
+      "script_it": "Le giraffe dei cuccioli sono chiamate vitelli. Un vitello appena nato è già alto quasi due metri e può stare in piedi entro un'ora. La madre lo tiene vicino e lo protegge, mentre le altre femmine del branco spesso aiutano a vegliare sui piccoli.",
+      "script_fr": "Les bébés girafes sont appelés veaux. Un veau nouveau-né mesure déjà près de deux mètres et peut se tenir debout en une heure. Sa mère le garde près de lui et le protège, tandis que d'autres femelles du troupeau aident souvent à surveiller les petits.",
+      "script_es": "Las crías de jirafa se llaman crías. Un ternero recién nacido mide ya casi dos metros y puede mantenerse en pie en una hora. Su madre lo mantiene cerca y lo protege, mientras que otras hembras de la manada a menudo ayudan a cuidar a las crías.",
+      "script_hr": "Mladunci žirafe nazivaju se teladi. Novorođeno tele već je visoko gotovo dva metra i može stajati za sat vremena. Majka ga drži blizu i štiti, dok druge ženke u krdu često pomažu u čuvanju mladih.",
+      "script_cs": "Mláďata žiraf se nazývají telata. Novorozené mládě má už skoro dva metry a do hodiny se postaví. Jeho matka ho drží blízko a chrání, zatímco ostatní samice ve stádě často pomáhají hlídat mláďata.",
+      "script_pl": "Młode żyrafy nazywane są cielętami. Nowonarodzone cielę ma już prawie dwa metry wzrostu i może stać w ciągu godziny. Matka trzyma go blisko i chroni, podczas gdy inne samice w stadzie często pomagają opiekować się młodymi.",
+      "script_fi": "Kirahvin poikasia kutsutaan vasikoiksi. Vastasyntynyt vasikka on jo lähes kaksi metriä pitkä ja pystyy seisomaan tunnin sisällä. Sen emo pitää sen lähellä ja suojelee sitä, kun taas lauman muut naaraat auttavat usein valvomaan poikasia.",
+      "script_sk": "Mláďatá žirafy sa nazývajú teľatá. Novonarodené teliatko má už takmer dva metre a do hodiny dokáže stáť. Jeho matka ho drží blízko a chráni, zatiaľ čo ostatné samice v stáde často pomáhajú strážiť mláďatá.",
+      "script_da": "Babygiraffer kaldes kalve. En nyfødt kalv er allerede næsten to meter høj og kan stå inden for en time. Dens mor holder den tæt og beskytter den, mens andre hunner i flokken ofte hjælper med at passe på ungerne.",
+      "images": [
+        "family.webp",
+        "family_2.webp",
+        "family_3.webp"
+      ]
+    },
+    {
+      "id": "life_today",
+      "script_en": "Today giraffes face losing their homes as grasslands are turned into farms. People are working to protect the places where they live. Seeing a herd of giraffes move slowly across the savanna is one of the most beautiful sights in nature.",
+      "script_de": "Heutzutage droht den Giraffen der Verlust ihres Zuhauses, da Grasland in Farmen umgewandelt wird. Die Menschen arbeiten daran, die Orte, an denen sie leben, zu schützen. Eine Herde Giraffen dabei zu beobachten, wie sie sich langsam durch die Savanne bewegt, ist einer der schönsten Anblicke in der Natur.",
+      "script_it": "Oggi le giraffe rischiano di perdere le loro case poiché le praterie vengono trasformate in fattorie. Le persone stanno lavorando per proteggere i luoghi in cui vivono. Vedere un branco di giraffe muoversi lentamente attraverso la savana è uno degli spettacoli più belli della natura.",
+      "script_fr": "Aujourd’hui, les girafes risquent de perdre leur foyer à mesure que les prairies sont transformées en fermes. Les gens travaillent pour protéger les endroits où ils vivent. Voir un troupeau de girafes se déplacer lentement à travers la savane est l'un des plus beaux spectacles de la nature.",
+      "script_es": "Hoy en día, las jirafas se enfrentan a la pérdida de sus hogares a medida que los pastizales se convierten en granjas. La gente está trabajando para proteger los lugares donde viven. Ver una manada de jirafas moverse lentamente por la sabana es uno de los espectáculos más bellos de la naturaleza.",
+      "script_hr": "Danas se žirafe suočavaju s gubitkom svojih domova jer se travnjaci pretvaraju u farme. Ljudi rade na zaštiti mjesta u kojima žive. Vidjeti krdo žirafa kako se polako kreću savanom jedan je od najljepših prizora u prirodi.",
+      "script_cs": "Dnes žirafy čelí ztrátě svých domovů, protože pastviny se mění na farmy. Lidé pracují na ochraně míst, kde žijí. Vidět stádo žiraf pomalu se pohybovat po savaně je jednou z nejkrásnějších památek v přírodě.",
+      "script_pl": "Dziś żyrafom grozi utrata domów, gdy łąki zamieniają się w farmy. Ludzie pracują, aby chronić miejsca, w których żyją. Widok stada żyraf poruszających się powoli po sawannie to jeden z najpiękniejszych widoków w przyrodzie.",
+      "script_fi": "Nykyään kirahvit joutuvat menettämään kotinsa, kun niityt muutetaan maatiloiksi. Ihmiset työskentelevät suojellakseen paikkoja, joissa he asuvat. Kirahvilauma liikkuu hitaasti savannilla on yksi luonnon kauneimmista nähtävyyksistä.",
+      "script_sk": "Dnes žirafy čelia tomu, že prídu o svoje domovy, pretože pasienky sa menia na farmy. Ľudia pracujú na ochrane miest, kde žijú. Vidieť, ako sa stádo žiráf pomaly presúva po savane, je jedným z najkrajších pohľadov v prírode.",
+      "script_da": "I dag risikerer giraffer at miste deres hjem, da græsarealer forvandles til gårde. Folk arbejder på at beskytte de steder, hvor de bor. At se en flok giraffer bevæge sig langsomt hen over savannen er en af ​​de smukkeste seværdigheder i naturen.",
+      "images": [
+        "life_today.webp",
+        "life_today_2.webp",
+        "life_today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "tallest",
+      "correct": "tallest",
+      "question_en": "What makes the giraffe special among land animals?",
+      "question_de": "Was macht die Giraffe unter den Landtieren besonders?",
+      "question_it": "Cosa rende speciale la giraffa tra gli animali terrestri?",
+      "question_fr": "Qu’est-ce qui rend la girafe si spéciale parmi les animaux terrestres ?",
+      "question_es": "¿Qué hace que la jirafa sea especial entre los animales terrestres?",
+      "question_hr": "Po čemu je žirafa posebna među kopnenim životinjama?",
+      "question_cs": "Čím je žirafa mezi suchozemskými zvířaty výjimečná?",
+      "question_pl": "Co wyróżnia żyrafę wśród zwierząt lądowych?",
+      "question_fi": "Mikä tekee kirahvista erityisen maaeläinten joukossa?",
+      "question_sk": "Čím je žirafa výnimočná medzi suchozemskými zvieratami?",
+      "question_da": "Hvad gør giraffen speciel blandt landdyr?",
+      "options": [
+        {
+          "id": "tallest",
+          "label_en": "It is the tallest land animal",
+          "label_de": "Es ist das höchste Landtier",
+          "label_it": "È l'animale terrestre più alto",
+          "label_fr": "C'est le plus grand animal terrestre",
+          "label_es": "Es el animal terrestre más alto.",
+          "label_hr": "To je najviša kopnena životinja",
+          "label_cs": "Je to nejvyšší suchozemské zvíře",
+          "label_pl": "Jest najwyższym zwierzęciem lądowym",
+          "label_fi": "Se on korkein maaeläin",
+          "label_sk": "Je to najvyššie suchozemské zviera",
+          "label_da": "Det er det højeste landdyr"
+        },
+        {
+          "id": "fastest",
+          "label_en": "It is the fastest land animal",
+          "label_de": "Es ist das schnellste Landtier",
+          "label_it": "È l'animale terrestre più veloce",
+          "label_fr": "C'est l'animal terrestre le plus rapide",
+          "label_es": "Es el animal terrestre más rápido.",
+          "label_hr": "To je najbrža kopnena životinja",
+          "label_cs": "Je to nejrychlejší suchozemské zvíře",
+          "label_pl": "Jest najszybszym zwierzęciem lądowym",
+          "label_fi": "Se on nopein maaeläin",
+          "label_sk": "Je to najrýchlejšie suchozemské zviera",
+          "label_da": "Det er det hurtigste landdyr"
+        },
+        {
+          "id": "smallest",
+          "label_en": "It is the smallest land animal",
+          "label_de": "Es ist das kleinste Landtier",
+          "label_it": "È il più piccolo animale terrestre",
+          "label_fr": "C'est le plus petit animal terrestre",
+          "label_es": "Es el animal terrestre más pequeño.",
+          "label_hr": "Najmanja je kopnena životinja",
+          "label_cs": "Je to nejmenší suchozemské zvíře",
+          "label_pl": "To najmniejsze zwierzę lądowe",
+          "label_fi": "Se on pienin maaeläin",
+          "label_sk": "Je to najmenšie suchozemské zviera",
+          "label_da": "Det er det mindste landdyr"
+        }
+      ]
+    },
+    {
+      "id": "home",
+      "correct": "africa",
+      "question_en": "On which continent do giraffes live in the wild?",
+      "question_de": "Auf welchem ​​Kontinent leben Giraffen in freier Wildbahn?",
+      "question_it": "In quale continente vivono le giraffe allo stato brado?",
+      "question_fr": "Sur quel continent vivent les girafes à l'état sauvage ?",
+      "question_es": "¿En qué continente viven las jirafas en estado salvaje?",
+      "question_hr": "Na kojem kontinentu žirafe žive u divljini?",
+      "question_cs": "Na kterém kontinentu žijí žirafy ve volné přírodě?",
+      "question_pl": "Na jakim kontynencie żyrafy żyją na wolności?",
+      "question_fi": "Millä mantereella kirahvit elävät luonnossa?",
+      "question_sk": "Na ktorom kontinente žijú žirafy vo voľnej prírode?",
+      "question_da": "På hvilket kontinent lever giraffer i naturen?",
+      "options": [
+        {
+          "id": "africa",
+          "label_en": "Africa",
+          "label_de": "Afrika",
+          "label_it": "Africa",
+          "label_fr": "Afrique",
+          "label_es": "África",
+          "label_hr": "Afrika",
+          "label_cs": "Afrika",
+          "label_pl": "Afryka",
+          "label_fi": "Afrikka",
+          "label_sk": "Afriky",
+          "label_da": "Afrika"
+        },
+        {
+          "id": "asia",
+          "label_en": "Asia",
+          "label_de": "Asien",
+          "label_it": "Asia",
+          "label_fr": "Asie",
+          "label_es": "Asia",
+          "label_hr": "Azija",
+          "label_cs": "Asie",
+          "label_pl": "Azja",
+          "label_fi": "Aasia",
+          "label_sk": "Ázie",
+          "label_da": "Asien"
+        },
+        {
+          "id": "australia",
+          "label_en": "Australia",
+          "label_de": "Australien",
+          "label_it": "Australia",
+          "label_fr": "Australie",
+          "label_es": "Australia",
+          "label_hr": "Australija",
+          "label_cs": "Austrálie",
+          "label_pl": "Australia",
+          "label_fi": "Australia",
+          "label_sk": "Austrália",
+          "label_da": "Australien"
+        }
+      ]
+    },
+    {
+      "id": "baby",
+      "correct": "calf",
+      "question_en": "What is a baby giraffe called?",
+      "question_de": "Wie heißt ein Giraffenbaby?",
+      "question_it": "Come si chiama un cucciolo di giraffa?",
+      "question_fr": "Comment s’appelle un bébé girafe ?",
+      "question_es": "¿Cómo se llama una jirafa bebé?",
+      "question_hr": "Kako se zove beba žirafa?",
+      "question_cs": "Jak se jmenuje žirafí mládě?",
+      "question_pl": "Jak nazywa się mała żyrafa?",
+      "question_fi": "Mikä on kirahvivauvan nimi?",
+      "question_sk": "Ako sa volá žirafie mláďa?",
+      "question_da": "Hvad hedder en babygiraf?",
+      "options": [
+        {
+          "id": "calf",
+          "label_en": "A calf",
+          "label_de": "Ein Kalb",
+          "label_it": "Un vitello",
+          "label_fr": "Un veau",
+          "label_es": "un ternero",
+          "label_hr": "tele",
+          "label_cs": "Tele",
+          "label_pl": "Cielę",
+          "label_fi": "Vasikka",
+          "label_sk": "Telíčko",
+          "label_da": "En kalv"
+        },
+        {
+          "id": "cub",
+          "label_en": "A cub",
+          "label_de": "Ein Junges",
+          "label_it": "Un cucciolo",
+          "label_fr": "Un petit",
+          "label_es": "un cachorro",
+          "label_hr": "Mladunče",
+          "label_cs": "mládě",
+          "label_pl": "Młode",
+          "label_fi": "Pentu",
+          "label_sk": "Mláďa",
+          "label_da": "En unge"
+        },
+        {
+          "id": "chick",
+          "label_en": "A chick",
+          "label_de": "Ein Küken",
+          "label_it": "Un pulcino",
+          "label_fr": "Un poussin",
+          "label_es": "un pollito",
+          "label_hr": "pilić",
+          "label_cs": "Kuřátko",
+          "label_pl": "Laska",
+          "label_fi": "Tyttö",
+          "label_sk": "kuriatko",
+          "label_da": "En kylling"
+        }
+      ]
+    }
+  ]
+}

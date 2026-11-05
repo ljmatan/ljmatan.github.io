@@ -169,6 +169,27 @@
       "title_da": "Ræve"
     },
     {
+      "id": "giraffe",
+      "category_id": "animals",
+      "symbol_id": "giraffe",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/giraffe/giraffe_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/giraffe/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2358152,
+      "version": 1,
+      "title_en": "Giraffes",
+      "title_de": "Giraffen",
+      "title_it": "Giraffe",
+      "title_fr": "Girafes",
+      "title_es": "jirafas",
+      "title_hr": "Žirafe",
+      "title_cs": "Žirafy",
+      "title_pl": "Żyrafy",
+      "title_fi": "kirahvit",
+      "title_sk": "Žirafy",
+      "title_da": "Giraffer"
+    },
+    {
       "id": "horse",
       "category_id": "animals",
       "symbol_id": "horse",
