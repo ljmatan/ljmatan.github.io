@@ -1,0 +1,293 @@
+{
+  "id": "tomato",
+  "category_id": "food",
+  "symbol_id": "tomato",
+  "thumbnail": "tomato_thumb.webp",
+  "title_en": "Tomatoes",
+  "title_de": "Tomaten",
+  "title_it": "Pomodori",
+  "title_fr": "Tomates",
+  "title_es": "tomates",
+  "title_hr": "rajčice",
+  "title_cs": "Rajčata",
+  "title_pl": "Pomidory",
+  "title_fi": "Tomaatit",
+  "title_sk": "Paradajky",
+  "title_da": "Tomater",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about tomatoes. Tomatoes are bright red, juicy fruits that people often use like vegetables. They are used in salads, sauces, and sandwiches all over the world.",
+      "script_de": "Heute lernen wir etwas über Tomaten. Tomaten sind leuchtend rote, saftige Früchte, die oft wie Gemüse verwendet werden. Sie werden auf der ganzen Welt in Salaten, Soßen und Sandwiches verwendet.",
+      "script_it": "Oggi parleremo dei pomodori. I pomodori sono frutti rosso vivo e succosi che le persone spesso usano come verdure. Sono utilizzati in insalate, salse e panini in tutto il mondo.",
+      "script_fr": "Aujourd'hui, nous allons découvrir les tomates. Les tomates sont des fruits rouge vif et juteux que les gens utilisent souvent comme légumes. Ils sont utilisés dans les salades, les sauces et les sandwichs partout dans le monde.",
+      "script_es": "Hoy vamos a aprender sobre los tomates. Los tomates son frutas jugosas y de color rojo brillante que la gente suele utilizar como verduras. Se utilizan en ensaladas, salsas y sándwiches en todo el mundo.",
+      "script_hr": "Danas ćemo učiti o rajčicama. Rajčice su svijetlocrveni, sočni plodovi koje ljudi često koriste kao povrće. Koriste se u salatama, umacima i sendvičima diljem svijeta.",
+      "script_cs": "Dnes se budeme učit o rajčatech. Rajčata jsou jasně červené, šťavnaté ovoce, které lidé často používají jako zeleninu. Používají se do salátů, omáček a sendvičů po celém světě.",
+      "script_pl": "Dzisiaj będziemy uczyć się o pomidorach. Pomidory to jaskrawoczerwone, soczyste owoce, które ludzie często używają jak warzywa. Wykorzystuje się je do sałatek, sosów i kanapek na całym świecie.",
+      "script_fi": "Tänään opimme tomaateista. Tomaatit ovat kirkkaan punaisia, mehukkaita hedelmiä, joita ihmiset käyttävät usein vihannesten tavoin. Niitä käytetään salaateissa, kastikkeissa ja voileipissä kaikkialla maailmassa.",
+      "script_sk": "Dnes sa dozvieme o paradajkách. Paradajky sú jasne červené, šťavnaté ovocie, ktoré ľudia často používajú ako zeleninu. Používajú sa do šalátov, omáčok a sendvičov po celom svete.",
+      "script_da": "I dag skal vi lære om tomater. Tomater er lyse røde, saftige frugter, som folk ofte bruger som grøntsager. De bruges i salater, saucer og sandwicher over hele verden.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "origin",
+      "script_en": "Tomatoes first grew in South America. Long ago, people in Mexico and Europe began cooking with them, and soon they became popular in many countries. Today tomatoes are grown in gardens and on farms nearly everywhere the weather is warm enough.",
+      "script_de": "Tomaten wurden erstmals in Südamerika angebaut. Vor langer Zeit begannen die Menschen in Mexiko und Europa damit zu kochen, und bald erfreuten sie sich in vielen Ländern großer Beliebtheit. Heutzutage werden Tomaten in Gärten und auf Bauernhöfen fast überall dort angebaut, wo das Wetter warm genug ist.",
+      "script_it": "I pomodori sono cresciuti per la prima volta in Sud America. Molto tempo fa, le persone in Messico e in Europa iniziarono a cucinare con loro, e presto divennero popolari in molti paesi. Oggi i pomodori vengono coltivati ​​negli orti e nelle fattorie quasi ovunque il clima sia abbastanza caldo.",
+      "script_fr": "Les tomates ont poussé pour la première fois en Amérique du Sud. Il y a bien longtemps, les Mexicains et les Européens ont commencé à cuisiner avec eux, et ils sont rapidement devenus populaires dans de nombreux pays. Aujourd’hui, les tomates sont cultivées dans les jardins et les fermes presque partout où le temps est suffisamment chaud.",
+      "script_es": "Los tomates crecieron por primera vez en América del Sur. Hace mucho tiempo, la gente en México y Europa comenzó a cocinar con ellos, y pronto se hicieron populares en muchos países. Hoy en día, los tomates se cultivan en jardines y granjas en casi todos los lugares donde el clima es lo suficientemente cálido.",
+      "script_hr": "Rajčice su prvo rasle u Južnoj Americi. Davno su s njima počeli kuhati ljudi u Meksiku i Europi, a ubrzo su postale popularne u mnogim zemljama. Danas se rajčice uzgajaju u vrtovima i na farmama gotovo posvuda gdje je vrijeme dovoljno toplo.",
+      "script_cs": "Rajčata poprvé rostla v Jižní Americe. Už dávno s nimi začali vařit lidé v Mexiku a Evropě a brzy se staly populárními v mnoha zemích. Dnes se rajčata pěstují v zahradách a na farmách téměř všude, kde je dostatečně teplé počasí.",
+      "script_pl": "Pomidory po raz pierwszy uprawiano w Ameryce Południowej. Dawno temu mieszkańcy Meksyku i Europy zaczęli z nimi gotować i wkrótce stały się popularne w wielu krajach. Obecnie pomidory uprawia się w ogrodach i na farmach niemal wszędzie, gdzie jest wystarczająco ciepło.",
+      "script_fi": "Tomaatit kasvoivat ensin Etelä-Amerikassa. Kauan sitten ihmiset Meksikossa ja Euroopassa alkoivat kokata niillä, ja pian niistä tuli suosittuja monissa maissa. Nykyään tomaatteja kasvatetaan puutarhoissa ja maatiloilla lähes kaikkialla, kun sää on tarpeeksi lämmin.",
+      "script_sk": "Paradajky prvýkrát rástli v Južnej Amerike. Už dávno s nimi začali variť ľudia v Mexiku a Európe a čoskoro sa stali populárnymi v mnohých krajinách. Dnes sa paradajky pestujú v záhradách a na farmách takmer všade, kde je dostatočne teplé počasie.",
+      "script_da": "Tomater voksede først i Sydamerika. For længe siden begyndte folk i Mexico og Europa at lave mad med dem, og snart blev de populære i mange lande. I dag dyrkes tomater i haver og på gårde næsten overalt, hvor vejret er varmt nok.",
+      "images": [
+        "origin.webp",
+        "origin_2.webp",
+        "origin_3.webp"
+      ]
+    },
+    {
+      "id": "growth",
+      "script_en": "Tomato plants grow as vines or bushes with small yellow flowers. The flowers turn into green tomatoes, which slowly become red, orange, or yellow as they ripen. Gardeners often tie the vines to a support so the heavy fruit does not touch the ground.",
+      "script_de": "Tomatenpflanzen wachsen als Ranken oder Büsche mit kleinen gelben Blüten. Die Blüten verwandeln sich in grüne Tomaten, die mit zunehmender Reife langsam rot, orange oder gelb werden. Gärtner binden die Reben oft an eine Stütze, damit die schweren Früchte den Boden nicht berühren.",
+      "script_it": "Le piante di pomodoro crescono come viti o cespugli con piccoli fiori gialli. I fiori si trasformano in pomodori verdi, che diventano lentamente rossi, arancioni o gialli man mano che maturano. I giardinieri spesso legano le viti a un supporto in modo che i frutti pesanti non tocchino il suolo.",
+      "script_fr": "Les plants de tomates poussent sous forme de vignes ou d'arbustes à petites fleurs jaunes. Les fleurs se transforment en tomates vertes, qui deviennent lentement rouges, orange ou jaunes à mesure qu'elles mûrissent. Les jardiniers attachent souvent les vignes à un support afin que les fruits lourds ne touchent pas le sol.",
+      "script_es": "Las plantas de tomate crecen como enredaderas o arbustos con pequeñas flores amarillas. Las flores se convierten en tomates verdes, que lentamente se vuelven rojos, anaranjados o amarillos a medida que maduran. Los jardineros suelen atar las enredaderas a un soporte para que la pesada fruta no toque el suelo.",
+      "script_hr": "Biljke rajčice rastu kao loze ili grmovi s malim žutim cvjetovima. Cvjetovi se pretvaraju u zelene rajčice, koje polako postaju crvene, narančaste ili žute dok sazrijevaju. Vrtlari često vežu vinovu lozu za potporanj tako da teški plodovi ne dodiruju tlo.",
+      "script_cs": "Rostliny rajčat rostou jako liána nebo keře s malými žlutými květy. Květy se promění v zelená rajčata, která se dozráváním pomalu stávají červená, oranžová nebo žlutá. Zahradníci často přivazují révu k podpěře, aby se těžké plody nedotýkaly země.",
+      "script_pl": "Rośliny pomidorów rosną w postaci pnączy lub krzewów z małymi żółtymi kwiatami. Kwiaty zamieniają się w zielone pomidory, które w miarę dojrzewania powoli stają się czerwone, pomarańczowe lub żółte. Ogrodnicy często przywiązują winorośl do podpory, aby ciężkie owoce nie dotykały ziemi.",
+      "script_fi": "Tomaattikasvit kasvavat viiniköynnöksinä tai pensaina, joissa on pieniä keltaisia ​​kukkia. Kukat muuttuvat vihreiksi tomaateiksi, jotka muuttuvat hitaasti punaisiksi, oransseiksi tai keltaisiksi kypsyessään. Puutarhurit sitovat usein viiniköynnökset tukeen, jotta raskaat hedelmät eivät kosketa maata.",
+      "script_sk": "Rastliny paradajok rastú ako vinič alebo kríky s malými žltými kvetmi. Kvety sa menia na zelené paradajky, ktoré sa dozrievaním pomaly stávajú červené, oranžové alebo žlté. Záhradkári často viažu vinič na podperu, aby sa ťažké ovocie nedotýkalo zeme.",
+      "script_da": "Tomatplanter vokser som vinstokke eller buske med små gule blomster. Blomsterne bliver til grønne tomater, som langsomt bliver røde, orange eller gule, efterhånden som de modnes. Gartnere binder ofte vinstokkene til en støtte, så den tunge frugt ikke rører jorden.",
+      "images": [
+        "growth.webp",
+        "growth_2.webp",
+        "growth_3.webp"
+      ]
+    },
+    {
+      "id": "nutrition",
+      "script_en": "Tomatoes contain vitamin C and a red pigment called lycopene. They are also full of water, which makes them refreshing. Ripe tomatoes are soft and sweet, while green tomatoes are firmer and more sour.",
+      "script_de": "Tomaten enthalten Vitamin C und einen roten Farbstoff namens Lycopin. Außerdem sind sie voller Wasser, was sie erfrischend macht. Reife Tomaten sind weich und süß, während grüne Tomaten fester und saurer sind.",
+      "script_it": "I pomodori contengono vitamina C e un pigmento rosso chiamato licopene. Sono anche pieni d'acqua, il che li rende rinfrescanti. I pomodori maturi sono morbidi e dolci, mentre i pomodori verdi sono più sodi e più aspri.",
+      "script_fr": "Les tomates contiennent de la vitamine C et un pigment rouge appelé lycopène. Ils sont également remplis d'eau, ce qui les rend rafraîchissants. Les tomates mûres sont tendres et sucrées, tandis que les tomates vertes sont plus fermes et plus acides.",
+      "script_es": "Los tomates contienen vitamina C y un pigmento rojo llamado licopeno. Además están llenos de agua, lo que los hace refrescantes. Los tomates maduros son suaves y dulces, mientras que los tomates verdes son más firmes y ácidos.",
+      "script_hr": "Rajčice sadrže vitamin C i crveni pigment likopen. Također su pune vode, što ih čini osvježavajućim. Zrele rajčice su mekane i slatke, dok su zelene čvršće i kiselkastije.",
+      "script_cs": "Rajčata obsahují vitamín C a červené barvivo zvané lykopen. Jsou také plné vody, díky čemuž jsou osvěžující. Zralá rajčata jsou měkká a sladká, zatímco zelená rajčata jsou pevnější a kyselejší.",
+      "script_pl": "Pomidory zawierają witaminę C i czerwony barwnik zwany likopenem. Są też pełne wody, co sprawia, że ​​są orzeźwiające. Dojrzałe pomidory są miękkie i słodkie, zielone pomidory są jędrniejsze i bardziej kwaśne.",
+      "script_fi": "Tomaatit sisältävät C-vitamiinia ja punaista pigmenttiä nimeltä lykopeeni. Ne ovat myös täynnä vettä, mikä tekee niistä virkistäviä. Kypsät tomaatit ovat pehmeitä ja makeita, kun taas vihreät tomaatit ovat kiinteämpiä ja happamampia.",
+      "script_sk": "Paradajky obsahujú vitamín C a červený pigment nazývaný lykopén. Sú tiež plné vody, vďaka čomu sú osviežujúce. Zrelé paradajky sú mäkké a sladké, zatiaľ čo zelené paradajky sú pevnejšie a kyslejšie.",
+      "script_da": "Tomater indeholder C-vitamin og et rødt pigment kaldet lycopen. De er også fulde af vand, hvilket gør dem forfriskende. Modne tomater er bløde og søde, mens grønne tomater er fastere og mere syrlige.",
+      "images": [
+        "nutrition.webp",
+        "nutrition_2.webp",
+        "nutrition_3.webp"
+      ]
+    },
+    {
+      "id": "kitchen",
+      "script_en": "In the kitchen, tomatoes become sauces, soups, ketchup, and salads. They are a key ingredient in pizza and pasta dishes. A ripe tomato picked warm from the garden and eaten with a little salt is one of summer's simple pleasures.",
+      "script_de": "In der Küche werden Tomaten zu Saucen, Suppen, Ketchup und Salaten verarbeitet. Sie sind eine wichtige Zutat in Pizza- und Nudelgerichten. Eine reife Tomate, die warm aus dem Garten gepflückt und mit etwas Salz gegessen wird, gehört zu den einfachen Freuden des Sommers.",
+      "script_it": "In cucina i pomodori diventano salse, zuppe, ketchup e insalate. Sono un ingrediente fondamentale nella pizza e nei primi piatti. Un pomodoro maturo raccolto caldo dall'orto e mangiato con un po' di sale è uno dei piaceri semplici dell'estate.",
+      "script_fr": "En cuisine, les tomates deviennent des sauces, des soupes, du ketchup et des salades. Ils sont un ingrédient clé des pizzas et des plats de pâtes. Une tomate mûre cueillie tiède dans le jardin et dégustée avec un peu de sel fait partie des plaisirs simples de l'été.",
+      "script_es": "En la cocina, los tomates se convierten en salsas, sopas, ketchup y ensaladas. Son un ingrediente clave en platos de pizza y pasta. Un tomate maduro, cogido caliente del huerto y comido con un poco de sal, es uno de los placeres sencillos del verano.",
+      "script_hr": "U kuhinji rajčice postaju umaci, juhe, kečap i salate. Ključni su sastojak jela od pizze i tjestenine. Zrela rajčica ubrana topla iz vrta i pojedena s malo soli jedan je od jednostavnih ljetnih užitaka.",
+      "script_cs": "V kuchyni se z rajčat stávají omáčky, polévky, kečupy a saláty. Jsou klíčovou složkou pizzy a těstovin. Zralé rajče natrhané teplé ze zahrádky a snědené s trochou soli patří k jednoduchým letním potěšením.",
+      "script_pl": "W kuchni pomidory stają się sosami, zupami, keczupami i sałatkami. Są kluczowym składnikiem pizzy i dań makaronowych. Dojrzały pomidor zerwany na ciepło z ogrodu i zjedzony z odrobiną soli to jedna z prostych letnich przyjemności.",
+      "script_fi": "Keittiössä tomaateista tulee kastikkeita, keittoja, ketsuppia ja salaatteja. Ne ovat pizza- ja pasta-ruokien avainaine. Puutarhasta lämpimänä poimittu kypsä tomaatti suolalla syötynä on yksi kesän yksinkertaisista nautinnoista.",
+      "script_sk": "V kuchyni sa paradajky stávajú omáčkami, polievkami, kečupmi a šalátmi. Sú kľúčovou zložkou pizze a cestovín. Zrelá paradajka nazbieraná teplá zo záhrady a zjedená s trochou soli patrí k jednoduchým letným pôžitkom.",
+      "script_da": "I køkkenet bliver tomater til saucer, supper, ketchup og salater. De er en nøgleingrediens i pizza- og pastaretter. En moden tomat plukket lun fra haven og spist med lidt salt er en af ​​sommerens simple fornøjelser.",
+      "images": [
+        "kitchen.webp",
+        "kitchen_2.webp",
+        "kitchen_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "fruit",
+      "correct": "fruit",
+      "question_en": "What is a tomato, botanically speaking?",
+      "question_de": "Was ist botanisch gesehen eine Tomate?",
+      "question_it": "Cos’è un pomodoro, botanicamente parlando?",
+      "question_fr": "Qu’est-ce qu’une tomate, botaniquement parlant ?",
+      "question_es": "¿Qué es un tomate botánicamente hablando?",
+      "question_hr": "Što je rajčica, botanički gledano?",
+      "question_cs": "Co je to rajče, botanicky řečeno?",
+      "question_pl": "Czym jest pomidor z botanicznego punktu widzenia?",
+      "question_fi": "Mikä on tomaatti kasvitieteellisesti katsottuna?",
+      "question_sk": "Čo je to paradajka, botanicky povedané?",
+      "question_da": "Hvad er en tomat, botanisk set?",
+      "options": [
+        {
+          "id": "fruit",
+          "label_en": "A fruit",
+          "label_de": "Eine Frucht",
+          "label_it": "Un frutto",
+          "label_fr": "Un fruit",
+          "label_es": "una fruta",
+          "label_hr": "voće",
+          "label_cs": "Ovoce",
+          "label_pl": "Owoc",
+          "label_fi": "Hedelmä",
+          "label_sk": "Ovocie",
+          "label_da": "En frugt"
+        },
+        {
+          "id": "root",
+          "label_en": "A root",
+          "label_de": "Eine Wurzel",
+          "label_it": "Una radice",
+          "label_fr": "Une racine",
+          "label_es": "una raíz",
+          "label_hr": "Korijen",
+          "label_cs": "Kořen",
+          "label_pl": "Korzeń",
+          "label_fi": "Juuri",
+          "label_sk": "Koreň",
+          "label_da": "En rod"
+        },
+        {
+          "id": "grain",
+          "label_en": "A grain",
+          "label_de": "Ein Korn",
+          "label_it": "Un grano",
+          "label_fr": "Un grain",
+          "label_es": "un grano",
+          "label_hr": "Zrno",
+          "label_cs": "Zrnko",
+          "label_pl": "Ziarno",
+          "label_fi": "Vilja",
+          "label_sk": "Zrnko",
+          "label_da": "Et korn"
+        }
+      ]
+    },
+    {
+      "id": "origin",
+      "correct": "south_america",
+      "question_en": "Where did tomatoes first grow?",
+      "question_de": "Wo wuchsen Tomaten zuerst?",
+      "question_it": "Dove sono cresciuti per la prima volta i pomodori?",
+      "question_fr": "Où les tomates ont-elles poussé pour la première fois ?",
+      "question_es": "¿Dónde crecieron los tomates por primera vez?",
+      "question_hr": "Gdje su rajčice prvo rasle?",
+      "question_cs": "Kde rajčata poprvé vyrostla?",
+      "question_pl": "Gdzie po raz pierwszy uprawiano pomidory?",
+      "question_fi": "Missä tomaatit kasvoivat ensimmäisen kerran?",
+      "question_sk": "Kde prvýkrát rástli paradajky?",
+      "question_da": "Hvor voksede tomater først?",
+      "options": [
+        {
+          "id": "south_america",
+          "label_en": "In South America",
+          "label_de": "In Südamerika",
+          "label_it": "Nel Sud America",
+          "label_fr": "En Amérique du Sud",
+          "label_es": "En Sudamérica",
+          "label_hr": "U Južnoj Americi",
+          "label_cs": "V Jižní Americe",
+          "label_pl": "W Ameryce Południowej",
+          "label_fi": "Etelä-Amerikassa",
+          "label_sk": "V Južnej Amerike",
+          "label_da": "I Sydamerika"
+        },
+        {
+          "id": "arctic",
+          "label_en": "In the Arctic",
+          "label_de": "In der Arktis",
+          "label_it": "Nell'Artico",
+          "label_fr": "Dans l'Arctique",
+          "label_es": "en el ártico",
+          "label_hr": "Na Arktiku",
+          "label_cs": "V Arktidě",
+          "label_pl": "W Arktyce",
+          "label_fi": "Arktisella alueella",
+          "label_sk": "V Arktíde",
+          "label_da": "I Arktis"
+        },
+        {
+          "id": "australia",
+          "label_en": "In Australia",
+          "label_de": "In Australien",
+          "label_it": "In Australia",
+          "label_fr": "En Australie",
+          "label_es": "en australia",
+          "label_hr": "U Australiji",
+          "label_cs": "V Austrálii",
+          "label_pl": "W Australii",
+          "label_fi": "Australiassa",
+          "label_sk": "V Austrálii",
+          "label_da": "I Australien"
+        }
+      ]
+    },
+    {
+      "id": "ripe",
+      "correct": "red_soft",
+      "question_en": "How can you tell a tomato is ripe?",
+      "question_de": "Woran erkennt man, dass eine Tomate reif ist?",
+      "question_it": "Come si fa a capire che un pomodoro è maturo?",
+      "question_fr": "Comment savoir qu’une tomate est mûre ?",
+      "question_es": "¿Cómo se puede saber que un tomate está maduro?",
+      "question_hr": "Kako možete znati da je rajčica zrela?",
+      "question_cs": "Jak poznáte, že rajče je zralé?",
+      "question_pl": "Po czym poznać, że pomidor jest dojrzały?",
+      "question_fi": "Mistä tietää, että tomaatti on kypsä?",
+      "question_sk": "Ako zistíte, že paradajka je zrelá?",
+      "question_da": "Hvordan kan du se, at en tomat er moden?",
+      "options": [
+        {
+          "id": "red_soft",
+          "label_en": "It is red and slightly soft",
+          "label_de": "Es ist rot und leicht weich",
+          "label_it": "È rosso e leggermente morbido",
+          "label_fr": "Il est rouge et légèrement mou",
+          "label_es": "Es rojo y ligeramente blando.",
+          "label_hr": "Crven je i blago mekan",
+          "label_cs": "Je červená a lehce měkká",
+          "label_pl": "Jest czerwony i lekko miękki",
+          "label_fi": "Se on punainen ja hieman pehmeä",
+          "label_sk": "Je červená a mierne mäkká",
+          "label_da": "Den er rød og lidt blød"
+        },
+        {
+          "id": "green_hard",
+          "label_en": "It is green and hard",
+          "label_de": "Es ist grün und hart",
+          "label_it": "È verde e duro",
+          "label_fr": "C'est vert et dur",
+          "label_es": "es verde y duro",
+          "label_hr": "Zelen je i tvrd",
+          "label_cs": "Je zelený a tvrdý",
+          "label_pl": "Jest zielony i twardy",
+          "label_fi": "Se on vihreää ja kovaa",
+          "label_sk": "Je zelený a tvrdý",
+          "label_da": "Den er grøn og hård"
+        },
+        {
+          "id": "dry",
+          "label_en": "It is dry and wrinkled",
+          "label_de": "Es ist trocken und faltig",
+          "label_it": "È secco e rugoso",
+          "label_fr": "Il est sec et ridé",
+          "label_es": "esta seco y arrugado",
+          "label_hr": "Suha je i naborana",
+          "label_cs": "Je suchý a pomačkaný",
+          "label_pl": "Jest sucha i pomarszczona",
+          "label_fi": "Se on kuiva ja ryppyinen",
+          "label_sk": "Je suchá a pokrčená",
+          "label_da": "Den er tør og rynket"
+        }
+      ]
+    }
+  ]
+}

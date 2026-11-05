@@ -524,6 +524,27 @@
       "title_fi": "Mansikoita",
       "title_sk": "Jahody",
       "title_da": "Jordbær"
+    },
+    {
+      "id": "tomato",
+      "category_id": "food",
+      "symbol_id": "tomato",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/tomato/tomato_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/tomato/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2187360,
+      "version": 1,
+      "title_en": "Tomatoes",
+      "title_de": "Tomaten",
+      "title_it": "Pomodori",
+      "title_fr": "Tomates",
+      "title_es": "tomates",
+      "title_hr": "rajčice",
+      "title_cs": "Rajčata",
+      "title_pl": "Pomidory",
+      "title_fi": "Tomaatit",
+      "title_sk": "Paradajky",
+      "title_da": "Tomater"
     }
   ]
 }
