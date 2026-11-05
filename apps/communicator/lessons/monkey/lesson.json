@@ -1,0 +1,293 @@
+{
+  "id": "monkey",
+  "category_id": "animals",
+  "symbol_id": "monkey",
+  "thumbnail": "monkey_thumb.webp",
+  "title_en": "Monkeys",
+  "title_de": "Affen",
+  "title_it": "Scimmie",
+  "title_fr": "Singes",
+  "title_es": "monos",
+  "title_hr": "Majmuni",
+  "title_cs": "Opice",
+  "title_pl": "Małpy",
+  "title_fi": "Apinat",
+  "title_sk": "Opice",
+  "title_da": "Aber",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about monkeys. Monkeys are clever, social animals with nimble hands and long tails. They live in many warm parts of the world and are famous for their playful behaviour and their ability to solve problems.",
+      "script_de": "Heute werden wir etwas über Affen lernen. Affen sind kluge, soziale Tiere mit flinken Händen und langen Schwänzen. Sie leben in vielen warmen Teilen der Welt und sind berühmt für ihr spielerisches Verhalten und ihre Fähigkeit, Probleme zu lösen.",
+      "script_it": "Oggi impareremo a conoscere le scimmie. Le scimmie sono animali intelligenti e sociali con mani agili e lunghe code. Vivono in molte parti calde del mondo e sono famosi per il loro comportamento giocoso e la loro capacità di risolvere i problemi.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur les singes. Les singes sont des animaux intelligents et sociaux avec des mains agiles et une longue queue. Ils vivent dans de nombreuses régions chaudes du monde et sont célèbres pour leur comportement ludique et leur capacité à résoudre les problèmes.",
+      "script_es": "Hoy vamos a aprender sobre los monos. Los monos son animales inteligentes y sociales con manos ágiles y colas largas. Viven en muchas partes cálidas del mundo y son famosos por su comportamiento lúdico y su capacidad para resolver problemas.",
+      "script_hr": "Danas ćemo učiti o majmunima. Majmuni su pametne, društvene životinje s okretnim rukama i dugim repovima. Žive u mnogim toplim dijelovima svijeta i poznati su po svom razigranom ponašanju i sposobnosti rješavanja problema.",
+      "script_cs": "Dnes se budeme učit o opicích. Opice jsou chytrá, společenská zvířata s hbitýma rukama a dlouhým ocasem. Žijí v mnoha teplých částech světa a jsou proslulí svým hravým chováním a schopností řešit problémy.",
+      "script_pl": "Dzisiaj będziemy uczyć się o małpach. Małpy to sprytne, społeczne zwierzęta o zwinnych rękach i długich ogonach. Mieszkają w wielu ciepłych częściach świata i słyną ze swojego zabawnego zachowania i umiejętności rozwiązywania problemów.",
+      "script_fi": "Tänään opimme apinoista. Apinat ovat älykkäitä, sosiaalisia eläimiä, joilla on ketterät kädet ja pitkä häntä. He asuvat monissa lämpimissä osissa maailmaa ja ovat kuuluisia leikkisästä käytöksestään ja kyvystään ratkaista ongelmia.",
+      "script_sk": "Dnes sa budeme učiť o opiciach. Opice sú chytré, spoločenské zvieratá so šikovnými rukami a dlhými chvostmi. Žijú v mnohých teplých častiach sveta a sú známe svojim hravým správaním a schopnosťou riešiť problémy.",
+      "script_da": "I dag skal vi lære om aber. Aber er kloge, sociale dyr med kvikke hænder og lange haler. De bor i mange varme dele af verden og er berømte for deres legende adfærd og deres evne til at løse problemer.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "habitat",
+      "script_en": "Most monkeys live in tropical forests, where they spend their lives in the trees. Some also live in savannas and mountains. They move through the canopy by climbing, leaping, and swinging from branch to branch, always staying close to their group.",
+      "script_de": "Die meisten Affen leben in tropischen Wäldern, wo sie ihr Leben in den Bäumen verbringen. Einige leben auch in Savannen und Bergen. Sie bewegen sich durch das Blätterdach, indem sie klettern, springen und sich von Ast zu Ast schwingen, wobei sie immer in der Nähe ihrer Gruppe bleiben.",
+      "script_it": "La maggior parte delle scimmie vive nelle foreste tropicali, dove trascorrono la vita sugli alberi. Alcuni vivono anche nelle savane e nelle montagne. Si muovono attraverso la chioma arrampicandosi, saltando e dondolandosi da un ramo all'altro, rimanendo sempre vicini al loro gruppo.",
+      "script_fr": "La plupart des singes vivent dans les forêts tropicales, où ils passent leur vie dans les arbres. Certains vivent également dans les savanes et les montagnes. Ils se déplacent dans la canopée en grimpant, en sautant et en se balançant de branche en branche, en restant toujours près de leur groupe.",
+      "script_es": "La mayoría de los monos viven en bosques tropicales, donde pasan su vida en los árboles. Algunos también viven en sabanas y montañas. Se mueven a través del dosel trepando, saltando y balanceándose de rama en rama, manteniéndose siempre cerca de su grupo.",
+      "script_hr": "Većina majmuna živi u tropskim šumama, gdje provode život na drveću. Neki također žive u savanama i planinama. Kroz krošnje se kreću penjući se, skačući i ljuljajući se s grane na granu, uvijek držeći se blizu svoje skupine.",
+      "script_cs": "Většina opic žije v tropických pralesích, kde tráví svůj život na stromech. Někteří také žijí v savanách a horách. Pohybují se po baldachýnu šplháním, skákáním a houpáním z větve na větev, přičemž vždy zůstávají blízko své skupiny.",
+      "script_pl": "Większość małp żyje w lasach tropikalnych, gdzie spędzają życie na drzewach. Niektórzy żyją także na sawannach i w górach. Poruszają się po koronach, wspinając się, skacząc i huśtając się z gałęzi na gałąź, zawsze pozostając blisko swojej grupy.",
+      "script_fi": "Suurin osa apinoista elää trooppisissa metsissä, missä ne viettävät elämänsä puissa. Jotkut elävät myös savanneilla ja vuorilla. He liikkuvat katoksen läpi kiipeämällä, hyppimällä ja keinumalla oksasta oksalle pysyen aina lähellä ryhmäänsä.",
+      "script_sk": "Väčšina opíc žije v tropických pralesoch, kde trávia svoj život na stromoch. Niektorí žijú aj v savanách a horách. Pohybujú sa cez baldachýn šplhaním, skákaním a hojdaním sa z vetvy na vetvu, pričom vždy zostávajú blízko svojej skupiny.",
+      "script_da": "De fleste aber lever i tropiske skove, hvor de tilbringer deres liv i træerne. Nogle lever også i savanner og bjerge. De bevæger sig gennem baldakinen ved at klatre, springe og svinge fra gren til gren, mens de altid holder sig tæt på deres gruppe.",
+      "images": [
+        "habitat.webp",
+        "habitat_2.webp",
+        "habitat_3.webp"
+      ]
+    },
+    {
+      "id": "body",
+      "script_en": "A monkey's hands are one of its greatest gifts. Flexible fingers and thumbs let it grip branches, pick fruit, and even use simple tools. Its eyes face forward, which helps it judge distances, and its long tail helps it balance high above the ground.",
+      "script_de": "Die Hände eines Affen sind eines seiner größten Geschenke. Mit seinen flexiblen Fingern und Daumen kann er Äste greifen, Obst pflücken und sogar einfache Werkzeuge verwenden. Seine Augen sind nach vorne gerichtet, was ihm hilft, Entfernungen einzuschätzen, und sein langer Schwanz hilft ihm, hoch über dem Boden zu balancieren.",
+      "script_it": "Le mani di una scimmia sono uno dei suoi doni più grandi. Le dita e i pollici flessibili gli consentono di afferrare rami, raccogliere frutti e persino utilizzare strumenti semplici. I suoi occhi sono rivolti in avanti, il che lo aiuta a valutare le distanze, e la sua lunga coda lo aiuta a rimanere in equilibrio sopra il suolo.",
+      "script_fr": "Les mains d'un singe sont l'un de ses plus beaux cadeaux. Les doigts et les pouces flexibles lui permettent de saisir des branches, de cueillir des fruits et même d'utiliser des outils simples. Ses yeux sont tournés vers l’avant, ce qui l’aide à évaluer les distances, et sa longue queue lui permet de rester en équilibre au-dessus du sol.",
+      "script_es": "Las manos de un mono son uno de sus mayores regalos. Los dedos y pulgares flexibles le permiten agarrar ramas, recoger frutas e incluso utilizar herramientas sencillas. Sus ojos miran hacia adelante, lo que le ayuda a juzgar distancias, y su larga cola le ayuda a mantener el equilibrio a gran altura sobre el suelo.",
+      "script_hr": "Ruke majmuna jedan su od njegovih najvećih darova. Fleksibilni prsti i palčevi omogućuju mu da hvata grane, bere voće, pa čak i koristi jednostavne alate. Oči su mu okrenute prema naprijed, što mu pomaže u procjeni udaljenosti, a dugi mu rep pomaže u održavanju ravnoteže visoko iznad tla.",
+      "script_cs": "Opičí ruce jsou jedním z jejích největších darů. Ohebné prsty a palce umožňují uchopit větve, sbírat ovoce a dokonce používat jednoduché nástroje. Jeho oči směřují dopředu, což mu pomáhá odhadovat vzdálenosti, a jeho dlouhý ocas mu pomáhá udržovat rovnováhu vysoko nad zemí.",
+      "script_pl": "Ręce małpy są jednym z jej największych darów. Elastyczne palce i kciuki pozwalają mu chwytać gałęzie, zbierać owoce, a nawet używać prostych narzędzi. Jego oczy skierowane są do przodu, co pomaga mu oceniać odległość, a długi ogon pomaga mu zachować równowagę wysoko nad ziemią.",
+      "script_fi": "Apinan kädet ovat yksi sen suurimmista lahjoista. Joustavat sormet ja peukalot antavat sen tarttua oksiin, poimia hedelmiä ja jopa käyttää yksinkertaisia ​​työkaluja. Sen silmät osoittavat eteenpäin, mikä auttaa sitä arvioimaan etäisyyksiä, ja sen pitkä häntä tasapainottaa korkealla maanpinnan yläpuolella.",
+      "script_sk": "Opičie ruky sú jedným z jej najväčších darov. Ohybné prsty a palce umožňujú uchopiť konáre, zbierať ovocie a dokonca používať jednoduché nástroje. Jeho oči smerujú dopredu, čo mu pomáha odhadnúť vzdialenosti, a jeho dlhý chvost mu pomáha udržiavať rovnováhu vysoko nad zemou.",
+      "script_da": "En abes hænder er en af ​​dens største gaver. Fleksible fingre og tommelfingre lader den gribe grene, plukke frugt og endda bruge simple værktøjer. Dens øjne vender fremad, hvilket hjælper den med at bedømme afstande, og dens lange hale hjælper den med at balancere højt over jorden.",
+      "images": [
+        "body.webp",
+        "body_2.webp",
+        "body_3.webp"
+      ]
+    },
+    {
+      "id": "family",
+      "script_en": "Baby monkeys are called infants. They cling to their mother's fur from the day they are born and stay close as they grow. Young monkeys learn by watching and playing with others in the group, and they often make lifelong friends.",
+      "script_de": "Babyaffen werden Säuglinge genannt. Sie klammern sich vom Tag ihrer Geburt an an das Fell ihrer Mutter und bleiben ihm auch während des Heranwachsens nahe. Junge Affen lernen, indem sie andere in der Gruppe beobachten und mit ihnen spielen, und schließen oft lebenslange Freundschaften.",
+      "script_it": "Le scimmiette sono chiamate neonati. Si aggrappano al pelo della madre dal giorno in cui nascono e restano vicini mentre crescono. Le giovani scimmie imparano guardando e giocando con gli altri membri del gruppo e spesso diventano amici per tutta la vita.",
+      "script_fr": "Les bébés singes sont appelés des nourrissons. Ils s'accrochent à la fourrure de leur mère dès leur naissance et restent proches à mesure qu'ils grandissent. Les jeunes singes apprennent en regardant et en jouant avec les autres membres du groupe, et ils se font souvent des amis pour la vie.",
+      "script_es": "Los monos bebés se llaman bebés. Se aferran al pelaje de su madre desde el día en que nacen y permanecen cerca a medida que crecen. Los monos jóvenes aprenden observando y jugando con otros miembros del grupo y, a menudo, hacen amigos para toda la vida.",
+      "script_hr": "Mladunci majmuna nazivaju se dojenčad. Drže se za majčino krzno od dana kad se rode i ostaju blizu dok rastu. Mladi majmuni uče gledajući i igrajući se s drugima u skupini, a često sklapaju prijateljstva za cijeli život.",
+      "script_cs": "Opičí mláďata se nazývají nemluvňata. Přilnou k matčině srsti ode dne, kdy se narodí, a zůstávají blízko, jak rostou. Mladé opice se učí sledováním a hraním si s ostatními ve skupině a často se spřátelí na celý život.",
+      "script_pl": "Małe małpy nazywane są niemowlętami. Przylegają do sierści matki od chwili urodzenia i pozostają blisko niej, gdy dorosną. Młode małpy uczą się, obserwując i bawiąc się z innymi w grupie, i często nawiązują przyjaźnie na całe życie.",
+      "script_fi": "Apinoiden vauvaa kutsutaan pikkulapsiksi. Ne tarttuvat äitinsä turkkiin syntymästään lähtien ja pysyvät lähellä kasvaessaan. Nuoret apinat oppivat katsomalla ja leikkimällä muiden ryhmän kanssa, ja he saavat usein elinikäisiä ystäviä.",
+      "script_sk": "Mláďatá opíc sa nazývajú dojčatá. Priľnú k srsti svojej matky odo dňa narodenia a zostávajú blízko, keď rastú. Mladé opice sa učia sledovaním a hraním sa s ostatnými v skupine a často si získajú priateľov na celý život.",
+      "script_da": "Babyaber kaldes spædbørn. De klynger sig til deres mors pels fra den dag, de bliver født og holder sig tæt, mens de vokser. Unge aber lærer ved at se og lege med andre i gruppen, og de får ofte livslange venner.",
+      "images": [
+        "family.webp",
+        "family_2.webp",
+        "family_3.webp"
+      ]
+    },
+    {
+      "id": "life_today",
+      "script_en": "Today many monkeys are threatened by forest loss and the pet trade. They are intelligent animals that need space, trees, and company to thrive. Protecting forests helps monkeys, and it also protects countless other plants and animals that share their home.",
+      "script_de": "Heutzutage sind viele Affen durch Waldverlust und den Handel mit Haustieren bedroht. Sie sind intelligente Tiere, die Platz, Bäume und Gesellschaft brauchen, um zu gedeihen. Der Schutz der Wälder hilft Affen und schützt auch unzählige andere Pflanzen und Tiere, die ihr Zuhause teilen.",
+      "script_it": "Oggi molte scimmie sono minacciate dalla perdita di foreste e dal commercio di animali domestici. Sono animali intelligenti che hanno bisogno di spazio, alberi e compagnia per prosperare. Proteggere le foreste aiuta le scimmie e protegge anche innumerevoli altre piante e animali che condividono la loro casa.",
+      "script_fr": "Aujourd’hui, de nombreux singes sont menacés par la perte des forêts et le commerce des animaux de compagnie. Ce sont des animaux intelligents qui ont besoin d’espace, d’arbres et de compagnie pour s’épanouir. La protection des forêts aide les singes, mais protège également d’innombrables autres plantes et animaux qui partagent leur habitat.",
+      "script_es": "Hoy en día, muchos monos están amenazados por la pérdida de bosques y el comercio de mascotas. Son animales inteligentes que necesitan espacio, árboles y compañía para prosperar. Proteger los bosques ayuda a los monos y también protege a innumerables otras plantas y animales que comparten su hogar.",
+      "script_hr": "Danas su mnogi majmuni ugroženi gubitkom šuma i trgovinom kućnim ljubimcima. One su inteligentne životinje koje trebaju prostor, drveće i društvo da bi napredovale. Zaštita šuma pomaže majmunima, a štiti i bezbroj drugih biljaka i životinja koje dijele njihov dom.",
+      "script_cs": "Dnes je mnoho opic ohroženo ztrátou lesa a obchodem s domácími zvířaty. Jsou to inteligentní zvířata, která potřebují prostor, stromy a společnost, aby se jim dařilo. Ochrana lesů pomáhá opicím a také chrání nespočet dalších rostlin a zvířat, která sdílejí svůj domov.",
+      "script_pl": "Obecnie wiele małp jest zagrożonych utratą lasów i handlem zwierzętami domowymi. To inteligentne zwierzęta, które do prawidłowego rozwoju potrzebują przestrzeni, drzew i towarzystwa. Ochrona lasów pomaga małpom, ale także chroni niezliczone inne rośliny i zwierzęta, które dzielą ich dom.",
+      "script_fi": "Nykyään monia apinoita uhkaavat metsien häviäminen ja lemmikkikauppa. Ne ovat älykkäitä eläimiä, jotka tarvitsevat tilaa, puita ja seuraa menestyäkseen. Metsien suojelu auttaa apinoita, ja se suojelee myös lukemattomia muita kasveja ja eläimiä, jotka jakavat kotinsa.",
+      "script_sk": "Dnes je veľa opíc ohrozených stratou lesa a obchodom s domácimi zvieratami. Sú to inteligentné zvieratá, ktoré potrebujú priestor, stromy a spoločnosť, aby sa im darilo. Ochrana lesov pomáha opiciam a tiež chráni nespočetné množstvo iných rastlín a zvierat, ktoré zdieľajú svoj domov.",
+      "script_da": "I dag er mange aber truet af skovtab og kæledyrshandel. De er intelligente dyr, der har brug for plads, træer og selskab for at trives. Beskyttelse af skove hjælper aber, og det beskytter også utallige andre planter og dyr, der deler deres hjem.",
+      "images": [
+        "life_today.webp",
+        "life_today_2.webp",
+        "life_today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "hands",
+      "correct": "hands",
+      "question_en": "What helps a monkey grip branches and pick fruit?",
+      "question_de": "Was hilft einem Affen, Äste zu greifen und Früchte zu pflücken?",
+      "question_it": "Cosa aiuta una scimmia ad afferrare i rami e a raccogliere i frutti?",
+      "question_fr": "Qu'est-ce qui aide un singe à saisir des branches et à cueillir des fruits ?",
+      "question_es": "¿Qué ayuda a un mono a agarrar ramas y recoger frutas?",
+      "question_hr": "Što pomaže majmunu da se uhvati za grane i ubere voće?",
+      "question_cs": "Co pomáhá opici uchopit větve a sbírat ovoce?",
+      "question_pl": "Co pomaga małpie chwytać gałęzie i zbierać owoce?",
+      "question_fi": "Mikä auttaa apinaa tarttumaan oksiin ja poimimaan hedelmiä?",
+      "question_sk": "Čo pomáha opici uchopiť konáre a zbierať ovocie?",
+      "question_da": "Hvad hjælper en abe med at gribe grene og plukke frugt?",
+      "options": [
+        {
+          "id": "hands",
+          "label_en": "Its nimble hands and thumbs",
+          "label_de": "Seine flinken Hände und Daumen",
+          "label_it": "Le sue mani e i suoi pollici agili",
+          "label_fr": "Ses mains et ses pouces agiles",
+          "label_es": "Sus ágiles manos y pulgares",
+          "label_hr": "Njegove okretne ruke i palčevi",
+          "label_cs": "Jeho hbité ruce a palce",
+          "label_pl": "Jego zwinne dłonie i kciuki",
+          "label_fi": "Sen ketterät kädet ja peukalot",
+          "label_sk": "Jeho šikovné ruky a palce",
+          "label_da": "Dens kvikke hænder og tommelfingre"
+        },
+        {
+          "id": "wings",
+          "label_en": "Its wings",
+          "label_de": "Seine Flügel",
+          "label_it": "Le sue ali",
+          "label_fr": "Ses ailes",
+          "label_es": "sus alas",
+          "label_hr": "Njegova krila",
+          "label_cs": "Jeho křídla",
+          "label_pl": "Jego skrzydła",
+          "label_fi": "Sen siivet",
+          "label_sk": "Jeho krídla",
+          "label_da": "Dens vinger"
+        },
+        {
+          "id": "fins",
+          "label_en": "Its fins",
+          "label_de": "Seine Flossen",
+          "label_it": "Le sue pinne",
+          "label_fr": "Ses nageoires",
+          "label_es": "sus aletas",
+          "label_hr": "Njegove peraje",
+          "label_cs": "Jeho ploutve",
+          "label_pl": "Jego płetwy",
+          "label_fi": "Sen evät",
+          "label_sk": "Jeho plutvy",
+          "label_da": "Dens finner"
+        }
+      ]
+    },
+    {
+      "id": "home",
+      "correct": "forest",
+      "question_en": "Where do most monkeys live?",
+      "question_de": "Wo leben die meisten Affen?",
+      "question_it": "Dove vive la maggior parte delle scimmie?",
+      "question_fr": "Où vivent la plupart des singes ?",
+      "question_es": "¿Dónde viven la mayoría de los monos?",
+      "question_hr": "Gdje živi većina majmuna?",
+      "question_cs": "Kde žije nejvíce opic?",
+      "question_pl": "Gdzie żyje większość małp?",
+      "question_fi": "Missä suurin osa apinoista asuu?",
+      "question_sk": "Kde žije najviac opíc?",
+      "question_da": "Hvor bor de fleste aber?",
+      "options": [
+        {
+          "id": "forest",
+          "label_en": "In tropical forests",
+          "label_de": "In tropischen Wäldern",
+          "label_it": "Nelle foreste tropicali",
+          "label_fr": "Dans les forêts tropicales",
+          "label_es": "En los bosques tropicales",
+          "label_hr": "U tropskim šumama",
+          "label_cs": "V tropických lesích",
+          "label_pl": "W lasach tropikalnych",
+          "label_fi": "Trooppisissa metsissä",
+          "label_sk": "V tropických lesoch",
+          "label_da": "I tropiske skove"
+        },
+        {
+          "id": "ice",
+          "label_en": "On polar ice",
+          "label_de": "Auf Polareis",
+          "label_it": "Sul ghiaccio polare",
+          "label_fr": "Sur la glace polaire",
+          "label_es": "sobre hielo polar",
+          "label_hr": "Na polarnom ledu",
+          "label_cs": "Na polárním ledu",
+          "label_pl": "Na lodzie polarnym",
+          "label_fi": "Napajäällä",
+          "label_sk": "Na polárnom ľade",
+          "label_da": "På polarisen"
+        },
+        {
+          "id": "desert",
+          "label_en": "In dry deserts only",
+          "label_de": "Nur in trockenen Wüsten",
+          "label_it": "Solo nei deserti aridi",
+          "label_fr": "Dans les déserts secs uniquement",
+          "label_es": "Sólo en desiertos secos",
+          "label_hr": "Samo u suhim pustinjama",
+          "label_cs": "Pouze v suchých pouštích",
+          "label_pl": "Tylko na suchych pustyniach",
+          "label_fi": "Vain kuivilla aavikoilla",
+          "label_sk": "Len v suchých púštiach",
+          "label_da": "Kun i tørre ørkener"
+        }
+      ]
+    },
+    {
+      "id": "baby",
+      "correct": "infant",
+      "question_en": "What is a baby monkey called?",
+      "question_de": "Wie heißt ein Affenbaby?",
+      "question_it": "Come si chiama un cucciolo di scimmia?",
+      "question_fr": "Comment s’appelle un bébé singe ?",
+      "question_es": "¿Cómo se llama un mono bebé?",
+      "question_hr": "Kako se zove beba majmuna?",
+      "question_cs": "Jak se jmenuje opičí mládě?",
+      "question_pl": "Jak nazywa się mała małpa?",
+      "question_fi": "Mikä on apinanvauvan nimi?",
+      "question_sk": "Ako sa volá opičie mláďa?",
+      "question_da": "Hvad hedder en babyabe?",
+      "options": [
+        {
+          "id": "infant",
+          "label_en": "An infant",
+          "label_de": "Ein Kleinkind",
+          "label_it": "Un neonato",
+          "label_fr": "Un bébé",
+          "label_es": "un bebe",
+          "label_hr": "Dojenče",
+          "label_cs": "Nemluvně",
+          "label_pl": "Niemowlę",
+          "label_fi": "Vauva",
+          "label_sk": "Nemluvňa",
+          "label_da": "Et spædbarn"
+        },
+        {
+          "id": "calf",
+          "label_en": "A calf",
+          "label_de": "Ein Kalb",
+          "label_it": "Un vitello",
+          "label_fr": "Un veau",
+          "label_es": "un ternero",
+          "label_hr": "tele",
+          "label_cs": "Tele",
+          "label_pl": "Cielę",
+          "label_fi": "Vasikka",
+          "label_sk": "Telíčko",
+          "label_da": "En kalv"
+        },
+        {
+          "id": "foal",
+          "label_en": "A foal",
+          "label_de": "Ein Fohlen",
+          "label_it": "Un puledro",
+          "label_fr": "Un poulain",
+          "label_es": "un potro",
+          "label_hr": "Ždrijebe",
+          "label_cs": "Hříbě",
+          "label_pl": "Źrebię",
+          "label_fi": "Varsa",
+          "label_sk": "Žriebätko",
+          "label_da": "Et føl"
+        }
+      ]
+    }
+  ]
+}

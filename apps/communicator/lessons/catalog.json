@@ -232,6 +232,27 @@
       "title_da": "Løver"
     },
     {
+      "id": "monkey",
+      "category_id": "animals",
+      "symbol_id": "monkey",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/monkey/monkey_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/monkey/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2714086,
+      "version": 1,
+      "title_en": "Monkeys",
+      "title_de": "Affen",
+      "title_it": "Scimmie",
+      "title_fr": "Singes",
+      "title_es": "monos",
+      "title_hr": "Majmuni",
+      "title_cs": "Opice",
+      "title_pl": "Małpy",
+      "title_fi": "Apinat",
+      "title_sk": "Opice",
+      "title_da": "Aber"
+    },
+    {
       "id": "penguin",
       "category_id": "animals",
       "symbol_id": "penguin",
