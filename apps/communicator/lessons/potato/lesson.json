@@ -1,0 +1,293 @@
+{
+  "id": "potato",
+  "category_id": "food",
+  "symbol_id": "potato",
+  "thumbnail": "potato_thumb.webp",
+  "title_en": "Potatoes",
+  "title_de": "Kartoffeln",
+  "title_it": "Patate",
+  "title_fr": "Pommes de terre",
+  "title_es": "Papas",
+  "title_hr": "krumpir",
+  "title_cs": "Brambory",
+  "title_pl": "Ziemniaki",
+  "title_fi": "Perunat",
+  "title_sk": "Zemiaky",
+  "title_da": "Kartofler",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about potatoes. Potatoes are starchy vegetables that grow underground. They are one of the most important foods in the world and can be cooked in more ways than almost any other vegetable.",
+      "script_de": "Heute lernen wir etwas über Kartoffeln. Kartoffeln sind stärkehaltige Gemüsesorten, die unter der Erde wachsen. Sie gehören zu den wichtigsten Nahrungsmitteln der Welt und lassen sich auf mehr Arten zubereiten als fast jedes andere Gemüse.",
+      "script_it": "Oggi parleremo delle patate. Le patate sono verdure amidacee che crescono sottoterra. Sono uno degli alimenti più importanti al mondo e possono essere cucinati in più modi rispetto a quasi qualsiasi altro ortaggio.",
+      "script_fr": "Aujourd'hui, nous allons découvrir les pommes de terre. Les pommes de terre sont des légumes féculents qui poussent sous terre. Ils sont l’un des aliments les plus importants au monde et peuvent être cuisinés de plus de façons que presque n’importe quel autre légume.",
+      "script_es": "Hoy vamos a aprender sobre las patatas. Las patatas son verduras con almidón que crecen bajo tierra. Son uno de los alimentos más importantes del mundo y se pueden cocinar de más formas que casi cualquier otra verdura.",
+      "script_hr": "Danas ćemo učiti o krumpiru. Krumpir je škrobno povrće koje raste ispod zemlje. One su jedna od najvažnijih namirnica na svijetu i mogu se kuhati na više načina nego gotovo bilo koje drugo povrće.",
+      "script_cs": "Dnes se budeme učit o bramborách. Brambory jsou škrobová zelenina, která roste pod zemí. Jsou jednou z nejdůležitějších potravin na světě a lze je vařit na více způsobů než téměř jakákoli jiná zelenina.",
+      "script_pl": "Dziś będziemy uczyć się o ziemniakach. Ziemniaki to warzywa skrobiowe, które rosną pod ziemią. Są jednym z najważniejszych produktów spożywczych na świecie i można je przyrządzać na więcej sposobów niż prawie każde inne warzywo.",
+      "script_fi": "Tänään opimme perunoista. Perunat ovat tärkkelyspitoisia vihanneksia, jotka kasvavat maan alla. Ne ovat yksi maailman tärkeimmistä elintarvikkeista, ja niitä voidaan valmistaa useammilla tavoilla kuin melkein mitä tahansa muuta vihannesta.",
+      "script_sk": "Dnes sa naučíme o zemiakoch. Zemiaky sú škrobová zelenina, ktorá rastie pod zemou. Sú jednou z najdôležitejších potravín na svete a dajú sa variť na viac spôsobov ako takmer akákoľvek iná zelenina.",
+      "script_da": "I dag skal vi lære om kartofler. Kartofler er stivelsesholdige grøntsager, der vokser under jorden. De er en af ​​de vigtigste fødevarer i verden og kan tilberedes på flere måder end næsten enhver anden grøntsag.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "origin",
+      "script_en": "Potatoes first grew in the Andes mountains of South America. People there have farmed them for thousands of years. Sailors later carried potatoes to Europe and other parts of the world, where they became a valuable and filling food.",
+      "script_de": "Kartoffeln wurden erstmals in den Anden Südamerikas angebaut. Die Menschen dort bewirtschaften sie seit Tausenden von Jahren. Später transportierten Seeleute Kartoffeln nach Europa und in andere Teile der Welt, wo sie zu einem wertvollen und sättigenden Nahrungsmittel wurden.",
+      "script_it": "Le patate sono cresciute per la prima volta sulle Ande del Sud America. Le persone lì li coltivano da migliaia di anni. Successivamente i marinai trasportarono le patate in Europa e in altre parti del mondo, dove diventarono un alimento prezioso e saziante.",
+      "script_fr": "Les pommes de terre ont poussé pour la première fois dans les Andes d’Amérique du Sud. Les gens les cultivent depuis des milliers d’années. Les marins transportèrent ensuite des pommes de terre en Europe et dans d’autres parties du monde, où elles devinrent un aliment précieux et nourrissant.",
+      "script_es": "Las patatas crecieron por primera vez en las montañas de los Andes de América del Sur. La gente de allí los ha cultivado durante miles de años. Posteriormente, los marineros llevaron patatas a Europa y otras partes del mundo, donde se convirtieron en un alimento valioso y saciante.",
+      "script_hr": "Krumpir je prvo rastao u planinama Anda u Južnoj Americi. Ljudi su ih tamo uzgajali tisućama godina. Pomorci su kasnije krompir prenijeli u Europu i druge dijelove svijeta, gdje je postao vrijedna i zasitna namirnica.",
+      "script_cs": "Brambory nejprve rostly v Andách v Jižní Americe. Lidé je tam obhospodařovali tisíce let. Námořníci později nosili brambory do Evropy a dalších částí světa, kde se staly cennou a sytou potravinou.",
+      "script_pl": "Ziemniaki po raz pierwszy rosły w Andach w Ameryce Południowej. Tamtejsi ludzie uprawiali je od tysięcy lat. Żeglarze później przewozili ziemniaki do Europy i innych części świata, gdzie stały się wartościowym i sycącym pożywieniem.",
+      "script_fi": "Perunat kasvoivat ensin Etelä-Amerikan Andien vuoristossa. Siellä ihmiset ovat viljellyt niitä tuhansia vuosia. Merimiehet veivät myöhemmin perunoita Eurooppaan ja muualle maailmaan, missä niistä tuli arvokas ja täyttävä ruoka.",
+      "script_sk": "Zemiaky prvýkrát rástli v Andách v Južnej Amerike. Ľudia ich tam pestujú tisíce rokov. Námorníci neskôr nosili zemiaky do Európy a iných častí sveta, kde sa stali cennou a sýtou potravinou.",
+      "script_da": "Kartofler voksede først i Andesbjergene i Sydamerika. Folk der har dyrket dem i tusinder af år. Sømænd bar senere kartofler til Europa og andre dele af verden, hvor de blev en værdifuld og mættende fødevare.",
+      "images": [
+        "origin.webp",
+        "origin_2.webp",
+        "origin_3.webp"
+      ]
+    },
+    {
+      "id": "growth",
+      "script_en": "A potato plant grows green leaves above the ground, but the part we eat is a tuber that forms underground. Farmers plant small seed potatoes in spring and dig up the new crop in autumn. A single plant can produce several potatoes.",
+      "script_de": "Eine Kartoffelpflanze bildet über dem Boden grüne Blätter, aber der Teil, den wir essen, ist eine Knolle, die sich unter der Erde bildet. Landwirte pflanzen im Frühjahr kleine Saatkartoffeln und graben die neue Ernte im Herbst aus. Eine einzelne Pflanze kann mehrere Kartoffeln produzieren.",
+      "script_it": "Una pianta di patate sviluppa foglie verdi sopra il terreno, ma la parte che mangiamo è un tubero che si forma sottoterra. Gli agricoltori piantano piccole patate da semina in primavera e dissotterrano il nuovo raccolto in autunno. Una singola pianta può produrre più patate.",
+      "script_fr": "Un plant de pomme de terre produit des feuilles vertes au-dessus du sol, mais la partie que nous mangeons est un tubercule qui se forme sous terre. Les agriculteurs plantent de petites pommes de terre de semence au printemps et déterrent la nouvelle récolte en automne. Une seule plante peut produire plusieurs pommes de terre.",
+      "script_es": "A una planta de papa le crecen hojas verdes sobre el suelo, pero la parte que comemos es un tubérculo que se forma bajo tierra. Los agricultores plantan patatas de semilla pequeña en primavera y desentierran la nueva cosecha en otoño. Una sola planta puede producir varias patatas.",
+      "script_hr": "Biljka krumpira ima zeleno lišće iznad zemlje, ali dio koji jedemo je gomolj koji se formira ispod zemlje. Poljoprivrednici sade sitni sjemenski krumpir u proljeće i iskopavaju novi usjev u jesen. Jedna biljka može proizvesti nekoliko krumpira.",
+      "script_cs": "Bramboru rostou zelené listy nad zemí, ale část, kterou jíme, je hlíza, která se tvoří pod zemí. Farmáři na jaře sázejí malé sadbové brambory a na podzim vykopávají novou úrodu. Jedna rostlina může produkovat několik brambor.",
+      "script_pl": "Ziemniak wypuszcza zielone liście nad ziemią, ale częścią, którą zjadamy, jest bulwa, która tworzy się pod ziemią. Rolnicy sadzą małe sadzeniaki wiosną i wykopują nowy plon jesienią. Z jednej rośliny można wyhodować kilka ziemniaków.",
+      "script_fi": "Perunakasvi kasvattaa vihreitä lehtiä maan päällä, mutta syömämme osa on mukula, joka muodostuu maan alle. Maanviljelijät kylvävät pieniä siemenperunoita keväällä ja kaivaavat uuden sadon syksyllä. Yksi kasvi voi tuottaa useita perunoita.",
+      "script_sk": "Zemiakovej rastline rastú zelené listy nad zemou, ale časť, ktorú jeme, je hľuza, ktorá sa tvorí pod zemou. Farmári na jar sadia malé sadbové zemiaky a na jeseň vykopávajú novú úrodu. Jedna rastlina môže produkovať niekoľko zemiakov.",
+      "script_da": "En kartoffelplante vokser grønne blade over jorden, men den del, vi spiser, er en knold, der dannes under jorden. Landmænd planter små læggekartofler om foråret og graver den nye afgrøde op om efteråret. En enkelt plante kan producere flere kartofler.",
+      "images": [
+        "growth.webp",
+        "growth_2.webp",
+        "growth_3.webp"
+      ]
+    },
+    {
+      "id": "nutrition",
+      "script_en": "Potatoes give us energy because they contain starch. They also have vitamin C, fibre, and minerals. It is important not to eat green potatoes or the green leaves of the plant, because those parts can make us feel unwell.",
+      "script_de": "Kartoffeln geben uns Energie, weil sie Stärke enthalten. Sie enthalten außerdem Vitamin C, Ballaststoffe und Mineralien. Es ist wichtig, keine grünen Kartoffeln oder die grünen Blätter der Pflanze zu essen, da diese Teile zu Unwohlsein führen können.",
+      "script_it": "Le patate ci danno energia perché contengono amido. Contengono anche vitamina C, fibre e minerali. È importante non mangiare le patate verdi o le foglie verdi della pianta, perché quelle parti possono farci sentire male.",
+      "script_fr": "Les pommes de terre nous donnent de l'énergie car elles contiennent de l'amidon. Ils contiennent également de la vitamine C, des fibres et des minéraux. Il est important de ne pas manger de pommes de terre vertes ou de feuilles vertes de la plante, car ces parties peuvent nous causer des malaises.",
+      "script_es": "Las patatas nos dan energía porque contienen almidón. También tienen vitamina C, fibra y minerales. Es importante no comer patatas verdes ni las hojas verdes de la planta, porque esas partes pueden hacernos sentir mal.",
+      "script_hr": "Krumpir nam daje energiju jer sadrži škrob. Također sadrže vitamin C, vlakna i minerale. Važno je ne jesti zeleni krumpir ili zeleno lišće biljke, jer ti dijelovi mogu uzrokovati da se osjećamo loše.",
+      "script_cs": "Brambory nám dodávají energii, protože obsahují škrob. Obsahují také vitamín C, vlákninu a minerální látky. Je důležité nejíst zelené brambory ani zelené listy rostliny, protože tyto části nám mohou způsobit nevolnost.",
+      "script_pl": "Ziemniaki dają nam energię, ponieważ zawierają skrobię. Zawierają także witaminę C, błonnik i minerały. Ważne jest, aby nie jeść zielonych ziemniaków ani zielonych liści tej rośliny, ponieważ te części mogą powodować złe samopoczucie.",
+      "script_fi": "Perunat antavat meille energiaa, koska ne sisältävät tärkkelystä. Niissä on myös C-vitamiinia, kuitua ja kivennäisaineita. On tärkeää olla syömättä vihreitä perunoita tai kasvin vihreitä lehtiä, koska ne voivat saada meidät huonovointiseksi.",
+      "script_sk": "Zemiaky nám dodávajú energiu, pretože obsahujú škrob. Obsahujú tiež vitamín C, vlákninu a minerály. Je dôležité nejesť zelené zemiaky ani zelené listy rastliny, pretože tieto časti nám môžu spôsobiť nevoľnosť.",
+      "script_da": "Kartofler giver os energi, fordi de indeholder stivelse. De har også C-vitamin, fibre og mineraler. Det er vigtigt ikke at spise grønne kartofler eller plantens grønne blade, for de dele kan få os til at føle os utilpas.",
+      "images": [
+        "nutrition.webp",
+        "nutrition_2.webp",
+        "nutrition_3.webp"
+      ]
+    },
+    {
+      "id": "kitchen",
+      "script_en": "In the kitchen, potatoes are boiled, mashed, roasted, fried, and baked. They can be made into chips, soup, salad, and dumplings. Because they are filling and easy to grow, potatoes have become a comfort food in many countries.",
+      "script_de": "In der Küche werden Kartoffeln gekocht, püriert, geröstet, gebraten und gebacken. Sie können zu Pommes, Suppe, Salat und Knödeln verarbeitet werden. Da sie sättigend und einfach anzubauen sind, sind Kartoffeln in vielen Ländern zu einem Wohlfühlessen geworden.",
+      "script_it": "In cucina le patate vengono bollite, schiacciate, arrostite, fritte e al forno. Possono essere trasformati in patatine, zuppe, insalate e gnocchi. Poiché saziano e sono facili da coltivare, le patate sono diventate un alimento di conforto in molti paesi.",
+      "script_fr": "En cuisine, les pommes de terre sont bouillies, écrasées, rôties, frites et cuites au four. Ils peuvent être transformés en chips, en soupe, en salade et en raviolis. Parce qu’elles sont nourrissantes et faciles à cultiver, les pommes de terre sont devenues un aliment réconfortant dans de nombreux pays.",
+      "script_es": "En la cocina, las patatas se hierven, se trituran, se asan, se fríen y se hornean. Se pueden preparar patatas fritas, sopa, ensalada y albóndigas. Debido a que satisfacen y son fáciles de cultivar, las patatas se han convertido en un alimento reconfortante en muchos países.",
+      "script_hr": "U kuhinji se krumpir kuha, pire, peče, prži i peče. Od njih se mogu napraviti čips, juha, salata i okruglice. Budući da je zasitan i jednostavan za uzgoj, krumpir je postao utješna hrana u mnogim zemljama.",
+      "script_cs": "V kuchyni se brambory vaří, šťouchají, opékají, smaží a pečou. Dají se z nich udělat hranolky, polévka, salát a knedlíky. Protože jsou brambory syté a snadno se pěstují, staly se v mnoha zemích pohodlným jídlem.",
+      "script_pl": "W kuchni ziemniaki gotuje się, puree, piecze, smaży i piecze. Można z nich zrobić chipsy, zupę, sałatkę i kluski. Ponieważ są sycące i łatwe w uprawie, ziemniaki stały się w wielu krajach pożywieniem wygodnym.",
+      "script_fi": "Keittiössä perunat keitetään, muussataan, paahdetaan, paistetaan ja leivotaan. Niistä voidaan valmistaa siruja, keittoa, salaattia ja nyytiä. Koska perunat ovat täyttäviä ja helppoja kasvattaa, niistä on tullut monissa maissa mukava ruoka.",
+      "script_sk": "V kuchyni sa zemiaky varia, roztláčajú, opekajú, smažia a pečú. Dajú sa z nich pripraviť hranolky, polievka, šalát a knedle. Keďže sú zemiaky sýte a ľahko sa pestujú, v mnohých krajinách sa stali pohodlným jedlom.",
+      "script_da": "I køkkenet bliver kartofler kogt, moset, stegt, stegt og bagt. De kan laves til chips, suppe, salat og dumplings. Fordi de er mættende og nemme at dyrke, er kartofler blevet en trøst i mange lande.",
+      "images": [
+        "kitchen.webp",
+        "kitchen_2.webp",
+        "kitchen_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "part",
+      "correct": "tuber",
+      "question_en": "Which part of the potato plant do we eat?",
+      "question_de": "Welchen Teil der Kartoffelpflanze essen wir?",
+      "question_it": "Quale parte della pianta di patate mangiamo?",
+      "question_fr": "Quelle partie du plant de pomme de terre mange-t-on ?",
+      "question_es": "¿Qué parte de la planta de papa comemos?",
+      "question_hr": "Koji dio biljke krumpira jedemo?",
+      "question_cs": "Kterou část bramboru jíme?",
+      "question_pl": "Którą część ziemniaka jemy?",
+      "question_fi": "Mitä perunakasvin osaa syömme?",
+      "question_sk": "Ktorú časť zemiakovej rastliny jeme?",
+      "question_da": "Hvilken del af kartoffelplanten spiser vi?",
+      "options": [
+        {
+          "id": "tuber",
+          "label_en": "The underground tuber",
+          "label_de": "Die unterirdische Knolle",
+          "label_it": "Il tubero sotterraneo",
+          "label_fr": "Le tubercule souterrain",
+          "label_es": "El tubérculo subterráneo",
+          "label_hr": "Podzemni gomolj",
+          "label_cs": "Podzemní hlíza",
+          "label_pl": "Podziemna bulwa",
+          "label_fi": "Maanalainen mukula",
+          "label_sk": "Podzemná hľuza",
+          "label_da": "Den underjordiske knold"
+        },
+        {
+          "id": "leaf",
+          "label_en": "The green leaves",
+          "label_de": "Die grünen Blätter",
+          "label_it": "Le foglie verdi",
+          "label_fr": "Les feuilles vertes",
+          "label_es": "las hojas verdes",
+          "label_hr": "Zeleno lišće",
+          "label_cs": "Zelené listy",
+          "label_pl": "Zielone liście",
+          "label_fi": "Vihreät lehdet",
+          "label_sk": "Zelené listy",
+          "label_da": "De grønne blade"
+        },
+        {
+          "id": "flower",
+          "label_en": "The flowers",
+          "label_de": "Die Blumen",
+          "label_it": "I fiori",
+          "label_fr": "Les fleurs",
+          "label_es": "las flores",
+          "label_hr": "cvijeće",
+          "label_cs": "Květiny",
+          "label_pl": "Kwiaty",
+          "label_fi": "Kukat",
+          "label_sk": "Kvety",
+          "label_da": "Blomsterne"
+        }
+      ]
+    },
+    {
+      "id": "origin",
+      "correct": "andes",
+      "question_en": "Where did potatoes first grow?",
+      "question_de": "Wo wuchsen Kartoffeln zum ersten Mal?",
+      "question_it": "Dove sono cresciute per la prima volta le patate?",
+      "question_fr": "Où ont poussé les pommes de terre pour la première fois ?",
+      "question_es": "¿Dónde crecieron las patatas por primera vez?",
+      "question_hr": "Gdje je prvi put rastao krumpir?",
+      "question_cs": "Kde brambory poprvé vyrostly?",
+      "question_pl": "Gdzie po raz pierwszy wyrosły ziemniaki?",
+      "question_fi": "Missä perunat kasvoivat ensimmäisen kerran?",
+      "question_sk": "Kde prvýkrát rástli zemiaky?",
+      "question_da": "Hvor voksede kartofler først?",
+      "options": [
+        {
+          "id": "andes",
+          "label_en": "In the Andes mountains",
+          "label_de": "In den Anden",
+          "label_it": "Nelle montagne delle Ande",
+          "label_fr": "Dans les montagnes des Andes",
+          "label_es": "en las montañas de los andes",
+          "label_hr": "U planinama Anda",
+          "label_cs": "V Andách",
+          "label_pl": "W Andach",
+          "label_fi": "Andien vuoristossa",
+          "label_sk": "V pohorí Ánd",
+          "label_da": "I Andesbjergene"
+        },
+        {
+          "id": "desert",
+          "label_en": "In the Sahara desert",
+          "label_de": "In der Sahara-Wüste",
+          "label_it": "Nel deserto del Sahara",
+          "label_fr": "Dans le désert du Sahara",
+          "label_es": "En el desierto del Sahara",
+          "label_hr": "U pustinji Sahara",
+          "label_cs": "V saharské poušti",
+          "label_pl": "Na Saharze",
+          "label_fi": "Saharan autiomaassa",
+          "label_sk": "V saharskej púšti",
+          "label_da": "I Sahara-ørkenen"
+        },
+        {
+          "id": "arctic",
+          "label_en": "In the Arctic",
+          "label_de": "In der Arktis",
+          "label_it": "Nell'Artico",
+          "label_fr": "Dans l'Arctique",
+          "label_es": "en el ártico",
+          "label_hr": "Na Arktiku",
+          "label_cs": "V Arktidě",
+          "label_pl": "W Arktyce",
+          "label_fi": "Arktisella alueella",
+          "label_sk": "V Arktíde",
+          "label_da": "I Arktis"
+        }
+      ]
+    },
+    {
+      "id": "safe",
+      "correct": "green",
+      "question_en": "Which part of a potato plant should you not eat?",
+      "question_de": "Welchen Teil einer Kartoffelpflanze sollte man nicht essen?",
+      "question_it": "Quale parte della pianta di patate non dovresti mangiare?",
+      "question_fr": "Quelle partie d’un plant de pomme de terre ne faut-il pas manger ?",
+      "question_es": "¿Qué parte de una planta de papa no debes comer?",
+      "question_hr": "Koji dio biljke krumpira ne smijete jesti?",
+      "question_cs": "Kterou část bramborové rostliny byste neměli jíst?",
+      "question_pl": "Której części ziemniaka nie należy jeść?",
+      "question_fi": "Mitä perunakasvin osaa ei pitäisi syödä?",
+      "question_sk": "Ktorú časť zemiakovej rastliny by ste nemali jesť?",
+      "question_da": "Hvilken del af en kartoffelplante bør du ikke spise?",
+      "options": [
+        {
+          "id": "green",
+          "label_en": "Green potatoes and leaves",
+          "label_de": "Grüne Kartoffeln und Blätter",
+          "label_it": "Patate verdi e foglie",
+          "label_fr": "Pommes de terre vertes et feuilles",
+          "label_es": "Patatas verdes y hojas.",
+          "label_hr": "Zeleni krumpir i lišće",
+          "label_cs": "Zelené brambory a listy",
+          "label_pl": "Zielone ziemniaki i liście",
+          "label_fi": "Vihreät perunat ja lehdet",
+          "label_sk": "Zelené zemiaky a listy",
+          "label_da": "Grønne kartofler og blade"
+        },
+        {
+          "id": "cooked",
+          "label_en": "Cooked potatoes",
+          "label_de": "Gekochte Kartoffeln",
+          "label_it": "Patate cotte",
+          "label_fr": "Pommes de terre cuites",
+          "label_es": "patatas cocidas",
+          "label_hr": "Kuhani krumpir",
+          "label_cs": "Vařené brambory",
+          "label_pl": "Gotowane ziemniaki",
+          "label_fi": "Keitetyt perunat",
+          "label_sk": "Varené zemiaky",
+          "label_da": "Kogte kartofler"
+        },
+        {
+          "id": "peeled",
+          "label_en": "Peeled potatoes",
+          "label_de": "Geschälte Kartoffeln",
+          "label_it": "Patate sbucciate",
+          "label_fr": "Pommes de terre pelées",
+          "label_es": "patatas peladas",
+          "label_hr": "Oguljeni krumpir",
+          "label_cs": "Oloupané brambory",
+          "label_pl": "Obrane ziemniaki",
+          "label_fi": "Kuoritut perunat",
+          "label_sk": "Ošúpané zemiaky",
+          "label_da": "Skrællede kartofler"
+        }
+      ]
+    }
+  ]
+}

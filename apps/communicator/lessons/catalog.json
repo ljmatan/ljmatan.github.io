@@ -482,6 +482,27 @@
       "title_fi": "Pizza",
       "title_sk": "Pizza",
       "title_da": "Pizza"
+    },
+    {
+      "id": "potato",
+      "category_id": "food",
+      "symbol_id": "potato",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/potato/potato_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/potato/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2703059,
+      "version": 1,
+      "title_en": "Potatoes",
+      "title_de": "Kartoffeln",
+      "title_it": "Patate",
+      "title_fr": "Pommes de terre",
+      "title_es": "Papas",
+      "title_hr": "krumpir",
+      "title_cs": "Brambory",
+      "title_pl": "Ziemniaki",
+      "title_fi": "Perunat",
+      "title_sk": "Zemiaky",
+      "title_da": "Kartofler"
     }
   ]
 }
