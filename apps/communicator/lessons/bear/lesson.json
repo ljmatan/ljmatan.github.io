@@ -1,0 +1,293 @@
+{
+  "id": "bear",
+  "category_id": "animals",
+  "symbol_id": "bear",
+  "thumbnail": "bear_thumb.webp",
+  "title_en": "Bears",
+  "title_de": "Bären",
+  "title_it": "Orsi",
+  "title_fr": "Ours",
+  "title_es": "osos",
+  "title_hr": "medvjedi",
+  "title_cs": "medvědi",
+  "title_pl": "Niedźwiedzie",
+  "title_fi": "Karhuja",
+  "title_sk": "medvede",
+  "title_da": "Bjørne",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about bears. Bears are large, powerful mammals with thick fur and strong claws. There are eight kinds of bears, and they live in forests, mountains, and even on the frozen Arctic ice.",
+      "script_de": "Heute werden wir etwas über Bären lernen. Bären sind große, kräftige Säugetiere mit dickem Fell und starken Krallen. Es gibt acht Arten von Bären, die in Wäldern, Bergen und sogar auf dem gefrorenen Eis der Arktis leben.",
+      "script_it": "Oggi impareremo a conoscere gli orsi. Gli orsi sono mammiferi grandi e potenti con una folta pelliccia e artigli forti. Esistono otto tipi di orsi e vivono nelle foreste, nelle montagne e persino sul ghiaccio artico ghiacciato.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur les ours. Les ours sont de grands mammifères puissants dotés d’une fourrure épaisse et de fortes griffes. Il existe huit espèces d'ours et ils vivent dans les forêts, les montagnes et même sur la glace gelée de l'Arctique.",
+      "script_es": "Hoy vamos a aprender sobre los osos. Los osos son mamíferos grandes y poderosos con pelaje espeso y garras fuertes. Hay ocho tipos de osos y viven en bosques, montañas e incluso en el hielo helado del Ártico.",
+      "script_hr": "Danas ćemo učiti o medvjedima. Medvjedi su veliki, moćni sisavci gustog krzna i jakih pandži. Postoji osam vrsta medvjeda, a žive u šumama, planinama, pa čak i na smrznutom arktičkom ledu.",
+      "script_cs": "Dnes se budeme učit o medvědech. Medvědi jsou velcí, silní savci s hustou srstí a silnými drápy. Existuje osm druhů medvědů a žijí v lesích, horách a dokonce i na zamrzlém arktickém ledu.",
+      "script_pl": "Dziś będziemy uczyć się o niedźwiedziach. Niedźwiedzie to duże, potężne ssaki o grubym futrze i mocnych pazurach. Istnieje osiem rodzajów niedźwiedzi, które żyją w lasach, górach, a nawet na zamarzniętym lodzie Arktyki.",
+      "script_fi": "Tänään opimme karhuista. Karhut ovat suuria, voimakkaita nisäkkäitä, joilla on paksu turkki ja vahvat kynnet. Karhuja on kahdeksan lajia, ja ne elävät metsissä, vuorilla ja jopa jäätyneellä arktisella jäällä.",
+      "script_sk": "Dnes sa budeme učiť o medveďoch. Medvede sú veľké, silné cicavce s hustou srsťou a silnými pazúrmi. Existuje osem druhov medveďov, ktoré žijú v lesoch, horách a dokonca aj na zamrznutom arktickom ľade.",
+      "script_da": "I dag skal vi lære om bjørne. Bjørne er store, kraftige pattedyr med tyk pels og stærke kløer. Der er otte slags bjørne, og de lever i skove, bjerge og endda på den frosne arktiske is.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "habitat",
+      "script_en": "Bears live in many parts of the northern world, from North America and Europe to Asia and the Andes mountains. They make their homes in forests, mountains, and tundra. In cold places, a bear may dig or find a den where it can rest through the winter.",
+      "script_de": "Bären leben in vielen Teilen der nördlichen Welt, von Nordamerika und Europa bis nach Asien und den Anden. Sie leben in Wäldern, Bergen und in der Tundra. An kalten Orten kann ein Bär graben oder eine Höhle finden, in der er den Winter über ausruhen kann.",
+      "script_it": "Gli orsi vivono in molte parti del mondo settentrionale, dal Nord America e dall'Europa all'Asia e alle montagne delle Ande. Costruiscono le loro case nelle foreste, nelle montagne e nella tundra. Nei luoghi freddi, un orso può scavare o trovare una tana dove riposare durante l’inverno.",
+      "script_fr": "Les ours vivent dans de nombreuses régions du monde nordique, de l’Amérique du Nord et de l’Europe à l’Asie et dans les Andes. Ils habitent dans les forêts, les montagnes et la toundra. Dans les endroits froids, un ours peut creuser ou trouver une tanière où il peut se reposer pendant l’hiver.",
+      "script_es": "Los osos viven en muchas partes del mundo septentrional, desde América del Norte y Europa hasta Asia y las montañas de los Andes. Viven en bosques, montañas y tundra. En lugares fríos, un oso puede cavar o encontrar una guarida donde descansar durante el invierno.",
+      "script_hr": "Medvjedi žive u mnogim dijelovima sjevernog svijeta, od Sjeverne Amerike i Europe do Azije i planina Anda. Svoje domove stvaraju u šumama, planinama i tundri. Na hladnim mjestima medvjed može iskopati ili pronaći jazbinu gdje se može odmoriti tijekom zime.",
+      "script_cs": "Medvědi žijí v mnoha částech severního světa, od Severní Ameriky a Evropy po Asii a pohoří And. Sídlí v lesích, horách a tundře. Na chladných místech si medvěd může hrabat nebo najít doupě, kde může přes zimu odpočívat.",
+      "script_pl": "Niedźwiedzie żyją w wielu częściach świata północnego, od Ameryki Północnej i Europy po Azję i Andy. Swoje domy budują w lasach, górach i tundrze. W zimnych miejscach niedźwiedź może kopać lub znaleźć jaskinię, w której może odpocząć przez zimę.",
+      "script_fi": "Karhut elävät monissa osissa pohjoista maailmaa Pohjois-Amerikasta ja Euroopasta Aasiaan ja Andien vuorille. He rakentavat kotinsa metsiin, vuorille ja tundralle. Kylmissä paikoissa karhu voi kaivaa tai löytää luolan, jossa se voi levätä läpi talven.",
+      "script_sk": "Medvede žijú v mnohých častiach severného sveta, od Severnej Ameriky a Európy po Áziu a pohorie Ánd. Bývajú svoje domovy v lesoch, horách a tundre. Na chladných miestach sa môže medveď vyhrabať alebo nájsť brloh, kde môže cez zimu odpočívať.",
+      "script_da": "Bjørne lever i mange dele af den nordlige verden, fra Nordamerika og Europa til Asien og Andesbjergene. De laver deres hjem i skove, bjerge og tundra. På kolde steder kan en bjørn grave eller finde en hule, hvor den kan hvile sig gennem vinteren.",
+      "images": [
+        "habitat.webp",
+        "habitat_2.webp",
+        "habitat_3.webp"
+      ]
+    },
+    {
+      "id": "body",
+      "script_en": "A bear has a body built for strength. Its powerful legs can run fast, its claws can dig and climb, and its keen sense of smell can find food from far away. Most bears eat both plants and animals, which is why they are called omnivores.",
+      "script_de": "Der Körper eines Bären ist auf Stärke ausgelegt. Seine kräftigen Beine können schnell rennen, seine Krallen können graben und klettern und sein ausgeprägter Geruchssinn kann Nahrung aus der Ferne finden. Die meisten Bären fressen sowohl Pflanzen als auch Tiere, weshalb sie Allesfresser genannt werden.",
+      "script_it": "Un orso ha un corpo costruito per la forza. Le sue gambe potenti possono correre veloci, i suoi artigli possono scavare e arrampicarsi e il suo acuto senso dell'olfatto può trovare cibo da molto lontano. La maggior parte degli orsi mangia sia piante che animali, motivo per cui sono chiamati onnivori.",
+      "script_fr": "Un ours a un corps construit pour la force. Ses pattes puissantes peuvent courir vite, ses griffes peuvent creuser et grimper, et son odorat aiguisé peut trouver de la nourriture de loin. La plupart des ours mangent à la fois des plantes et des animaux, c'est pourquoi on les appelle omnivores.",
+      "script_es": "Un oso tiene un cuerpo construido para ser fuerte. Sus poderosas patas pueden correr rápido, sus garras pueden cavar y trepar, y su agudo sentido del olfato puede encontrar comida desde muy lejos. La mayoría de los osos comen tanto plantas como animales, por eso se les llama omnívoros.",
+      "script_hr": "Medvjed ima tijelo izgrađeno za snagu. Njegove moćne noge mogu brzo trčati, njegove kandže mogu kopati i penjati se, a njegov izoštren njuh može pronaći hranu izdaleka. Većina medvjeda jede i biljke i životinje, zbog čega ih nazivamo svejedima.",
+      "script_cs": "Medvěd má tělo stavěné na sílu. Jeho silné nohy mohou rychle běhat, jeho drápy mohou hrabat a šplhat a jeho bystrý čich dokáže najít potravu z velké dálky. Většina medvědů žere rostliny i zvířata, proto se jim říká všežravci.",
+      "script_pl": "Niedźwiedź ma ciało zbudowane z myślą o sile. Jego potężne nogi potrafią szybko biegać, pazury potrafią kopać i wspinać się, a jego wyostrzony węch potrafi znaleźć pożywienie z dużej odległości. Większość niedźwiedzi zjada zarówno rośliny, jak i zwierzęta, dlatego nazywane są wszystkożernymi.",
+      "script_fi": "Karhulla on voimaa varten rakennettu keho. Sen voimakkaat jalat voivat juosta nopeasti, kynnet kaivaa ja kiivetä, ja sen terävä hajuaisti löytää ruokaa kaukaa. Useimmat karhut syövät sekä kasveja että eläimiä, minkä vuoksi niitä kutsutaan kaikkisyöjiksi.",
+      "script_sk": "Medveď má telo postavené na silu. Jeho silné nohy môžu bežať rýchlo, jeho pazúry môžu kopať a liezť a jeho bystrý čuch dokáže nájsť potravu z diaľky. Väčšina medveďov žerie rastliny aj zvieratá, preto sa nazývajú všežravce.",
+      "script_da": "En bjørn har en krop bygget til styrke. Dens kraftige ben kan løbe hurtigt, dens kløer kan grave og klatre, og dens skarpe lugtesans kan finde mad langt væk. De fleste bjørne spiser både planter og dyr, og derfor kaldes de altædende.",
+      "images": [
+        "body.webp",
+        "body_2.webp",
+        "body_3.webp"
+      ]
+    },
+    {
+      "id": "family",
+      "script_en": "Baby bears are called cubs. They are born very small and helpless in the winter den, and their mother keeps them warm and feeds them milk. The cubs stay with her for one or two years, learning where to find food and how to stay safe.",
+      "script_de": "Bärenbabys werden Junge genannt. Sie werden sehr klein und hilflos in der Winterhöhle geboren, und ihre Mutter hält sie warm und füttert sie mit Milch. Die Jungen bleiben ein bis zwei Jahre bei ihr und lernen, wo sie Nahrung finden und wie sie sich in Sicherheit bringen können.",
+      "script_it": "Gli orsetti sono chiamati cuccioli. Nascono molto piccoli e indifesi nella tana invernale, e la loro madre li tiene al caldo e li nutre con il latte. I cuccioli restano con lei per uno o due anni, imparando dove trovare il cibo e come stare al sicuro.",
+      "script_fr": "Les bébés ours sont appelés petits. Ils naissent très petits et sans défense dans la tanière d'hiver, et leur mère les garde au chaud et leur donne du lait. Les oursons restent avec elle pendant un ou deux ans, apprenant où trouver de la nourriture et comment rester en sécurité.",
+      "script_es": "Los ositos se llaman cachorros. Nacen muy pequeños e indefensos en la madriguera de invierno, y su madre los mantiene calientes y les da leche. Los cachorros permanecen con ella durante uno o dos años, aprendiendo dónde encontrar comida y cómo mantenerse a salvo.",
+      "script_hr": "Medvjedići se zovu mladunci. Rađaju se vrlo male i bespomoćne u zimskoj jazbini, a majka ih grije i hrani mlijekom. Mladunci ostaju s njom godinu ili dvije, uče gdje pronaći hranu i kako biti sigurni.",
+      "script_cs": "Medvídkům se říká mláďata. Rodí se velmi malá a bezmocná v zimním pelíšku a matka je udržuje v teple a krmí je mlékem. Mláďata s ní zůstávají jeden nebo dva roky a učí se, kde najít potravu a jak zůstat v bezpečí.",
+      "script_pl": "Małe niedźwiadki nazywane są młodymi. Rodzą się bardzo małe i bezradne w zimowej norze, a ich matka ogrzewa je i karmi mlekiem. Młode pozostają z nią przez rok lub dwa lata, ucząc się, gdzie znaleźć pożywienie i jak zachować bezpieczeństwo.",
+      "script_fi": "Karhuvauvoja kutsutaan pennuiksi. Ne syntyvät hyvin pieninä ja avuttomia talviluolassa, ja heidän äitinsä pitää ne lämpimänä ja ruokkii maitoa. Pennut asuvat hänen luonaan vuoden tai kaksi ja oppivat, mistä löytää ruokaa ja kuinka pysyä turvassa.",
+      "script_sk": "Mláďatá medveďov sa nazývajú mláďatá. Narodia sa veľmi malé a bezmocné v zimnom brlohu a matka ich udržiava v teple a kŕmi ich mliekom. Mláďatá s ňou zostávajú jeden alebo dva roky a učia sa, kde nájsť potravu a ako zostať v bezpečí.",
+      "script_da": "Babybjørne kaldes unger. De er født meget små og hjælpeløse i vinterhulen, og deres mor holder dem varme og giver dem mælk. Ungerne bliver hos hende i et eller to år og lærer, hvor de kan finde mad, og hvordan de kan holde sig i sikkerhed.",
+      "images": [
+        "family.webp",
+        "family_2.webp",
+        "family_3.webp"
+      ]
+    },
+    {
+      "id": "life_today",
+      "script_en": "Today bears face shrinking wild spaces and, in the far north, melting ice. People work to protect their forests and to keep bears away from towns. These remarkable animals are loved in stories around the world, and they need wild places to survive.",
+      "script_de": "Heutzutage sind Bären mit schrumpfenden Wildräumen und im hohen Norden mit schmelzendem Eis konfrontiert. Die Menschen arbeiten daran, ihre Wälder zu schützen und Bären von den Städten fernzuhalten. Diese bemerkenswerten Tiere werden in Geschichten auf der ganzen Welt geliebt und brauchen wilde Orte zum Überleben.",
+      "script_it": "Oggi gli orsi devono affrontare il restringimento degli spazi selvaggi e, nell’estremo nord, lo scioglimento dei ghiacci. Le persone lavorano per proteggere le loro foreste e per tenere gli orsi lontani dalle città. Questi straordinari animali sono amati nelle storie di tutto il mondo e hanno bisogno di luoghi selvaggi per sopravvivere.",
+      "script_fr": "Aujourd’hui, les ours sont confrontés à la diminution des espaces sauvages et, dans l’extrême nord, à la fonte des glaces. Les gens travaillent pour protéger leurs forêts et éloigner les ours des villes. Ces animaux remarquables sont adorés dans les histoires du monde entier et ils ont besoin d’endroits sauvages pour survivre.",
+      "script_es": "Hoy en día, los osos se enfrentan a espacios salvajes cada vez más reducidos y, en el extremo norte, al deshielo. La gente trabaja para proteger sus bosques y mantener a los osos alejados de las ciudades. Estos extraordinarios animales son amados en historias de todo el mundo y necesitan lugares salvajes para sobrevivir.",
+      "script_hr": "Danas se medvjedi suočavaju sa sve manjim divljim prostorima i, na krajnjem sjeveru, s topljenjem leda. Ljudi se trude zaštititi svoje šume i držati medvjede podalje od gradova. Ove izvanredne životinje omiljene su u pričama diljem svijeta i potrebna su im divlja mjesta da prežive.",
+      "script_cs": "Dnes medvědi čelí zmenšujícím se divokým prostorům a na dalekém severu tajícímu ledu. Lidé se snaží chránit své lesy a držet medvědy daleko od měst. Tato pozoruhodná zvířata jsou milována v příbězích po celém světě a k přežití potřebují divoká místa.",
+      "script_pl": "Dziś niedźwiedzie borykają się z kurczącymi się dzikimi przestrzeniami, a na dalekiej północy z topniejącym lodem. Ludzie pracują nad ochroną swoich lasów i odpędzaniem niedźwiedzi od miast. Te niezwykłe zwierzęta są uwielbiane w opowieściach na całym świecie i potrzebują dzikich miejsc, aby przetrwać.",
+      "script_fi": "Nykyään karhut kohtaavat kutistuvia villiä tiloja ja kaukaa pohjoisessa sulavaa jäätä. Ihmiset työskentelevät suojellakseen metsiään ja pitääkseen karhut poissa kaupungeista. Näitä merkittäviä eläimiä rakastetaan tarinoissa ympäri maailmaa, ja ne tarvitsevat villipaikkoja selviytyäkseen.",
+      "script_sk": "Dnes medvede čelia zmenšujúcim sa divokým priestorom a na ďalekom severe topiacemu sa ľadu. Ľudia sa snažia chrániť svoje lesy a držať medvede mimo miest. Tieto pozoruhodné zvieratá sú milované v príbehoch po celom svete a na prežitie potrebujú divoké miesta.",
+      "script_da": "I dag står bjørne over for skrumpende vilde rum og i det fjerne nord smeltende is. Folk arbejder for at beskytte deres skove og holde bjørne væk fra byer. Disse bemærkelsesværdige dyr er elsket i historier rundt om i verden, og de har brug for vilde steder for at overleve.",
+      "images": [
+        "life_today.webp",
+        "life_today_2.webp",
+        "life_today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "baby",
+      "correct": "cub",
+      "question_en": "What is a baby bear called?",
+      "question_de": "Wie heißt ein Babybär?",
+      "question_it": "Come si chiama un orsetto?",
+      "question_fr": "Comment s’appelle un bébé ours ?",
+      "question_es": "¿Cómo se llama un osito?",
+      "question_hr": "Kako se zove beba medvjed?",
+      "question_cs": "Jak se jmenuje medvídek?",
+      "question_pl": "Jak nazywa się mały miś?",
+      "question_fi": "Millä nimellä karhuvauvaa kutsutaan?",
+      "question_sk": "Ako sa volá medvedík?",
+      "question_da": "Hvad hedder en babybjørn?",
+      "options": [
+        {
+          "id": "cub",
+          "label_en": "A cub",
+          "label_de": "Ein Junges",
+          "label_it": "Un cucciolo",
+          "label_fr": "Un petit",
+          "label_es": "un cachorro",
+          "label_hr": "Mladunče",
+          "label_cs": "mládě",
+          "label_pl": "Młode",
+          "label_fi": "Pentu",
+          "label_sk": "Mláďa",
+          "label_da": "En unge"
+        },
+        {
+          "id": "chick",
+          "label_en": "A chick",
+          "label_de": "Ein Küken",
+          "label_it": "Un pulcino",
+          "label_fr": "Un poussin",
+          "label_es": "un pollito",
+          "label_hr": "pilić",
+          "label_cs": "Kuřátko",
+          "label_pl": "Laska",
+          "label_fi": "Tyttö",
+          "label_sk": "kuriatko",
+          "label_da": "En kylling"
+        },
+        {
+          "id": "calf",
+          "label_en": "A calf",
+          "label_de": "Ein Kalb",
+          "label_it": "Un vitello",
+          "label_fr": "Un veau",
+          "label_es": "un ternero",
+          "label_hr": "tele",
+          "label_cs": "Tele",
+          "label_pl": "Cielę",
+          "label_fi": "Vasikka",
+          "label_sk": "Telíčko",
+          "label_da": "En kalv"
+        }
+      ]
+    },
+    {
+      "id": "winter",
+      "correct": "hibernate",
+      "question_en": "What does a bear often do in cold winters?",
+      "question_de": "Was macht ein Bär in kalten Wintern oft?",
+      "question_it": "Cosa fa spesso un orso negli inverni freddi?",
+      "question_fr": "Que fait souvent un ours pendant les hivers froids ?",
+      "question_es": "¿Qué suele hacer un oso en los inviernos fríos?",
+      "question_hr": "Što medvjed često radi u hladnim zimama?",
+      "question_cs": "Co medvěd často dělá v chladných zimách?",
+      "question_pl": "Co często robi niedźwiedź podczas mroźnych zim?",
+      "question_fi": "Mitä karhu tekee usein kylminä talvina?",
+      "question_sk": "Čo robí medveď často v chladných zimách?",
+      "question_da": "Hvad laver en bjørn ofte i kolde vintre?",
+      "options": [
+        {
+          "id": "hibernate",
+          "label_en": "Rest in a den through the winter",
+          "label_de": "Den Winter über in einer Höhle ausruhen",
+          "label_it": "Riposa in una tana durante l'inverno",
+          "label_fr": "Reposez-vous dans une tanière pendant l'hiver",
+          "label_es": "Descanse en una guarida durante el invierno.",
+          "label_hr": "Odmarajte se u brlogu preko zime",
+          "label_cs": "Přes zimu odpočívejte v pelíšku",
+          "label_pl": "Odpoczynek w jaskini przez całą zimę",
+          "label_fi": "Lepää luolassa talven yli",
+          "label_sk": "Oddýchnite si cez zimu v brlohu",
+          "label_da": "Hvil i en hule gennem vinteren"
+        },
+        {
+          "id": "migrate",
+          "label_en": "Fly south for the winter",
+          "label_de": "Fliegen Sie für den Winter nach Süden",
+          "label_it": "Vola a sud per l'inverno",
+          "label_fr": "Volez vers le sud pour l'hiver",
+          "label_es": "Vuela hacia el sur durante el invierno",
+          "label_hr": "Odletite na jug za zimu",
+          "label_cs": "Odleťte na zimu na jih",
+          "label_pl": "Na zimę leć na południe",
+          "label_fi": "Lennä etelään talveksi",
+          "label_sk": "Odleťte na zimu na juh",
+          "label_da": "Flyv sydpå til vinteren"
+        },
+        {
+          "id": "swim",
+          "label_en": "Swim across the ocean",
+          "label_de": "Schwimmen Sie über den Ozean",
+          "label_it": "Nuota attraverso l'oceano",
+          "label_fr": "Nager à travers l'océan",
+          "label_es": "Nadar a través del océano",
+          "label_hr": "Preplivati ​​ocean",
+          "label_cs": "Plavat přes oceán",
+          "label_pl": "Przepłyń przez ocean",
+          "label_fi": "Ui valtameren yli",
+          "label_sk": "Plávať cez oceán",
+          "label_da": "Svøm over havet"
+        }
+      ]
+    },
+    {
+      "id": "food",
+      "correct": "both",
+      "question_en": "What does it mean that most bears are omnivores?",
+      "question_de": "Was bedeutet es, dass die meisten Bären Allesfresser sind?",
+      "question_it": "Cosa significa che la maggior parte degli orsi sono onnivori?",
+      "question_fr": "Qu'est-ce que cela signifie que la plupart des ours sont omnivores ?",
+      "question_es": "¿Qué significa que la mayoría de los osos son omnívoros?",
+      "question_hr": "Što znači da je većina medvjeda svejedi?",
+      "question_cs": "Co to znamená, že většina medvědů jsou všežravci?",
+      "question_pl": "Co to znaczy, że większość niedźwiedzi jest wszystkożerna?",
+      "question_fi": "Mitä tarkoittaa, että useimmat karhut ovat kaikkiruokaisia?",
+      "question_sk": "Čo to znamená, že väčšina medveďov sú všežravce?",
+      "question_da": "Hvad betyder det, at de fleste bjørne er altædende?",
+      "options": [
+        {
+          "id": "both",
+          "label_en": "They eat both plants and animals",
+          "label_de": "Sie fressen sowohl Pflanzen als auch Tiere",
+          "label_it": "Mangiano sia piante che animali",
+          "label_fr": "Ils mangent des plantes et des animaux",
+          "label_es": "Comen tanto plantas como animales.",
+          "label_hr": "Jedu i biljke i životinje",
+          "label_cs": "Jedí jak rostliny, tak zvířata",
+          "label_pl": "Jedzą zarówno rośliny, jak i zwierzęta",
+          "label_fi": "He syövät sekä kasveja että eläimiä",
+          "label_sk": "Jedia rastliny aj zvieratá",
+          "label_da": "De spiser både planter og dyr"
+        },
+        {
+          "id": "plants",
+          "label_en": "They eat only plants",
+          "label_de": "Sie fressen nur Pflanzen",
+          "label_it": "Mangiano solo piante",
+          "label_fr": "Ils ne mangent que des plantes",
+          "label_es": "solo comen plantas",
+          "label_hr": "Jedu samo biljke",
+          "label_cs": "Jedí pouze rostliny",
+          "label_pl": "Jedzą tylko rośliny",
+          "label_fi": "He syövät vain kasveja",
+          "label_sk": "Jedia iba rastliny",
+          "label_da": "De spiser kun planter"
+        },
+        {
+          "id": "meat",
+          "label_en": "They eat only meat",
+          "label_de": "Sie essen nur Fleisch",
+          "label_it": "Mangiano solo carne",
+          "label_fr": "Ils ne mangent que de la viande",
+          "label_es": "solo comen carne",
+          "label_hr": "Jedu samo meso",
+          "label_cs": "Jedí pouze maso",
+          "label_pl": "Jedzą tylko mięso",
+          "label_fi": "He syövät vain lihaa",
+          "label_sk": "Jedia iba mäso",
+          "label_da": "De spiser kun kød"
+        }
+      ]
+    }
+  ]
+}

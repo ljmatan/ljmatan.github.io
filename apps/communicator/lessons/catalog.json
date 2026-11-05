@@ -1,6 +1,27 @@
 {
   "lessons": [
     {
+      "id": "bear",
+      "category_id": "animals",
+      "symbol_id": "bear",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/bear/bear_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/bear/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2807805,
+      "version": 1,
+      "title_en": "Bears",
+      "title_de": "Bären",
+      "title_it": "Orsi",
+      "title_fr": "Ours",
+      "title_es": "osos",
+      "title_hr": "medvjedi",
+      "title_cs": "medvědi",
+      "title_pl": "Niedźwiedzie",
+      "title_fi": "Karhuja",
+      "title_sk": "medvede",
+      "title_da": "Bjørne"
+    },
+    {
       "id": "butterfly",
       "category_id": "animals",
       "symbol_id": "butterfly",
