@@ -232,6 +232,27 @@
       "title_da": "Kaniner"
     },
     {
+      "id": "tiger",
+      "category_id": "animals",
+      "symbol_id": "tiger",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/tiger/tiger_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/tiger/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2784185,
+      "version": 1,
+      "title_en": "Tigers",
+      "title_de": "Tiger",
+      "title_it": "Tigri",
+      "title_fr": "Tigres",
+      "title_es": "tigres",
+      "title_hr": "Tigrovi",
+      "title_cs": "tygři",
+      "title_pl": "Tygrysy",
+      "title_fi": "Tiikerit",
+      "title_sk": "Tigre",
+      "title_da": "Tigre"
+    },
+    {
       "id": "apple",
       "category_id": "food",
       "symbol_id": "apple",

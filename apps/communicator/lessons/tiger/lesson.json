@@ -1,0 +1,293 @@
+{
+  "id": "tiger",
+  "category_id": "animals",
+  "symbol_id": "tiger",
+  "thumbnail": "tiger_thumb.webp",
+  "title_en": "Tigers",
+  "title_de": "Tiger",
+  "title_it": "Tigri",
+  "title_fr": "Tigres",
+  "title_es": "tigres",
+  "title_hr": "Tigrovi",
+  "title_cs": "tygři",
+  "title_pl": "Tygrysy",
+  "title_fi": "Tiikerit",
+  "title_sk": "Tigre",
+  "title_da": "Tigre",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about tigers. Tigers are the largest wild cats in the world. With their bright orange fur, dark stripes, and powerful bodies, they are among the most striking animals on our planet.",
+      "script_de": "Heute werden wir etwas über Tiger lernen. Tiger sind die größten Wildkatzen der Welt. Mit ihrem leuchtend orangefarbenen Fell, den dunklen Streifen und ihrem kräftigen Körper gehören sie zu den auffälligsten Tieren auf unserem Planeten.",
+      "script_it": "Oggi impareremo a conoscere le tigri. Le tigri sono i gatti selvatici più grandi del mondo. Con la loro pelliccia arancione brillante, le strisce scure e i corpi potenti, sono tra gli animali più sorprendenti del nostro pianeta.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur les tigres. Les tigres sont les plus grands félins sauvages du monde. Avec leur fourrure orange vif, leurs rayures sombres et leur corps puissant, ils comptent parmi les animaux les plus frappants de notre planète.",
+      "script_es": "Hoy vamos a aprender sobre los tigres. Los tigres son los felinos salvajes más grandes del mundo. Con su pelaje de color naranja brillante, rayas oscuras y cuerpos poderosos, se encuentran entre los animales más llamativos de nuestro planeta.",
+      "script_hr": "Danas ćemo učiti o tigrovima. Tigrovi su najveće divlje mačke na svijetu. Sa svojim jarko narančastim krznom, tamnim prugama i snažnim tijelom, one su među najmarkantnijim životinjama na našem planetu.",
+      "script_cs": "Dnes se budeme učit o tygrech. Tygři jsou největší divoké kočky na světě. Se svou jasně oranžovou srstí, tmavými pruhy a mohutným tělem patří mezi nejnápadnější zvířata na naší planetě.",
+      "script_pl": "Dziś będziemy uczyć się o tygrysach. Tygrysy to największe dzikie koty na świecie. Ze swoim jasnopomarańczowym futrem, ciemnymi paskami i potężnym ciałem należą do najbardziej uderzających zwierząt na naszej planecie.",
+      "script_fi": "Tänään opimme tiikereistä. Tiikerit ovat maailman suurimmat villikissat. Kirkkaan oranssin turkin, tummien raitojen ja voimakkaan rungon ansiosta ne ovat planeettamme silmiinpistävimpiä eläimiä.",
+      "script_sk": "Dnes sa budeme učiť o tigroch. Tigre sú najväčšie divoké mačky na svete. So svojou žiarivo oranžovou srsťou, tmavými pruhmi a mohutným telom patria medzi najpozoruhodnejšie zvieratá na našej planéte.",
+      "script_da": "I dag skal vi lære om tigre. Tigre er de største vilde katte i verden. Med deres lyse orange pels, mørke striber og kraftfulde kroppe er de blandt de mest slående dyr på vores planet.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "habitat",
+      "script_en": "Tigers live in Asia, in forests, grasslands, and swamps. They are solitary animals and prefer to live alone, except when a mother is raising her cubs. Each tiger has its own large territory, which it marks with scent so other tigers know it is there.",
+      "script_de": "Tiger leben in Asien, in Wäldern, Grasland und Sümpfen. Sie sind Einzelgänger und leben am liebsten allein, außer wenn die Mutter ihre Jungen großzieht. Jeder Tiger hat sein eigenes großes Revier, das er mit Duft markiert, damit andere Tiger wissen, dass er dort ist.",
+      "script_it": "Le tigri vivono in Asia, nelle foreste, nelle praterie e nelle paludi. Sono animali solitari e preferiscono vivere da soli, tranne quando la madre alleva i suoi cuccioli. Ogni tigre ha il suo vasto territorio, che contrassegna con l'odore in modo che le altre tigri sappiano che è lì.",
+      "script_fr": "Les tigres vivent en Asie, dans les forêts, les prairies et les marécages. Ce sont des animaux solitaires et préfèrent vivre seuls, sauf lorsque la mère élève ses petits. Chaque tigre possède son propre vaste territoire, qu'il marque avec son parfum pour que les autres tigres sachent qu'il s'y trouve.",
+      "script_es": "Los tigres viven en Asia, en bosques, praderas y pantanos. Son animales solitarios y prefieren vivir solos, excepto cuando una madre está criando a sus cachorros. Cada tigre tiene su propio territorio grande, que marca con su olor para que otros tigres sepan que está allí.",
+      "script_hr": "Tigrovi žive u Aziji, u šumama, pašnjacima i močvarama. Oni su samotnjaci i radije žive sami, osim kada majka podiže svoje mladunce. Svaki tigar ima svoj veliki teritorij koji označava mirisom kako bi drugi tigrovi znali da je tu.",
+      "script_cs": "Tygři žijí v Asii, v lesích, pastvinách a bažinách. Jsou to samotářská zvířata a raději žijí sama, kromě případů, kdy matka vychovává mláďata. Každý tygr má své vlastní velké území, které si označí vůní, aby ostatní tygři věděli, že tam je.",
+      "script_pl": "Tygrysy żyją w Azji, w lasach, na łąkach i na bagnach. Są zwierzętami samotnymi i wolą żyć samotnie, z wyjątkiem sytuacji, gdy matka wychowuje swoje młode. Każdy tygrys ma swoje duże terytorium, które oznacza zapachem, aby inne tygrysy wiedziały, że tam jest.",
+      "script_fi": "Tiikerit elävät Aasiassa, metsissä, niityillä ja soilla. Ne ovat yksinäisiä eläimiä ja elävät mieluummin yksin, paitsi silloin, kun äiti kasvattaa pentujaan. Jokaisella tiikereillä on oma laaja alue, jonka se merkitsee tuoksulla, jotta muut tiikerit tietävät sen olevan siellä.",
+      "script_sk": "Tigre žijú v Ázii, v lesoch, pastvinách a močiaroch. Sú to samotárske zvieratá a radšej žijú osamote, okrem prípadov, keď matka vychováva svoje mláďatá. Každý tiger má svoje veľké územie, ktoré si označí vôňou, aby ostatní tigre vedeli, že tam je.",
+      "script_da": "Tigre lever i Asien, i skove, græsarealer og sumpe. De er ensomme dyr og foretrækker at leve alene, undtagen når en mor opdrager sine unger. Hver tiger har sit eget store territorium, som den markerer med duft, så andre tigre ved, at den er der.",
+      "images": [
+        "habitat.webp",
+        "habitat_2.webp",
+        "habitat_3.webp"
+      ]
+    },
+    {
+      "id": "body",
+      "script_en": "Every tiger has its own pattern of stripes, just like a fingerprint. Its strong legs and sharp claws help it stalk quietly and leap great distances. Tigers can see well in the dark, and their orange and black colours blend into the shadows of the forest.",
+      "script_de": "Jeder Tiger hat sein eigenes Streifenmuster, genau wie ein Fingerabdruck. Seine starken Beine und scharfen Krallen helfen ihm, leise zu pirschen und große Distanzen zu springen. Tiger können im Dunkeln gut sehen und ihre orange und schwarzen Farben verschmelzen mit den Schatten des Waldes.",
+      "script_it": "Ogni tigre ha il proprio disegno a strisce, proprio come un'impronta digitale. Le sue zampe forti e gli artigli affilati lo aiutano a camminare silenziosamente e a saltare per grandi distanze. Le tigri vedono bene al buio e i loro colori arancione e nero si confondono con le ombre della foresta.",
+      "script_fr": "Chaque tigre a son propre motif de rayures, tout comme une empreinte digitale. Ses pattes solides et ses griffes acérées lui permettent de se déplacer tranquillement et de sauter sur de grandes distances. Les tigres voient bien dans l’obscurité et leurs couleurs orange et noire se fondent dans les ombres de la forêt.",
+      "script_es": "Cada tigre tiene su propio patrón de rayas, como una huella digital. Sus fuertes patas y sus afiladas garras le ayudan a acechar silenciosamente y a saltar grandes distancias. Los tigres pueden ver bien en la oscuridad y sus colores naranja y negro se mezclan con las sombras del bosque.",
+      "script_hr": "Svaki tigar ima svoj uzorak pruga, baš kao i otisak prsta. Njegove snažne noge i oštre kandže pomažu mu da tiho vreba i preskače velike udaljenosti. Tigrovi dobro vide u mraku, a njihova narančasta i crna boja stapaju se sa sjenama šume.",
+      "script_cs": "Každý tygr má svůj vlastní vzor pruhů, stejně jako otisk prstu. Jeho silné nohy a ostré drápy mu pomáhají tiše kráčet a skákat na velké vzdálenosti. Tygři dobře vidí ve tmě a jejich oranžové a černé barvy splývají se stíny lesa.",
+      "script_pl": "Każdy tygrys ma swój własny wzór pasków, podobnie jak odcisk palca. Silne nogi i ostre pazury pomagają mu cicho podkradać się i skakać na duże odległości. Tygrysy dobrze widzą w ciemności, a ich pomarańczowe i czarne kolory wtapiają się w cienie lasu.",
+      "script_fi": "Jokaisella tiikerillä on oma raitakuvionsa, aivan kuten sormenjäljessä. Sen vahvat jalat ja terävät kynnet auttavat sitä vaeltamaan hiljaa ja hyppäämään pitkiä matkoja. Tiikerit näkevät hyvin pimeässä, ja niiden oranssi ja musta väri sulautuvat metsän varjoihin.",
+      "script_sk": "Každý tiger má svoj vlastný vzor pruhov, rovnako ako odtlačok prsta. Jeho silné nohy a ostré pazúry mu pomáhajú ticho kráčať a preskakovať veľké vzdialenosti. Tigre dobre vidia v tme a ich oranžové a čierne farby splývajú s tieňmi lesa.",
+      "script_da": "Hver tiger har sit eget mønster af striber, ligesom et fingeraftryk. Dens stærke ben og skarpe kløer hjælper den med at forfølge stille og springe store afstande. Tigre kan godt se i mørke, og deres orange og sorte farver blander sig ind i skovens skygger.",
+      "images": [
+        "body.webp",
+        "body_2.webp",
+        "body_3.webp"
+      ]
+    },
+    {
+      "id": "family",
+      "script_en": "Baby tigers are called cubs. They are born blind and helpless, so their mother keeps them hidden in a safe den. She teaches them to hunt as they grow, and the cubs stay with her for about two years before they set off to live on their own.",
+      "script_de": "Tigerbabys werden Jungtiere genannt. Sie werden blind und hilflos geboren, deshalb hält ihre Mutter sie in einer sicheren Höhle versteckt. Sie bringt ihnen das Jagen bei, während sie heranwachsen, und die Jungen bleiben etwa zwei Jahre bei ihr, bevor sie sich auf den Weg machen, um alleine zu leben.",
+      "script_it": "I cuccioli di tigre sono chiamati cuccioli. Nascono ciechi e indifesi, quindi la madre li tiene nascosti in una tana sicura. Insegna loro a cacciare man mano che crescono, e i cuccioli rimangono con lei per circa due anni prima di partire per vivere da soli.",
+      "script_fr": "Les bébés tigres sont appelés petits. Ils naissent aveugles et impuissants, alors leur mère les garde cachés dans une tanière sûre. Elle leur apprend à chasser à mesure qu'ils grandissent, et les petits restent avec elle pendant environ deux ans avant de partir vivre seuls.",
+      "script_es": "Los tigres bebés se llaman cachorros. Nacen ciegos e indefensos, por lo que su madre los mantiene escondidos en un lugar seguro. Ella les enseña a cazar a medida que crecen, y los cachorros se quedan con ella durante unos dos años antes de partir a vivir solos.",
+      "script_hr": "Mladunce tigrova nazivamo mladuncima. Rođeni su slijepi i bespomoćni, pa ih majka čuva skrivene u sigurnoj jazbini. Uči ih loviti dok rastu, a mladunci ostaju s njom oko dvije godine prije nego što krenu živjeti sami.",
+      "script_cs": "Mláďata tygrů se nazývají mláďata. Rodí se slepí a bezmocní, a tak je matka drží schované v bezpečném doupěti. Učí je lovit, když rostou, a mláďata u ní zůstávají asi dva roky, než se vydají žít sama.",
+      "script_pl": "Małe tygrysy nazywane są młodymi. Rodzą się ślepe i bezradne, więc matka trzyma je w ukryciu w bezpiecznej jaskini. Gdy podrosną, uczy je polować, a młode pozostają z nią przez około dwa lata, zanim zaczną żyć samodzielnie.",
+      "script_fi": "Tiikerivauvoja kutsutaan pennuiksi. He syntyvät sokeina ja avuttomina, joten heidän äitinsä pitää heidät piilossa turvallisessa luolassa. Hän opettaa heitä metsästämään kasvaessaan, ja pennut pysyvät hänen luonaan noin kaksi vuotta, ennen kuin he lähtevät asumaan omaan elämäänsä.",
+      "script_sk": "Mláďatá tigrov sa nazývajú mláďatá. Narodia sa slepé a bezmocné, preto ich matka drží ukryté v bezpečnom brlohu. Počas rastu ich učí loviť a mláďatá u nej zostávajú asi dva roky, kým sa vydajú žiť samostatne.",
+      "script_da": "Babytigre kaldes unger. De er født blinde og hjælpeløse, så deres mor holder dem skjult i en sikker hule. Hun lærer dem at jage, efterhånden som de vokser, og ungerne bliver hos hende i omkring to år, før de drager af sted for at bo alene.",
+      "images": [
+        "family.webp",
+        "family_2.webp",
+        "family_3.webp"
+      ]
+    },
+    {
+      "id": "life_today",
+      "script_en": "Today tigers are endangered, and only a few thousand remain in the wild. People are working to protect their forests and stop illegal hunting. Tigers are a symbol of strength and beauty in many cultures, and with care we can help them continue to roam the wild.",
+      "script_de": "Heute sind Tiger vom Aussterben bedroht und nur noch wenige Tausend leben in freier Wildbahn. Die Menschen setzen sich dafür ein, ihre Wälder zu schützen und die illegale Jagd zu stoppen. Tiger sind in vielen Kulturen ein Symbol für Stärke und Schönheit, und mit Sorgfalt können wir ihnen helfen, weiterhin in der Wildnis umherzustreifen.",
+      "script_it": "Oggi le tigri sono in pericolo di estinzione e ne rimangono solo poche migliaia in natura. Le persone stanno lavorando per proteggere le loro foreste e fermare la caccia illegale. Le tigri sono un simbolo di forza e bellezza in molte culture e, con la massima attenzione, possiamo aiutarle a continuare a vagare nella natura selvaggia.",
+      "script_fr": "Aujourd’hui, les tigres sont en voie de disparition et il n’en reste que quelques milliers à l’état sauvage. Les gens travaillent pour protéger leurs forêts et mettre fin à la chasse illégale. Les tigres sont un symbole de force et de beauté dans de nombreuses cultures, et avec soin, nous pouvons les aider à continuer à parcourir la nature.",
+      "script_es": "Hoy en día, los tigres están en peligro de extinción y sólo quedan unos pocos miles en estado salvaje. La gente está trabajando para proteger sus bosques y detener la caza ilegal. Los tigres son un símbolo de fuerza y ​​belleza en muchas culturas y, con cuidado, podemos ayudarlos a seguir vagando en su hábitat natural.",
+      "script_hr": "Danas su tigrovi ugroženi, au divljini ih je ostalo samo nekoliko tisuća. Ljudi rade na zaštiti svojih šuma i zaustavljanju ilegalnog lova. Tigrovi su simbol snage i ljepote u mnogim kulturama, a pažnjom im možemo pomoći da nastave lutati divljinom.",
+      "script_cs": "Dnes jsou tygři ohroženi a ve volné přírodě jich zůstává jen několik tisíc. Lidé pracují na ochraně svých lesů a zastavení nelegálního lovu. Tygři jsou v mnoha kulturách symbolem síly a krásy a s péčí jim můžeme pomoci pokračovat v toulkách divočinou.",
+      "script_pl": "Dziś tygrysy są zagrożone, a na wolności żyje tylko kilka tysięcy. Ludzie pracują nad ochroną swoich lasów i powstrzymaniem nielegalnych polowań. Tygrysy są w wielu kulturach symbolem siły i piękna, dlatego też, zachowując ostrożność, możemy pomóc im w dalszym wędrówce po dziczy.",
+      "script_fi": "Nykyään tiikerit ovat uhanalaisia, ja vain muutama tuhat on jäljellä luonnossa. Ihmiset työskentelevät suojellakseen metsiään ja lopettaakseen laittoman metsästyksen. Tiikerit ovat voiman ja kauneuden symboli monissa kulttuureissa, ja huolella voimme auttaa heitä jatkamaan vaeltamista luonnossa.",
+      "script_sk": "Dnes sú tigre ohrozené a vo voľnej prírode ich zostáva len niekoľko tisíc. Ľudia sa snažia chrániť svoje lesy a zastaviť nelegálny lov. Tigre sú symbolom sily a krásy v mnohých kultúrach a s opatrnosťou im môžeme pomôcť pokračovať v túlaní sa divočinou.",
+      "script_da": "I dag er tigre truet, og kun få tusinde er tilbage i naturen. Folk arbejder på at beskytte deres skove og stoppe ulovlig jagt. Tigre er et symbol på styrke og skønhed i mange kulturer, og med omhu kan vi hjælpe dem med at fortsætte med at strejfe i naturen.",
+      "images": [
+        "life_today.webp",
+        "life_today_2.webp",
+        "life_today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "stripes",
+      "correct": "unique",
+      "question_en": "What is special about a tiger's stripes?",
+      "question_de": "Was ist das Besondere an den Streifen eines Tigers?",
+      "question_it": "Cosa hanno di speciale le strisce di una tigre?",
+      "question_fr": "Quelle est la particularité des rayures d'un tigre ?",
+      "question_es": "¿Qué tienen de especial las rayas de un tigre?",
+      "question_hr": "Što je posebno u tigrovim prugama?",
+      "question_cs": "Co je zvláštního na tygřích proužcích?",
+      "question_pl": "Co jest specjalnego w paskach tygrysa?",
+      "question_fi": "Mitä erityistä tiikerin raidoissa on?",
+      "question_sk": "Čo je zvláštne na tigrích pruhoch?",
+      "question_da": "Hvad er specielt ved en tigers striber?",
+      "options": [
+        {
+          "id": "unique",
+          "label_en": "Every tiger's pattern is different",
+          "label_de": "Das Muster jedes Tigers ist anders",
+          "label_it": "Il modello di ogni tigre è diverso",
+          "label_fr": "Le motif de chaque tigre est différent",
+          "label_es": "El patrón de cada tigre es diferente.",
+          "label_hr": "Svaki tigrov uzorak je drugačiji",
+          "label_cs": "Vzor každého tygra je jiný",
+          "label_pl": "Wzór każdego tygrysa jest inny",
+          "label_fi": "Jokaisen tiikerin kuvio on erilainen",
+          "label_sk": "Vzor každého tigra je iný",
+          "label_da": "Hver tigers mønster er forskelligt"
+        },
+        {
+          "id": "same",
+          "label_en": "All tigers have exactly the same stripes",
+          "label_de": "Alle Tiger haben genau die gleichen Streifen",
+          "label_it": "Tutte le tigri hanno esattamente le stesse strisce",
+          "label_fr": "Tous les tigres ont exactement les mêmes rayures",
+          "label_es": "Todos los tigres tienen exactamente las mismas rayas.",
+          "label_hr": "Svi tigrovi imaju potpuno iste pruge",
+          "label_cs": "Všichni tygři mají přesně stejné pruhy",
+          "label_pl": "Wszystkie tygrysy mają dokładnie takie same paski",
+          "label_fi": "Kaikilla tiikereillä on täsmälleen samat raidat",
+          "label_sk": "Všetky tigre majú úplne rovnaké pruhy",
+          "label_da": "Alle tigre har nøjagtig de samme striber"
+        },
+        {
+          "id": "glow",
+          "label_en": "They glow in the dark",
+          "label_de": "Sie leuchten im Dunkeln",
+          "label_it": "Si illuminano al buio",
+          "label_fr": "Ils brillent dans le noir",
+          "label_es": "Brillan en la oscuridad",
+          "label_hr": "Svijetle u mraku",
+          "label_cs": "Ve tmě svítí",
+          "label_pl": "Świecą w ciemności",
+          "label_fi": "Ne hehkuvat pimeässä",
+          "label_sk": "V tme svietia",
+          "label_da": "De lyser i mørket"
+        }
+      ]
+    },
+    {
+      "id": "baby",
+      "correct": "cub",
+      "question_en": "What is a baby tiger called?",
+      "question_de": "Wie heißt ein Tigerbaby?",
+      "question_it": "Come si chiama un cucciolo di tigre?",
+      "question_fr": "Comment s’appelle un bébé tigre ?",
+      "question_es": "¿Cómo se llama un tigre bebé?",
+      "question_hr": "Kako se zove beba tigra?",
+      "question_cs": "Jak se nazývá mládě tygra?",
+      "question_pl": "Jak nazywa się mały tygrys?",
+      "question_fi": "Mikä on tiikerivauvan nimi?",
+      "question_sk": "Ako sa volá mláďa tigra?",
+      "question_da": "Hvad hedder en babytiger?",
+      "options": [
+        {
+          "id": "cub",
+          "label_en": "A cub",
+          "label_de": "Ein Junges",
+          "label_it": "Un cucciolo",
+          "label_fr": "Un petit",
+          "label_es": "un cachorro",
+          "label_hr": "Mladunče",
+          "label_cs": "mládě",
+          "label_pl": "Młode",
+          "label_fi": "Pentu",
+          "label_sk": "Mláďa",
+          "label_da": "En unge"
+        },
+        {
+          "id": "kitten",
+          "label_en": "A kitten",
+          "label_de": "Ein Kätzchen",
+          "label_it": "Un gattino",
+          "label_fr": "Un chaton",
+          "label_es": "un gatito",
+          "label_hr": "Mačić",
+          "label_cs": "Kotě",
+          "label_pl": "Kociak",
+          "label_fi": "Kissanpentu",
+          "label_sk": "Mačiatko",
+          "label_da": "En killing"
+        },
+        {
+          "id": "foal",
+          "label_en": "A foal",
+          "label_de": "Ein Fohlen",
+          "label_it": "Un puledro",
+          "label_fr": "Un poulain",
+          "label_es": "un potro",
+          "label_hr": "Ždrijebe",
+          "label_cs": "Hříbě",
+          "label_pl": "Źrebię",
+          "label_fi": "Varsa",
+          "label_sk": "Žriebätko",
+          "label_da": "Et føl"
+        }
+      ]
+    },
+    {
+      "id": "home",
+      "correct": "asia",
+      "question_en": "On which continent do tigers live in the wild?",
+      "question_de": "Auf welchem ​​Kontinent leben Tiger in freier Wildbahn?",
+      "question_it": "In quale continente vivono le tigri allo stato brado?",
+      "question_fr": "Sur quel continent vivent les tigres à l’état sauvage ?",
+      "question_es": "¿En qué continente viven los tigres en estado salvaje?",
+      "question_hr": "Na kojem kontinentu tigrovi žive u divljini?",
+      "question_cs": "Na kterém kontinentu žijí tygři ve volné přírodě?",
+      "question_pl": "Na jakim kontynencie żyją tygrysy na wolności?",
+      "question_fi": "Millä mantereella tiikerit elävät luonnossa?",
+      "question_sk": "Na ktorom kontinente žijú tigre vo voľnej prírode?",
+      "question_da": "På hvilket kontinent lever tigre i naturen?",
+      "options": [
+        {
+          "id": "asia",
+          "label_en": "Asia",
+          "label_de": "Asien",
+          "label_it": "Asia",
+          "label_fr": "Asie",
+          "label_es": "Asia",
+          "label_hr": "Azija",
+          "label_cs": "Asie",
+          "label_pl": "Azja",
+          "label_fi": "Aasia",
+          "label_sk": "Ázie",
+          "label_da": "Asien"
+        },
+        {
+          "id": "africa",
+          "label_en": "Africa",
+          "label_de": "Afrika",
+          "label_it": "Africa",
+          "label_fr": "Afrique",
+          "label_es": "África",
+          "label_hr": "Afrika",
+          "label_cs": "Afrika",
+          "label_pl": "Afryka",
+          "label_fi": "Afrikka",
+          "label_sk": "Afriky",
+          "label_da": "Afrika"
+        },
+        {
+          "id": "australia",
+          "label_en": "Australia",
+          "label_de": "Australien",
+          "label_it": "Australia",
+          "label_fr": "Australie",
+          "label_es": "Australia",
+          "label_hr": "Australija",
+          "label_cs": "Austrálie",
+          "label_pl": "Australia",
+          "label_fi": "Australia",
+          "label_sk": "Austrália",
+          "label_da": "Australien"
+        }
+      ]
+    }
+  ]
+}
