@@ -505,6 +505,27 @@
       "title_da": "Ost"
     },
     {
+      "id": "cherry",
+      "category_id": "food",
+      "symbol_id": "cherry",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/cherry/cherry_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/cherry/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2058982,
+      "version": 1,
+      "title_en": "Cherries",
+      "title_de": "Kirschen",
+      "title_it": "Ciliegie",
+      "title_fr": "Cerises",
+      "title_es": "Guindas",
+      "title_hr": "Trešnje",
+      "title_cs": "Třešně",
+      "title_pl": "Wiśnie",
+      "title_fi": "Kirsikat",
+      "title_sk": "Čerešne",
+      "title_da": "Kirsebær"
+    },
+    {
       "id": "grape",
       "category_id": "food",
       "symbol_id": "grape",

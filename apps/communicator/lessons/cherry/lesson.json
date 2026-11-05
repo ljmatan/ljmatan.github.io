@@ -1,0 +1,293 @@
+{
+  "id": "cherry",
+  "category_id": "food",
+  "symbol_id": "cherry",
+  "thumbnail": "cherry_thumb.webp",
+  "title_en": "Cherries",
+  "title_de": "Kirschen",
+  "title_it": "Ciliegie",
+  "title_fr": "Cerises",
+  "title_es": "Guindas",
+  "title_hr": "Trešnje",
+  "title_cs": "Třešně",
+  "title_pl": "Wiśnie",
+  "title_fi": "Kirsikat",
+  "title_sk": "Čerešne",
+  "title_da": "Kirsebær",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about cherries. Cherries are small, round fruits with shiny red skin and a hard stone inside. They are sweet and juicy, and they ripen in the warmer months of the year.",
+      "script_de": "Heute lernen wir etwas über Kirschen. Kirschen sind kleine, runde Früchte mit glänzend roter Schale und einem harten Kern im Inneren. Sie sind süß und saftig und reifen in den wärmeren Monaten des Jahres.",
+      "script_it": "Oggi parleremo delle ciliegie. Le ciliegie sono piccoli frutti rotondi con la buccia rossa lucida e un nocciolo duro all'interno. Sono dolci e succosi e maturano nei mesi più caldi dell'anno.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur les cerises. Les cerises sont de petits fruits ronds avec une peau rouge brillante et un noyau dur à l'intérieur. Ils sont sucrés et juteux et mûrissent pendant les mois les plus chauds de l’année.",
+      "script_es": "Hoy vamos a aprender sobre las cerezas. Las cerezas son frutos pequeños, redondos, con piel roja brillante y un hueso duro en su interior. Son dulces y jugosas y maduran en los meses más cálidos del año.",
+      "script_hr": "Danas ćemo učiti o trešnjama. Trešnje su mali, okrugli plodovi sa sjajnom crvenom kožicom i tvrdom košticom iznutra. Slatki su i sočni, a sazrijevaju u toplijim mjesecima godine.",
+      "script_cs": "Dnes se budeme učit o třešních. Třešně jsou malé, kulaté plody s leskle červenou slupkou a tvrdou peckou uvnitř. Jsou sladké a šťavnaté a dozrávají v teplejších měsících roku.",
+      "script_pl": "Dzisiaj będziemy uczyć się o wiśniach. Wiśnie to małe, okrągłe owoce o błyszczącej czerwonej skórce i twardym pestce w środku. Są słodkie i soczyste, a dojrzewają w cieplejszych miesiącach roku.",
+      "script_fi": "Tänään opimme kirsikoista. Kirsikat ovat pieniä, pyöreitä hedelmiä, joissa on kiiltävä punainen kuori ja kova kivi sisällä. Ne ovat makeita ja mehukkaita, ja ne kypsyvät vuoden lämpiminä kuukausina.",
+      "script_sk": "Dnes sa dozvieme niečo o čerešniach. Čerešne sú malé, okrúhle plody s lesklou červenou šupkou a tvrdou kôstkou vo vnútri. Sú sladké a šťavnaté a dozrievajú v teplejších mesiacoch roka.",
+      "script_da": "I dag skal vi lære om kirsebær. Kirsebær er små, runde frugter med skinnende rødt skind og en hård sten indeni. De er søde og saftige, og de modner i årets varmere måneder.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "origin",
+      "script_en": "Cherries first grew in parts of Europe and Asia. People have grown cherry trees for thousands of years, both for their fruit and for their beautiful spring blossoms. Today cherries are grown in many countries with cool winters and warm summers.",
+      "script_de": "Kirschen wuchsen zunächst in Teilen Europas und Asiens. Seit Tausenden von Jahren züchten Menschen Kirschbäume, sowohl wegen ihrer Früchte als auch wegen ihrer wunderschönen Frühlingsblüten. Heutzutage werden Kirschen in vielen Ländern mit kühlen Wintern und warmen Sommern angebaut.",
+      "script_it": "Le ciliegie sono cresciute per la prima volta in alcune parti dell'Europa e dell'Asia. Le persone coltivano ciliegi da migliaia di anni, sia per i loro frutti che per i loro bellissimi fiori primaverili. Oggi le ciliegie vengono coltivate in molti paesi con inverni freddi ed estati calde.",
+      "script_fr": "Les cerises ont d'abord poussé dans certaines régions d'Europe et d'Asie. Les gens cultivent des cerisiers depuis des milliers d’années, à la fois pour leurs fruits et pour leurs belles fleurs printanières. Aujourd’hui, les cerises sont cultivées dans de nombreux pays aux hivers frais et aux étés chauds.",
+      "script_es": "Las cerezas crecieron por primera vez en partes de Europa y Asia. La gente ha cultivado cerezos durante miles de años, tanto por sus frutos como por sus hermosas flores primaverales. Hoy en día, las cerezas se cultivan en muchos países con inviernos frescos y veranos cálidos.",
+      "script_hr": "Trešnje su prvo rasle u dijelovima Europe i Azije. Ljudi već tisućama godina uzgajaju stabla trešnje, kako zbog plodova tako i zbog prekrasnih proljetnih cvjetova. Danas se trešnje uzgajaju u mnogim zemljama s hladnim zimama i toplim ljetima.",
+      "script_cs": "Třešně nejprve rostly v částech Evropy a Asie. Lidé pěstují třešně po tisíce let jak pro jejich ovoce, tak pro krásné jarní květy. Dnes se třešně pěstují v mnoha zemích s chladnými zimami a teplými léty.",
+      "script_pl": "Wiśnie początkowo rosły w niektórych częściach Europy i Azji. Ludzie uprawiają wiśnie od tysięcy lat, zarówno ze względu na owoce, jak i piękne wiosenne kwiaty. Obecnie wiśnie uprawia się w wielu krajach o chłodnych zimach i ciepłych latach.",
+      "script_fi": "Kirsikat kasvoivat ensin osissa Eurooppaa ja Aasiaa. Ihmiset ovat kasvattaneet kirsikkapuita tuhansia vuosia sekä niiden hedelmien että kauniiden kevätkukkiensa vuoksi. Nykyään kirsikoita viljellään monissa maissa, joissa talvet ovat kylmiä ja kesät lämpimiä.",
+      "script_sk": "Čerešne najprv rástli v častiach Európy a Ázie. Ľudia pestujú čerešne už tisíce rokov pre ich ovocie aj pre krásne jarné kvety. Dnes sa čerešne pestujú v mnohých krajinách s chladnými zimami a teplými letami.",
+      "script_da": "Kirsebær voksede først i dele af Europa og Asien. Folk har dyrket kirsebærtræer i tusinder af år, både for deres frugter og for deres smukke forårsblomster. I dag dyrkes kirsebær i mange lande med kølige vintre og varme somre.",
+      "images": [
+        "origin.webp",
+        "origin_2.webp",
+        "origin_3.webp"
+      ]
+    },
+    {
+      "id": "growth",
+      "script_en": "A cherry tree blossoms in spring, covering its branches in white or pink flowers. Bees and other insects visit the flowers and help them make fruit. The cherries grow and change colour through the summer until they are ready to pick.",
+      "script_de": "Ein Kirschbaum blüht im Frühling und bedeckt seine Zweige mit weißen oder rosa Blüten. Bienen und andere Insekten besuchen die Blumen und helfen ihnen, Früchte zu tragen. Die Kirschen wachsen und verändern im Laufe des Sommers ihre Farbe, bis sie zur Ernte bereit sind.",
+      "script_it": "Un ciliegio fiorisce in primavera, ricoprendo i suoi rami di fiori bianchi o rosa. Le api e altri insetti visitano i fiori e li aiutano a produrre frutti. Le ciliegie crescono e cambiano colore durante l'estate finché non sono pronte per essere raccolte.",
+      "script_fr": "Un cerisier fleurit au printemps et couvre ses branches de fleurs blanches ou roses. Les abeilles et autres insectes visitent les fleurs et les aident à produire des fruits. Les cerises poussent et changent de couleur tout au long de l'été jusqu'à ce qu'elles soient prêtes à être cueillies.",
+      "script_es": "Un cerezo florece en primavera y cubre sus ramas de flores blancas o rosadas. Las abejas y otros insectos visitan las flores y las ayudan a producir frutos. Las cerezas crecen y cambian de color durante el verano hasta que están listas para ser recogidas.",
+      "script_hr": "Drvo trešnje cvate u proljeće, pokrivajući svoje grane bijelim ili ružičastim cvjetovima. Pčele i drugi kukci posjećuju cvijeće i pomažu im u stvaranju plodova. Trešnje rastu i mijenjaju boju tijekom ljeta sve dok ne budu spremne za branje.",
+      "script_cs": "Třešeň kvete na jaře a pokrývá své větve bílými nebo růžovými květy. Včely a další hmyz navštěvují květiny a pomáhají jim vytvářet ovoce. Třešně rostou a mění barvu přes léto, dokud nejsou připraveny ke sběru.",
+      "script_pl": "Wiśniowe drzewo kwitnie wiosną, pokrywając gałęzie białymi lub różowymi kwiatami. Pszczoły i inne owady odwiedzają kwiaty i pomagają im w wytwarzaniu owoców. Wiśnie rosną i zmieniają kolor przez całe lato, aż będą gotowe do zbioru.",
+      "script_fi": "Kirsikkapuu kukkii keväällä ja peittää oksansa valkoisin tai vaaleanpunaisin kukin. Mehiläiset ja muut hyönteiset vierailevat kukkien luona ja auttavat niitä tuottamaan hedelmää. Kirsikat kasvavat ja vaihtavat väriä läpi kesän, kunnes ne ovat valmiita poimimaan.",
+      "script_sk": "Na jar kvitne čerešňa, ktorá pokrýva svoje konáre bielymi alebo ružovými kvetmi. Včely a iný hmyz navštevujú kvety a pomáhajú im vytvárať ovocie. Čerešne rastú a menia farbu cez leto, kým nie sú pripravené na zber.",
+      "script_da": "Et kirsebærtræ blomstrer om foråret og dækker sine grene med hvide eller lyserøde blomster. Bier og andre insekter besøger blomsterne og hjælper dem med at lave frugt. Kirsebærene vokser og skifter farve hen over sommeren, indtil de skal plukkes.",
+      "images": [
+        "growth.webp",
+        "growth_2.webp",
+        "growth_3.webp"
+      ]
+    },
+    {
+      "id": "varieties",
+      "script_en": "There are two main kinds of cherry: sweet cherries for eating fresh and sour cherries for cooking. They come in different sizes and shades of red, from bright scarlet to deep burgundy. Each cherry has a small stone in the middle.",
+      "script_de": "Es gibt zwei Hauptarten von Kirschen: Süßkirschen zum Frischverzehr und Sauerkirschen zum Kochen. Es gibt sie in verschiedenen Größen und Rottönen, von leuchtendem Scharlachrot bis zu tiefem Burgunderrot. Jede Kirsche hat in der Mitte einen kleinen Kern.",
+      "script_it": "Esistono due tipi principali di ciliegie: le ciliegie dolci da mangiare fresche e le amarene da cucinare. Sono disponibili in diverse dimensioni e sfumature di rosso, dallo scarlatto brillante al bordeaux intenso. Ogni ciliegia ha al centro un piccolo nocciolo.",
+      "script_fr": "Il existe deux principales sortes de cerises : les cerises douces pour manger fraîches et les cerises aigres pour cuisiner. Ils existent en différentes tailles et nuances de rouge, de l'écarlate vif au bordeaux foncé. Chaque cerise possède un petit noyau au milieu.",
+      "script_es": "Hay dos tipos principales de cerezas: las dulces para comer frescas y las guindas ácidas para cocinar. Vienen en diferentes tamaños y tonos de rojo, desde escarlata brillante hasta burdeos intenso. Cada cereza tiene un pequeño hueso en el medio.",
+      "script_hr": "Postoje dvije glavne vrste trešanja: slatke trešnje za jelo svježe i višnje za kuhanje. Dolaze u različitim veličinama i nijansama crvene, od žarko grimizne do duboke bordo. Svaka trešnja ima košticu u sredini.",
+      "script_cs": "Existují dva hlavní druhy třešní: sladké třešně pro konzumaci čerstvých a višně pro vaření. Přicházejí v různých velikostech a odstínech červené, od jasně šarlatové až po tmavě vínovou. Každá třešeň má uprostřed malou pecku.",
+      "script_pl": "Istnieją dwa główne rodzaje wiśni: czereśnie do spożycia na świeżo i wiśnie do gotowania. Występują w różnych rozmiarach i odcieniach czerwieni, od jasnego szkarłatu po głęboki burgund. Każda wiśnia ma w środku mały pestkę.",
+      "script_fi": "Kirsikoita on kahta päätyyppiä: makeat kirsikat tuoreen syömiseen ja hapankirsikat ruoanlaittoon. Niitä on eri kokoisia ja punaisen sävyjä, kirkkaasta helakanpunaisesta syvään viininpunaiseen. Jokaisen kirsikan keskellä on pieni kivi.",
+      "script_sk": "Existujú dva hlavné druhy čerešní: sladké čerešne na konzumáciu čerstvých a višne na varenie. Prichádzajú v rôznych veľkostiach a odtieňoch červenej, od jasnej šarlátovej až po sýtu bordovú. Každá čerešňa má v strede malú kôstku.",
+      "script_da": "Der er to hovedtyper af kirsebær: søde kirsebær til at spise friske og sure kirsebær til madlavning. De kommer i forskellige størrelser og nuancer af rød, fra lys skarlagenrød til dyb bordeaux. Hvert kirsebær har en lille sten i midten.",
+      "images": [
+        "varieties.webp",
+        "varieties_2.webp",
+        "varieties_3.webp"
+      ]
+    },
+    {
+      "id": "kitchen",
+      "script_en": "In the kitchen, cherries are eaten fresh or used in pies, cakes, and jam. Sour cherries are often cooked with sugar because their flavour is sharp. A bowl of ripe cherries is a bright and cheerful summer treat.",
+      "script_de": "In der Küche werden Kirschen frisch gegessen oder in Kuchen, Kuchen und Marmelade verwendet. Sauerkirschen werden wegen ihres scharfen Geschmacks oft mit Zucker gekocht. Eine Schüssel mit reifen Kirschen ist ein fröhlicher und fröhlicher Sommergenuss.",
+      "script_it": "In cucina le ciliegie vengono consumate fresche o utilizzate in crostate, dolci e marmellate. Le amarene vengono spesso cotte con lo zucchero perché il loro sapore è deciso. Una ciotola di ciliegie mature è una delizia estiva luminosa e allegra.",
+      "script_fr": "En cuisine, les cerises se consomment fraîches ou utilisées dans les tartes, les gâteaux et les confitures. Les griottes sont souvent cuites avec du sucre car leur saveur est piquante. Un bol de cerises mûres est un régal estival lumineux et joyeux.",
+      "script_es": "En la cocina, las cerezas se comen frescas o se utilizan en tartas, pasteles y mermeladas. Las guindas a menudo se cocinan con azúcar porque su sabor es picante. Un plato de cerezas maduras es un regalo de verano brillante y alegre.",
+      "script_hr": "U kuhinji se trešnje jedu svježe ili se koriste u pitama, kolačima i pekmezu. Višnje se često kuhaju sa šećerom jer imaju oštar okus. Zdjela zrelih trešanja vedra je i vesela ljetna poslastica.",
+      "script_cs": "V kuchyni se třešně jedí čerstvé nebo se používají do koláčů, koláčů a džemů. Višně se často vaří s cukrem, protože mají ostrou chuť. Mísa zralých třešní je jasná a veselá letní pochoutka.",
+      "script_pl": "W kuchni wiśnie są spożywane na świeżo lub dodawane do ciast, ciast i dżemów. Wiśnie często gotuje się z cukrem, ponieważ mają ostry smak. Miska dojrzałych wiśni to jasna i wesoła letnia uczta.",
+      "script_fi": "Keittiössä kirsikoita syödään tuoreena tai käytetään piirakoissa, kakuissa ja hilloissa. Hapankirsikoita keitetään usein sokerilla, koska niiden maku on terävä. Kulho kypsiä kirsikoita on valoisa ja iloinen kesäherkku.",
+      "script_sk": "V kuchyni sa čerešne jedia čerstvé alebo sa používajú na koláče, koláče a džem. Višne sa často varia s cukrom, pretože majú ostrú chuť. Miska zrelých čerešní je jasná a veselá letná pochúťka.",
+      "script_da": "I køkkenet spises kirsebær friske eller bruges i tærter, kager og marmelade. Surkirsebær koges ofte med sukker, fordi deres smag er skarp. En skål med modne kirsebær er en lys og munter sommerhygge.",
+      "images": [
+        "kitchen.webp",
+        "kitchen_2.webp",
+        "kitchen_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "stone",
+      "correct": "stone",
+      "question_en": "What is inside a cherry?",
+      "question_de": "Was steckt in einer Kirsche?",
+      "question_it": "Cosa c'è dentro una ciliegia?",
+      "question_fr": "Qu’y a-t-il à l’intérieur d’une cerise ?",
+      "question_es": "¿Qué hay dentro de una cereza?",
+      "question_hr": "Što je unutar trešnje?",
+      "question_cs": "Co je uvnitř třešně?",
+      "question_pl": "Co kryje się w wiśni?",
+      "question_fi": "Mitä kirsikan sisällä on?",
+      "question_sk": "Čo je vo vnútri čerešne?",
+      "question_da": "Hvad er der inde i et kirsebær?",
+      "options": [
+        {
+          "id": "stone",
+          "label_en": "A hard stone",
+          "label_de": "Ein harter Stein",
+          "label_it": "Una pietra dura",
+          "label_fr": "Une pierre dure",
+          "label_es": "una piedra dura",
+          "label_hr": "Tvrd kamen",
+          "label_cs": "Tvrdý kámen",
+          "label_pl": "Twardy kamień",
+          "label_fi": "Kova kivi",
+          "label_sk": "Tvrdý kameň",
+          "label_da": "En hård sten"
+        },
+        {
+          "id": "shell",
+          "label_en": "A hard shell",
+          "label_de": "Eine harte Schale",
+          "label_it": "Un guscio duro",
+          "label_fr": "Une coque dure",
+          "label_es": "Un caparazón duro",
+          "label_hr": "Tvrda ljuska",
+          "label_cs": "Tvrdá skořápka",
+          "label_pl": "Twarda skorupa",
+          "label_fi": "Kova kuori",
+          "label_sk": "Tvrdá škrupina",
+          "label_da": "En hård skal"
+        },
+        {
+          "id": "juice",
+          "label_en": "Only juice",
+          "label_de": "Nur Saft",
+          "label_it": "Solo succo",
+          "label_fr": "Seulement du jus",
+          "label_es": "solo jugo",
+          "label_hr": "Samo sok",
+          "label_cs": "Pouze šťáva",
+          "label_pl": "Tylko sok",
+          "label_fi": "Vain mehua",
+          "label_sk": "Iba šťava",
+          "label_da": "Kun juice"
+        }
+      ]
+    },
+    {
+      "id": "tree",
+      "correct": "tree",
+      "question_en": "What kind of plant do cherries grow on?",
+      "question_de": "Auf welcher Pflanze wachsen Kirschen?",
+      "question_it": "Su che tipo di pianta crescono le ciliegie?",
+      "question_fr": "Sur quel type de plante poussent les cerises ?",
+      "question_es": "¿En qué tipo de planta crecen las cerezas?",
+      "question_hr": "Na kakvoj biljci rastu trešnje?",
+      "question_cs": "Na jaké rostlině rostou třešně?",
+      "question_pl": "Na jakiej roślinie rosną wiśnie?",
+      "question_fi": "Millaisessa kasvissa kirsikat kasvavat?",
+      "question_sk": "Na akej rastline rastú čerešne?",
+      "question_da": "Hvilken slags plante vokser kirsebær på?",
+      "options": [
+        {
+          "id": "tree",
+          "label_en": "A tree",
+          "label_de": "Ein Baum",
+          "label_it": "Un albero",
+          "label_fr": "Un arbre",
+          "label_es": "un arbol",
+          "label_hr": "Drvo",
+          "label_cs": "Strom",
+          "label_pl": "Drzewo",
+          "label_fi": "Puu",
+          "label_sk": "Strom",
+          "label_da": "Et træ"
+        },
+        {
+          "id": "vine",
+          "label_en": "A vine",
+          "label_de": "Eine Rebe",
+          "label_it": "Una vite",
+          "label_fr": "Une vigne",
+          "label_es": "una vid",
+          "label_hr": "Vinova loza",
+          "label_cs": "Vinná réva",
+          "label_pl": "Winorośl",
+          "label_fi": "Viiniköynnös",
+          "label_sk": "Vinič",
+          "label_da": "En vinstok"
+        },
+        {
+          "id": "reed",
+          "label_en": "A reed",
+          "label_de": "Ein Schilfrohr",
+          "label_it": "Una canna",
+          "label_fr": "Un roseau",
+          "label_es": "una caña",
+          "label_hr": "Trska",
+          "label_cs": "Rákos",
+          "label_pl": "Trzcina",
+          "label_fi": "Ruoko",
+          "label_sk": "Trstina",
+          "label_da": "Et siv"
+        }
+      ]
+    },
+    {
+      "id": "kinds",
+      "correct": "sweet_sour",
+      "question_en": "Which two main kinds of cherry are there?",
+      "question_de": "Welche zwei Hauptkirschsorten gibt es?",
+      "question_it": "Quali sono i due principali tipi di ciliegia?",
+      "question_fr": "Quelles sont les deux principales sortes de cerises ?",
+      "question_es": "¿Qué dos tipos principales de cerezas existen?",
+      "question_hr": "Koje dvije glavne vrste trešanja postoje?",
+      "question_cs": "Jaké dva hlavní druhy třešní existují?",
+      "question_pl": "Jakie są dwa główne rodzaje wiśni?",
+      "question_fi": "Mitkä kaksi kirsikkapäätyyppiä ovat olemassa?",
+      "question_sk": "Aké dva hlavné druhy čerešní existujú?",
+      "question_da": "Hvilke to hovedtyper af kirsebær er der?",
+      "options": [
+        {
+          "id": "sweet_sour",
+          "label_en": "Sweet and sour cherries",
+          "label_de": "Süß- und Sauerkirschen",
+          "label_it": "Ciliegie agrodolci",
+          "label_fr": "Cerises aigres-douces",
+          "label_es": "Cerezas agridulces",
+          "label_hr": "Slatke i kisele višnje",
+          "label_cs": "Sladké a višně",
+          "label_pl": "Słodkie i kwaśne wiśnie",
+          "label_fi": "Hapanimeläkirsikoita",
+          "label_sk": "Sladké a višne",
+          "label_da": "Søde og sure kirsebær"
+        },
+        {
+          "id": "red_blue",
+          "label_en": "Red and blue cherries",
+          "label_de": "Rote und blaue Kirschen",
+          "label_it": "Ciliegie rosse e blu",
+          "label_fr": "Cerises rouges et bleues",
+          "label_es": "Cerezas rojas y azules",
+          "label_hr": "Crvene i plave trešnje",
+          "label_cs": "Červené a modré třešně",
+          "label_pl": "Czerwone i niebieskie wiśnie",
+          "label_fi": "Punaisia ​​ja sinisiä kirsikoita",
+          "label_sk": "Červené a modré čerešne",
+          "label_da": "Røde og blå kirsebær"
+        },
+        {
+          "id": "big_small",
+          "label_en": "Big and small cherries",
+          "label_de": "Große und kleine Kirschen",
+          "label_it": "Ciliegie grandi e piccole",
+          "label_fr": "Grosses et petites cerises",
+          "label_es": "Cerezas grandes y pequeñas",
+          "label_hr": "Velike i male trešnje",
+          "label_cs": "Velké a malé třešně",
+          "label_pl": "Duże i małe wiśnie",
+          "label_fi": "Isoja ja pieniä kirsikoita",
+          "label_sk": "Veľké a malé čerešne",
+          "label_da": "Store og små kirsebær"
+        }
+      ]
+    }
+  ]
+}
