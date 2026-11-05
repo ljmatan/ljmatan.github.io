@@ -419,6 +419,27 @@
       "title_fi": "Juusto",
       "title_sk": "Syr",
       "title_da": "Ost"
+    },
+    {
+      "id": "orange",
+      "category_id": "food",
+      "symbol_id": "orange",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/orange/orange_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/orange/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 1968835,
+      "version": 1,
+      "title_en": "Oranges",
+      "title_de": "Orangen",
+      "title_it": "Arance",
+      "title_fr": "Oranges",
+      "title_es": "naranjas",
+      "title_hr": "Naranče",
+      "title_cs": "Pomeranče",
+      "title_pl": "Pomarańcze",
+      "title_fi": "Appelsiinit",
+      "title_sk": "Pomaranče",
+      "title_da": "Appelsiner"
     }
   ]
 }

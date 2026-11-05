@@ -1,0 +1,293 @@
+{
+  "id": "orange",
+  "category_id": "food",
+  "symbol_id": "orange",
+  "thumbnail": "orange_thumb.webp",
+  "title_en": "Oranges",
+  "title_de": "Orangen",
+  "title_it": "Arance",
+  "title_fr": "Oranges",
+  "title_es": "naranjas",
+  "title_hr": "Naranče",
+  "title_cs": "Pomeranče",
+  "title_pl": "Pomarańcze",
+  "title_fi": "Appelsiinit",
+  "title_sk": "Pomaranče",
+  "title_da": "Appelsiner",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about oranges. Oranges are round citrus fruits with a bright colour and a sweet, slightly sharp taste. They are full of juice and are one of the most popular fruits in the world.",
+      "script_de": "Heute lernen wir etwas über Orangen. Orangen sind runde Zitrusfrüchte mit leuchtender Farbe und süßem, leicht scharfem Geschmack. Sie stecken voller Saft und gehören zu den beliebtesten Früchten der Welt.",
+      "script_it": "Oggi parleremo delle arance. Le arance sono agrumi rotondi dal colore brillante e dal sapore dolce e leggermente piccante. Sono pieni di succo e sono uno dei frutti più apprezzati al mondo.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur les oranges. Les oranges sont des agrumes ronds, de couleur vive et au goût sucré et légèrement piquant. Ils regorgent de jus et sont l’un des fruits les plus populaires au monde.",
+      "script_es": "Hoy vamos a aprender sobre las naranjas. Las naranjas son cítricos redondos, de color brillante y sabor dulce y ligeramente picante. Están llenas de jugo y son una de las frutas más populares del mundo.",
+      "script_hr": "Danas ćemo učiti o narančama. Naranče su okrugli agrumi jarke boje i slatkog, pomalo oštrog okusa. Puni su soka i jedno su od najpopularnijih voća na svijetu.",
+      "script_cs": "Dnes se budeme učit o pomerančích. Pomeranče jsou kulaté citrusové plody s jasnou barvou a sladkou, mírně ostrou chutí. Jsou plné šťávy a jsou jedním z nejoblíbenějších druhů ovoce na světě.",
+      "script_pl": "Dzisiaj będziemy uczyć się o pomarańczach. Pomarańcze to okrągłe owoce cytrusowe o jasnej barwie i słodkim, lekko ostrym smaku. Są pełne soku i są jednymi z najpopularniejszych owoców na świecie.",
+      "script_fi": "Tänään opimme appelsiineista. Appelsiinit ovat pyöreitä sitrushedelmiä, joilla on kirkas väri ja makea, hieman terävä maku. Ne ovat täynnä mehua ja ovat yksi maailman suosituimmista hedelmistä.",
+      "script_sk": "Dnes sa dozvieme niečo o pomarančoch. Pomaranče sú okrúhle citrusové plody s jasnou farbou a sladkou, mierne ostrou chuťou. Sú plné šťavy a sú jedným z najobľúbenejších druhov ovocia na svete.",
+      "script_da": "I dag skal vi lære om appelsiner. Appelsiner er runde citrusfrugter med en lys farve og en sød, let skarp smag. De er fulde af juice og er en af ​​de mest populære frugter i verden.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "origin",
+      "script_en": "Oranges first grew in Asia, and people carried them along trade routes to Europe and beyond. Today they grow in warm, sunny places such as Spain, Italy, Florida, and Brazil. An orange tree can stay green all year and produce fruit for many seasons.",
+      "script_de": "Orangen wuchsen zunächst in Asien und die Menschen transportierten sie über Handelsrouten nach Europa und darüber hinaus. Heute wachsen sie an warmen, sonnigen Orten wie Spanien, Italien, Florida und Brasilien. Ein Orangenbaum kann das ganze Jahr über grün bleiben und viele Jahreszeiten lang Früchte tragen.",
+      "script_it": "Le arance crescevano per la prima volta in Asia e le persone le trasportavano lungo le rotte commerciali verso l’Europa e oltre. Oggi crescono in luoghi caldi e soleggiati come Spagna, Italia, Florida e Brasile. Un albero di arancio può restare verde tutto l’anno e produrre frutti per molte stagioni.",
+      "script_fr": "Les oranges ont d’abord poussé en Asie et les gens les transportaient le long des routes commerciales vers l’Europe et au-delà. Aujourd’hui, ils poussent dans des endroits chauds et ensoleillés comme l’Espagne, l’Italie, la Floride et le Brésil. Un oranger peut rester vert toute l’année et produire des fruits pendant de nombreuses saisons.",
+      "script_es": "Las naranjas crecieron por primera vez en Asia y la gente las transportaba a lo largo de las rutas comerciales hacia Europa y más allá. Hoy crecen en lugares cálidos y soleados como España, Italia, Florida y Brasil. Un naranjo puede permanecer verde todo el año y producir frutos durante muchas estaciones.",
+      "script_hr": "Naranče su prvo rasle u Aziji, a ljudi su ih nosili trgovačkim putovima u Europu i šire. Danas rastu na toplim, sunčanim mjestima kao što su Španjolska, Italija, Florida i Brazil. Stablo naranče može ostati zeleno tijekom cijele godine i proizvoditi plodove kroz mnoga godišnja doba.",
+      "script_cs": "Pomeranče nejprve rostly v Asii a lidé je nosili po obchodních cestách do Evropy i mimo ni. Dnes rostou na teplých, slunných místech, jako je Španělsko, Itálie, Florida a Brazílie. Pomerančovník může zůstat zelený po celý rok a produkovat ovoce po mnoho sezón.",
+      "script_pl": "Pomarańcze po raz pierwszy rosły w Azji, a ludzie nosili je szlakami handlowymi do Europy i dalej. Dziś rosną w ciepłych, słonecznych miejscach, takich jak Hiszpania, Włochy, Floryda i Brazylia. Drzewo pomarańczowe może pozostać zielone przez cały rok i wydawać owoce przez wiele sezonów.",
+      "script_fi": "Appelsiinit kasvoivat ensin Aasiassa, ja ihmiset kuljettivat niitä kauppareittejä pitkin Eurooppaan ja sen ulkopuolelle. Nykyään ne kasvavat lämpimissä, aurinkoisissa paikoissa, kuten Espanjassa, Italiassa, Floridassa ja Brasiliassa. Appelsiinipuu voi pysyä vihreänä ympäri vuoden ja tuottaa hedelmää useiden vuodenaikojen ajan.",
+      "script_sk": "Pomaranče najprv rástli v Ázii a ľudia ich nosili po obchodných cestách do Európy aj mimo nej. Dnes rastú na teplých, slnečných miestach, ako je Španielsko, Taliansko, Florida a Brazília. Pomarančovník môže zostať zelený po celý rok a prinášať ovocie počas mnohých sezón.",
+      "script_da": "Appelsiner voksede først i Asien, og folk bar dem ad handelsruter til Europa og videre. I dag vokser de på varme, solrige steder som Spanien, Italien, Florida og Brasilien. Et appelsintræ kan forblive grønt hele året og producere frugt i mange sæsoner.",
+      "images": [
+        "origin.webp",
+        "origin_2.webp",
+        "origin_3.webp"
+      ]
+    },
+    {
+      "id": "growth",
+      "script_en": "Orange trees have shiny green leaves and small white flowers that smell wonderful. The flowers turn into green fruit, which slowly becomes orange as it ripens. It can take many months for an orange to grow sweet and ready to eat.",
+      "script_de": "Orangenbäume haben glänzend grüne Blätter und kleine weiße Blüten, die wunderbar duften. Die Blüten verwandeln sich in grüne Früchte, die mit zunehmender Reife langsam orange werden. Es kann viele Monate dauern, bis eine Orange süß und essfertig ist.",
+      "script_it": "Gli aranci hanno foglie verdi lucenti e piccoli fiori bianchi che hanno un profumo meraviglioso. I fiori si trasformano in frutti verdi, che lentamente diventano arancioni man mano che maturano. Possono volerci molti mesi prima che un'arancia diventi dolce e pronta da mangiare.",
+      "script_fr": "Les orangers ont des feuilles vertes brillantes et de petites fleurs blanches qui sentent bon. Les fleurs se transforment en fruits verts, qui deviennent lentement orange en mûrissant. Cela peut prendre plusieurs mois pour qu’une orange devienne sucrée et prête à être consommée.",
+      "script_es": "Los naranjos tienen hojas verdes brillantes y pequeñas flores blancas que huelen maravilloso. Las flores se convierten en frutos verdes, que lentamente se vuelven anaranjados a medida que maduran. Una naranja puede tardar muchos meses en volverse dulce y lista para comer.",
+      "script_hr": "Stabla naranče imaju sjajno zeleno lišće i male bijele cvjetove koji prekrasno mirišu. Cvjetovi se pretvaraju u zeleni plod koji sazrijevanjem polako postaje narančast. Može proći mnogo mjeseci da naranča postane slatka i spremna za jelo.",
+      "script_cs": "Pomerančovníky mají lesklé zelené listy a malé bílé květy, které nádherně voní. Květy se mění v zelené plody, které se dozráváním pomalu zbarvují do oranžova. Může trvat mnoho měsíců, než pomeranč zesládne a je připraven k jídlu.",
+      "script_pl": "Drzewa pomarańczowe mają błyszczące zielone liście i małe białe kwiaty, które cudownie pachną. Kwiaty zamieniają się w zielone owoce, które w miarę dojrzewania powoli stają się pomarańczowe. Zanim pomarańcza stanie się słodka i gotowa do spożycia, może minąć wiele miesięcy.",
+      "script_fi": "Appelsiinipuissa on kiiltävän vihreät lehdet ja pienet valkoiset kukat, jotka tuoksuvat ihanalta. Kukat muuttuvat vihreiksi hedelmiksi, jotka muuttuvat hitaasti oranssiksi kypsyessään. Voi kestää useita kuukausia, ennen kuin appelsiini kasvaa makeaksi ja syötäväksi.",
+      "script_sk": "Pomarančovníky majú lesklé zelené listy a malé biele kvety, ktoré nádherne voňajú. Kvety sa menia na zelené plody, ktoré sa dozrievaním pomaly menia na oranžové. Môže trvať mnoho mesiacov, kým pomaranč zosládne a bude pripravený na konzumáciu.",
+      "script_da": "Appelsintræer har skinnende grønne blade og små hvide blomster, der dufter vidunderligt. Blomsterne bliver til grøn frugt, som langsomt bliver orange, efterhånden som den modnes. Det kan tage mange måneder for en appelsin at blive sød og klar til at spise.",
+      "images": [
+        "growth.webp",
+        "growth_2.webp",
+        "growth_3.webp"
+      ]
+    },
+    {
+      "id": "nutrition",
+      "script_en": "Oranges are rich in vitamin C and contain a lot of water, which makes them refreshing. People eat them fresh, squeeze them for juice, and use the peel for flavour. The peel also contains fragrant oils used in cooking and baking.",
+      "script_de": "Orangen sind reich an Vitamin C und enthalten viel Wasser, was sie erfrischend macht. Man isst sie frisch, presst sie zu Saft aus und verwendet die Schale für den Geschmack. Die Schale enthält auch duftende Öle, die zum Kochen und Backen verwendet werden.",
+      "script_it": "Le arance sono ricche di vitamina C e contengono molta acqua, il che le rende rinfrescanti. La gente li mangia freschi, li spreme per ottenere il succo e usa la buccia per aromatizzarli. La buccia contiene anche oli profumati utilizzati in cucina e al forno.",
+      "script_fr": "Les oranges sont riches en vitamine C et contiennent beaucoup d’eau, ce qui les rend rafraîchissantes. Les gens les mangent frais, les pressent pour obtenir du jus et utilisent la peau pour leur saveur. La peau contient également des huiles parfumées utilisées en cuisine et en pâtisserie.",
+      "script_es": "Las naranjas son ricas en vitamina C y contienen mucha agua, lo que las hace refrescantes. La gente los come frescos, los exprime para obtener jugo y usa la cáscara para darle sabor. La cáscara también contiene aceites aromáticos que se utilizan para cocinar y hornear.",
+      "script_hr": "Naranče su bogate vitaminom C i sadrže puno vode, što ih čini osvježavajućim. Ljudi ih jedu svježe, cijede za sok, a koru koriste za okus. Kora sadrži i mirisna ulja koja se koriste u kuhanju i pečenju.",
+      "script_cs": "Pomeranče jsou bohaté na vitamín C a obsahují hodně vody, díky čemuž jsou osvěžující. Lidé je jedí čerstvé, lisují je na šťávu a kůru používají k dochucení. Slupka obsahuje také vonné oleje používané při vaření a pečení.",
+      "script_pl": "Pomarańcze są bogate w witaminę C i zawierają dużo wody, dzięki czemu działają orzeźwiająco. Ludzie jedzą je na świeżo, wyciskają na sok, a skórkę wykorzystują dla smaku. W skórce znajdują się także pachnące olejki stosowane w kuchni i pieczeniu.",
+      "script_fi": "Appelsiinit ovat runsaasti C-vitamiinia ja sisältävät paljon vettä, mikä tekee niistä virkistäviä. Ihmiset syövät niitä tuoreina, puristavat niistä mehua ja käyttävät kuorta maustamiseen. Kuori sisältää myös tuoksuvia öljyjä, joita käytetään ruoanlaitossa ja leivonnassa.",
+      "script_sk": "Pomaranče sú bohaté na vitamín C a obsahujú veľa vody, vďaka čomu sú osviežujúce. Ľudia ich jedia čerstvé, vytláčajú na šťavu a kôru používajú na ochutenie. Šupka obsahuje aj vonné oleje používané pri varení a pečení.",
+      "script_da": "Appelsiner er rige på C-vitamin og indeholder meget vand, hvilket gør dem forfriskende. Folk spiser dem friske, presser dem til juice og bruger skrællen til smag. Skrællen indeholder også duftende olier, der bruges til madlavning og bagning.",
+      "images": [
+        "nutrition.webp",
+        "nutrition_2.webp",
+        "nutrition_3.webp"
+      ]
+    },
+    {
+      "id": "kitchen",
+      "script_en": "In the kitchen, oranges become juice, marmalade, cakes, and sauces. A glass of fresh orange juice is a familiar breakfast drink, and orange peel adds a bright flavour to sweet and savoury dishes alike. Few fruits are as useful or as cheerful.",
+      "script_de": "In der Küche werden Orangen zu Saft, Marmelade, Kuchen und Soßen verarbeitet. Ein Glas frischer Orangensaft ist ein bekanntes Frühstücksgetränk und Orangenschale verleiht süßen und herzhaften Gerichten gleichermaßen einen hellen Geschmack. Nur wenige Früchte sind so nützlich oder so fröhlich.",
+      "script_it": "In cucina le arance diventano succhi, marmellate, dolci e salse. Un bicchiere di succo d'arancia fresco è una bevanda familiare per la colazione e la scorza d'arancia aggiunge un sapore brillante sia ai piatti dolci che a quelli salati. Pochi frutti sono così utili o così allegri.",
+      "script_fr": "En cuisine, les oranges deviennent du jus, de la marmelade, des gâteaux et des sauces. Un verre de jus d'orange frais est une boisson familière au petit-déjeuner, et le zeste d'orange ajoute une saveur vive aux plats sucrés et salés. Peu de fruits sont aussi utiles ou aussi joyeux.",
+      "script_es": "En la cocina, las naranjas se convierten en zumos, mermeladas, pasteles y salsas. Un vaso de jugo de naranja fresco es una bebida familiar para el desayuno, y la cáscara de naranja agrega un sabor brillante tanto a los platos dulces como a los salados. Pocas frutas son tan útiles o tan alegres.",
+      "script_hr": "U kuhinji naranče postaju sok, marmelada, kolači i umaci. Čaša svježeg soka od naranče poznato je piće za doručak, a narančina kora daje blistav okus i slatkim i slanim jelima. Malo je koje voće tako korisno ili tako veselo.",
+      "script_cs": "V kuchyni se z pomerančů stává šťáva, marmeláda, koláče a omáčky. Sklenice čerstvého pomerančového džusu je známý snídaňový nápoj a pomerančová kůra dodává sladkou i slanou chuť jasnou chuť. Málokteré ovoce je tak užitečné nebo tak veselé.",
+      "script_pl": "W kuchni pomarańcze stają się sokiem, marmoladą, ciastami i sosami. Szklanka świeżego soku pomarańczowego to znany napój śniadaniowy, a skórka pomarańczowa dodaje jasnego smaku zarówno słodkim, jak i pikantnym potrawom. Niewiele owoców jest tak przydatnych i wesołych.",
+      "script_fi": "Keittiössä appelsiineista tulee mehua, marmeladia, kakkuja ja kastikkeita. Lasillinen tuoretta appelsiinimehua on tuttu aamiaisjuoma, ja appelsiinin kuori tuo kirkasta makua niin makeisiin kuin suolaisiinkin ruokiin. Harvat hedelmät ovat yhtä hyödyllisiä tai iloisia.",
+      "script_sk": "V kuchyni sa z pomarančov stáva šťava, marmeláda, koláče a omáčky. Pohár čerstvej pomarančovej šťavy je známy raňajkový nápoj a pomarančová kôra dodáva jasnú chuť sladkým aj slaným jedlám. Máloktoré ovocie je také užitočné alebo také veselé.",
+      "script_da": "I køkkenet bliver appelsiner til juice, marmelade, kager og saucer. Et glas frisk appelsinjuice er en velkendt morgenmadsdrink, og appelsinskal tilføjer en lys smag til både søde og salte retter. Få frugter er så nyttige eller så muntre.",
+      "images": [
+        "kitchen.webp",
+        "kitchen_2.webp",
+        "kitchen_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "vitamin",
+      "correct": "c",
+      "question_en": "Which vitamin are oranges famous for?",
+      "question_de": "Für welches Vitamin sind Orangen berühmt?",
+      "question_it": "Per quale vitamina sono famose le arance?",
+      "question_fr": "Pour quelle vitamine les oranges sont-elles célèbres ?",
+      "question_es": "¿Por qué vitamina son famosas las naranjas?",
+      "question_hr": "Po kojem su vitaminu poznate naranče?",
+      "question_cs": "Jakým vitamínem jsou pomeranče známé?",
+      "question_pl": "Z jakiej witaminy słyną pomarańcze?",
+      "question_fi": "Mistä vitamiinista appelsiinit ovat kuuluisia?",
+      "question_sk": "Ktorým vitamínom sú pomaranče známe?",
+      "question_da": "Hvilket vitamin er appelsiner kendt for?",
+      "options": [
+        {
+          "id": "c",
+          "label_en": "Vitamin C",
+          "label_de": "Vitamin C",
+          "label_it": "Vitamina C",
+          "label_fr": "Vitamine C",
+          "label_es": "vitamina c",
+          "label_hr": "Vitamin C",
+          "label_cs": "vitamín C",
+          "label_pl": "Witamina C",
+          "label_fi": "C-vitamiini",
+          "label_sk": "vitamín C",
+          "label_da": "C-vitamin"
+        },
+        {
+          "id": "a",
+          "label_en": "Vitamin A only",
+          "label_de": "Nur Vitamin A",
+          "label_it": "Solo vitamina A",
+          "label_fr": "Vitamine A uniquement",
+          "label_es": "Solo vitamina A",
+          "label_hr": "Samo vitamin A",
+          "label_cs": "Pouze vitamín A",
+          "label_pl": "Tylko witamina A",
+          "label_fi": "Vain A-vitamiini",
+          "label_sk": "Len vitamín A",
+          "label_da": "Kun A-vitamin"
+        },
+        {
+          "id": "k",
+          "label_en": "Vitamin K only",
+          "label_de": "Nur Vitamin K",
+          "label_it": "Solo vitamina K",
+          "label_fr": "Vitamine K uniquement",
+          "label_es": "Solo vitamina K",
+          "label_hr": "Samo vitamin K",
+          "label_cs": "Pouze vitamín K",
+          "label_pl": "Tylko witamina K",
+          "label_fi": "Vain K-vitamiini",
+          "label_sk": "Len vitamín K",
+          "label_da": "Kun K-vitamin"
+        }
+      ]
+    },
+    {
+      "id": "tree",
+      "correct": "evergreen",
+      "question_en": "What kind of tree do oranges grow on?",
+      "question_de": "Auf welchem ​​Baum wachsen Orangen?",
+      "question_it": "Su che tipo di albero crescono le arance?",
+      "question_fr": "Sur quel type d'arbre poussent les oranges ?",
+      "question_es": "¿En qué tipo de árbol crecen las naranjas?",
+      "question_hr": "Na kakvom drvetu rastu naranče?",
+      "question_cs": "Na jakém stromě rostou pomeranče?",
+      "question_pl": "Na jakim drzewie rosną pomarańcze?",
+      "question_fi": "Millaisessa puussa appelsiinit kasvavat?",
+      "question_sk": "Na akom strome rastú pomaranče?",
+      "question_da": "Hvilken slags træ vokser appelsiner på?",
+      "options": [
+        {
+          "id": "evergreen",
+          "label_en": "An evergreen citrus tree",
+          "label_de": "Ein immergrüner Zitrusbaum",
+          "label_it": "Un albero di agrumi sempreverde",
+          "label_fr": "Un agrume à feuilles persistantes",
+          "label_es": "Un árbol de cítricos de hoja perenne",
+          "label_hr": "Zimzeleno stablo citrusa",
+          "label_cs": "Stálezelený citrusový strom",
+          "label_pl": "Wiecznie zielone drzewo cytrusowe",
+          "label_fi": "Ikivihreä sitruspuu",
+          "label_sk": "Vždyzelený citrusový strom",
+          "label_da": "Et stedsegrønt citrustræ"
+        },
+        {
+          "id": "pine",
+          "label_en": "A pine tree",
+          "label_de": "Eine Kiefer",
+          "label_it": "Un pino",
+          "label_fr": "Un pin",
+          "label_es": "un pino",
+          "label_hr": "Drvo bora",
+          "label_cs": "Borovice",
+          "label_pl": "Sosna",
+          "label_fi": "Mänty",
+          "label_sk": "Borovica",
+          "label_da": "Et fyrretræ"
+        },
+        {
+          "id": "palm",
+          "label_en": "A palm tree",
+          "label_de": "Eine Palme",
+          "label_it": "Una palma",
+          "label_fr": "Un palmier",
+          "label_es": "una palmera",
+          "label_hr": "Palma",
+          "label_cs": "Palma",
+          "label_pl": "Palma",
+          "label_fi": "Palmu",
+          "label_sk": "Palma",
+          "label_da": "Et palmetræ"
+        }
+      ]
+    },
+    {
+      "id": "origin",
+      "correct": "asia",
+      "question_en": "Where did oranges first grow?",
+      "question_de": "Wo wuchsen Orangen zum ersten Mal?",
+      "question_it": "Dove sono cresciute per la prima volta le arance?",
+      "question_fr": "Où les oranges ont-elles poussé pour la première fois ?",
+      "question_es": "¿Dónde crecieron las naranjas por primera vez?",
+      "question_hr": "Gdje su naranče prvo rasle?",
+      "question_cs": "Kde poprvé vyrostly pomeranče?",
+      "question_pl": "Gdzie po raz pierwszy wyrosły pomarańcze?",
+      "question_fi": "Missä appelsiinit kasvoivat ensimmäisen kerran?",
+      "question_sk": "Kde prvýkrát rástli pomaranče?",
+      "question_da": "Hvor voksede appelsiner først?",
+      "options": [
+        {
+          "id": "asia",
+          "label_en": "In Asia",
+          "label_de": "In Asien",
+          "label_it": "Nell'Asia",
+          "label_fr": "En Asie",
+          "label_es": "En asia",
+          "label_hr": "U Aziji",
+          "label_cs": "V Asii",
+          "label_pl": "W Azji",
+          "label_fi": "Aasiassa",
+          "label_sk": "V Ázii",
+          "label_da": "I Asien"
+        },
+        {
+          "id": "europe",
+          "label_en": "In northern Europe",
+          "label_de": "In Nordeuropa",
+          "label_it": "Nel nord Europa",
+          "label_fr": "En Europe du Nord",
+          "label_es": "En el norte de Europa",
+          "label_hr": "U sjevernoj Europi",
+          "label_cs": "V severní Evropě",
+          "label_pl": "W północnej Europie",
+          "label_fi": "Pohjois-Euroopassa",
+          "label_sk": "V severnej Európe",
+          "label_da": "I det nordlige Europa"
+        },
+        {
+          "id": "antarctica",
+          "label_en": "In Antarctica",
+          "label_de": "In der Antarktis",
+          "label_it": "In Antartide",
+          "label_fr": "En Antarctique",
+          "label_es": "en la antártida",
+          "label_hr": "Na Antarktiku",
+          "label_cs": "V Antarktidě",
+          "label_pl": "Na Antarktydzie",
+          "label_fi": "Etelämantereella",
+          "label_sk": "V Antarktíde",
+          "label_da": "I Antarktis"
+        }
+      ]
+    }
+  ]
+}
