@@ -358,6 +358,27 @@
       "title_da": "Kaniner"
     },
     {
+      "id": "sheep",
+      "category_id": "animals",
+      "symbol_id": "sheep",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/sheep/sheep_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/sheep/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2135720,
+      "version": 1,
+      "title_en": "Sheep",
+      "title_de": "Schaf",
+      "title_it": "Pecora",
+      "title_fr": "Mouton",
+      "title_es": "Oveja",
+      "title_hr": "ovce",
+      "title_cs": "Ovce",
+      "title_pl": "Owce",
+      "title_fi": "lampaat",
+      "title_sk": "Ovce",
+      "title_da": "Får"
+    },
+    {
       "id": "tiger",
       "category_id": "animals",
       "symbol_id": "tiger",

@@ -1,0 +1,293 @@
+{
+  "id": "sheep",
+  "category_id": "animals",
+  "symbol_id": "sheep",
+  "thumbnail": "sheep_thumb.webp",
+  "title_en": "Sheep",
+  "title_de": "Schaf",
+  "title_it": "Pecora",
+  "title_fr": "Mouton",
+  "title_es": "Oveja",
+  "title_hr": "ovce",
+  "title_cs": "Ovce",
+  "title_pl": "Owce",
+  "title_fi": "lampaat",
+  "title_sk": "Ovce",
+  "title_da": "Får",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about sheep. Sheep are gentle farm animals covered in thick wool. They live in flocks, follow one another closely, and have been kept by people for thousands of years for wool, milk, and meat.",
+      "script_de": "Heute lernen wir etwas über Schafe. Schafe sind sanfte Nutztiere mit dicker Wolle. Sie leben in Schwärmen, folgen dicht hintereinander und werden seit Jahrtausenden von Menschen wegen Wolle, Milch und Fleisch gehalten.",
+      "script_it": "Oggi impareremo a conoscere le pecore. Le pecore sono animali da fattoria docili ricoperti di lana spessa. Vivono in stormi, si susseguono uno vicino all'altro e sono stati allevati dall'uomo per migliaia di anni per la lana, il latte e la carne.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur les moutons. Les moutons sont de doux animaux de ferme recouverts d'une laine épaisse. Ils vivent en troupeaux, se suivent de près et sont élevés par l'homme depuis des milliers d'années pour leur laine, leur lait et leur viande.",
+      "script_es": "Hoy vamos a aprender sobre las ovejas. Las ovejas son animales de granja apacibles cubiertos de lana gruesa. Viven en rebaños, se suceden muy de cerca y han sido criados por la gente durante miles de años para obtener lana, leche y carne.",
+      "script_hr": "Danas ćemo učiti o ovcama. Ovce su nježne domaće životinje prekrivene gustom vunom. Žive u jatima, blisko slijede jedna drugu, a ljudi ih tisućama godina drže zbog vune, mlijeka i mesa.",
+      "script_cs": "Dnes se budeme učit o ovcích. Ovce jsou něžná hospodářská zvířata pokrytá hustou vlnou. Žijí v hejnech, úzce se sledují a lidé je po tisíce let chovali pro vlnu, mléko a maso.",
+      "script_pl": "Dziś będziemy uczyć się o owcach. Owce to delikatne zwierzęta hodowlane pokryte grubą wełną. Żyją w stadach, podążają blisko siebie i od tysięcy lat są trzymane przez ludzi ze względu na wełnę, mleko i mięso.",
+      "script_fi": "Tänään opimme lampaista. Lampaat ovat lempeitä kotieläimiä, jotka on peitetty paksulla villalla. Ne elävät parvissa, seuraavat toisiaan tiiviisti, ja ihmiset ovat pitäneet niitä tuhansia vuosia villan, maidon ja lihan vuoksi.",
+      "script_sk": "Dnes sa budeme učiť o ovciach. Ovce sú nežné hospodárske zvieratá pokryté hustou vlnou. Žijú v kŕdľoch, navzájom sa úzko sledujú a ľudia ich po tisíce rokov chovali pre vlnu, mlieko a mäso.",
+      "script_da": "I dag skal vi lære om får. Får er blide husdyr dækket af tyk uld. De lever i flokke, følger hinanden tæt og er blevet holdt af mennesker i tusinder af år for uld, mælk og kød.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "origin",
+      "script_en": "Sheep descend from wild mountain animals such as the mouflon. These wild sheep lived in rocky hills and learned to climb and jump with great skill. People tamed them long ago, and today there are many breeds adapted to different climates.",
+      "script_de": "Schafe stammen von wilden Bergtieren wie dem Mufflon ab. Diese Wildschafe lebten in felsigen Hügeln und lernten mit großem Geschick klettern und springen. Die Menschen haben sie schon vor langer Zeit gezähmt, und heute gibt es viele Rassen, die an unterschiedliche Klimazonen angepasst sind.",
+      "script_it": "Le pecore discendono da animali selvatici di montagna come il muflone. Queste pecore selvatiche vivevano su colline rocciose e imparavano ad arrampicarsi e saltare con grande abilità. L'uomo li ha addomesticati molto tempo fa e oggi esistono molte razze adattate a climi diversi.",
+      "script_fr": "Les moutons descendent d'animaux sauvages des montagnes comme le mouflon. Ces moutons sauvages vivaient dans des collines rocheuses et apprenaient à grimper et à sauter avec une grande habileté. Les hommes les ont apprivoisés il y a longtemps et il existe aujourd’hui de nombreuses races adaptées à différents climats.",
+      "script_es": "Las ovejas descienden de animales salvajes de montaña como el muflón. Estas ovejas salvajes vivían en colinas rocosas y aprendieron a trepar y saltar con gran habilidad. La gente los domesticó hace mucho tiempo y hoy en día existen muchas razas adaptadas a diferentes climas.",
+      "script_hr": "Ovce potječu od divljih planinskih životinja poput muflona. Ove divlje ovce živjele su u kamenitim brdima i naučile su se vrlo vješto penjati i skakati. Ljudi su ih davno pripitomili, a danas postoje mnoge pasmine prilagođene različitim klimatskim uvjetima.",
+      "script_cs": "Ovce pocházejí z divokých horských zvířat, jako je muflon. Tyto divoké ovce žily ve skalnatých kopcích a naučily se šplhat a skákat s velkou dovedností. Lidé si je ochočili již dávno a dnes existuje mnoho plemen přizpůsobených různým klimatickým podmínkám.",
+      "script_pl": "Owce pochodzą od dzikich zwierząt górskich, takich jak muflon. Te dzikie owce żyły na skalistych wzgórzach i z wielką umiejętnością nauczyły się wspinać i skakać. Ludzie oswoili je dawno temu, a dziś istnieje wiele ras przystosowanych do różnych klimatów.",
+      "script_fi": "Lampaat polveutuvat luonnonvaraisista vuoristoeläimistä, kuten muflonista. Nämä villilampaat asuivat kivikkoisilla kukkuloilla ja oppivat kiipeämään ja hyppäämään taitavasti. Ihmiset kesyttivät ne kauan sitten, ja nykyään on monia rotuja, jotka ovat sopeutuneet erilaisiin ilmastoihin.",
+      "script_sk": "Ovce pochádzajú z divokých horských zvierat, ako je muflón. Tieto divoké ovce žili v skalnatých kopcoch a naučili sa liezť a skákať s veľkou zručnosťou. Ľudia ich skrotili už dávno a dnes existuje veľa plemien prispôsobených rôznym klimatickým podmienkam.",
+      "script_da": "Får stammer fra vilde bjergdyr som f.eks. muflonen. Disse vilde får levede i klippefyldte bakker og lærte at klatre og hoppe med stor dygtighed. Folk tæmmede dem for længe siden, og i dag er der mange racer, der er tilpasset forskellige klimaer.",
+      "images": [
+        "origin.webp",
+        "origin_2.webp",
+        "origin_3.webp"
+      ]
+    },
+    {
+      "id": "body",
+      "script_en": "A sheep's fleece is made of wool, which keeps it warm in winter and cool in summer. Its hooves are hard and split into two parts, helping it walk on rough ground. Sheep have wide eyes on the sides of their heads, so they can watch for danger while they graze.",
+      "script_de": "Ein Schafspelz besteht aus Wolle, die ihn im Winter warm und im Sommer kühl hält. Seine Hufe sind hart und in zwei Teile gespalten, was ihm das Gehen auf unebenem Boden erleichtert. Schafe haben große Augen an den Seiten ihres Kopfes, sodass sie beim Grasen auf Gefahren achten können.",
+      "script_it": "Il vello di una pecora è fatto di lana, che lo mantiene caldo d'inverno e fresco d'estate. I suoi zoccoli sono duri e divisi in due parti, aiutandolo a camminare su terreni accidentati. Le pecore hanno gli occhi spalancati ai lati della testa, così possono stare attenti al pericolo mentre pascolano.",
+      "script_fr": "La toison d'un mouton est constituée de laine, qui la garde au chaud en hiver et au frais en été. Ses sabots sont durs et divisés en deux parties, ce qui lui permet de marcher sur un sol accidenté. Les moutons ont de grands yeux sur les côtés de la tête, ce qui leur permet de surveiller le danger pendant qu'ils broutent.",
+      "script_es": "El vellón de oveja está hecho de lana, lo que lo mantiene caliente en invierno y fresco en verano. Sus pezuñas son duras y están divididas en dos, lo que le ayuda a caminar sobre terrenos accidentados. Las ovejas tienen ojos muy abiertos a los lados de la cabeza, por lo que pueden observar el peligro mientras pastan.",
+      "script_hr": "Ovčje runo izrađeno je od vune koja zimi grije, a ljeti hladi. Kopita su mu tvrda i podijeljena na dva dijela, što mu pomaže u hodu po neravnom tlu. Ovce imaju široke oči sa strane glave, tako da mogu paziti na opasnost dok pasu.",
+      "script_cs": "Ovčí rouno je vyrobeno z vlny, která v zimě hřeje a v létě chladí. Jeho kopyta jsou tvrdá a rozdělená na dvě části, což mu pomáhá chodit po nerovném terénu. Ovce mají po stranách hlavy rozšířené oči, takže mohou při pastvě sledovat nebezpečí.",
+      "script_pl": "Wełna owcza wykonana jest z wełny, która utrzymuje ciepło zimą i chłód latem. Jego kopyta są twarde i podzielone na dwie części, co pomaga mu chodzić po nierównym terenie. Owce mają szerokie oczy po bokach głowy, dzięki czemu mogą wypatrywać niebezpieczeństwa podczas pasania.",
+      "script_fi": "Lampaan fleece on valmistettu villasta, joka pitää sen lämpimänä talvella ja viileänä kesällä. Sen kaviot ovat kovia ja jakautuvat kahteen osaan, mikä auttaa sitä kävelemään epätasaisella maalla. Lampailla on leveät silmät pään sivuilla, joten ne voivat tarkkailla vaaroja laiduntaessaan.",
+      "script_sk": "Ovčie rúno je vyrobené z vlny, ktorá v zime hreje a v lete chladí. Jeho kopytá sú tvrdé a rozdelené na dve časti, čo mu pomáha chodiť po nerovnom teréne. Ovce majú po stranách hlavy široké oči, takže môžu počas pasenia sledovať nebezpečenstvo.",
+      "script_da": "Et fåreplader er lavet af uld, som holder det varmt om vinteren og køligt om sommeren. Dens hove er hårde og delt i to dele, hvilket hjælper den med at gå på ujævnt underlag. Får har store øjne på siderne af hovedet, så de kan holde øje med fare, mens de græsser.",
+      "images": [
+        "body.webp",
+        "body_2.webp",
+        "body_3.webp"
+      ]
+    },
+    {
+      "id": "family",
+      "script_en": "Baby sheep are called lambs. A mother sheep, called a ewe, keeps her lambs close and calls to them with a special voice. Lambs are playful and love to run and jump together, but they always stay near the safety of the flock.",
+      "script_de": "Junge Schafe werden Lämmer genannt. Eine Schafmutter, Mutterschaf genannt, hält ihre Lämmer nah bei sich und ruft sie mit einer besonderen Stimme an. Lämmer sind verspielt und lieben es, gemeinsam zu rennen und zu springen, bleiben aber immer in der Nähe der Sicherheit der Herde.",
+      "script_it": "Le pecorelle sono chiamate agnelli. Una mamma pecora, chiamata pecora, tiene vicini i suoi agnelli e li chiama con una voce speciale. Gli agnelli sono giocosi e amano correre e saltare insieme, ma stanno sempre vicino alla sicurezza del gregge.",
+      "script_fr": "Les bébés moutons sont appelés agneaux. Une mère brebis, appelée brebis, garde ses agneaux près de lui et les appelle d'une voix particulière. Les agneaux sont joueurs et adorent courir et sauter ensemble, mais ils restent toujours à proximité du troupeau.",
+      "script_es": "Las ovejas crías se llaman corderos. Una madre oveja, llamada oveja, mantiene cerca a sus corderos y los llama con una voz especial. Los corderos son juguetones y les encanta correr y saltar juntos, pero siempre permanecen cerca de la seguridad del rebaño.",
+      "script_hr": "Ovčice se zovu janjad. Mama ovca, zvana ovca, drži svoje janjce blizu i doziva ih posebnim glasom. Janjci su razigrani i vole trčati i skakati zajedno, ali uvijek ostaju u blizini sigurnosti jata.",
+      "script_cs": "Mláďata ovcí se nazývají jehňata. Ovčí matka, zvaná ovečka, drží svá jehňata blízko a volá na ně zvláštním hlasem. Jehňata jsou hravá a milují společné běhání a skákání, ale vždy zůstávají v bezpečí hejna.",
+      "script_pl": "Młode owce nazywane są owcami. Matka owieczka, zwana owcą, trzyma swoje jagnięta blisko siebie i woła je szczególnym głosem. Jagnięta są zabawne i uwielbiają razem biegać i skakać, ale zawsze pozostają w pobliżu bezpiecznego stada.",
+      "script_fi": "Lammasvauvoja kutsutaan karitsoiksi. Lammasemo, jota kutsutaan uuhiksi, pitää karitsansa lähellä ja kutsuu niitä erityisellä äänellä. Karitsat ovat leikkisä ja rakastavat juosta ja hyppiä yhdessä, mutta ne pysyvät aina lähellä lauman turvaa.",
+      "script_sk": "Mláďatá oviec sa nazývajú jahňatá. Ovčia matka, nazývaná ovečka, drží svoje jahňatá blízko a volá na ne zvláštnym hlasom. Jahňatá sú hravé a milujú spolu behať a skákať, no vždy sa zdržiavajú v blízkosti bezpečia kŕdľa.",
+      "script_da": "Babyfår kaldes lam. Et moderfår, kaldet et moderfår, holder sine lam tæt og kalder på dem med en særlig stemme. Lam er legesyge og elsker at løbe og hoppe sammen, men de holder sig altid i nærheden af ​​flokkens sikkerhed.",
+      "images": [
+        "family.webp",
+        "family_2.webp",
+        "family_3.webp"
+      ]
+    },
+    {
+      "id": "life_today",
+      "script_en": "Today sheep are kept in many countries. Once a year their wool is cut in a process called shearing, which keeps them comfortable and gives us wool for clothes and blankets. Sheep also give milk that can be made into cheese and yoghurt.",
+      "script_de": "Heute werden in vielen Ländern Schafe gehalten. Einmal im Jahr wird ihre Wolle in einem Prozess namens Scheren geschnitten, der ihnen ein angenehmes Tragegefühl bietet und uns Wolle für Kleidung und Decken liefert. Schafe geben auch Milch, die zu Käse und Joghurt verarbeitet werden kann.",
+      "script_it": "Oggi le pecore vengono allevate in molti paesi. Una volta all'anno la loro lana viene tagliata con un processo chiamato tosatura, che li mantiene comodi e ci fornisce lana per vestiti e coperte. Le pecore danno anche latte che può essere trasformato in formaggio e yogurt.",
+      "script_fr": "Aujourd'hui, les moutons sont élevés dans de nombreux pays. Une fois par an, leur laine est coupée selon un processus appelé tonte, qui assure leur confort et nous donne de la laine pour les vêtements et les couvertures. Les brebis donnent également du lait qui peut être transformé en fromage et en yaourt.",
+      "script_es": "Hoy en día se crían ovejas en muchos países. Una vez al año se corta su lana en un proceso llamado esquila, que los mantiene cómodos y nos da lana para ropa y mantas. Las ovejas también dan leche que se puede convertir en queso y yogur.",
+      "script_hr": "Danas se ovce drže u mnogim zemljama. Jednom godišnje njihova se vuna šiša u procesu koji se zove šišanje, što im omogućava udobnost, a nama daje vunu za odjeću i pokrivače. Ovce također daju mlijeko od kojeg se mogu napraviti sir i jogurt.",
+      "script_cs": "Dnes se ovce chovají v mnoha zemích. Jednou za rok je jejich vlna stříhána procesem zvaným stříhání, který je udržuje v pohodlí a dává nám vlnu na oblečení a přikrývky. Ovce také dávají mléko, ze kterého lze vyrobit sýr a jogurt.",
+      "script_pl": "Obecnie owce hoduje się w wielu krajach. Raz w roku ich wełna jest cięta w procesie zwanym strzyżeniem, który zapewnia im wygodę i daje nam wełnę na ubrania i koce. Owce dają także mleko, z którego można zrobić ser i jogurt.",
+      "script_fi": "Nykyään lampaita pidetään monissa maissa. Kerran vuodessa heidän villansa leikataan leikkaamalla, mikä pitää ne mukavana ja antaa meille villaa vaatteisiin ja peitteisiin. Lampaat antavat myös maitoa, josta voidaan valmistaa juustoa ja jogurttia.",
+      "script_sk": "Dnes sa ovce chovajú v mnohých krajinách. Raz za rok sa ich vlna strihá procesom nazývaným strihanie, vďaka čomu sa cítia pohodlne a získavame vlnu na oblečenie a prikrývky. Ovce dávajú aj mlieko, z ktorého sa dá vyrobiť syr a jogurt.",
+      "script_da": "I dag holdes får i mange lande. En gang om året bliver deres uld skåret i en proces kaldet klipning, som holder dem behagelige og giver os uld til tøj og tæpper. Får giver også mælk, der kan laves til ost og yoghurt.",
+      "images": [
+        "life_today.webp",
+        "life_today_2.webp",
+        "life_today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "baby",
+      "correct": "lamb",
+      "question_en": "What is a baby sheep called?",
+      "question_de": "Wie heißt ein Babyschaf?",
+      "question_it": "Come si chiama una pecorella?",
+      "question_fr": "Comment s’appelle un bébé mouton ?",
+      "question_es": "¿Cómo se llama una cría de oveja?",
+      "question_hr": "Kako se zove ovčica?",
+      "question_cs": "Jak se nazývá mládě ovečky?",
+      "question_pl": "Jak nazywa się młoda owca?",
+      "question_fi": "Mikä on lampaanvauvan nimi?",
+      "question_sk": "Ako sa volá ovečka?",
+      "question_da": "Hvad hedder et babyfår?",
+      "options": [
+        {
+          "id": "lamb",
+          "label_en": "A lamb",
+          "label_de": "Ein Lamm",
+          "label_it": "Un agnello",
+          "label_fr": "Un agneau",
+          "label_es": "un cordero",
+          "label_hr": "Janjetina",
+          "label_cs": "Jehně",
+          "label_pl": "Baranek",
+          "label_fi": "Karitsa",
+          "label_sk": "Baránok",
+          "label_da": "Et lam"
+        },
+        {
+          "id": "piglet",
+          "label_en": "A piglet",
+          "label_de": "Ein Ferkel",
+          "label_it": "Un maialino",
+          "label_fr": "Un porcelet",
+          "label_es": "un lechón",
+          "label_hr": "Prasac",
+          "label_cs": "Prasátko",
+          "label_pl": "Prosiaczek",
+          "label_fi": "Porsas",
+          "label_sk": "Prasiatko",
+          "label_da": "En pattegrise"
+        },
+        {
+          "id": "foal",
+          "label_en": "A foal",
+          "label_de": "Ein Fohlen",
+          "label_it": "Un puledro",
+          "label_fr": "Un poulain",
+          "label_es": "un potro",
+          "label_hr": "Ždrijebe",
+          "label_cs": "Hříbě",
+          "label_pl": "Źrebię",
+          "label_fi": "Varsa",
+          "label_sk": "Žriebätko",
+          "label_da": "Et føl"
+        }
+      ]
+    },
+    {
+      "id": "wool",
+      "correct": "wool",
+      "question_en": "What do we get from a sheep's fleece?",
+      "question_de": "Was bekommen wir aus einem Schafsvlies?",
+      "question_it": "Cosa otteniamo dal vello di una pecora?",
+      "question_fr": "Qu'obtient-on de la toison d'un mouton ?",
+      "question_es": "¿Qué obtenemos del vellón de una oveja?",
+      "question_hr": "Što dobivamo od ovčjeg runa?",
+      "question_cs": "Co získáme z ovčího rouna?",
+      "question_pl": "Co otrzymujemy z owczej wełny?",
+      "question_fi": "Mitä saamme lampaan villasta?",
+      "question_sk": "Čo získame z ovčieho rúna?",
+      "question_da": "Hvad får vi ud af et fåres pels?",
+      "options": [
+        {
+          "id": "wool",
+          "label_en": "Wool",
+          "label_de": "Wolle",
+          "label_it": "Lana",
+          "label_fr": "Laine",
+          "label_es": "Lana",
+          "label_hr": "Vuna",
+          "label_cs": "Vlna",
+          "label_pl": "Wełna",
+          "label_fi": "Villa",
+          "label_sk": "Vlna",
+          "label_da": "Uld"
+        },
+        {
+          "id": "silk",
+          "label_en": "Silk",
+          "label_de": "Seide",
+          "label_it": "Seta",
+          "label_fr": "Soie",
+          "label_es": "Seda",
+          "label_hr": "Svila",
+          "label_cs": "Hedvábí",
+          "label_pl": "Jedwab",
+          "label_fi": "Silkki",
+          "label_sk": "Hodváb",
+          "label_da": "Silke"
+        },
+        {
+          "id": "cotton",
+          "label_en": "Cotton",
+          "label_de": "Baumwolle",
+          "label_it": "Cotone",
+          "label_fr": "Coton",
+          "label_es": "Algodón",
+          "label_hr": "Pamuk",
+          "label_cs": "Bavlna",
+          "label_pl": "Bawełna",
+          "label_fi": "Puuvilla",
+          "label_sk": "Bavlna",
+          "label_da": "Bomuld"
+        }
+      ]
+    },
+    {
+      "id": "group",
+      "correct": "flock",
+      "question_en": "What is a group of sheep called?",
+      "question_de": "Wie nennt man eine Gruppe Schafe?",
+      "question_it": "Come si chiama un gruppo di pecore?",
+      "question_fr": "Comment s’appelle un groupe de moutons ?",
+      "question_es": "¿Cómo se llama un grupo de ovejas?",
+      "question_hr": "Kako se zove skupina ovaca?",
+      "question_cs": "Jak se nazývá skupina ovcí?",
+      "question_pl": "Jak nazywa się grupa owiec?",
+      "question_fi": "Mikä on lammasryhmän nimi?",
+      "question_sk": "Ako sa volá skupina oviec?",
+      "question_da": "Hvad hedder en gruppe får?",
+      "options": [
+        {
+          "id": "flock",
+          "label_en": "A flock",
+          "label_de": "Eine Herde",
+          "label_it": "Uno stormo",
+          "label_fr": "Un troupeau",
+          "label_es": "un rebaño",
+          "label_hr": "Jato",
+          "label_cs": "Hejno",
+          "label_pl": "Stado",
+          "label_fi": "Lauma",
+          "label_sk": "Kŕdeľ",
+          "label_da": "En flok"
+        },
+        {
+          "id": "pack",
+          "label_en": "A pack",
+          "label_de": "Eine Packung",
+          "label_it": "Un pacco",
+          "label_fr": "Un paquet",
+          "label_es": "un paquete",
+          "label_hr": "Čopor",
+          "label_cs": "Smečka",
+          "label_pl": "Paczka",
+          "label_fi": "Paketti",
+          "label_sk": "Balíček",
+          "label_da": "En pakke"
+        },
+        {
+          "id": "school",
+          "label_en": "A school",
+          "label_de": "Eine Schule",
+          "label_it": "Una scuola",
+          "label_fr": "Une école",
+          "label_es": "una escuela",
+          "label_hr": "škola",
+          "label_cs": "Škola",
+          "label_pl": "Szkoła",
+          "label_fi": "Koulu",
+          "label_sk": "Škola",
+          "label_da": "En skole"
+        }
+      ]
+    }
+  ]
+}
