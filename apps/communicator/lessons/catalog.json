@@ -253,6 +253,27 @@
       "title_da": "Aber"
     },
     {
+      "id": "owl",
+      "category_id": "animals",
+      "symbol_id": "owl",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/owl/owl_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/owl/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2921519,
+      "version": 1,
+      "title_en": "Owls",
+      "title_de": "Eulen",
+      "title_it": "Gufi",
+      "title_fr": "Hiboux",
+      "title_es": "Búhos",
+      "title_hr": "Sove",
+      "title_cs": "Sovy",
+      "title_pl": "Sowy",
+      "title_fi": "Pöllöt",
+      "title_sk": "Sovy",
+      "title_da": "Ugler"
+    },
+    {
       "id": "penguin",
       "category_id": "animals",
       "symbol_id": "penguin",

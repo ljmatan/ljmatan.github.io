@@ -1,0 +1,293 @@
+{
+  "id": "owl",
+  "category_id": "animals",
+  "symbol_id": "owl",
+  "thumbnail": "owl_thumb.webp",
+  "title_en": "Owls",
+  "title_de": "Eulen",
+  "title_it": "Gufi",
+  "title_fr": "Hiboux",
+  "title_es": "Búhos",
+  "title_hr": "Sove",
+  "title_cs": "Sovy",
+  "title_pl": "Sowy",
+  "title_fi": "Pöllöt",
+  "title_sk": "Sovy",
+  "title_da": "Ugler",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about owls. Owls are birds of prey that hunt at night. With their large eyes, quiet feathers, and serious faces, they have fascinated people for thousands of years.",
+      "script_de": "Heute lernen wir etwas über Eulen. Eulen sind Raubvögel, die nachts jagen. Mit ihren großen Augen, dem ruhigen Gefieder und den ernsten Gesichtern faszinieren sie die Menschen seit Jahrtausenden.",
+      "script_it": "Oggi impareremo a conoscere i gufi. I gufi sono uccelli rapaci che cacciano di notte. Con i loro occhi grandi, le piume silenziose e i volti seri, affascinano le persone da migliaia di anni.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur les hiboux. Les hiboux sont des oiseaux de proie qui chassent la nuit. Avec leurs grands yeux, leurs plumes discrètes et leurs visages sérieux, ils fascinent les gens depuis des milliers d’années.",
+      "script_es": "Hoy vamos a aprender sobre los búhos. Los búhos son aves rapaces que cazan de noche. Con sus grandes ojos, sus plumas tranquilas y sus rostros serios, han fascinado a la gente durante miles de años.",
+      "script_hr": "Danas ćemo učiti o sovama. Sove su ptice grabljivice koje love noću. Svojim velikim očima, tihim perjem i ozbiljnim licima fasciniraju ljude tisućama godina.",
+      "script_cs": "Dnes se budeme učit o sovách. Sovy jsou draví ptáci, kteří loví v noci. Svýma velkýma očima, tichým peřím a vážnými obličeji fascinují lidi po tisíce let.",
+      "script_pl": "Dziś będziemy uczyć się o sowach. Sowy to ptaki drapieżne polujące nocą. Swoimi dużymi oczami, cichymi piórami i poważnymi twarzami fascynują ludzi od tysięcy lat.",
+      "script_fi": "Tänään opimme pöllöistä. Pöllöt ovat petolintuja, jotka metsästävät yöllä. Suuret silmänsä, hiljaiset höyhenet ja vakavat kasvot ovat kiehtoneet ihmisiä tuhansia vuosia.",
+      "script_sk": "Dnes sa budeme učiť o sovách. Sovy sú dravé vtáky, ktoré lovia v noci. Svojimi veľkými očami, tichým perím a vážnymi tvárami fascinujú ľudí už tisíce rokov.",
+      "script_da": "I dag skal vi lære om ugler. Ugler er rovfugle, der jager om natten. Med deres store øjne, stille fjer og alvorlige ansigter har de fascineret mennesker i tusinder af år.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "habitat",
+      "script_en": "Owls live on every continent except Antarctica. Some make their homes in deep forests, some in deserts, and some in barns and old buildings near farms. As long as there are quiet places to rest and enough small animals to eat, an owl can settle in.",
+      "script_de": "Eulen leben auf allen Kontinenten außer der Antarktis. Einige leben in tiefen Wäldern, andere in der Wüste und wieder andere in Scheunen und alten Gebäuden in der Nähe von Bauernhöfen. Solange es ruhige Rastplätze und genügend Kleintiere zum Fressen gibt, kann sich eine Eule einleben.",
+      "script_it": "I gufi vivono in tutti i continenti tranne l'Antartide. Alcuni vivono nelle fitte foreste, altri nei deserti, altri ancora in fienili e vecchi edifici vicino alle fattorie. Finché ci sono posti tranquilli dove riposare e abbastanza piccoli animali da mangiare, un gufo può stabilirsi.",
+      "script_fr": "Les hiboux vivent sur tous les continents sauf l'Antarctique. Certains habitent dans des forêts profondes, d’autres dans des déserts et d’autres encore dans des granges et de vieux bâtiments à proximité des fermes. Tant qu'il y a des endroits calmes pour se reposer et suffisamment de petits animaux pour manger, un hibou peut s'installer.",
+      "script_es": "Los búhos viven en todos los continentes excepto en la Antártida. Algunos construyen sus hogares en bosques profundos, otros en desiertos y otros en graneros y edificios antiguos cerca de granjas. Siempre que haya lugares tranquilos para descansar y suficientes animales pequeños para comer, un búho puede instalarse.",
+      "script_hr": "Sove žive na svim kontinentima osim na Antarktiku. Neki grade svoje domove u dubokim šumama, neki u pustinjama, a neki u štalama i starim zgradama u blizini farmi. Sve dok ima mirnih mjesta za odmor i dovoljno malih životinja za jelo, sova se može smjestiti.",
+      "script_cs": "Sovy žijí na všech kontinentech kromě Antarktidy. Někteří žijí v hlubokých lesích, někteří v pouštích a někteří ve stodolách a starých budovách poblíž farem. Dokud jsou zde klidná místa k odpočinku a dostatek malých zvířat k jídlu, může se tam usadit sova.",
+      "script_pl": "Sowy żyją na każdym kontynencie z wyjątkiem Antarktydy. Niektórzy budują domy w głębokich lasach, inni na pustyniach, a jeszcze inni w stodołach i starych budynkach w pobliżu gospodarstw. Dopóki są ciche miejsca do odpoczynku i wystarczająco dużo małych zwierząt do jedzenia, sowa może się osiedlić.",
+      "script_fi": "Pöllöt elävät kaikilla mantereilla paitsi Etelämantereella. Jotkut asuvat syviin metsiin, jotkut aavikoihin ja jotkut navetoihin ja vanhoihin rakennuksiin maatilojen lähellä. Niin kauan kuin on hiljaisia ​​levähdyspaikkoja ja tarpeeksi pieniä eläimiä syötäväksi, pöllö voi asettua sisään.",
+      "script_sk": "Sovy žijú na všetkých kontinentoch okrem Antarktídy. Niektorí žijú v hlbokých lesoch, iní v púšti a iní v stodolách a starých budovách v blízkosti fariem. Pokiaľ existujú tiché miesta na odpočinok a dostatok malých zvierat na jedenie, môže sa tam usadiť sova.",
+      "script_da": "Ugler lever på alle kontinenter undtagen Antarktis. Nogle laver deres hjem i dybe skove, nogle i ørkener og nogle i lader og gamle bygninger i nærheden af ​​gårde. Så længe der er rolige steder at hvile og nok smådyr at spise, kan en ugle slå sig ned.",
+      "images": [
+        "habitat.webp",
+        "habitat_2.webp",
+        "habitat_3.webp"
+      ]
+    },
+    {
+      "id": "body",
+      "script_en": "An owl's eyes are fixed in its head, so it turns its whole head to look around. Its face is shaped like a dish that collects sound, and its ears are placed unevenly to help it pinpoint a noise. Soft fringes on its feathers let it fly almost silently.",
+      "script_de": "Die Augen einer Eule sind in ihrem Kopf fixiert, sodass sie den ganzen Kopf dreht, um sich umzusehen. Sein Gesicht hat die Form einer Schüssel, die Geräusche auffängt, und seine Ohren sind ungleichmäßig platziert, um das Lokalisieren von Geräuschen zu erleichtern. Weiche Fransen an seinen Federn lassen ihn fast lautlos fliegen.",
+      "script_it": "Gli occhi di un gufo sono fissi nella sua testa, quindi gira tutta la testa per guardarsi intorno. Il suo muso ha la forma di un piatto che raccoglie i suoni e le sue orecchie sono posizionate in modo irregolare per aiutarlo a individuare un rumore. Le morbide frange sulle piume gli permettono di volare quasi in silenzio.",
+      "script_fr": "Les yeux d'un hibou sont fixés dans sa tête, il tourne donc toute la tête pour regarder autour de lui. Son visage a la forme d'une assiette qui collecte les sons et ses oreilles sont placées de manière inégale pour l'aider à identifier un bruit. Les douces franges sur ses plumes lui permettent de voler presque silencieusement.",
+      "script_es": "Los ojos de un búho están fijos en su cabeza, por lo que gira toda la cabeza para mirar a su alrededor. Su cara tiene la forma de un plato que recoge el sonido y sus orejas están colocadas de manera desigual para ayudarle a detectar un ruido. Los suaves flecos de sus plumas le permiten volar casi en silencio.",
+      "script_hr": "Oči sove su uprte u glavu, pa okreće cijelu glavu da pogleda oko sebe. Lice mu je oblikovano poput posude koja prikuplja zvukove, a uši su mu postavljene neravnomjerno kako bi lakše prepoznao zvuk. Meke rese na perju omogućuju mu let gotovo nečujno.",
+      "script_cs": "Oči sovy jsou upřené v hlavě, takže otáčí celou hlavu, aby se rozhlédla kolem sebe. Jeho obličej je tvarován jako talíř, který sbírá zvuk, a jeho uši jsou umístěny nerovnoměrně, aby mu pomohly určit hluk. Měkké třásně na jeho peří mu umožňují létat téměř tiše.",
+      "script_pl": "Oczy sowy są utkwione w jej głowie, więc odwraca całą głowę, aby się rozejrzeć. Jego twarz ma kształt naczynia zbierającego dźwięki, a uszy są rozmieszczone nierównomiernie, co pomaga mu zlokalizować hałas. Miękkie frędzle na piórach pozwalają mu latać niemal bezgłośnie.",
+      "script_fi": "Pöllön silmät on kiinnitetty päähän, joten se kääntää koko päänsä katsoakseen ympärilleen. Sen kasvot ovat ääntä keräävän lautasen muotoisia, ja sen korvat on sijoitettu epätasaisesti, jotta se havaitsee melun. Sen höyhenissä olevat pehmeät hapsut antavat sen lentää lähes äänettömästi.",
+      "script_sk": "Oči sovy sú upevnené v hlave, preto otáča celú hlavu, aby sa rozhliadla. Jeho tvár je v tvare taniera, ktorý zbiera zvuk, a jeho uši sú umiestnené nerovnomerne, aby mu pomohli presne určiť hluk. Mäkké strapce na perách mu umožňujú lietať takmer ticho.",
+      "script_da": "En ugles øjne sidder fast i hovedet, så den vender hele hovedet for at se sig omkring. Dens ansigt er formet som en skål, der opsamler lyd, og dens ører er placeret ujævnt for at hjælpe den med at lokalisere en støj. Bløde frynser på dens fjer lader den flyve næsten lydløst.",
+      "images": [
+        "body.webp",
+        "body_2.webp",
+        "body_3.webp"
+      ]
+    },
+    {
+      "id": "family",
+      "script_en": "Baby owls are called owlets. They hatch from eggs in a nest or a hollow tree and are covered in soft down. Their parents bring them food through the night, and before long the young owls begin to practise stretching their wings.",
+      "script_de": "Baby-Eulen werden Eulen genannt. Sie schlüpfen aus Eiern in einem Nest oder einem hohlen Baum und sind mit weichen Daunen bedeckt. Ihre Eltern bringen ihnen nachts Futter, und schon bald beginnen die jungen Eulen, das Ausstrecken ihrer Flügel zu üben.",
+      "script_it": "I piccoli gufi sono chiamati civette. Si schiudono dalle uova in un nido o in un albero cavo e sono ricoperti di morbida peluria. I genitori portano loro il cibo durante la notte e in breve tempo i giovani gufi iniziano ad esercitarsi ad allungare le ali.",
+      "script_fr": "Les bébés hiboux sont appelés chouettes. Ils éclosent d'œufs dans un nid ou un arbre creux et sont recouverts de duvet doux. Leurs parents leur apportent de la nourriture toute la nuit et, peu de temps après, les jeunes hiboux commencent à s'entraîner à étendre leurs ailes.",
+      "script_es": "Los búhos bebés se llaman mochuelos. Nacen de huevos en un nido o en un árbol hueco y están cubiertos de suave plumón. Sus padres les llevan comida durante la noche y, en poco tiempo, los jóvenes búhos comienzan a practicar el estiramiento de sus alas.",
+      "script_hr": "Mladunci sove zovu se sovice. Izlegu se iz jaja u gnijezdu ili šupljem stablu i prekriveni su mekim paperjem. Roditelji im donose hranu tijekom noći i ubrzo mlade sove počnu vježbati istezanje krila.",
+      "script_cs": "Mláďata sovy se nazývají sovy. Líhnou se z vajec v hnízdě nebo v dutém stromě a jsou pokryty měkkým prachovým peřím. Jejich rodiče jim nosí jídlo přes noc a zanedlouho mladé sovy začnou cvičit protahování křídel.",
+      "script_pl": "Młode sowy nazywane są sówkami. Wykluwają się z jaj w gnieździe lub dziupli i są pokryte miękkim puchem. Rodzice przez całą noc przynoszą im jedzenie i wkrótce młode sowy zaczynają ćwiczyć rozciąganie skrzydeł.",
+      "script_fi": "Pöllövauvoja kutsutaan pöllöiksi. Ne kuoriutuvat pesässä tai ontossa puussa olevista munista ja peittyvät pehmeällä untuvalla. Heidän vanhempansa tuovat heille ruokaa läpi yön, ja ennen pitkää nuoret pöllöt alkavat harjoitella siipiensä venyttämistä.",
+      "script_sk": "Mláďatá sovy sa nazývajú sovy. Vyliahnu sa z vajec v hniezde alebo v dutom strome a sú pokryté mäkkým páperím. Rodičia im nosia potravu cez noc a zanedlho si mladé sovy začnú precvičovať rozťahovanie krídel.",
+      "script_da": "Babyugler kaldes ugler. De klækkes fra æg i en rede eller et hult træ og er dækket af blød dun. Deres forældre bringer dem mad natten igennem, og inden længe begynder de unge ugler at øve sig i at strække vingerne.",
+      "images": [
+        "family.webp",
+        "family_2.webp",
+        "family_3.webp"
+      ]
+    },
+    {
+      "id": "life_today",
+      "script_en": "Today owls help farmers by catching mice and other small rodents. They are also symbols of wisdom in many stories and cultures. Like all wild animals, they do best when we leave them quiet places to live and hunt.",
+      "script_de": "Heute helfen Eulen den Bauern, indem sie Mäuse und andere kleine Nagetiere fangen. In vielen Geschichten und Kulturen sind sie auch Symbole der Weisheit. Wie allen Wildtieren geht es ihnen am besten, wenn wir ihnen ruhige Orte zum Leben und Jagen überlassen.",
+      "script_it": "Oggi i gufi aiutano gli agricoltori catturando topi e altri piccoli roditori. Sono anche simboli di saggezza in molte storie e culture. Come tutti gli animali selvatici, si comportano meglio quando lasciamo loro posti tranquilli dove vivere e cacciare.",
+      "script_fr": "Aujourd'hui, les hiboux aident les agriculteurs en attrapant des souris et d'autres petits rongeurs. Ils sont également des symboles de sagesse dans de nombreuses histoires et cultures. Comme tous les animaux sauvages, ils réussissent mieux lorsque nous leur laissons des endroits calmes pour vivre et chasser.",
+      "script_es": "Hoy en día, los búhos ayudan a los agricultores cazando ratones y otros pequeños roedores. También son símbolos de sabiduría en muchas historias y culturas. Como todos los animales salvajes, les va mejor cuando les dejamos lugares tranquilos para vivir y cazar.",
+      "script_hr": "Danas sove pomažu poljoprivrednicima hvatajući miševe i druge male glodavce. Oni su također simboli mudrosti u mnogim pričama i kulturama. Kao i sve divlje životinje, najbolje im je kad im ostavimo mirna mjesta za život i lov.",
+      "script_cs": "Dnes sovy pomáhají zemědělcům tím, že chytají myši a další drobné hlodavce. Jsou také symboly moudrosti v mnoha příbězích a kulturách. Jako všem divokým zvířatům se jim nejlépe daří, když jim necháme klidná místa k životu a lovu.",
+      "script_pl": "Dziś sowy pomagają rolnikom, łapiąc myszy i inne małe gryzonie. Są także symbolami mądrości w wielu historiach i kulturach. Jak wszystkie dzikie zwierzęta, radzą sobie najlepiej, gdy zostawiamy im spokojne miejsca do życia i polowania.",
+      "script_fi": "Nykyään pöllöt auttavat maanviljelijöitä pyydystämällä hiiriä ja muita pieniä jyrsijöitä. Ne ovat myös viisauden symboleja monissa tarinoissa ja kulttuureissa. Kuten kaikki villieläimet, ne pärjäävät parhaiten, kun jätämme niille hiljaisia ​​paikkoja asua ja metsästää.",
+      "script_sk": "Dnes sovy pomáhajú farmárom chytaním myší a iných malých hlodavcov. Sú tiež symbolmi múdrosti v mnohých príbehoch a kultúrach. Ako všetkým voľne žijúcim zvieratám sa im najlepšie darí, keď im necháme pokojné miesta na život a lov.",
+      "script_da": "I dag hjælper ugler landmænd ved at fange mus og andre små gnavere. De er også symboler på visdom i mange historier og kulturer. Som alle vilde dyr har de det bedst, når vi efterlader dem stille steder at leve og jage.",
+      "images": [
+        "life_today.webp",
+        "life_today_2.webp",
+        "life_today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "night",
+      "correct": "night",
+      "question_en": "When do owls usually hunt?",
+      "question_de": "Wann jagen Eulen normalerweise?",
+      "question_it": "Quando cacciano solitamente i gufi?",
+      "question_fr": "Quand les hiboux chassent-ils habituellement ?",
+      "question_es": "¿Cuándo suelen cazar los búhos?",
+      "question_hr": "Kada sove obično love?",
+      "question_cs": "Kdy sovy obvykle loví?",
+      "question_pl": "Kiedy sowy zwykle polują?",
+      "question_fi": "Milloin pöllöt yleensä metsästävät?",
+      "question_sk": "Kedy sovy zvyčajne lovia?",
+      "question_da": "Hvornår jager ugler normalt?",
+      "options": [
+        {
+          "id": "night",
+          "label_en": "At night",
+          "label_de": "Nachts",
+          "label_it": "Di notte",
+          "label_fr": "La nuit",
+          "label_es": "Por la noche",
+          "label_hr": "Noću",
+          "label_cs": "V noci",
+          "label_pl": "W nocy",
+          "label_fi": "Yöllä",
+          "label_sk": "V noci",
+          "label_da": "Om natten"
+        },
+        {
+          "id": "noon",
+          "label_en": "At midday",
+          "label_de": "Mittags",
+          "label_it": "A mezzogiorno",
+          "label_fr": "A midi",
+          "label_es": "al mediodía",
+          "label_hr": "U podne",
+          "label_cs": "V poledne",
+          "label_pl": "W południe",
+          "label_fi": "Keskipäivällä",
+          "label_sk": "Na poludnie",
+          "label_da": "Ved middagstid"
+        },
+        {
+          "id": "winter",
+          "label_en": "Only in winter",
+          "label_de": "Nur im Winter",
+          "label_it": "Solo in inverno",
+          "label_fr": "Seulement en hiver",
+          "label_es": "solo en invierno",
+          "label_hr": "Samo zimi",
+          "label_cs": "Pouze v zimě",
+          "label_pl": "Tylko zimą",
+          "label_fi": "Vain talvella",
+          "label_sk": "Iba v zime",
+          "label_da": "Kun om vinteren"
+        }
+      ]
+    },
+    {
+      "id": "baby",
+      "correct": "owlet",
+      "question_en": "What is a baby owl called?",
+      "question_de": "Wie heißt ein Eulenbaby?",
+      "question_it": "Come si chiama un cucciolo di gufo?",
+      "question_fr": "Comment s’appelle un bébé hibou ?",
+      "question_es": "¿Cómo se llama un búho bebé?",
+      "question_hr": "Kako se zove beba sove?",
+      "question_cs": "Jak se nazývá mládě sovy?",
+      "question_pl": "Jak nazywa się mała sowa?",
+      "question_fi": "Mikä on pöllönvauvan nimi?",
+      "question_sk": "Ako sa volá mláďa sovy?",
+      "question_da": "Hvad hedder en ugleunge?",
+      "options": [
+        {
+          "id": "owlet",
+          "label_en": "An owlet",
+          "label_de": "Eine Eule",
+          "label_it": "Una civetta",
+          "label_fr": "Une chouette",
+          "label_es": "un mochuelo",
+          "label_hr": "Sova",
+          "label_cs": "Sovička",
+          "label_pl": "Sowa",
+          "label_fi": "Pöllö",
+          "label_sk": "Sova",
+          "label_da": "En ugle"
+        },
+        {
+          "id": "chick",
+          "label_en": "A chick",
+          "label_de": "Ein Küken",
+          "label_it": "Un pulcino",
+          "label_fr": "Un poussin",
+          "label_es": "un pollito",
+          "label_hr": "pilić",
+          "label_cs": "Kuřátko",
+          "label_pl": "Laska",
+          "label_fi": "Tyttö",
+          "label_sk": "kuriatko",
+          "label_da": "En kylling"
+        },
+        {
+          "id": "pup",
+          "label_en": "A pup",
+          "label_de": "Ein Welpe",
+          "label_it": "Un cucciolo",
+          "label_fr": "Un chiot",
+          "label_es": "un cachorro",
+          "label_hr": "štene",
+          "label_cs": "štěně",
+          "label_pl": "Szczeniak",
+          "label_fi": "Pentu",
+          "label_sk": "Šteniatko",
+          "label_da": "En hvalp"
+        }
+      ]
+    },
+    {
+      "id": "flight",
+      "correct": "soft_feathers",
+      "question_en": "Why is an owl's flight almost silent?",
+      "question_de": "Warum ist der Flug einer Eule fast lautlos?",
+      "question_it": "Perché il volo del gufo è quasi silenzioso?",
+      "question_fr": "Pourquoi le vol d'un hibou est-il presque silencieux ?",
+      "question_es": "¿Por qué el vuelo de un búho es casi silencioso?",
+      "question_hr": "Zašto je let sove gotovo tih?",
+      "question_cs": "Proč je let sovy téměř tichý?",
+      "question_pl": "Dlaczego lot sowy jest prawie cichy?",
+      "question_fi": "Miksi pöllön lento on melkein äänetön?",
+      "question_sk": "Prečo je let sovy takmer tichý?",
+      "question_da": "Hvorfor er en ugles flugt næsten lydløs?",
+      "options": [
+        {
+          "id": "soft_feathers",
+          "label_en": "Its feathers have soft fringes",
+          "label_de": "Seine Federn haben weiche Fransen",
+          "label_it": "Le sue piume hanno morbide frange",
+          "label_fr": "Ses plumes ont des franges douces",
+          "label_es": "Sus plumas tienen flecos suaves.",
+          "label_hr": "Njegovo perje ima mekane rese",
+          "label_cs": "Jeho peří má jemné třásně",
+          "label_pl": "Jego pióra mają miękkie frędzle",
+          "label_fi": "Sen höyhenissä on pehmeät hapsut",
+          "label_sk": "Jeho perie má jemné strapce",
+          "label_da": "Dens fjer har bløde frynser"
+        },
+        {
+          "id": "small_wings",
+          "label_en": "Its wings are very small",
+          "label_de": "Seine Flügel sind sehr klein",
+          "label_it": "Le sue ali sono molto piccole",
+          "label_fr": "Ses ailes sont très petites",
+          "label_es": "Sus alas son muy pequeñas.",
+          "label_hr": "Krila su mu vrlo mala",
+          "label_cs": "Jeho křídla jsou velmi malá",
+          "label_pl": "Jego skrzydła są bardzo małe",
+          "label_fi": "Sen siivet ovat hyvin pienet",
+          "label_sk": "Jeho krídla sú veľmi malé",
+          "label_da": "Dens vinger er meget små"
+        },
+        {
+          "id": "tail",
+          "label_en": "It uses its tail as a rudder",
+          "label_de": "Es nutzt seinen Schwanz als Ruder",
+          "label_it": "Usa la coda come timone",
+          "label_fr": "Il utilise sa queue comme gouvernail",
+          "label_es": "Utiliza su cola como timón.",
+          "label_hr": "Koristi svoj rep kao kormilo",
+          "label_cs": "Jako kormidlo používá svůj ocas",
+          "label_pl": "Używa ogona jako steru",
+          "label_fi": "Se käyttää häntäänsä peräsimenä",
+          "label_sk": "Používa svoj chvost ako kormidlo",
+          "label_da": "Den bruger halen som ror"
+        }
+      ]
+    }
+  ]
+}
