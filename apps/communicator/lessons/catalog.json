@@ -461,6 +461,27 @@
       "title_fi": "Appelsiinit",
       "title_sk": "Pomaranče",
       "title_da": "Appelsiner"
+    },
+    {
+      "id": "pizza",
+      "category_id": "food",
+      "symbol_id": "pizza",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/pizza/pizza_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/pizza/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2411280,
+      "version": 1,
+      "title_en": "Pizza",
+      "title_de": "Pizza",
+      "title_it": "Pizza",
+      "title_fr": "Pizza",
+      "title_es": "Pizza",
+      "title_hr": "Pizza",
+      "title_cs": "Pizza",
+      "title_pl": "Pizza",
+      "title_fi": "Pizza",
+      "title_sk": "Pizza",
+      "title_da": "Pizza"
     }
   ]
 }

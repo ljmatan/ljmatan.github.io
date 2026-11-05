@@ -1,0 +1,293 @@
+{
+  "id": "pizza",
+  "category_id": "food",
+  "symbol_id": "pizza",
+  "thumbnail": "pizza_thumb.webp",
+  "title_en": "Pizza",
+  "title_de": "Pizza",
+  "title_it": "Pizza",
+  "title_fr": "Pizza",
+  "title_es": "Pizza",
+  "title_hr": "Pizza",
+  "title_cs": "Pizza",
+  "title_pl": "Pizza",
+  "title_fi": "Pizza",
+  "title_sk": "Pizza",
+  "title_da": "Pizza",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about pizza. Pizza is a flat bread baked with tomato, cheese, and many possible toppings. It began in Italy and has become one of the most loved foods in the world.",
+      "script_de": "Heute lernen wir etwas über Pizza. Pizza ist ein Fladenbrot, das mit Tomaten, Käse und vielen möglichen Belägen gebacken wird. Es begann in Italien und hat sich zu einem der beliebtesten Lebensmittel der Welt entwickelt.",
+      "script_it": "Oggi parleremo della pizza. La pizza è una focaccia cotta al forno con pomodoro, formaggio e molti condimenti possibili. Nato in Italia, è diventato uno dei cibi più amati nel mondo.",
+      "script_fr": "Aujourd'hui, nous allons découvrir la pizza. La pizza est un pain plat cuit avec de la tomate, du fromage et de nombreuses garnitures possibles. Il a commencé en Italie et est devenu l’un des aliments les plus appréciés au monde.",
+      "script_es": "Hoy vamos a aprender sobre la pizza. La pizza es un pan plano horneado con tomate, queso y muchos aderezos posibles. Comenzó en Italia y se ha convertido en uno de los alimentos más queridos del mundo.",
+      "script_hr": "Danas ćemo učiti o pizzi. Pizza je somun pečen s rajčicom, sirom i mnogim mogućim dodacima. Počela je u Italiji i postala je jedna od najomiljenijih namirnica na svijetu.",
+      "script_cs": "Dnes se budeme učit o pizze. Pizza je plochý chléb pečený s rajčaty, sýrem a mnoha možnými polevami. Začalo to v Itálii a stalo se jedním z nejoblíbenějších jídel na světě.",
+      "script_pl": "Dzisiaj będziemy uczyć się o pizzy. Pizza to płaski chleb zapiekany z pomidorami, serem i wieloma dodatkami. Zaczęło się we Włoszech i stało się jedną z najbardziej lubianych potraw na świecie.",
+      "script_fi": "Tänään opimme pizzasta. Pizza on litteä leipä, joka on paistettu tomaateilla, juustolla ja monilla mahdollisilla täytteillä. Se sai alkunsa Italiasta ja siitä on tullut yksi maailman rakastetuimmista ruoista.",
+      "script_sk": "Dnes sa naučíme o pizzi. Pizza je plochý chlieb pečený s paradajkami, syrom a mnohými možnými polevami. Začalo to v Taliansku a stalo sa jedným z najobľúbenejších jedál na svete.",
+      "script_da": "I dag skal vi lære om pizza. Pizza er et fladt brød bagt med tomat, ost og mange mulige pålæg. Det begyndte i Italien og er blevet en af ​​de mest elskede fødevarer i verden.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "origin",
+      "script_en": "Pizza comes from Naples, in southern Italy. Long ago, bakers made flat breads and topped them with whatever was available. In the late 1800s, a simple pizza with tomato, mozzarella, and basil became famous, and it is still called the Margherita today.",
+      "script_de": "Pizza kommt aus Neapel in Süditalien. Vor langer Zeit stellten Bäcker Fladenbrote her und belegten sie mit allem, was verfügbar war. Im späten 19. Jahrhundert erlangte eine einfache Pizza mit Tomaten, Mozzarella und Basilikum Berühmtheit und wird auch heute noch Margherita genannt.",
+      "script_it": "La pizza viene da Napoli, nel sud Italia. Molto tempo fa, i fornai preparavano delle focacce e le guarnivano con tutto ciò che era disponibile. Alla fine del 1800 divenne famosa una semplice pizza con pomodoro, mozzarella e basilico, che ancora oggi si chiama Margherita.",
+      "script_fr": "La pizza vient de Naples, dans le sud de l'Italie. Il y a longtemps, les boulangers fabriquaient des pains plats et les garnissaient de tout ce qui était disponible. À la fin des années 1800, une simple pizza à la tomate, à la mozzarella et au basilic est devenue célèbre, et on l'appelle encore aujourd'hui la Margherita.",
+      "script_es": "La pizza proviene de Nápoles, en el sur de Italia. Hace mucho tiempo, los panaderos hacían panes planos y los cubrían con lo que había disponible. A finales del siglo XIX, se hizo famosa una pizza sencilla con tomate, mozzarella y albahaca, y todavía hoy se la llama Margherita.",
+      "script_hr": "Pizza dolazi iz Napulja, u južnoj Italiji. U davna vremena pekari su pekli somune i prelivali ih čime su imali. U kasnim 1800-ima postala je poznata jednostavna pizza s rajčicom, mozzarellom i bosiljkom, koja se i danas zove Margherita.",
+      "script_cs": "Pizza pochází z Neapole v jižní Itálii. Kdysi dávno pekaři připravovali ploché chleby a doplňovali je tím, co bylo k dispozici. Koncem 19. století se proslavila jednoduchá pizza s rajčaty, mozzarellou a bazalkou, která se dodnes nazývá Margherita.",
+      "script_pl": "Pizza pochodzi z Neapolu, z południowych Włoch. Dawno temu piekarze robili płaski chleb i posypywali go wszystkim, co było pod ręką. Pod koniec XIX wieku sławna stała się prosta pizza z pomidorami, mozzarellą i bazylią, która do dziś nazywa się Margherita.",
+      "script_fi": "Pizza tulee Napolista, Etelä-Italiasta. Kauan sitten leipurit tekivät litteitä leipiä ja lisäsivät ne mitä tahansa saatavilla olevaa. 1800-luvun lopulla yksinkertainen pizza, jossa oli tomaattia, mozzarellaa ja basilikaa, tuli tunnetuksi, ja sitä kutsutaan edelleen Margheritaksi.",
+      "script_sk": "Pizza pochádza z Neapolu v južnom Taliansku. V dávnych dobách pekári vyrábali ploché chleby a dopĺňali ich tým, čo bolo dostupné. Koncom 19. storočia sa preslávila jednoduchá pizza s paradajkami, mozzarellou a bazalkou, ktorá sa dodnes volá Margherita.",
+      "script_da": "Pizza kommer fra Napoli i det sydlige Italien. For længe siden lavede bagere flade brød og toppede dem med hvad der var tilgængeligt. I slutningen af ​​1800-tallet blev en simpel pizza med tomat, mozzarella og basilikum berømt, og den kaldes stadig for Margherita i dag.",
+      "images": [
+        "origin.webp",
+        "origin_2.webp",
+        "origin_3.webp"
+      ]
+    },
+    {
+      "id": "dough",
+      "script_en": "Pizza starts with dough made from flour, water, yeast, and salt. The dough rests and rises until it is soft and full of air. Then it is stretched into a round shape, topped, and baked in a very hot oven until the crust is crisp and the cheese bubbles.",
+      "script_de": "Pizza beginnt mit einem Teig aus Mehl, Wasser, Hefe und Salz. Der Teig ruht und geht auf, bis er weich und luftig ist. Dann wird es zu einer runden Form ausgestreckt, belegt und in einem sehr heißen Ofen gebacken, bis die Kruste knusprig ist und der Käse Blasen wirft.",
+      "script_it": "La pizza inizia con un impasto a base di farina, acqua, lievito e sale. L'impasto riposa e lievita fino a diventare morbido e pieno d'aria. Quindi viene steso in una forma rotonda, guarnito e cotto in un forno molto caldo fino a quando la crosta diventa croccante e il formaggio bolle.",
+      "script_fr": "La pizza commence avec une pâte à base de farine, d'eau, de levure et de sel. La pâte repose et lève jusqu'à ce qu'elle soit molle et pleine d'air. Ensuite, il est étiré en forme ronde, garni et cuit dans un four très chaud jusqu'à ce que la croûte soit croustillante et que le fromage bouillonne.",
+      "script_es": "La pizza comienza con una masa hecha de harina, agua, levadura y sal. La masa reposa y sube hasta que queda suave y llena de aire. Luego se estira hasta darle forma redonda, se cubre y se hornea en un horno muy caliente hasta que la corteza esté crujiente y el queso burbujee.",
+      "script_hr": "Pizza počinje tijestom napravljenim od brašna, vode, kvasca i soli. Tijesto odmara i diže se dok ne postane mekano i puno zraka. Zatim se razvuče u okrugli oblik, prelije i peče u jako zagrijanoj pećnici dok korica ne postane hrskava i dok se sir ne zapuhne.",
+      "script_cs": "Pizza začíná těstem vyrobeným z mouky, vody, droždí a soli. Těsto odpočívá a kyne, dokud není měkké a plné vzduchu. Poté se protáhne do kulatého tvaru, pokryje a peče ve velmi horké troubě, dokud není kůrka křupavá a sýr nebublá.",
+      "script_pl": "Pizza zaczyna się od ciasta z mąki, wody, drożdży i soli. Ciasto odpoczywa i rośnie, aż będzie miękkie i pełne powietrza. Następnie rozciąga się go, nadając mu okrągły kształt, przykrywa wierzchem i piecze w bardzo gorącym piekarniku, aż skórka będzie chrupiąca i pojawią się pęcherzyki sera.",
+      "script_fi": "Pizza alkaa jauhoista, vedestä, hiivasta ja suolasta tehdyllä taikinalla. Taikina lepää ja kohoaa, kunnes se on pehmeää ja täynnä ilmaa. Sitten se venytetään pyöreäksi, peitetään ja paistetaan erittäin kuumassa uunissa, kunnes kuori on rapea ja juusto kuplia.",
+      "script_sk": "Pizza začína cestom vyrobeným z múky, vody, droždia a soli. Cesto odpočíva a kysne, kým nie je mäkké a plné vzduchu. Potom sa natiahne do okrúhleho tvaru, pokryje a pečie vo veľmi horúcej rúre, kým nie je kôrka chrumkavá a syr nebublá.",
+      "script_da": "Pizza starter med dej lavet af mel, vand, gær og salt. Dejen hviler og hæver til den er blød og fyldt med luft. Derefter strækkes det til en rund form, toppes og bages i en meget varm ovn, indtil sværen er sprød og osten bobler.",
+      "images": [
+        "dough.webp",
+        "dough_2.webp",
+        "dough_3.webp"
+      ]
+    },
+    {
+      "id": "varieties",
+      "script_en": "There are countless kinds of pizza. Some have only tomato and cheese, while others are covered with vegetables, mushrooms, olives, or meat. Every region has its own favourite, and families often have their own special recipe.",
+      "script_de": "Es gibt unzählige Pizzasorten. Einige bestehen nur aus Tomaten und Käse, während andere mit Gemüse, Pilzen, Oliven oder Fleisch belegt sind. Jede Region hat ihr eigenes Lieblingsrezept und Familien haben oft ihr eigenes Spezialrezept.",
+      "script_it": "Esistono innumerevoli tipi di pizza. Alcuni hanno solo pomodoro e formaggio, mentre altri sono ricoperti di verdure, funghi, olive o carne. Ogni regione ha il suo preferito e spesso le famiglie hanno la propria ricetta speciale.",
+      "script_fr": "Il existe d'innombrables sortes de pizzas. Certains ne contiennent que des tomates et du fromage, tandis que d'autres sont recouverts de légumes, de champignons, d'olives ou de viande. Chaque région a sa recette préférée et les familles ont souvent leur propre recette spéciale.",
+      "script_es": "Existen innumerables tipos de pizza. Algunos sólo llevan tomate y queso, mientras que otros van cubiertos de verduras, champiñones, aceitunas o carne. Cada región tiene su favorito y las familias suelen tener su propia receta especial.",
+      "script_hr": "Postoji bezbroj vrsta pizza. Neki imaju samo rajčicu i sir, dok su drugi prekriveni povrćem, gljivama, maslinama ili mesom. Svaka regija ima svog favorita, a obitelji često imaju svoj poseban recept.",
+      "script_cs": "Druhů pizzy je nespočet. Některé mají pouze rajčata a sýr, zatímco jiné jsou pokryty zeleninou, houbami, olivami nebo masem. Každý region má svého favorita a rodiny mají často svůj speciální recept.",
+      "script_pl": "Rodzajów pizzy jest niezliczona ilość. Niektóre zawierają tylko pomidory i ser, inne są pokryte warzywami, grzybami, oliwkami lub mięsem. Każdy region ma swojego faworyta, a rodziny często mają swój własny, specjalny przepis.",
+      "script_fi": "Pizzalajeja on lukemattomia. Jotkut sisältävät vain tomaattia ja juustoa, kun taas toiset peitetään vihanneksilla, sienillä, oliiveilla tai lihalla. Jokaisella alueella on oma suosikkinsa, ja perheillä on usein oma erityinen reseptinsä.",
+      "script_sk": "Existuje nespočetné množstvo druhov pizze. Niektoré majú iba paradajky a syr, iné sú pokryté zeleninou, hubami, olivami alebo mäsom. Každý región má svojho favorita a rodiny majú často svoj vlastný špeciálny recept.",
+      "script_da": "Der findes utallige slags pizzaer. Nogle har kun tomat og ost, mens andre er dækket af grøntsager, svampe, oliven eller kød. Hver region har sin egen favorit, og familier har ofte deres egen specielle opskrift.",
+      "images": [
+        "varieties.webp",
+        "varieties_2.webp",
+        "varieties_3.webp"
+      ]
+    },
+    {
+      "id": "life_today",
+      "script_en": "Today pizza is eaten in almost every country. People order it for dinner, make it at home, and share it with friends. A pizza fresh from the oven is a simple food that brings people together.",
+      "script_de": "Heute wird in fast jedem Land Pizza gegessen. Die Leute bestellen es zum Abendessen, bereiten es zu Hause zu und teilen es mit Freunden. Eine Pizza frisch aus dem Ofen ist ein einfaches Essen, das Menschen zusammenbringt.",
+      "script_it": "Oggi la pizza viene mangiata in quasi tutti i paesi. Le persone lo ordinano per cena, lo preparano a casa e lo condividono con gli amici. La pizza appena sfornata è un alimento semplice che unisce le persone.",
+      "script_fr": "Aujourd’hui, la pizza est consommée dans presque tous les pays. Les gens le commandent pour le dîner, le préparent à la maison et le partagent avec des amis. Une pizza fraîchement sortie du four est un aliment simple qui rassemble.",
+      "script_es": "Hoy en día la pizza se come en casi todos los países. La gente lo pide para cenar, lo prepara en casa y lo comparte con amigos. Una pizza recién salida del horno es un alimento sencillo que une a las personas.",
+      "script_hr": "Danas se pizza jede u gotovo svakoj zemlji. Ljudi ga naručuju za večeru, prave kod kuće i dijele s prijateljima. Pizza tek iz pećnice jednostavna je hrana koja spaja ljude.",
+      "script_cs": "Dnes se pizza jí téměř v každé zemi. Lidé si to objednávají k večeři, dělají si to doma a sdílejí to s přáteli. Pizza čerstvá z pece je jednoduché jídlo, které spojuje lidi.",
+      "script_pl": "Dziś pizzę je się niemal w każdym kraju. Ludzie zamawiają je na obiad, przygotowują w domu i dzielą się nim z przyjaciółmi. Pizza prosto z pieca to proste jedzenie, które łączy ludzi.",
+      "script_fi": "Nykyään pizzaa syödään lähes kaikissa maissa. Ihmiset tilaavat sen illalliseksi, tekevät sen kotona ja jakavat sen ystävien kanssa. Uunista otettu pizza on yksinkertainen ruoka, joka yhdistää ihmiset.",
+      "script_sk": "Dnes sa pizza jedáva takmer v každej krajine. Ľudia si ho objednávajú na večeru, robia si ho doma a zdieľajú ho s priateľmi. Pizza čerstvá z pece je jednoduché jedlo, ktoré spája ľudí.",
+      "script_da": "I dag spises pizza i næsten alle lande. Folk bestiller det til middag, laver det derhjemme og deler det med venner. En pizza frisk fra ovnen er en simpel mad, der bringer mennesker sammen.",
+      "images": [
+        "life_today.webp",
+        "life_today_2.webp",
+        "life_today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "origin",
+      "correct": "naples",
+      "question_en": "Which city is famous as the home of pizza?",
+      "question_de": "Welche Stadt ist als Heimat der Pizza bekannt?",
+      "question_it": "Quale città è famosa come la patria della pizza?",
+      "question_fr": "Quelle ville est célèbre pour être la patrie de la pizza ?",
+      "question_es": "¿Qué ciudad es famosa por ser la cuna de la pizza?",
+      "question_hr": "Koji je grad poznat kao dom pizze?",
+      "question_cs": "Které město je známé jako domov pizzy?",
+      "question_pl": "Które miasto jest znane jako ojczyzna pizzy?",
+      "question_fi": "Mikä kaupunki on kuuluisa pizzan kotipaikkana?",
+      "question_sk": "Ktoré mesto je známe ako domov pizze?",
+      "question_da": "Hvilken by er kendt som hjemmet for pizza?",
+      "options": [
+        {
+          "id": "naples",
+          "label_en": "Naples, Italy",
+          "label_de": "Neapel, Italien",
+          "label_it": "Napoli, Italia",
+          "label_fr": "Naples, Italie",
+          "label_es": "Nápoles, Italia",
+          "label_hr": "Napulj, Italija",
+          "label_cs": "Neapol, Itálie",
+          "label_pl": "Neapol, Włochy",
+          "label_fi": "Napoli, Italia",
+          "label_sk": "Neapol, Taliansko",
+          "label_da": "Napoli, Italien"
+        },
+        {
+          "id": "paris",
+          "label_en": "Paris, France",
+          "label_de": "Paris, Frankreich",
+          "label_it": "Parigi, Francia",
+          "label_fr": "Paris, France",
+          "label_es": "París, Francia",
+          "label_hr": "Pariz, Francuska",
+          "label_cs": "Paříž, Francie",
+          "label_pl": "Paryż, Francja",
+          "label_fi": "Pariisi, Ranska",
+          "label_sk": "Paríž, Francúzsko",
+          "label_da": "Paris, Frankrig"
+        },
+        {
+          "id": "tokyo",
+          "label_en": "Tokyo, Japan",
+          "label_de": "Tokio, Japan",
+          "label_it": "Tokio, Giappone",
+          "label_fr": "Tokyo, Japon",
+          "label_es": "Tokio, Japón",
+          "label_hr": "Tokio, Japan",
+          "label_cs": "Tokio, Japonsko",
+          "label_pl": "Tokio, Japonia",
+          "label_fi": "Tokio, Japani",
+          "label_sk": "Tokio, Japonsko",
+          "label_da": "Tokyo, Japan"
+        }
+      ]
+    },
+    {
+      "id": "margherita",
+      "correct": "margherita",
+      "question_en": "Which pizza is topped with tomato, mozzarella and basil?",
+      "question_de": "Welche Pizza ist mit Tomaten, Mozzarella und Basilikum belegt?",
+      "question_it": "Quale pizza è condita con pomodoro, mozzarella e basilico?",
+      "question_fr": "Quelle pizza est garnie de tomate, de mozzarella et de basilic ?",
+      "question_es": "¿Qué pizza lleva tomate, mozzarella y albahaca?",
+      "question_hr": "Koja je pizza prelivena rajčicom, mozzarellom i bosiljkom?",
+      "question_cs": "Která pizza je obložena rajčaty, mozzarellou a bazalkou?",
+      "question_pl": "Która pizza jest z pomidorami, mozzarellą i bazylią?",
+      "question_fi": "Minkä pizzan päällä on tomaattia, mozzarellaa ja basilikaa?",
+      "question_sk": "Ktorá pizza je obložená paradajkami, mozzarellou a bazalkou?",
+      "question_da": "Hvilken pizza er toppet med tomat, mozzarella og basilikum?",
+      "options": [
+        {
+          "id": "margherita",
+          "label_en": "The Margherita",
+          "label_de": "Die Margherita",
+          "label_it": "La Margherita",
+          "label_fr": "La Marguerite",
+          "label_es": "la margarita",
+          "label_hr": "Margherita",
+          "label_cs": "Margherita",
+          "label_pl": "Margherita",
+          "label_fi": "Margherita",
+          "label_sk": "Margherita",
+          "label_da": "Margherita"
+        },
+        {
+          "id": "pepperoni",
+          "label_en": "The pepperoni",
+          "label_de": "Die Peperoni",
+          "label_it": "I peperoni",
+          "label_fr": "Le pepperoni",
+          "label_es": "el peperoni",
+          "label_hr": "Feferoni",
+          "label_cs": "Feferonky",
+          "label_pl": "Pepperoni",
+          "label_fi": "Pepperoni",
+          "label_sk": "Feferónky",
+          "label_da": "Pepperonien"
+        },
+        {
+          "id": "hawaiian",
+          "label_en": "The Hawaiian",
+          "label_de": "Der Hawaiianer",
+          "label_it": "L'Hawaiano",
+          "label_fr": "L'Hawaïen",
+          "label_es": "El hawaiano",
+          "label_hr": "Havajski",
+          "label_cs": "Havajský",
+          "label_pl": "Hawajczyk",
+          "label_fi": "Havaijilainen",
+          "label_sk": "Havajský",
+          "label_da": "Hawaiianeren"
+        }
+      ]
+    },
+    {
+      "id": "dough",
+      "correct": "yeast",
+      "question_en": "What makes pizza dough rise?",
+      "question_de": "Was lässt Pizzateig aufgehen?",
+      "question_it": "Cosa fa lievitare l’impasto della pizza?",
+      "question_fr": "Qu'est-ce qui fait lever la pâte à pizza ?",
+      "question_es": "¿Qué hace que la masa de la pizza suba?",
+      "question_hr": "Zbog čega se tijesto za pizzu diže?",
+      "question_cs": "Co způsobuje kynutí těsta na pizzu?",
+      "question_pl": "Co sprawia, że ​​ciasto na pizzę rośnie?",
+      "question_fi": "Mikä saa pizzataikinan kohoamaan?",
+      "question_sk": "Čo spôsobuje, že cesto na pizzu kysne?",
+      "question_da": "Hvad får pizzadejen til at hæve?",
+      "options": [
+        {
+          "id": "yeast",
+          "label_en": "Yeast",
+          "label_de": "Hefe",
+          "label_it": "Lievito",
+          "label_fr": "Levure",
+          "label_es": "Levadura",
+          "label_hr": "Kvasac",
+          "label_cs": "Droždí",
+          "label_pl": "Drożdże",
+          "label_fi": "Hiiva",
+          "label_sk": "Kvasnice",
+          "label_da": "Gær"
+        },
+        {
+          "id": "cheese",
+          "label_en": "Cheese",
+          "label_de": "Käse",
+          "label_it": "Formaggio",
+          "label_fr": "Fromage",
+          "label_es": "Queso",
+          "label_hr": "Sir",
+          "label_cs": "Sýr",
+          "label_pl": "Ser",
+          "label_fi": "Juusto",
+          "label_sk": "Syr",
+          "label_da": "Ost"
+        },
+        {
+          "id": "tomato",
+          "label_en": "Tomato",
+          "label_de": "Tomate",
+          "label_it": "Pomodoro",
+          "label_fr": "Tomate",
+          "label_es": "Tomate",
+          "label_hr": "Rajčica",
+          "label_cs": "Rajče",
+          "label_pl": "Pomidor",
+          "label_fi": "Tomaatti",
+          "label_sk": "Paradajka",
+          "label_da": "Tomat"
+        }
+      ]
+    }
+  ]
+}
