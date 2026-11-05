@@ -316,6 +316,27 @@
       "title_da": "Pingviner"
     },
     {
+      "id": "pig",
+      "category_id": "animals",
+      "symbol_id": "pig",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/pig/pig_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/pig/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2575655,
+      "version": 1,
+      "title_en": "Pigs",
+      "title_de": "Schweine",
+      "title_it": "Maiali",
+      "title_fr": "Porcs",
+      "title_es": "cerdos",
+      "title_hr": "Svinje",
+      "title_cs": "Prasata",
+      "title_pl": "Wieprzowy",
+      "title_fi": "Siat",
+      "title_sk": "Ošípané",
+      "title_da": "Svin"
+    },
+    {
       "id": "rabbit",
       "category_id": "animals",
       "symbol_id": "rabbit",
