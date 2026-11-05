@@ -442,6 +442,27 @@
       "title_da": "Ost"
     },
     {
+      "id": "grape",
+      "category_id": "food",
+      "symbol_id": "grape",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/grape/grape_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/grape/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2455172,
+      "version": 1,
+      "title_en": "Grapes",
+      "title_de": "Trauben",
+      "title_it": "Uva",
+      "title_fr": "Raisins",
+      "title_es": "Uvas",
+      "title_hr": "Grožđe",
+      "title_cs": "Hrozny",
+      "title_pl": "Winogrona",
+      "title_fi": "Rypäleet",
+      "title_sk": "Hrozno",
+      "title_da": "Druer"
+    },
+    {
       "id": "orange",
       "category_id": "food",
       "symbol_id": "orange",

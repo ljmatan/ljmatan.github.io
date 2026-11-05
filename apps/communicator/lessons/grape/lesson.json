@@ -1,0 +1,293 @@
+{
+  "id": "grape",
+  "category_id": "food",
+  "symbol_id": "grape",
+  "thumbnail": "grape_thumb.webp",
+  "title_en": "Grapes",
+  "title_de": "Trauben",
+  "title_it": "Uva",
+  "title_fr": "Raisins",
+  "title_es": "Uvas",
+  "title_hr": "Grožđe",
+  "title_cs": "Hrozny",
+  "title_pl": "Winogrona",
+  "title_fi": "Rypäleet",
+  "title_sk": "Hrozno",
+  "title_da": "Druer",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about grapes. Grapes are small, juicy fruits that grow in bunches on climbing vines. They can be green, red, or purple, and they are eaten fresh or made into juice, jelly, and raisins.",
+      "script_de": "Heute lernen wir etwas über Trauben. Weintrauben sind kleine, saftige Früchte, die in Trauben an Kletterpflanzen wachsen. Sie können grün, rot oder violett sein und werden frisch gegessen oder zu Saft, Gelee und Rosinen verarbeitet.",
+      "script_it": "Oggi parleremo dell'uva. L'uva è un frutto piccolo e succoso che cresce in grappoli su viti rampicanti. Possono essere verdi, rossi o viola e vengono consumati freschi o trasformati in succhi, gelatine e uvetta.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur le raisin. Les raisins sont de petits fruits juteux qui poussent en grappes sur des vignes grimpantes. Ils peuvent être verts, rouges ou violets et sont consommés frais ou transformés en jus, gelée et raisins secs.",
+      "script_es": "Hoy vamos a aprender sobre las uvas. Las uvas son frutas pequeñas y jugosas que crecen en racimos en enredaderas. Pueden ser verdes, rojos o morados y se comen frescos o en forma de jugo, gelatina y pasas.",
+      "script_hr": "Danas ćemo učiti o grožđu. Grožđe je malo, sočno voće koje raste u grozdovima na penjačkoj lozi. Mogu biti zelene, crvene ili ljubičaste, a jedu se svježe ili se od njih prave sokovi, želei i grožđice.",
+      "script_cs": "Dnes se budeme učit o hroznech. Hrozny jsou malé, šťavnaté plody, které rostou ve svazcích na popínavé révě. Mohou být zelené, červené nebo fialové a jedí se čerstvé nebo se z nich vyrábí šťáva, želé a rozinky.",
+      "script_pl": "Dzisiaj będziemy uczyć się o winogronach. Winogrona to małe, soczyste owoce, które rosną w pęczkach na pnączach. Mogą być zielone, czerwone lub fioletowe i są spożywane na świeżo lub przetwarzane na sok, galaretkę i rodzynki.",
+      "script_fi": "Tänään opimme rypäleistä. Rypäleet ovat pieniä, mehukkaita hedelmiä, jotka kasvavat rypäleissä kiipeilyköynnöksissä. Ne voivat olla vihreitä, punaisia ​​tai violetteja, ja ne syödään tuoreina tai niistä tehdään mehua, hyytelöä ja rusinoita.",
+      "script_sk": "Dnes sa budeme učiť o hrozne. Hrozno je malé, šťavnaté ovocie, ktoré rastie v strapcoch na popínavých viničoch. Môžu byť zelené, červené alebo fialové a jedia sa čerstvé alebo sa z nich vyrába šťava, želé a hrozienka.",
+      "script_da": "I dag skal vi lære om druer. Druer er små, saftige frugter, der vokser i klaser på klatrende vinstokke. De kan være grønne, røde eller lilla, og de spises friske eller laves til juice, gelé og rosiner.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "origin",
+      "script_en": "Grapes have been grown for thousands of years. People in the Middle East and around the Mediterranean learned to train vines on wooden supports and to harvest the fruit in late summer. From there, grapes spread to Europe and eventually to many other parts of the world.",
+      "script_de": "Weintrauben werden seit Tausenden von Jahren angebaut. Die Menschen im Nahen Osten und im Mittelmeerraum lernten, Weinreben auf Holzstützen zu ziehen und die Früchte im Spätsommer zu ernten. Von dort aus verbreiteten sich die Trauben nach Europa und schließlich in viele andere Teile der Welt.",
+      "script_it": "L'uva viene coltivata da migliaia di anni. Le popolazioni del Medio Oriente e del Mediterraneo impararono a coltivare la vite su supporti di legno e a raccogliere i frutti a fine estate. Da lì l'uva si diffuse in Europa e infine in molte altre parti del mondo.",
+      "script_fr": "Les raisins sont cultivés depuis des milliers d'années. Les habitants du Moyen-Orient et du pourtour méditerranéen ont appris à palisser la vigne sur des supports en bois et à récolter les fruits à la fin de l'été. De là, les raisins se sont répandus en Europe et finalement dans de nombreuses autres régions du monde.",
+      "script_es": "Las uvas se cultivan desde hace miles de años. La gente de Oriente Medio y del Mediterráneo aprendió a guiar las vides sobre soportes de madera y a cosechar la fruta a finales del verano. Desde allí, las uvas se extendieron a Europa y, finalmente, a muchas otras partes del mundo.",
+      "script_hr": "Grožđe se uzgaja tisućama godina. Ljudi na Bliskom istoku i diljem Sredozemlja naučili su lozu obući na drvene potpore i brati plodove u kasno ljeto. Odatle se grožđe proširilo u Europu i na kraju u mnoge druge dijelove svijeta.",
+      "script_cs": "Hrozny se pěstují tisíce let. Lidé na Středním východě a ve Středomoří se naučili trénovat vinnou révu na dřevěných podpěrách a sklízet ovoce koncem léta. Odtud se hrozny rozšířily do Evropy a nakonec do mnoha dalších částí světa.",
+      "script_pl": "Winogrona uprawiane są od tysięcy lat. Mieszkańcy Bliskiego Wschodu i basenu Morza Śródziemnego nauczyli się sadzić winorośl na drewnianych podporach i zbierać owoce późnym latem. Stamtąd winogrona rozprzestrzeniły się do Europy, a ostatecznie do wielu innych części świata.",
+      "script_fi": "Rypäleitä on viljelty tuhansia vuosia. Lähi-idän ja Välimeren alueen ihmiset oppivat kouluttamaan viiniköynnöksiä puutuilla ja korjaamaan hedelmiä loppukesällä. Sieltä rypäleet levisivät Eurooppaan ja lopulta moniin muihin osiin maailmaa.",
+      "script_sk": "Hrozno sa pestuje už tisíce rokov. Ľudia na Blízkom východe a v okolí Stredozemného mora sa naučili trénovať vinič na drevených podperách a zbierať ovocie koncom leta. Odtiaľ sa hrozno rozšírilo do Európy a nakoniec aj do mnohých ďalších častí sveta.",
+      "script_da": "Druer er blevet dyrket i tusinder af år. Folk i Mellemøsten og omkring Middelhavet lærte at træne vinstokke på træstøtter og at høste frugterne i sensommeren. Derfra spredte druer sig til Europa og efterhånden til mange andre dele af verden.",
+      "images": [
+        "origin.webp",
+        "origin_2.webp",
+        "origin_3.webp"
+      ]
+    },
+    {
+      "id": "growth",
+      "script_en": "A grapevine climbs using curly tendrils that wrap around supports. In spring it grows leaves and tiny flowers, and by summer the flowers have become small green grapes. The grapes swell and change colour as they ripen in the sun.",
+      "script_de": "Eine Weinrebe klettert mit lockigen Ranken, die sich um Stützen winden. Im Frühling wachsen Blätter und winzige Blüten, und im Sommer verwandeln sich die Blüten in kleine grüne Weintrauben. Die Trauben quellen auf und verändern ihre Farbe, wenn sie in der Sonne reifen.",
+      "script_it": "La vite si arrampica utilizzando viticci ricci che avvolgono i supporti. In primavera crescono foglie e piccoli fiori, e in estate i fiori diventano piccoli acini verdi. Gli acini si gonfiano e cambiano colore man mano che maturano al sole.",
+      "script_fr": "Une vigne grimpe à l’aide de vrilles bouclées qui s’enroulent autour des supports. Au printemps, il produit des feuilles et de petites fleurs, et en été, les fleurs se transforment en petits raisins verts. Les raisins gonflent et changent de couleur en mûrissant au soleil.",
+      "script_es": "Una vid trepa usando zarcillos rizados que se envuelven alrededor de los soportes. En primavera le crecen hojas y flores diminutas, y en verano las flores se convierten en pequeñas uvas verdes. Las uvas se hinchan y cambian de color a medida que maduran al sol.",
+      "script_hr": "Vinova loza se penje pomoću kovrčavih vitica koje se omotavaju oko oslonaca. U proljeće izraste lišće i sitni cvjetovi, a do ljeta cvjetovi prerastu u male zelene grozdove. Grožđe bubri i mijenja boju dok sazrijeva na suncu.",
+      "script_cs": "Vinná réva šplhá pomocí kudrnatých úponků, které se omotávají kolem podpěr. Na jaře vyrůstají listy a drobné květy a v létě se z květů staly malé zelené hrozny. Hrozny bobtnají a mění barvu, jak dozrávají na slunci.",
+      "script_pl": "Winorośl wspina się za pomocą kręconych wąsów owijających się wokół podpór. Wiosną wypuszcza liście i drobne kwiaty, a latem kwiaty zmieniają się w małe zielone winogrona. Winogrona pęcznieją i zmieniają kolor w miarę dojrzewania na słońcu.",
+      "script_fi": "Viiniköynnös kiipeää tukien ympärille kiertyvien kiharoiden lonteiden avulla. Keväällä se kasvattaa lehtiä ja pieniä kukkia, ja kesällä kukista on tullut pieniä vihreitä rypäleitä. Rypäleet turpoavat ja vaihtavat väriä kypsyessään auringossa.",
+      "script_sk": "Vinič šplhá pomocou kučeravých úponkov, ktoré sa ovíjajú okolo podpier. Na jar rastú listy a drobné kvety a do leta sa z kvetov stanú malé zelené hrozno. Hrozno napučiava a mení farbu, keď dozrieva na slnku.",
+      "script_da": "En vinranke klatrer ved hjælp af krøllede ranker, der vikler sig om støtter. Om foråret vokser den blade og bittesmå blomster, og om sommeren er blomsterne blevet til små grønne druer. Druerne svulmer op og skifter farve, efterhånden som de modnes i solen.",
+      "images": [
+        "growth.webp",
+        "growth_2.webp",
+        "growth_3.webp"
+      ]
+    },
+    {
+      "id": "varieties",
+      "script_en": "There are many kinds of grapes. Some are seedless and sweet for eating fresh, while others are used for juice or wine. Raisins are grapes that have been dried in the sun or in a warm oven until most of their water is gone.",
+      "script_de": "Es gibt viele Arten von Trauben. Einige sind kernlos und zum Frischverzehr süß, während andere für Saft oder Wein verwendet werden. Rosinen sind Trauben, die in der Sonne oder in einem warmen Ofen getrocknet wurden, bis der größte Teil ihres Wassers verschwunden ist.",
+      "script_it": "Esistono molti tipi di uva. Alcuni sono senza semi e dolci da mangiare freschi, mentre altri sono usati per succhi o vino. L'uvetta è l'uva essiccata al sole o in un forno caldo fino a quando la maggior parte della sua acqua non è scomparsa.",
+      "script_fr": "Il existe de nombreuses sortes de raisins. Certains sont sans pépins et sucrés pour être consommés frais, tandis que d'autres sont utilisés pour faire du jus ou du vin. Les raisins secs sont des raisins qui ont été séchés au soleil ou dans un four chaud jusqu'à ce que la majeure partie de leur eau soit éliminée.",
+      "script_es": "Hay muchos tipos de uvas. Algunos no tienen semillas y son dulces para comer frescos, mientras que otros se usan para hacer jugo o vino. Las pasas son uvas que se han secado al sol o en un horno caliente hasta que se acabe la mayor parte del agua.",
+      "script_hr": "Postoji mnogo vrsta grožđa. Neki su bez sjemenki i slatki za jelo svježi, dok se drugi koriste za sok ili vino. Grožđice su grožđice koje su sušene na suncu ili u toploj pećnici dok većina vode ne nestane.",
+      "script_cs": "Existuje mnoho druhů hroznů. Některé jsou bez pecek a sladké ke konzumaci čerstvé, zatímco jiné se používají na šťávu nebo víno. Rozinky jsou hrozny, které byly vysušeny na slunci nebo v teplé peci, dokud z nich nezmizela většina vody.",
+      "script_pl": "Istnieje wiele rodzajów winogron. Niektóre są bezpestkowe i słodkie do spożycia na świeżo, inne natomiast wykorzystuje się do produkcji soku lub wina. Rodzynki to winogrona suszone na słońcu lub w ciepłym piekarniku, aż do wyczerpania się większości wody.",
+      "script_fi": "There are many kinds of grapes. Jotkut ovat siemenettömiä ja makeita tuoreena syömiseen, kun taas toisia käytetään mehuun tai viiniin. Rusinat ovat rypäleitä, joita on kuivattu auringossa tai lämpimässä uunissa, kunnes suurin osa vedestä on haihtunut.",
+      "script_sk": "Existuje veľa druhov hrozna. Niektoré sú bez semien a sladké na konzumáciu čerstvé, zatiaľ čo iné sa používajú na džús alebo víno. Hrozienka je hrozno, ktoré sa suší na slnku alebo v teplej peci, kým sa z neho neminie väčšina vody.",
+      "script_da": "Der findes mange slags druer. Nogle er frøfri og søde til at spise frisk, mens andre bruges til juice eller vin. Rosiner er druer, der er blevet tørret i solen eller i en varm ovn, indtil det meste af deres vand er væk.",
+      "images": [
+        "varieties.webp",
+        "varieties_2.webp",
+        "varieties_3.webp"
+      ]
+    },
+    {
+      "id": "kitchen",
+      "script_en": "In the kitchen, grapes are eaten fresh or added to fruit salads and cheese boards. They can be pressed into juice, cooked into jelly, or dried into raisins. A bunch of cool grapes is a simple and refreshing snack.",
+      "script_de": "In der Küche werden Weintrauben frisch gegessen oder zu Obstsalaten und Käseplatten hinzugefügt. Sie können zu Saft gepresst, zu Gelee gekocht oder zu Rosinen getrocknet werden. Ein Bund kühler Weintrauben ist ein einfacher und erfrischender Snack.",
+      "script_it": "In cucina l'uva viene consumata fresca o aggiunta a macedonie e taglieri di formaggi. Possono essere spremuti in succo, cotti in gelatina o essiccati in uvetta. Un grappolo d'uva fresca è uno spuntino semplice e rinfrescante.",
+      "script_fr": "En cuisine, les raisins sont consommés frais ou ajoutés aux salades de fruits et aux plateaux de fromages. Ils peuvent être pressés en jus, cuits en gelée ou séchés en raisins secs. Une grappe de raisin frais est une collation simple et rafraîchissante.",
+      "script_es": "En la cocina, las uvas se comen frescas o se añaden a ensaladas de frutas y tablas de quesos. Se pueden exprimir para convertirlos en jugo, cocinarlos para hacer gelatina o secarlos para convertirlos en pasas. Un racimo de uvas frescas es un refrigerio sencillo y refrescante.",
+      "script_hr": "U kuhinji se grožđe jede svježe ili se dodaje u voćne salate i sirne ploče. Mogu se prešati u sok, kuhati u žele ili sušiti u grožđice. Grozd hladnog grožđa jednostavan je i osvježavajući međuobrok.",
+      "script_cs": "V kuchyni se hrozny konzumují čerstvé nebo se přidávají do ovocných salátů a sýrových prkýnek. Lze je lisovat do šťávy, vařit do želé nebo sušit na rozinky. Banda chladných hroznů je jednoduchá a osvěžující svačina.",
+      "script_pl": "W kuchni winogrona spożywa się na świeżo lub dodaje do sałatek owocowych i desek serów. Można je wyciskać na sok, gotować na galaretkę lub suszyć na rodzynki. Kiść fajnych winogron to prosta i orzeźwiająca przekąska.",
+      "script_fi": "Keittiössä rypäleitä syödään tuoreena tai lisätään hedelmäsalaatteihin ja juustolevyihin. Ne voidaan puristaa mehuksi, keittää hyytelöksi tai kuivata rusinoksi. Viileä viinirypäleterppu on yksinkertainen ja virkistävä välipala.",
+      "script_sk": "V kuchyni sa hrozno konzumuje čerstvé alebo sa pridáva do ovocných šalátov a syrových dosiek. Môžu sa lisovať na šťavu, variť do želé alebo sušiť na hrozienka. Strapka chladivého hrozna je jednoduché a osviežujúce občerstvenie.",
+      "script_da": "I køkkenet spises druer friske eller tilsættes frugtsalater og osteborde. De kan presses til juice, koges til gelé eller tørres til rosiner. En klase kølige druer er en enkel og forfriskende snack.",
+      "images": [
+        "kitchen.webp",
+        "kitchen_2.webp",
+        "kitchen_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "bunch",
+      "correct": "bunch",
+      "question_en": "How do grapes grow?",
+      "question_de": "Wie wachsen Weintrauben?",
+      "question_it": "Come cresce l'uva?",
+      "question_fr": "Comment poussent les raisins ?",
+      "question_es": "¿Cómo crecen las uvas?",
+      "question_hr": "Kako raste grožđe?",
+      "question_cs": "Jak hrozny rostou?",
+      "question_pl": "Jak rosną winogrona?",
+      "question_fi": "Miten viinirypäleet kasvavat?",
+      "question_sk": "Ako rastie hrozno?",
+      "question_da": "Hvordan vokser druer?",
+      "options": [
+        {
+          "id": "bunch",
+          "label_en": "In bunches on a vine",
+          "label_de": "In Trauben an einer Rebe",
+          "label_it": "A grappoli su una vite",
+          "label_fr": "En grappes sur une vigne",
+          "label_es": "En racimos sobre una vid",
+          "label_hr": "U grozdovima na trsu",
+          "label_cs": "Ve svazcích na révě",
+          "label_pl": "W pęczkach na winorośli",
+          "label_fi": "Kimppuissa viiniköynnöksessä",
+          "label_sk": "V trsoch na viniči",
+          "label_da": "I klaser på en vinstok"
+        },
+        {
+          "id": "root",
+          "label_en": "Underground like potatoes",
+          "label_de": "Unter der Erde wie Kartoffeln",
+          "label_it": "Sottoterra come le patate",
+          "label_fr": "Sous terre comme des pommes de terre",
+          "label_es": "Bajo tierra como patatas",
+          "label_hr": "Pod zemljom kao krumpiri",
+          "label_cs": "Pod zemí jako brambory",
+          "label_pl": "Pod ziemią jak ziemniaki",
+          "label_fi": "Maan alla kuin perunat",
+          "label_sk": "Pod zemou ako zemiaky",
+          "label_da": "Under jorden som kartofler"
+        },
+        {
+          "id": "tree",
+          "label_en": "On a tall pine tree",
+          "label_de": "Auf einer hohen Kiefer",
+          "label_it": "Su un alto pino",
+          "label_fr": "Sur un grand pin",
+          "label_es": "En un pino alto",
+          "label_hr": "Na visokom boru",
+          "label_cs": "Na vysoké borovici",
+          "label_pl": "Na wysokiej sośnie",
+          "label_fi": "Korkealla männyllä",
+          "label_sk": "Na vysokej borovici",
+          "label_da": "På et højt fyrretræ"
+        }
+      ]
+    },
+    {
+      "id": "raisin",
+      "correct": "dried_grape",
+      "question_en": "What is a raisin?",
+      "question_de": "Was ist eine Rosine?",
+      "question_it": "Cos'è un'uvetta?",
+      "question_fr": "Qu'est-ce qu'un raisin sec ?",
+      "question_es": "¿Qué es una pasa?",
+      "question_hr": "Što je grožđica?",
+      "question_cs": "Co je to rozinka?",
+      "question_pl": "Co to jest rodzynek?",
+      "question_fi": "Mikä on rusina?",
+      "question_sk": "Čo je to hrozienka?",
+      "question_da": "Hvad er en rosin?",
+      "options": [
+        {
+          "id": "dried_grape",
+          "label_en": "A dried grape",
+          "label_de": "Eine getrocknete Traube",
+          "label_it": "Un'uva secca",
+          "label_fr": "Un raisin séché",
+          "label_es": "una uva pasa",
+          "label_hr": "Suho grožđe",
+          "label_cs": "Sušené hroznové víno",
+          "label_pl": "Wysuszone winogrono",
+          "label_fi": "Kuivattu rypäle",
+          "label_sk": "Sušené hrozno",
+          "label_da": "En tørret drue"
+        },
+        {
+          "id": "nut",
+          "label_en": "A kind of nut",
+          "label_de": "Eine Art Nuss",
+          "label_it": "Una specie di noce",
+          "label_fr": "Une sorte de noix",
+          "label_es": "una especie de nuez",
+          "label_hr": "Vrsta oraha",
+          "label_cs": "Jakýsi oříšek",
+          "label_pl": "Rodzaj orzecha",
+          "label_fi": "Eräänlainen pähkinä",
+          "label_sk": "Akýsi oriešok",
+          "label_da": "En slags nød"
+        },
+        {
+          "id": "seed",
+          "label_en": "A grape seed",
+          "label_de": "Ein Traubenkern",
+          "label_it": "Un seme d'uva",
+          "label_fr": "Un pépin de raisin",
+          "label_es": "una semilla de uva",
+          "label_hr": "Sjemenka grožđa",
+          "label_cs": "Hroznové semínko",
+          "label_pl": "Nasiona winogron",
+          "label_fi": "Rypäleen siemen",
+          "label_sk": "Hroznové semienko",
+          "label_da": "Et vindruekerne"
+        }
+      ]
+    },
+    {
+      "id": "color",
+      "correct": "green_red_purple",
+      "question_en": "Which colours can grapes be?",
+      "question_de": "Welche Farben können Weintrauben haben?",
+      "question_it": "Di quali colori può essere l'uva?",
+      "question_fr": "De quelles couleurs peuvent être les raisins ?",
+      "question_es": "¿De qué colores pueden ser las uvas?",
+      "question_hr": "Koje boje može biti grožđe?",
+      "question_cs": "Jaké barvy mohou mít hrozny?",
+      "question_pl": "Jakie kolory mogą mieć winogrona?",
+      "question_fi": "Minkä värisiä viinirypäleet voivat olla?",
+      "question_sk": "Aké farby môže mať hrozno?",
+      "question_da": "Hvilke farver kan druer være?",
+      "options": [
+        {
+          "id": "green_red_purple",
+          "label_en": "Green, red or purple",
+          "label_de": "Grün, rot oder lila",
+          "label_it": "Verde, rosso o viola",
+          "label_fr": "Vert, rouge ou violet",
+          "label_es": "Verde, rojo o morado",
+          "label_hr": "Zelena, crvena ili ljubičasta",
+          "label_cs": "Zelená, červená nebo fialová",
+          "label_pl": "Zielony, czerwony lub fioletowy",
+          "label_fi": "Vihreä, punainen tai violetti",
+          "label_sk": "Zelená, červená alebo fialová",
+          "label_da": "Grøn, rød eller lilla"
+        },
+        {
+          "id": "blue",
+          "label_en": "Only blue",
+          "label_de": "Nur blau",
+          "label_it": "Solo blu",
+          "label_fr": "Seulement du bleu",
+          "label_es": "solo azul",
+          "label_hr": "Samo plavo",
+          "label_cs": "Pouze modrá",
+          "label_pl": "Tylko niebieski",
+          "label_fi": "Vain sininen",
+          "label_sk": "Iba modrá",
+          "label_da": "Kun blå"
+        },
+        {
+          "id": "black_white",
+          "label_en": "Only black and white",
+          "label_de": "Nur Schwarz und Weiß",
+          "label_it": "Solo bianco e nero",
+          "label_fr": "Seulement du noir et blanc",
+          "label_es": "Solo blanco y negro",
+          "label_hr": "Samo crno-bijelo",
+          "label_cs": "Pouze černá a bílá",
+          "label_pl": "Tylko czarno-białe",
+          "label_fi": "Vain musta ja valkoinen",
+          "label_sk": "Len čierno-biele",
+          "label_da": "Kun sort/hvid"
+        }
+      ]
+    }
+  ]
+}
