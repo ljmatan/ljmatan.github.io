@@ -503,6 +503,27 @@
       "title_fi": "Perunat",
       "title_sk": "Zemiaky",
       "title_da": "Kartofler"
+    },
+    {
+      "id": "strawberry",
+      "category_id": "food",
+      "symbol_id": "strawberry",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/strawberry/strawberry_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/strawberry/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2421264,
+      "version": 1,
+      "title_en": "Strawberries",
+      "title_de": "Erdbeeren",
+      "title_it": "Fragole",
+      "title_fr": "Fraises",
+      "title_es": "fresas",
+      "title_hr": "Jagode",
+      "title_cs": "Jahody",
+      "title_pl": "Truskawki",
+      "title_fi": "Mansikoita",
+      "title_sk": "Jahody",
+      "title_da": "Jordbær"
     }
   ]
 }

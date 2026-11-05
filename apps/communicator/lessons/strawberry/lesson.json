@@ -1,0 +1,293 @@
+{
+  "id": "strawberry",
+  "category_id": "food",
+  "symbol_id": "strawberry",
+  "thumbnail": "strawberry_thumb.webp",
+  "title_en": "Strawberries",
+  "title_de": "Erdbeeren",
+  "title_it": "Fragole",
+  "title_fr": "Fraises",
+  "title_es": "fresas",
+  "title_hr": "Jagode",
+  "title_cs": "Jahody",
+  "title_pl": "Truskawki",
+  "title_fi": "Mansikoita",
+  "title_sk": "Jahody",
+  "title_da": "Jordbær",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about strawberries. Strawberries are small, sweet red fruits that many people love. They have tiny seeds on the outside and a bright, fresh taste that makes them a favourite in summer.",
+      "script_de": "Heute lernen wir etwas über Erdbeeren. Erdbeeren sind kleine, süße rote Früchte, die viele Menschen lieben. Sie haben außen winzige Samen und einen hellen, frischen Geschmack, der sie im Sommer zu einem Favoriten macht.",
+      "script_it": "Oggi parleremo delle fragole. Le fragole sono piccoli frutti rossi dolci che molte persone amano. Hanno piccoli semi all'esterno e un gusto fresco e brillante che li rende i preferiti in estate.",
+      "script_fr": "Aujourd'hui, nous allons découvrir les fraises. Les fraises sont de petits fruits rouges sucrés que beaucoup de gens adorent. Ils ont de minuscules graines à l’extérieur et un goût vif et frais qui en font un favori en été.",
+      "script_es": "Hoy vamos a aprender sobre las fresas. Las fresas son frutos rojos pequeños y dulces que a mucha gente les encanta. Tienen semillas diminutas en el exterior y un sabor fresco y brillante que las convierte en las favoritas del verano.",
+      "script_hr": "Danas ćemo učiti o jagodama. Jagode su mali, slatki crveni plodovi koje mnogi vole. Imaju sitne sjemenke izvana i vedar, svjež okus zbog kojeg su omiljeni ljeti.",
+      "script_cs": "Dnes se budeme učit o jahodách. Jahody jsou malé, sladké červené ovoce, které mnoho lidí miluje. Mají drobná semena na vnější straně a jasnou, svěží chuť, díky které jsou oblíbené v létě.",
+      "script_pl": "Dzisiaj będziemy uczyć się o truskawkach. Truskawki to małe, słodkie czerwone owoce, które wiele osób uwielbia. Mają maleńkie pestki na zewnątrz i jasny, świeży smak, który czyni je ulubionymi latem.",
+      "script_fi": "Tänään opimme mansikoista. Mansikat ovat pieniä, makeita punaisia ​​hedelmiä, joita monet ihmiset rakastavat. Niissä on ulkopuolelta pieniä siemeniä ja kirkas, raikas maku, mikä tekee niistä suosikki kesällä.",
+      "script_sk": "Dnes sa dozvieme o jahodách. Jahody sú malé, sladké červené ovocie, ktoré mnohí ľudia milujú. Majú drobné semená na vonkajšej strane a jasnú, sviežu chuť, vďaka ktorej sú obľúbené v lete.",
+      "script_da": "I dag skal vi lære om jordbær. Jordbær er små, søde røde frugter, som mange mennesker elsker. De har små frø på ydersiden og en lys, frisk smag, der gør dem til en favorit om sommeren.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "growth",
+      "script_en": "Strawberries grow on low plants close to the ground. In spring the plants open small white flowers, and soon after, green berries appear. As they ripen they turn from green to pink and then deep red. Farmers and gardeners pick them when they are sweet and soft.",
+      "script_de": "Erdbeeren wachsen auf niedrigen Pflanzen in Bodennähe. Im Frühjahr öffnen die Pflanzen kleine weiße Blüten und bald darauf erscheinen grüne Beeren. Wenn sie reifen, verfärben sie sich von grün nach rosa und dann tiefrot. Landwirte und Gärtner pflücken sie, wenn sie süß und weich sind.",
+      "script_it": "Le fragole crescono su piante basse vicino al terreno. In primavera le piante aprono piccoli fiori bianchi e subito dopo compaiono bacche verdi. Man mano che maturano virano dal verde al rosa e poi al rosso intenso. Agricoltori e giardinieri li raccolgono quando sono dolci e morbidi.",
+      "script_fr": "Les fraises poussent sur des plantes basses, proches du sol. Au printemps, les plantes ouvrent de petites fleurs blanches et peu de temps après, des baies vertes apparaissent. En mûrissant, ils passent du vert au rose puis au rouge foncé. Les agriculteurs et les jardiniers les cueillent lorsqu’elles sont sucrées et tendres.",
+      "script_es": "Las fresas crecen en plantas bajas cerca del suelo. En primavera, las plantas abren pequeñas flores blancas y poco después aparecen bayas verdes. A medida que maduran, cambian de verde a rosa y luego a un rojo intenso. Los agricultores y jardineros los recogen cuando están dulces y suaves.",
+      "script_hr": "Jagode rastu na niskim biljkama blizu tla. U proljeće biljke otvaraju male bijele cvjetove, a ubrzo nakon toga pojavljuju se zelene bobice. Kako sazrijevaju, prelaze iz zelene u ružičastu, a zatim tamnocrvenu. Poljoprivrednici i vrtlari ih beru dok su slatki i mekani.",
+      "script_cs": "Jahody rostou na nízkých rostlinách blízko země. Na jaře rostliny otevírají malé bílé květy a brzy poté se objevují zelené bobule. Jak dozrávají, mění se ze zelené na růžovou a poté tmavě červenou. Farmáři a zahradníci je sbírají, když jsou sladké a měkké.",
+      "script_pl": "Truskawki rosną na niskich roślinach blisko ziemi. Wiosną rośliny otwierają małe białe kwiaty, a wkrótce potem pojawiają się zielone jagody. W miarę dojrzewania zmieniają kolor z zielonego na różowy, a następnie głęboko czerwony. Rolnicy i ogrodnicy zbierają je, gdy są słodkie i miękkie.",
+      "script_fi": "Mansikat kasvavat matalilla kasveilla lähellä maata. Keväällä kasvit avaavat pieniä valkoisia kukkia, ja pian sen jälkeen ilmestyy vihreitä marjoja. Kypsyessään ne muuttuvat vihreästä vaaleanpunaiseksi ja sitten syvän punaiseksi. Viljelijät ja puutarhurit poimivat ne, kun ne ovat makeita ja pehmeitä.",
+      "script_sk": "Jahody rastú na nízkych rastlinách blízko zeme. Na jar rastliny otvárajú malé biele kvety a čoskoro sa objavia zelené bobule. Ako dozrievajú, menia sa zo zelenej na ružovú a potom sýto červenú. Farmári a záhradkári ich zbierajú, keď sú sladké a mäkké.",
+      "script_da": "Jordbær vokser på lave planter tæt på jorden. Om foråret åbner planterne små hvide blomster, og kort efter kommer grønne bær frem. Efterhånden som de modnes, skifter de fra grøn til pink og derefter dyb rød. Landmænd og gartnere plukker dem, når de er søde og bløde.",
+      "images": [
+        "growth.webp",
+        "growth_2.webp",
+        "growth_3.webp"
+      ]
+    },
+    {
+      "id": "varieties",
+      "script_en": "There are many kinds of strawberries, from tiny wild ones to large garden varieties. Wild strawberries are small but very sweet, while cultivated strawberries are bigger and juicier. Each one is covered with tiny seeds that sit on the outside of the fruit.",
+      "script_de": "Es gibt viele Arten von Erdbeeren, von kleinen Wilderdbeeren bis hin zu großen Gartenerdbeeren. Walderdbeeren sind klein, aber sehr süß, während Kulturerdbeeren größer und saftiger sind. Jedes ist mit winzigen Samen bedeckt, die an der Außenseite der Frucht sitzen.",
+      "script_it": "Esistono molti tipi di fragole, da quelle piccole selvatiche alle grandi varietà da giardino. Le fragole selvatiche sono piccole ma molto dolci, mentre le fragole coltivate sono più grandi e succose. Ognuno è ricoperto da minuscoli semi che si trovano all'esterno del frutto.",
+      "script_fr": "Il existe de nombreuses sortes de fraises, des petites fraises sauvages aux grandes variétés de jardin. Les fraises des bois sont petites mais très sucrées, tandis que les fraises cultivées sont plus grosses et plus juteuses. Chacun est recouvert de minuscules graines situées à l’extérieur du fruit.",
+      "script_es": "Hay muchos tipos de fresas, desde pequeñas silvestres hasta grandes variedades de jardín. Las fresas silvestres son pequeñas pero muy dulces, mientras que las cultivadas son más grandes y jugosas. Cada uno está cubierto de pequeñas semillas que se encuentran en el exterior de la fruta.",
+      "script_hr": "Postoji mnogo vrsta jagoda, od sitnih divljih do velikih vrtnih sorti. Šumske jagode su sitne, ali vrlo slatke, dok su kultivirane jagode veće i sočnije. Svaka je prekrivena sitnim sjemenkama koje se nalaze na vanjskoj strani ploda.",
+      "script_cs": "Existuje mnoho druhů jahod, od drobných divokých až po velké zahradní odrůdy. Lesní jahody jsou malé, ale velmi sladké, zatímco pěstované jahody jsou větší a šťavnatější. Každý z nich je pokryt drobnými semeny, která sedí na vnější straně ovoce.",
+      "script_pl": "Istnieje wiele rodzajów truskawek, od małych dzikich po duże odmiany ogrodowe. Poziomki poziomkowe są małe, ale bardzo słodkie, natomiast truskawki uprawiane są większe i bardziej soczyste. Każdy z nich pokryty jest drobnymi nasionami, które znajdują się na zewnętrznej stronie owocu.",
+      "script_fi": "Mansikoita on monenlaisia, pienistä luonnonvaraisista suuriin puutarhalajikkeisiin. Villimansikat ovat pieniä, mutta erittäin makeita, kun taas viljellyt mansikat ovat suurempia ja mehukkaampia. Jokainen niistä on peitetty pienillä siemenillä, jotka istuvat hedelmän ulkopuolella.",
+      "script_sk": "Existuje mnoho druhov jahôd, od malých divokých až po veľké záhradné odrody. Lesné jahody sú malé, ale veľmi sladké, zatiaľ čo pestované jahody sú väčšie a šťavnatejšie. Každý z nich je pokrytý drobnými semienkami, ktoré sedia na vonkajšej strane ovocia.",
+      "script_da": "Der findes mange slags jordbær, fra små vilde til store havevarianter. Vilde jordbær er små, men meget søde, mens dyrkede jordbær er større og saftigere. Hver enkelt er dækket med bittesmå frø, der sidder på ydersiden af ​​frugten.",
+      "images": [
+        "varieties.webp",
+        "varieties_2.webp",
+        "varieties_3.webp"
+      ]
+    },
+    {
+      "id": "nutrition",
+      "script_en": "Strawberries are good for us as well as tasty. They contain vitamin C, which helps our bodies stay healthy, and they are full of water. They can be eaten fresh, added to yoghurt, or blended into a smoothie.",
+      "script_de": "Erdbeeren sind nicht nur lecker, sondern auch gut für uns. Sie enthalten Vitamin C, das unserem Körper hilft, gesund zu bleiben, und sie sind voller Wasser. Sie können frisch gegessen, zu Joghurt hinzugefügt oder in einen Smoothie gemischt werden.",
+      "script_it": "Le fragole ci fanno bene oltre che gustose. Contengono vitamina C, che aiuta il nostro corpo a rimanere in salute, e sono pieni di acqua. Possono essere consumati freschi, aggiunti allo yogurt o frullati in un frullato.",
+      "script_fr": "Les fraises sont bonnes pour nous et savoureuses. Ils contiennent de la vitamine C, qui aide notre corps à rester en bonne santé, et ils regorgent d’eau. Ils peuvent être consommés frais, ajoutés au yaourt ou mélangés à un smoothie.",
+      "script_es": "Las fresas son buenas para nosotros además de sabrosas. Contienen vitamina C, que ayuda a nuestro cuerpo a mantenerse sano, y están llenos de agua. Se pueden comer frescos, añadirlos al yogur o mezclarlos en un batido.",
+      "script_hr": "Jagode su nam dobre i ukusne. Sadrže vitamin C koji pomaže našem tijelu da ostane zdrav, a pune su vode. Mogu se jesti svježe, dodati u jogurt ili umiješati u smoothie.",
+      "script_cs": "Jahody jsou pro nás dobré i chutné. Obsahují vitamín C, který pomáhá našemu tělu zůstat zdravý, a jsou plné vody. Mohou se jíst čerstvé, přidat do jogurtu nebo rozmixovat do smoothie.",
+      "script_pl": "Truskawki są dla nas dobre i smaczne. Zawierają witaminę C, która pomaga naszemu organizmowi zachować zdrowie, i są pełne wody. Można je jeść na świeżo, dodawać do jogurtu lub miksować na smoothie.",
+      "script_fi": "Mansikat ovat meille yhtä hyviä kuin maukkaita. Ne sisältävät C-vitamiinia, joka auttaa kehoamme pysymään terveenä, ja ne ovat täynnä vettä. Ne voidaan syödä tuoreena, lisätä jogurttiin tai sekoittaa smoothieen.",
+      "script_sk": "Jahody sú pre nás dobré aj chutné. Obsahujú vitamín C, ktorý pomáha nášmu telu zostať zdravým, a sú plné vody. Môžu sa jesť čerstvé, pridať do jogurtu alebo rozmixovať do smoothie.",
+      "script_da": "Jordbær er gode for os såvel som velsmagende. De indeholder C-vitamin, som hjælper vores kroppe med at holde sig sunde, og de er fulde af vand. De kan spises friske, tilsættes yoghurt eller blendes til en smoothie.",
+      "images": [
+        "nutrition.webp",
+        "nutrition_2.webp",
+        "nutrition_3.webp"
+      ]
+    },
+    {
+      "id": "kitchen",
+      "script_en": "In the kitchen, strawberries are used in many ways. People make jam, sauces, ice cream, and cakes with them. A bowl of fresh strawberries on a summer table is a simple pleasure that people have enjoyed for hundreds of years.",
+      "script_de": "In der Küche werden Erdbeeren vielfältig eingesetzt. Man macht daraus Marmelade, Soßen, Eis und Kuchen. Eine Schüssel mit frischen Erdbeeren auf einem Sommertisch ist ein einfacher Genuss, den Menschen seit Hunderten von Jahren genießen.",
+      "script_it": "In cucina le fragole vengono utilizzate in tantissimi modi. Con loro le persone preparano marmellate, salse, gelati e torte. Una ciotola di fragole fresche su una tavola estiva è un piacere semplice che le persone apprezzano da centinaia di anni.",
+      "script_fr": "En cuisine, les fraises sont utilisées de plusieurs façons. Les gens en font de la confiture, des sauces, des glaces et des gâteaux. Un bol de fraises fraîches sur une table d'été est un plaisir simple que les gens apprécient depuis des centaines d'années.",
+      "script_es": "En la cocina, las fresas se utilizan de muchas formas. Con ellos se elaboran mermeladas, salsas, helados y pasteles. Un plato de fresas frescas en una mesa de verano es un placer sencillo que la gente ha disfrutado durante cientos de años.",
+      "script_hr": "U kuhinji se jagode koriste na mnogo načina. Ljudi s njima prave džem, umake, sladolede i kolače. Zdjela svježih jagoda na ljetnom stolu jednostavan je užitak u kojem ljudi uživaju već stotinama godina.",
+      "script_cs": "V kuchyni se jahody používají na mnoho způsobů. Lidé s nimi dělají džemy, omáčky, zmrzliny a koláče. Mísa čerstvých jahod na letním stole je jednoduchým potěšením, které si lidé užívají už stovky let.",
+      "script_pl": "W kuchni truskawki wykorzystuje się na wiele sposobów. Ludzie robią z nich dżemy, sosy, lody i ciasta. Miska świeżych truskawek na letnim stole to prosta przyjemność, którą ludzie cieszą się od setek lat.",
+      "script_fi": "Keittiössä mansikoita käytetään monella tapaa. Ihmiset tekevät heidän kanssaan hilloa, kastikkeita, jäätelöä ja kakkuja. Kulhollinen tuoreita mansikoita kesäpöydällä on yksinkertainen nautinto, josta ihmiset ovat nauttineet satoja vuosia.",
+      "script_sk": "V kuchyni sa jahody využívajú na mnoho spôsobov. Ľudia s nimi robia džem, omáčky, zmrzlinu a koláče. Miska čerstvých jahôd na letnom stole je jednoduchým potešením, ktoré si ľudia užívajú už stovky rokov.",
+      "script_da": "I køkkenet bruges jordbær på mange måder. Folk laver marmelade, saucer, is og kager med dem. En skål friske jordbær på et sommerbord er en simpel fornøjelse, som folk har nydt godt af i hundreder af år.",
+      "images": [
+        "kitchen.webp",
+        "kitchen_2.webp",
+        "kitchen_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "seeds",
+      "correct": "outside",
+      "question_en": "Where are a strawberry's seeds?",
+      "question_de": "Wo sind die Samen einer Erdbeere?",
+      "question_it": "Dove sono i semi di una fragola?",
+      "question_fr": "Où sont les graines d'une fraise ?",
+      "question_es": "¿Dónde están las semillas de una fresa?",
+      "question_hr": "Gdje su sjemenke jagode?",
+      "question_cs": "Kde jsou semena jahody?",
+      "question_pl": "Gdzie są nasiona truskawek?",
+      "question_fi": "Missä ovat mansikan siemenet?",
+      "question_sk": "Kde sú semená jahôd?",
+      "question_da": "Hvor er et jordbærs frø?",
+      "options": [
+        {
+          "id": "outside",
+          "label_en": "On the outside of the fruit",
+          "label_de": "Auf der Außenseite der Frucht",
+          "label_it": "All'esterno del frutto",
+          "label_fr": "À l'extérieur du fruit",
+          "label_es": "En el exterior de la fruta",
+          "label_hr": "S vanjske strane ploda",
+          "label_cs": "Na vnější straně ovoce",
+          "label_pl": "Na zewnątrz owocu",
+          "label_fi": "Hedelmän ulkopuolelta",
+          "label_sk": "Na vonkajšej strane ovocia",
+          "label_da": "På ydersiden af ​​frugten"
+        },
+        {
+          "id": "center",
+          "label_en": "Deep in the centre",
+          "label_de": "Tief in der Mitte",
+          "label_it": "Nel profondo del centro",
+          "label_fr": "Au plus profond du centre",
+          "label_es": "En lo profundo del centro",
+          "label_hr": "Duboko u središtu",
+          "label_cs": "Hluboko v centru",
+          "label_pl": "Głęboko w centrum",
+          "label_fi": "Syvällä keskustassa",
+          "label_sk": "Hlboko v strede",
+          "label_da": "Dybt i midten"
+        },
+        {
+          "id": "leaves",
+          "label_en": "On the leaves",
+          "label_de": "Auf den Blättern",
+          "label_it": "Sulle foglie",
+          "label_fr": "Sur les feuilles",
+          "label_es": "en las hojas",
+          "label_hr": "Na lišću",
+          "label_cs": "Na listech",
+          "label_pl": "Na liściach",
+          "label_fi": "Lehtien päällä",
+          "label_sk": "Na listoch",
+          "label_da": "På bladene"
+        }
+      ]
+    },
+    {
+      "id": "plant",
+      "correct": "low",
+      "question_en": "How do strawberry plants grow?",
+      "question_de": "Wie wachsen Erdbeerpflanzen?",
+      "question_it": "Come crescono le piante di fragole?",
+      "question_fr": "Comment poussent les plants de fraisiers ?",
+      "question_es": "¿Cómo crecen las plantas de fresa?",
+      "question_hr": "Kako rastu biljke jagode?",
+      "question_cs": "Jak rostou rostliny jahodníku?",
+      "question_pl": "Jak rosną rośliny truskawek?",
+      "question_fi": "Miten mansikkakasvit kasvavat?",
+      "question_sk": "Ako rastú jahodové rastliny?",
+      "question_da": "Hvordan vokser jordbærplanter?",
+      "options": [
+        {
+          "id": "low",
+          "label_en": "Low to the ground",
+          "label_de": "Tief am Boden",
+          "label_it": "Basso a terra",
+          "label_fr": "Au ras du sol",
+          "label_es": "Bajo al suelo",
+          "label_hr": "Nisko pri zemlji",
+          "label_cs": "Nízko u země",
+          "label_pl": "Nisko do ziemi",
+          "label_fi": "Matala maahan",
+          "label_sk": "Nízko pri zemi",
+          "label_da": "Lavt til jorden"
+        },
+        {
+          "id": "tall",
+          "label_en": "High in tall trees",
+          "label_de": "Hoch in hohen Bäumen",
+          "label_it": "In alto tra gli alberi ad alto fusto",
+          "label_fr": "Haut dans les grands arbres",
+          "label_es": "Alto en árboles altos",
+          "label_hr": "Visoko u visokim stablima",
+          "label_cs": "Vysoko ve vysokých stromech",
+          "label_pl": "Wysoko na wysokich drzewach",
+          "label_fi": "Korkealla korkeissa puissa",
+          "label_sk": "Vysoko vo vysokých stromoch",
+          "label_da": "Højt i høje træer"
+        },
+        {
+          "id": "water",
+          "label_en": "Underwater",
+          "label_de": "Unterwasser",
+          "label_it": "Sott'acqua",
+          "label_fr": "Sous l'eau",
+          "label_es": "Submarino",
+          "label_hr": "Pod vodom",
+          "label_cs": "Pod vodou",
+          "label_pl": "Podwodny",
+          "label_fi": "Vedenalainen",
+          "label_sk": "Pod vodou",
+          "label_da": "Undervands"
+        }
+      ]
+    },
+    {
+      "id": "vitamin",
+      "correct": "c",
+      "question_en": "Which vitamin are strawberries rich in?",
+      "question_de": "An welchem ​​Vitamin sind Erdbeeren reich?",
+      "question_it": "Di quale vitamina sono ricche le fragole?",
+      "question_fr": "De quelle vitamine les fraises sont-elles riches ?",
+      "question_es": "¿En qué vitamina son ricas las fresas?",
+      "question_hr": "Kojim vitaminom su bogate jagode?",
+      "question_cs": "Na jaké vitamíny jsou jahody bohaté?",
+      "question_pl": "W jaką witaminę bogate są truskawki?",
+      "question_fi": "Mitä vitamiinia mansikat sisältävät runsaasti?",
+      "question_sk": "Na ktorý vitamín sú jahody bohaté?",
+      "question_da": "Hvilket vitamin er jordbær rige på?",
+      "options": [
+        {
+          "id": "c",
+          "label_en": "Vitamin C",
+          "label_de": "Vitamin C",
+          "label_it": "Vitamina C",
+          "label_fr": "Vitamine C",
+          "label_es": "vitamina c",
+          "label_hr": "Vitamin C",
+          "label_cs": "vitamín C",
+          "label_pl": "Witamina C",
+          "label_fi": "C-vitamiini",
+          "label_sk": "vitamín C",
+          "label_da": "C-vitamin"
+        },
+        {
+          "id": "d",
+          "label_en": "Vitamin D",
+          "label_de": "Vitamin D",
+          "label_it": "Vitamina D",
+          "label_fr": "Vitamine D",
+          "label_es": "vitamina d",
+          "label_hr": "Vitamin D",
+          "label_cs": "vitamín D",
+          "label_pl": "Witamina D",
+          "label_fi": "D-vitamiini",
+          "label_sk": "Vitamín D",
+          "label_da": "D-vitamin"
+        },
+        {
+          "id": "b12",
+          "label_en": "Vitamin B12",
+          "label_de": "Vitamin B12",
+          "label_it": "Vitamina B12",
+          "label_fr": "Vitamine B12",
+          "label_es": "Vitamina B12",
+          "label_hr": "Vitamin B12",
+          "label_cs": "Vitamín B12",
+          "label_pl": "Witamina B12",
+          "label_fi": "B12-vitamiini",
+          "label_sk": "Vitamín B12",
+          "label_da": "Vitamin B12"
+        }
+      ]
+    }
+  ]
+}
