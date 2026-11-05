@@ -526,6 +526,27 @@
       "title_da": "Kirsebær"
     },
     {
+      "id": "coconut",
+      "category_id": "food",
+      "symbol_id": "coconut",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/coconut/coconut_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/coconut/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 1985710,
+      "version": 1,
+      "title_en": "Coconuts",
+      "title_de": "Kokosnüsse",
+      "title_it": "Noci di cocco",
+      "title_fr": "Noix de coco",
+      "title_es": "cocos",
+      "title_hr": "Kokosovi orasi",
+      "title_cs": "Kokosové ořechy",
+      "title_pl": "Kokosy",
+      "title_fi": "Kookospähkinöitä",
+      "title_sk": "Kokosové orechy",
+      "title_da": "Kokosnødder"
+    },
+    {
       "id": "grape",
       "category_id": "food",
       "symbol_id": "grape",

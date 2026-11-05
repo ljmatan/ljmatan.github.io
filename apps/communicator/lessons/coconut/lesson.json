@@ -1,0 +1,293 @@
+{
+  "id": "coconut",
+  "category_id": "food",
+  "symbol_id": "coconut",
+  "thumbnail": "coconut_thumb.webp",
+  "title_en": "Coconuts",
+  "title_de": "Kokosnüsse",
+  "title_it": "Noci di cocco",
+  "title_fr": "Noix de coco",
+  "title_es": "cocos",
+  "title_hr": "Kokosovi orasi",
+  "title_cs": "Kokosové ořechy",
+  "title_pl": "Kokosy",
+  "title_fi": "Kookospähkinöitä",
+  "title_sk": "Kokosové orechy",
+  "title_da": "Kokosnødder",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about coconuts. Coconuts are large tropical fruits with a hard brown shell. Inside they hold sweet water and soft white flesh, and they grow high in palm trees.",
+      "script_de": "Heute lernen wir etwas über Kokosnüsse. Kokosnüsse sind große tropische Früchte mit einer harten braunen Schale. In ihrem Inneren enthalten sie süßes Wasser und weiches, weißes Fleisch, und sie wachsen hoch in Palmen.",
+      "script_it": "Oggi impareremo a conoscere le noci di cocco. Le noci di cocco sono grandi frutti tropicali con un guscio duro e marrone. All'interno contengono acqua dolce e morbida carne bianca, e crescono alte tra le palme.",
+      "script_fr": "Aujourd'hui, nous allons découvrir les noix de coco. Les noix de coco sont de gros fruits tropicaux à la coque dure et brune. À l’intérieur, ils contiennent de l’eau douce et de la chair blanche et douce, et ils poussent haut dans les palmiers.",
+      "script_es": "Hoy vamos a aprender sobre los cocos. Los cocos son frutas tropicales grandes con una cáscara dura de color marrón. En su interior contienen agua dulce y carne blanca y suave, y crecen en lo alto de las palmeras.",
+      "script_hr": "Danas ćemo učiti o kokosu. Kokos je veliko tropsko voće s tvrdom smeđom ljuskom. U sebi čuvaju slatku vodu i meko bijelo meso, a rastu visoko u palmama.",
+      "script_cs": "Dnes se budeme učit o kokosu. Kokosové ořechy jsou velké tropické ovoce s tvrdou hnědou skořápkou. Uvnitř mají sladkou vodu a měkké bílé maso a rostou vysoko v palmách.",
+      "script_pl": "Dzisiaj będziemy uczyć się o kokosach. Orzechy kokosowe to duże owoce tropikalne z twardą brązową skorupą. Wewnątrz zawierają słodką wodę i miękkie białe miąższ, i rosną wysoko na palmach.",
+      "script_fi": "Tänään opimme kookospähkinöistä. Kookospähkinät ovat suuria trooppisia hedelmiä, joilla on kova ruskea kuori. Niiden sisällä on makeaa vettä ja pehmeää valkoista lihaa, ja ne kasvavat korkealla palmuissa.",
+      "script_sk": "Dnes sa dozvieme o kokosoch. Kokosové orechy sú veľké tropické ovocie s tvrdou hnedou škrupinou. Vo vnútri majú sladkú vodu a mäkké biele mäso a rastú vysoko v palmách.",
+      "script_da": "I dag skal vi lære om kokosnødder. Kokosnødder er store tropiske frugter med en hård brun skal. Indeni rummer de sødt vand og blødt hvidt kød, og de vokser højt i palmetræer.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "origin",
+      "script_en": "Coconuts grow along tropical coasts around the world. Ocean currents can carry coconuts across the sea, and people have also carried them from place to place. They are an important food and material in many island cultures.",
+      "script_de": "Kokosnüsse wachsen an tropischen Küsten auf der ganzen Welt. Meeresströmungen können Kokosnüsse über das Meer transportieren, und Menschen haben sie auch von Ort zu Ort getragen. In vielen Inselkulturen sind sie ein wichtiges Nahrungsmittel und Material.",
+      "script_it": "Le noci di cocco crescono lungo le coste tropicali di tutto il mondo. Le correnti oceaniche possono trasportare le noci di cocco attraverso il mare e anche le persone le hanno trasportate da un posto all'altro. Sono un alimento e un materiale importante in molte culture insulari.",
+      "script_fr": "Les noix de coco poussent le long des côtes tropicales du monde entier. Les courants océaniques peuvent transporter les noix de coco à travers la mer, et les humains les ont également transportées d'un endroit à l'autre. Ils constituent un aliment et un matériau important dans de nombreuses cultures insulaires.",
+      "script_es": "Los cocos crecen a lo largo de las costas tropicales de todo el mundo. Las corrientes oceánicas pueden transportar cocos a través del mar y la gente también los ha transportado de un lugar a otro. Son un alimento y material importante en muchas culturas isleñas.",
+      "script_hr": "Kokosovi orasi rastu duž tropskih obala diljem svijeta. Oceanske struje mogu nositi kokosove orahe preko mora, a ljudi su ih također nosili s mjesta na mjesto. Oni su važna hrana i materijal u mnogim otočkim kulturama.",
+      "script_cs": "Kokosové ořechy rostou podél tropických pobřeží po celém světě. Oceánské proudy mohou kokosy přenášet přes moře a lidé je také přenášeli z místa na místo. Jsou důležitou potravinou a materiálem v mnoha ostrovních kulturách.",
+      "script_pl": "Orzechy kokosowe rosną wzdłuż tropikalnych wybrzeży na całym świecie. Prądy oceaniczne mogą przenosić kokosy przez morze, a ludzie również przenoszą je z miejsca na miejsce. Są ważnym pożywieniem i materiałem w wielu kulturach wyspiarskich.",
+      "script_fi": "Kookospähkinät kasvavat trooppisilla rannikoilla ympäri maailmaa. Merivirrat voivat kuljettaa kookospähkinöitä meren yli, ja ihmiset ovat myös kantaneet niitä paikasta toiseen. Ne ovat tärkeä ruoka ja materiaali monissa saarikulttuureissa.",
+      "script_sk": "Kokosové orechy rastú pozdĺž tropických pobreží po celom svete. Oceánske prúdy môžu kokosy prenášať cez more a ľudia ich tiež prenášajú z miesta na miesto. Sú dôležitou potravinou a materiálom v mnohých ostrovných kultúrach.",
+      "script_da": "Kokosnødder vokser langs tropiske kyster rundt om i verden. Havstrømme kan føre kokosnødder over havet, og folk har også båret dem fra sted til sted. De er et vigtigt føde- og materiale i mange ø-kulturer.",
+      "images": [
+        "origin.webp",
+        "origin_2.webp",
+        "origin_3.webp"
+      ]
+    },
+    {
+      "id": "growth",
+      "script_en": "A coconut palm grows tall and straight, with a crown of long green leaves. Small flowers appear among the leaves, and the coconuts grow in clusters beneath them. It can take many months for a coconut to ripen.",
+      "script_de": "Eine Kokospalme wächst hoch und gerade, mit einer Krone aus langen grünen Blättern. Zwischen den Blättern erscheinen kleine Blüten und die Kokosnüsse wachsen in Büscheln darunter. Es kann viele Monate dauern, bis eine Kokosnuss reif ist.",
+      "script_it": "Una palma da cocco cresce alta e dritta, con una corona di lunghe foglie verdi. Piccoli fiori compaiono tra le foglie e le noci di cocco crescono in grappoli sotto di esse. Possono essere necessari molti mesi affinché una noce di cocco maturi.",
+      "script_fr": "Un cocotier pousse haut et droit, avec une couronne de longues feuilles vertes. De petites fleurs apparaissent parmi les feuilles et les noix de coco poussent en grappes en dessous. La maturation d’une noix de coco peut prendre plusieurs mois.",
+      "script_es": "Una palma de coco crece alta y recta, con una corona de largas hojas verdes. Aparecen pequeñas flores entre las hojas y los cocos crecen en racimos debajo de ellas. Un coco puede tardar muchos meses en madurar.",
+      "script_hr": "Kokosova palma raste visoka i ravna, s krunom dugih zelenih listova. Među lišćem se pojavljuju mali cvjetovi, a kokosovi orasi rastu u grozdovima ispod njih. Može proći mnogo mjeseci da kokos sazrije.",
+      "script_cs": "Kokosová palma roste do výšky a rovně, s korunou dlouhých zelených listů. Mezi listy se objevují malé květy a kokosové ořechy rostou ve shlucích pod nimi. Může trvat mnoho měsíců, než kokos dozraje.",
+      "script_pl": "Palma kokosowa rośnie wysoka i prosta, z koroną z długich zielonych liści. Wśród liści pojawiają się małe kwiaty, a pod nimi rosną w skupiskach orzechy kokosowe. Dojrzewanie kokosa może zająć wiele miesięcy.",
+      "script_fi": "Kookospalmu kasvaa pitkäksi ja suoraksi, ja siinä on pitkien vihreiden lehtien kruunu. Lehtien väliin ilmestyy pieniä kukkia, ja kookospähkinät kasvavat rypäleissä niiden alla. Kookoksen kypsyminen voi kestää useita kuukausia.",
+      "script_sk": "Kokosová palma rastie vysoká a rovná, s korunou dlhých zelených listov. Medzi listami sa objavujú malé kvety a kokosové orechy rastú v zhlukoch pod nimi. Môže trvať mnoho mesiacov, kým kokos dozrie.",
+      "script_da": "En kokospalme bliver høj og lige, med en krone af lange grønne blade. Små blomster dukker op blandt bladene, og kokosnødderne vokser i klaser under dem. Det kan tage mange måneder for en kokosnød at modne.",
+      "images": [
+        "growth.webp",
+        "growth_2.webp",
+        "growth_3.webp"
+      ]
+    },
+    {
+      "id": "uses",
+      "script_en": "A coconut is useful in many ways. The water inside is a refreshing drink, the white flesh can be eaten or pressed into coconut milk and oil, and the husk provides strong fibres. People use every part of the fruit.",
+      "script_de": "Eine Kokosnuss ist in vielerlei Hinsicht nützlich. Das darin enthaltene Wasser ist ein erfrischendes Getränk, das weiße Fruchtfleisch kann gegessen oder in Kokosmilch und Öl gepresst werden und die Schale liefert starke Ballaststoffe. Menschen nutzen jeden Teil der Frucht.",
+      "script_it": "Una noce di cocco è utile in molti modi. L'acqua all'interno è una bevanda rinfrescante, la polpa bianca può essere mangiata o pressata nel latte e nell'olio di cocco e la buccia fornisce fibre forti. Le persone usano ogni parte del frutto.",
+      "script_fr": "Une noix de coco est utile à bien des égards. L'eau à l'intérieur est une boisson rafraîchissante, la chair blanche peut être mangée ou pressée dans du lait et de l'huile de coco, et l'enveloppe fournit des fibres solides. Les gens utilisent chaque partie du fruit.",
+      "script_es": "Un coco es útil de muchas maneras. El agua del interior es una bebida refrescante, la pulpa blanca se puede comer o prensar para obtener leche y aceite de coco, y la cáscara proporciona fibras fuertes. La gente usa cada parte de la fruta.",
+      "script_hr": "Kokos je koristan na više načina. Voda koja se nalazi u njoj je osvježavajući napitak, bijelo meso se može jesti ili prešati u kokosovo mlijeko i ulje, a ljuska daje snažna vlakna. Ljudi koriste svaki dio voća.",
+      "script_cs": "Kokos je užitečný v mnoha ohledech. Voda uvnitř je osvěžující nápoj, bílá dužina se dá jíst nebo lisovat do kokosového mléka a oleje a slupka poskytuje silná vlákna. Lidé využívají každou část ovoce.",
+      "script_pl": "Kokos jest przydatny na wiele sposobów. Znajdująca się w środku woda jest orzeźwiającym napojem, biały miąższ można jeść lub wciskać do mleka kokosowego i oleju, a łuska dostarcza mocnego błonnika. Ludzie wykorzystują każdą część owocu.",
+      "script_fi": "Kookos on hyödyllinen monella tapaa. Sisällä oleva vesi on virkistävää juomaa, valkoinen hedelmäliha voidaan syödä tai puristaa kookosmaitoon ja -öljyyn, ja kuori antaa vahvoja kuituja. Ihmiset käyttävät jokaista hedelmän osaa.",
+      "script_sk": "Kokos je užitočný v mnohých smeroch. Voda vo vnútri je osviežujúcim nápojom, bielu dužinu je možné jesť alebo lisovať do kokosového mlieka a oleja a šupka poskytuje silné vlákna. Ľudia využívajú každú časť ovocia.",
+      "script_da": "En kokosnød er nyttig på mange måder. Vandet indeni er en forfriskende drik, det hvide kød kan spises eller presses til kokosmælk og olie, og skallen giver stærke fibre. Folk bruger hver del af frugten.",
+      "images": [
+        "uses.webp",
+        "uses_2.webp",
+        "uses_3.webp"
+      ]
+    },
+    {
+      "id": "kitchen",
+      "script_en": "In the kitchen, coconut milk makes curries and soups creamy, while grated coconut is used in cakes, cookies, and desserts. Coconut water is a popular drink, and coconut oil is used for cooking and baking.",
+      "script_de": "In der Küche macht Kokosmilch Currys und Suppen cremig, während Kokosraspeln in Kuchen, Keksen und Desserts verwendet werden. Kokoswasser ist ein beliebtes Getränk und Kokosöl wird zum Kochen und Backen verwendet.",
+      "script_it": "In cucina, il latte di cocco rende cremosi curry e zuppe, mentre il cocco grattugiato viene utilizzato in torte, biscotti e dessert. L'acqua di cocco è una bevanda popolare e l'olio di cocco viene utilizzato per cucinare e cuocere al forno.",
+      "script_fr": "En cuisine, le lait de coco rend les currys et les soupes crémeux, tandis que la noix de coco râpée est utilisée dans les gâteaux, les biscuits et les desserts. L'eau de coco est une boisson populaire et l'huile de coco est utilisée pour la cuisine et la pâtisserie.",
+      "script_es": "En la cocina, la leche de coco hace que el curry y las sopas sean cremosos, mientras que el coco rallado se utiliza en pasteles, galletas y postres. El agua de coco es una bebida popular y el aceite de coco se utiliza para cocinar y hornear.",
+      "script_hr": "U kuhinji kokosovo mlijeko čini curryje i juhe kremastima, dok se ribani kokos koristi u kolačima, keksima i desertima. Kokosova voda je popularno piće, a kokosovo ulje se koristi za kuhanje i pečenje.",
+      "script_cs": "V kuchyni kokosové mléko dělá kari a polévky krémové, zatímco strouhaný kokos se používá do koláčů, sušenek a dezertů. Kokosová voda je oblíbený nápoj a kokosový olej se používá při vaření a pečení.",
+      "script_pl": "W kuchni mleko kokosowe nadaje curry i zupom kremową konsystencję, a wiórki kokosowe dodaje się do ciast, ciasteczek i deserów. Popularnym napojem jest woda kokosowa, a olej kokosowy wykorzystuje się do gotowania i pieczenia.",
+      "script_fi": "Keittiössä kookosmaito tekee curryista ja keitoista kermaisia, kun taas raastettua kookospähkinää käytetään kakkuissa, keksissä ja jälkiruoissa. Kookosvesi on suosittu juoma, ja kookosöljyä käytetään ruoanlaitossa ja leivonnassa.",
+      "script_sk": "V kuchyni kokosové mlieko robí kari a polievky krémové, zatiaľ čo strúhaný kokos sa používa v koláčoch, sušienkach a dezertoch. Kokosová voda je obľúbený nápoj a kokosový olej sa používa na varenie a pečenie.",
+      "script_da": "I køkkenet gør kokosmælk karryretter og supper cremet, mens revet kokos bruges i kager, småkager og desserter. Kokosvand er en populær drik, og kokosolie bruges til madlavning og bagning.",
+      "images": [
+        "kitchen.webp",
+        "kitchen_2.webp",
+        "kitchen_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "tree",
+      "correct": "palm",
+      "question_en": "What kind of tree do coconuts grow on?",
+      "question_de": "Auf welchem ​​Baum wachsen Kokosnüsse?",
+      "question_it": "Su che tipo di albero crescono le noci di cocco?",
+      "question_fr": "Sur quel type d'arbre poussent les noix de coco ?",
+      "question_es": "¿En qué tipo de árbol crecen los cocos?",
+      "question_hr": "Na kakvom drvetu rastu kokosi?",
+      "question_cs": "Na jakém druhu stromu rostou kokosové ořechy?",
+      "question_pl": "Na jakim drzewie rosną kokosy?",
+      "question_fi": "Millaisessa puussa kookospähkinät kasvavat?",
+      "question_sk": "Na akom strome rastú kokosové orechy?",
+      "question_da": "Hvilken slags træ vokser kokosnødder på?",
+      "options": [
+        {
+          "id": "palm",
+          "label_en": "A palm tree",
+          "label_de": "Eine Palme",
+          "label_it": "Una palma",
+          "label_fr": "Un palmier",
+          "label_es": "una palmera",
+          "label_hr": "Palma",
+          "label_cs": "Palma",
+          "label_pl": "Palma",
+          "label_fi": "Palmu",
+          "label_sk": "Palma",
+          "label_da": "Et palmetræ"
+        },
+        {
+          "id": "pine",
+          "label_en": "A pine tree",
+          "label_de": "Eine Kiefer",
+          "label_it": "Un pino",
+          "label_fr": "Un pin",
+          "label_es": "un pino",
+          "label_hr": "Drvo bora",
+          "label_cs": "Borovice",
+          "label_pl": "Sosna",
+          "label_fi": "Mänty",
+          "label_sk": "Borovica",
+          "label_da": "Et fyrretræ"
+        },
+        {
+          "id": "apple",
+          "label_en": "An apple tree",
+          "label_de": "Ein Apfelbaum",
+          "label_it": "Un melo",
+          "label_fr": "Un pommier",
+          "label_es": "un manzano",
+          "label_hr": "Stablo jabuke",
+          "label_cs": "Jabloň",
+          "label_pl": "Jabłoń",
+          "label_fi": "Omenapuu",
+          "label_sk": "Jabloň",
+          "label_da": "Et æbletræ"
+        }
+      ]
+    },
+    {
+      "id": "inside",
+      "correct": "water",
+      "question_en": "What is inside a fresh coconut?",
+      "question_de": "Was steckt in einer frischen Kokosnuss?",
+      "question_it": "Cosa c'è dentro una noce di cocco fresca?",
+      "question_fr": "Que contient une noix de coco fraîche ?",
+      "question_es": "¿Qué hay dentro de un coco fresco?",
+      "question_hr": "Što se nalazi unutar svježeg kokosa?",
+      "question_cs": "Co je uvnitř čerstvého kokosu?",
+      "question_pl": "Co kryje się w świeżym kokosie?",
+      "question_fi": "Mitä tuoreen kookoksen sisällä on?",
+      "question_sk": "Čo je vnútri čerstvého kokosu?",
+      "question_da": "Hvad er der inde i en frisk kokosnød?",
+      "options": [
+        {
+          "id": "water",
+          "label_en": "Sweet water and white flesh",
+          "label_de": "Süßes Wasser und weißes Fleisch",
+          "label_it": "Acqua dolce e polpa bianca",
+          "label_fr": "Eau douce et chair blanche",
+          "label_es": "Agua dulce y pulpa blanca.",
+          "label_hr": "Slatka voda i bijelo meso",
+          "label_cs": "Sladká voda a bílé maso",
+          "label_pl": "Słodka woda i biały miąższ",
+          "label_fi": "Makea vesi ja valkoinen liha",
+          "label_sk": "Sladká voda a biele mäso",
+          "label_da": "Sødt vand og hvidt kød"
+        },
+        {
+          "id": "juice",
+          "label_en": "Only orange juice",
+          "label_de": "Nur Orangensaft",
+          "label_it": "Solo succo d'arancia",
+          "label_fr": "Uniquement du jus d'orange",
+          "label_es": "solo jugo de naranja",
+          "label_hr": "Samo sok od naranče",
+          "label_cs": "Pouze pomerančový džus",
+          "label_pl": "Tylko sok pomarańczowy",
+          "label_fi": "Vain appelsiinimehua",
+          "label_sk": "Iba pomarančový džús",
+          "label_da": "Kun appelsinjuice"
+        },
+        {
+          "id": "stone",
+          "label_en": "A single hard stone",
+          "label_de": "Ein einzelner harter Stein",
+          "label_it": "Un'unica pietra dura",
+          "label_fr": "Une seule pierre dure",
+          "label_es": "Una sola piedra dura",
+          "label_hr": "Jedan tvrdi kamen",
+          "label_cs": "Jediný tvrdý kámen",
+          "label_pl": "Jeden twardy kamień",
+          "label_fi": "Yksi kova kivi",
+          "label_sk": "Jediný tvrdý kameň",
+          "label_da": "En enkelt hård sten"
+        }
+      ]
+    },
+    {
+      "id": "shell",
+      "correct": "hard",
+      "question_en": "What is the outside of a coconut like?",
+      "question_de": "Wie sieht die Außenseite einer Kokosnuss aus?",
+      "question_it": "Com'è l'esterno di una noce di cocco?",
+      "question_fr": "À quoi ressemble l’extérieur d’une noix de coco ?",
+      "question_es": "¿Cómo es el exterior de un coco?",
+      "question_hr": "Kakva je vanjska strana kokosa?",
+      "question_cs": "Jaký je vnější povrch kokosu?",
+      "question_pl": "Jaka jest zewnętrzna część kokosa?",
+      "question_fi": "Millainen on kookospähkinän ulkopinta?",
+      "question_sk": "Aký je vonkajšok kokosu?",
+      "question_da": "Hvordan er ydersiden af ​​en kokosnød?",
+      "options": [
+        {
+          "id": "hard",
+          "label_en": "Hard and brown",
+          "label_de": "Hart und braun",
+          "label_it": "Duro e marrone",
+          "label_fr": "Dur et brun",
+          "label_es": "Duro y marrón",
+          "label_hr": "Tvrdo i smeđe",
+          "label_cs": "Tvrdé a hnědé",
+          "label_pl": "Twardy i brązowy",
+          "label_fi": "Kova ja ruskea",
+          "label_sk": "Tvrdé a hnedé",
+          "label_da": "Hård og brun"
+        },
+        {
+          "id": "soft",
+          "label_en": "Soft and fuzzy",
+          "label_de": "Weich und flauschig",
+          "label_it": "Morbido e sfocato",
+          "label_fr": "Doux et flou",
+          "label_es": "Suave y difuso",
+          "label_hr": "Mekana i nejasna",
+          "label_cs": "Měkké a rozmazané",
+          "label_pl": "Miękkie i rozmyte",
+          "label_fi": "Pehmeä ja sumea",
+          "label_sk": "Mäkké a rozmazané",
+          "label_da": "Blød og uklar"
+        },
+        {
+          "id": "thin",
+          "label_en": "Thin like paper",
+          "label_de": "Dünn wie Papier",
+          "label_it": "Sottile come la carta",
+          "label_fr": "Fin comme du papier",
+          "label_es": "Delgado como el papel",
+          "label_hr": "Tanak poput papira",
+          "label_cs": "Tenký jako papír",
+          "label_pl": "Cienki jak papier",
+          "label_fi": "Ohut kuin paperi",
+          "label_sk": "Tenký ako papier",
+          "label_da": "Tyndt som papir"
+        }
+      ]
+    }
+  ]
+}
