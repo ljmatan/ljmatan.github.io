@@ -1,0 +1,293 @@
+{
+  "id": "pineapple",
+  "category_id": "food",
+  "symbol_id": "pineapple",
+  "thumbnail": "pineapple_thumb.webp",
+  "title_en": "Pineapples",
+  "title_de": "Ananas",
+  "title_it": "Ananas",
+  "title_fr": "Ananas",
+  "title_es": "piñas",
+  "title_hr": "ananas",
+  "title_cs": "Ananas",
+  "title_pl": "Ananasy",
+  "title_fi": "Ananakset",
+  "title_sk": "Ananás",
+  "title_da": "Ananas",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about pineapples. Pineapples are tropical fruits with a rough, golden skin and a crown of spiky green leaves. Their sweet, tangy flesh is full of juice.",
+      "script_de": "Heute lernen wir etwas über Ananas. Ananas sind tropische Früchte mit einer rauen, goldenen Schale und einer Krone aus stacheligen grünen Blättern. Ihr süßes, würziges Fruchtfleisch ist voller Saft.",
+      "script_it": "Oggi parleremo dell'ananas. L'ananas è un frutto tropicale dalla buccia ruvida e dorata e una corona di foglie verdi appuntite. La loro carne dolce e piccante è piena di succo.",
+      "script_fr": "Aujourd'hui, nous allons découvrir les ananas. Les ananas sont des fruits tropicaux à la peau rugueuse et dorée et à la couronne de feuilles vertes épineuses. Leur chair sucrée et acidulée est pleine de jus.",
+      "script_es": "Hoy vamos a aprender sobre las piñas. Las piñas son frutas tropicales con una piel dorada y rugosa y una corona de hojas verdes puntiagudas. Su pulpa dulce y picante está llena de jugo.",
+      "script_hr": "Danas ćemo učiti o ananasu. Ananas je tropsko voće s grubom, zlatnom kožom i krunom od šiljastog zelenog lišća. Njihovo slatko, ljuto meso puno je soka.",
+      "script_cs": "Dnes se budeme učit o ananasech. Ananas je tropické ovoce s hrubou, zlatavou slupkou a korunou špičatých zelených listů. Jejich sladká, kyselá dužina je plná šťávy.",
+      "script_pl": "Dzisiaj będziemy uczyć się o ananasach. Ananasy to owoce tropikalne o szorstkiej, złotej skórce i koronie z kolczastych zielonych liści. Ich słodki, pikantny miąższ jest pełen soku.",
+      "script_fi": "Tänään opimme ananaksesta. Ananakset ovat trooppisia hedelmiä, joilla on karkea, kultainen kuori ja kruunu piikkivihreitä lehtiä. Niiden makea, kirpeä liha on täynnä mehua.",
+      "script_sk": "Dnes sa dozvieme o ananásoch. Ananás je tropické ovocie s hrubou, zlatistou šupkou a korunou ostnatých zelených listov. Ich sladká, štipľavá dužina je plná šťavy.",
+      "script_da": "I dag skal vi lære om ananas. Ananas er tropiske frugter med en ru, gylden hud og en krone af spidse grønne blade. Deres søde, syrlige kød er fyldt med saft.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "origin",
+      "script_en": "Pineapples first grew in South America. Sailors carried them across the ocean, and today they are grown in warm places such as Costa Rica, the Philippines, and Hawaii. A pineapple takes many months to grow and ripen.",
+      "script_de": "Ananas wurden erstmals in Südamerika angebaut. Seeleute trugen sie über den Ozean und heute werden sie an warmen Orten wie Costa Rica, den Philippinen und Hawaii angebaut. Es dauert viele Monate, bis eine Ananas wächst und reift.",
+      "script_it": "L'ananas è cresciuto per la prima volta in Sud America. I marinai li trasportarono attraverso l'oceano e oggi vengono coltivati ​​in luoghi caldi come la Costa Rica, le Filippine e le Hawaii. Un ananas impiega molti mesi per crescere e maturare.",
+      "script_fr": "Les ananas ont poussé pour la première fois en Amérique du Sud. Les marins les ont transportés à travers l'océan et ils sont aujourd'hui cultivés dans des endroits chauds comme le Costa Rica, les Philippines et Hawaï. Un ananas met plusieurs mois à pousser et à mûrir.",
+      "script_es": "Las piñas crecieron por primera vez en América del Sur. Los marineros los llevaban a través del océano y hoy se cultivan en lugares cálidos como Costa Rica, Filipinas y Hawaii. Una piña tarda muchos meses en crecer y madurar.",
+      "script_hr": "Ananas je prvo rastao u Južnoj Americi. Mornari su ih prenijeli preko oceana, a danas se uzgajaju u toplim krajevima poput Kostarike, Filipina i Havaja. Ananasu su potrebni mjeseci da naraste i sazrije.",
+      "script_cs": "Ananas nejprve rostl v Jižní Americe. Námořníci je přenesli přes oceán a dnes se pěstují na teplých místech, jako je Kostarika, Filipíny a Havaj. Ananasu trvá mnoho měsíců, než vyroste a dozraje.",
+      "script_pl": "Ananasy po raz pierwszy rosły w Ameryce Południowej. Żeglarze przewieźli je przez ocean, a dziś uprawia się je w ciepłych miejscach, takich jak Kostaryka, Filipiny i Hawaje. Rośnięcie i dojrzewanie ananasa zajmuje wiele miesięcy.",
+      "script_fi": "Ananakset kasvoivat ensin Etelä-Amerikassa. Merimiehet kantoivat niitä valtameren yli, ja nykyään niitä kasvatetaan lämpimissä paikoissa, kuten Costa Ricassa, Filippiineillä ja Havaijilla. Ananaksen kasvaminen ja kypsyminen kestää useita kuukausia.",
+      "script_sk": "Ananás prvýkrát rástol v Južnej Amerike. Námorníci ich preniesli cez oceán a dnes sa pestujú na teplých miestach, ako je Kostarika, Filipíny a Havaj. Rast a dozrievanie ananásu trvá mnoho mesiacov.",
+      "script_da": "Ananas voksede først i Sydamerika. Sømænd bar dem over havet, og i dag dyrkes de på varme steder som Costa Rica, Filippinerne og Hawaii. En ananas tager mange måneder at vokse og modne.",
+      "images": [
+        "origin.webp",
+        "origin_2.webp",
+        "origin_3.webp"
+      ]
+    },
+    {
+      "id": "growth",
+      "script_en": "A pineapple does not grow on a tree. It grows on a low plant with long, sword-shaped leaves. A single flower rises from the centre, and the fruit forms around it, slowly swelling into the familiar golden shape.",
+      "script_de": "Eine Ananas wächst nicht auf einem Baum. Sie wächst auf einer niedrigen Pflanze mit langen, schwertförmigen Blättern. Aus der Mitte erhebt sich eine einzelne Blüte, um die herum sich die Frucht bildet, die langsam zu der vertrauten goldenen Form anschwillt.",
+      "script_it": "Un ananas non cresce su un albero. Cresce su una pianta bassa con foglie lunghe a forma di spada. Un singolo fiore si alza dal centro e il frutto si forma attorno ad esso, gonfiandosi lentamente nella familiare forma dorata.",
+      "script_fr": "Un ananas ne pousse pas sur un arbre. Il pousse sur une plante basse avec de longues feuilles en forme d’épée. Une seule fleur s'élève du centre et le fruit se forme autour d'elle, gonflant lentement pour prendre la forme dorée familière.",
+      "script_es": "Una piña no crece en un árbol. Crece en una planta baja con hojas largas en forma de espada. Una sola flor surge del centro y el fruto se forma a su alrededor, hinchándose lentamente hasta adquirir la familiar forma dorada.",
+      "script_hr": "Ananas ne raste na drvetu. Raste na niskoj biljci s dugim listovima u obliku mača. Iz središta se uzdiže jedan cvijet, a plod se formira oko njega, polako se nadimajući u poznati zlatni oblik.",
+      "script_cs": "Ananas neroste na stromě. Roste na nízké rostlině s dlouhými, mečovitými listy. Ze středu vyrůstá jediný květ a kolem něj se tvoří ovoce, které pomalu bobtná do známého zlatého tvaru.",
+      "script_pl": "Ananas nie rośnie na drzewie. Rośnie na niskiej roślinie o długich, mieczowatych liściach. Ze środka wyrasta pojedynczy kwiat, a wokół niego formuje się owoc, powoli pęczniejący i przybierający znajomy złoty kształt.",
+      "script_fi": "Ananas ei kasva puussa. Se kasvaa matalalla kasvilla, jolla on pitkät, miekan muotoiset lehdet. Yksittäinen kukka kohoaa keskeltä ja sen ympärille muodostuu hedelmä, joka turpoaa hitaasti tutuksi kultaiseksi.",
+      "script_sk": "Ananás nerastie na strome. It grows on a low plant with long, sword-shaped leaves. A single flower rises from the centre, and the fruit forms around it, slowly swelling into the familiar golden shape.",
+      "script_da": "En ananas vokser ikke på et træ. Den vokser på en lav plante med lange, sværdformede blade. En enkelt blomst rejser sig fra midten, og frugten dannes omkring den, langsomt svulmer op til den velkendte gyldne form.",
+      "images": [
+        "growth.webp",
+        "growth_2.webp",
+        "growth_3.webp"
+      ]
+    },
+    {
+      "id": "varieties",
+      "script_en": "There are many varieties of pineapple, with different sizes, sweetness, and colours. Some are best eaten fresh, while others are used for juice or canning. A ripe pineapple smells sweet and has bright green leaves.",
+      "script_de": "Es gibt viele Ananassorten mit unterschiedlichen Größen, Süßen und Farben. Einige werden am besten frisch gegessen, während andere zu Saft oder zum Einmachen verwendet werden. Eine reife Ananas duftet süß und hat leuchtend grüne Blätter.",
+      "script_it": "Esistono molte varietà di ananas, con dimensioni, dolcezza e colori diversi. Alcuni sono meglio consumati freschi, mentre altri sono usati per succhi o conserve. Un ananas maturo ha un profumo dolce e ha foglie verde brillante.",
+      "script_fr": "Il existe de nombreuses variétés d’ananas, de tailles, de douceurs et de couleurs différentes. Certains sont meilleurs consommés frais, tandis que d’autres sont utilisés en jus ou en conserve. Un ananas mûr sent bon et possède des feuilles vert vif.",
+      "script_es": "Existen muchas variedades de piña, con diferentes tamaños, dulzura y colores. Algunos se comen mejor frescos, mientras que otros se usan para hacer jugo o enlatar. Una piña madura huele dulce y tiene hojas de color verde brillante.",
+      "script_hr": "Postoje mnoge vrste ananasa, različitih veličina, slatkoće i boja. Neke je najbolje jesti svježe, dok se druge koriste za sok ili konzerviranje. Zreli ananas slatko miriše i ima svijetlozeleno lišće.",
+      "script_cs": "Existuje mnoho odrůd ananasu s různými velikostmi, sladkostí a barvami. Některé se nejlépe konzumují čerstvé, jiné se používají na šťávu nebo zavařování. Zralý ananas voní sladce a má jasně zelené listy.",
+      "script_pl": "Istnieje wiele odmian ananasa, różniących się wielkością, słodyczą i kolorem. Niektóre najlepiej spożywać na świeżo, inne natomiast wykorzystuje się do produkcji soków lub konserw. Dojrzały ananas pachnie słodko i ma jasnozielone liście.",
+      "script_fi": "Ananaslajikkeita on monia, eri kokoisia, makeutta ja väriä. Jotkut ovat parasta syödä tuoreena, kun taas toisia käytetään mehuun tai purkitukseen. Kypsä ananas tuoksuu makealta ja siinä on kirkkaan vihreät lehdet.",
+      "script_sk": "Existuje mnoho odrôd ananásu s rôznymi veľkosťami, sladkosťou a farbami. Niektoré sa najlepšie konzumujú čerstvé, zatiaľ čo iné sa používajú na odšťavovanie alebo konzervovanie. Zrelý ananás vonia sladko a má jasne zelené listy.",
+      "script_da": "Der er mange varianter af ananas, med forskellige størrelser, sødme og farver. Nogle spises bedst friske, mens andre bruges til juice eller konserves. En moden ananas dufter sødt og har lyse grønne blade.",
+      "images": [
+        "varieties.webp",
+        "varieties_2.webp",
+        "varieties_3.webp"
+      ]
+    },
+    {
+      "id": "kitchen",
+      "script_en": "In the kitchen, pineapple is eaten fresh, grilled, or blended into juice and smoothies. It can be added to fruit salad, yogurt, or savoury dishes. Its sweet and sour flavour makes it a favourite in many tropical cuisines.",
+      "script_de": "In der Küche wird Ananas frisch gegessen, gegrillt oder zu Saft und Smoothies gemischt. Es kann zu Obstsalat, Joghurt oder herzhaften Gerichten hinzugefügt werden. Sein süß-saurer Geschmack macht es zu einem Favoriten in vielen tropischen Küchen.",
+      "script_it": "In cucina l'ananas viene consumato fresco, grigliato o frullato in succhi e frullati. Può essere aggiunto a macedonie, yogurt o piatti salati. Il suo sapore agrodolce lo rende uno dei preferiti in molte cucine tropicali.",
+      "script_fr": "En cuisine, l'ananas se consomme frais, grillé ou mélangé à des jus et des smoothies. On peut l’ajouter à une salade de fruits, un yaourt ou des plats salés. Sa saveur aigre-douce en fait un favori dans de nombreuses cuisines tropicales.",
+      "script_es": "En la cocina, la piña se come fresca, asada o mezclada con jugos y batidos. Se puede añadir a macedonias de frutas, yogures o platos salados. Su sabor agridulce lo convierte en el favorito de muchas cocinas tropicales.",
+      "script_hr": "U kuhinji se ananas jede svjež, pečen na žaru ili umiješan u sok i smoothie. Može se dodati voćnoj salati, jogurtu ili slanim jelima. Njegov slatki i kiseli okus čini ga omiljenim u mnogim tropskim kuhinjama.",
+      "script_cs": "V kuchyni se ananas jí čerstvý, grilovaný nebo smíchaný do šťávy a smoothies. Dá se přidat do ovocného salátu, jogurtu nebo slaných jídel. Díky své sladkokyselé chuti je oblíbený v mnoha tropických kuchyních.",
+      "script_pl": "W kuchni ananas jest spożywany na świeżo, grillowany lub mieszany z sokiem i koktajlami. Można go dodawać do sałatek owocowych, jogurtów lub dań pikantnych. Jego słodko-kwaśny smak sprawia, że ​​jest ulubionym składnikiem wielu kuchni tropikalnych.",
+      "script_fi": "Keittiössä ananas syödään tuoreena, grillataan tai sekoitetaan mehuun ja smoothieihin. Sitä voidaan lisätä hedelmäsalaattiin, jogurttiin tai suolaisiin ruokiin. Sen makea ja hapan maku tekee siitä suosikin monissa trooppisissa keittiöissä.",
+      "script_sk": "V kuchyni sa ananás konzumuje čerstvý, grilovaný alebo mixovaný do šťavy a smoothies. Môže sa pridať do ovocného šalátu, jogurtu alebo slaných jedál. Jeho sladká a kyslá chuť ho robí obľúbeným v mnohých tropických kuchyniach.",
+      "script_da": "I køkkenet spises ananas frisk, grillet eller blendet til juice og smoothies. Det kan tilføjes til frugtsalat, yoghurt eller salte retter. Dens søde og sure smag gør den til en favorit i mange tropiske køkkener.",
+      "images": [
+        "kitchen.webp",
+        "kitchen_2.webp",
+        "kitchen_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "plant",
+      "correct": "low_plant",
+      "question_en": "How does a pineapple grow?",
+      "question_de": "Wie wächst eine Ananas?",
+      "question_it": "Come cresce un ananas?",
+      "question_fr": "Comment pousse un ananas ?",
+      "question_es": "¿Cómo crece una piña?",
+      "question_hr": "Kako raste ananas?",
+      "question_cs": "Jak roste ananas?",
+      "question_pl": "Jak rośnie ananas?",
+      "question_fi": "Miten ananas kasvaa?",
+      "question_sk": "Ako rastie ananás?",
+      "question_da": "Hvordan vokser en ananas?",
+      "options": [
+        {
+          "id": "low_plant",
+          "label_en": "On a low plant with spiky leaves",
+          "label_de": "Auf einer niedrigen Pflanze mit stacheligen Blättern",
+          "label_it": "Su una pianta bassa con foglie appuntite",
+          "label_fr": "Sur une plante basse aux feuilles épineuses",
+          "label_es": "En una planta baja con hojas puntiagudas.",
+          "label_hr": "Na niskoj biljci sa šiljastim lišćem",
+          "label_cs": "Na nízké rostlině s ostnatými listy",
+          "label_pl": "Na niskiej roślinie o kolczastych liściach",
+          "label_fi": "Matalalla kasvilla, jossa on piikkilehdet",
+          "label_sk": "Na nízkej rastline s ostnatými listami",
+          "label_da": "På en lav plante med spidse blade"
+        },
+        {
+          "id": "tall_tree",
+          "label_en": "On a tall tree",
+          "label_de": "Auf einem hohen Baum",
+          "label_it": "Su un albero alto",
+          "label_fr": "Sur un grand arbre",
+          "label_es": "En un árbol alto",
+          "label_hr": "Na visokom stablu",
+          "label_cs": "Na vysokém stromě",
+          "label_pl": "Na wysokim drzewie",
+          "label_fi": "Korkealla puulla",
+          "label_sk": "Na vysokom strome",
+          "label_da": "På et højt træ"
+        },
+        {
+          "id": "underwater",
+          "label_en": "Underwater",
+          "label_de": "Unterwasser",
+          "label_it": "Sott'acqua",
+          "label_fr": "Sous l'eau",
+          "label_es": "Submarino",
+          "label_hr": "Pod vodom",
+          "label_cs": "Pod vodou",
+          "label_pl": "Podwodny",
+          "label_fi": "Vedenalainen",
+          "label_sk": "Pod vodou",
+          "label_da": "Undervands"
+        }
+      ]
+    },
+    {
+      "id": "crown",
+      "correct": "crown",
+      "question_en": "What is the leafy top of a pineapple called?",
+      "question_de": "Wie heißt die Blattoberseite einer Ananas?",
+      "question_it": "Come si chiama la parte superiore frondosa dell'ananas?",
+      "question_fr": "Comment s’appelle le dessus feuillu d’un ananas ?",
+      "question_es": "¿Cómo se llama la parte superior de hojas de una piña?",
+      "question_hr": "Kako se zove lisnati vrh ananasa?",
+      "question_cs": "Jak se nazývá listový vrchol ananasu?",
+      "question_pl": "Jak nazywa się liściasty wierzchołek ananasa?",
+      "question_fi": "Millä nimellä ananaksen lehtiä kutsutaan?",
+      "question_sk": "Ako sa nazýva listový vrchol ananásu?",
+      "question_da": "Hvad hedder den grønne top af en ananas?",
+      "options": [
+        {
+          "id": "crown",
+          "label_en": "A crown",
+          "label_de": "Eine Krone",
+          "label_it": "Una corona",
+          "label_fr": "Une couronne",
+          "label_es": "una corona",
+          "label_hr": "Kruna",
+          "label_cs": "Koruna",
+          "label_pl": "Korona",
+          "label_fi": "Kruunu",
+          "label_sk": "Koruna",
+          "label_da": "En krone"
+        },
+        {
+          "id": "tail",
+          "label_en": "A tail",
+          "label_de": "Ein Schwanz",
+          "label_it": "Una coda",
+          "label_fr": "Une queue",
+          "label_es": "una cola",
+          "label_hr": "rep",
+          "label_cs": "Ocas",
+          "label_pl": "Ogon",
+          "label_fi": "Häntä",
+          "label_sk": "Chvost",
+          "label_da": "En hale"
+        },
+        {
+          "id": "shell",
+          "label_en": "A shell",
+          "label_de": "Eine Muschel",
+          "label_it": "Una conchiglia",
+          "label_fr": "Une coquille",
+          "label_es": "un caparazón",
+          "label_hr": "školjka",
+          "label_cs": "Skořápka",
+          "label_pl": "Muszla",
+          "label_fi": "Kuori",
+          "label_sk": "Škrupina",
+          "label_da": "En skal"
+        }
+      ]
+    },
+    {
+      "id": "climate",
+      "correct": "tropical",
+      "question_en": "What kind of climate do pineapples need?",
+      "question_de": "Welches Klima brauchen Ananas?",
+      "question_it": "Di che tipo di clima ha bisogno l'ananas?",
+      "question_fr": "De quel type de climat les ananas ont-ils besoin ?",
+      "question_es": "¿Qué tipo de clima necesitan las piñas?",
+      "question_hr": "Kakvu klimu treba ananas?",
+      "question_cs": "Jaké klima potřebuje ananas?",
+      "question_pl": "Jakiego klimatu potrzebują ananasy?",
+      "question_fi": "Millaista ilmastoa ananas tarvitsee?",
+      "question_sk": "Aké podnebie potrebuje ananás?",
+      "question_da": "Hvilken slags klima har ananas brug for?",
+      "options": [
+        {
+          "id": "tropical",
+          "label_en": "A warm tropical climate",
+          "label_de": "Ein warmes tropisches Klima",
+          "label_it": "Un clima tropicale caldo",
+          "label_fr": "Un climat tropical chaud",
+          "label_es": "Un clima tropical cálido",
+          "label_hr": "Topla tropska klima",
+          "label_cs": "Teplé tropické klima",
+          "label_pl": "Ciepły klimat tropikalny",
+          "label_fi": "Lämmin trooppinen ilmasto",
+          "label_sk": "Teplé tropické podnebie",
+          "label_da": "Et varmt tropisk klima"
+        },
+        {
+          "id": "arctic",
+          "label_en": "A freezing arctic climate",
+          "label_de": "Ein eiskaltes arktisches Klima",
+          "label_it": "Un clima artico gelido",
+          "label_fr": "Un climat arctique glacial",
+          "label_es": "Un clima ártico helado",
+          "label_hr": "Ledena arktička klima",
+          "label_cs": "Mrazivé arktické klima",
+          "label_pl": "Mroźny klimat arktyczny",
+          "label_fi": "Jäätävä arktinen ilmasto",
+          "label_sk": "Mrazivé arktické podnebie",
+          "label_da": "Et iskaldt arktisk klima"
+        },
+        {
+          "id": "dry",
+          "label_en": "A dry desert",
+          "label_de": "Eine trockene Wüste",
+          "label_it": "Un deserto arido",
+          "label_fr": "Un désert sec",
+          "label_es": "Un desierto seco",
+          "label_hr": "Suha pustinja",
+          "label_cs": "Suchá poušť",
+          "label_pl": "Sucha pustynia",
+          "label_fi": "Kuiva aavikko",
+          "label_sk": "Suchá púšť",
+          "label_da": "En tør ørken"
+        }
+      ]
+    }
+  ]
+}

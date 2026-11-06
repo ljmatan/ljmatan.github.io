@@ -715,6 +715,27 @@
       "title_da": "Pærer"
     },
     {
+      "id": "pineapple",
+      "category_id": "food",
+      "symbol_id": "pineapple",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/pineapple/pineapple_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/pineapple/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2331105,
+      "version": 1,
+      "title_en": "Pineapples",
+      "title_de": "Ananas",
+      "title_it": "Ananas",
+      "title_fr": "Ananas",
+      "title_es": "piñas",
+      "title_hr": "ananas",
+      "title_cs": "Ananas",
+      "title_pl": "Ananasy",
+      "title_fi": "Ananakset",
+      "title_sk": "Ananás",
+      "title_da": "Ananas"
+    },
+    {
       "id": "pizza",
       "category_id": "food",
       "symbol_id": "pizza",
