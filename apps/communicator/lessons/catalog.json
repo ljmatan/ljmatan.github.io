@@ -923,6 +923,27 @@
       "title_fi": "Maapallo",
       "title_sk": "Zem",
       "title_da": "Jord"
+    },
+    {
+      "id": "jupiter",
+      "category_id": "planets",
+      "symbol_id": "jupiter",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/jupiter/jupiter_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/jupiter/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 1695344,
+      "version": 1,
+      "title_en": "Jupiter",
+      "title_de": "Jupiter",
+      "title_it": "Giove",
+      "title_fr": "Jupiter",
+      "title_es": "Júpiter",
+      "title_hr": "Jupiter",
+      "title_cs": "Jupiter",
+      "title_pl": "Jupiter",
+      "title_fi": "Jupiter",
+      "title_sk": "Jupiter",
+      "title_da": "Jupiter"
     }
   ]
 }

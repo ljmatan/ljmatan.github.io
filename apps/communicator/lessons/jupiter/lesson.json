@@ -1,0 +1,293 @@
+{
+  "id": "jupiter",
+  "category_id": "planets",
+  "symbol_id": "jupiter",
+  "thumbnail": "jupiter_thumb.webp",
+  "title_en": "Jupiter",
+  "title_de": "Jupiter",
+  "title_it": "Giove",
+  "title_fr": "Jupiter",
+  "title_es": "Júpiter",
+  "title_hr": "Jupiter",
+  "title_cs": "Jupiter",
+  "title_pl": "Jupiter",
+  "title_fi": "Jupiter",
+  "title_sk": "Jupiter",
+  "title_da": "Jupiter",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about Jupiter. Jupiter is the largest planet in our solar system. It is a gas giant, which means it is made mostly of thick clouds and gas rather than solid rock.",
+      "script_de": "Heute werden wir etwas über Jupiter lernen. Jupiter ist der größte Planet unseres Sonnensystems. Es handelt sich um einen Gasriesen, das heißt, er besteht hauptsächlich aus dicken Wolken und Gas und nicht aus festem Gestein.",
+      "script_it": "Oggi impareremo a conoscere Giove. Giove è il pianeta più grande del nostro sistema solare. È un gigante gassoso, il che significa che è costituito principalmente da spesse nubi e gas anziché da solida roccia.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur Jupiter. Jupiter est la plus grande planète de notre système solaire. Il s’agit d’une géante gazeuse, ce qui signifie qu’elle est constituée principalement de nuages ​​épais et de gaz plutôt que de roches solides.",
+      "script_es": "Hoy vamos a aprender sobre Júpiter. Júpiter es el planeta más grande de nuestro sistema solar. Es un gigante gaseoso, lo que significa que está formado principalmente por espesas nubes y gas en lugar de roca sólida.",
+      "script_hr": "Danas ćemo učiti o Jupiteru. Jupiter je najveći planet u našem Sunčevom sustavu. To je plinoviti div, što znači da se sastoji uglavnom od gustih oblaka i plina, a ne od čvrste stijene.",
+      "script_cs": "Dnes se budeme učit o Jupiteru. Jupiter je největší planeta naší sluneční soustavy. Je to plynný obr, což znamená, že je tvořen převážně hustými mraky a plynem spíše než pevnou horninou.",
+      "script_pl": "Dziś dowiemy się więcej o Jowiszu. Jowisz jest największą planetą w naszym Układzie Słonecznym. Jest gazowym olbrzymem, co oznacza, że ​​składa się głównie z grubych chmur i gazu, a nie z litej skały.",
+      "script_fi": "Tänään opimme Jupiterista. Jupiter on aurinkokuntamme suurin planeetta. Se on kaasujättiläinen, mikä tarkoittaa, että se on tehty enimmäkseen paksuista pilvistä ja kaasusta kiinteän kiven sijaan.",
+      "script_sk": "Dnes sa dozvieme o Jupiteri. Jupiter je najväčšia planéta našej slnečnej sústavy. Je to plynový gigant, čo znamená, že je vyrobený väčšinou z hustých mrakov a plynu a nie z pevnej horniny.",
+      "script_da": "I dag skal vi lære om Jupiter. Jupiter er den største planet i vores solsystem. Det er en gasgigant, hvilket betyder, at den for det meste er lavet af tykke skyer og gas i stedet for fast sten.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "bands",
+      "script_en": "Jupiter's surface is covered in stripes of cream, orange, and brown. These bands are clouds moved by powerful winds. The winds can blow faster than any storm on Earth.",
+      "script_de": "Die Oberfläche des Jupiter ist mit cremefarbenen, orangefarbenen und braunen Streifen bedeckt. Diese Bänder sind Wolken, die von starken Winden bewegt werden. Die Winde können schneller wehen als jeder Sturm auf der Erde.",
+      "script_it": "La superficie di Giove è ricoperta da strisce color crema, arancione e marrone. Queste fasce sono nuvole mosse da venti potenti. I venti possono soffiare più velocemente di qualsiasi tempesta sulla Terra.",
+      "script_fr": "La surface de Jupiter est recouverte de rayures crème, orange et brunes. Ces bandes sont des nuages ​​déplacés par des vents puissants. Les vents peuvent souffler plus vite que n’importe quelle tempête sur Terre.",
+      "script_es": "La superficie de Júpiter está cubierta de franjas de color crema, naranja y marrón. Estas bandas son nubes movidas por fuertes vientos. Los vientos pueden soplar más rápido que cualquier tormenta en la Tierra.",
+      "script_hr": "Jupiterova površina prekrivena je prugama krem, narančaste i smeđe boje. Ove trake su oblaci koje pomiču snažni vjetrovi. Vjetrovi mogu puhati brže od bilo koje oluje na Zemlji.",
+      "script_cs": "Povrch Jupiteru je pokrytý pruhy krémové, oranžové a hnědé. Tyto pásy jsou mraky pohybované silnými větry. Vítr může foukat rychleji než jakákoli bouře na Zemi.",
+      "script_pl": "Powierzchnia Jowisza pokryta jest paskami w kolorze kremowym, pomarańczowym i brązowym. Pasma te to chmury poruszane przez silne wiatry. Wiatry mogą wiać szybciej niż jakakolwiek burza na Ziemi.",
+      "script_fi": "Jupiterin pinta on peitetty kerman, oranssin ja ruskean raidoilla. Nämä nauhat ovat voimakkaiden tuulien liikuttamia pilviä. Tuulet voivat puhaltaa nopeammin kuin mikään myrsky maan päällä.",
+      "script_sk": "Povrch Jupitera je pokrytý krémovými, oranžovými a hnedými pruhmi. Tieto pásy sú oblaky pohybované silným vetrom. Vietor môže fúkať rýchlejšie ako ktorákoľvek búrka na Zemi.",
+      "script_da": "Jupiters overflade er dækket af striber af creme, orange og brun. Disse bånd er skyer flyttet af kraftige vinde. Vindene kan blæse hurtigere end nogen storm på Jorden.",
+      "images": [
+        "bands.webp",
+        "bands_2.webp",
+        "bands_3.webp"
+      ]
+    },
+    {
+      "id": "storm",
+      "script_en": "Jupiter has a giant storm called the Great Red Spot. It is wider than Earth and has been swirling for hundreds of years. Even though it is so big, it is slowly shrinking over time.",
+      "script_de": "Jupiter hat einen riesigen Sturm namens „Großer Roter Fleck“. Es ist breiter als die Erde und wirbelt seit Hunderten von Jahren. Obwohl es so groß ist, schrumpft es mit der Zeit langsam.",
+      "script_it": "Giove ha una tempesta gigante chiamata Grande Macchia Rossa. È più largo della Terra e vortica da centinaia di anni. Anche se è così grande, si sta lentamente restringendo nel tempo.",
+      "script_fr": "Jupiter connaît une tempête géante appelée la Grande Tache Rouge. Il est plus large que la Terre et tourbillonne depuis des centaines d’années. Même si elle est si grande, elle diminue lentement avec le temps.",
+      "script_es": "Júpiter tiene una tormenta gigante llamada Gran Mancha Roja. Es más ancho que la Tierra y ha estado girando durante cientos de años. Aunque es tan grande, poco a poco se va reduciendo con el tiempo.",
+      "script_hr": "Jupiter ima ogromnu oluju koja se zove Velika crvena pjega. Širi je od Zemlje i vrtloži se stotinama godina. Iako je tako velik, s vremenom se polako smanjuje.",
+      "script_cs": "Jupiter má obří bouři zvanou Velká rudá skvrna. Je širší než Země a víří už stovky let. I když je tak velký, postupem času se pomalu zmenšuje.",
+      "script_pl": "Na Jowiszu panuje gigantyczna burza zwana Wielką Czerwoną Plamą. Jest szerszy od Ziemi i wiruje od setek lat. Choć jest tak duży, z biegiem czasu powoli się kurczy.",
+      "script_fi": "Jupiterilla on jättimäinen myrsky, nimeltään Great Red Spot. Se on leveämpi kuin Maa ja se on pyörinyt satoja vuosia. Vaikka se on niin suuri, se pienenee hitaasti ajan myötä.",
+      "script_sk": "Jupiter má obrovskú búrku nazývanú Veľká červená škvrna. Je širší ako Zem a víri už stovky rokov. Aj keď je taký veľký, časom sa pomaly zmenšuje.",
+      "script_da": "Jupiter har en kæmpestorm kaldet Den Store Røde Plet. Den er bredere end Jorden og har hvirvlet rundt i hundreder af år. Selvom den er så stor, så krymper den langsomt med tiden.",
+      "images": [
+        "storm.webp",
+        "storm_2.webp",
+        "storm_3.webp"
+      ]
+    },
+    {
+      "id": "moons",
+      "script_en": "Jupiter has many moons. Four of them are huge: Io, Europa, Ganymede, and Callisto. Europa may have a deep ocean hidden under its icy shell, which makes it especially interesting to scientists.",
+      "script_de": "Jupiter hat viele Monde. Vier davon sind riesig: Io, Europa, Ganymed und Callisto. Europa könnte einen tiefen Ozean unter seiner eisigen Hülle verbergen, was es für Wissenschaftler besonders interessant macht.",
+      "script_it": "Giove ha molte lune. Quattro di loro sono enormi: Io, Europa, Ganimede e Callisto. Europa potrebbe avere un oceano profondo nascosto sotto il suo guscio ghiacciato, il che la rende particolarmente interessante per gli scienziati.",
+      "script_fr": "Jupiter a de nombreuses lunes. Quatre d'entre eux sont énormes : Io, Europe, Ganymède et Callisto. Europe possède peut-être un océan profond caché sous sa coquille glacée, ce qui la rend particulièrement intéressante pour les scientifiques.",
+      "script_es": "Júpiter tiene muchas lunas. Cuatro de ellos son enormes: Ío, Europa, Ganímedes y Calisto. Europa puede tener un océano profundo escondido bajo su capa helada, lo que la hace especialmente interesante para los científicos.",
+      "script_hr": "Jupiter ima mnogo mjeseca. Četiri od njih su ogromne: Io, Europa, Ganimed i Kalisto. Europa možda ima duboki ocean skriven ispod svog ledenog oklopa, što je čini posebno zanimljivom znanstvenicima.",
+      "script_cs": "Jupiter má mnoho měsíců. Čtyři z nich jsou obrovské: Io, Europa, Ganymede a Callisto. Evropa může mít pod svou ledovou skořápkou skrytý hluboký oceán, což ji činí zvláště zajímavou pro vědce.",
+      "script_pl": "Jowisz ma wiele księżyców. Cztery z nich są ogromne: Io, Europa, Ganimedes i Callisto. Europa może posiadać głęboki ocean ukryty pod lodową skorupą, co czyni ją szczególnie interesującą dla naukowców.",
+      "script_fi": "Jupiterilla on monta kuuta. Neljä niistä on valtavia: Io, Europa, Ganymede ja Callisto. Europalla voi olla syvä valtameri piilossa sen jäisen kuoren alla, mikä tekee siitä erityisen mielenkiintoisen tutkijoille.",
+      "script_sk": "Jupiter má veľa mesiacov. Štyri z nich sú obrovské: Io, Európa, Ganymede a Callisto. Európa môže mať pod ľadovou škrupinou skrytý hlboký oceán, vďaka čomu je pre vedcov obzvlášť zaujímavá.",
+      "script_da": "Jupiter har mange måner. Fire af dem er enorme: Io, Europa, Ganymedes og Callisto. Europa kan have et dybt hav skjult under sin iskolde skal, hvilket gør det særligt interessant for videnskabsmænd.",
+      "images": [
+        "moons.webp",
+        "moons_2.webp",
+        "moons_3.webp"
+      ]
+    },
+    {
+      "id": "exploration",
+      "script_en": "Today spacecraft such as Juno study Jupiter from orbit. They measure its storms, magnetic field, and moons. Jupiter's great size and gravity also help hold the outer solar system together.",
+      "script_de": "Heutzutage untersuchen Raumschiffe wie Juno Jupiter aus der Umlaufbahn. Sie messen seine Stürme, sein Magnetfeld und seine Monde. Jupiters große Größe und Schwerkraft tragen auch dazu bei, das äußere Sonnensystem zusammenzuhalten.",
+      "script_it": "Oggi veicoli spaziali come Juno studiano Giove dall'orbita. Ne misurano le tempeste, il campo magnetico e le lune. Le grandi dimensioni e la gravità di Giove aiutano anche a tenere insieme il sistema solare esterno.",
+      "script_fr": "Aujourd’hui, des vaisseaux spatiaux tels que Juno étudient Jupiter depuis son orbite. Ils mesurent ses tempêtes, son champ magnétique et ses lunes. La grande taille et la gravité de Jupiter contribuent également à maintenir la cohésion du système solaire externe.",
+      "script_es": "Hoy en día, naves espaciales como Juno estudian a Júpiter desde su órbita. Miden sus tormentas, campo magnético y lunas. El gran tamaño y la gravedad de Júpiter también ayudan a mantener unido el sistema solar exterior.",
+      "script_hr": "Današnje svemirske letjelice kao što je Juno proučavaju Jupiter iz orbite. Mjere njegove oluje, magnetsko polje i mjesece. Jupiterova velika veličina i gravitacija također pomažu u održavanju vanjskog Sunčevog sustava na okupu.",
+      "script_cs": "Dnes kosmické lodě jako Juno studují Jupiter z oběžné dráhy. Měří jeho bouře, magnetické pole a měsíce. Velká velikost a gravitace Jupiteru také pomáhají udržet vnější sluneční soustavu pohromadě.",
+      "script_pl": "Obecnie statki kosmiczne takie jak Juno badają Jowisza z orbity. Mierzą burze, pole magnetyczne i księżyce. Duże rozmiary i grawitacja Jowisza również pomagają utrzymać całość zewnętrznego Układu Słonecznego.",
+      "script_fi": "Nykyään avaruusalukset, kuten Juno, tutkivat Jupiteria kiertoradalta. He mittaavat sen myrskyjä, magneettikenttää ja kuita. Jupiterin suuri koko ja painovoima auttavat myös pitämään ulomman aurinkokunnan koossa.",
+      "script_sk": "Dnešné kozmické lode ako Juno študujú Jupiter z obežnej dráhy. Meria jeho búrky, magnetické pole a mesiace. Veľká veľkosť a gravitácia Jupitera tiež pomáhajú udržiavať vonkajšiu slnečnú sústavu pohromade.",
+      "script_da": "I dag studerer rumfartøjer som Juno Jupiter fra kredsløb. De måler dens storme, magnetfelt og måner. Jupiters store størrelse og tyngdekraft hjælper også med at holde det ydre solsystem sammen.",
+      "images": [
+        "exploration.webp",
+        "exploration_2.webp",
+        "exploration_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "largest",
+      "correct": "jupiter",
+      "question_en": "Which planet is the largest in our solar system?",
+      "question_de": "Welcher Planet ist der größte in unserem Sonnensystem?",
+      "question_it": "Quale pianeta è il più grande del nostro sistema solare?",
+      "question_fr": "Quelle planète est la plus grande de notre système solaire ?",
+      "question_es": "¿Qué planeta es el más grande de nuestro sistema solar?",
+      "question_hr": "Koji je planet najveći u našem Sunčevom sustavu?",
+      "question_cs": "Která planeta je největší v naší sluneční soustavě?",
+      "question_pl": "Która planeta jest największa w naszym Układzie Słonecznym?",
+      "question_fi": "Mikä planeetta on aurinkokuntamme suurin?",
+      "question_sk": "Ktorá planéta je najväčšia v našej slnečnej sústave?",
+      "question_da": "Hvilken planet er den største i vores solsystem?",
+      "options": [
+        {
+          "id": "jupiter",
+          "label_en": "Jupiter",
+          "label_de": "Jupiter",
+          "label_it": "Giove",
+          "label_fr": "Jupiter",
+          "label_es": "Júpiter",
+          "label_hr": "Jupiter",
+          "label_cs": "Jupiter",
+          "label_pl": "Jupiter",
+          "label_fi": "Jupiter",
+          "label_sk": "Jupiter",
+          "label_da": "Jupiter"
+        },
+        {
+          "id": "earth",
+          "label_en": "Earth",
+          "label_de": "Erde",
+          "label_it": "Terra",
+          "label_fr": "Terre",
+          "label_es": "Tierra",
+          "label_hr": "Zemlja",
+          "label_cs": "Země",
+          "label_pl": "Ziemia",
+          "label_fi": "Maapallo",
+          "label_sk": "Zem",
+          "label_da": "Jord"
+        },
+        {
+          "id": "saturn",
+          "label_en": "Saturn",
+          "label_de": "Saturn",
+          "label_it": "Saturno",
+          "label_fr": "Saturne",
+          "label_es": "Saturno",
+          "label_hr": "Saturn",
+          "label_cs": "Saturn",
+          "label_pl": "Saturn",
+          "label_fi": "Saturnus",
+          "label_sk": "Saturn",
+          "label_da": "Saturn"
+        }
+      ]
+    },
+    {
+      "id": "spot",
+      "correct": "storm",
+      "question_en": "What is the Great Red Spot?",
+      "question_de": "Was ist der Große Rote Fleck?",
+      "question_it": "Cos'è la Grande Macchia Rossa?",
+      "question_fr": "Qu'est-ce que la Grande Tache Rouge ?",
+      "question_es": "¿Qué es la Gran Mancha Roja?",
+      "question_hr": "Što je Velika crvena pjega?",
+      "question_cs": "Co je Velká rudá skvrna?",
+      "question_pl": "Co to jest Wielka Czerwona Plama?",
+      "question_fi": "Mikä on Suuri punainen piste?",
+      "question_sk": "Čo je Veľká červená škvrna?",
+      "question_da": "Hvad er den store røde plet?",
+      "options": [
+        {
+          "id": "storm",
+          "label_en": "A giant storm",
+          "label_de": "Ein riesiger Sturm",
+          "label_it": "Una tempesta gigantesca",
+          "label_fr": "Une tempête géante",
+          "label_es": "Una tormenta gigante",
+          "label_hr": "Ogromna oluja",
+          "label_cs": "Obří bouře",
+          "label_pl": "Gigantyczna burza",
+          "label_fi": "Jättimäinen myrsky",
+          "label_sk": "Obrovská búrka",
+          "label_da": "En kæmpestorm"
+        },
+        {
+          "id": "moon",
+          "label_en": "A moon",
+          "label_de": "Ein Mond",
+          "label_it": "Una luna",
+          "label_fr": "Une lune",
+          "label_es": "una luna",
+          "label_hr": "Mjesec",
+          "label_cs": "Měsíc",
+          "label_pl": "Księżyc",
+          "label_fi": "Kuu",
+          "label_sk": "Mesiac",
+          "label_da": "En måne"
+        },
+        {
+          "id": "mountain",
+          "label_en": "A mountain",
+          "label_de": "Ein Berg",
+          "label_it": "Una montagna",
+          "label_fr": "Une montagne",
+          "label_es": "una montaña",
+          "label_hr": "planina",
+          "label_cs": "Hora",
+          "label_pl": "Góra",
+          "label_fi": "Vuori",
+          "label_sk": "Hora",
+          "label_da": "Et bjerg"
+        }
+      ]
+    },
+    {
+      "id": "type",
+      "correct": "gas",
+      "question_en": "What kind of planet is Jupiter?",
+      "question_de": "Was für ein Planet ist Jupiter?",
+      "question_it": "Che tipo di pianeta è Giove?",
+      "question_fr": "Quel genre de planète est Jupiter ?",
+      "question_es": "¿Qué tipo de planeta es Júpiter?",
+      "question_hr": "Kakav je planet Jupiter?",
+      "question_cs": "Jaký druh planety je Jupiter?",
+      "question_pl": "Jaką planetą jest Jowisz?",
+      "question_fi": "Millainen planeetta Jupiter on?",
+      "question_sk": "Aký druh planéty je Jupiter?",
+      "question_da": "Hvilken slags planet er Jupiter?",
+      "options": [
+        {
+          "id": "gas",
+          "label_en": "A gas giant",
+          "label_de": "Ein Gasriese",
+          "label_it": "Un gigante gassoso",
+          "label_fr": "Une géante gazeuse",
+          "label_es": "Un gigante gaseoso",
+          "label_hr": "Plinski div",
+          "label_cs": "Plynový obr",
+          "label_pl": "Gazowy gigant",
+          "label_fi": "Kaasujättiläinen",
+          "label_sk": "Plynový gigant",
+          "label_da": "En gasgigant"
+        },
+        {
+          "id": "rock",
+          "label_en": "A rocky planet",
+          "label_de": "Ein felsiger Planet",
+          "label_it": "Un pianeta roccioso",
+          "label_fr": "Une planète rocheuse",
+          "label_es": "Un planeta rocoso",
+          "label_hr": "Kameniti planet",
+          "label_cs": "Kamenná planeta",
+          "label_pl": "Skalista planeta",
+          "label_fi": "Kivinen planeetta",
+          "label_sk": "Skalnatá planéta",
+          "label_da": "En stenet planet"
+        },
+        {
+          "id": "ice",
+          "label_en": "A ball of ice only",
+          "label_de": "Nur ein Eisball",
+          "label_it": "Solo una palla di ghiaccio",
+          "label_fr": "Une boule de glace seulement",
+          "label_es": "Solo una bola de hielo",
+          "label_hr": "Samo kugla leda",
+          "label_cs": "Pouze ledová koule",
+          "label_pl": "Tylko kula lodu",
+          "label_fi": "Vain jääpallo",
+          "label_sk": "Iba ľadová guľa",
+          "label_da": "Kun en iskugle"
+        }
+      ]
+    }
+  ]
+}
