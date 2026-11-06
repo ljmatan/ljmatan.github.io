@@ -1,0 +1,293 @@
+{
+  "id": "mango",
+  "category_id": "food",
+  "symbol_id": "mango",
+  "thumbnail": "mango_thumb.webp",
+  "title_en": "Mangoes",
+  "title_de": "Mangos",
+  "title_it": "Manghi",
+  "title_fr": "Mangues",
+  "title_es": "mangos",
+  "title_hr": "Mango",
+  "title_cs": "Mango",
+  "title_pl": "Mango",
+  "title_fi": "Mangot",
+  "title_sk": "Mango",
+  "title_da": "Mangoer",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about mangoes. Mangoes are sweet, juicy tropical fruits with soft orange flesh and a large stone in the middle. They are one of the most popular fruits in the world.",
+      "script_de": "Heute lernen wir etwas über Mangos. Mangos sind süße, saftige tropische Früchte mit weichem Orangenfleisch und einem großen Kern in der Mitte. Sie gehören zu den beliebtesten Früchten der Welt.",
+      "script_it": "Oggi parleremo del mango. Il mango è un frutto tropicale dolce e succoso con una morbida polpa arancione e un grosso nocciolo al centro. Sono uno dei frutti più apprezzati al mondo.",
+      "script_fr": "Aujourd'hui, nous allons découvrir les mangues. Les mangues sont des fruits tropicaux sucrés et juteux avec une chair orange tendre et un gros noyau au milieu. Ils sont l’un des fruits les plus appréciés au monde.",
+      "script_es": "Hoy vamos a aprender sobre los mangos. Los mangos son frutas tropicales dulces y jugosas con pulpa suave de color naranja y un hueso grande en el medio. Son una de las frutas más populares del mundo.",
+      "script_hr": "Danas ćemo učiti o mangu. Mango je slatko, sočno tropsko voće s mekim narančastim mesom i velikom košticom u sredini. Jedno su od najpopularnijih voća na svijetu.",
+      "script_cs": "Dnes se budeme učit o mangu. Mango je sladké, šťavnaté tropické ovoce s měkkou oranžovou dužinou a velkou peckou uprostřed. Jsou jedním z nejoblíbenějších druhů ovoce na světě.",
+      "script_pl": "Dzisiaj będziemy uczyć się o mango. Mango to słodkie, soczyste owoce tropikalne o miękkim pomarańczowym miąższu i dużym pestce pośrodku. Są jednymi z najpopularniejszych owoców na świecie.",
+      "script_fi": "Tänään opimme mangoista. Mangot ovat makeita, mehukkaita trooppisia hedelmiä, joissa on pehmeä oranssi hedelmäliha ja suuri kivi keskellä. Ne ovat yksi maailman suosituimmista hedelmistä.",
+      "script_sk": "Dnes sa dozvieme o mangu. Mango je sladké, šťavnaté tropické ovocie s jemnou oranžovou dužinou a veľkou kôstkou uprostred. Sú jedným z najobľúbenejších druhov ovocia na svete.",
+      "script_da": "I dag skal vi lære om mango. Mango er søde, saftige tropiske frugter med blødt orange kød og en stor sten i midten. De er en af ​​de mest populære frugter i verden.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "origin",
+      "script_en": "Mangoes first grew in South Asia, where people have enjoyed them for thousands of years. Travellers and farmers carried mango trees to other warm parts of the world. Today they grow in India, Mexico, Thailand, Brazil, and many other countries.",
+      "script_de": "Mangos wuchsen ursprünglich in Südasien, wo die Menschen sie seit Tausenden von Jahren genießen. Reisende und Bauern brachten Mangobäume in andere warme Teile der Welt. Heute wachsen sie in Indien, Mexiko, Thailand, Brasilien und vielen anderen Ländern.",
+      "script_it": "I manghi sono cresciuti per la prima volta nell’Asia meridionale, dove le persone ne hanno goduto per migliaia di anni. Viaggiatori e agricoltori trasportarono alberi di mango in altre parti calde del mondo. Oggi crescono in India, Messico, Tailandia, Brasile e molti altri paesi.",
+      "script_fr": "Les mangues ont poussé pour la première fois en Asie du Sud, où les gens les apprécient depuis des milliers d’années. Les voyageurs et les agriculteurs ont transporté des manguiers vers d’autres régions chaudes du monde. Aujourd’hui, ils poussent en Inde, au Mexique, en Thaïlande, au Brésil et dans de nombreux autres pays.",
+      "script_es": "Los mangos crecieron por primera vez en el sur de Asia, donde la gente los ha disfrutado durante miles de años. Los viajeros y agricultores llevaron árboles de mango a otras partes cálidas del mundo. Hoy crecen en India, México, Tailandia, Brasil y muchos otros países.",
+      "script_hr": "Mango je prvo rastao u južnoj Aziji, gdje su ljudi u njemu uživali tisućama godina. Putnici i farmeri nosili su stabla manga u druge tople krajeve svijeta. Danas rastu u Indiji, Meksiku, Tajlandu, Brazilu i mnogim drugim zemljama.",
+      "script_cs": "Mango poprvé rostlo v jižní Asii, kde si na něm lidé pochutnávali po tisíce let. Cestovatelé a farmáři převáželi mangovníky do jiných teplých částí světa. Dnes rostou v Indii, Mexiku, Thajsku, Brazílii a mnoha dalších zemích.",
+      "script_pl": "Mango po raz pierwszy rosło w Azji Południowej, gdzie ludzie cieszyli się nim od tysięcy lat. Podróżnicy i rolnicy przenieśli drzewa mango do innych ciepłych części świata. Dziś rosną w Indiach, Meksyku, Tajlandii, Brazylii i wielu innych krajach.",
+      "script_fi": "Mangot kasvoivat ensin Etelä-Aasiassa, missä ihmiset ovat nauttineet niistä tuhansia vuosia. Matkailijat ja maanviljelijät kantoivat mangopuita muihin lämpimiin osiin maailmaa. Nykyään ne kasvavat Intiassa, Meksikossa, Thaimaassa, Brasiliassa ja monissa muissa maissa.",
+      "script_sk": "Mango prvýkrát rástlo v južnej Ázii, kde si ho ľudia vychutnávali už tisíce rokov. Cestovatelia a farmári nosili mangovníky do iných teplých častí sveta. Dnes rastú v Indii, Mexiku, Thajsku, Brazílii a mnohých ďalších krajinách.",
+      "script_da": "Mango voksede først i Sydasien, hvor folk har nydt dem i tusinder af år. Rejsende og landmænd bar mangotræer til andre varme dele af verden. I dag vokser de i Indien, Mexico, Thailand, Brasilien og mange andre lande.",
+      "images": [
+        "origin.webp",
+        "origin_2.webp",
+        "origin_3.webp"
+      ]
+    },
+    {
+      "id": "growth",
+      "script_en": "A mango tree is evergreen, with long leaves and small white flowers. After the flowers are pollinated, tiny green mangoes appear and slowly grow. They ripen over several months, changing from green to yellow, orange, or red.",
+      "script_de": "Ein Mangobaum ist immergrün, mit langen Blättern und kleinen weißen Blüten. Nach der Bestäubung der Blüten erscheinen winzige grüne Mangos, die langsam wachsen. Sie reifen über mehrere Monate hinweg und verfärben sich von grün nach gelb, orange oder rot.",
+      "script_it": "L'albero di mango è sempreverde, con foglie lunghe e piccoli fiori bianchi. Dopo che i fiori sono stati impollinati, compaiono piccoli manghi verdi che crescono lentamente. Maturano nell'arco di diversi mesi, passando dal verde al giallo, all'arancione o al rosso.",
+      "script_fr": "Le manguier est persistant, avec de longues feuilles et de petites fleurs blanches. Une fois les fleurs pollinisées, de minuscules mangues vertes apparaissent et poussent lentement. Ils mûrissent sur plusieurs mois, passant du vert au jaune, orange ou rouge.",
+      "script_es": "Un árbol de mango es de hoja perenne, con hojas largas y pequeñas flores blancas. Una vez polinizadas las flores, aparecen pequeños mangos verdes que crecen lentamente. Maduran durante varios meses y cambian de verde a amarillo, naranja o rojo.",
+      "script_hr": "Drvo manga je zimzeleno, s dugim listovima i malim bijelim cvjetovima. Nakon što se cvjetovi opraše, pojavljuju se sitni zeleni mango koji polako rastu. Sazrijevaju nekoliko mjeseci, mijenjajući se iz zelene u žutu, narančastu ili crvenu.",
+      "script_cs": "Mango strom je stálezelený, s dlouhými listy a malými bílými květy. Po opylení květů se objeví drobné zelené mango a pomalu rostou. Dozrávají několik měsíců, mění se ze zelené na žlutou, oranžovou nebo červenou.",
+      "script_pl": "Drzewo mango jest wiecznie zielone, ma długie liście i małe białe kwiaty. Po zapyleniu kwiatów pojawiają się maleńkie zielone mango, które powoli rosną. Dojrzewają przez kilka miesięcy, zmieniając kolor z zielonego na żółty, pomarańczowy lub czerwony.",
+      "script_fi": "Mangopuu on ikivihreä, pitkät lehdet ja pienet valkoiset kukat. Kun kukat on pölytetty, pienet vihreät mangot ilmestyvät ja kasvavat hitaasti. Ne kypsyvät useita kuukausia muuttuen vihreästä keltaiseksi, oranssiksi tai punaiseksi.",
+      "script_sk": "Mangovník je vždyzelený, s dlhými listami a malými bielymi kvetmi. Po opelení kvetov sa objavia drobné zelené mangá a pomaly rastú. Dozrievajú niekoľko mesiacov, menia sa zo zelenej na žltú, oranžovú alebo červenú.",
+      "script_da": "Et mangotræ er stedsegrønt med lange blade og små hvide blomster. Efter at blomsterne er bestøvet, dukker små grønne mangoer op og vokser langsomt. De modnes over flere måneder og skifter fra grøn til gul, orange eller rød.",
+      "images": [
+        "growth.webp",
+        "growth_2.webp",
+        "growth_3.webp"
+      ]
+    },
+    {
+      "id": "varieties",
+      "script_en": "There are hundreds of kinds of mango. Some are small and very sweet, while others are large and fibre-free. Their skin can be green, yellow, orange, or red, and their flesh ranges from pale yellow to deep orange.",
+      "script_de": "Es gibt Hunderte Arten von Mangos. Manche sind klein und sehr süß, andere groß und faserfrei. Ihre Haut kann grün, gelb, orange oder rot sein und ihr Fleisch reicht von blassgelb bis tieforange.",
+      "script_it": "Esistono centinaia di tipi di mango. Alcuni sono piccoli e molto dolci, mentre altri sono grandi e privi di fibre. La loro pelle può essere verde, gialla, arancione o rossa e la loro carne varia dal giallo pallido all'arancione intenso.",
+      "script_fr": "Il existe des centaines de sortes de mangues. Certains sont petits et très sucrés, tandis que d'autres sont gros et sans fibres. Leur peau peut être verte, jaune, orange ou rouge et leur chair va du jaune pâle à l'orange foncé.",
+      "script_es": "Hay cientos de tipos de mango. Algunos son pequeños y muy dulces, mientras que otros son grandes y no contienen fibra. Su piel puede ser verde, amarilla, naranja o roja, y su carne varía del amarillo pálido al naranja intenso.",
+      "script_hr": "Postoje stotine vrsta manga. Neki su mali i vrlo slatki, dok su drugi veliki i bez vlakana. Koža im može biti zelena, žuta, narančasta ili crvena, a meso im se kreće od blijedo žute do tamno narančaste.",
+      "script_cs": "Existují stovky druhů manga. Některé jsou malé a velmi sladké, zatímco jiné jsou velké a neobsahují vlákninu. Jejich kůže může být zelená, žlutá, oranžová nebo červená a jejich maso se pohybuje od světle žluté po tmavě oranžovou.",
+      "script_pl": "Istnieją setki rodzajów mango. Niektóre są małe i bardzo słodkie, inne zaś duże i pozbawione błonnika. Ich skóra może być zielona, ​​żółta, pomarańczowa lub czerwona, a miąższ od bladożółtego do ciemnopomarańczowego.",
+      "script_fi": "Mangolajeja on satoja. Jotkut ovat pieniä ja erittäin makeita, kun taas toiset ovat suuria ja kuituttomia. Niiden iho voi olla vihreää, keltaista, oranssia tai punaista, ja niiden liha vaihtelee vaaleankeltaisesta syvän oranssiin.",
+      "script_sk": "Existujú stovky druhov manga. Niektoré sú malé a veľmi sladké, zatiaľ čo iné sú veľké a neobsahujú vlákninu. Ich šupka môže byť zelená, žltá, oranžová alebo červená a ich dužina sa pohybuje od svetložltej po tmavooranžovú.",
+      "script_da": "Der er hundredvis af slags mango. Nogle er små og meget søde, mens andre er store og fiberfri. Deres hud kan være grøn, gul, orange eller rød, og deres kød varierer fra bleggul til dyb orange.",
+      "images": [
+        "varieties.webp",
+        "varieties_2.webp",
+        "varieties_3.webp"
+      ]
+    },
+    {
+      "id": "kitchen",
+      "script_en": "In the kitchen, mangoes are eaten fresh or blended into smoothies and juices. They can be made into chutney, added to salads, or frozen as a treat. A ripe mango is soft, fragrant, and wonderfully sweet.",
+      "script_de": "In der Küche werden Mangos frisch gegessen oder zu Smoothies und Säften verarbeitet. Sie können zu Chutney verarbeitet, zu Salaten hinzugefügt oder als Leckerbissen eingefroren werden. Eine reife Mango ist weich, duftend und wunderbar süß.",
+      "script_it": "In cucina il mango viene consumato fresco o frullato in frullati e succhi. Possono essere trasformati in chutney, aggiunti alle insalate o congelati come dolcetto. Un mango maturo è morbido, fragrante e meravigliosamente dolce.",
+      "script_fr": "En cuisine, les mangues se consomment fraîches ou mélangées à des smoothies et des jus. Ils peuvent être transformés en chutney, ajoutés aux salades ou congelés comme friandise. Une mangue mûre est douce, parfumée et merveilleusement sucrée.",
+      "script_es": "En la cocina, los mangos se comen frescos o mezclados en batidos y jugos. Se pueden preparar en salsa picante, agregar a ensaladas o congelar como delicia. Un mango maduro es suave, fragante y maravillosamente dulce.",
+      "script_hr": "U kuhinji se mango jede svjež ili umiješan u smoothije i sokove. Od njih se može napraviti ajvar, dodati salatama ili zamrznuti kao poslastica. Zreli mango je mekan, mirisan i prekrasno sladak.",
+      "script_cs": "V kuchyni se mango jí čerstvé nebo smíchané do smoothies a šťáv. Lze z nich udělat chutney, přidat do salátů nebo zmrazit jako pamlsek. Zralé mango je měkké, voňavé a nádherně sladké.",
+      "script_pl": "W kuchni mango spożywa się na świeżo lub dodaje do koktajli i soków. Można z nich zrobić chutney, dodać do sałatek lub zamrozić jako przekąskę. Dojrzałe mango jest miękkie, pachnące i cudownie słodkie.",
+      "script_fi": "Keittiössä mangot syödään tuoreena tai sekoitetaan smoothieihin ja mehuihin. Niistä voidaan tehdä chutney, lisätä salaatteihin tai pakastaa herkkuna. Kypsä mango on pehmeä, tuoksuva ja ihanan makea.",
+      "script_sk": "V kuchyni sa mango konzumuje čerstvé alebo rozmixované do smoothies a džúsov. Možno z nich pripraviť chutney, pridať do šalátov alebo zmraziť ako pochúťku. Zrelé mango je mäkké, voňavé a nádherne sladké.",
+      "script_da": "I køkkenet spises mango frisk eller blendet til smoothies og juice. De kan laves til chutney, tilsættes salater eller fryses som en godbid. En moden mango er blød, duftende og vidunderlig sød.",
+      "images": [
+        "kitchen.webp",
+        "kitchen_2.webp",
+        "kitchen_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "climate",
+      "correct": "tropical",
+      "question_en": "What kind of climate do mangoes grow in?",
+      "question_de": "In welchem ​​Klima wachsen Mangos?",
+      "question_it": "In che tipo di clima crescono i manghi?",
+      "question_fr": "Dans quel type de climat poussent les mangues ?",
+      "question_es": "¿En qué tipo de clima crecen los mangos?",
+      "question_hr": "U kakvoj klimi raste mango?",
+      "question_cs": "V jakém klimatu manga rostou?",
+      "question_pl": "W jakim klimacie rośnie mango?",
+      "question_fi": "Millaisessa ilmastossa mangot kasvavat?",
+      "question_sk": "V akom podnebí mango rastie?",
+      "question_da": "Hvilket klima vokser mango i?",
+      "options": [
+        {
+          "id": "tropical",
+          "label_en": "Warm tropical climates",
+          "label_de": "Warmes tropisches Klima",
+          "label_it": "Climi tropicali caldi",
+          "label_fr": "Climats tropicaux chauds",
+          "label_es": "Climas tropicales cálidos",
+          "label_hr": "Topla tropska klima",
+          "label_cs": "Teplé tropické podnebí",
+          "label_pl": "Ciepłe klimaty tropikalne",
+          "label_fi": "Lämmin trooppinen ilmasto",
+          "label_sk": "Teplé tropické podnebie",
+          "label_da": "Varmt tropisk klima"
+        },
+        {
+          "id": "arctic",
+          "label_en": "Freezing arctic climates",
+          "label_de": "Eisiges arktisches Klima",
+          "label_it": "Climi artici gelidi",
+          "label_fr": "Climats arctiques glacials",
+          "label_es": "Climas árticos helados",
+          "label_hr": "Smrznuta arktička klima",
+          "label_cs": "Mrazivé arktické klima",
+          "label_pl": "Zamrażający klimat arktyczny",
+          "label_fi": "Jäätävä arktinen ilmasto",
+          "label_sk": "Mrazivé arktické podnebie",
+          "label_da": "Frysende arktiske klimaer"
+        },
+        {
+          "id": "desert",
+          "label_en": "Dry deserts only",
+          "label_de": "Nur trockene Wüsten",
+          "label_it": "Solo deserti secchi",
+          "label_fr": "Déserts secs uniquement",
+          "label_es": "Sólo desiertos secos",
+          "label_hr": "Samo suhe pustinje",
+          "label_cs": "Pouze suché pouště",
+          "label_pl": "Tylko suche pustynie",
+          "label_fi": "Vain kuivat aavikot",
+          "label_sk": "Iba suché púšte",
+          "label_da": "Kun tørre ørkener"
+        }
+      ]
+    },
+    {
+      "id": "tree",
+      "correct": "tree",
+      "question_en": "What kind of plant do mangoes grow on?",
+      "question_de": "Auf welcher Pflanze wachsen Mangos?",
+      "question_it": "Su che tipo di pianta crescono i manghi?",
+      "question_fr": "Sur quel type de plante poussent les mangues ?",
+      "question_es": "¿En qué tipo de planta crecen los mangos?",
+      "question_hr": "Na kakvoj biljci raste mango?",
+      "question_cs": "Na jaké rostlině roste mango?",
+      "question_pl": "Na jakiej roślinie rośnie mango?",
+      "question_fi": "Millaisessa kasvissa mangot kasvavat?",
+      "question_sk": "Na akej rastline rastie mango?",
+      "question_da": "Hvilken slags plante vokser mango på?",
+      "options": [
+        {
+          "id": "tree",
+          "label_en": "An evergreen tree",
+          "label_de": "Ein immergrüner Baum",
+          "label_it": "Un albero sempreverde",
+          "label_fr": "Un arbre à feuilles persistantes",
+          "label_es": "Un árbol de hoja perenne",
+          "label_hr": "Zimzeleno drvo",
+          "label_cs": "Stálezelený strom",
+          "label_pl": "Wiecznie zielone drzewo",
+          "label_fi": "Ikivihreä puu",
+          "label_sk": "Vždyzelený strom",
+          "label_da": "Et stedsegrønt træ"
+        },
+        {
+          "id": "vine",
+          "label_en": "A climbing vine",
+          "label_de": "Eine Kletterpflanze",
+          "label_it": "Una vite rampicante",
+          "label_fr": "Une vigne grimpante",
+          "label_es": "Una enredadera",
+          "label_hr": "Loza penjačica",
+          "label_cs": "Popínavá liána",
+          "label_pl": "Wspinająca się winorośl",
+          "label_fi": "Kiipeävä viiniköynnös",
+          "label_sk": "Popínavý vinič",
+          "label_da": "En klatrende vinstok"
+        },
+        {
+          "id": "bush",
+          "label_en": "A small thorny bush",
+          "label_de": "Ein kleiner dorniger Busch",
+          "label_it": "Un piccolo cespuglio spinoso",
+          "label_fr": "Un petit buisson épineux",
+          "label_es": "Un pequeño arbusto espinoso",
+          "label_hr": "Mali trnoviti grm",
+          "label_cs": "Malý trnitý keř",
+          "label_pl": "Mały kolczasty krzak",
+          "label_fi": "Pieni piikikäs pensas",
+          "label_sk": "Malý tŕnitý krík",
+          "label_da": "En lille tornet busk"
+        }
+      ]
+    },
+    {
+      "id": "stone",
+      "correct": "stone",
+      "question_en": "What is in the middle of a mango?",
+      "question_de": "Was ist in der Mitte einer Mango?",
+      "question_it": "Cosa c'è nel mezzo di un mango?",
+      "question_fr": "Qu'y a-t-il au milieu d'une mangue ?",
+      "question_es": "¿Qué hay en medio de un mango?",
+      "question_hr": "Što je u sredini manga?",
+      "question_cs": "Co je uprostřed manga?",
+      "question_pl": "Co jest w środku mango?",
+      "question_fi": "Mitä on mangon keskellä?",
+      "question_sk": "Čo je uprostred manga?",
+      "question_da": "Hvad er der i midten af ​​en mango?",
+      "options": [
+        {
+          "id": "stone",
+          "label_en": "A large stone",
+          "label_de": "Ein großer Stein",
+          "label_it": "Una grande pietra",
+          "label_fr": "Une grosse pierre",
+          "label_es": "una piedra grande",
+          "label_hr": "Veliki kamen",
+          "label_cs": "Velký kámen",
+          "label_pl": "Duży kamień",
+          "label_fi": "Iso kivi",
+          "label_sk": "Veľký kameň",
+          "label_da": "En stor sten"
+        },
+        {
+          "id": "shell",
+          "label_en": "A hard shell",
+          "label_de": "Eine harte Schale",
+          "label_it": "Un guscio duro",
+          "label_fr": "Une coque dure",
+          "label_es": "Un caparazón duro",
+          "label_hr": "Tvrda ljuska",
+          "label_cs": "Tvrdá skořápka",
+          "label_pl": "Twarda skorupa",
+          "label_fi": "Kova kuori",
+          "label_sk": "Tvrdá škrupina",
+          "label_da": "En hård skal"
+        },
+        {
+          "id": "seeds",
+          "label_en": "Tiny seeds on the outside",
+          "label_de": "Außen winzige Samenkörner",
+          "label_it": "Piccoli semi all'esterno",
+          "label_fr": "De minuscules graines à l'extérieur",
+          "label_es": "Semillas diminutas en el exterior.",
+          "label_hr": "S vanjske strane sitne sjemenke",
+          "label_cs": "Drobná semínka na vnější straně",
+          "label_pl": "Na zewnątrz drobne nasiona",
+          "label_fi": "Ulkopuolella pieniä siemeniä",
+          "label_sk": "Zvonku drobné semienka",
+          "label_da": "Små frø udenpå"
+        }
+      ]
+    }
+  ]
+}

@@ -631,6 +631,27 @@
       "title_da": "Citroner"
     },
     {
+      "id": "mango",
+      "category_id": "food",
+      "symbol_id": "mango",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/mango/mango_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/mango/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 1867154,
+      "version": 1,
+      "title_en": "Mangoes",
+      "title_de": "Mangos",
+      "title_it": "Manghi",
+      "title_fr": "Mangues",
+      "title_es": "mangos",
+      "title_hr": "Mango",
+      "title_cs": "Mango",
+      "title_pl": "Mango",
+      "title_fi": "Mangot",
+      "title_sk": "Mango",
+      "title_da": "Mangoer"
+    },
+    {
       "id": "orange",
       "category_id": "food",
       "symbol_id": "orange",
