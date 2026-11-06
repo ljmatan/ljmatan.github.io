@@ -1,0 +1,293 @@
+{
+  "id": "zebra",
+  "category_id": "animals",
+  "symbol_id": "zebra",
+  "thumbnail": "zebra_thumb.webp",
+  "title_en": "Zebras",
+  "title_de": "Zebras",
+  "title_it": "Zebre",
+  "title_fr": "Zèbres",
+  "title_es": "cebras",
+  "title_hr": "Zebre",
+  "title_cs": "Zebry",
+  "title_pl": "Zebry",
+  "title_fi": "Seeprat",
+  "title_sk": "Zebry",
+  "title_da": "Zebraer",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about zebras. Zebras are wild members of the horse family, famous for their black and white stripes. They live in Africa and travel in herds across grasslands and savannas.",
+      "script_de": "Heute lernen wir etwas über Zebras. Zebras gehören zur Familie der Wildpferde und sind für ihre schwarz-weißen Streifen bekannt. Sie leben in Afrika und ziehen in Herden durch Grasland und Savannen.",
+      "script_it": "Oggi impareremo a conoscere le zebre. Le zebre sono membri selvaggi della famiglia dei cavalli, famosi per le loro strisce bianche e nere. Vivono in Africa e viaggiano in branchi attraverso praterie e savane.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur les zèbres. Les zèbres sont des membres sauvages de la famille des chevaux, célèbres pour leurs rayures noires et blanches. Ils vivent en Afrique et voyagent en troupeaux à travers les prairies et les savanes.",
+      "script_es": "Hoy vamos a aprender sobre las cebras. Las cebras son miembros salvajes de la familia de los caballos, famosos por sus rayas blancas y negras. Viven en África y viajan en manadas a través de pastizales y sabanas.",
+      "script_hr": "Danas ćemo učiti o zebrama. Zebre su divlji članovi obitelji konja, poznati po svojim crno-bijelim prugama. Žive u Africi i putuju u stadima preko travnjaka i savana.",
+      "script_cs": "Dnes se budeme učit o zebrách. Zebry jsou divocí členové rodiny koní, kteří jsou známí svými černobílými pruhy. Žijí v Africe a cestují ve stádech přes pastviny a savany.",
+      "script_pl": "Dziś będziemy uczyć się o zebrach. Zebry są dzikimi członkami rodziny koni, słynącymi z czarno-białych pasków. Żyją w Afryce i podróżują stadami po łąkach i sawannach.",
+      "script_fi": "Tänään opimme seeproista. Seeprat ovat hevosperheen villijäseniä, jotka ovat kuuluisia mustista ja valkoisista raidoistaan. He asuvat Afrikassa ja matkustavat laujoina niityillä ja savanneilla.",
+      "script_sk": "Dnes sa budeme učiť o zebrách. Zebry sú divokými členmi rodiny koní, ktoré sú známe svojimi čiernymi a bielymi pruhmi. Žijú v Afrike a cestujú v stádach cez pastviny a savany.",
+      "script_da": "I dag skal vi lære om zebraer. Zebraer er vilde medlemmer af hestefamilien, kendt for deres sorte og hvide striber. De bor i Afrika og rejser i flokke på tværs af græsarealer og savanner.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "habitat",
+      "script_en": "Zebras live in the grasslands and savannas of eastern and southern Africa. They share their home with wildebeest, giraffes, and many other animals. During the dry season, zebra herds travel long distances to find grass and water.",
+      "script_de": "Zebras leben in den Graslandschaften und Savannen Ost- und Südafrikas. Sie teilen ihr Zuhause mit Gnus, Giraffen und vielen anderen Tieren. Während der Trockenzeit legen Zebraherden weite Strecken zurück, um Gras und Wasser zu finden.",
+      "script_it": "Le zebre vivono nelle praterie e nelle savane dell'Africa orientale e meridionale. Condividono la loro casa con gnu, giraffe e molti altri animali. Durante la stagione secca, i branchi di zebre percorrono lunghe distanze per trovare erba e acqua.",
+      "script_fr": "Les zèbres vivent dans les prairies et les savanes d’Afrique orientale et australe. Ils partagent leur maison avec des gnous, des girafes et bien d’autres animaux. Pendant la saison sèche, les troupeaux de zèbres parcourent de longues distances pour trouver de l'herbe et de l'eau.",
+      "script_es": "Las cebras viven en las praderas y sabanas del este y sur de África. Comparten su hogar con ñus, jirafas y muchos otros animales. Durante la estación seca, las manadas de cebras viajan largas distancias para encontrar pasto y agua.",
+      "script_hr": "Zebre žive u travnjacima i savanama istočne i južne Afrike. Svoj dom dijele s gnuovima, žirafama i mnogim drugim životinjama. Tijekom sušne sezone krda zebri putuju na velike udaljenosti kako bi pronašla travu i vodu.",
+      "script_cs": "Zebry žijí na pastvinách a savanách východní a jižní Afriky. Sdílejí svůj domov s pakoněmi, žirafami a mnoha dalšími zvířaty. V období sucha stáda zeber cestují na velké vzdálenosti, aby našli trávu a vodu.",
+      "script_pl": "Zebry żyją na łąkach i sawannach Afryki Wschodniej i Południowej. Dzielą swój dom z gnu, żyrafami i wieloma innymi zwierzętami. W porze suchej stada zebr pokonują duże odległości w poszukiwaniu trawy i wody.",
+      "script_fi": "Seeprat elävät itäisen ja eteläisen Afrikan niityillä ja savanneilla. He jakavat kotinsa gnuun, kirahvien ja monien muiden eläinten kanssa. Kuivana vuodenaikana seepralaumat kulkevat pitkiä matkoja löytääkseen ruohoa ja vettä.",
+      "script_sk": "Zebry žijú na pastvinách a savanách východnej a južnej Afriky. Zdieľajú svoj domov s pakonemi, žirafami a mnohými ďalšími zvieratami. Počas obdobia sucha stáda zebier cestujú na veľké vzdialenosti, aby našli trávu a vodu.",
+      "script_da": "Zebraer lever i græsarealer og savanner i det østlige og sydlige Afrika. De deler deres hjem med gnuer, giraffer og mange andre dyr. I den tørre sæson rejser zebrabesætninger lange afstande for at finde græs og vand.",
+      "images": [
+        "habitat.webp",
+        "habitat_2.webp",
+        "habitat_3.webp"
+      ]
+    },
+    {
+      "id": "body",
+      "script_en": "Every zebra has its own stripe pattern, like a fingerprint. The stripes may help confuse biting flies or make it hard for predators to pick out one animal in a moving herd. Zebras also have strong hooves, keen eyes, and a short upright mane.",
+      "script_de": "Jedes Zebra hat sein eigenes Streifenmuster, wie ein Fingerabdruck. Die Streifen können beißende Fliegen verwirren oder es Raubtieren erschweren, ein Tier in einer sich bewegenden Herde zu erkennen. Zebras haben außerdem kräftige Hufe, scharfe Augen und eine kurze, aufrechte Mähne.",
+      "script_it": "Ogni zebra ha il proprio motivo a strisce, come un'impronta digitale. Le strisce possono aiutare a confondere le mosche che mordono o rendere difficile per i predatori individuare un animale in una mandria in movimento. Le zebre hanno anche zoccoli forti, occhi acuti e una criniera corta e verticale.",
+      "script_fr": "Chaque zèbre a son propre motif à rayures, comme une empreinte digitale. Les rayures peuvent aider à confondre les mouches piqueuses ou à empêcher les prédateurs de repérer un animal dans un troupeau en mouvement. Les zèbres ont également des sabots puissants, des yeux perçants et une crinière courte et dressée.",
+      "script_es": "Cada cebra tiene su propio patrón de rayas, como una huella digital. Las rayas pueden ayudar a confundir a las moscas que pican o dificultar que los depredadores detecten un animal en una manada en movimiento. Las cebras también tienen pezuñas fuertes, ojos penetrantes y una melena corta y erguida.",
+      "script_hr": "Svaka zebra ima svoj uzorak pruga, poput otiska prsta. Pruge mogu zbuniti muhe koje grizu ili otežati predatorima da odaberu jednu životinju u krdu koje se kreće. Zebre također imaju snažna kopita, oštre oči i kratku uspravnu grivu.",
+      "script_cs": "Každá zebra má svůj vlastní vzor pruhů, jako je otisk prstu. Pruhy mohou pomoci zmást kousavé mouchy nebo znesnadnit dravcům vybrat jedno zvíře v pohybujícím se stádu. Zebry mají také silná kopyta, bystré oči a krátkou vzpřímenou hřívu.",
+      "script_pl": "Każda zebra ma swój własny wzór pasków, jak odcisk palca. Paski mogą pomóc zmylić gryzące muchy lub utrudnić drapieżnikom wybranie jednego zwierzęcia w poruszającym się stadzie. Zebry mają również mocne kopyta, bystre oczy i krótką, wyprostowaną grzywę.",
+      "script_fi": "Jokaisella seepralla on oma raitakuvionsa, kuten sormenjälki. Raidat voivat hämmentää purevia kärpäsiä tai vaikeuttaa saalistajien poimia yhden eläimen liikkuvasta laumasta. Seeproilla on myös vahvat kaviot, terävät silmät ja lyhyt pystyharja.",
+      "script_sk": "Každá zebra má svoj vlastný vzor pruhov, ako je odtlačok prsta. Pruhy môžu pomôcť zmiasť hryzavé muchy alebo sťažiť predátorom vybrať si jedno zviera v pohybujúcom sa stáde. Zebry majú tiež silné kopytá, bystré oči a krátku vzpriamenú hrivu.",
+      "script_da": "Hver zebra har sit eget stribemønster, som et fingeraftryk. Striberne kan hjælpe med at forvirre bidende fluer eller gøre det svært for rovdyr at udvælge ét dyr i en bevægende flok. Zebraer har også stærke hove, skarpe øjne og en kort opretstående manke.",
+      "images": [
+        "body.webp",
+        "body_2.webp",
+        "body_3.webp"
+      ]
+    },
+    {
+      "id": "family",
+      "script_en": "Baby zebras are called foals. A newborn foal can stand and run within an hour, which helps it keep up with the herd. It stays close to its mother and drinks her milk, learning which grasses to eat and how to follow the group.",
+      "script_de": "Zebrababys werden Fohlen genannt. Ein neugeborenes Fohlen kann innerhalb einer Stunde stehen und rennen und so mit der Herde mithalten. Es bleibt in der Nähe seiner Mutter und trinkt ihre Milch, lernt dabei, welche Gräser es frisst und wie es der Gruppe folgen kann.",
+      "script_it": "I cuccioli di zebra sono chiamati puledri. Un puledro appena nato può alzarsi e correre entro un'ora, il che lo aiuta a tenere il passo con la mandria. Resta vicino alla madre e beve il suo latte, imparando quali erbe mangiare e come seguire il gruppo.",
+      "script_fr": "Les bébés zèbres sont appelés poulains. Un poulain nouveau-né peut se lever et courir en une heure, ce qui lui permet de suivre le troupeau. Il reste proche de sa mère et boit son lait, apprenant quelles herbes manger et comment suivre le groupe.",
+      "script_es": "Las crías de cebra se llaman potros. Un potro recién nacido puede pararse y correr en una hora, lo que le ayuda a seguir el ritmo de la manada. Permanece cerca de su madre y bebe su leche, aprendiendo qué hierbas comer y cómo seguir al grupo.",
+      "script_hr": "Bebe zebre nazivaju se ždrijebe. Novorođeno ždrijebe može stajati i trčati unutar sat vremena, što mu pomaže da drži korak sa stadom. Drži se uz majku i pije njezino mlijeko, uči koje trave treba jesti i kako slijediti skupinu.",
+      "script_cs": "Mláďata zeber se nazývají hříbata. Novorozené hříbě může stát a běhat do hodiny, což mu pomáhá držet krok se stádem. Zůstává blízko své matky a pije její mléko, učí se, které trávy jíst a jak následovat skupinu.",
+      "script_pl": "Małe zebry nazywane są źrebiętami. Nowo narodzony źrebię potrafi już w ciągu godziny wstać i biegać, co pomaga mu dotrzymać kroku stadzie. Pozostaje blisko matki i pije jej mleko, ucząc się, jakie trawy jeść i jak podążać za grupą.",
+      "script_fi": "Seepravauvoja kutsutaan varsoiksi. Vastasyntynyt varsa pystyy seisomaan ja juoksemaan tunnissa, mikä auttaa sitä pysymään lauman perässä. Se pysyy lähellä äitiään ja juo sen maitoa, oppien mitä ruohoa syödä ja miten seurata ryhmää.",
+      "script_sk": "Mláďatá zebry sa nazývajú žriebätá. Novonarodené žriebä sa dokáže postaviť a utiecť do hodiny, čo mu pomáha držať krok so stádom. Zostáva blízko svojej matky a pije jej mlieko, učí sa, ktoré trávy má jesť a ako nasledovať skupinu.",
+      "script_da": "Babyzebraer kaldes føl. Et nyfødt føl kan stå og løbe inden for en time, hvilket hjælper det med at følge med i flokken. Den forbliver tæt på sin mor og drikker sin mælk og lærer, hvilke græsser den skal spise, og hvordan den skal følge gruppen.",
+      "images": [
+        "family.webp",
+        "family_2.webp",
+        "family_3.webp"
+      ]
+    },
+    {
+      "id": "life_today",
+      "script_en": "Today zebras face losing their grassland homes to farms and roads. National parks and wildlife reserves help protect them, and careful tourism supports that work. A herd of zebras moving together across the savanna is one of Africa's most beautiful sights.",
+      "script_de": "Heute stehen Zebras vor dem Verlust ihrer Graslandbehausung durch Bauernhöfe und Straßen. Nationalparks und Wildreservate helfen, sie zu schützen, und sorgfältiger Tourismus unterstützt diese Arbeit. Eine Zebraherde, die gemeinsam durch die Savanne zieht, ist einer der schönsten Anblicke Afrikas.",
+      "script_it": "Oggi le zebre rischiano di perdere le loro praterie a favore di fattorie e strade. I parchi nazionali e le riserve naturali aiutano a proteggerli e un turismo attento sostiene questo lavoro. Un branco di zebre che si muove insieme nella savana è uno degli spettacoli più belli dell'Africa.",
+      "script_fr": "Aujourd’hui, les zèbres risquent de perdre leurs habitats dans les prairies au profit des fermes et des routes. Les parcs nationaux et les réserves fauniques contribuent à leur protection, et un tourisme attentif soutient ce travail. Un troupeau de zèbres se déplaçant ensemble à travers la savane est l'un des plus beaux spectacles d'Afrique.",
+      "script_es": "Hoy en día, las cebras se enfrentan a la pérdida de sus pastizales debido a granjas y carreteras. Los parques nacionales y las reservas de vida silvestre ayudan a protegerlos, y el turismo cuidadoso respalda ese trabajo. Una manada de cebras moviéndose juntas por la sabana es una de las vistas más hermosas de África.",
+      "script_hr": "Danas se zebre suočavaju s gubitkom svojih domova na travnjacima zbog farmi i cesta. Nacionalni parkovi i rezervati divljih životinja pomažu im u zaštiti, a oprezni turizam podupire taj rad. Krdo zebri koje se zajedno kreću savanom jedan je od najljepših afričkih prizora.",
+      "script_cs": "Dnes se zebry potýkají s tím, že přijdou o své travnaté domovy kvůli farmám a silnicím. Národní parky a rezervace divoké zvěře je pomáhají chránit a pečlivý turismus to podporuje. Stádo zeber pohybující se společně po savaně je jednou z nejkrásnějších památek Afriky.",
+      "script_pl": "Obecnie zebry stoją w obliczu utraty swoich domów na użytkach zielonych na rzecz gospodarstw i dróg. Parki narodowe i rezerwaty dzikiej przyrody pomagają je chronić, a uważna turystyka wspiera to działanie. Stado zebr poruszające się razem po sawannie to jeden z najpiękniejszych widoków Afryki.",
+      "script_fi": "Nykyään seeprat joutuvat menettämään niittyjen kotinsa maatiloille ja teille. Kansallispuistot ja luonnonsuojelualueet auttavat suojelemaan niitä, ja huolellinen matkailu tukee sitä. Savannilla yhdessä liikkuva seepralauma on yksi Afrikan kauneimmista nähtävyyksistä.",
+      "script_sk": "Dnes zebry čelia tomu, že o svoje trávne porasty prídu farmy a cesty. Národné parky a prírodné rezervácie ich pomáhajú chrániť a starostlivý turizmus to podporuje. Stádo zebier, ktoré sa spoločne pohybuje po savane, je jednou z najkrajších pamiatok Afriky.",
+      "script_da": "I dag står zebraer over for at miste deres græsarealer til gårde og veje. Nationalparker og dyrereservater hjælper med at beskytte dem, og omhyggelig turisme understøtter dette arbejde. En flok zebraer, der bevæger sig sammen over savannen, er en af ​​Afrikas smukkeste seværdigheder.",
+      "images": [
+        "life_today.webp",
+        "life_today_2.webp",
+        "life_today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "stripes",
+      "correct": "unique",
+      "question_en": "What is special about a zebra's stripes?",
+      "question_de": "Was ist das Besondere an den Streifen eines Zebras?",
+      "question_it": "Cosa hanno di speciale le strisce di una zebra?",
+      "question_fr": "Quelle est la particularité des rayures d'un zèbre ?",
+      "question_es": "¿Qué tienen de especial las rayas de una cebra?",
+      "question_hr": "Što je posebno kod zebrinih pruga?",
+      "question_cs": "Co je zvláštního na pruhech zebry?",
+      "question_pl": "Co jest specjalnego w paskach zebry?",
+      "question_fi": "Mitä erikoista seepran raidoissa on?",
+      "question_sk": "Čo je zvláštne na pruhoch zebry?",
+      "question_da": "Hvad er specielt ved en zebras striber?",
+      "options": [
+        {
+          "id": "unique",
+          "label_en": "Every zebra's pattern is different",
+          "label_de": "Das Muster jedes Zebras ist anders",
+          "label_it": "Il modello di ogni zebra è diverso",
+          "label_fr": "Le motif de chaque zèbre est différent",
+          "label_es": "El patrón de cada cebra es diferente.",
+          "label_hr": "Šare svake zebre su drugačije",
+          "label_cs": "Vzor každé zebry je jiný",
+          "label_pl": "Wzór każdej zebry jest inny",
+          "label_fi": "Jokaisen seepran kuvio on erilainen",
+          "label_sk": "Vzor každej zebry je iný",
+          "label_da": "Hver zebras mønster er forskelligt"
+        },
+        {
+          "id": "same",
+          "label_en": "All zebras share one pattern",
+          "label_de": "Alle Zebras haben ein gemeinsames Muster",
+          "label_it": "Tutte le zebre condividono uno schema",
+          "label_fr": "Tous les zèbres partagent un même motif",
+          "label_es": "Todas las cebras comparten un patrón",
+          "label_hr": "Sve zebre dijele isti uzorak",
+          "label_cs": "Všechny zebry sdílejí jeden vzor",
+          "label_pl": "Wszystkie zebry mają jeden wzór",
+          "label_fi": "Kaikilla seeproilla on yksi kuvio",
+          "label_sk": "Všetky zebry zdieľajú jeden vzor",
+          "label_da": "Alle zebraer deler ét mønster"
+        },
+        {
+          "id": "glow",
+          "label_en": "They glow at night",
+          "label_de": "Sie leuchten nachts",
+          "label_it": "Brillano di notte",
+          "label_fr": "Ils brillent la nuit",
+          "label_es": "Brillan por la noche",
+          "label_hr": "Noću svijetle",
+          "label_cs": "V noci svítí",
+          "label_pl": "Świecą w nocy",
+          "label_fi": "Ne hehkuvat yöllä",
+          "label_sk": "V noci svietia",
+          "label_da": "De lyser om natten"
+        }
+      ]
+    },
+    {
+      "id": "baby",
+      "correct": "foal",
+      "question_en": "What is a baby zebra called?",
+      "question_de": "Wie heißt ein Zebrababy?",
+      "question_it": "Come si chiama un cucciolo di zebra?",
+      "question_fr": "Comment s’appelle un bébé zèbre ?",
+      "question_es": "¿Cómo se llama una cría de cebra?",
+      "question_hr": "Kako se zove beba zebra?",
+      "question_cs": "Jak se nazývá mládě zebry?",
+      "question_pl": "Jak nazywa się mała zebra?",
+      "question_fi": "Mikä on seepravauvan nimi?",
+      "question_sk": "Ako sa volá mláďa zebry?",
+      "question_da": "Hvad hedder en babyzebra?",
+      "options": [
+        {
+          "id": "foal",
+          "label_en": "A foal",
+          "label_de": "Ein Fohlen",
+          "label_it": "Un puledro",
+          "label_fr": "Un poulain",
+          "label_es": "un potro",
+          "label_hr": "Ždrijebe",
+          "label_cs": "Hříbě",
+          "label_pl": "Źrebię",
+          "label_fi": "Varsa",
+          "label_sk": "Žriebätko",
+          "label_da": "Et føl"
+        },
+        {
+          "id": "cub",
+          "label_en": "A cub",
+          "label_de": "Ein Junges",
+          "label_it": "Un cucciolo",
+          "label_fr": "Un petit",
+          "label_es": "un cachorro",
+          "label_hr": "Mladunče",
+          "label_cs": "mládě",
+          "label_pl": "Młode",
+          "label_fi": "Pentu",
+          "label_sk": "Mláďa",
+          "label_da": "En unge"
+        },
+        {
+          "id": "lamb",
+          "label_en": "A lamb",
+          "label_de": "Ein Lamm",
+          "label_it": "Un agnello",
+          "label_fr": "Un agneau",
+          "label_es": "un cordero",
+          "label_hr": "Janjetina",
+          "label_cs": "Jehně",
+          "label_pl": "Baranek",
+          "label_fi": "Karitsa",
+          "label_sk": "Baránok",
+          "label_da": "Et lam"
+        }
+      ]
+    },
+    {
+      "id": "home",
+      "correct": "africa",
+      "question_en": "On which continent do zebras live in the wild?",
+      "question_de": "Auf welchem ​​Kontinent leben Zebras in freier Wildbahn?",
+      "question_it": "In quale continente vivono le zebre allo stato brado?",
+      "question_fr": "Sur quel continent vivent les zèbres à l’état sauvage ?",
+      "question_es": "¿En qué continente viven las cebras en estado salvaje?",
+      "question_hr": "Na kojem kontinentu žive zebre u divljini?",
+      "question_cs": "Na kterém kontinentu žijí zebry ve volné přírodě?",
+      "question_pl": "Na jakim kontynencie żyją zebry na wolności?",
+      "question_fi": "Millä mantereella seeprat elävät luonnossa?",
+      "question_sk": "Na ktorom kontinente žijú zebry vo voľnej prírode?",
+      "question_da": "På hvilket kontinent lever zebraer i naturen?",
+      "options": [
+        {
+          "id": "africa",
+          "label_en": "Africa",
+          "label_de": "Afrika",
+          "label_it": "Africa",
+          "label_fr": "Afrique",
+          "label_es": "África",
+          "label_hr": "Afrika",
+          "label_cs": "Afrika",
+          "label_pl": "Afryka",
+          "label_fi": "Afrikka",
+          "label_sk": "Afriky",
+          "label_da": "Afrika"
+        },
+        {
+          "id": "asia",
+          "label_en": "Asia",
+          "label_de": "Asien",
+          "label_it": "Asia",
+          "label_fr": "Asie",
+          "label_es": "Asia",
+          "label_hr": "Azija",
+          "label_cs": "Asie",
+          "label_pl": "Azja",
+          "label_fi": "Aasia",
+          "label_sk": "Ázie",
+          "label_da": "Asien"
+        },
+        {
+          "id": "australia",
+          "label_en": "Australia",
+          "label_de": "Australien",
+          "label_it": "Australia",
+          "label_fr": "Australie",
+          "label_es": "Australia",
+          "label_hr": "Australija",
+          "label_cs": "Austrálie",
+          "label_pl": "Australia",
+          "label_fi": "Australia",
+          "label_sk": "Austrália",
+          "label_da": "Australien"
+        }
+      ]
+    }
+  ]
+}

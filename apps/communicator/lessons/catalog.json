@@ -463,6 +463,27 @@
       "title_da": "hvaler"
     },
     {
+      "id": "zebra",
+      "category_id": "animals",
+      "symbol_id": "zebra",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/zebra/zebra_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/zebra/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2720136,
+      "version": 1,
+      "title_en": "Zebras",
+      "title_de": "Zebras",
+      "title_it": "Zebre",
+      "title_fr": "Zèbres",
+      "title_es": "cebras",
+      "title_hr": "Zebre",
+      "title_cs": "Zebry",
+      "title_pl": "Zebry",
+      "title_fi": "Seeprat",
+      "title_sk": "Zebry",
+      "title_da": "Zebraer"
+    },
+    {
       "id": "apple",
       "category_id": "food",
       "symbol_id": "apple",
