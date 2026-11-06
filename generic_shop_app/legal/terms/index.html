@@ -3,7 +3,7 @@
 </style></head> <body>  <header class="nav"> <div class="nav-inner"> <a href="/generic_shop_app/" class="nav-logo"> <span class="logo-bubble">💬</span>
 Sono AAC
 </a> <nav class="nav-links" id="nav-links"> <a href="/generic_shop_app/#features">Features</a> <a href="/generic_shop_app/#lessons">Lessons</a> <a href="/generic_shop_app/#audience">Who it&#39;s for</a> <a href="/generic_shop_app/#voices">Voices</a> <a href="/generic_shop_app/#guide">Guide</a> <a href="/generic_shop_app/#privacy">Privacy</a> <a href="/generic_shop_app/#support">Support</a> <a href="/generic_shop_app/#download" class="btn-nav-cta">Get the app</a> </nav> <div class="lang-picker" id="lang-picker"> <button class="lang-btn" id="lang-btn" aria-haspopup="listbox" aria-expanded="false" aria-label="Select language"> <span id="lang-flag">🇬🇧</span> <span id="lang-code">EN</span> <svg class="lang-chevron" width="10" height="10" viewBox="0 0 10 10" fill="none" aria-hidden="true"> <path d="M1.5 3.5L5 7L8.5 3.5" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"></path> </svg> </button> <ul class="lang-dropdown" id="lang-dropdown" role="listbox" aria-label="Select language"> <li role="option" data-lang="en" class="active" aria-selected="true" tabindex="0"> <a href="/generic_shop_app/" class="lang-link"> <span class="li-flag">🇬🇧</span> <span class="li-label">English</span> <span class="li-code">EN</span> </a> </li><li role="option" data-lang="de" aria-selected="false" tabindex="-1"> <a href="/generic_shop_app/de/" class="lang-link"> <span class="li-flag">🇩🇪</span> <span class="li-label">Deutsch</span> <span class="li-code">DE</span> </a> </li><li role="option" data-lang="it" aria-selected="false" tabindex="-1"> <a href="/generic_shop_app/it/" class="lang-link"> <span class="li-flag">🇮🇹</span> <span class="li-label">Italiano</span> <span class="li-code">IT</span> </a> </li><li role="option" data-lang="fr" aria-selected="false" tabindex="-1"> <a href="/generic_shop_app/fr/" class="lang-link"> <span class="li-flag">🇫🇷</span> <span class="li-label">Français</span> <span class="li-code">FR</span> </a> </li><li role="option" data-lang="es" aria-selected="false" tabindex="-1"> <a href="/generic_shop_app/es/" class="lang-link"> <span class="li-flag">🇪🇸</span> <span class="li-label">Español</span> <span class="li-code">ES</span> </a> </li><li role="option" data-lang="hr" aria-selected="false" tabindex="-1"> <a href="/generic_shop_app/hr/" class="lang-link"> <span class="li-flag">🇭🇷</span> <span class="li-label">Hrvatski</span> <span class="li-code">HR</span> </a> </li><li role="option" data-lang="cs" aria-selected="false" tabindex="-1"> <a href="/generic_shop_app/cs/" class="lang-link"> <span class="li-flag">🇨🇿</span> <span class="li-label">Čeština</span> <span class="li-code">CS</span> </a> </li><li role="option" data-lang="pl" aria-selected="false" tabindex="-1"> <a href="/generic_shop_app/pl/" class="lang-link"> <span class="li-flag">🇵🇱</span> <span class="li-label">Polski</span> <span class="li-code">PL</span> </a> </li><li role="option" data-lang="fi" aria-selected="false" tabindex="-1"> <a href="/generic_shop_app/fi/" class="lang-link"> <span class="li-flag">🇫🇮</span> <span class="li-label">Suomi</span> <span class="li-code">FI</span> </a> </li><li role="option" data-lang="sk" aria-selected="false" tabindex="-1"> <a href="/generic_shop_app/sk/" class="lang-link"> <span class="li-flag">🇸🇰</span> <span class="li-label">Slovenčina</span> <span class="li-code">SK</span> </a> </li><li role="option" data-lang="da" aria-selected="false" tabindex="-1"> <a href="/generic_shop_app/da/" class="lang-link"> <span class="li-flag">🇩🇰</span> <span class="li-label">Dansk</span> <span class="li-code">DA</span> </a> </li> </ul> </div> <button class="hamburger" id="hamburger" aria-label="Toggle navigation" aria-expanded="false"> <span></span><span></span><span></span> </button> </div> </header> <main class="legal-page" data-astro-cid-m7mnfkc2> <section class="section" data-astro-cid-m7mnfkc2> <div class="section-inner legal-inner" data-astro-cid-m7mnfkc2> <a href="/generic_shop_app/" class="back-link" data-astro-cid-m7mnfkc2>← Back to home</a> <article class="legal-content" data-astro-cid-m7mnfkc2> <h1 id="terms-and-conditions--sono-aac-communicator">Terms and Conditions — Sono AAC Communicator</h1>
-<p><strong>Last updated: 18 May 2026</strong></p>
+<p><strong>Last updated: 25 May 2026</strong></p>
 <hr>
 <h2 id="1-introduction">1. Introduction</h2>
 <p>These Terms and Conditions (“Terms”) govern your use of the Sono mobile application (“the App”), made available by:</p>
@@ -25,10 +25,12 @@ Sono AAC
 <li>A customisable symbol board with hundreds of illustrated categories and vocabulary items.</li>
 <li>A sentence strip for composing multi-symbol messages.</li>
 <li>Text-to-speech output using either offline voice models (downloaded on request) or the device’s built-in voice service.</li>
-<li>Local rule-based sentence polishing.</li>
+<li>Sentence suggestions powered by a deterministic local rule-based engine. Some builds of the App additionally expose a “Bring Your Own Model” path that allows the caretaker to import a GGUF-format language model file and use it locally for sentence suggestions (see Section 8 and Section 11). <strong>No language model is bundled with the App.</strong></li>
+<li>An optional learning area with lessons. Where the build is configured with a remote lessons backend, the App fetches lesson catalog, lesson content, and scene images from that backend over HTTPS and caches them locally for offline replay; otherwise only bundled lessons are available (see Section 8.2 and the Privacy Policy).</li>
+<li>A caretaker-initiated backup feature that exports caretaker-managed content (custom symbols, custom photos, custom voice recordings, hidden items, quick phrases, and configuration) as a <code>.sonobkp</code> archive, and a corresponding import feature (see Section 8.3).</li>
 <li>Caretaker settings for personalising symbols, photos, voice recordings, preferred voice, grid layout, and board behaviour.</li>
 </ul>
-<p>The App is a <strong>communication tool</strong>. It is not a substitute for qualified educational support, professional guidance, or any other formal service. The caretaker and the user are responsible for determining how the App fits into the user’s broader communication and learning approach.</p>
+<p>The App is a <strong>communication tool</strong>. It is not a substitute for qualified educational support, professional guidance, medical advice, or any other formal service. The caretaker and the user are responsible for determining how the App fits into the user’s broader communication and learning approach.</p>
 <hr>
 <h2 id="4-licence-to-use">4. Licence to Use</h2>
 <p>Subject to these Terms, we grant you a limited, non-exclusive, non-transferable, revocable licence to install and use the App on devices you own or control, for personal, non-commercial purposes.</p>
@@ -68,9 +70,28 @@ Sono AAC
 </ul>
 <p>Custom content and media are stored only on the device and are never transmitted to us by the App. We have no access to, and no responsibility for, any custom content or media you add to the App.</p>
 <hr>
-<h2 id="8-optional-voice-model-downloads">8. Optional Voice Model Downloads</h2>
-<p>The App can optionally download offline voice synthesis models from GitHub / Sherpa-ONNX. By using this download feature, you also agree to the terms of the relevant third-party services. We do not host these files and are not responsible for their availability or content.</p>
-<p>Downloaded model files are licensed under the terms of their respective upstream projects and are subject to change by those projects independently of the App.</p>
+<h2 id="8-optional-downloads-imports-lessons-and-backups">8. Optional Downloads, Imports, Lessons, and Backups</h2>
+<h3 id="81-optional-model-and-voice-downloads">8.1 Optional model and voice downloads</h3>
+<p>The App can optionally download or import three kinds of file at the caretaker’s request:</p>
+<ul>
+<li><strong>Offline voice synthesis models</strong> from the Sherpa-ONNX project on GitHub (<code>github.com</code>);</li>
+<li><strong>Caretaker-imported voice files</strong> for the “Bring Your Own Voice” feature, fetched over HTTPS from a URL or selected from device storage by the caretaker;</li>
+<li><strong>On-device language model files</strong> in GGUF format, where the build exposes the “Bring Your Own Model” path for the Smart Sentences feature. The caretaker selects the source — typically a model repository or institutional URL — and imports the file from device storage or fetches it from the URL.</li>
+</ul>
+<p>By using any of these download or import features, you also agree to the terms and licences of the relevant third-party services and the upstream projects that publish each file. <strong>No on-device language model is bundled with the App.</strong> We do not host these files (other than where explicitly stated) and are not responsible for their availability, content, accuracy, behaviour, or licensing status. The caretaker is responsible for ensuring that any model or voice file selected, downloaded, or imported is permitted for the intended use under its licence and under applicable law.</p>
+<p>Downloaded or imported files remain subject to the licences of their respective upstream projects, which may change independently of the App. The open-source notices and licence texts for components that are actually bundled with the App are listed in the App’s “Licences” screen and reflect the current dependencies (such as <code>sherpa_onnx</code>, <code>flutter_tts</code>, <code>audioplayers</code>, <code>archive</code>, <code>image_picker</code>, <code>share_plus</code>, <code>file_picker</code>, <code>pdf</code>, <code>printing</code>, <code>wakelock_plus</code>, and <code>record</code>). Where this document mentions third-party AAC, AI, or speech components, those references describe components the caretaker may obtain and use with the App, not components bundled with the App, unless the App’s “Licences” screen specifically lists them as bundled.</p>
+<h3 id="82-remote-lessons-where-configured">8.2 Remote lessons (where configured)</h3>
+<p>The App fetches the lesson catalog, individual lesson JSON files and scene images over HTTPS from its configured lessons media host (the default is <code>https://ljmatan.github.io/apps/communicator</code>; builds may override it at compile time with <code>GCM_LESSONS_BASE_URL</code>) when the user opens the Learning area. Downloaded lesson content is cached locally for offline replay, and lesson progress is stored locally on the device.</p>
+<p>The operator of the configured lessons backend is identified in the build configuration and acts as an independent controller for any request metadata. Lesson content delivered by the backend is governed by the terms and acceptable-use rules of that operator, in addition to these Terms. Where a build is not configured with a lessons backend, only bundled lessons are available and no remote lesson fetches occur.</p>
+<h3 id="83-backup-export-and-import">8.3 Backup, export, and import</h3>
+<p>The App includes a caretaker-initiated backup feature that bundles caretaker-managed JSON entries and custom media files into a <code>.sonobkp</code> archive, and a corresponding import feature that restores those entries on the device. The contents and storage location of the archive are described in Section 17 of the Privacy Policy.</p>
+<p>By using the backup feature, the caretaker agrees that:</p>
+<ul>
+<li>They have the necessary rights and consents (as required under Section 7) for any custom photos, voice recordings, or other custom content included in the archive, including media that may identify other people;</li>
+<li>The archive contains data that may identify the user or third parties; the caretaker is responsible for protecting the archive in transit and at rest, restricting access to it appropriately, and deleting it when it is no longer needed;</li>
+<li>Importing an archive overwrites the corresponding caretaker-managed entries and replaces matching custom media files on the device, and that this is the intended behaviour;</li>
+<li>We do not retain, host, or process the archive on our infrastructure, and we cannot recover an archive that has been lost or that the caretaker has overwritten.</li>
+</ul>
 <hr>
 <h2 id="9-intellectual-property">9. Intellectual Property</h2>
 <p><strong>App and built-in content:</strong> All rights in the App, including its code, design, symbol artwork, and built-in language content, are owned by us or our licensors. Nothing in these Terms transfers any intellectual property rights to you.</p>
@@ -81,28 +102,43 @@ Sono AAC
 <h2 id="10-app-updates">10. App Updates</h2>
 <p>We may release updates to the App from time to time to add features, fix issues, or address security concerns. We recommend keeping the App updated to the latest available version. We may cease supporting older versions of the App without notice.</p>
 <hr>
-<h2 id="11-disclaimer-of-warranties">11. Disclaimer of Warranties</h2>
+<h2 id="11-disclaimer-of-warranties-ai-generated-output-use-in-critical-situations">11. Disclaimer of Warranties; AI-Generated Output; Use in Critical Situations</h2>
 <p><strong>The App is provided “as is” and “as available”.</strong> To the fullest extent permitted by applicable law, we disclaim all warranties, express or implied, including but not limited to:</p>
 <ul>
 <li>Warranties of merchantability, fitness for a particular purpose, or non-infringement;</li>
 <li>Any warranty that the App will be uninterrupted, error-free, or free of harmful components;</li>
-<li>Any warranty that the App’s text-to-speech or sentence-polishing features will produce perfect or contextually appropriate output in all cases.</li>
+<li>Any warranty that the App’s text-to-speech, sentence-polishing, or Smart Sentences features will produce perfect, accurate, or contextually appropriate output in all cases.</li>
 </ul>
-<p>We do not warrant that the App is suitable for any particular individual’s communication needs. Caretakers are responsible for evaluating the App’s suitability and for any decisions made on the basis of the App’s output.</p>
+<p><strong>AI-generated output (Smart Sentences):</strong> Where the “Bring Your Own Model” path is available and the caretaker has imported and enabled a model, sentence suggestions are produced by an on-device language model supplied by the caretaker. Such suggestions:</p>
+<ul>
+<li>Are generated by an AI system and may be inaccurate, incomplete, biased, ambiguous, or otherwise fail to reflect what the user actually intends to communicate. The behaviour of any caretaker-supplied model is the responsibility of that model’s upstream provider; we do not select, validate, or train any such model.</li>
+<li>Are intended as suggestions for the caretaker and user to review, accept, edit, or reject — <strong>never</strong> as a substitute for the user’s own expression. Caretakers are strongly encouraged to confirm with the user, by whatever means are available, that any suggestion accepted on the user’s behalf accurately reflects the user’s intent.</li>
+<li>Must not be relied on as the user’s authentic statement in any setting where the content of the statement carries legal, medical, financial, contractual, or similarly significant consequences.</li>
+</ul>
+<p><strong>Use in critical communication situations:</strong> The App is a communication aid, not an emergency communication system. The App must not be relied upon for:</p>
+<ul>
+<li>Emergency, life-safety, or medical-emergency communication (e.g., calling for help, reporting an injury, communicating with first responders, conveying time-critical clinical information);</li>
+<li>Communication of legally significant statements, consents, refusals, or instructions (e.g., medical consent or refusal, legal declarations, contractual agreements);</li>
+<li>Any situation where a misunderstood or AI-altered message could result in harm to the user or to another person.</li>
+</ul>
+<p>Caretakers should ensure that an alternative, reliable means of communication is available to the user for these situations, and should not configure the App so that emergency communication depends on AI-generated suggestions. The App should, where practical, present in-app reminders of these limitations at points where the user is about to send a sentence in a context that the App can detect as potentially critical (for example when Smart Sentences is enabled). The text of these Terms is not a substitute for such reminders, but the reminders are not a substitute for these Terms either.</p>
+<p>We do not warrant that the App is suitable for any particular individual’s communication needs. The App is <strong>not a medical device</strong> and is not certified as an assistive technology product under any specific regulatory regime. Caretakers are responsible for evaluating the App’s suitability, for involving qualified professionals where appropriate (such as speech and language therapists or other AAC specialists), for supervising the App’s use where appropriate, and for any decisions made on the basis of the App’s output, including AI-generated sentence suggestions.</p>
 <hr>
 <h2 id="12-limitation-of-liability">12. Limitation of Liability</h2>
 <p>To the fullest extent permitted by applicable law, we shall not be liable for any:</p>
 <ul>
 <li>Indirect, incidental, special, consequential, or punitive damages;</li>
 <li>Loss of data, loss of opportunity, or loss of goodwill;</li>
-<li>Damages arising from reliance on the App’s output, including text-to-speech output, custom recordings, or sentence-polished content;</li>
-<li>Damages arising from the unavailability of optional download services (GitHub / Sherpa-ONNX).</li>
+<li>Damages arising from reliance on the App’s output, including text-to-speech output, custom recordings, rule-based sentence polishing, or AI-generated suggestions produced by the Smart Sentences feature;</li>
+<li>Damages arising from use of the App in any situation expressly disclaimed in Section 11 (including emergency, medical-emergency, or legally significant communication);</li>
+<li>Damages arising from the unavailability of optional download services (such as GitHub, the Sherpa-ONNX project, or any host the caretaker selects for a model or voice file), from the content, licensing, or behaviour of any model or voice file the caretaker chooses to download or import, or from the configured remote lessons backend (where applicable);</li>
+<li>Loss, corruption, unauthorised disclosure, or unintended overwriting of caretaker-managed data resulting from the caretaker’s use of the backup export, import, or restore feature, including loss caused by losing access to a <code>.sonobkp</code> archive the caretaker has stored outside the App.</li>
 </ul>
 <p>Where applicable law does not permit the exclusion or limitation of liability for certain types of loss (for example, personal injury or consumer protection rights), those limitations do not apply to that type of loss.</p>
 <p><strong>Consumer rights:</strong> Nothing in these Terms limits any statutory rights you have as a consumer under applicable law, including rights under the EU Consumer Rights Directive and national consumer protection legislation.</p>
 <hr>
 <h2 id="13-third-party-services">13. Third-Party Services</h2>
-<p>The App may require interaction with third-party services (GitHub, Apple App Store, Google Play Store, device TTS services, and externally hosted legal documents). These services are governed solely by their own terms and privacy policies. We are not responsible for the availability, accuracy, or privacy practices of these services.</p>
+<p>The App may require interaction with third-party services, which may include GitHub (for offline voice model archives and for hosting legal documents on GitHub Pages), any host the caretaker selects for an on-device language model file or caretaker-imported voice file, the operator of the configured remote lessons backend (where applicable), the Apple App Store, the Google Play Store, and device-level text-to-speech services. These services are governed solely by their own terms and privacy policies. We are not responsible for the availability, accuracy, content, licensing terms, or privacy practices of these services or of any model, voice, lesson, or legal document obtained through them.</p>
 <hr>
 <h2 id="14-governing-law-and-jurisdiction">14. Governing Law and Jurisdiction</h2>
 <p>These Terms are governed by the laws of the <strong>Republic of Croatia</strong>. Any disputes arising under these Terms shall be subject to the exclusive jurisdiction of the courts of Croatia, except where applicable consumer protection law provides you with a right to bring proceedings in the courts of your country of residence.</p>
