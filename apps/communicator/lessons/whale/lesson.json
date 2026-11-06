@@ -1,0 +1,293 @@
+{
+  "id": "whale",
+  "category_id": "animals",
+  "symbol_id": "whale",
+  "thumbnail": "whale_thumb.webp",
+  "title_en": "Whales",
+  "title_de": "Wale",
+  "title_it": "Balene",
+  "title_fr": "Baleines",
+  "title_es": "ballenas",
+  "title_hr": "kitovi",
+  "title_cs": "Velryby",
+  "title_pl": "Wieloryby",
+  "title_fi": "Valaat",
+  "title_sk": "Veľryby",
+  "title_da": "hvaler",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about whales. Whales are huge mammals that live in the ocean. They breathe air through a blowhole and can travel enormous distances through the sea.",
+      "script_de": "Heute werden wir etwas über Wale lernen. Wale sind riesige Säugetiere, die im Meer leben. Sie atmen Luft durch ein Blasloch und können enorme Distanzen durch das Meer zurücklegen.",
+      "script_it": "Oggi impareremo a conoscere le balene. Le balene sono enormi mammiferi che vivono nell'oceano. Respirano aria attraverso uno sfiatatoio e possono percorrere enormi distanze attraverso il mare.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur les baleines. Les baleines sont d'énormes mammifères qui vivent dans l'océan. Ils respirent de l'air par un évent et peuvent parcourir d'énormes distances à travers la mer.",
+      "script_es": "Hoy vamos a aprender sobre las ballenas. Las ballenas son enormes mamíferos que viven en el océano. Respiran aire a través de un espiráculo y pueden viajar enormes distancias a través del mar.",
+      "script_hr": "Danas ćemo učiti o kitovima. Kitovi su ogromni sisavci koji žive u oceanu. Oni udišu zrak kroz otvor za puhanje i mogu putovati goleme udaljenosti kroz more.",
+      "script_cs": "Dnes se budeme učit o velrybách. Velryby jsou velcí savci, kteří žijí v oceánu. Dýchají vzduch dmychadlem a mohou urazit obrovské vzdálenosti přes moře.",
+      "script_pl": "Dzisiaj będziemy uczyć się o wielorybach. Wieloryby to ogromne ssaki żyjące w oceanie. Wdychają powietrze przez otwór wentylacyjny i mogą pokonywać ogromne odległości przez morze.",
+      "script_fi": "Tänään opimme valaista. Valaat ovat valtavia nisäkkäitä, jotka elävät valtameressä. Ne hengittävät ilmaa puhallusreiän kautta ja voivat kulkea valtavia matkoja meren läpi.",
+      "script_sk": "Dnes sa budeme učiť o veľrybách. Veľryby sú obrovské cicavce, ktoré žijú v oceáne. Dýchajú vzduch fúkacou dierkou a môžu prejsť cez more na obrovské vzdialenosti.",
+      "script_da": "I dag skal vi lære om hvaler. Hvaler er enorme pattedyr, der lever i havet. De indånder luft gennem et blæsehul og kan rejse enorme afstande gennem havet.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "habitat",
+      "script_en": "Whales live in every ocean, from icy polar waters to warm tropical seas. Some stay in one region, while others migrate thousands of kilometres each year. They come to the surface to breathe and dive deep to find food.",
+      "script_de": "Wale leben in allen Ozeanen, von eisigen Polargewässern bis hin zu warmen tropischen Meeren. Manche bleiben in einer Region, während andere jedes Jahr Tausende von Kilometern zurücklegen. Sie kommen zum Atmen an die Oberfläche und tauchen tief, um Nahrung zu finden.",
+      "script_it": "Le balene vivono in ogni oceano, dalle gelide acque polari ai caldi mari tropicali. Alcuni rimangono in una regione, mentre altri migrano per migliaia di chilometri ogni anno. Vengono in superficie per respirare e si immergono in profondità per trovare cibo.",
+      "script_fr": "Les baleines vivent dans tous les océans, des eaux polaires glacées aux mers tropicales chaudes. Certains restent dans une région, tandis que d’autres parcourent des milliers de kilomètres chaque année. Ils remontent à la surface pour respirer et plongent profondément pour trouver de la nourriture.",
+      "script_es": "Las ballenas viven en todos los océanos, desde las heladas aguas polares hasta los cálidos mares tropicales. Algunos permanecen en una región, mientras que otros migran miles de kilómetros cada año. Salen a la superficie para respirar y se sumergen profundamente para encontrar comida.",
+      "script_hr": "Kitovi žive u svim oceanima, od ledenih polarnih voda do toplih tropskih mora. Neki ostaju u jednoj regiji, dok drugi svake godine migriraju tisućama kilometara. Izlaze na površinu kako bi disali i rone duboko kako bi pronašli hranu.",
+      "script_cs": "Velryby žijí v každém oceánu, od ledových polárních vod po teplá tropická moře. Někteří zůstávají v jednom regionu, zatímco jiní migrují tisíce kilometrů ročně. Přicházejí na povrch, aby se nadechli a ponořili se hluboko, aby našli potravu.",
+      "script_pl": "Wieloryby żyją w każdym oceanie, od lodowatych wód polarnych po ciepłe morza tropikalne. Niektórzy pozostają w jednym regionie, inni migrują tysiące kilometrów rocznie. Wypływają na powierzchnię, aby oddychać i nurkują głęboko w poszukiwaniu pożywienia.",
+      "script_fi": "Valaita elää kaikissa valtamerissä jäisistä napavesistä lämpimiin trooppisiin meriin. Jotkut pysyvät yhdellä alueella, kun taas toiset muuttavat tuhansia kilometrejä vuosittain. Ne tulevat pintaan hengittämään ja sukeltamaan syvälle löytääkseen ruokaa.",
+      "script_sk": "Veľryby žijú v každom oceáne, od ľadových polárnych vôd až po teplé tropické moria. Niektorí zostávajú v jednom regióne, zatiaľ čo iní migrujú tisíce kilometrov ročne. Vychádzajú na povrch, aby sa nadýchli a hlboko sa ponorili, aby našli potravu.",
+      "script_da": "Hvaler lever i alle hav, fra iskolde polare farvande til varme tropiske have. Nogle opholder sig i én region, mens andre migrerer tusindvis af kilometer hvert år. De kommer til overfladen for at trække vejret og dykke dybt for at finde føde.",
+      "images": [
+        "habitat.webp",
+        "habitat_2.webp",
+        "habitat_3.webp"
+      ]
+    },
+    {
+      "id": "body",
+      "script_en": "A whale's body is smooth and streamlined for swimming. Its powerful tail moves up and down to push it through the water, and its flippers help it steer. A thick layer of fat called blubber keeps it warm in cold seas.",
+      "script_de": "Der Körper eines Wals ist zum Schwimmen glatt und stromlinienförmig. Sein kräftiger Schwanz bewegt sich auf und ab, um ihn durch das Wasser zu schieben, und seine Flossen helfen ihm beim Steuern. Eine dicke Fettschicht namens Speck hält es in kalten Meeren warm.",
+      "script_it": "Il corpo di una balena è liscio e aerodinamico per nuotare. La sua potente coda si muove su e giù per spingerlo nell'acqua e le sue pinne lo aiutano a sterzare. Uno spesso strato di grasso chiamato grasso lo mantiene caldo nei mari freddi.",
+      "script_fr": "Le corps d'une baleine est lisse et profilé pour nager. Sa queue puissante monte et descend pour le pousser dans l’eau, et ses nageoires l’aident à se diriger. Une épaisse couche de graisse appelée graisse le garde au chaud dans les mers froides.",
+      "script_es": "El cuerpo de una ballena es liso y aerodinámico para nadar. Su poderosa cola se mueve hacia arriba y hacia abajo para empujarlo a través del agua, y sus aletas le ayudan a dirigirse. Una gruesa capa de grasa llamada grasa mantiene el calor en los mares fríos.",
+      "script_hr": "Tijelo kita je glatko i oblikovano za plivanje. Njegov snažan rep pomiče se gore-dolje kako bi ga gurao kroz vodu, a peraje mu pomažu u upravljanju. Debeli sloj masnoće koji se naziva salju održava ga toplim u hladnim morima.",
+      "script_cs": "Tělo velryby je hladké a hladké pro plavání. Jeho silný ocas se pohybuje nahoru a dolů, aby ho protlačil vodou, a jeho ploutve mu pomáhají řídit. Silná vrstva tuku zvaná tuk ho udržuje v teple ve studených mořích.",
+      "script_pl": "Ciało wieloryba jest gładkie i opływowe, co ułatwia pływanie. Jego potężny ogon porusza się w górę i w dół, aby popychać go przez wodę, a płetwy pomagają mu sterować. Gruba warstwa tłuszczu, zwana tłuszczem, utrzymuje ciepło w zimnych morzach.",
+      "script_fi": "Valaan vartalo on sileä ja virtaviivainen uintia varten. Sen voimakas häntä liikkuu ylös ja alas työntäen sen veden läpi, ja sen räpylät auttavat sitä ohjaamaan. Paksu rasvakerros, jota kutsutaan rasvaksi, pitää sen lämpimänä kylmällä merellä.",
+      "script_sk": "Telo veľryby je hladké a efektívne na plávanie. Jeho silný chvost sa pohybuje hore a dole, aby ho tlačil cez vodu, a jeho plutvy mu pomáhajú kormidlovať. Hrubá vrstva tuku nazývaná tuk ho udržuje v teple v studených moriach.",
+      "script_da": "En hvals krop er glat og strømlinet til svømning. Dens kraftige hale bevæger sig op og ned for at skubbe den gennem vandet, og dens svømmefødder hjælper den med at styre. Et tykt lag fedt kaldet spæk holder det varmt i koldt hav.",
+      "images": [
+        "body.webp",
+        "body_2.webp",
+        "body_3.webp"
+      ]
+    },
+    {
+      "id": "family",
+      "script_en": "Baby whales are called calves. They are born in the water and must swim to the surface for their first breath. Their mother feeds them milk and stays close, and some whale families travel together in groups called pods.",
+      "script_de": "Babywale werden Kälber genannt. Sie werden im Wasser geboren und müssen für ihren ersten Atemzug an die Oberfläche schwimmen. Ihre Mutter füttert sie mit Milch und bleibt in der Nähe, und einige Walfamilien reisen zusammen in Gruppen, sogenannten Schoten.",
+      "script_it": "I cuccioli di balena sono chiamati vitelli. Nascono nell'acqua e devono nuotare in superficie per il loro primo respiro. La madre dà loro il latte e resta vicina, e alcune famiglie di balene viaggiano insieme in gruppi chiamati baccelli.",
+      "script_fr": "Les bébés baleines sont appelés veaux. Ils naissent dans l’eau et doivent nager jusqu’à la surface pour leur premier souffle. Leur mère leur donne du lait et reste proche, et certaines familles de baleines voyagent ensemble en groupes appelés groupes.",
+      "script_es": "Las crías de ballena se llaman crías. Nacen en el agua y deben nadar hasta la superficie para respirar por primera vez. Su madre les da leche y se queda cerca, y algunas familias de ballenas viajan juntas en grupos llamados manadas.",
+      "script_hr": "Mladunci kitova nazivaju se teladi. Rađaju se u vodi i moraju isplivati ​​na površinu za svoj prvi udah. Majka ih hrani mlijekom i drži se blizu, a neke obitelji kitova putuju zajedno u skupinama koje se nazivaju mahune.",
+      "script_cs": "Mláďata velryb se nazývají telata. Rodí se ve vodě a pro svůj první nádech musí plavat na hladinu. Jejich matka je krmí mlékem a zůstává blízko a některé velrybí rodiny cestují společně ve skupinách zvaných lusky.",
+      "script_pl": "Młode wieloryby nazywane są cielętami. Rodzą się w wodzie i muszą wypłynąć na powierzchnię, aby zaczerpnąć pierwszego oddechu. Matka karmi je mlekiem i pozostaje blisko, a niektóre rodziny wielorybów podróżują razem w grupach zwanych strąkami.",
+      "script_fi": "Valaiden poikasia kutsutaan vasikoiksi. Ne syntyvät veteen ja heidän on uida pintaan ensimmäistä kertaa hengittääkseen. Heidän äitinsä ruokkii heille maitoa ja pysyy lähellä, ja jotkut valasperheet matkustavat yhdessä ryhmissä, joita kutsutaan paloiksi.",
+      "script_sk": "Veľrybie mláďatá sa nazývajú teľatá. Narodia sa vo vode a na prvý nádych musia vyplávať na hladinu. Ich matka ich kŕmi mliekom a zostáva blízko a niektoré rodiny veľrýb cestujú spolu v skupinách nazývaných struky.",
+      "script_da": "Babyhvaler kaldes kalve. De er født i vandet og skal svømme til overfladen for deres første åndedræt. Deres mor giver dem mælk og holder sig tæt, og nogle hvalfamilier rejser sammen i grupper, der kaldes bælg.",
+      "images": [
+        "family.webp",
+        "family_2.webp",
+        "family_3.webp"
+      ]
+    },
+    {
+      "id": "life_today",
+      "script_en": "Today whales face dangers from ship traffic, fishing nets, and plastic pollution. People around the world work to protect their migration routes and feeding grounds. Whales are a reminder of how vast and surprising the ocean is.",
+      "script_de": "Heutzutage sind Wale Gefahren durch Schiffsverkehr, Fischernetze und Plastikverschmutzung ausgesetzt. Menschen auf der ganzen Welt arbeiten daran, ihre Migrationsrouten und Nahrungsgebiete zu schützen. Wale erinnern daran, wie riesig und überraschend der Ozean ist.",
+      "script_it": "Oggi le balene affrontano i pericoli derivanti dal traffico navale, dalle reti da pesca e dall’inquinamento causato dalla plastica. Le persone in tutto il mondo lavorano per proteggere le proprie rotte migratorie e le zone di alimentazione. Le balene ci ricordano quanto sia vasto e sorprendente l’oceano.",
+      "script_fr": "Aujourd’hui, les baleines sont confrontées aux dangers du trafic maritime, des filets de pêche et de la pollution plastique. Partout dans le monde, les populations s’efforcent de protéger leurs routes migratoires et leurs aires d’alimentation. Les baleines rappellent à quel point l’océan est vaste et surprenant.",
+      "script_es": "Hoy en día, las ballenas enfrentan peligros debido al tráfico de barcos, las redes de pesca y la contaminación plástica. Personas de todo el mundo trabajan para proteger sus rutas migratorias y sus zonas de alimentación. Las ballenas son un recordatorio de lo vasto y sorprendente que es el océano.",
+      "script_hr": "Danas se kitovi suočavaju s opasnostima od brodskog prometa, ribarskih mreža i plastičnog onečišćenja. Ljudi diljem svijeta rade na zaštiti svojih migracijskih ruta i hranilišta. Kitovi su podsjetnik koliko je ocean golem i iznenađujući.",
+      "script_cs": "Dnes velryby čelí nebezpečí z lodní dopravy, rybářských sítí a znečištění plasty. Lidé po celém světě pracují na ochraně svých migračních tras a krmných míst. Velryby jsou připomínkou toho, jak obrovský a překvapivý je oceán.",
+      "script_pl": "Obecnie wieloryby są narażone na niebezpieczeństwa związane z ruchem statków, sieciami rybackimi i zanieczyszczeniami tworzywami sztucznymi. Ludzie na całym świecie pracują nad ochroną swoich szlaków migracyjnych i żerowisk. Wieloryby przypominają, jak rozległy i zaskakujący jest ocean.",
+      "script_fi": "Nykyään valaat kohtaavat laivaliikenteen, kalastusverkkojen ja muovisaasteen aiheuttamia vaaroja. Ihmiset ympäri maailmaa tekevät työtä suojellakseen muuttoreittejään ja ruokintapaikkojaan. Valaat ovat muistutus siitä, kuinka laaja ja yllättävä valtameri on.",
+      "script_sk": "Veľryby dnes čelia nebezpečenstvu lodnej dopravy, rybárskych sietí a znečistenia plastmi. Ľudia na celom svete pracujú na ochrane svojich migračných trás a krmív. Veľryby sú pripomienkou toho, aký obrovský a prekvapivý je oceán.",
+      "script_da": "I dag står hvaler over for farer fra skibstrafik, fiskenet og plastikforurening. Mennesker verden over arbejder for at beskytte deres migrationsruter og fødepladser. Hvaler er en påmindelse om, hvor stort og overraskende havet er.",
+      "images": [
+        "life_today.webp",
+        "life_today_2.webp",
+        "life_today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "mammal",
+      "correct": "mammal",
+      "question_en": "What kind of animal is a whale?",
+      "question_de": "Was für ein Tier ist ein Wal?",
+      "question_it": "Che tipo di animale è una balena?",
+      "question_fr": "Quel genre d'animal est une baleine ?",
+      "question_es": "¿Qué tipo de animal es una ballena?",
+      "question_hr": "Kakva je životinja kit?",
+      "question_cs": "Jaký druh zvířete je velryba?",
+      "question_pl": "Jakim zwierzęciem jest wieloryb?",
+      "question_fi": "Millainen eläin on valas?",
+      "question_sk": "Aký druh zvieraťa je veľryba?",
+      "question_da": "Hvilken slags dyr er en hval?",
+      "options": [
+        {
+          "id": "mammal",
+          "label_en": "A mammal that breathes air",
+          "label_de": "Ein Säugetier, das Luft atmet",
+          "label_it": "Un mammifero che respira aria",
+          "label_fr": "Un mammifère qui respire de l'air",
+          "label_es": "Un mamífero que respira aire.",
+          "label_hr": "Sisavac koji udiše zrak",
+          "label_cs": "Savec, který dýchá vzduch",
+          "label_pl": "Ssak oddychający powietrzem",
+          "label_fi": "Ilmaa hengittävä nisäkäs",
+          "label_sk": "Cicavec, ktorý dýcha vzduch",
+          "label_da": "Et pattedyr der indånder luft"
+        },
+        {
+          "id": "fish",
+          "label_en": "A fish with gills",
+          "label_de": "Ein Fisch mit Kiemen",
+          "label_it": "Un pesce con le branchie",
+          "label_fr": "Un poisson avec des branchies",
+          "label_es": "Un pez con branquias",
+          "label_hr": "Riba sa škrgama",
+          "label_cs": "Ryba s žábrami",
+          "label_pl": "Ryba ze skrzelami",
+          "label_fi": "Kala, jolla on kidukset",
+          "label_sk": "Ryba so žiabrami",
+          "label_da": "En fisk med gæller"
+        },
+        {
+          "id": "reptile",
+          "label_en": "A reptile",
+          "label_de": "Ein Reptil",
+          "label_it": "Un rettile",
+          "label_fr": "Un reptile",
+          "label_es": "un reptil",
+          "label_hr": "Gmaz",
+          "label_cs": "Plaz",
+          "label_pl": "Gad",
+          "label_fi": "Matelija",
+          "label_sk": "Plaz",
+          "label_da": "Et krybdyr"
+        }
+      ]
+    },
+    {
+      "id": "breath",
+      "correct": "blowhole",
+      "question_en": "How does a whale breathe?",
+      "question_de": "Wie atmet ein Wal?",
+      "question_it": "Come respira una balena?",
+      "question_fr": "Comment respire une baleine ?",
+      "question_es": "¿Cómo respira una ballena?",
+      "question_hr": "Kako kit diše?",
+      "question_cs": "Jak dýchá velryba?",
+      "question_pl": "Jak oddycha wieloryb?",
+      "question_fi": "Kuinka valas hengittää?",
+      "question_sk": "Ako dýcha veľryba?",
+      "question_da": "Hvordan trækker en hval vejret?",
+      "options": [
+        {
+          "id": "blowhole",
+          "label_en": "Through a blowhole on its head",
+          "label_de": "Durch ein Blasloch auf seinem Kopf",
+          "label_it": "Attraverso uno sfiatatoio sulla sua testa",
+          "label_fr": "Par un évent sur la tête",
+          "label_es": "A través de un espiráculo en la cabeza",
+          "label_hr": "Kroz otvor na glavi",
+          "label_cs": "Přes díru na hlavě",
+          "label_pl": "Przez dziurę na głowie",
+          "label_fi": "Päässä olevan puhallusreiän läpi",
+          "label_sk": "Cez dierku na hlave",
+          "label_da": "Gennem et blæsehul på hovedet"
+        },
+        {
+          "id": "gills",
+          "label_en": "Through gills",
+          "label_de": "Durch Kiemen",
+          "label_it": "Attraverso le branchie",
+          "label_fr": "À travers les branchies",
+          "label_es": "A través de branquias",
+          "label_hr": "Kroz škrge",
+          "label_cs": "Přes žábry",
+          "label_pl": "Przez skrzela",
+          "label_fi": "Kidusten kautta",
+          "label_sk": "Cez žiabre",
+          "label_da": "Gennem gæller"
+        },
+        {
+          "id": "skin",
+          "label_en": "Through its skin",
+          "label_de": "Durch seine Haut",
+          "label_it": "Attraverso la sua pelle",
+          "label_fr": "A travers sa peau",
+          "label_es": "A través de su piel",
+          "label_hr": "Kroz njegovu kožu",
+          "label_cs": "Přes jeho kůži",
+          "label_pl": "Przez jego skórę",
+          "label_fi": "Sen ihon läpi",
+          "label_sk": "Cez jeho kožu",
+          "label_da": "Gennem sin hud"
+        }
+      ]
+    },
+    {
+      "id": "baby",
+      "correct": "calf",
+      "question_en": "What is a baby whale called?",
+      "question_de": "Wie heißt ein Walbaby?",
+      "question_it": "Come si chiama un cucciolo di balena?",
+      "question_fr": "Comment s’appelle un bébé baleine ?",
+      "question_es": "¿Cómo se llama una cría de ballena?",
+      "question_hr": "Kako se zove beba kita?",
+      "question_cs": "Jak se jmenuje velrybí mládě?",
+      "question_pl": "Jak nazywa się mały wieloryb?",
+      "question_fi": "Millä nimellä valaanvauvaa kutsutaan?",
+      "question_sk": "Ako sa volá veľrybie mláďa?",
+      "question_da": "Hvad hedder en hvalunge?",
+      "options": [
+        {
+          "id": "calf",
+          "label_en": "A calf",
+          "label_de": "Ein Kalb",
+          "label_it": "Un vitello",
+          "label_fr": "Un veau",
+          "label_es": "un ternero",
+          "label_hr": "tele",
+          "label_cs": "Tele",
+          "label_pl": "Cielę",
+          "label_fi": "Vasikka",
+          "label_sk": "Telíčko",
+          "label_da": "En kalv"
+        },
+        {
+          "id": "pup",
+          "label_en": "A pup",
+          "label_de": "Ein Welpe",
+          "label_it": "Un cucciolo",
+          "label_fr": "Un chiot",
+          "label_es": "un cachorro",
+          "label_hr": "štene",
+          "label_cs": "štěně",
+          "label_pl": "Szczeniak",
+          "label_fi": "Pentu",
+          "label_sk": "Šteniatko",
+          "label_da": "En hvalp"
+        },
+        {
+          "id": "chick",
+          "label_en": "A chick",
+          "label_de": "Ein Küken",
+          "label_it": "Un pulcino",
+          "label_fr": "Un poussin",
+          "label_es": "un pollito",
+          "label_hr": "pilić",
+          "label_cs": "Kuřátko",
+          "label_pl": "Laska",
+          "label_fi": "Tyttö",
+          "label_sk": "kuriatko",
+          "label_da": "En kylling"
+        }
+      ]
+    }
+  ]
+}

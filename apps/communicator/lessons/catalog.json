@@ -442,6 +442,27 @@
       "title_da": "Tigre"
     },
     {
+      "id": "whale",
+      "category_id": "animals",
+      "symbol_id": "whale",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/whale/whale_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/whale/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 1640104,
+      "version": 1,
+      "title_en": "Whales",
+      "title_de": "Wale",
+      "title_it": "Balene",
+      "title_fr": "Baleines",
+      "title_es": "ballenas",
+      "title_hr": "kitovi",
+      "title_cs": "Velryby",
+      "title_pl": "Wieloryby",
+      "title_fi": "Valaat",
+      "title_sk": "Veľryby",
+      "title_da": "hvaler"
+    },
+    {
       "id": "apple",
       "category_id": "food",
       "symbol_id": "apple",
