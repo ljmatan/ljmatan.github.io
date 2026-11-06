@@ -694,6 +694,27 @@
       "title_da": "Ferskner"
     },
     {
+      "id": "pear",
+      "category_id": "food",
+      "symbol_id": "pear",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/pear/pear_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/pear/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2056216,
+      "version": 1,
+      "title_en": "Pears",
+      "title_de": "Birnen",
+      "title_it": "Pere",
+      "title_fr": "Poires",
+      "title_es": "peras",
+      "title_hr": "Kruške",
+      "title_cs": "Hrušky",
+      "title_pl": "Gruszki",
+      "title_fi": "Päärynät",
+      "title_sk": "Hrušky",
+      "title_da": "Pærer"
+    },
+    {
       "id": "pizza",
       "category_id": "food",
       "symbol_id": "pizza",

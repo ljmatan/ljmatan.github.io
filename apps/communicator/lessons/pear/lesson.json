@@ -1,0 +1,293 @@
+{
+  "id": "pear",
+  "category_id": "food",
+  "symbol_id": "pear",
+  "thumbnail": "pear_thumb.webp",
+  "title_en": "Pears",
+  "title_de": "Birnen",
+  "title_it": "Pere",
+  "title_fr": "Poires",
+  "title_es": "peras",
+  "title_hr": "Kruške",
+  "title_cs": "Hrušky",
+  "title_pl": "Gruszki",
+  "title_fi": "Päärynät",
+  "title_sk": "Hrušky",
+  "title_da": "Pærer",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about pears. Pears are sweet, juicy fruits with a soft, grainy flesh and a shape that is wider at the bottom than at the top. They come in many colours and varieties.",
+      "script_de": "Heute lernen wir etwas über Birnen. Birnen sind süße, saftige Früchte mit weichem, körnigem Fruchtfleisch und einer Form, die unten breiter als oben ist. Es gibt sie in vielen Farben und Varianten.",
+      "script_it": "Oggi parleremo delle pere. Le pere sono frutti dolci e succosi, con una polpa morbida e granulosa e una forma più larga nella parte inferiore che nella parte superiore. Sono disponibili in molti colori e varietà.",
+      "script_fr": "Aujourd'hui, nous allons découvrir les poires. Les poires sont des fruits sucrés et juteux avec une chair molle et granuleuse et une forme plus large en bas qu'en haut. Il en existe de nombreuses couleurs et variétés.",
+      "script_es": "Hoy vamos a aprender sobre las peras. Las peras son frutas dulces y jugosas con una pulpa suave y granulada y una forma más ancha en la parte inferior que en la superior. Vienen en muchos colores y variedades.",
+      "script_hr": "Danas ćemo učiti o kruškama. Kruške su slatko, sočno voće s mekim, zrnastim mesom i oblikom koji je širi pri dnu nego pri vrhu. Dolaze u mnogo boja i varijanti.",
+      "script_cs": "Dnes se budeme učit o hruškách. Hrušky jsou sladké, šťavnaté ovoce s měkkou, zrnitou dužninou a tvarem, který je dole širší než nahoře. Přicházejí v mnoha barvách a variantách.",
+      "script_pl": "Dziś będziemy uczyć się o gruszkach. Gruszki to słodkie, soczyste owoce o miękkim, ziarnistym miąższu i kształcie szerszym u dołu niż u góry. Występują w wielu kolorach i odmianach.",
+      "script_fi": "Tänään opimme päärynöistä. Päärynät ovat makeita, mehukkaita hedelmiä, joilla on pehmeä, rakeinen hedelmäliha ja muoto, joka on leveämpi pohjasta kuin ylhäältä. Niitä on monia värejä ja lajikkeita.",
+      "script_sk": "Dnes sa budeme učiť o hruškách. Hrušky sú sladké, šťavnaté ovocie s mäkkou, zrnitou dužinou a tvarom, ktorý je dole širší ako hore. Prichádzajú v mnohých farbách a variantoch.",
+      "script_da": "I dag skal vi lære om pærer. Pærer er søde, saftige frugter med et blødt, kornet kød og en form, der er bredere forneden end i toppen. De kommer i mange farver og varianter.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "origin",
+      "script_en": "Pears have been grown in Europe and Asia for thousands of years. Farmers selected different trees for their flavour, size, and hardiness, and today pears are grown in many temperate parts of the world.",
+      "script_de": "Birnen werden in Europa und Asien seit Jahrtausenden angebaut. Landwirte wählten verschiedene Bäume aufgrund ihres Geschmacks, ihrer Größe und Widerstandsfähigkeit aus, und heute werden Birnen in vielen gemäßigten Teilen der Welt angebaut.",
+      "script_it": "Le pere vengono coltivate in Europa e in Asia da migliaia di anni. Gli agricoltori selezionavano alberi diversi in base al loro sapore, dimensione e robustezza, e oggi le pere vengono coltivate in molte parti temperate del mondo.",
+      "script_fr": "Les poires sont cultivées en Europe et en Asie depuis des milliers d'années. Les agriculteurs sélectionnaient différents arbres pour leur saveur, leur taille et leur rusticité. Aujourd'hui, les poires sont cultivées dans de nombreuses régions tempérées du monde.",
+      "script_es": "Las peras se cultivan en Europa y Asia desde hace miles de años. Los agricultores seleccionaron diferentes árboles por su sabor, tamaño y resistencia, y hoy en día las peras se cultivan en muchas partes templadas del mundo.",
+      "script_hr": "Kruške se u Europi i Aziji uzgajaju tisućama godina. Poljoprivrednici su odabrali različita stabla zbog njihovog okusa, veličine i otpornosti, a danas se kruške uzgajaju u mnogim umjerenim dijelovima svijeta.",
+      "script_cs": "Hrušky se v Evropě a Asii pěstují již tisíce let. Farmáři vybírali různé stromy pro jejich chuť, velikost a odolnost a dnes se hrušky pěstují v mnoha mírných částech světa.",
+      "script_pl": "Gruszki uprawiane są w Europie i Azji od tysięcy lat. Rolnicy wybierali różne drzewa ze względu na ich smak, rozmiar i odporność, a obecnie gruszki uprawia się w wielu umiarkowanych częściach świata.",
+      "script_fi": "Päärynöitä on kasvatettu Euroopassa ja Aasiassa tuhansia vuosia. Maanviljelijät valitsivat erilaisia ​​puita niiden maun, koon ja kestävyyden perusteella, ja nykyään päärynöitä kasvatetaan monissa lauhkeissa osissa maailmaa.",
+      "script_sk": "Hrušky sa v Európe a Ázii pestujú už tisíce rokov. Farmári vyberali rôzne stromy pre ich chuť, veľkosť a odolnosť a dnes sa hrušky pestujú v mnohých miernych častiach sveta.",
+      "script_da": "Pærer er blevet dyrket i Europa og Asien i tusinder af år. Landmændene valgte forskellige træer for deres smag, størrelse og hårdførhed, og i dag dyrkes pærer i mange tempererede dele af verden.",
+      "images": [
+        "origin.webp",
+        "origin_2.webp",
+        "origin_3.webp"
+      ]
+    },
+    {
+      "id": "growth",
+      "script_en": "Pear trees blossom in spring with white flowers. Bees and other insects pollinate the flowers, and small green pears begin to form. The fruit grows through the summer and is usually picked while still firm, then ripens indoors.",
+      "script_de": "Birnbäume blühen im Frühling mit weißen Blüten. Bienen und andere Insekten bestäuben die Blüten und es beginnen sich kleine grüne Birnen zu bilden. Die Früchte wachsen den ganzen Sommer über und werden normalerweise noch fest gepflückt und reifen dann im Innenbereich.",
+      "script_it": "I peri fioriscono in primavera con fiori bianchi. Le api e altri insetti impollinano i fiori e iniziano a formarsi piccole pere verdi. Il frutto cresce durante l'estate e solitamente viene raccolto mentre è ancora sodo, quindi matura in ambienti chiusi.",
+      "script_fr": "Les poiriers fleurissent au printemps avec des fleurs blanches. Les abeilles et autres insectes pollinisent les fleurs et de petites poires vertes commencent à se former. Le fruit pousse tout l’été et est généralement cueilli alors qu’il est encore ferme, puis mûrit à l’intérieur.",
+      "script_es": "Los perales florecen en primavera con flores blancas. Las abejas y otros insectos polinizan las flores y comienzan a formarse pequeñas peras verdes. La fruta crece durante el verano y generalmente se recoge cuando aún está firme y luego madura en el interior.",
+      "script_hr": "Kruške cvjetaju u proljeće bijelim cvjetovima. Pčele i drugi kukci oprašuju cvjetove i počinju se stvarati male zelene kruške. Plod raste tijekom ljeta i obično se bere dok je još čvrst, a zatim dozrijeva u zatvorenom prostoru.",
+      "script_cs": "Hrušně kvetou na jaře bílými květy. Včely a další hmyz opylují květy a začnou se tvořit malé zelené hrušky. Ovoce roste přes léto a sbírá se obvykle ještě pevné, poté dozrává uvnitř.",
+      "script_pl": "Grusze kwitną wiosną białymi kwiatami. Pszczoły i inne owady zapylają kwiaty i zaczynają tworzyć się małe zielone gruszki. Owoce rosną przez całe lato i zwykle są zbierane, gdy są jeszcze jędrne, a następnie dojrzewają w pomieszczeniu.",
+      "script_fi": "Päärynäpuut kukkivat keväällä valkoisin kukin. Mehiläiset ja muut hyönteiset pölyttävät kukkia, ja pieniä vihreitä päärynöitä alkaa muodostua. Hedelmät kasvavat läpi kesän ja poimitaan yleensä vielä kiinteinä, minkä jälkeen ne kypsyvät sisätiloissa.",
+      "script_sk": "Hrušky kvitnú na jar bielymi kvetmi. Včely a iný hmyz opeľujú kvety a začínajú sa vytvárať malé zelené hrušky. Plody rastú cez leto a zvyčajne sa zbierajú ešte pevné, potom dozrievajú vo vnútri.",
+      "script_da": "Pæretræer blomstrer om foråret med hvide blomster. Bier og andre insekter bestøver blomsterne, og der begynder at dannes små grønne pærer. Frugten vokser gennem sommeren og plukkes normalt, mens den stadig er fast, og modner derefter indendørs.",
+      "images": [
+        "growth.webp",
+        "growth_2.webp",
+        "growth_3.webp"
+      ]
+    },
+    {
+      "id": "varieties",
+      "script_en": "There are many kinds of pear. Some are green, some are yellow, and some have rough brown skin. Their flesh can be soft and sweet or crisp and slightly tart. Each variety is suited to different climates and uses.",
+      "script_de": "Es gibt viele Arten von Birnen. Manche sind grün, manche gelb und manche haben raue braune Haut. Ihr Fruchtfleisch kann weich und süß oder knackig und leicht säuerlich sein. Jede Sorte ist für unterschiedliche Klimazonen und Verwendungszwecke geeignet.",
+      "script_it": "Esistono molti tipi di pera. Alcuni sono verdi, altri gialli e altri hanno la pelle ruvida e marrone. La loro polpa può essere morbida e dolce oppure croccante e leggermente aspra. Ogni varietà è adatta a climi e usi diversi.",
+      "script_fr": "Il existe de nombreuses sortes de poires. Certains sont verts, certains sont jaunes et certains ont une peau brune et rugueuse. Leur chair peut être moelleuse et sucrée ou croustillante et légèrement acidulée. Chaque variété est adaptée à différents climats et usages.",
+      "script_es": "Hay muchos tipos de pera. Algunos son verdes, otros son amarillos y algunos tienen la piel marrón áspera. Su pulpa puede ser suave y dulce o crujiente y ligeramente ácida. Cada variedad se adapta a diferentes climas y usos.",
+      "script_hr": "Postoji mnogo vrsta krušaka. Neke su zelene, neke žute, a neke imaju grubu smeđu kožu. Njihovo meso može biti mekano i slatko ili hrskavo i pomalo trpko. Svaka je sorta prikladna za različite klime i namjene.",
+      "script_cs": "Existuje mnoho druhů hrušek. Některé jsou zelené, některé žluté a některé mají hrubou hnědou kůži. Jejich dužina může být měkká a sladká nebo křupavá a lehce nakyslá. Každá odrůda je vhodná pro jiné podnebí a použití.",
+      "script_pl": "Jest wiele rodzajów gruszek. Niektóre są zielone, inne żółte, a jeszcze inne mają szorstką brązową skórę. Ich miąższ może być miękki i słodki lub chrupiący i lekko cierpki. Każda odmiana jest dostosowana do różnych klimatów i zastosowań.",
+      "script_fi": "Päärynöitä on monenlaisia. Jotkut ovat vihreitä, toiset keltaisia ​​ja toisilla on karkea ruskea iho. Niiden hedelmäliha voi olla pehmeää ja makeaa tai rapeaa ja hieman kirpeää. Jokainen lajike sopii erilaisiin ilmasto- ja käyttötarkoituksiin.",
+      "script_sk": "Existuje veľa druhov hrušiek. Niektoré sú zelené, iné žlté a niektoré majú drsnú hnedú kožu. Ich dužina môže byť mäkká a sladká alebo chrumkavá a mierne kyslá. Každá odroda je vhodná pre iné podnebie a použitie.",
+      "script_da": "Der er mange slags pære. Nogle er grønne, nogle er gule, og nogle har ru brun hud. Deres kød kan være blødt og sødt eller sprødt og let syrligt. Hver sort er velegnet til forskellige klimaer og anvendelser.",
+      "images": [
+        "varieties.webp",
+        "varieties_2.webp",
+        "varieties_3.webp"
+      ]
+    },
+    {
+      "id": "kitchen",
+      "script_en": "In the kitchen, pears are eaten fresh or added to salads and cheese boards. They can be poached in syrup, baked into tarts, or pressed into juice. A ripe pear is fragrant and soft, and it makes a simple, satisfying snack.",
+      "script_de": "In der Küche werden Birnen frisch gegessen oder zu Salaten und Käseplatten hinzugefügt. Sie können in Sirup pochiert, zu Törtchen gebacken oder zu Saft gepresst werden. Eine reife Birne ist duftend und weich und eignet sich als einfacher, sättigender Snack.",
+      "script_it": "In cucina le pere vengono consumate fresche o aggiunte ad insalate e taglieri di formaggi. Possono essere bolliti nello sciroppo, cotti in crostate o pressati nel succo. Una pera matura è fragrante e morbida ed è uno spuntino semplice e soddisfacente.",
+      "script_fr": "En cuisine, les poires se consomment fraîches ou ajoutées aux salades et aux plateaux de fromages. Ils peuvent être pochés dans du sirop, cuits dans des tartelettes ou pressés en jus. Une poire mûre est parfumée et moelleuse, et constitue une collation simple et satisfaisante.",
+      "script_es": "En la cocina, las peras se comen frescas o se añaden a ensaladas y tablas de quesos. Se pueden escalfar en almíbar, hornear en tartas o exprimir para hacer jugo. Una pera madura es fragante y suave, y constituye un refrigerio sencillo y saciante.",
+      "script_hr": "U kuhinji se kruške jedu svježe ili dodaju u salate i sirne ploče. Mogu se poširati u sirupu, peći u kolačima ili prešati u sok. Zrela kruška je mirisna i mekana, a čini jednostavan, zadovoljavajući međuobrok.",
+      "script_cs": "V kuchyni se hrušky jedí čerstvé nebo se přidávají do salátů a sýrových prkýnek. Mohou být pošírované v sirupu, zapékané do koláčů nebo lisované do šťávy. Zralá hruška je voňavá a měkká a je z ní jednoduchá, uspokojující svačina.",
+      "script_pl": "W kuchni gruszki spożywa się na świeżo lub dodaje do sałatek i desek serów. Można je gotować w syropie, piec w tarty lub wyciskać na sok. Dojrzała gruszka jest pachnąca i miękka i stanowi prostą, satysfakcjonującą przekąskę.",
+      "script_fi": "Keittiössä päärynöitä syödään tuoreena tai lisätään salaatteihin ja juustolaudoihin. Ne voidaan hauduttaa siirapissa, paistaa torteiksi tai puristaa mehuun. Kypsä päärynä on tuoksuva ja pehmeä, ja siitä tulee yksinkertainen, tyydyttävä välipala.",
+      "script_sk": "V kuchyni sa hrušky jedia čerstvé alebo sa pridávajú do šalátov a syrových dosiek. Môžu byť pošírované v sirupe, pečené na koláče alebo lisované do šťavy. Zrelá hruška je voňavá a mäkká a je z nej jednoduchý, uspokojujúci snack.",
+      "script_da": "I køkkenet spises pærer friske eller tilsættes salater og osteborde. De kan pocheres i sirup, bages til tærter eller presses til juice. En moden pære er duftende og blød, og den er en enkel, tilfredsstillende snack.",
+      "images": [
+        "kitchen.webp",
+        "kitchen_2.webp",
+        "kitchen_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "shape",
+      "correct": "bell",
+      "question_en": "What shape is a pear usually?",
+      "question_de": "Welche Form hat eine Birne normalerweise?",
+      "question_it": "Che forma ha solitamente una pera?",
+      "question_fr": "Quelle forme a habituellement une poire ?",
+      "question_es": "¿Qué forma suele tener una pera?",
+      "question_hr": "Kakvog oblika je obično kruška?",
+      "question_cs": "Jaký tvar má obvykle hruška?",
+      "question_pl": "Jaki kształt ma zazwyczaj gruszka?",
+      "question_fi": "Minkä muotoinen päärynä yleensä on?",
+      "question_sk": "Aký tvar má zvyčajne hruška?",
+      "question_da": "Hvilken form har en pære normalt?",
+      "options": [
+        {
+          "id": "bell",
+          "label_en": "Bell-shaped, wider at the bottom",
+          "label_de": "Glockenförmig, unten breiter",
+          "label_it": "A campana, più largo alla base",
+          "label_fr": "En forme de cloche, plus large en bas",
+          "label_es": "En forma de campana, más ancha en la parte inferior.",
+          "label_hr": "Zvonoliki, pri dnu širi",
+          "label_cs": "Zvonkový, dole širší",
+          "label_pl": "Dzwonkowaty, szerszy u dołu",
+          "label_fi": "Kellomainen, pohjasta leveämpi",
+          "label_sk": "Zvončekový, v spodnej časti širší",
+          "label_da": "Klokkeformet, bredere forneden"
+        },
+        {
+          "id": "round",
+          "label_en": "Perfectly round like a ball",
+          "label_de": "Perfekt rund wie eine Kugel",
+          "label_it": "Perfettamente rotondo come una palla",
+          "label_fr": "Parfaitement rond comme une balle",
+          "label_es": "Perfectamente redondo como una pelota",
+          "label_hr": "Savršeno okrugla poput lopte",
+          "label_cs": "Dokonale kulatý jako míč",
+          "label_pl": "Idealnie okrągła jak kula",
+          "label_fi": "Täysin pyöreä kuin pallo",
+          "label_sk": "Dokonale guľatá ako guľa",
+          "label_da": "Perfekt rund som en bold"
+        },
+        {
+          "id": "long",
+          "label_en": "Long like a banana",
+          "label_de": "Lang wie eine Banane",
+          "label_it": "Lungo come una banana",
+          "label_fr": "Long comme une banane",
+          "label_es": "Largo como un plátano",
+          "label_hr": "Dug kao banana",
+          "label_cs": "Dlouhé jako banán",
+          "label_pl": "Długie jak banan",
+          "label_fi": "Pitkä kuin banaani",
+          "label_sk": "Dlhý ako banán",
+          "label_da": "Længe som en banan"
+        }
+      ]
+    },
+    {
+      "id": "tree",
+      "correct": "tree",
+      "question_en": "What kind of plant do pears grow on?",
+      "question_de": "Auf welcher Pflanze wachsen Birnen?",
+      "question_it": "Su che tipo di pianta crescono le pere?",
+      "question_fr": "Sur quel type de plante poussent les poires ?",
+      "question_es": "¿En qué tipo de planta crecen las peras?",
+      "question_hr": "Na kakvoj biljci rastu kruške?",
+      "question_cs": "Na jaké rostlině rostou hrušky?",
+      "question_pl": "Na jakiej roślinie rosną gruszki?",
+      "question_fi": "Millaisessa kasvissa päärynät kasvavat?",
+      "question_sk": "Na akej rastline rastú hrušky?",
+      "question_da": "Hvilken slags plante vokser pærer på?",
+      "options": [
+        {
+          "id": "tree",
+          "label_en": "A tree",
+          "label_de": "Ein Baum",
+          "label_it": "Un albero",
+          "label_fr": "Un arbre",
+          "label_es": "un arbol",
+          "label_hr": "Drvo",
+          "label_cs": "Strom",
+          "label_pl": "Drzewo",
+          "label_fi": "Puu",
+          "label_sk": "Strom",
+          "label_da": "Et træ"
+        },
+        {
+          "id": "vine",
+          "label_en": "A vine",
+          "label_de": "Eine Rebe",
+          "label_it": "Una vite",
+          "label_fr": "Une vigne",
+          "label_es": "una vid",
+          "label_hr": "Vinova loza",
+          "label_cs": "Vinná réva",
+          "label_pl": "Winorośl",
+          "label_fi": "Viiniköynnös",
+          "label_sk": "Vinič",
+          "label_da": "En vinstok"
+        },
+        {
+          "id": "reed",
+          "label_en": "A reed",
+          "label_de": "Ein Schilfrohr",
+          "label_it": "Una canna",
+          "label_fr": "Un roseau",
+          "label_es": "una caña",
+          "label_hr": "Trska",
+          "label_cs": "Rákos",
+          "label_pl": "Trzcina",
+          "label_fi": "Ruoko",
+          "label_sk": "Trstina",
+          "label_da": "Et siv"
+        }
+      ]
+    },
+    {
+      "id": "colours",
+      "correct": "green_yellow_brown",
+      "question_en": "Which colours can pears be?",
+      "question_de": "Welche Farben können Birnen haben?",
+      "question_it": "Di che colori possono essere le pere?",
+      "question_fr": "De quelles couleurs peuvent être les poires ?",
+      "question_es": "¿De qué colores pueden ser las peras?",
+      "question_hr": "Koje boje mogu biti kruške?",
+      "question_cs": "Jaké barvy mohou mít hrušky?",
+      "question_pl": "Jakie kolory mogą mieć gruszki?",
+      "question_fi": "Minkä värisiä päärynät voivat olla?",
+      "question_sk": "Aké farby môžu mať hrušky?",
+      "question_da": "Hvilke farver kan pærer være?",
+      "options": [
+        {
+          "id": "green_yellow_brown",
+          "label_en": "Green, yellow or brown",
+          "label_de": "Grün, gelb oder braun",
+          "label_it": "Verde, giallo o marrone",
+          "label_fr": "Vert, jaune ou marron",
+          "label_es": "Verde, amarillo o marrón",
+          "label_hr": "Zelena, žuta ili smeđa",
+          "label_cs": "Zelená, žlutá nebo hnědá",
+          "label_pl": "Zielony, żółty lub brązowy",
+          "label_fi": "Vihreä, keltainen tai ruskea",
+          "label_sk": "Zelená, žltá alebo hnedá",
+          "label_da": "Grøn, gul eller brun"
+        },
+        {
+          "id": "blue",
+          "label_en": "Only blue",
+          "label_de": "Nur blau",
+          "label_it": "Solo blu",
+          "label_fr": "Seulement du bleu",
+          "label_es": "solo azul",
+          "label_hr": "Samo plavo",
+          "label_cs": "Pouze modrá",
+          "label_pl": "Tylko niebieski",
+          "label_fi": "Vain sininen",
+          "label_sk": "Iba modrá",
+          "label_da": "Kun blå"
+        },
+        {
+          "id": "purple",
+          "label_en": "Only purple",
+          "label_de": "Nur lila",
+          "label_it": "Solo viola",
+          "label_fr": "Seulement du violet",
+          "label_es": "solo morado",
+          "label_hr": "Samo ljubičasta",
+          "label_cs": "Pouze fialová",
+          "label_pl": "Tylko fioletowy",
+          "label_fi": "Vain violetti",
+          "label_sk": "Iba fialová",
+          "label_da": "Kun lilla"
+        }
+      ]
+    }
+  ]
+}
