@@ -1,0 +1,293 @@
+{
+  "id": "lemon",
+  "category_id": "food",
+  "symbol_id": "lemon",
+  "thumbnail": "lemon_thumb.webp",
+  "title_en": "Lemons",
+  "title_de": "Zitronen",
+  "title_it": "Limoni",
+  "title_fr": "Citrons",
+  "title_es": "limones",
+  "title_hr": "Limuni",
+  "title_cs": "Citrony",
+  "title_pl": "Cytryny",
+  "title_fi": "Sitruunat",
+  "title_sk": "Citróny",
+  "title_da": "Citroner",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about lemons. Lemons are bright yellow citrus fruits with a sharp, sour taste. They are used in drinks, cooking, and baking all over the world.",
+      "script_de": "Heute lernen wir etwas über Zitronen. Zitronen sind leuchtend gelbe Zitrusfrüchte mit einem scharf-säuerlichen Geschmack. Sie werden auf der ganzen Welt in Getränken, beim Kochen und Backen verwendet.",
+      "script_it": "Oggi parleremo dei limoni. I limoni sono agrumi di colore giallo brillante dal sapore aspro e pungente. Sono utilizzati nelle bevande, nella cucina e nella cottura al forno in tutto il mondo.",
+      "script_fr": "Aujourd'hui, nous allons découvrir les citrons. Les citrons sont des agrumes jaune vif au goût piquant et aigre. Ils sont utilisés dans les boissons, la cuisine et la pâtisserie partout dans le monde.",
+      "script_es": "Hoy vamos a aprender sobre los limones. Los limones son frutas cítricas de color amarillo brillante con un sabor amargo y picante. Se utilizan en bebidas, cocina y repostería en todo el mundo.",
+      "script_hr": "Danas ćemo učiti o limunu. Limuni su jarko žuti citrusi oštrog, kiselkastog okusa. Koriste se u pićima, kuhanju i pečenju diljem svijeta.",
+      "script_cs": "Dnes se budeme učit o citronech. Citrony jsou jasně žluté citrusové plody s ostrou, kyselou chutí. Používají se v nápojích, vaření a pečení po celém světě.",
+      "script_pl": "Dzisiaj będziemy uczyć się o cytrynach. Cytryny to jasnożółte owoce cytrusowe o ostrym, kwaśnym smaku. Używa się ich do napojów, gotowania i pieczenia na całym świecie.",
+      "script_fi": "Tänään opimme sitruunoista. Sitruunat ovat kirkkaan keltaisia ​​sitrushedelmiä, joilla on terävä, hapan maku. Niitä käytetään juomissa, ruoanlaitossa ja leivonnassa kaikkialla maailmassa.",
+      "script_sk": "Dnes sa dozvieme o citrónoch. Citróny sú žiarivo žlté citrusové plody s ostrou, kyslou chuťou. Používajú sa v nápojoch, varení a pečení po celom svete.",
+      "script_da": "I dag skal vi lære om citroner. Citroner er klare gule citrusfrugter med en skarp, syrlig smag. De bruges i drikkevarer, madlavning og bagning over hele verden.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "origin",
+      "script_en": "Lemons first grew in Asia and were carried along trade routes to Europe and beyond. They grow best in warm, sunny places such as Italy, Spain, California, and parts of South America. A lemon tree can produce fruit for many years.",
+      "script_de": "Zitronen wuchsen zunächst in Asien und wurden über Handelsrouten nach Europa und darüber hinaus transportiert. Sie wachsen am besten an warmen, sonnigen Orten wie Italien, Spanien, Kalifornien und Teilen Südamerikas. Ein Zitronenbaum kann viele Jahre lang Früchte tragen.",
+      "script_it": "I limoni crescevano inizialmente in Asia e venivano trasportati lungo le rotte commerciali verso l’Europa e oltre. Crescono meglio in luoghi caldi e soleggiati come l'Italia, la Spagna, la California e alcune parti del Sud America. Un albero di limone può produrre frutti per molti anni.",
+      "script_fr": "Les citrons ont d’abord poussé en Asie et ont été transportés le long des routes commerciales vers l’Europe et au-delà. Ils poussent mieux dans les endroits chauds et ensoleillés comme l’Italie, l’Espagne, la Californie et certaines parties de l’Amérique du Sud. Un citronnier peut produire des fruits pendant de nombreuses années.",
+      "script_es": "Los limones crecieron por primera vez en Asia y fueron transportados a lo largo de rutas comerciales hacia Europa y más allá. Crecen mejor en lugares cálidos y soleados como Italia, España, California y partes de América del Sur. Un limonero puede producir frutos durante muchos años.",
+      "script_hr": "Limun je prvo rastao u Aziji i nošen trgovačkim putovima u Europu i dalje. Najbolje rastu na toplim, sunčanim mjestima kao što su Italija, Španjolska, Kalifornija i dijelovi Južne Amerike. Stablo limuna može davati plod dugi niz godina.",
+      "script_cs": "Citrony nejprve rostly v Asii a byly přepravovány po obchodních cestách do Evropy i mimo ni. Nejlépe rostou na teplých, slunných místech, jako je Itálie, Španělsko, Kalifornie a části Jižní Ameriky. Citronovník může plodit mnoho let.",
+      "script_pl": "Cytryny po raz pierwszy rosły w Azji i były przewożone szlakami handlowymi do Europy i poza nią. Najlepiej rosną w ciepłych, słonecznych miejscach, takich jak Włochy, Hiszpania, Kalifornia i części Ameryki Południowej. Drzewo cytrynowe może owocować przez wiele lat.",
+      "script_fi": "Sitruunat kasvoivat ensin Aasiassa, ja niitä kuljetettiin kauppareittejä pitkin Eurooppaan ja sen ulkopuolelle. Ne kasvavat parhaiten lämpimissä, aurinkoisissa paikoissa, kuten Italiassa, Espanjassa, Kaliforniassa ja osissa Etelä-Amerikkaa. Sitruunapuu voi tuottaa hedelmiä useita vuosia.",
+      "script_sk": "Citróny najprv rástli v Ázii a prenášali sa po obchodných cestách do Európy a mimo nej. Najlepšie rastú na teplých, slnečných miestach, ako je Taliansko, Španielsko, Kalifornia a časti Južnej Ameriky. Citrónovník môže plodiť mnoho rokov.",
+      "script_da": "Citroner voksede først i Asien og blev ført langs handelsruter til Europa og videre. De vokser bedst på varme, solrige steder som Italien, Spanien, Californien og dele af Sydamerika. Et citrontræ kan give frugt i mange år.",
+      "images": [
+        "origin.webp",
+        "origin_2.webp",
+        "origin_3.webp"
+      ]
+    },
+    {
+      "id": "growth",
+      "script_en": "Lemon trees have glossy green leaves and small white flowers that smell sweet. The flowers become green fruit, which slowly turns yellow as it ripens. Lemons can take several months to grow and be ready to pick.",
+      "script_de": "Zitronenbäume haben glänzend grüne Blätter und kleine weiße Blüten, die süß duften. Aus den Blüten entwickeln sich grüne Früchte, die sich mit zunehmender Reife langsam gelb verfärben. Es kann mehrere Monate dauern, bis Zitronen wachsen und zur Ernte bereit sind.",
+      "script_it": "Gli alberi di limone hanno foglie verdi lucide e piccoli fiori bianchi che hanno un profumo dolce. I fiori diventano frutti verdi, che diventano gialli lentamente man mano che maturano. I limoni possono impiegare diversi mesi per crescere ed essere pronti per essere raccolti.",
+      "script_fr": "Les citronniers ont des feuilles vertes brillantes et de petites fleurs blanches qui sentent bon. Les fleurs deviennent des fruits verts, qui jaunissent lentement en mûrissant. Les citrons peuvent mettre plusieurs mois à pousser et à être prêts à être cueillis.",
+      "script_es": "Los limoneros tienen hojas de color verde brillante y pequeñas flores blancas que huelen dulce. Las flores se convierten en frutos verdes, que lentamente se vuelven amarillos a medida que maduran. Los limones pueden tardar varios meses en crecer y estar listos para ser recolectados.",
+      "script_hr": "Stabla limuna imaju sjajno zeleno lišće i male bijele cvjetove koji slatko mirišu. Cvjetovi postaju zeleni plod koji sazrijevanjem polako postaje žut. Limunu može trebati nekoliko mjeseci da naraste i bude spreman za branje.",
+      "script_cs": "Citrony mají lesklé zelené listy a malé bílé květy, které sladce voní. Z květů se stávají zelené plody, které dozráváním pomalu žloutnou. Citronům může trvat několik měsíců, než vyrostou a budou připraveny ke sběru.",
+      "script_pl": "Drzewa cytrynowe mają błyszczące zielone liście i małe białe kwiaty, które słodko pachną. Kwiaty stają się zielonymi owocami, które w miarę dojrzewania powoli żółkną. Cytryny mogą rosnąć i być gotowe do zbioru po kilku miesiącach.",
+      "script_fi": "Sitruunapuissa on kiiltävän vihreät lehdet ja pienet valkoiset kukat, jotka tuoksuvat makealta. Kukat muuttuvat vihreiksi hedelmiksi, jotka muuttuvat hitaasti keltaisiksi kypsyessään. Sitruunat voivat kasvaa useita kuukausia ja olla valmiita poimittavaksi.",
+      "script_sk": "Citrónovníky majú lesklé zelené listy a malé biele kvety, ktoré sladko voňajú. Z kvetov sa stávajú zelené plody, ktoré dozrievaním pomaly žltnú. Citrónom môže trvať niekoľko mesiacov, kým vyrastú a budú pripravené na zber.",
+      "script_da": "Citrontræer har blanke grønne blade og små hvide blomster, der dufter sødt. Blomsterne bliver til grøn frugt, som langsomt bliver gul, efterhånden som den modnes. Citroner kan tage flere måneder at vokse og være klar til at plukke.",
+      "images": [
+        "growth.webp",
+        "growth_2.webp",
+        "growth_3.webp"
+      ]
+    },
+    {
+      "id": "nutrition",
+      "script_en": "Lemons are rich in vitamin C and contain citric acid, which gives them their sour taste. People use lemon juice to add flavour to food and drinks. The yellow peel, called zest, is also used in cooking and baking.",
+      "script_de": "Zitronen sind reich an Vitamin C und enthalten Zitronensäure, die ihnen ihren säuerlichen Geschmack verleiht. Menschen verwenden Zitronensaft, um Speisen und Getränken Geschmack zu verleihen. Die gelbe Schale, Schale genannt, wird auch zum Kochen und Backen verwendet.",
+      "script_it": "I limoni sono ricchi di vitamina C e contengono acido citrico, che conferisce loro il sapore aspro. Le persone usano il succo di limone per aggiungere sapore a cibi e bevande. La buccia gialla, chiamata scorza, viene utilizzata anche in cucina e al forno.",
+      "script_fr": "Les citrons sont riches en vitamine C et contiennent de l'acide citrique, ce qui leur donne leur goût aigre. Les gens utilisent le jus de citron pour ajouter de la saveur aux aliments et aux boissons. La peau jaune, appelée zeste, est également utilisée en cuisine et en pâtisserie.",
+      "script_es": "Los limones son ricos en vitamina C y contienen ácido cítrico, lo que les da su sabor amargo. La gente usa jugo de limón para agregar sabor a alimentos y bebidas. La cáscara amarilla, llamada ralladura, también se utiliza para cocinar y hornear.",
+      "script_hr": "Limun je bogat vitaminom C i sadrži limunsku kiselinu koja mu daje kiselkasti okus. Ljudi koriste sok od limuna kako bi dodali okus hrani i piću. Žuta kora, koja se naziva zest, također se koristi u kuhanju i pečenju.",
+      "script_cs": "Citrony jsou bohaté na vitamín C a obsahují kyselinu citronovou, která jim dodává kyselou chuť. Lidé používají citronovou šťávu k dochucení jídla a nápojů. Žlutá slupka, zvaná kůra, se také používá při vaření a pečení.",
+      "script_pl": "Cytryny są bogate w witaminę C i zawierają kwas cytrynowy, który nadaje im kwaśny smak. Ludzie używają soku z cytryny, aby dodać smaku potrawom i napojom. Żółta skórka, zwana skórką, jest również używana do gotowania i pieczenia.",
+      "script_fi": "Sitruunat ovat runsaasti C-vitamiinia ja sisältävät sitruunahappoa, joka antaa niille hapan maun. Ihmiset käyttävät sitruunamehua lisätäkseen makua ruokaan ja juomiin. Keltaista kuorta, jota kutsutaan kuoreksi, käytetään myös ruoanlaitossa ja leivonnassa.",
+      "script_sk": "Citróny sú bohaté na vitamín C a obsahujú kyselinu citrónovú, ktorá im dodáva kyslú chuť. Ľudia používajú citrónovú šťavu na dochutenie jedla a nápojov. Žltá kôra, nazývaná kôra, sa používa aj pri varení a pečení.",
+      "script_da": "Citroner er rige på C-vitamin og indeholder citronsyre, som giver dem deres syrlige smag. Folk bruger citronsaft til at tilføje smag til mad og drikkevarer. Den gule skræl, kaldet zest, bruges også i madlavning og bagning.",
+      "images": [
+        "nutrition.webp",
+        "nutrition_2.webp",
+        "nutrition_3.webp"
+      ]
+    },
+    {
+      "id": "kitchen",
+      "script_en": "In the kitchen, lemons become lemonade, salad dressing, sauces, and desserts. A squeeze of lemon can brighten the flavour of fish, vegetables, and tea. Its fresh, sharp taste makes it a useful fruit to keep at home.",
+      "script_de": "In der Küche werden Zitronen zu Limonade, Salatdressing, Saucen und Desserts. Ein Spritzer Zitrone kann den Geschmack von Fisch, Gemüse und Tee aufhellen. Sein frischer, scharfer Geschmack macht es zu einer nützlichen Frucht, die man zu Hause aufbewahren kann.",
+      "script_it": "In cucina i limoni diventano limonate, condimenti per insalate, salse e dolci. Una spremuta di limone può ravvivare il sapore di pesce, verdure e tè. Il suo gusto fresco e deciso lo rende un frutto utile da tenere in casa.",
+      "script_fr": "En cuisine, les citrons deviennent de la limonade, des vinaigrettes, des sauces et des desserts. Un filet de citron peut rehausser la saveur du poisson, des légumes et du thé. Son goût frais et piquant en fait un fruit utile à conserver à la maison.",
+      "script_es": "En la cocina, los limones se convierten en limonada, aderezos para ensaladas, salsas y postres. Un chorrito de limón puede realzar el sabor del pescado, las verduras y el té. Su sabor fresco y picante la convierte en una fruta útil para tener en casa.",
+      "script_hr": "U kuhinji limun postaje limunada, preljev za salatu, umaci i deserti. Ocjed limuna može posvijetliti okus ribe, povrća i čaja. Njegov svjež, oštar okus čini ga korisnim voćem za čuvanje kod kuće.",
+      "script_cs": "V kuchyni se citrony stávají limonádou, salátovým dresinkem, omáčkami a dezerty. Smáčknutí citronu může rozjasnit chuť ryb, zeleniny a čaje. Jeho svěží, ostrá chuť z něj dělá užitečné ovoce pro uchování doma.",
+      "script_pl": "W kuchni cytryny stają się lemoniadą, dressingiem do sałatek, sosami i deserami. Wyciśnięcie cytryny może rozjaśnić smak ryb, warzyw i herbaty. Jego świeży, ostry smak sprawia, że ​​warto go mieć w domu.",
+      "script_fi": "Keittiössä sitruunoista tulee limonadia, salaattikastiketta, kastikkeita ja jälkiruokia. Puristus sitruunaa voi kirkastaa kalan, vihannesten ja teen makua. Sen raikas, terävä maku tekee siitä hyödyllisen hedelmän kotona säilytettäväksi.",
+      "script_sk": "V kuchyni sa citróny stávajú limonádou, šalátovým dresingom, omáčkami a dezertmi. Kvapkanie citrónu môže rozjasniť chuť rýb, zeleniny a čaju. Jeho svieža, ostrá chuť z neho robí užitočné ovocie na uchovávanie doma.",
+      "script_da": "I køkkenet bliver citroner til limonade, salatdressing, saucer og desserter. Et skvæt citron kan lysne smagen af ​​fisk, grøntsager og te. Dens friske, skarpe smag gør den til en nyttig frugt at have derhjemme.",
+      "images": [
+        "kitchen.webp",
+        "kitchen_2.webp",
+        "kitchen_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "taste",
+      "correct": "sour",
+      "question_en": "What does a lemon taste like?",
+      "question_de": "Wie schmeckt eine Zitrone?",
+      "question_it": "Che sapore ha un limone?",
+      "question_fr": "Quel goût a un citron ?",
+      "question_es": "¿A qué sabe un limón?",
+      "question_hr": "Kakav je okus limuna?",
+      "question_cs": "Jak chutná citron?",
+      "question_pl": "Jak smakuje cytryna?",
+      "question_fi": "Miltä sitruuna maistuu?",
+      "question_sk": "Ako chutí citrón?",
+      "question_da": "Hvordan smager en citron?",
+      "options": [
+        {
+          "id": "sour",
+          "label_en": "Sour",
+          "label_de": "Sauer",
+          "label_it": "Acido",
+          "label_fr": "Aigre",
+          "label_es": "Agrio",
+          "label_hr": "kiselo",
+          "label_cs": "Kyselý",
+          "label_pl": "Kwaśny",
+          "label_fi": "Hapan",
+          "label_sk": "Kyslé",
+          "label_da": "Sur"
+        },
+        {
+          "id": "sweet",
+          "label_en": "Very sweet",
+          "label_de": "Sehr süß",
+          "label_it": "Molto dolce",
+          "label_fr": "Très doux",
+          "label_es": "muy dulce",
+          "label_hr": "Jako slatko",
+          "label_cs": "Velmi sladké",
+          "label_pl": "Bardzo słodkie",
+          "label_fi": "Erittäin makea",
+          "label_sk": "Veľmi sladké",
+          "label_da": "Meget sød"
+        },
+        {
+          "id": "salty",
+          "label_en": "Salty",
+          "label_de": "Salzig",
+          "label_it": "Salato",
+          "label_fr": "Salé",
+          "label_es": "Salado",
+          "label_hr": "Slano",
+          "label_cs": "Slaný",
+          "label_pl": "Słony",
+          "label_fi": "Suolainen",
+          "label_sk": "Slaný",
+          "label_da": "Saltet"
+        }
+      ]
+    },
+    {
+      "id": "vitamin",
+      "correct": "c",
+      "question_en": "Which vitamin are lemons rich in?",
+      "question_de": "An welchem ​​Vitamin sind Zitronen reich?",
+      "question_it": "Di quale vitamina sono ricchi i limoni?",
+      "question_fr": "De quelle vitamine les citrons sont-ils riches ?",
+      "question_es": "¿En qué vitamina son ricos los limones?",
+      "question_hr": "Kojim vitaminom je bogat limun?",
+      "question_cs": "Na jaké vitamíny jsou citrony bohaté?",
+      "question_pl": "W jaką witaminę bogate są cytryny?",
+      "question_fi": "Mitä vitamiineja sitruunat sisältävät?",
+      "question_sk": "Na ktorý vitamín sú bohaté citróny?",
+      "question_da": "Hvilket vitamin er citroner rige på?",
+      "options": [
+        {
+          "id": "c",
+          "label_en": "Vitamin C",
+          "label_de": "Vitamin C",
+          "label_it": "Vitamina C",
+          "label_fr": "Vitamine C",
+          "label_es": "vitamina c",
+          "label_hr": "Vitamin C",
+          "label_cs": "vitamín C",
+          "label_pl": "Witamina C",
+          "label_fi": "C-vitamiini",
+          "label_sk": "vitamín C",
+          "label_da": "C-vitamin"
+        },
+        {
+          "id": "d",
+          "label_en": "Vitamin D",
+          "label_de": "Vitamin D",
+          "label_it": "Vitamina D",
+          "label_fr": "Vitamine D",
+          "label_es": "vitamina d",
+          "label_hr": "Vitamin D",
+          "label_cs": "vitamín D",
+          "label_pl": "Witamina D",
+          "label_fi": "D-vitamiini",
+          "label_sk": "Vitamín D",
+          "label_da": "D-vitamin"
+        },
+        {
+          "id": "b12",
+          "label_en": "Vitamin B12",
+          "label_de": "Vitamin B12",
+          "label_it": "Vitamina B12",
+          "label_fr": "Vitamine B12",
+          "label_es": "Vitamina B12",
+          "label_hr": "Vitamin B12",
+          "label_cs": "Vitamín B12",
+          "label_pl": "Witamina B12",
+          "label_fi": "B12-vitamiini",
+          "label_sk": "Vitamín B12",
+          "label_da": "Vitamin B12"
+        }
+      ]
+    },
+    {
+      "id": "tree",
+      "correct": "tree",
+      "question_en": "What kind of plant do lemons grow on?",
+      "question_de": "Auf welcher Pflanze wachsen Zitronen?",
+      "question_it": "Su che tipo di pianta crescono i limoni?",
+      "question_fr": "Sur quel type de plante poussent les citrons ?",
+      "question_es": "¿En qué tipo de planta crecen los limones?",
+      "question_hr": "Na kakvoj biljci rastu limuni?",
+      "question_cs": "Na jaké rostlině rostou citrony?",
+      "question_pl": "Na jakiej roślinie rosną cytryny?",
+      "question_fi": "Millaisessa kasvissa sitruunat kasvavat?",
+      "question_sk": "Na akej rastline rastú citróny?",
+      "question_da": "Hvilken slags plante vokser citroner på?",
+      "options": [
+        {
+          "id": "tree",
+          "label_en": "A tree",
+          "label_de": "Ein Baum",
+          "label_it": "Un albero",
+          "label_fr": "Un arbre",
+          "label_es": "un arbol",
+          "label_hr": "Drvo",
+          "label_cs": "Strom",
+          "label_pl": "Drzewo",
+          "label_fi": "Puu",
+          "label_sk": "Strom",
+          "label_da": "Et træ"
+        },
+        {
+          "id": "vine",
+          "label_en": "A vine",
+          "label_de": "Eine Rebe",
+          "label_it": "Una vite",
+          "label_fr": "Une vigne",
+          "label_es": "una vid",
+          "label_hr": "Vinova loza",
+          "label_cs": "Vinná réva",
+          "label_pl": "Winorośl",
+          "label_fi": "Viiniköynnös",
+          "label_sk": "Vinič",
+          "label_da": "En vinstok"
+        },
+        {
+          "id": "bush",
+          "label_en": "A small cactus",
+          "label_de": "Ein kleiner Kaktus",
+          "label_it": "Un piccolo cactus",
+          "label_fr": "Un petit cactus",
+          "label_es": "Un pequeño cactus",
+          "label_hr": "Mali kaktus",
+          "label_cs": "Malý kaktus",
+          "label_pl": "Mały kaktus",
+          "label_fi": "Pieni kaktus",
+          "label_sk": "Malý kaktus",
+          "label_da": "En lille kaktus"
+        }
+      ]
+    }
+  ]
+}

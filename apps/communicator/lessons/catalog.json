@@ -610,6 +610,27 @@
       "title_da": "Flødeis"
     },
     {
+      "id": "lemon",
+      "category_id": "food",
+      "symbol_id": "lemon",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/lemon/lemon_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/lemon/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 1860749,
+      "version": 1,
+      "title_en": "Lemons",
+      "title_de": "Zitronen",
+      "title_it": "Limoni",
+      "title_fr": "Citrons",
+      "title_es": "limones",
+      "title_hr": "Limuni",
+      "title_cs": "Citrony",
+      "title_pl": "Cytryny",
+      "title_fi": "Sitruunat",
+      "title_sk": "Citróny",
+      "title_da": "Citroner"
+    },
+    {
       "id": "orange",
       "category_id": "food",
       "symbol_id": "orange",
