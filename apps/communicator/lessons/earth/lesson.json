@@ -1,0 +1,293 @@
+{
+  "id": "earth",
+  "category_id": "space",
+  "symbol_id": "earth",
+  "thumbnail": "earth_thumb.webp",
+  "title_en": "Earth",
+  "title_de": "Erde",
+  "title_it": "Terra",
+  "title_fr": "Terre",
+  "title_es": "Tierra",
+  "title_hr": "Zemlja",
+  "title_cs": "Země",
+  "title_pl": "Ziemia",
+  "title_fi": "Maapallo",
+  "title_sk": "Zem",
+  "title_da": "Jord",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about Earth. Earth is the third planet from the Sun, and it is the only place in the universe where we know life exists. From space it looks like a beautiful blue and green marble.",
+      "script_de": "Heute werden wir etwas über die Erde lernen. Die Erde ist der dritte Planet von der Sonne aus gesehen und der einzige Ort im Universum, von dem wir wissen, dass es Leben gibt. Aus dem Weltraum sieht es aus wie ein wunderschöner blau-grüner Marmor.",
+      "script_it": "Oggi impareremo a conoscere la Terra. La Terra è il terzo pianeta dal Sole ed è l'unico posto nell'universo in cui sappiamo che esiste la vita. Dallo spazio sembra un bellissimo marmo blu e verde.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur la Terre. La Terre est la troisième planète après le Soleil et c'est le seul endroit de l'univers où nous connaissons l'existence de la vie. Vu de l’espace, il ressemble à un beau marbre bleu et vert.",
+      "script_es": "Hoy vamos a aprender sobre la Tierra. La Tierra es el tercer planeta desde el Sol y es el único lugar del universo donde sabemos que existe vida. Desde el espacio parece una preciosa canica azul y verde.",
+      "script_hr": "Danas ćemo učiti o Zemlji. Zemlja je treći planet od Sunca i to je jedino mjesto u svemiru za koje znamo da postoji život. Iz svemira izgleda kao prekrasan plavo-zeleni mramor.",
+      "script_cs": "Dnes se budeme učit o Zemi. Země je třetí planetou od Slunce a je to jediné místo ve vesmíru, kde víme, že existuje život. Z vesmíru vypadá jako krásný modrý a zelený mramor.",
+      "script_pl": "Dziś będziemy uczyć się o Ziemi. Ziemia jest trzecią planetą od Słońca i jedynym miejscem we wszechświecie, o którym wiemy, że istnieje życie. Z kosmosu wygląda jak piękny niebiesko-zielony marmur.",
+      "script_fi": "Tänään opimme maapallosta. Maa on kolmas planeetta Auringosta, ja se on ainoa paikka universumissa, jossa tiedämme elämän olevan olemassa. Avaruudesta katsottuna se näyttää kauniilta siniseltä ja vihreältä marmorilta.",
+      "script_sk": "Dnes sa budeme učiť o Zemi. Zem je tretia planéta od Slnka a je to jediné miesto vo vesmíre, kde vieme, že život existuje. Z vesmíru vyzerá ako krásny modrý a zelený mramor.",
+      "script_da": "I dag skal vi lære om Jorden. Jorden er den tredje planet fra Solen, og det er det eneste sted i universet, hvor vi ved, at der findes liv. Fra rummet ligner det en smuk blå og grøn marmor.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "surface",
+      "script_en": "Most of Earth's surface is covered by water. The rest is made up of continents, islands, mountains, and deserts. A blanket of air called the atmosphere surrounds the planet and protects living things from the Sun's harmful rays.",
+      "script_de": "Der größte Teil der Erdoberfläche ist von Wasser bedeckt. Der Rest besteht aus Kontinenten, Inseln, Bergen und Wüsten. Eine Luftdecke namens Atmosphäre umgibt den Planeten und schützt Lebewesen vor den schädlichen Strahlen der Sonne.",
+      "script_it": "La maggior parte della superficie terrestre è coperta dall'acqua. Il resto è costituito da continenti, isole, montagne e deserti. Una coltre d'aria chiamata atmosfera circonda il pianeta e protegge gli esseri viventi dai raggi nocivi del sole.",
+      "script_fr": "La majeure partie de la surface terrestre est recouverte d'eau. Le reste est constitué de continents, d’îles, de montagnes et de déserts. Une couche d'air appelée atmosphère entoure la planète et protège les êtres vivants des rayons nocifs du Soleil.",
+      "script_es": "La mayor parte de la superficie de la Tierra está cubierta por agua. El resto está formado por continentes, islas, montañas y desiertos. Una capa de aire llamada atmósfera rodea el planeta y protege a los seres vivos de los dañinos rayos del sol.",
+      "script_hr": "Većina Zemljine površine prekrivena je vodom. Ostatak čine kontinenti, otoci, planine i pustinje. Zračni omotač koji se naziva atmosfera okružuje planet i štiti živa bića od štetnih Sunčevih zraka.",
+      "script_cs": "Většina povrchu Země je pokryta vodou. Zbytek tvoří kontinenty, ostrovy, hory a pouště. Planetu obklopuje vzduchová pokrývka zvaná atmosféra a chrání živé věci před škodlivými slunečními paprsky.",
+      "script_pl": "Większą część powierzchni Ziemi pokrywa woda. Resztę tworzą kontynenty, wyspy, góry i pustynie. Powłoka powietrza zwana atmosferą otacza planetę i chroni organizmy żywe przed szkodliwym promieniowaniem słonecznym.",
+      "script_fi": "Suurin osa maapallon pinnasta on veden peitossa. Loput koostuvat maanosista, saarista, vuorista ja aavikoista. Ilmakehä, nimeltään ilmakehä, ympäröi planeettaa ja suojaa eläviä olentoja auringon haitallisilta säteiltä.",
+      "script_sk": "Väčšinu povrchu Zeme pokrýva voda. Zvyšok tvoria kontinenty, ostrovy, hory a púšte. Vzduchová pokrývka nazývaná atmosféra obklopuje planétu a chráni živé veci pred škodlivými slnečnými lúčmi.",
+      "script_da": "Det meste af Jordens overflade er dækket af vand. Resten består af kontinenter, øer, bjerge og ørkener. Et tæppe af luft kaldet atmosfæren omgiver planeten og beskytter levende ting mod solens skadelige stråler.",
+      "images": [
+        "surface.webp",
+        "surface_2.webp",
+        "surface_3.webp"
+      ]
+    },
+    {
+      "id": "moon",
+      "script_en": "Earth has one natural moon. The Moon circles our planet and helps create the ocean tides. It also keeps Earth's tilt steady, which gives us regular seasons through the year.",
+      "script_de": "Die Erde hat einen natürlichen Mond. Der Mond umkreist unseren Planeten und trägt zur Entstehung der Meeresgezeiten bei. Es hält auch die Neigung der Erde stabil, was uns das ganze Jahr über regelmäßige Jahreszeiten beschert.",
+      "script_it": "La Terra ha una luna naturale. La Luna circonda il nostro pianeta e contribuisce a creare le maree oceaniche. Inoltre, mantiene stabile l'inclinazione della Terra, garantendo stagioni regolari durante tutto l'anno.",
+      "script_fr": "La Terre a une lune naturelle. La Lune tourne autour de notre planète et contribue à créer les marées océaniques. Cela maintient également l'inclinaison de la Terre stable, ce qui nous donne des saisons régulières tout au long de l'année.",
+      "script_es": "La Tierra tiene una luna natural. La Luna gira alrededor de nuestro planeta y ayuda a crear las mareas oceánicas. También mantiene estable la inclinación de la Tierra, lo que nos proporciona estaciones regulares durante todo el año.",
+      "script_hr": "Zemlja ima jedan prirodni mjesec. Mjesec kruži oko našeg planeta i pomaže u stvaranju oceanskih plima. Također održava nagib Zemlje stabilnim, što nam daje redovita godišnja doba kroz godinu.",
+      "script_cs": "Země má jeden přirozený měsíc. Měsíc obíhá naši planetu a pomáhá vytvářet oceánské odlivy. Také udržuje stabilní sklon Země, což nám dává pravidelná roční období v průběhu roku.",
+      "script_pl": "Ziemia ma jeden naturalny księżyc. Księżyc okrąża naszą planetę i pomaga tworzyć pływy oceaniczne. Utrzymuje także stałe nachylenie Ziemi, co zapewnia nam regularne pory roku.",
+      "script_fi": "Maapallolla on yksi luonnollinen kuu. Kuu kiertää planeettamme ja auttaa luomaan valtamerien vuoroveden. Se pitää myös Maan kallistuksen vakaana, mikä antaa meille säännölliset vuodenajat läpi vuoden.",
+      "script_sk": "Zem má jeden prirodzený mesiac. Mesiac obieha našu planétu a pomáha vytvárať oceánske prílivy. Tiež udržuje stabilný sklon Zeme, čo nám dáva pravidelné ročné obdobia počas roka.",
+      "script_da": "Jorden har én naturlig måne. Månen kredser om vores planet og hjælper med at skabe havvande. Det holder også Jordens hældning stabil, hvilket giver os regelmæssige årstider gennem året.",
+      "images": [
+        "moon.webp",
+        "moon_2.webp",
+        "moon_3.webp"
+      ]
+    },
+    {
+      "id": "life",
+      "script_en": "Earth is full of life. Plants, animals, and people live in forests, oceans, grasslands, and even icy polar regions. Water, sunlight, and air make it possible for so many different living things to share the planet.",
+      "script_de": "Die Erde ist voller Leben. Pflanzen, Tiere und Menschen leben in Wäldern, Ozeanen, Grasland und sogar eisigen Polarregionen. Wasser, Sonnenlicht und Luft ermöglichen es so vielen verschiedenen Lebewesen, den Planeten zu teilen.",
+      "script_it": "La Terra è piena di vita. Piante, animali e persone vivono nelle foreste, negli oceani, nelle praterie e persino nelle regioni polari ghiacciate. L’acqua, la luce solare e l’aria rendono possibile la condivisione del pianeta tra tanti esseri viventi diversi.",
+      "script_fr": "La Terre est pleine de vie. Les plantes, les animaux et les humains vivent dans les forêts, les océans, les prairies et même dans les régions polaires glacées. L’eau, la lumière du soleil et l’air permettent à tant d’êtres vivants différents de partager la planète.",
+      "script_es": "La Tierra está llena de vida. Las plantas, los animales y las personas viven en bosques, océanos, praderas e incluso en regiones polares heladas. El agua, la luz solar y el aire hacen posible que tantos seres vivos diferentes compartan el planeta.",
+      "script_hr": "Zemlja je puna života. Biljke, životinje i ljudi žive u šumama, oceanima, travnjacima, pa čak i u ledenim polarnim područjima. Voda, sunčeva svjetlost i zrak omogućuju tolikom broju različitih živih bića da dijele planet.",
+      "script_cs": "Země je plná života. Rostliny, zvířata a lidé žijí v lesích, oceánech, pastvinách a dokonce i v ledových polárních oblastech. Voda, sluneční světlo a vzduch umožňují, aby se na planetě dělilo tolik různých živých tvorů.",
+      "script_pl": "Ziemia jest pełna życia. Rośliny, zwierzęta i ludzie żyją w lasach, oceanach, na łąkach, a nawet w lodowatych regionach polarnych. Woda, światło słoneczne i powietrze umożliwiają tak wielu różnym żywym istotom współdzielenie planety.",
+      "script_fi": "Maapallo on täynnä elämää. Kasvit, eläimet ja ihmiset elävät metsissä, valtamerissä, niityillä ja jopa jäisillä napa-alueilla. Vesi, auringonvalo ja ilma mahdollistavat niin monien erilaisten elävien olentojen jakamisen planeetalla.",
+      "script_sk": "Zem je plná života. Rastliny, zvieratá a ľudia žijú v lesoch, oceánoch, pastvinách a dokonca aj v ľadových polárnych oblastiach. Voda, slnečné svetlo a vzduch umožňujú toľkým rôznym živým bytostiam zdieľať planétu.",
+      "script_da": "Jorden er fuld af liv. Planter, dyr og mennesker lever i skove, oceaner, græsarealer og endda iskolde polare områder. Vand, sollys og luft gør det muligt for så mange forskellige levende ting at dele planeten.",
+      "images": [
+        "life.webp",
+        "life_2.webp",
+        "life_3.webp"
+      ]
+    },
+    {
+      "id": "future",
+      "script_en": "Today people study Earth from space to understand its weather, oceans, and changing climate. Looking after our home planet is important, because it is the only Earth we have.",
+      "script_de": "Heutzutage erforschen Menschen die Erde vom Weltraum aus, um ihr Wetter, ihre Ozeane und den Klimawandel zu verstehen. Es ist wichtig, sich um unseren Heimatplaneten zu kümmern, denn er ist die einzige Erde, die wir haben.",
+      "script_it": "Oggi le persone studiano la Terra dallo spazio per comprenderne il clima, gli oceani e i cambiamenti climatici. Prenderci cura del nostro pianeta natale è importante, perché è l’unica Terra che abbiamo.",
+      "script_fr": "Aujourd’hui, les gens étudient la Terre depuis l’espace pour comprendre son climat, ses océans et l’évolution de son climat. Prendre soin de notre planète est important, car c’est la seule Terre que nous ayons.",
+      "script_es": "Hoy en día la gente estudia la Tierra desde el espacio para comprender su tiempo, sus océanos y su clima cambiante. Cuidar nuestro planeta de origen es importante, porque es la única Tierra que tenemos.",
+      "script_hr": "Danas ljudi proučavaju Zemlju iz svemira kako bi razumjeli njezino vrijeme, oceane i promjenu klime. Briga o našem rodnom planetu je važna, jer je to jedina Zemlja koju imamo.",
+      "script_cs": "Dnes lidé studují Zemi z vesmíru, aby pochopili její počasí, oceány a měnící se klima. Starat se o naši domovskou planetu je důležité, protože je to jediná Země, kterou máme.",
+      "script_pl": "Obecnie ludzie badają Ziemię z kosmosu, aby zrozumieć jej pogodę, oceany i zmieniający się klimat. Dbanie o naszą rodzimą planetę jest ważne, ponieważ jest to jedyna Ziemia, jaką mamy.",
+      "script_fi": "Nykyään ihmiset tutkivat Maata avaruudesta ymmärtääkseen sen säätä, valtameriä ja muuttuvaa ilmastoa. Kotiplaneetastamme huolehtiminen on tärkeää, koska se on ainoa maa, joka meillä on.",
+      "script_sk": "Dnes ľudia študujú Zem z vesmíru, aby pochopili jej počasie, oceány a meniace sa podnebie. Starostlivosť o našu domovskú planétu je dôležitá, pretože je to jediná Zem, ktorú máme.",
+      "script_da": "I dag studerer mennesker Jorden fra rummet for at forstå dens vejr, oceaner og skiftende klima. At passe på vores hjemmeplanet er vigtigt, fordi det er den eneste jord, vi har.",
+      "images": [
+        "future.webp",
+        "future_2.webp",
+        "future_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "order",
+      "correct": "third",
+      "question_en": "Which planet is Earth from the Sun?",
+      "question_de": "Welcher Planet ist die Erde von der Sonne aus?",
+      "question_it": "Quale pianeta dista la Terra dal Sole?",
+      "question_fr": "Quelle planète est la Terre par rapport au Soleil ?",
+      "question_es": "¿Qué planeta es la Tierra desde el Sol?",
+      "question_hr": "Koji je planet Zemlja od Sunca?",
+      "question_cs": "Která planeta je Země od Slunce?",
+      "question_pl": "Która planeta to Ziemia od Słońca?",
+      "question_fi": "Mikä planeetta on Maa auringosta?",
+      "question_sk": "Ktorá planéta je Zem od Slnka?",
+      "question_da": "Hvilken planet er Jorden fra Solen?",
+      "options": [
+        {
+          "id": "third",
+          "label_en": "The third planet",
+          "label_de": "Der dritte Planet",
+          "label_it": "Il terzo pianeta",
+          "label_fr": "La troisième planète",
+          "label_es": "El tercer planeta",
+          "label_hr": "Treći planet",
+          "label_cs": "Třetí planeta",
+          "label_pl": "Trzecia planeta",
+          "label_fi": "Kolmas planeetta",
+          "label_sk": "Tretia planéta",
+          "label_da": "Den tredje planet"
+        },
+        {
+          "id": "first",
+          "label_en": "The first planet",
+          "label_de": "Der erste Planet",
+          "label_it": "Il primo pianeta",
+          "label_fr": "La première planète",
+          "label_es": "el primer planeta",
+          "label_hr": "Prvi planet",
+          "label_cs": "První planeta",
+          "label_pl": "Pierwsza planeta",
+          "label_fi": "Ensimmäinen planeetta",
+          "label_sk": "Prvá planéta",
+          "label_da": "Den første planet"
+        },
+        {
+          "id": "fifth",
+          "label_en": "The fifth planet",
+          "label_de": "Der fünfte Planet",
+          "label_it": "Il quinto pianeta",
+          "label_fr": "La cinquième planète",
+          "label_es": "El quinto planeta",
+          "label_hr": "Peti planet",
+          "label_cs": "Pátá planeta",
+          "label_pl": "Piąta planeta",
+          "label_fi": "Viides planeetta",
+          "label_sk": "Piata planéta",
+          "label_da": "Den femte planet"
+        }
+      ]
+    },
+    {
+      "id": "moon",
+      "correct": "one",
+      "question_en": "How many natural moons does Earth have?",
+      "question_de": "Wie viele natürliche Monde hat die Erde?",
+      "question_it": "Quante lune naturali ha la Terra?",
+      "question_fr": "Combien de lunes naturelles la Terre possède-t-elle ?",
+      "question_es": "¿Cuántas lunas naturales tiene la Tierra?",
+      "question_hr": "Koliko prirodnih mjeseca ima Zemlja?",
+      "question_cs": "Kolik přirozených měsíců má Země?",
+      "question_pl": "Ile naturalnych księżyców ma Ziemia?",
+      "question_fi": "Kuinka monta luonnollista kuuta maapallolla on?",
+      "question_sk": "Koľko prirodzených mesiacov má Zem?",
+      "question_da": "Hvor mange naturlige måner har Jorden?",
+      "options": [
+        {
+          "id": "one",
+          "label_en": "One",
+          "label_de": "Eins",
+          "label_it": "Uno",
+          "label_fr": "Un",
+          "label_es": "Uno",
+          "label_hr": "Jedan",
+          "label_cs": "Jeden",
+          "label_pl": "Jeden",
+          "label_fi": "Yksi",
+          "label_sk": "Jeden",
+          "label_da": "En"
+        },
+        {
+          "id": "two",
+          "label_en": "Two",
+          "label_de": "Zwei",
+          "label_it": "Due",
+          "label_fr": "Deux",
+          "label_es": "Dos",
+          "label_hr": "Dva",
+          "label_cs": "Dva",
+          "label_pl": "Dwa",
+          "label_fi": "Kaksi",
+          "label_sk": "Dvaja",
+          "label_da": "To"
+        },
+        {
+          "id": "none",
+          "label_en": "None",
+          "label_de": "Keiner",
+          "label_it": "Nessuno",
+          "label_fr": "Aucun",
+          "label_es": "Ninguno",
+          "label_hr": "Nijedan",
+          "label_cs": "Žádný",
+          "label_pl": "Nic",
+          "label_fi": "Ei mitään",
+          "label_sk": "žiadne",
+          "label_da": "Ingen"
+        }
+      ]
+    },
+    {
+      "id": "water",
+      "correct": "water",
+      "question_en": "What covers most of Earth's surface?",
+      "question_de": "Was bedeckt den größten Teil der Erdoberfläche?",
+      "question_it": "Cosa copre la maggior parte della superficie terrestre?",
+      "question_fr": "Qu'est-ce qui recouvre la majeure partie de la surface de la Terre ?",
+      "question_es": "¿Qué cubre la mayor parte de la superficie de la Tierra?",
+      "question_hr": "Što prekriva najveći dio Zemljine površine?",
+      "question_cs": "Co pokrývá většinu zemského povrchu?",
+      "question_pl": "Co pokrywa większą część powierzchni Ziemi?",
+      "question_fi": "Mikä peittää suurimman osan maapallon pinnasta?",
+      "question_sk": "Čo pokrýva väčšinu zemského povrchu?",
+      "question_da": "Hvad dækker det meste af Jordens overflade?",
+      "options": [
+        {
+          "id": "water",
+          "label_en": "Water",
+          "label_de": "Wasser",
+          "label_it": "Acqua",
+          "label_fr": "Eau",
+          "label_es": "Agua",
+          "label_hr": "Voda",
+          "label_cs": "Voda",
+          "label_pl": "Woda",
+          "label_fi": "Vesi",
+          "label_sk": "Voda",
+          "label_da": "Vand"
+        },
+        {
+          "id": "sand",
+          "label_en": "Sand",
+          "label_de": "Sand",
+          "label_it": "Sabbia",
+          "label_fr": "Sable",
+          "label_es": "Arena",
+          "label_hr": "Pijesak",
+          "label_cs": "Písek",
+          "label_pl": "Piasek",
+          "label_fi": "Hiekka",
+          "label_sk": "Piesok",
+          "label_da": "Sand"
+        },
+        {
+          "id": "ice",
+          "label_en": "Ice",
+          "label_de": "Eis",
+          "label_it": "Ghiaccio",
+          "label_fr": "Glace",
+          "label_es": "Hielo",
+          "label_hr": "Led",
+          "label_cs": "Led",
+          "label_pl": "Lód",
+          "label_fi": "Jäätä",
+          "label_sk": "Ľad",
+          "label_da": "Is"
+        }
+      ]
+    }
+  ]
+}

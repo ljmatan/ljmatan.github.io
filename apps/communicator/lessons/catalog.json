@@ -902,6 +902,27 @@
       "title_fi": "Vesimeloni",
       "title_sk": "Vodný melón",
       "title_da": "Vandmelon"
+    },
+    {
+      "id": "earth",
+      "category_id": "space",
+      "symbol_id": "earth",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/earth/earth_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/earth/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2427053,
+      "version": 1,
+      "title_en": "Earth",
+      "title_de": "Erde",
+      "title_it": "Terra",
+      "title_fr": "Terre",
+      "title_es": "Tierra",
+      "title_hr": "Zemlja",
+      "title_cs": "Země",
+      "title_pl": "Ziemia",
+      "title_fi": "Maapallo",
+      "title_sk": "Zem",
+      "title_da": "Jord"
     }
   ]
 }
