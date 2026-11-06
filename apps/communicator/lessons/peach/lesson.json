@@ -1,0 +1,293 @@
+{
+  "id": "peach",
+  "category_id": "food",
+  "symbol_id": "peach",
+  "thumbnail": "peach_thumb.webp",
+  "title_en": "Peaches",
+  "title_de": "Pfirsiche",
+  "title_it": "Pesche",
+  "title_fr": "Pêches",
+  "title_es": "melocotones",
+  "title_hr": "Breskve",
+  "title_cs": "Broskve",
+  "title_pl": "Brzoskwinie",
+  "title_fi": "Persikat",
+  "title_sk": "Broskyne",
+  "title_da": "Ferskner",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about peaches. Peaches are soft, sweet fruits with fuzzy skin and a large stone in the middle. Their juicy flesh makes them a favourite summer fruit.",
+      "script_de": "Heute lernen wir etwas über Pfirsiche. Pfirsiche sind weiche, süße Früchte mit flauschiger Schale und einem großen Kern in der Mitte. Ihr saftiges Fruchtfleisch macht sie zu einer beliebten Sommerfrucht.",
+      "script_it": "Oggi parleremo delle pesche. Le pesche sono frutti morbidi e dolci con la buccia pelosa e un grosso nocciolo al centro. La loro polpa succosa li rende uno dei frutti estivi preferiti.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur les pêches. Les pêches sont des fruits doux et sucrés avec une peau pelucheuse et un gros noyau au milieu. Leur chair juteuse en fait un fruit d’été apprécié.",
+      "script_es": "Hoy vamos a aprender sobre los melocotones. Los melocotones son frutas suaves y dulces con piel peluda y un hueso grande en el medio. Su pulpa jugosa los convierte en la fruta favorita del verano.",
+      "script_hr": "Danas ćemo učiti o breskvama. Breskve su mekane, slatke voćke s zamagljenom korom i velikom košticom u sredini. Njihovo sočno meso čini ih omiljenim ljetnim voćem.",
+      "script_cs": "Dnes se budeme učit o broskvích. Broskve jsou měkké, sladké plody s rozmazanou slupkou a velkou peckou uprostřed. Jejich šťavnatá dužina z nich dělá oblíbené letní ovoce.",
+      "script_pl": "Dzisiaj będziemy uczyć się o brzoskwiniach. Brzoskwinie to miękkie, słodkie owoce z puszystą skórką i dużym pestką pośrodku. Dzięki soczystemu miąższowi są ulubionym letnim owocem.",
+      "script_fi": "Tänään opimme persikoista. Persikat ovat pehmeitä, makeita hedelmiä, joissa on sumea kuori ja suuri kivi keskellä. Niiden mehukas hedelmäliha tekee niistä kesän suosikkihedelmiä.",
+      "script_sk": "Dnes sa dozvieme niečo o broskyniach. Broskyne sú mäkké, sladké ovocie s rozmazanou šupkou a veľkou kôstkou uprostred. Ich šťavnatá dužina z nich robí obľúbené letné ovocie.",
+      "script_da": "I dag skal vi lære om ferskner. Fersken er bløde, søde frugter med uklar hud og en stor sten i midten. Deres saftige kød gør dem til en favorit sommerfrugt.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "origin",
+      "script_en": "Peaches first grew in China, where people have grown them for thousands of years. Travellers carried peach trees along trade routes to Persia, Europe, and the Americas. Today peaches are grown in many warm, sunny regions.",
+      "script_de": "Pfirsiche wurden erstmals in China angebaut, wo sie seit Tausenden von Jahren angebaut werden. Reisende transportierten Pfirsichbäume entlang der Handelsrouten nach Persien, Europa und Amerika. Heute werden Pfirsiche in vielen warmen, sonnigen Regionen angebaut.",
+      "script_it": "Le pesche sono cresciute per la prima volta in Cina, dove le persone le coltivano da migliaia di anni. I viaggiatori trasportavano alberi di pesco lungo le rotte commerciali verso la Persia, l’Europa e le Americhe. Oggi le pesche vengono coltivate in molte regioni calde e soleggiate.",
+      "script_fr": "Les pêches ont poussé pour la première fois en Chine, où les gens les cultivent depuis des milliers d’années. Les voyageurs transportaient des pêchers le long des routes commerciales vers la Perse, l’Europe et les Amériques. Aujourd’hui, les pêches sont cultivées dans de nombreuses régions chaudes et ensoleillées.",
+      "script_es": "Los melocotones crecieron por primera vez en China, donde la gente los ha cultivado durante miles de años. Los viajeros llevaban melocotoneros a lo largo de las rutas comerciales hacia Persia, Europa y América. Hoy en día los melocotones se cultivan en muchas regiones cálidas y soleadas.",
+      "script_hr": "Breskve su prvo rasle u Kini, gdje ih ljudi uzgajaju tisućama godina. Putnici su nosili stabla breskve trgovačkim putovima u Perziju, Europu i Ameriku. Danas se breskve uzgajaju u mnogim toplim, sunčanim krajevima.",
+      "script_cs": "Broskve poprvé rostly v Číně, kde je lidé pěstovali po tisíce let. Cestovatelé nesli broskvoně po obchodních cestách do Persie, Evropy a Ameriky. Dnes se broskve pěstují v mnoha teplých, slunečných oblastech.",
+      "script_pl": "Brzoskwinie po raz pierwszy rosły w Chinach, gdzie ludzie uprawiali je od tysięcy lat. Podróżnicy nieśli brzoskwinie szlakami handlowymi do Persji, Europy i obu Ameryk. Obecnie brzoskwinie uprawia się w wielu ciepłych, słonecznych regionach.",
+      "script_fi": "Persikat kasvoivat ensin Kiinassa, missä ihmiset ovat kasvattaneet niitä tuhansia vuosia. Matkailijat kantoivat persikkapuita kauppareittejä pitkin Persiaan, Eurooppaan ja Amerikkaan. Nykyään persikoita kasvatetaan monilla lämpimillä, aurinkoisilla alueilla.",
+      "script_sk": "Broskyne prvýkrát rástli v Číne, kde ich ľudia pestovali už tisíce rokov. Cestovatelia nosili broskyne po obchodných cestách do Perzie, Európy a Ameriky. Dnes sa broskyne pestujú v mnohých teplých, slnečných oblastiach.",
+      "script_da": "Fersken voksede først i Kina, hvor folk har dyrket dem i tusinder af år. Rejsende bar ferskentræer langs handelsruter til Persien, Europa og Amerika. I dag dyrkes ferskner i mange varme, solrige områder.",
+      "images": [
+        "origin.webp",
+        "origin_2.webp",
+        "origin_3.webp"
+      ]
+    },
+    {
+      "id": "growth",
+      "script_en": "A peach tree blossoms in spring with pink flowers. Bees help pollinate the flowers, and small green peaches begin to grow. Over the summer they swell, soften, and turn yellow, orange, or red.",
+      "script_de": "Ein Pfirsichbaum blüht im Frühling mit rosa Blüten. Bienen helfen bei der Bestäubung der Blüten und kleine grüne Pfirsiche beginnen zu wachsen. Im Laufe des Sommers schwellen sie an, werden weicher und verfärben sich gelb, orange oder rot.",
+      "script_it": "Un albero di pesco fiorisce in primavera con fiori rosa. Le api aiutano a impollinare i fiori e iniziano a crescere piccole pesche verdi. Durante l'estate si gonfiano, si ammorbidiscono e diventano gialli, arancioni o rossi.",
+      "script_fr": "Un pêcher fleurit au printemps avec des fleurs roses. Les abeilles aident à polliniser les fleurs et de petites pêches vertes commencent à pousser. Au cours de l'été, ils gonflent, se ramollissent et deviennent jaunes, orange ou rouges.",
+      "script_es": "Un melocotonero florece en primavera con flores rosadas. Las abejas ayudan a polinizar las flores y comienzan a crecer pequeños melocotones verdes. Durante el verano se hinchan, se ablandan y se vuelven amarillos, anaranjados o rojos.",
+      "script_hr": "Stablo breskve u proljeće cvjeta ružičastim cvjetovima. Pčele pomažu oprašiti cvijeće, a male zelene breskve počinju rasti. Tijekom ljeta nabubre, omekšaju i postanu žute, narančaste ili crvene.",
+      "script_cs": "Broskvoň kvete na jaře růžovými květy. Včely pomáhají opylovat květy a začínají růst malé zelené broskve. Přes léto nabobtnají, změknou a zbarví se do žluta, oranžova nebo červena.",
+      "script_pl": "Brzoskwinia kwitnie wiosną różowymi kwiatami. Pszczoły pomagają zapylać kwiaty, a małe zielone brzoskwinie zaczynają rosnąć. Latem pęcznieją, miękną i zmieniają kolor na żółty, pomarańczowy lub czerwony.",
+      "script_fi": "Persikkapuu kukkii keväällä vaaleanpunaisilla kukilla. Mehiläiset auttavat pölyttämään kukkia, ja pienet vihreät persikat alkavat kasvaa. Kesän aikana ne turpoavat, pehmenevät ja muuttuvat keltaisiksi, oransseiksi tai punaisiksi.",
+      "script_sk": "Broskyňový strom kvitne na jar ružovými kvetmi. Včely pomáhajú opeľovať kvety a začínajú rásť malé zelené broskyne. Cez leto napučia, zmäknú a sfarbia sa do žlta, oranžova alebo červena.",
+      "script_da": "Et ferskentræ blomstrer om foråret med lyserøde blomster. Bier hjælper med at bestøve blomsterne, og små grønne ferskner begynder at vokse. I løbet af sommeren svulmer de op, blødgøres og bliver gule, orange eller røde.",
+      "images": [
+        "growth.webp",
+        "growth_2.webp",
+        "growth_3.webp"
+      ]
+    },
+    {
+      "id": "varieties",
+      "script_en": "There are many kinds of peach. Some have white flesh and are very sweet, while others have yellow flesh with a little more tang. Peaches can also be clingstone, where the fruit sticks to the stone, or freestone, where it comes away easily.",
+      "script_de": "Es gibt viele Arten von Pfirsichen. Einige haben weißes Fruchtfleisch und sind sehr süß, während andere gelbes Fruchtfleisch mit etwas mehr Geschmack haben. Pfirsiche können auch Clingstone-Pfirsiche sein, bei denen die Frucht am Stein klebt, oder Freestone-Pfirsiche, bei denen sie sich leicht lösen lässt.",
+      "script_it": "Esistono molti tipi di pesca. Alcuni hanno la polpa bianca e sono molto dolci, mentre altri hanno la polpa gialla con un sapore leggermente più piccante. Le pesche possono anche essere con nocciolo, dove il frutto si attacca al nocciolo, o con nocciolo, dove si stacca facilmente.",
+      "script_fr": "Il existe de nombreuses sortes de pêches. Certains ont une chair blanche et sont très sucrés, tandis que d’autres ont une chair jaune avec un peu plus de piquant. Les pêches peuvent également être à noyau adhérent, où le fruit adhère au noyau, ou à pierre de taille, où il se détache facilement.",
+      "script_es": "Hay muchos tipos de melocotón. Algunos tienen pulpa blanca y son muy dulces, mientras que otros tienen pulpa amarilla con un poco más de sabor. Los melocotones también pueden ser clingstone, donde la fruta se adhiere al hueso, o piedra caliza, donde se desprende fácilmente.",
+      "script_hr": "Postoji mnogo vrsta breskvi. Neki imaju bijelo meso i vrlo su slatki, dok drugi imaju žuto meso s malo više okusa. Breskve također mogu biti s košticom, gdje se voće lijepi za košticu, ili s košticom, gdje se lako odvaja.",
+      "script_cs": "Existuje mnoho druhů broskví. Některé mají bílou dužinu a jsou velmi sladké, zatímco jiné mají dužinu žlutou s trochu více řízem. Broskve mohou být také clingstone, kde se ovoce lepí na pecku, nebo freestone, kde se snadno uvolní.",
+      "script_pl": "Istnieje wiele rodzajów brzoskwiń. Niektóre mają biały miąższ i są bardzo słodkie, podczas gdy inne mają żółty miąższ z nieco większym posmakiem. Brzoskwinie mogą być również kamieniami przylegającymi, gdzie owoce przyklejają się do pestek, lub wolnostojącymi, skąd łatwo odchodzą.",
+      "script_fi": "Persikoita on monenlaisia. Joillakin on valkoinen liha ja ne ovat erittäin makeita, kun taas toisilla on keltainen liha, jossa on hieman kirpeää. Persikat voivat olla myös kiveä, jossa hedelmä tarttuu kiveen, tai vapaakiveä, josta se irtoaa helposti.",
+      "script_sk": "Existuje veľa druhov broskýň. Niektoré majú bielu dužinu a sú veľmi sladké, zatiaľ čo iné majú žlté mäso s trochou štipľavejšej chuti. Broskyne môžu byť aj kôstkové, kde sa ovocie prilepí na kôstku, alebo kôstkové, kde sa ľahko uvoľní.",
+      "script_da": "Der er mange slags fersken. Nogle har hvidt kød og er meget søde, mens andre har gult kød med lidt mere tang. Fersken kan også være clingstone, hvor frugten klæber til stenen, eller freestone, hvor den let kommer væk.",
+      "images": [
+        "varieties.webp",
+        "varieties_2.webp",
+        "varieties_3.webp"
+      ]
+    },
+    {
+      "id": "kitchen",
+      "script_en": "In the kitchen, peaches are eaten fresh or added to fruit salads and yoghurt. They can be baked into pies and crumbles, cooked into jam, or blended into smoothies. A ripe peach is soft, fragrant, and full of juice.",
+      "script_de": "In der Küche werden Pfirsiche frisch gegessen oder zu Obstsalaten und Joghurt hinzugefügt. Sie können zu Kuchen und Streuseln gebacken, zu Marmelade gekocht oder in Smoothies gemischt werden. Ein reifer Pfirsich ist weich, duftend und voller Saft.",
+      "script_it": "In cucina le pesche vengono consumate fresche o aggiunte a macedonie e yogurt. Possono essere cotti in torte e sbriciolati, cotti in marmellata o frullati in frullati. Una pesca matura è morbida, profumata e piena di succo.",
+      "script_fr": "En cuisine, les pêches se consomment fraîches ou ajoutées aux salades de fruits et aux yaourts. Ils peuvent être cuits dans des tartes et des crumbles, cuits dans de la confiture ou mélangés à des smoothies. Une pêche mûre est douce, parfumée et pleine de jus.",
+      "script_es": "En la cocina, los melocotones se comen frescos o se añaden a ensaladas de frutas y yogur. Se pueden hornear para hacer pasteles y migajas, cocinarlos para hacer mermelada o mezclarlos para hacer batidos. Un melocotón maduro es suave, fragante y lleno de jugo.",
+      "script_hr": "U kuhinji se breskve jedu svježe ili se dodaju u voćne salate i jogurt. Mogu se peći u pite i crumbles, kuhati u džem ili miješati u smoothieje. Zrela breskva je mekana, mirisna i puna soka.",
+      "script_cs": "V kuchyni se broskve jedí čerstvé nebo se přidávají do ovocných salátů a jogurtů. Lze je zapéct do koláčů a drobenek, vařit do džemu nebo míchat do smoothies. Zralá broskev je měkká, voňavá a plná šťávy.",
+      "script_pl": "W kuchni brzoskwinie spożywa się na świeżo lub dodaje do sałatek owocowych i jogurtów. Można je upiec w ciastach i kruszonkach, ugotować na dżem lub zmiksować w koktajle. Dojrzała brzoskwinia jest miękka, pachnąca i pełna soku.",
+      "script_fi": "Keittiössä persikat syödään tuoreena tai lisätään hedelmäsalaattiin ja jogurttiin. Niistä voidaan paistaa piirakoiksi ja murusiksi, keittää hilloksi tai sekoittaa smoothieihin. Kypsä persikka on pehmeä, tuoksuva ja täynnä mehua.",
+      "script_sk": "V kuchyni sa broskyne jedia čerstvé alebo sa pridávajú do ovocných šalátov a jogurtov. Môžu sa piecť na koláče a drobky, variť do džemu alebo zmiešať do smoothies. Zrelá broskyňa je mäkká, voňavá a plná šťavy.",
+      "script_da": "I køkkenet spises ferskner friske eller tilsættes frugtsalater og yoghurt. De kan bages til tærter og crumbles, koges til marmelade eller blendes til smoothies. En moden fersken er blød, duftende og fuld af saft.",
+      "images": [
+        "kitchen.webp",
+        "kitchen_2.webp",
+        "kitchen_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "skin",
+      "correct": "fuzzy",
+      "question_en": "What is special about a peach's skin?",
+      "question_de": "Was ist das Besondere an der Schale eines Pfirsichs?",
+      "question_it": "Cosa c'è di speciale nella buccia di una pesca?",
+      "question_fr": "Quelle est la particularité de la peau d'une pêche ?",
+      "question_es": "¿Qué tiene de especial la piel de un melocotón?",
+      "question_hr": "Što je posebno u koži breskve?",
+      "question_cs": "Co je zvláštního na slupce broskve?",
+      "question_pl": "Co jest specjalnego w skórce brzoskwini?",
+      "question_fi": "Mitä erityistä persikan ihossa on?",
+      "question_sk": "Čo je zvláštne na šupke broskyne?",
+      "question_da": "Hvad er specielt ved en ferskens hud?",
+      "options": [
+        {
+          "id": "fuzzy",
+          "label_en": "It is soft and fuzzy",
+          "label_de": "Es ist weich und flauschig",
+          "label_it": "È morbido e sfocato",
+          "label_fr": "C'est doux et flou",
+          "label_es": "es suave y peluda",
+          "label_hr": "Mekana je i nejasna",
+          "label_cs": "Je měkký a chlupatý",
+          "label_pl": "Jest miękki i puszysty",
+          "label_fi": "Se on pehmeä ja sumea",
+          "label_sk": "Je mäkký a rozmazaný",
+          "label_da": "Den er blød og uklar"
+        },
+        {
+          "id": "scaly",
+          "label_en": "It is covered in scales",
+          "label_de": "Es ist mit Schuppen bedeckt",
+          "label_it": "È ricoperto di scaglie",
+          "label_fr": "Il est couvert d'écailles",
+          "label_es": "Está cubierto de escamas",
+          "label_hr": "Prekriven je ljuskama",
+          "label_cs": "Je pokryta šupinami",
+          "label_pl": "Jest pokryty łuskami",
+          "label_fi": "Se on suomujen peitossa",
+          "label_sk": "Je pokrytá šupinami",
+          "label_da": "Den er dækket af skæl"
+        },
+        {
+          "id": "hard",
+          "label_en": "It is hard like a shell",
+          "label_de": "Es ist hart wie eine Muschel",
+          "label_it": "È duro come una conchiglia",
+          "label_fr": "C'est dur comme une coquille",
+          "label_es": "es duro como una concha",
+          "label_hr": "Tvrd je poput školjke",
+          "label_cs": "Je tvrdý jako ulita",
+          "label_pl": "Jest twardy jak skorupa",
+          "label_fi": "Se on kova kuin kuori",
+          "label_sk": "Je tvrdý ako mušľa",
+          "label_da": "Det er hårdt som en skal"
+        }
+      ]
+    },
+    {
+      "id": "stone",
+      "correct": "stone",
+      "question_en": "What is in the middle of a peach?",
+      "question_de": "Was ist in der Mitte eines Pfirsichs?",
+      "question_it": "Cosa c'è nel mezzo di una pesca?",
+      "question_fr": "Qu'y a-t-il au milieu d'une pêche ?",
+      "question_es": "¿Qué hay en medio de un melocotón?",
+      "question_hr": "Što je u sredini breskve?",
+      "question_cs": "Co je uprostřed broskve?",
+      "question_pl": "Co kryje się w środku brzoskwini?",
+      "question_fi": "Mitä on persikan keskellä?",
+      "question_sk": "Čo je uprostred broskyne?",
+      "question_da": "Hvad er der i midten af ​​en fersken?",
+      "options": [
+        {
+          "id": "stone",
+          "label_en": "A large stone",
+          "label_de": "Ein großer Stein",
+          "label_it": "Una grande pietra",
+          "label_fr": "Une grosse pierre",
+          "label_es": "una piedra grande",
+          "label_hr": "Veliki kamen",
+          "label_cs": "Velký kámen",
+          "label_pl": "Duży kamień",
+          "label_fi": "Iso kivi",
+          "label_sk": "Veľký kameň",
+          "label_da": "En stor sten"
+        },
+        {
+          "id": "water",
+          "label_en": "A pool of water",
+          "label_de": "Ein Wasserbecken",
+          "label_it": "Una pozza d'acqua",
+          "label_fr": "Un bassin d'eau",
+          "label_es": "Un charco de agua",
+          "label_hr": "Bazen vode",
+          "label_cs": "Bazén s vodou",
+          "label_pl": "Basen z wodą",
+          "label_fi": "Vesiallas",
+          "label_sk": "Bazén s vodou",
+          "label_da": "En pøl af vand"
+        },
+        {
+          "id": "seeds",
+          "label_en": "Tiny seeds on the outside",
+          "label_de": "Außen winzige Samenkörner",
+          "label_it": "Piccoli semi all'esterno",
+          "label_fr": "De minuscules graines à l'extérieur",
+          "label_es": "Semillas diminutas en el exterior.",
+          "label_hr": "S vanjske strane sitne sjemenke",
+          "label_cs": "Drobná semínka na vnější straně",
+          "label_pl": "Na zewnątrz drobne nasiona",
+          "label_fi": "Ulkopuolella pieniä siemeniä",
+          "label_sk": "Zvonku drobné semienka",
+          "label_da": "Små frø udenpå"
+        }
+      ]
+    },
+    {
+      "id": "origin",
+      "correct": "china",
+      "question_en": "Where did peaches first grow?",
+      "question_de": "Wo wuchsen Pfirsiche zum ersten Mal?",
+      "question_it": "Dove sono cresciute per prime le pesche?",
+      "question_fr": "Où les pêches ont-elles poussé pour la première fois ?",
+      "question_es": "¿Dónde crecieron por primera vez los melocotones?",
+      "question_hr": "Gdje su prvo rasle breskve?",
+      "question_cs": "Kde poprvé rostly broskve?",
+      "question_pl": "Gdzie po raz pierwszy rosły brzoskwinie?",
+      "question_fi": "Missä persikat kasvoivat ensimmäisen kerran?",
+      "question_sk": "Kde prvýkrát rástli broskyne?",
+      "question_da": "Hvor voksede ferskner først?",
+      "options": [
+        {
+          "id": "china",
+          "label_en": "In China",
+          "label_de": "In China",
+          "label_it": "In Cina",
+          "label_fr": "En Chine",
+          "label_es": "en china",
+          "label_hr": "U Kini",
+          "label_cs": "v Číně",
+          "label_pl": "W Chinach",
+          "label_fi": "Kiinassa",
+          "label_sk": "v Číne",
+          "label_da": "I Kina"
+        },
+        {
+          "id": "arctic",
+          "label_en": "In the Arctic",
+          "label_de": "In der Arktis",
+          "label_it": "Nell'Artico",
+          "label_fr": "Dans l'Arctique",
+          "label_es": "en el ártico",
+          "label_hr": "Na Arktiku",
+          "label_cs": "V Arktidě",
+          "label_pl": "W Arktyce",
+          "label_fi": "Arktisella alueella",
+          "label_sk": "V Arktíde",
+          "label_da": "I Arktis"
+        },
+        {
+          "id": "australia",
+          "label_en": "In Australia",
+          "label_de": "In Australien",
+          "label_it": "In Australia",
+          "label_fr": "En Australie",
+          "label_es": "en australia",
+          "label_hr": "U Australiji",
+          "label_cs": "V Austrálii",
+          "label_pl": "W Australii",
+          "label_fi": "Australiassa",
+          "label_sk": "V Austrálii",
+          "label_da": "I Australien"
+        }
+      ]
+    }
+  ]
+}

@@ -673,6 +673,27 @@
       "title_da": "Appelsiner"
     },
     {
+      "id": "peach",
+      "category_id": "food",
+      "symbol_id": "peach",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/peach/peach_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/peach/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 1898540,
+      "version": 1,
+      "title_en": "Peaches",
+      "title_de": "Pfirsiche",
+      "title_it": "Pesche",
+      "title_fr": "Pêches",
+      "title_es": "melocotones",
+      "title_hr": "Breskve",
+      "title_cs": "Broskve",
+      "title_pl": "Brzoskwinie",
+      "title_fi": "Persikat",
+      "title_sk": "Broskyne",
+      "title_da": "Ferskner"
+    },
+    {
       "id": "pizza",
       "category_id": "food",
       "symbol_id": "pizza",
