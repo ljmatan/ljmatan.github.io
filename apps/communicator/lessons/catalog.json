@@ -379,6 +379,27 @@
       "title_da": "Kaniner"
     },
     {
+      "id": "shark",
+      "category_id": "animals",
+      "symbol_id": "shark",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/shark/shark_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/shark/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 1781088,
+      "version": 1,
+      "title_en": "Sharks",
+      "title_de": "Haie",
+      "title_it": "Squali",
+      "title_fr": "Requins",
+      "title_es": "tiburones",
+      "title_hr": "Morski psi",
+      "title_cs": "Žraloci",
+      "title_pl": "Rekiny",
+      "title_fi": "Hait",
+      "title_sk": "Žraloky",
+      "title_da": "Hajer"
+    },
+    {
       "id": "sheep",
       "category_id": "animals",
       "symbol_id": "sheep",

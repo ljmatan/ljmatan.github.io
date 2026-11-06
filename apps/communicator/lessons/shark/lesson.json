@@ -1,0 +1,293 @@
+{
+  "id": "shark",
+  "category_id": "animals",
+  "symbol_id": "shark",
+  "thumbnail": "shark_thumb.webp",
+  "title_en": "Sharks",
+  "title_de": "Haie",
+  "title_it": "Squali",
+  "title_fr": "Requins",
+  "title_es": "tiburones",
+  "title_hr": "Morski psi",
+  "title_cs": "Žraloci",
+  "title_pl": "Rekiny",
+  "title_fi": "Hait",
+  "title_sk": "Žraloky",
+  "title_da": "Hajer",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about sharks. Sharks are fish that have lived in the ocean for hundreds of millions of years. They come in many shapes and sizes, from tiny reef sharks to the enormous whale shark.",
+      "script_de": "Heute werden wir etwas über Haie lernen. Haie sind Fische, die seit Hunderten von Millionen Jahren im Meer leben. Es gibt sie in vielen Formen und Größen, vom winzigen Riffhai bis zum riesigen Walhai.",
+      "script_it": "Oggi impareremo a conoscere gli squali. Gli squali sono pesci che vivono nell'oceano da centinaia di milioni di anni. Sono disponibili in molte forme e dimensioni, dai piccoli squali del reef all'enorme squalo balena.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur les requins. Les requins sont des poissons qui vivent dans l'océan depuis des centaines de millions d'années. Ils se présentent sous de nombreuses formes et tailles, des minuscules requins de récif à l'énorme requin baleine.",
+      "script_es": "Hoy vamos a aprender sobre los tiburones. Los tiburones son peces que han vivido en el océano durante cientos de millones de años. Los hay de muchas formas y tamaños, desde pequeños tiburones de arrecife hasta el enorme tiburón ballena.",
+      "script_hr": "Danas ćemo učiti o morskim psima. Morski psi su ribe koje žive u oceanu stotinama milijuna godina. Dolaze u mnogim oblicima i veličinama, od sićušnih grebenskih morskih pasa do golemih kitopsina.",
+      "script_cs": "Dnes se budeme učit o žralocích. Žraloci jsou ryby, které žijí v oceánu stovky milionů let. Přicházejí v mnoha tvarech a velikostech, od malých útesových žraloků po obrovské žraloky velrybí.",
+      "script_pl": "Dzisiaj będziemy uczyć się o rekinach. Rekiny to ryby żyjące w oceanach od setek milionów lat. Występują w wielu kształtach i rozmiarach, od małych rekinów rafowych po ogromne rekiny wielorybie.",
+      "script_fi": "Tänään opimme haista. Hait ovat kaloja, jotka ovat eläneet valtamerissä satoja miljoonia vuosia. Niitä on monen muotoisia ja kokoisia, pienistä riuttahaista valtavaan valashaihin.",
+      "script_sk": "Dnes sa budeme učiť o žralokoch. Žraloky sú ryby, ktoré žijú v oceáne stovky miliónov rokov. Prichádzajú v mnohých tvaroch a veľkostiach, od malých útesových žralokov až po obrovské žraloky veľrybie.",
+      "script_da": "I dag skal vi lære om hajer. Hajer er fisk, der har levet i havet i hundreder af millioner af år. De kommer i mange former og størrelser, fra små revhajer til den enorme hvalhaj.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "habitat",
+      "script_en": "Sharks live in all the world's oceans. Some prefer warm, shallow reefs, while others swim in the cold, dark deep sea. A few even travel up rivers. Wherever they live, sharks are important hunters that help keep ocean life in balance.",
+      "script_de": "Haie leben in allen Weltmeeren. Manche bevorzugen warme, flache Riffe, andere schwimmen im kalten, dunklen Tiefsee. Einige reisen sogar flussaufwärts. Wo auch immer sie leben, Haie sind wichtige Jäger, die dazu beitragen, das Leben im Meer im Gleichgewicht zu halten.",
+      "script_it": "Gli squali vivono in tutti gli oceani del mondo. Alcuni preferiscono barriere coralline calde e poco profonde, mentre altri nuotano nel mare profondo, freddo e scuro. Alcuni risalgono addirittura i fiumi. Ovunque vivano, gli squali sono cacciatori importanti che aiutano a mantenere in equilibrio la vita oceanica.",
+      "script_fr": "Les requins vivent dans tous les océans du monde. Certains préfèrent les récifs chauds et peu profonds, tandis que d’autres nagent dans les eaux profondes, froides et sombres. Quelques-uns remontent même les rivières. Où qu’ils vivent, les requins sont d’importants chasseurs qui contribuent à maintenir l’équilibre de la vie océanique.",
+      "script_es": "Los tiburones viven en todos los océanos del mundo. Algunos prefieren arrecifes cálidos y poco profundos, mientras que otros nadan en las profundidades del mar, frías y oscuras. Algunos incluso viajan río arriba. Dondequiera que vivan, los tiburones son cazadores importantes que ayudan a mantener en equilibrio la vida oceánica.",
+      "script_hr": "Morski psi žive u svim svjetskim oceanima. Neki više vole tople, plitke grebene, dok drugi plivaju u hladnom, tamnom dubokom moru. Neki čak putuju rijekama. Gdje god žive, morski psi su važni lovci koji pomažu u održavanju ravnoteže u oceanskom životu.",
+      "script_cs": "Žraloci žijí ve všech světových oceánech. Někteří preferují teplé, mělké útesy, zatímco jiní plavou ve studeném, temném hlubokém moři. Někteří dokonce cestují po řekách. Ať žijí kdekoli, žraloci jsou důležitými lovci, kteří pomáhají udržovat oceánský život v rovnováze.",
+      "script_pl": "Rekiny żyją we wszystkich oceanach świata. Niektórzy wolą ciepłe, płytkie rafy, podczas gdy inni pływają w zimnym, ciemnym, głębokim morzu. Niektórzy nawet płyną w górę rzek. Gdziekolwiek żyją, rekiny są ważnymi myśliwymi, które pomagają utrzymać równowagę życia w oceanach.",
+      "script_fi": "Haita elää kaikissa maailman valtamerissä. Jotkut pitävät lämpimistä, matalista riutoista, kun taas toiset uivat kylmässä, pimeässä syvässä meressä. Jotkut jopa matkustavat jokia pitkin. Missä tahansa hait elävätkin, ne ovat tärkeitä metsästäjiä, jotka auttavat pitämään valtameren elämän tasapainossa.",
+      "script_sk": "Žraloky žijú vo všetkých svetových oceánoch. Niektorí uprednostňujú teplé, plytké útesy, zatiaľ čo iní plávajú v chladnom, tmavom hlbokom mori. Niektorí dokonca cestujú po riekach. Kdekoľvek žijú, žraloky sú dôležitými lovcami, ktorí pomáhajú udržiavať život v oceáne v rovnováhe.",
+      "script_da": "Hajer lever i alle verdenshavene. Nogle foretrækker varme, lavvandede rev, mens andre svømmer i det kolde, mørke dybe hav. Nogle få rejser endda op ad floder. Uanset hvor de bor, er hajer vigtige jægere, der hjælper med at holde havets liv i balance.",
+      "images": [
+        "habitat.webp",
+        "habitat_2.webp",
+        "habitat_3.webp"
+      ]
+    },
+    {
+      "id": "body",
+      "script_en": "A shark's skeleton is made of flexible cartilage instead of hard bone. Its skin is covered in tiny tooth-like scales, and it breathes through gills on the sides of its head. Sharks have rows of teeth that are replaced throughout their lives.",
+      "script_de": "Das Skelett eines Hais besteht aus flexiblem Knorpel statt aus hartem Knochen. Seine Haut ist mit winzigen zahnähnlichen Schuppen bedeckt und er atmet durch Kiemen an den Seiten seines Kopfes. Haie haben Zahnreihen, die im Laufe ihres Lebens ausgetauscht werden.",
+      "script_it": "Lo scheletro di uno squalo è costituito da cartilagine flessibile anziché da ossa dure. La sua pelle è ricoperta da minuscole scaglie simili a denti e respira attraverso le branchie ai lati della testa. Gli squali hanno file di denti che vengono sostituiti nel corso della loro vita.",
+      "script_fr": "Le squelette d'un requin est constitué de cartilage flexible plutôt que d'os durs. Sa peau est recouverte de minuscules écailles ressemblant à des dents et il respire par les branchies situées sur les côtés de sa tête. Les requins ont des rangées de dents qui sont remplacées tout au long de leur vie.",
+      "script_es": "El esqueleto de un tiburón está hecho de cartílago flexible en lugar de hueso duro. Su piel está cubierta de pequeñas escamas parecidas a dientes y respira a través de branquias a los lados de la cabeza. Los tiburones tienen hileras de dientes que se van reemplazando a lo largo de su vida.",
+      "script_hr": "Kostur morskog psa izgrađen je od savitljive hrskavice umjesto od tvrde kosti. Koža mu je prekrivena sitnim ljuskama nalik zubu, a diše kroz škrge na bočnim stranama glave. Morski psi imaju nizove zuba koji se mijenjaju tijekom života.",
+      "script_cs": "Kostra žraloka je vyrobena z pružné chrupavky namísto tvrdé kosti. Jeho kůže je pokryta drobnými šupinami podobnými zubům a dýchá žábrami po stranách hlavy. Žraloci mají řady zubů, které se po celý život vyměňují.",
+      "script_pl": "Szkielet rekina składa się z elastycznej chrząstki, a nie twardej kości. Jego skórę pokrywają drobne łuski przypominające zęby, a oddycha przez skrzela po bokach głowy. Rekiny mają rzędy zębów, które wymieniają się przez całe życie.",
+      "script_fi": "Hain luuranko on valmistettu joustavasta rustosta kovan luun sijaan. Sen iho on peitetty pienillä hammasmaisilla suomuilla, ja se hengittää päänsä sivuilla olevien kidusten kautta. Hailla on hammasrivejä, jotka vaihtuvat koko elämänsä ajan.",
+      "script_sk": "Kostra žraloka je vyrobená z pružnej chrupavky namiesto tvrdej kosti. Jeho koža je pokrytá drobnými zubatými šupinami a dýcha žiabrami po stranách hlavy. Žraloky majú rady zubov, ktoré sa počas života vymieňajú.",
+      "script_da": "En hajs skelet er lavet af fleksibel brusk i stedet for hård knogle. Dens hud er dækket af bittesmå tandlignende skæl, og den ånder gennem gæller på siderne af hovedet. Hajer har rækker af tænder, der udskiftes gennem hele deres liv.",
+      "images": [
+        "body.webp",
+        "body_2.webp",
+        "body_3.webp"
+      ]
+    },
+    {
+      "id": "family",
+      "script_en": "Baby sharks are called pups. Some sharks lay eggs in protective cases, while others give birth to live young. A pup is independent from the start, but it stays in safe, shallow nursery areas while it grows.",
+      "script_de": "Babyhaie werden Junghaie genannt. Manche Haie legen Eier in Schutzhüllen ab, andere bringen lebende Junge zur Welt. Ein Welpe ist von Anfang an unabhängig, bleibt aber während seines Wachstums in sicheren, flachen Aufwuchsbereichen.",
+      "script_it": "I cuccioli di squalo sono chiamati cuccioli. Alcuni squali depongono le uova in custodie protettive, mentre altri danno alla luce piccoli vivi. Un cucciolo è indipendente fin dall'inizio, ma rimane in aree sicure e poco profonde durante la crescita.",
+      "script_fr": "Les bébés requins sont appelés chiots. Certains requins pondent des œufs dans des étuis protecteurs, tandis que d'autres donnent naissance à des petits vivants. Un chiot est indépendant dès le départ, mais il reste dans des zones de croissance sûres et peu profondes pendant sa croissance.",
+      "script_es": "Los tiburones bebés se llaman cachorros. Algunos tiburones ponen huevos en fundas protectoras, mientras que otros dan a luz crías vivas. Un cachorro es independiente desde el principio, pero permanece en áreas de cría seguras y poco profundas mientras crece.",
+      "script_hr": "Mladunci morskih pasa nazivaju se mladunci. Neki morski psi polažu jaja u zaštitnim kutijama, dok drugi rađaju žive mlade. Mladunče je samostalno od samog početka, ali dok raste ostaje u sigurnim, plitkim jaslicama.",
+      "script_cs": "Mláďata žraloků se nazývají mláďata. Někteří žraloci kladou vajíčka do ochranných pouzder, jiní rodí živá mláďata. Štěně je od začátku nezávislé, ale během růstu zůstává v bezpečných, mělkých oblastech školky.",
+      "script_pl": "Małe rekiny nazywane są szczeniętami. Niektóre rekiny składają jaja w pojemnikach ochronnych, inne zaś rodzą młode. Szczenię jest od początku niezależne, ale w miarę wzrostu przebywa w bezpiecznych, płytkich obszarach żłobka.",
+      "script_fi": "Baby haita kutsutaan pentuja. Jotkut hait munivat suojakoteloissa, kun taas toiset synnyttävät eläviä nuoria. Pentu on alusta alkaen itsenäinen, mutta pysyy turvallisissa, matalissa lastentarha-alueilla kasvaessaan.",
+      "script_sk": "Mláďatá žralokov sa nazývajú mláďatá. Niektoré žraloky kladú vajíčka do ochranných puzdier, iné rodia živé mláďatá. Šteniatko je od začiatku nezávislé, ale kým rastie, zostáva v bezpečných, plytkých oblastiach škôlky.",
+      "script_da": "Babyhajer kaldes unger. Nogle hajer lægger æg i beskyttelsestilfælde, mens andre føder levende unger. En hvalp er uafhængig fra starten, men den bliver i sikre, lavvandede vuggestueområder, mens den vokser.",
+      "images": [
+        "family.webp",
+        "family_2.webp",
+        "family_3.webp"
+      ]
+    },
+    {
+      "id": "life_today",
+      "script_en": "Today many sharks are threatened by overfishing and habitat loss. They grow slowly and have few young, so their numbers recover slowly. Protecting sharks helps keep coral reefs and ocean food webs healthy.",
+      "script_de": "Heutzutage sind viele Haie durch Überfischung und Lebensraumverlust bedroht. Sie wachsen langsam und haben nur wenige Junge, sodass sich ihre Zahl langsam erholt. Der Schutz der Haie trägt dazu bei, Korallenriffe und Nahrungsnetze im Meer gesund zu halten.",
+      "script_it": "Oggi molti squali sono minacciati dalla pesca eccessiva e dalla perdita di habitat. Crescono lentamente e hanno pochi piccoli, quindi il loro numero si riprende lentamente. Proteggere gli squali aiuta a mantenere in salute le barriere coralline e le reti alimentari oceaniche.",
+      "script_fr": "Aujourd'hui, de nombreux requins sont menacés par la surpêche et la perte de leur habitat. Ils grandissent lentement et ont peu de petits, leur nombre se rétablit donc lentement. La protection des requins contribue à maintenir les récifs coralliens et les réseaux alimentaires océaniques en bonne santé.",
+      "script_es": "Hoy en día, muchos tiburones están amenazados por la sobrepesca y la pérdida de hábitat. Crecen lentamente y tienen pocas crías, por lo que su número se recupera lentamente. Proteger a los tiburones ayuda a mantener saludables los arrecifes de coral y las redes alimentarias oceánicas.",
+      "script_hr": "Danas su mnogi morski psi ugroženi pretjeranim izlovom i gubitkom staništa. Rastu sporo i imaju malo mladih pa se njihov broj sporo obnavlja. Zaštita morskih pasa pomaže u održavanju zdravih koraljnih grebena i oceanskih hranidbenih mreža.",
+      "script_cs": "Dnes je mnoho žraloků ohroženo nadměrným rybolovem a ztrátou přirozeného prostředí. Rostou pomalu a mají málo mláďat, takže jejich počet se pomalu obnovuje. Ochrana žraloků pomáhá udržovat korálové útesy a oceánské potravní sítě zdravé.",
+      "script_pl": "Obecnie wielu rekinom zagraża przełowienie i utrata siedlisk. Rosną powoli i mają niewiele młodych, więc ich liczebność powoli się regeneruje. Ochrona rekinów pomaga utrzymać zdrowe rafy koralowe i oceaniczne sieci pokarmowe.",
+      "script_fi": "Nykyään monia haita uhkaa liikakalastus ja elinympäristöjen menetys. Ne kasvavat hitaasti ja niillä on vähän poikasia, joten niiden lukumäärä palautuu hitaasti. Haiden suojeleminen auttaa pitämään koralliriutat ja valtamerten ravintoverkostot terveinä.",
+      "script_sk": "Dnes je veľa žralokov ohrozených nadmerným rybolovom a stratou biotopov. Rastú pomaly a majú málo mláďat, takže ich počet sa pomaly obnovuje. Ochrana žralokov pomáha udržiavať zdravé koralové útesy a oceánske potravinové siete.",
+      "script_da": "I dag er mange hajer truet af overfiskning og tab af levesteder. De vokser langsomt og har få unger, så deres antal kommer sig langsomt. Beskyttelse af hajer hjælper med at holde koralrev og havets fødevæv sunde.",
+      "images": [
+        "life_today.webp",
+        "life_today_2.webp",
+        "life_today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "fish",
+      "correct": "fish",
+      "question_en": "What kind of animal is a shark?",
+      "question_de": "Was für ein Tier ist ein Hai?",
+      "question_it": "Che tipo di animale è uno squalo?",
+      "question_fr": "Quel genre d'animal est un requin ?",
+      "question_es": "¿Qué tipo de animal es un tiburón?",
+      "question_hr": "Kakva je životinja morski pas?",
+      "question_cs": "Jaký druh zvířete je žralok?",
+      "question_pl": "Jakim zwierzęciem jest rekin?",
+      "question_fi": "Millainen eläin on hai?",
+      "question_sk": "Aký druh zvieraťa je žralok?",
+      "question_da": "Hvilken slags dyr er en haj?",
+      "options": [
+        {
+          "id": "fish",
+          "label_en": "A fish",
+          "label_de": "Ein Fisch",
+          "label_it": "Un pesce",
+          "label_fr": "Un poisson",
+          "label_es": "un pez",
+          "label_hr": "riba",
+          "label_cs": "Ryba",
+          "label_pl": "Ryba",
+          "label_fi": "Kala",
+          "label_sk": "Ryba",
+          "label_da": "En fisk"
+        },
+        {
+          "id": "mammal",
+          "label_en": "A mammal",
+          "label_de": "Ein Säugetier",
+          "label_it": "Un mammifero",
+          "label_fr": "Un mammifère",
+          "label_es": "un mamífero",
+          "label_hr": "Sisavac",
+          "label_cs": "savec",
+          "label_pl": "Ssak",
+          "label_fi": "Nisäkäs",
+          "label_sk": "Cicavec",
+          "label_da": "Et pattedyr"
+        },
+        {
+          "id": "reptile",
+          "label_en": "A reptile",
+          "label_de": "Ein Reptil",
+          "label_it": "Un rettile",
+          "label_fr": "Un reptile",
+          "label_es": "un reptil",
+          "label_hr": "Gmaz",
+          "label_cs": "Plaz",
+          "label_pl": "Gad",
+          "label_fi": "Matelija",
+          "label_sk": "Plaz",
+          "label_da": "Et krybdyr"
+        }
+      ]
+    },
+    {
+      "id": "skeleton",
+      "correct": "cartilage",
+      "question_en": "What is a shark's skeleton made of?",
+      "question_de": "Woraus besteht das Skelett eines Hais?",
+      "question_it": "Di cosa è fatto lo scheletro di uno squalo?",
+      "question_fr": "De quoi est fait le squelette d'un requin ?",
+      "question_es": "¿De qué está hecho el esqueleto de un tiburón?",
+      "question_hr": "Od čega je napravljen kostur morskog psa?",
+      "question_cs": "Z čeho se skládá žraločí kostra?",
+      "question_pl": "Z czego zbudowany jest szkielet rekina?",
+      "question_fi": "Mistä hain luuranko on tehty?",
+      "question_sk": "Z čoho je vyrobená kostra žraloka?",
+      "question_da": "Hvad er en hajs skelet lavet af?",
+      "options": [
+        {
+          "id": "cartilage",
+          "label_en": "Flexible cartilage",
+          "label_de": "Flexibler Knorpel",
+          "label_it": "Cartilagine flessibile",
+          "label_fr": "Cartilage souple",
+          "label_es": "cartílago flexible",
+          "label_hr": "Fleksibilna hrskavica",
+          "label_cs": "Pružná chrupavka",
+          "label_pl": "Elastyczna chrząstka",
+          "label_fi": "Joustava rusto",
+          "label_sk": "Flexibilná chrupavka",
+          "label_da": "Fleksibel brusk"
+        },
+        {
+          "id": "wood",
+          "label_en": "Wood",
+          "label_de": "Holz",
+          "label_it": "Legna",
+          "label_fr": "Bois",
+          "label_es": "Madera",
+          "label_hr": "Drvo",
+          "label_cs": "Dřevo",
+          "label_pl": "Drewno",
+          "label_fi": "Puu",
+          "label_sk": "Drevo",
+          "label_da": "Træ"
+        },
+        {
+          "id": "shell",
+          "label_en": "Hard shell",
+          "label_de": "Hartschale",
+          "label_it": "Guscio duro",
+          "label_fr": "Coque dure",
+          "label_es": "cáscara dura",
+          "label_hr": "Tvrda ljuska",
+          "label_cs": "Tvrdá skořápka",
+          "label_pl": "Twarda skorupa",
+          "label_fi": "Kova kuori",
+          "label_sk": "Tvrdá škrupina",
+          "label_da": "Hård skal"
+        }
+      ]
+    },
+    {
+      "id": "baby",
+      "correct": "pup",
+      "question_en": "What is a baby shark called?",
+      "question_de": "Wie heißt ein Babyhai?",
+      "question_it": "Come si chiama un cucciolo di squalo?",
+      "question_fr": "Comment s’appelle un bébé requin ?",
+      "question_es": "¿Cómo se llama una cría de tiburón?",
+      "question_hr": "Kako se zove beba morskog psa?",
+      "question_cs": "Jak se nazývá mládě žraloka?",
+      "question_pl": "Jak nazywa się mały rekin?",
+      "question_fi": "Mikä on vauvahain nimi?",
+      "question_sk": "Ako sa volá žraločie mláďa?",
+      "question_da": "Hvad hedder en babyhaj?",
+      "options": [
+        {
+          "id": "pup",
+          "label_en": "A pup",
+          "label_de": "Ein Welpe",
+          "label_it": "Un cucciolo",
+          "label_fr": "Un chiot",
+          "label_es": "un cachorro",
+          "label_hr": "štene",
+          "label_cs": "štěně",
+          "label_pl": "Szczeniak",
+          "label_fi": "Pentu",
+          "label_sk": "Šteniatko",
+          "label_da": "En hvalp"
+        },
+        {
+          "id": "calf",
+          "label_en": "A calf",
+          "label_de": "Ein Kalb",
+          "label_it": "Un vitello",
+          "label_fr": "Un veau",
+          "label_es": "un ternero",
+          "label_hr": "tele",
+          "label_cs": "Tele",
+          "label_pl": "Cielę",
+          "label_fi": "Vasikka",
+          "label_sk": "Telíčko",
+          "label_da": "En kalv"
+        },
+        {
+          "id": "foal",
+          "label_en": "A foal",
+          "label_de": "Ein Fohlen",
+          "label_it": "Un puledro",
+          "label_fr": "Un poulain",
+          "label_es": "un potro",
+          "label_hr": "Ždrijebe",
+          "label_cs": "Hříbě",
+          "label_pl": "Źrebię",
+          "label_fi": "Varsa",
+          "label_sk": "Žriebätko",
+          "label_da": "Et føl"
+        }
+      ]
+    }
+  ]
+}
