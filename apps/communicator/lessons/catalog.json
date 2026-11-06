@@ -85,6 +85,27 @@
       "title_da": "Køer"
     },
     {
+      "id": "crocodile",
+      "category_id": "animals",
+      "symbol_id": "crocodile",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/crocodile/crocodile_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/crocodile/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2504250,
+      "version": 1,
+      "title_en": "Crocodiles",
+      "title_de": "Krokodile",
+      "title_it": "Coccodrilli",
+      "title_fr": "Crocodiles",
+      "title_es": "cocodrilos",
+      "title_hr": "Krokodili",
+      "title_cs": "Krokodýli",
+      "title_pl": "Krokodyle",
+      "title_fi": "Krokotiilit",
+      "title_sk": "Krokodíly",
+      "title_da": "Krokodiller"
+    },
+    {
       "id": "dog",
       "category_id": "animals",
       "symbol_id": "dog",

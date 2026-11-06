@@ -1,0 +1,293 @@
+{
+  "id": "crocodile",
+  "category_id": "animals",
+  "symbol_id": "crocodile",
+  "thumbnail": "crocodile_thumb.webp",
+  "title_en": "Crocodiles",
+  "title_de": "Krokodile",
+  "title_it": "Coccodrilli",
+  "title_fr": "Crocodiles",
+  "title_es": "cocodrilos",
+  "title_hr": "Krokodili",
+  "title_cs": "Krokodýli",
+  "title_pl": "Krokodyle",
+  "title_fi": "Krokotiilit",
+  "title_sk": "Krokodíly",
+  "title_da": "Krokodiller",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about crocodiles. Crocodiles are large reptiles with tough scales, powerful jaws, and long tails. They have lived on Earth for millions of years and are perfectly adapted to life in and around water.",
+      "script_de": "Heute lernen wir etwas über Krokodile. Krokodile sind große Reptilien mit harten Schuppen, kräftigen Kiefern und langen Schwänzen. Sie leben seit Millionen von Jahren auf der Erde und sind perfekt an das Leben im und am Wasser angepasst.",
+      "script_it": "Oggi impareremo a conoscere i coccodrilli. I coccodrilli sono grandi rettili con scaglie robuste, mascelle potenti e lunghe code. Vivono sulla Terra da milioni di anni e sono perfettamente adattati alla vita dentro e intorno all'acqua.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur les crocodiles. Les crocodiles sont de grands reptiles dotés d'écailles résistantes, de mâchoires puissantes et d'une longue queue. Ils vivent sur Terre depuis des millions d’années et sont parfaitement adaptés à la vie dans et autour de l’eau.",
+      "script_es": "Hoy vamos a aprender sobre los cocodrilos. Los cocodrilos son reptiles grandes con escamas duras, mandíbulas poderosas y colas largas. Han vivido en la Tierra durante millones de años y están perfectamente adaptados a la vida dentro y alrededor del agua.",
+      "script_hr": "Danas ćemo učiti o krokodilima. Krokodili su veliki gmazovi s čvrstim krljuštima, snažnim čeljustima i dugim repovima. Oni žive na Zemlji milijunima godina i savršeno su prilagođeni životu ui oko vode.",
+      "script_cs": "Dnes se budeme učit o krokodýlech. Krokodýli jsou velcí plazi s pevnými šupinami, silnými čelistmi a dlouhými ocasy. Žijí na Zemi miliony let a jsou dokonale přizpůsobeni životu ve vodě a kolem ní.",
+      "script_pl": "Dzisiaj będziemy uczyć się o krokodylach. Krokodyle to duże gady o twardych łuskach, potężnych szczękach i długich ogonach. Żyją na Ziemi od milionów lat i są doskonale przystosowane do życia w wodzie i wokół niej.",
+      "script_fi": "Tänään opimme krokotiileista. Krokotiilit ovat suuria matelijoita, joilla on kovat suomukset, voimakkaat leuat ja pitkät häntät. Ne ovat eläneet maan päällä miljoonia vuosia ja ovat täydellisesti sopeutuneet elämään vedessä ja sen ympäristössä.",
+      "script_sk": "Dnes sa budeme učiť o krokodíloch. Krokodíly sú veľké plazy s pevnými šupinami, silnými čeľusťami a dlhými chvostmi. Žijú na Zemi milióny rokov a sú dokonale prispôsobené životu vo vode a okolo nej.",
+      "script_da": "I dag skal vi lære om krokodiller. Krokodiller er store krybdyr med hårde skæl, kraftige kæber og lange haler. De har levet på Jorden i millioner af år og er perfekt tilpasset livet i og omkring vandet.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "habitat",
+      "script_en": "Crocodiles live in warm parts of the world, in rivers, lakes, marshes, and coastal waters. They spend much of the day resting in the sun or waiting quietly in the water. A crocodile's home usually has muddy banks where it can build a nest.",
+      "script_de": "Krokodile leben in warmen Teilen der Welt, in Flüssen, Seen, Sümpfen und Küstengewässern. Sie verbringen einen Großteil des Tages damit, sich in der Sonne auszuruhen oder ruhig im Wasser zu warten. Das Zuhause eines Krokodils hat normalerweise schlammige Ufer, an denen es ein Nest bauen kann.",
+      "script_it": "I coccodrilli vivono nelle parti calde del mondo, nei fiumi, nei laghi, nelle paludi e nelle acque costiere. Trascorrono gran parte della giornata riposando al sole o aspettando tranquillamente nell'acqua. La casa di un coccodrillo di solito ha sponde fangose ​​dove può costruire un nido.",
+      "script_fr": "Les crocodiles vivent dans les régions chaudes du monde, dans les rivières, les lacs, les marais et les eaux côtières. Ils passent une grande partie de la journée à se reposer au soleil ou à attendre tranquillement dans l'eau. La maison d'un crocodile possède généralement des berges boueuses où il peut construire un nid.",
+      "script_es": "Los cocodrilos viven en zonas cálidas del mundo, en ríos, lagos, marismas y aguas costeras. Pasan gran parte del día descansando al sol o esperando tranquilamente en el agua. La casa de un cocodrilo suele tener bancos de barro donde puede construir un nido.",
+      "script_hr": "Krokodili žive u toplim dijelovima svijeta, u rijekama, jezerima, močvarama i obalnim vodama. Velik dio dana provode odmarajući se na suncu ili mirno čekajući u vodi. Krokodilov dom obično ima blatne obale gdje može sagraditi gnijezdo.",
+      "script_cs": "Krokodýli žijí v teplých částech světa, v řekách, jezerech, bažinách a pobřežních vodách. Většinu dne tráví odpočinkem na slunci nebo tiše čekají ve vodě. Krokodýlí domov má obvykle bahnité břehy, kde si může postavit hnízdo.",
+      "script_pl": "Krokodyle żyją w ciepłych częściach świata, w rzekach, jeziorach, bagnach i wodach przybrzeżnych. Większość dnia spędzają odpoczywając na słońcu lub spokojnie czekając w wodzie. W domu krokodyla zwykle znajdują się błotniste brzegi, na których może zbudować gniazdo.",
+      "script_fi": "Krokotiilit elävät lämpimissä osissa maailmaa, joissa, järvissä, soilla ja rannikkovesillä. He viettävät suuren osan päivästä lepäämällä auringossa tai odottaen hiljaa vedessä. Krokotiilin kodissa on yleensä mutaisia ​​pankkeja, joihin se voi rakentaa pesän.",
+      "script_sk": "Krokodíly žijú v teplých častiach sveta, v riekach, jazerách, močiaroch a pobrežných vodách. Väčšinu dňa trávia odpočívaním na slnku alebo pokojným čakaním vo vode. Domov krokodíla má zvyčajne bahnité brehy, kde si môže postaviť hniezdo.",
+      "script_da": "Krokodiller lever i varme dele af verden, i floder, søer, moser og kystnære farvande. De bruger det meste af dagen på at hvile i solen eller vente stille i vandet. En krokodilles hjem har normalt mudrede banker, hvor den kan bygge en rede.",
+      "images": [
+        "habitat.webp",
+        "habitat_2.webp",
+        "habitat_3.webp"
+      ]
+    },
+    {
+      "id": "body",
+      "script_en": "A crocodile's body is covered in hard scales that act like armour. Its eyes and nostrils sit high on its head, so it can watch and breathe while most of its body is hidden underwater. Its strong tail helps it swim, and its jaws can snap shut with great force.",
+      "script_de": "Der Körper eines Krokodils ist mit harten Schuppen bedeckt, die wie eine Panzerung wirken. Seine Augen und Nasenlöcher sitzen hoch auf seinem Kopf, sodass er beobachten und atmen kann, während der größte Teil seines Körpers unter Wasser verborgen ist. Sein kräftiger Schwanz hilft ihm beim Schwimmen und seine Kiefer können mit großer Kraft zuschnappen.",
+      "script_it": "Il corpo del coccodrillo è ricoperto di scaglie dure che fungono da armatura. I suoi occhi e le narici sono posizionati in alto sulla testa, così può guardare e respirare mentre la maggior parte del suo corpo è nascosta sott'acqua. La sua coda forte lo aiuta a nuotare e le sue mascelle possono chiudersi con grande forza.",
+      "script_fr": "Le corps d'un crocodile est recouvert d'écailles dures qui agissent comme une armure. Ses yeux et ses narines sont placés haut sur sa tête, ce qui lui permet de regarder et de respirer tandis que la majeure partie de son corps est cachée sous l'eau. Sa queue solide l'aide à nager et ses mâchoires peuvent se fermer avec une grande force.",
+      "script_es": "El cuerpo de un cocodrilo está cubierto de escamas duras que actúan como una armadura. Sus ojos y fosas nasales se encuentran en lo alto de su cabeza, por lo que puede mirar y respirar mientras la mayor parte de su cuerpo está oculto bajo el agua. Su fuerte cola le ayuda a nadar y sus mandíbulas pueden cerrarse con gran fuerza.",
+      "script_hr": "Tijelo krokodila prekriveno je tvrdim ljuskama koje djeluju poput oklopa. Njegove oči i nosnice nalaze se visoko na glavi, tako da može gledati i disati dok mu je veći dio tijela skriven pod vodom. Njegov snažan rep pomaže mu u plivanju, a čeljusti mu se mogu zatvoriti velikom snagom.",
+      "script_cs": "Krokodýlí tělo je pokryto tvrdými šupinami, které působí jako brnění. Jeho oči a nozdry mu sedí vysoko na hlavě, takže se může dívat a dýchat, zatímco většina jeho těla je skryta pod vodou. Jeho silný ocas mu pomáhá plavat a jeho čelisti se mohou zavřít velkou silou.",
+      "script_pl": "Ciało krokodyla pokryte jest twardymi łuskami, które działają jak zbroja. Oczy i nozdrza znajdują się wysoko na głowie, dzięki czemu może obserwować i oddychać, podczas gdy większość jego ciała jest ukryta pod wodą. Jego mocny ogon pomaga mu pływać, a szczęki potrafią zatrzasnąć się z wielką siłą.",
+      "script_fi": "Krokotiilin ruumis on peitetty kovilla suomuilla, jotka toimivat panssarina. Sen silmät ja sieraimet ovat korkealla päänsä päällä, joten se voi katsella ja hengittää, kun suurin osa kehosta on piilossa veden alla. Sen vahva häntä auttaa sitä uimassa, ja sen leuat voivat napsahtaa kiinni suurella voimalla.",
+      "script_sk": "Telo krokodíla je pokryté tvrdými šupinami, ktoré pôsobia ako pancier. Jeho oči a nozdry sedia vysoko na hlave, takže sa môže pozerať a dýchať, zatiaľ čo väčšina tela je skrytá pod vodou. Jeho silný chvost mu pomáha pri plávaní a jeho čeľuste sa dokážu zavrieť veľkou silou.",
+      "script_da": "En krokodilles krop er dækket af hårde skæl, der fungerer som rustninger. Dens øjne og næsebor sidder højt på hovedet, så den kan se og trække vejret, mens det meste af dens krop er skjult under vandet. Dens stærke hale hjælper den med at svømme, og dens kæber kan lukke sig med stor kraft.",
+      "images": [
+        "body.webp",
+        "body_2.webp",
+        "body_3.webp"
+      ]
+    },
+    {
+      "id": "family",
+      "script_en": "Baby crocodiles hatch from eggs laid in a nest of soil and plants. The mother stays nearby and may help the hatchlings reach the water. Young crocodiles are small and vulnerable, so they hide in shallow plants while they grow.",
+      "script_de": "Junge Krokodile schlüpfen aus Eiern, die in einem Nest aus Erde und Pflanzen abgelegt werden. Die Mutter bleibt in der Nähe und hilft den Jungtieren möglicherweise, das Wasser zu erreichen. Junge Krokodile sind klein und verletzlich, deshalb verstecken sie sich während ihres Wachstums in flachen Pflanzen.",
+      "script_it": "I cuccioli di coccodrillo si schiudono dalle uova deposte in un nido di terra e piante. La madre rimane nelle vicinanze e può aiutare i piccoli a raggiungere l'acqua. I giovani coccodrilli sono piccoli e vulnerabili, quindi mentre crescono si nascondono nelle piante poco profonde.",
+      "script_fr": "Les bébés crocodiles naissent d'œufs pondus dans un nid de terre et de plantes. La mère reste à proximité et peut aider les nouveau-nés à atteindre l'eau. Les jeunes crocodiles sont petits et vulnérables, ils se cachent donc dans les plantes peu profondes pendant leur croissance.",
+      "script_es": "Las crías de cocodrilo nacen de huevos puestos en un nido de tierra y plantas. La madre permanece cerca y puede ayudar a las crías a llegar al agua. Los cocodrilos jóvenes son pequeños y vulnerables, por lo que se esconden en plantas poco profundas mientras crecen.",
+      "script_hr": "Mladunci krokodila izlegu se iz jaja položenih u gnijezdo od zemlje i biljaka. Majka ostaje u blizini i može pomoći mladuncima da dođu do vode. Mladi krokodili su mali i ranjivi, pa se dok rastu skrivaju u plitkim biljkama.",
+      "script_cs": "Mláďata krokodýla se líhnou z vajec nakladených do hnízda z půdy a rostlin. Matka zůstává poblíž a může pomoci vylíhlým mláďatům dostat se do vody. Mladí krokodýli jsou malí a zranitelní, takže se během růstu schovávají v mělkých rostlinách.",
+      "script_pl": "Młode krokodyle wykluwają się z jaj złożonych w gnieździe z gleby i roślin. Matka pozostaje w pobliżu i może pomóc pisklętom dotrzeć do wody. Młode krokodyle są małe i bezbronne, dlatego podczas wzrostu chowają się w płytkich roślinach.",
+      "script_fi": "Krokotiilinpoikaset kuoriutuvat mullan ja kasvien pesään munituista munista. Emä pysyy lähellä ja voi auttaa kuoriutuneita poikasia pääsemään veteen. Nuoret krokotiilit ovat pieniä ja haavoittuvia, joten ne piiloutuvat mataliin kasveihin kasvaessaan.",
+      "script_sk": "Mláďatá krokodíla sa liahnu z vajec nakladených v hniezde z pôdy a rastlín. Matka zostáva nablízku a môže pomôcť vyliahnutým mláďatám dostať sa do vody. Mladé krokodíly sú malé a zraniteľné, takže sa počas rastu schovávajú v plytkých rastlinách.",
+      "script_da": "Babykrokodiller klækkes fra æg lagt i en rede af jord og planter. Moderen bliver i nærheden og hjælper måske ungerne med at nå vandet. Unge krokodiller er små og sårbare, så de gemmer sig i lavvandede planter, mens de vokser.",
+      "images": [
+        "family.webp",
+        "family_2.webp",
+        "family_3.webp"
+      ]
+    },
+    {
+      "id": "life_today",
+      "script_en": "Today some crocodile species are endangered because of habitat loss and hunting. People work to protect wetlands and to teach visitors how to stay safe near crocodile waters. These ancient reptiles are an important part of healthy rivers and marshes.",
+      "script_de": "Heutzutage sind einige Krokodilarten aufgrund von Lebensraumverlust und Jagd gefährdet. Die Menschen setzen sich für den Schutz von Feuchtgebieten ein und zeigen Besuchern, wie sie sich in der Nähe von Krokodilgewässern sicher aufhalten können. Diese uralten Reptilien sind ein wichtiger Bestandteil gesunder Flüsse und Sümpfe.",
+      "script_it": "Oggi alcune specie di coccodrilli sono in pericolo a causa della perdita di habitat e della caccia. Le persone lavorano per proteggere le zone umide e per insegnare ai visitatori come stare al sicuro vicino alle acque dei coccodrilli. Questi antichi rettili sono una parte importante di fiumi e paludi sani.",
+      "script_fr": "Aujourd'hui, certaines espèces de crocodiles sont menacées en raison de la perte de leur habitat et de la chasse. Les gens travaillent pour protéger les zones humides et enseigner aux visiteurs comment rester en sécurité à proximité des eaux à crocodiles. Ces anciens reptiles jouent un rôle important dans la santé des rivières et des marais.",
+      "script_es": "Hoy en día, algunas especies de cocodrilos están en peligro de extinción debido a la pérdida de hábitat y la caza. La gente trabaja para proteger los humedales y enseñar a los visitantes cómo mantenerse seguros cerca de las aguas de los cocodrilos. Estos antiguos reptiles son una parte importante de la salud de ríos y marismas.",
+      "script_hr": "Danas su neke vrste krokodila ugrožene zbog gubitka staništa i lova. Ljudi rade na zaštiti močvara i uče posjetitelje kako ostati sigurni u blizini krokodilskih voda. Ovi drevni gmazovi važan su dio zdravih rijeka i močvara.",
+      "script_cs": "Dnes jsou některé druhy krokodýlů ohroženy kvůli ztrátě přirozeného prostředí a lovu. Lidé se snaží chránit mokřady a učit návštěvníky, jak zůstat v bezpečí u krokodýlích vod. Tito starověcí plazi jsou důležitou součástí zdravých řek a bažin.",
+      "script_pl": "Obecnie niektóre gatunki krokodyli są zagrożone z powodu utraty siedlisk i polowań. Ludzie pracują nad ochroną terenów podmokłych i uczą gości, jak zachować bezpieczeństwo w pobliżu wód krokodyli. Te starożytne gady są ważną częścią zdrowych rzek i bagien.",
+      "script_fi": "Nykyään jotkin krokotiililajit ovat uhanalaisia ​​elinympäristöjen häviämisen ja metsästyksen vuoksi. Ihmiset työskentelevät suojellakseen kosteikkoja ja opettaakseen vierailijoita pysymään turvassa krokotiilivesien lähellä. Nämä muinaiset matelijat ovat tärkeä osa terveitä jokia ja soita.",
+      "script_sk": "Dnes sú niektoré druhy krokodílov ohrozené z dôvodu straty biotopu a lovu. Ľudia pracujú na ochrane mokradí a učia návštevníkov, ako zostať v bezpečí v blízkosti krokodílích vôd. Tieto prastaré plazy sú dôležitou súčasťou zdravých riek a močiarov.",
+      "script_da": "I dag er nogle krokodillearter truet på grund af tab af levesteder og jagt. Folk arbejder for at beskytte vådområder og for at lære besøgende, hvordan man holder sig sikker i nærheden af ​​krokodillevand. Disse gamle krybdyr er en vigtig del af sunde floder og moser.",
+      "images": [
+        "life_today.webp",
+        "life_today_2.webp",
+        "life_today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "reptile",
+      "correct": "reptile",
+      "question_en": "What kind of animal is a crocodile?",
+      "question_de": "Was für ein Tier ist ein Krokodil?",
+      "question_it": "Che tipo di animale è un coccodrillo?",
+      "question_fr": "Quel genre d'animal est un crocodile ?",
+      "question_es": "¿Qué tipo de animal es un cocodrilo?",
+      "question_hr": "Kakva je životinja krokodil?",
+      "question_cs": "Jaké zvíře je krokodýl?",
+      "question_pl": "Jakim zwierzęciem jest krokodyl?",
+      "question_fi": "Millainen eläin on krokotiili?",
+      "question_sk": "Aké zviera je krokodíl?",
+      "question_da": "Hvilken slags dyr er en krokodille?",
+      "options": [
+        {
+          "id": "reptile",
+          "label_en": "A reptile",
+          "label_de": "Ein Reptil",
+          "label_it": "Un rettile",
+          "label_fr": "Un reptile",
+          "label_es": "un reptil",
+          "label_hr": "Gmaz",
+          "label_cs": "Plaz",
+          "label_pl": "Gad",
+          "label_fi": "Matelija",
+          "label_sk": "Plaz",
+          "label_da": "Et krybdyr"
+        },
+        {
+          "id": "mammal",
+          "label_en": "A mammal",
+          "label_de": "Ein Säugetier",
+          "label_it": "Un mammifero",
+          "label_fr": "Un mammifère",
+          "label_es": "un mamífero",
+          "label_hr": "Sisavac",
+          "label_cs": "savec",
+          "label_pl": "Ssak",
+          "label_fi": "Nisäkäs",
+          "label_sk": "Cicavec",
+          "label_da": "Et pattedyr"
+        },
+        {
+          "id": "bird",
+          "label_en": "A bird",
+          "label_de": "Ein Vogel",
+          "label_it": "Un uccello",
+          "label_fr": "Un oiseau",
+          "label_es": "un pájaro",
+          "label_hr": "ptica",
+          "label_cs": "Pták",
+          "label_pl": "Ptak",
+          "label_fi": "Lintu",
+          "label_sk": "Vtáčik",
+          "label_da": "En fugl"
+        }
+      ]
+    },
+    {
+      "id": "eggs",
+      "correct": "eggs",
+      "question_en": "How do baby crocodiles begin their lives?",
+      "question_de": "Wie beginnen Krokodilbabys ihr Leben?",
+      "question_it": "Come iniziano la loro vita i cuccioli di coccodrillo?",
+      "question_fr": "Comment les bébés crocodiles commencent-ils leur vie ?",
+      "question_es": "¿Cómo comienzan sus vidas las crías de cocodrilo?",
+      "question_hr": "Kako mladunci krokodila počinju svoj život?",
+      "question_cs": "Jak začínají svůj život mláďata krokodýla?",
+      "question_pl": "Jak małe krokodyle rozpoczynają swoje życie?",
+      "question_fi": "Miten krokotiilivauvat aloittavat elämänsä?",
+      "question_sk": "Ako začínajú mláďatá krokodílov svoj život?",
+      "question_da": "Hvordan begynder babykrokodiller deres liv?",
+      "options": [
+        {
+          "id": "eggs",
+          "label_en": "They hatch from eggs",
+          "label_de": "Sie schlüpfen aus Eiern",
+          "label_it": "Si schiudono dalle uova",
+          "label_fr": "Ils éclosent d'œufs",
+          "label_es": "Nacen de huevos",
+          "label_hr": "Izlegu se iz jaja",
+          "label_cs": "Líhnou se z vajec",
+          "label_pl": "Wykluwają się z jaj",
+          "label_fi": "Ne kuoriutuvat munista",
+          "label_sk": "Vyliahnu sa z vajec",
+          "label_da": "De klækker fra æg"
+        },
+        {
+          "id": "live",
+          "label_en": "They are born live underwater",
+          "label_de": "Sie werden lebend unter Wasser geboren",
+          "label_it": "Nascono vivi sott'acqua",
+          "label_fr": "Ils sont nés vivants sous l'eau",
+          "label_es": "Nacen vivos bajo el agua.",
+          "label_hr": "Rađaju se žive pod vodom",
+          "label_cs": "Rodí se živí pod vodou",
+          "label_pl": "Rodzą się żywe pod wodą",
+          "label_fi": "He syntyvät elävänä veden alla",
+          "label_sk": "Rodia sa živé pod vodou",
+          "label_da": "De er født levende under vandet"
+        },
+        {
+          "id": "fur",
+          "label_en": "They grow from fur",
+          "label_de": "Sie wachsen aus Fell",
+          "label_it": "Crescono dalla pelliccia",
+          "label_fr": "Ils poussent à partir de la fourrure",
+          "label_es": "Crecen de la piel",
+          "label_hr": "Rastu iz krzna",
+          "label_cs": "Rostou ze srsti",
+          "label_pl": "Wyrastają z futra",
+          "label_fi": "Ne kasvavat turkista",
+          "label_sk": "Rastú zo srsti",
+          "label_da": "De vokser af pels"
+        }
+      ]
+    },
+    {
+      "id": "jaws",
+      "correct": "jaws",
+      "question_en": "What is one of a crocodile's strongest features?",
+      "question_de": "Was ist eines der stärksten Merkmale eines Krokodils?",
+      "question_it": "Qual è una delle caratteristiche più forti di un coccodrillo?",
+      "question_fr": "Quelle est l’une des caractéristiques les plus fortes d’un crocodile ?",
+      "question_es": "¿Cuál es una de las características más fuertes de un cocodrilo?",
+      "question_hr": "Koja je jedna od najjačih osobina krokodila?",
+      "question_cs": "Jaká je jedna z nejsilnějších vlastností krokodýla?",
+      "question_pl": "Jaka jest jedna z najmocniejszych cech krokodyla?",
+      "question_fi": "Mikä on yksi krokotiilin vahvimmista piirteistä?",
+      "question_sk": "Čo je jednou z najsilnejších vlastností krokodíla?",
+      "question_da": "Hvad er en af ​​en krokodilles stærkeste egenskaber?",
+      "options": [
+        {
+          "id": "jaws",
+          "label_en": "Its powerful jaws",
+          "label_de": "Seine kräftigen Kiefer",
+          "label_it": "Le sue potenti mascelle",
+          "label_fr": "Ses mâchoires puissantes",
+          "label_es": "Sus poderosas mandíbulas",
+          "label_hr": "Njegove moćne čeljusti",
+          "label_cs": "Jeho silné čelisti",
+          "label_pl": "Jego potężne szczęki",
+          "label_fi": "Sen voimakkaat leuat",
+          "label_sk": "Jeho silné čeľuste",
+          "label_da": "Dens kraftige kæber"
+        },
+        {
+          "id": "wings",
+          "label_en": "Its wings",
+          "label_de": "Seine Flügel",
+          "label_it": "Le sue ali",
+          "label_fr": "Ses ailes",
+          "label_es": "sus alas",
+          "label_hr": "Njegova krila",
+          "label_cs": "Jeho křídla",
+          "label_pl": "Jego skrzydła",
+          "label_fi": "Sen siivet",
+          "label_sk": "Jeho krídla",
+          "label_da": "Dens vinger"
+        },
+        {
+          "id": "hump",
+          "label_en": "Its hump",
+          "label_de": "Sein Buckel",
+          "label_it": "La sua gobba",
+          "label_fr": "Sa bosse",
+          "label_es": "su joroba",
+          "label_hr": "Njegova grba",
+          "label_cs": "Jeho hrb",
+          "label_pl": "To garb",
+          "label_fi": "Sen kyhmy",
+          "label_sk": "Jeho hrb",
+          "label_da": "Dens pukkel"
+        }
+      ]
+    }
+  ]
+}
