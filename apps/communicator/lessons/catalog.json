@@ -904,6 +904,27 @@
       "title_da": "Vandmelon"
     },
     {
+      "id": "bed",
+      "category_id": "household",
+      "symbol_id": "bed",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/bed/bed_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/bed/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2352136,
+      "version": 1,
+      "title_en": "Beds",
+      "title_de": "Betten",
+      "title_it": "Letti",
+      "title_fr": "Lits",
+      "title_es": "Camas",
+      "title_hr": "Kreveti",
+      "title_cs": "Postele",
+      "title_pl": "Łóżka",
+      "title_fi": "Sängyt",
+      "title_sk": "Postele",
+      "title_da": "Senge"
+    },
+    {
       "id": "earth",
       "category_id": "planets",
       "symbol_id": "earth",

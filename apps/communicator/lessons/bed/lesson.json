@@ -1,0 +1,293 @@
+{
+  "id": "bed",
+  "category_id": "household",
+  "symbol_id": "bed",
+  "thumbnail": "bed_thumb.webp",
+  "title_en": "Beds",
+  "title_de": "Betten",
+  "title_it": "Letti",
+  "title_fr": "Lits",
+  "title_es": "Camas",
+  "title_hr": "Kreveti",
+  "title_cs": "Postele",
+  "title_pl": "Łóżka",
+  "title_fi": "Sängyt",
+  "title_sk": "Postele",
+  "title_da": "Senge",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about beds. A bed is a piece of furniture made for sleeping and resting. It usually has a soft mattress, a pillow for the head, and a warm blanket.",
+      "script_de": "Heute lernen wir etwas über Betten. Ein Bett ist ein Möbelstück zum Schlafen und Ausruhen. Es verfügt normalerweise über eine weiche Matratze, ein Kissen für den Kopf und eine warme Decke.",
+      "script_it": "Oggi parleremo dei letti. Un letto è un mobile realizzato per dormire e riposare. Di solito ha un materasso morbido, un cuscino per la testa e una coperta calda.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur les lits. Un lit est un meuble fait pour dormir et se reposer. Il comporte généralement un matelas moelleux, un oreiller pour la tête et une couverture chaude.",
+      "script_es": "Hoy vamos a aprender sobre las camas. Una cama es un mueble hecho para dormir y descansar. Suele tener un colchón mullido, una almohada para la cabeza y una manta abrigada.",
+      "script_hr": "Danas ćemo učiti o krevetima. Krevet je komad namještaja namijenjen za spavanje i odmor. Obično ima mekani madrac, jastuk za glavu i toplu deku.",
+      "script_cs": "Dnes se budeme učit o postelích. Postel je kus nábytku určený ke spaní a odpočinku. Obvykle má měkkou matraci, polštář na hlavu a teplou přikrývku.",
+      "script_pl": "Dzisiaj będziemy uczyć się o łóżkach. Łóżko to mebel przeznaczony do spania i odpoczynku. Zwykle ma miękki materac, poduszkę pod głowę i ciepły koc.",
+      "script_fi": "Tänään opimme sängyistä. Sänky on nukkumista ja lepoa varten tehty huonekalu. Siinä on yleensä pehmeä patja, tyyny päähän ja lämmin viltti.",
+      "script_sk": "Dnes sa dozvieme niečo o posteliach. Posteľ je kus nábytku určený na spanie a odpočinok. Zvyčajne má mäkký matrac, vankúš na hlavu a teplú prikrývku.",
+      "script_da": "I dag skal vi lære om senge. En seng er et møbel lavet til at sove og hvile. Den har normalt en blød madras, en hovedpude og et varmt tæppe.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "history",
+      "script_en": "People have made beds for thousands of years. Early beds were simple piles of leaves, straw, or animal skins. Later, wooden frames and thick mattresses made sleeping more comfortable.",
+      "script_de": "Seit Tausenden von Jahren stellen Menschen Betten her. Frühe Beete waren einfache Stapel aus Blättern, Stroh oder Tierhäuten. Später machten Holzrahmen und dicke Matratzen das Schlafen bequemer.",
+      "script_it": "L'uomo ha costruito i letti per migliaia di anni. I primi letti erano semplici mucchi di foglie, paglia o pelli di animali. Successivamente, strutture di legno e materassi spessi hanno reso il sonno più confortevole.",
+      "script_fr": "Les gens fabriquent des lits depuis des milliers d’années. Les premiers lits étaient de simples tas de feuilles, de paille ou de peaux d'animaux. Plus tard, des cadres en bois et des matelas épais ont rendu le sommeil plus confortable.",
+      "script_es": "La gente ha hecho camas durante miles de años. Los primeros lechos eran simples montones de hojas, paja o pieles de animales. Más tarde, las estructuras de madera y los colchones gruesos hicieron que dormir fuera más cómodo.",
+      "script_hr": "Ljudi prave krevete tisućama godina. Rani kreveti bili su jednostavne hrpe lišća, slame ili životinjskih koža. Kasnije su drveni okviri i debeli madraci učinili spavanje ugodnijim.",
+      "script_cs": "Lidé vyrábí postele po tisíce let. Rané záhony byly jednoduché hromady listí, slámy nebo zvířecích kůží. Později byly spaní pohodlnější díky dřevěným rámům a tlustým matracím.",
+      "script_pl": "Ludzie ścieli łóżka od tysięcy lat. Wczesne łóżka były zwykłymi stosami liści, słomy lub skór zwierzęcych. Później drewniane ramy i grube materace ułatwiły spanie.",
+      "script_fi": "Ihmiset ovat tehneet sänkyjä tuhansia vuosia. Varhaiset sängyt olivat yksinkertaisia ​​lehtikasoja, olkia tai eläinten nahkoja. Myöhemmin puukehykset ja paksut patjat tekivät nukkumisesta mukavampaa.",
+      "script_sk": "Ľudia vyrábali postele už tisíce rokov. Rané záhony boli jednoduché kopy lístia, slamy alebo zvieracích koží. Neskôr drevené rámy a hrubé matrace urobili spánok pohodlnejším.",
+      "script_da": "Folk har lavet senge i tusinder af år. De tidlige senge var simple bunker af blade, halm eller dyreskind. Senere gjorde trærammer og tykke madrasser det mere behageligt at sove.",
+      "images": [
+        "history.webp",
+        "history_2.webp",
+        "history_3.webp"
+      ]
+    },
+    {
+      "id": "parts",
+      "script_en": "A bed has a frame that holds the mattress off the floor. The mattress supports the body, while pillows keep the head and neck comfortable. Sheets and blankets keep sleepers warm and clean.",
+      "script_de": "Ein Bett hat einen Rahmen, der die Matratze vom Boden fernhält. Die Matratze stützt den Körper, während Kissen Kopf und Nacken bequem halten. Bettwäsche und Decken halten die Schläfer warm und sauber.",
+      "script_it": "Un letto ha una struttura che tiene il materasso sollevato dal pavimento. Il materasso sostiene il corpo, mentre i cuscini mantengono la testa e il collo comodi. Lenzuola e coperte mantengono i dormienti caldi e puliti.",
+      "script_fr": "Un lit a un cadre qui maintient le matelas hors du sol. Le matelas soutient le corps, tandis que les oreillers maintiennent la tête et le cou confortables. Les draps et les couvertures gardent les dormeurs au chaud et propres.",
+      "script_es": "Una cama tiene un marco que sostiene el colchón del suelo. El colchón sostiene el cuerpo, mientras que las almohadas mantienen la cabeza y el cuello cómodos. Las sábanas y mantas mantienen a los durmientes abrigados y limpios.",
+      "script_hr": "Krevet ima okvir koji drži madrac od poda. Madrac podupire tijelo, dok jastuci održavaju udobnost glave i vrata. Plahte i deke održavaju spavače toplima i čistima.",
+      "script_cs": "Postel má rám, který drží matraci nad podlahou. Matrace podpírá tělo, zatímco polštáře udržují hlavu a krk v pohodlí. Prostěradla a přikrývky udržují spáče v teple a čistotě.",
+      "script_pl": "Łóżko posiada ramę utrzymującą materac nad podłogą. Materac podtrzymuje ciało, a poduszki zapewniają wygodę głowie i szyi. Prześcieradła i koce zapewniają śpiącym ciepło i czystość.",
+      "script_fi": "Sängyssä on runko, joka pitää patjan irti lattiasta. Patja tukee vartaloa, kun taas tyynyt pitävät pään ja kaulan mukavina. Lakanat ja peitot pitävät nukkujat lämpiminä ja puhtaina.",
+      "script_sk": "Posteľ má rám, ktorý drží matrac nad podlahou. Matrac podporuje telo, zatiaľ čo vankúše udržujú hlavu a krk v pohodlí. Plachty a prikrývky udržujú spiacich v teple a čistote.",
+      "script_da": "En seng har en ramme, der holder madrassen fra gulvet. Madrassen støtter kroppen, mens puder holder hovedet og nakken behageligt. Lagner og tæpper holder sveller varme og rene.",
+      "images": [
+        "parts.webp",
+        "parts_2.webp",
+        "parts_3.webp"
+      ]
+    },
+    {
+      "id": "sleep",
+      "script_en": "Children need plenty of sleep to grow, learn, and feel happy. A quiet, dark room and a regular bedtime help the body relax. Screens can make it harder to fall asleep, so it is good to put them away before bed.",
+      "script_de": "Kinder brauchen viel Schlaf, um zu wachsen, zu lernen und sich glücklich zu fühlen. Ein ruhiger, dunkler Raum und eine regelmäßige Schlafenszeit helfen dem Körper, sich zu entspannen. Bildschirme können das Einschlafen erschweren, daher empfiehlt es sich, sie vor dem Schlafengehen wegzuräumen.",
+      "script_it": "I bambini hanno bisogno di dormire molto per crescere, imparare e sentirsi felici. Una stanza tranquilla e buia e un orario di sonno regolare aiutano il corpo a rilassarsi. Gli schermi possono rendere più difficile addormentarsi, quindi è bene metterli via prima di andare a letto.",
+      "script_fr": "Les enfants ont besoin de beaucoup de sommeil pour grandir, apprendre et se sentir heureux. Une pièce calme et sombre et une heure de coucher régulière aident le corps à se détendre. Les écrans peuvent rendre l’endormissement plus difficile, il est donc bon de les ranger avant de se coucher.",
+      "script_es": "Los niños necesitan dormir mucho para crecer, aprender y sentirse felices. Una habitación tranquila y oscura y un horario regular para acostarse ayudan al cuerpo a relajarse. Las pantallas pueden dificultar el conciliar el sueño, por lo que es bueno guardarlas antes de acostarse.",
+      "script_hr": "Djeci je potrebno puno sna da bi rasla, učila i bila sretna. Tiha, tamna prostorija i redovno vrijeme za spavanje pomažu opuštanju tijela. Ekrani mogu otežati zaspanje pa ih je dobro pospremiti prije spavanja.",
+      "script_cs": "Děti potřebují dostatek spánku, aby rostly, učily se a byly šťastné. Tichá, tmavá místnost a pravidelné spaní pomáhají tělu relaxovat. Zástěny mohou ztěžovat usínání, proto je dobré je před spaním odložit.",
+      "script_pl": "Dzieci potrzebują dużo snu, aby rosnąć, uczyć się i czuć się szczęśliwe. Cichy, ciemny pokój i regularna pora snu pomagają ciału zrelaksować się. Ekrany mogą utrudniać zasypianie, dlatego warto je odłożyć przed snem.",
+      "script_fi": "Lapset tarvitsevat paljon unta kasvaakseen, oppiakseen ja tunteakseen olonsa onnelliseksi. Hiljainen, pimeä huone ja säännöllinen nukkumaanmenoaika auttavat kehoa rentoutumaan. Näytöt voivat vaikeuttaa nukahtamista, joten ne on hyvä laittaa pois ennen nukkumaanmenoa.",
+      "script_sk": "Deti potrebujú veľa spánku, aby rástli, učili sa a cítili sa šťastné. Tichá, tmavá miestnosť a pravidelný spánok pomáhajú telu relaxovať. Zásteny môžu sťažiť zaspávanie, preto je dobré ich pred spaním odložiť.",
+      "script_da": "Børn har brug for masser af søvn for at vokse, lære og føle sig glade. Et stille, mørkt rum og en regelmæssig sengetid hjælper kroppen med at slappe af. Skærme kan gøre det sværere at falde i søvn, så det er godt at lægge dem væk inden sengetid.",
+      "images": [
+        "sleep.webp",
+        "sleep_2.webp",
+        "sleep_3.webp"
+      ]
+    },
+    {
+      "id": "today",
+      "script_en": "Today beds come in many shapes and sizes. There are bunk beds, fold-away beds, hammocks, and special hospital beds. Everyone deserves a safe, comfortable place to rest.",
+      "script_de": "Heutzutage gibt es Betten in vielen Formen und Größen. Es gibt Etagenbetten, Klappbetten, Hängematten und spezielle Krankenhausbetten. Jeder verdient einen sicheren und komfortablen Ort zum Ausruhen.",
+      "script_it": "Oggi i letti sono disponibili in molte forme e dimensioni. Ci sono letti a castello, letti a scomparsa, amache e letti ospedalieri speciali. Tutti meritano un luogo sicuro e confortevole dove riposare.",
+      "script_fr": "Aujourd’hui, les lits se présentent sous de nombreuses formes et tailles. Il existe des lits superposés, des lits pliants, des hamacs et des lits d'hôpitaux spéciaux. Tout le monde mérite un endroit sûr et confortable pour se reposer.",
+      "script_es": "Hoy en día las camas vienen en muchas formas y tamaños. Hay literas, camas plegables, hamacas y camas especiales de hospital. Todo el mundo merece un lugar seguro y cómodo para descansar.",
+      "script_hr": "Današnji kreveti dolaze u mnogo oblika i veličina. Postoje kreveti na kat, kreveti na rasklapanje, viseće mreže i posebni bolnički kreveti. Svatko zaslužuje sigurno, udobno mjesto za odmor.",
+      "script_cs": "Postele dnes přicházejí v mnoha tvarech a velikostech. K dispozici jsou palandy, skládací postele, houpací sítě a speciální nemocniční lůžka. Každý si zaslouží bezpečné a pohodlné místo k odpočinku.",
+      "script_pl": "Obecnie łóżka są dostępne w wielu kształtach i rozmiarach. Istnieją łóżka piętrowe, łóżka składane, hamaki i specjalne łóżka szpitalne. Każdy zasługuje na bezpieczne i wygodne miejsce do wypoczynku.",
+      "script_fi": "Nykyään sänkyjä on monen muotoisia ja kokoisia. Siellä on kerrossängyt, taitettavat vuoteet, riippumatot ja erityiset sairaalasängyt. Jokainen ansaitsee turvallisen ja mukavan lepopaikan.",
+      "script_sk": "Postele dnes prichádzajú v mnohých tvaroch a veľkostiach. K dispozícii sú poschodové postele, rozkladacie postele, hojdacie siete a špeciálne nemocničné postele. Každý si zaslúži bezpečné a pohodlné miesto na odpočinok.",
+      "script_da": "I dag findes senge i mange former og størrelser. Der er køjesenge, fold-away senge, hængekøjer og særlige hospitalssenge. Alle fortjener et sikkert, behageligt sted at hvile.",
+      "images": [
+        "today.webp",
+        "today_2.webp",
+        "today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "purpose",
+      "correct": "sleep",
+      "question_en": "What is a bed mainly used for?",
+      "question_de": "Wozu dient ein Bett hauptsächlich?",
+      "question_it": "A cosa serve principalmente un letto?",
+      "question_fr": "A quoi sert principalement un lit ?",
+      "question_es": "¿Para qué se utiliza principalmente una cama?",
+      "question_hr": "Za što se uglavnom koristi krevet?",
+      "question_cs": "K čemu postel především slouží?",
+      "question_pl": "Do czego głównie służy łóżko?",
+      "question_fi": "Mihin sänkyä pääasiassa käytetään?",
+      "question_sk": "Na čo sa posteľ používa hlavne?",
+      "question_da": "Hvad bruges en seng primært til?",
+      "options": [
+        {
+          "id": "sleep",
+          "label_en": "Sleeping and resting",
+          "label_de": "Schlafen und Ausruhen",
+          "label_it": "Dormire e riposare",
+          "label_fr": "Dormir et se reposer",
+          "label_es": "Dormir y descansar",
+          "label_hr": "Spavanje i odmaranje",
+          "label_cs": "Spánek a odpočinek",
+          "label_pl": "Spanie i odpoczynek",
+          "label_fi": "Nukkuminen ja lepo",
+          "label_sk": "Spánok a odpočinok",
+          "label_da": "Sove og hvile"
+        },
+        {
+          "id": "cooking",
+          "label_en": "Cooking",
+          "label_de": "Kochen",
+          "label_it": "Cucina",
+          "label_fr": "Cuisson",
+          "label_es": "Cocinando",
+          "label_hr": "Kuhanje",
+          "label_cs": "Vaření",
+          "label_pl": "Gotowanie",
+          "label_fi": "Ruoanlaitto",
+          "label_sk": "Varenie",
+          "label_da": "Madlavning"
+        },
+        {
+          "id": "washing",
+          "label_en": "Washing",
+          "label_de": "Waschen",
+          "label_it": "Lavaggio",
+          "label_fr": "Lavage",
+          "label_es": "Lavado",
+          "label_hr": "Pranje",
+          "label_cs": "Mytí",
+          "label_pl": "Mycie",
+          "label_fi": "Pesu",
+          "label_sk": "Umývanie",
+          "label_da": "Vask"
+        }
+      ]
+    },
+    {
+      "id": "pillow",
+      "correct": "pillow",
+      "question_en": "What supports your head in bed?",
+      "question_de": "Was stützt Ihren Kopf im Bett?",
+      "question_it": "Cosa sostiene la tua testa a letto?",
+      "question_fr": "Qu'est-ce qui soutient votre tête au lit ?",
+      "question_es": "¿Qué sostiene tu cabeza en la cama?",
+      "question_hr": "Što podupire vašu glavu u krevetu?",
+      "question_cs": "Co podpírá vaši hlavu v posteli?",
+      "question_pl": "Co podtrzymuje Twoją głowę w łóżku?",
+      "question_fi": "Mikä tukee päätäsi sängyssä?",
+      "question_sk": "Čo ti podopiera hlavu v posteli?",
+      "question_da": "Hvad støtter dit hoved i sengen?",
+      "options": [
+        {
+          "id": "pillow",
+          "label_en": "A pillow",
+          "label_de": "Ein Kissen",
+          "label_it": "Un cuscino",
+          "label_fr": "Un oreiller",
+          "label_es": "una almohada",
+          "label_hr": "Jastuk",
+          "label_cs": "Polštář",
+          "label_pl": "Poduszka",
+          "label_fi": "Tyyny",
+          "label_sk": "Vankúš",
+          "label_da": "En pude"
+        },
+        {
+          "id": "blanket",
+          "label_en": "A blanket",
+          "label_de": "Eine Decke",
+          "label_it": "Una coperta",
+          "label_fr": "Une couverture",
+          "label_es": "una manta",
+          "label_hr": "deka",
+          "label_cs": "Přikrývka",
+          "label_pl": "Koc",
+          "label_fi": "Peitto",
+          "label_sk": "Prikrývka",
+          "label_da": "Et tæppe"
+        },
+        {
+          "id": "frame",
+          "label_en": "The frame",
+          "label_de": "Der Rahmen",
+          "label_it": "Il telaio",
+          "label_fr": "Le cadre",
+          "label_es": "el marco",
+          "label_hr": "Okvir",
+          "label_cs": "Rám",
+          "label_pl": "Rama",
+          "label_fi": "Kehys",
+          "label_sk": "Rám",
+          "label_da": "Rammen"
+        }
+      ]
+    },
+    {
+      "id": "sleep",
+      "correct": "many",
+      "question_en": "How much sleep do most children need?",
+      "question_de": "Wie viel Schlaf brauchen die meisten Kinder?",
+      "question_it": "Di quanto sonno ha bisogno la maggior parte dei bambini?",
+      "question_fr": "De quelle quantité de sommeil la plupart des enfants ont-ils besoin ?",
+      "question_es": "¿Cuánto sueño necesita la mayoría de los niños?",
+      "question_hr": "Koliko sna treba većini djece?",
+      "question_cs": "Kolik spánku potřebuje většina dětí?",
+      "question_pl": "Ile snu potrzebuje większość dzieci?",
+      "question_fi": "Kuinka paljon unta useimmat lapset tarvitsevat?",
+      "question_sk": "Koľko spánku potrebuje väčšina detí?",
+      "question_da": "Hvor meget søvn har de fleste børn brug for?",
+      "options": [
+        {
+          "id": "many",
+          "label_en": "About 8–10 hours",
+          "label_de": "Etwa 8–10 Stunden",
+          "label_it": "Circa 8-10 ore",
+          "label_fr": "Environ 8 à 10 heures",
+          "label_es": "Alrededor de 8 a 10 horas",
+          "label_hr": "Oko 8-10 sati",
+          "label_cs": "Cca 8–10 hodin",
+          "label_pl": "Około 8–10 godzin",
+          "label_fi": "Noin 8-10 tuntia",
+          "label_sk": "Asi 8-10 hodín",
+          "label_da": "Cirka 8-10 timer"
+        },
+        {
+          "id": "one",
+          "label_en": "One hour",
+          "label_de": "Eine Stunde",
+          "label_it": "Un'ora",
+          "label_fr": "Une heure",
+          "label_es": "Una hora",
+          "label_hr": "Jedan sat",
+          "label_cs": "Jedna hodina",
+          "label_pl": "Jedna godzina",
+          "label_fi": "Yksi tunti",
+          "label_sk": "Jedna hodina",
+          "label_da": "En time"
+        },
+        {
+          "id": "none",
+          "label_en": "No sleep",
+          "label_de": "Kein Schlaf",
+          "label_it": "Niente sonno",
+          "label_fr": "Pas de sommeil",
+          "label_es": "sin dormir",
+          "label_hr": "Nema spavanja",
+          "label_cs": "Žádný spánek",
+          "label_pl": "Żadnego snu",
+          "label_fi": "Ei unta",
+          "label_sk": "Žiadny spánok",
+          "label_da": "Ingen søvn"
+        }
+      ]
+    }
+  ]
+}
