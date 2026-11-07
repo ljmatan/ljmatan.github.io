@@ -1009,6 +1009,27 @@
       "title_da": "Stole"
     },
     {
+      "id": "clock",
+      "category_id": "household",
+      "symbol_id": "clock",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/clock/clock_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/clock/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2477748,
+      "version": 1,
+      "title_en": "Clocks",
+      "title_de": "Uhren",
+      "title_it": "Orologi",
+      "title_fr": "Horloges",
+      "title_es": "Relojes",
+      "title_hr": "Satovi",
+      "title_cs": "Hodiny",
+      "title_pl": "Zegary",
+      "title_fi": "Kellot",
+      "title_sk": "Hodiny",
+      "title_da": "Ure"
+    },
+    {
       "id": "table",
       "category_id": "household",
       "symbol_id": "table",

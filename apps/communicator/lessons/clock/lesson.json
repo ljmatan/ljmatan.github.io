@@ -1,0 +1,293 @@
+{
+  "id": "clock",
+  "category_id": "household",
+  "symbol_id": "clock",
+  "thumbnail": "clock_thumb.webp",
+  "title_en": "Clocks",
+  "title_de": "Uhren",
+  "title_it": "Orologi",
+  "title_fr": "Horloges",
+  "title_es": "Relojes",
+  "title_hr": "Satovi",
+  "title_cs": "Hodiny",
+  "title_pl": "Zegary",
+  "title_fi": "Kellot",
+  "title_sk": "Hodiny",
+  "title_da": "Ure",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about clocks. A clock is a tool that tells the time. Clocks help us wake up, go to school, and know when to meet friends.",
+      "script_de": "Heute lernen wir etwas über Uhren. Eine Uhr ist ein Werkzeug, das die Zeit anzeigt. Uhren helfen uns aufzuwachen, zur Schule zu gehen und zu wissen, wann wir uns mit Freunden treffen müssen.",
+      "script_it": "Oggi parleremo degli orologi. Un orologio è uno strumento che indica l'ora. Gli orologi ci aiutano a svegliarci, ad andare a scuola e a sapere quando incontrare gli amici.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur les horloges. Une horloge est un outil qui indique l'heure. Les horloges nous aident à nous réveiller, à aller à l’école et à savoir quand rencontrer des amis.",
+      "script_es": "Hoy vamos a aprender sobre relojes. Un reloj es una herramienta que indica la hora. Los relojes nos ayudan a despertarnos, ir a la escuela y saber cuándo quedar con amigos.",
+      "script_hr": "Danas ćemo učiti o satovima. Sat je alat koji pokazuje vrijeme. Satovi nam pomažu da se probudimo, idemo u školu i znamo kada trebamo sresti prijatelje.",
+      "script_cs": "Dnes se budeme učit o hodinách. Hodiny jsou nástroj, který ukazuje čas. Hodiny nám pomáhají probudit se, jít do školy a vědět, kdy se máme setkat s přáteli.",
+      "script_pl": "Dzisiaj będziemy uczyć się o zegarach. Zegar to narzędzie, które wskazuje godzinę. Zegary pomagają nam się obudzić, pójść do szkoły i wiedzieć, kiedy spotkać się z przyjaciółmi.",
+      "script_fi": "Tänään opimme kelloista. Kello on työkalu, joka kertoo ajan. Kellot auttavat meitä heräämään, menemään kouluun ja tietämään, milloin tavata ystäviä.",
+      "script_sk": "Dnes sa budeme učiť o hodinách. Hodiny sú nástroj, ktorý ukazuje čas. Hodiny nám pomáhajú zobudiť sa, ísť do školy a vedieť, kedy sa máme stretnúť s priateľmi.",
+      "script_da": "I dag skal vi lære om ure. Et ur er et værktøj, der fortæller tiden. Ure hjælper os med at vågne op, gå i skole og vide, hvornår vi skal møde venner.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "hands",
+      "script_en": "Many clocks have two hands. The short hand shows the hour, and the long hand shows the minutes. Some clocks also have a thin hand that counts seconds.",
+      "script_de": "Viele Uhren haben zwei Zeiger. Der kurze Zeiger zeigt die Stunde und der lange Zeiger die Minuten an. Manche Uhren haben auch einen dünnen Zeiger, der die Sekunden zählt.",
+      "script_it": "Molti orologi hanno due lancette. La lancetta corta mostra l'ora e la lancetta lunga mostra i minuti. Alcuni orologi hanno anche una lancetta sottile che conta i secondi.",
+      "script_fr": "De nombreuses horloges ont deux aiguilles. L'aiguille courte indique l'heure et l'aiguille longue indique les minutes. Certaines horloges ont également une fine aiguille qui compte les secondes.",
+      "script_es": "Muchos relojes tienen dos manecillas. La manecilla corta muestra la hora y la manecilla larga muestra los minutos. Algunos relojes también tienen una manecilla delgada que cuenta los segundos.",
+      "script_hr": "Mnogi satovi imaju dvije kazaljke. Kratka kazaljka pokazuje sat, a duga kazaljka minute. Neki satovi također imaju tanku kazaljku koja broji sekunde.",
+      "script_cs": "Mnoho hodin má dvě ručičky. Krátká ručička ukazuje hodiny a dlouhá ručička ukazuje minuty. Některé hodiny mají také tenkou ručičku, která počítá vteřiny.",
+      "script_pl": "Wiele zegarów ma dwie wskazówki. Krótka wskazówka wskazuje godzinę, a długa wskazówka minuty. Niektóre zegary mają również cienką wskazówkę, która liczy sekundy.",
+      "script_fi": "Monissa kelloissa on kaksiosoitinta. Lyhyt osoitin näyttää tunnin ja pitkä osoitin minuutit. Joissakin kelloissa on myös ohut osoitin, joka laskee sekunteja.",
+      "script_sk": "Mnohé hodiny majú dve ručičky. Krátka ručička ukazuje hodiny a dlhá ručička ukazuje minúty. Niektoré hodiny majú aj tenkú ručičku, ktorá počíta sekundy.",
+      "script_da": "Mange ure har to visere. Den korte viser viser timen, og den lange viser minutterne. Nogle ure har også en tynd viser, der tæller sekunder.",
+      "images": [
+        "hands.webp",
+        "hands_2.webp",
+        "hands_3.webp"
+      ]
+    },
+    {
+      "id": "history",
+      "script_en": "Long ago, people used sundials and water clocks. Later, clocks with gears and pendulums became common. Today many people also use digital clocks on phones and computers.",
+      "script_de": "Vor langer Zeit benutzten die Menschen Sonnenuhren und Wasseruhren. Später wurden Uhren mit Zahnrädern und Pendeln üblich. Heutzutage verwenden viele Menschen auch Digitaluhren auf Telefonen und Computern.",
+      "script_it": "Molto tempo fa, le persone usavano meridiane e orologi ad acqua. Successivamente divennero comuni gli orologi con ingranaggi e pendoli. Oggi molte persone utilizzano orologi digitali anche su telefoni e computer.",
+      "script_fr": "Autrefois, les gens utilisaient des cadrans solaires et des horloges à eau. Plus tard, les horloges à engrenages et à pendules sont devenues courantes. Aujourd’hui, de nombreuses personnes utilisent également des horloges numériques sur leurs téléphones et ordinateurs.",
+      "script_es": "Hace mucho tiempo, la gente usaba relojes de sol y de agua. Posteriormente se generalizaron los relojes con engranajes y péndulos. Hoy en día mucha gente también utiliza relojes digitales en teléfonos y ordenadores.",
+      "script_hr": "Davno su ljudi koristili sunčane i vodene satove. Kasnije su postali uobičajeni satovi sa zupčanicima i njihalom. Danas mnogi ljudi također koriste digitalne satove na telefonima i računalima.",
+      "script_cs": "Kdysi dávno lidé používali sluneční hodiny a vodní hodiny. Později se staly běžné hodiny s ozubenými koly a kyvadly. Mnoho lidí dnes také používá digitální hodiny na telefonech a počítačích.",
+      "script_pl": "Dawno temu ludzie używali zegarów słonecznych i wodnych. Później powszechne stały się zegary z przekładniami i wahadłami. Obecnie wiele osób korzysta również z zegarów cyfrowych w telefonach i komputerach.",
+      "script_fi": "Kauan sitten ihmiset käyttivät aurinkokelloja ja vesikelloja. Myöhemmin vaihteilla ja heilureilla varustetut kellot yleistyivät. Nykyään monet ihmiset käyttävät digitaalisia kelloja myös puhelimissa ja tietokoneissa.",
+      "script_sk": "Kedysi dávno ľudia používali slnečné hodiny a vodné hodiny. Neskôr sa stali bežné hodiny s ozubenými kolesami a kyvadlami. Mnoho ľudí dnes používa digitálne hodiny aj na telefónoch a počítačoch.",
+      "script_da": "For længe siden brugte folk solur og vandure. Senere blev ure med tandhjul og penduler almindelige. I dag bruger mange mennesker også digitale ure på telefoner og computere.",
+      "images": [
+        "history.webp",
+        "history_2.webp",
+        "history_3.webp"
+      ]
+    },
+    {
+      "id": "routine",
+      "script_en": "Clocks help us build routines. Knowing how long an activity takes helps us plan. A clock in the classroom helps everyone finish lessons and get to break on time.",
+      "script_de": "Uhren helfen uns, Routinen aufzubauen. Zu wissen, wie lange eine Aktivität dauert, hilft uns bei der Planung. Eine Uhr im Klassenzimmer hilft allen, den Unterricht zu beenden und pünktlich in die Pause zu kommen.",
+      "script_it": "Gli orologi ci aiutano a costruire routine. Sapere quanto tempo dura un'attività ci aiuta a pianificare. Un orologio in classe aiuta tutti a finire le lezioni e ad arrivare in orario.",
+      "script_fr": "Les horloges nous aident à créer des routines. Savoir combien de temps dure une activité nous aide à planifier. Une horloge dans la classe aide tout le monde à terminer les cours et à faire une pause à l'heure.",
+      "script_es": "Los relojes nos ayudan a construir rutinas. Saber cuánto tiempo lleva una actividad nos ayuda a planificar. Un reloj en el aula ayuda a que todos terminen las lecciones y lleguen a tiempo al descanso.",
+      "script_hr": "Satovi nam pomažu izgraditi rutinu. Saznanje koliko dugo neka aktivnost traje pomaže nam u planiranju. Sat u učionici pomaže svima da završe lekcije i odu na odmor na vrijeme.",
+      "script_cs": "Hodiny nám pomáhají vytvářet rutiny. Vědět, jak dlouho aktivita trvá, nám pomáhá plánovat. Hodiny ve třídě pomáhají všem dokončit lekce a dostat přestávku včas.",
+      "script_pl": "Zegary pomagają nam budować rutyny. Wiedza o tym, ile czasu zajmuje dana czynność, pomaga nam planować. Zegar w klasie pomaga wszystkim ukończyć lekcje i punktualnie udać się na przerwę.",
+      "script_fi": "Kellot auttavat meitä rakentamaan rutiineja. Tietäminen, kuinka kauan toiminta kestää, auttaa meitä suunnittelemaan. Luokassa oleva kello auttaa kaikkia saamaan oppitunnit loppuun ja pitämään tauon ajoissa.",
+      "script_sk": "Hodiny nám pomáhajú vytvárať rutiny. Vedieť, ako dlho aktivita trvá, nám pomáha plánovať. Hodiny v triede pomáhajú každému dokončiť lekciu a dostať sa na prestávku načas.",
+      "script_da": "Ure hjælper os med at opbygge rutiner. At vide, hvor lang tid en aktivitet tager, hjælper os med at planlægge. Et ur i klasseværelset hjælper alle med at afslutte lektionerne og komme til tiden.",
+      "images": [
+        "routine.webp",
+        "routine_2.webp",
+        "routine_3.webp"
+      ]
+    },
+    {
+      "id": "today",
+      "script_en": "Today clocks are everywhere, from watches to ovens. They can be analogue with hands or digital with numbers. However they look, they all help us share the same time.",
+      "script_de": "Heutzutage sind Uhren überall, von Armbanduhren bis hin zu Öfen. Sie können analog mit Zeigern oder digital mit Zahlen sein. Wie auch immer sie aussehen, sie alle helfen uns, die gleiche Zeit zu verbringen.",
+      "script_it": "Oggi gli orologi sono ovunque, dagli orologi ai forni. Possono essere analogici con le lancette o digitali con i numeri. Qualunque sia il loro aspetto, tutti ci aiutano a condividere lo stesso tempo.",
+      "script_fr": "Aujourd’hui, les horloges sont partout, des montres aux fours. Ils peuvent être analogiques avec des aiguilles ou numériques avec des chiffres. Quelle que soit leur apparence, ils nous aident tous à partager le même temps.",
+      "script_es": "Hoy en día los relojes están en todas partes, desde relojes hasta hornos. Pueden ser analógicos con manecillas o digitales con números. Se vean como se vean, todos nos ayudan a compartir el mismo tiempo.",
+      "script_hr": "Danas su satovi posvuda, od satova do pećnica. Mogu biti analogni s kazaljkama ili digitalni s brojevima. Kako god izgledali, svi nam pomažu da dijelimo isto vrijeme.",
+      "script_cs": "Dnes jsou hodiny všude, od hodinek po pece. Mohou být analogové s ručičkami nebo digitální s čísly. Jakkoli vypadají, všechny nám pomáhají sdílet stejný čas.",
+      "script_pl": "Obecnie zegary są wszędzie, od zegarków po piekarniki. Mogą być analogowe ze wskazówkami lub cyfrowe z liczbami. Jakkolwiek wyglądają, wszystkie pomagają nam dzielić ten sam czas.",
+      "script_fi": "Nykyään kelloja on kaikkialla kelloista uuneihin. Ne voivat olla analogisia käsillä tai digitaalisia numeroilla. Miltä he näyttävätkin, ne kaikki auttavat meitä jakamaan saman ajan.",
+      "script_sk": "Dnes sú hodiny všade, od hodiniek po pece. Môžu byť analógové s ručičkami alebo digitálne s číslami. Akokoľvek vyzerajú, všetky nám pomáhajú zdieľať rovnaký čas.",
+      "script_da": "I dag er ure overalt, fra ure til ovne. De kan være analoge med hænder eller digitale med tal. Uanset hvordan de ser ud, hjælper de os alle til at dele den samme tid.",
+      "images": [
+        "today.webp",
+        "today_2.webp",
+        "today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "what",
+      "correct": "time",
+      "question_en": "What does a clock tell?",
+      "question_de": "Was sagt eine Uhr?",
+      "question_it": "Cosa racconta un orologio?",
+      "question_fr": "Que dit une horloge ?",
+      "question_es": "¿Qué dice un reloj?",
+      "question_hr": "Što govori sat?",
+      "question_cs": "Co říkají hodiny?",
+      "question_pl": "Co mówi zegar?",
+      "question_fi": "Mitä kello kertoo?",
+      "question_sk": "Čo hovoria hodiny?",
+      "question_da": "Hvad fortæller et ur?",
+      "options": [
+        {
+          "id": "time",
+          "label_en": "The time",
+          "label_de": "Die Zeit",
+          "label_it": "Il tempo",
+          "label_fr": "Le temps",
+          "label_es": "el tiempo",
+          "label_hr": "Vrijeme",
+          "label_cs": "Čas",
+          "label_pl": "Czas",
+          "label_fi": "Aika",
+          "label_sk": "Čas",
+          "label_da": "Tiden"
+        },
+        {
+          "id": "weather",
+          "label_en": "The weather",
+          "label_de": "Das Wetter",
+          "label_it": "Il tempo",
+          "label_fr": "La météo",
+          "label_es": "El clima",
+          "label_hr": "Vrijeme",
+          "label_cs": "Počasí",
+          "label_pl": "Pogoda",
+          "label_fi": "Sää",
+          "label_sk": "Počasie",
+          "label_da": "Vejret"
+        },
+        {
+          "id": "food",
+          "label_en": "What to eat",
+          "label_de": "Was zu essen",
+          "label_it": "Cosa mangiare",
+          "label_fr": "Que manger",
+          "label_es": "que comer",
+          "label_hr": "Što jesti",
+          "label_cs": "Co jíst",
+          "label_pl": "Co jeść",
+          "label_fi": "Mitä syödä",
+          "label_sk": "Čo jesť",
+          "label_da": "Hvad skal man spise"
+        }
+      ]
+    },
+    {
+      "id": "hand",
+      "correct": "short",
+      "question_en": "Which hand shows the hour?",
+      "question_de": "Welcher Zeiger zeigt die Stunde an?",
+      "question_it": "Quale lancetta mostra l'ora?",
+      "question_fr": "Quelle aiguille indique l'heure ?",
+      "question_es": "¿Qué manecilla muestra la hora?",
+      "question_hr": "Koja kazaljka pokazuje sat?",
+      "question_cs": "Která ručička ukazuje hodiny?",
+      "question_pl": "Która wskazówka wskazuje godzinę?",
+      "question_fi": "Mikä käsi näyttää tunnin?",
+      "question_sk": "Ktorá ručička ukazuje hodiny?",
+      "question_da": "Hvilken viser viser timen?",
+      "options": [
+        {
+          "id": "short",
+          "label_en": "The short hand",
+          "label_de": "Die kurze Hand",
+          "label_it": "La mano corta",
+          "label_fr": "La main courte",
+          "label_es": "la mano corta",
+          "label_hr": "Kratka ruka",
+          "label_cs": "Krátká ruka",
+          "label_pl": "Krótka ręka",
+          "label_fi": "Lyhyt käsi",
+          "label_sk": "Krátka ruka",
+          "label_da": "Den korte hånd"
+        },
+        {
+          "id": "long",
+          "label_en": "The long hand",
+          "label_de": "Die lange Hand",
+          "label_it": "La mano lunga",
+          "label_fr": "La longue main",
+          "label_es": "la mano larga",
+          "label_hr": "Duga ruka",
+          "label_cs": "Dlouhá ruka",
+          "label_pl": "Długa ręka",
+          "label_fi": "Pitkä käsi",
+          "label_sk": "Dlhá ruka",
+          "label_da": "Den lange hånd"
+        },
+        {
+          "id": "thin",
+          "label_en": "The thin hand",
+          "label_de": "Die dünne Hand",
+          "label_it": "La mano sottile",
+          "label_fr": "La main fine",
+          "label_es": "la mano delgada",
+          "label_hr": "Tanka ruka",
+          "label_cs": "Tenká ruka",
+          "label_pl": "Cienka dłoń",
+          "label_fi": "Ohut käsi",
+          "label_sk": "Tenká ruka",
+          "label_da": "Den tynde hånd"
+        }
+      ]
+    },
+    {
+      "id": "history",
+      "correct": "sundial",
+      "question_en": "What did people use before clocks?",
+      "question_de": "Was benutzten die Menschen vor Uhren?",
+      "question_it": "Cosa usavano le persone prima degli orologi?",
+      "question_fr": "Qu’utilisaient les gens avant les horloges ?",
+      "question_es": "¿Qué usaba la gente antes de los relojes?",
+      "question_hr": "Što su ljudi koristili prije satova?",
+      "question_cs": "Co lidé používali před hodinami?",
+      "question_pl": "Czego używali ludzie przed zegarami?",
+      "question_fi": "Mitä ihmiset käyttivät ennen kelloja?",
+      "question_sk": "Čo ľudia používali pred hodinami?",
+      "question_da": "Hvad brugte folk før ure?",
+      "options": [
+        {
+          "id": "sundial",
+          "label_en": "Sundials",
+          "label_de": "Sonnenuhren",
+          "label_it": "Meridiane",
+          "label_fr": "Cadrans solaires",
+          "label_es": "Relojes de sol",
+          "label_hr": "Sunčani satovi",
+          "label_cs": "Sluneční hodiny",
+          "label_pl": "Zegary słoneczne",
+          "label_fi": "Aurinkokellot",
+          "label_sk": "Slnečné hodiny",
+          "label_da": "Solur"
+        },
+        {
+          "id": "phones",
+          "label_en": "Phones",
+          "label_de": "Telefone",
+          "label_it": "Telefoni",
+          "label_fr": "Téléphones",
+          "label_es": "Teléfonos",
+          "label_hr": "telefoni",
+          "label_cs": "Telefony",
+          "label_pl": "Telefony",
+          "label_fi": "Puhelimet",
+          "label_sk": "Telefóny",
+          "label_da": "Telefoner"
+        },
+        {
+          "id": "cars",
+          "label_en": "Cars",
+          "label_de": "Autos",
+          "label_it": "Automobili",
+          "label_fr": "Voitures",
+          "label_es": "Coches",
+          "label_hr": "Automobili",
+          "label_cs": "Auta",
+          "label_pl": "Samochody",
+          "label_fi": "Autot",
+          "label_sk": "Autá",
+          "label_da": "Biler"
+        }
+      ]
+    }
+  ]
+}
