@@ -988,6 +988,27 @@
       "title_da": "Stole"
     },
     {
+      "id": "rain",
+      "category_id": "nature",
+      "symbol_id": "rain",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/rain/rain_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/rain/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2579581,
+      "version": 1,
+      "title_en": "Rain",
+      "title_de": "Regen",
+      "title_it": "Piovere",
+      "title_fr": "Pluie",
+      "title_es": "Lluvia",
+      "title_hr": "Kiša",
+      "title_cs": "Déšť",
+      "title_pl": "Deszcz",
+      "title_fi": "Sade",
+      "title_sk": "Dážď",
+      "title_da": "Regn"
+    },
+    {
       "id": "earth",
       "category_id": "planets",
       "symbol_id": "earth",
