@@ -1,0 +1,293 @@
+{
+  "id": "helicopter",
+  "category_id": "transport",
+  "symbol_id": "helicopter",
+  "thumbnail": "helicopter_thumb.webp",
+  "title_en": "Helicopters",
+  "title_de": "Hubschrauber",
+  "title_it": "Elicotteri",
+  "title_fr": "Hélicoptères",
+  "title_es": "Helicópteros",
+  "title_hr": "Helikopteri",
+  "title_cs": "Vrtulníky",
+  "title_pl": "Helikoptery",
+  "title_fi": "Helikopterit",
+  "title_sk": "Vrtuľníky",
+  "title_da": "Helikoptre",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about helicopters. A helicopter is a flying machine with spinning blades on top. It can take off straight up and hover in one place.",
+      "script_de": "Heute lernen wir etwas über Hubschrauber. Ein Hubschrauber ist eine Flugmaschine mit rotierenden Rotorblättern an der Oberseite. Es kann direkt nach oben abheben und an einer Stelle schweben.",
+      "script_it": "Oggi parleremo degli elicotteri. Un elicottero è una macchina volante con pale rotanti in cima. Può decollare verso l'alto e restare fermo in un posto.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur les hélicoptères. Un hélicoptère est une machine volante dotée de pales tournantes sur le dessus. Il peut décoller vers le haut et planer au même endroit.",
+      "script_es": "Hoy vamos a aprender sobre helicópteros. Un helicóptero es una máquina voladora con aspas giratorias en la parte superior. Puede despegar hacia arriba y flotar en un solo lugar.",
+      "script_hr": "Danas ćemo učiti o helikopterima. Helikopter je leteći stroj s lopaticama koje se okreću na vrhu. Može poletjeti ravno uvis i lebdjeti na jednom mjestu.",
+      "script_cs": "Dnes se seznámíme s helikoptérami. Vrtulník je létající stroj s rotujícími lopatkami nahoře. Může vzlétnout přímo nahoru a vznášet se na jednom místě.",
+      "script_pl": "Dzisiaj będziemy uczyć się o helikopterach. Helikopter to latająca maszyna z obracającymi się ostrzami na górze. Może wystartować prosto w górę i zawisnąć w jednym miejscu.",
+      "script_fi": "Tänään opimme helikoptereista. Helikopteri on lentävä kone, jonka päällä pyörivät terät. Se voi nousta suoraan ylös ja leijua yhdessä paikassa.",
+      "script_sk": "Dnes sa dozvieme o vrtuľníkoch. Vrtuľník je lietajúci stroj s rotujúcimi lopatkami na vrchu. Môže vzlietnuť priamo hore a vznášať sa na jednom mieste.",
+      "script_da": "I dag skal vi lære om helikoptere. En helikopter er en flyvende maskine med roterende blade på toppen. Den kan lette lige op og svæve ét sted.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "rotor",
+      "script_en": "The large main rotor lifts the helicopter into the air. The small tail rotor stops the body from spinning around. Pilots use pedals and a stick to control the direction.",
+      "script_de": "Der große Hauptrotor hebt den Helikopter in die Luft. Der kleine Heckrotor verhindert, dass sich der Körper dreht. Piloten verwenden Pedale und einen Steuerknüppel, um die Richtung zu steuern.",
+      "script_it": "Il grande rotore principale solleva l'elicottero in aria. Il piccolo rotore di coda impedisce al corpo di girare su se stesso. I piloti usano i pedali e uno stick per controllare la direzione.",
+      "script_fr": "Le grand rotor principal soulève l'hélicoptère dans les airs. Le petit rotor de queue empêche le corps de tourner. Les pilotes utilisent des pédales et un manche pour contrôler la direction.",
+      "script_es": "El gran rotor principal eleva el helicóptero en el aire. El pequeño rotor de cola impide que el cuerpo gire. Los pilotos usan pedales y una palanca para controlar la dirección.",
+      "script_hr": "Veliki glavni rotor podiže helikopter u zrak. Mali repni rotor sprječava vrtnju tijela. Piloti koriste pedale i palicu za kontrolu smjera.",
+      "script_cs": "Velký hlavní rotor zvedá vrtulník do vzduchu. Malý ocasní rotor zabraňuje otáčení těla. Piloti používají pedály a knipl k ovládání směru.",
+      "script_pl": "Duży główny wirnik unosi helikopter w powietrze. Mały wirnik ogonowy zapobiega obracaniu się ciała. Piloci używają pedałów i drążka do kontrolowania kierunku.",
+      "script_fi": "Suuri pääroottori nostaa helikopterin ilmaan. Pieni häntäroottori estää kehon pyörimisen. Lentäjät käyttävät polkimia ja sauvaa ohjaamaan suuntaa.",
+      "script_sk": "Veľký hlavný rotor zdvihne vrtuľník do vzduchu. Malý chvostový rotor zabraňuje otáčaniu tela. Piloti používajú na ovládanie smeru pedále a páku.",
+      "script_da": "Den store hovedrotor løfter helikopteren op i luften. Den lille halerotor forhindrer kroppen i at dreje rundt. Piloter bruger pedaler og en pind til at styre retningen.",
+      "images": [
+        "rotor.webp",
+        "rotor_2.webp",
+        "rotor_3.webp"
+      ]
+    },
+    {
+      "id": "rescue",
+      "script_en": "Helicopters are used for rescue work, especially in places where planes cannot land. They can reach mountains, ships, and forests. Medical helicopters carry injured people quickly to hospital.",
+      "script_de": "Helikopter werden für Rettungseinsätze eingesetzt, insbesondere an Orten, an denen Flugzeuge nicht landen können. Sie können Berge, Schiffe und Wälder erreichen. Medizinische Hubschrauber bringen Verletzte schnell ins Krankenhaus.",
+      "script_it": "Gli elicotteri vengono utilizzati per le operazioni di salvataggio, soprattutto nei luoghi in cui gli aerei non possono atterrare. Possono raggiungere montagne, navi e foreste. Gli elicotteri sanitari trasportano rapidamente i feriti in ospedale.",
+      "script_fr": "Les hélicoptères sont utilisés pour les opérations de sauvetage, notamment dans les endroits où les avions ne peuvent pas atterrir. Ils peuvent atteindre les montagnes, les navires et les forêts. Des hélicoptères médicaux transportent rapidement les blessés à l'hôpital.",
+      "script_es": "Los helicópteros se utilizan para labores de rescate, especialmente en lugares donde los aviones no pueden aterrizar. Pueden llegar a montañas, barcos y bosques. Los helicópteros sanitarios trasladan rápidamente a los heridos al hospital.",
+      "script_hr": "Helikopteri se koriste za spašavanje, posebno na mjestima gdje avioni ne mogu sletjeti. Mogu doseći planine, brodove i šume. Medicinski helikopteri brzo prevoze ozlijeđene u bolnicu.",
+      "script_cs": "Vrtulníky se používají k záchranným pracím zejména v místech, kde nemohou přistávat letadla. Mohou dosáhnout hor, lodí a lesů. Zdravotnické vrtulníky rychle transportují zraněné do nemocnice.",
+      "script_pl": "Do akcji ratowniczych wykorzystuje się helikoptery, zwłaszcza tam, gdzie samoloty nie mogą lądować. Mogą dotrzeć do gór, statków i lasów. Helikoptery medyczne szybko przewożą rannych do szpitala.",
+      "script_fi": "Helikoptereita käytetään pelastustöissä erityisesti paikoissa, joissa lentokoneet eivät voi laskeutua. He voivat saavuttaa vuoret, laivat ja metsät. Lääkärihelikopterit kuljettavat loukkaantuneita nopeasti sairaalaan.",
+      "script_sk": "Vrtuľníky sa využívajú pri záchranných prácach najmä na miestach, kde lietadlá nemôžu pristávať. Môžu dosiahnuť hory, lode a lesy. Zdravotnícke helikoptéry rýchlo prepravujú zranených ľudí do nemocnice.",
+      "script_da": "Helikoptere bruges til redningsarbejde, især på steder, hvor fly ikke kan lande. De kan nå bjerge, skibe og skove. Lægehelikoptere transporterer tilskadekomne hurtigt til hospitalet.",
+      "images": [
+        "rescue.webp",
+        "rescue_2.webp",
+        "rescue_3.webp"
+      ]
+    },
+    {
+      "id": "fire",
+      "script_en": "Some helicopters help fight fires by dropping water or foam. Others carry supplies to remote places or help police and scientists. Their ability to hover makes them very useful.",
+      "script_de": "Einige Hubschrauber helfen bei der Brandbekämpfung, indem sie Wasser oder Schaum abwerfen. Andere transportieren Vorräte an entlegene Orte oder helfen Polizei und Wissenschaftlern. Ihre Fähigkeit zu schweben macht sie sehr nützlich.",
+      "script_it": "Alcuni elicotteri aiutano a combattere gli incendi facendo cadere acqua o schiuma. Altri trasportano rifornimenti in luoghi remoti o aiutano la polizia e gli scienziati. La loro capacità di librarsi li rende molto utili.",
+      "script_fr": "Certains hélicoptères aident à combattre les incendies en larguant de l'eau ou de la mousse. D'autres transportent des fournitures vers des endroits éloignés ou aident la police et les scientifiques. Leur capacité à planer les rend très utiles.",
+      "script_es": "Algunos helicópteros ayudan a combatir incendios arrojando agua o espuma. Otros llevan suministros a lugares remotos o ayudan a la policía y a los científicos. Su capacidad para flotar los hace muy útiles.",
+      "script_hr": "Neki helikopteri pomažu u borbi protiv požara ispuštanjem vode ili pjene. Drugi nose zalihe na udaljena mjesta ili pomažu policiji i znanstvenicima. Njihova sposobnost lebdenja čini ih vrlo korisnima.",
+      "script_cs": "Některé vrtulníky pomáhají při hašení požárů kapáním vody nebo pěny. Jiní nosí zásoby na odlehlá místa nebo pomáhají policii a vědcům. Díky jejich schopnosti vznášet se jsou velmi užitečné.",
+      "script_pl": "Niektóre helikoptery pomagają gasić pożary, zrzucając wodę lub pianę. Inni przewożą zapasy do odległych miejsc lub pomagają policji i naukowcom. Ich zdolność do unoszenia się w powietrzu czyni je bardzo przydatnymi.",
+      "script_fi": "Jotkut helikopterit auttavat sammuttamaan tulipaloja pudottamalla vettä tai vaahtoa. Toiset kuljettavat tarvikkeita syrjäisiin paikkoihin tai auttavat poliiseja ja tiedemiehiä. Niiden kyky leijua tekee niistä erittäin hyödyllisiä.",
+      "script_sk": "Niektoré helikoptéry pomáhajú hasiť požiare kvapkaním vody alebo peny. Iní nosia zásoby na odľahlé miesta alebo pomáhajú polícii a vedcom. Vďaka ich schopnosti vznášať sa sú veľmi užitočné.",
+      "script_da": "Nogle helikoptere hjælper med at bekæmpe brande ved at tabe vand eller skum. Andre bærer forsyninger til fjerntliggende steder eller hjælper politi og videnskabsmænd. Deres evne til at svæve gør dem meget nyttige.",
+      "images": [
+        "fire.webp",
+        "fire_2.webp",
+        "fire_3.webp"
+      ]
+    },
+    {
+      "id": "today",
+      "script_en": "Today helicopters are used all over the world. They are noisy and need a lot of fuel, so engineers are testing electric and quieter designs. Helicopters remain a lifeline when roads are blocked.",
+      "script_de": "Helikopter werden heute überall auf der Welt eingesetzt. Sie sind laut und benötigen viel Kraftstoff, daher testen Ingenieure elektrische und leisere Konstruktionen. Hubschrauber bleiben eine Lebensader, wenn Straßen blockiert sind.",
+      "script_it": "Oggi gli elicotteri sono utilizzati in tutto il mondo. Sono rumorosi e necessitano di molto carburante, quindi gli ingegneri stanno testando progetti elettrici e più silenziosi. Gli elicotteri rimangono un’ancora di salvezza quando le strade sono bloccate.",
+      "script_fr": "Aujourd'hui, les hélicoptères sont utilisés partout dans le monde. Ils sont bruyants et nécessitent beaucoup de carburant, c’est pourquoi les ingénieurs testent des conceptions électriques et plus silencieuses. Les hélicoptères restent une bouée de sauvetage lorsque les routes sont bloquées.",
+      "script_es": "Hoy en día los helicópteros se utilizan en todo el mundo. Son ruidosos y necesitan mucho combustible, por lo que los ingenieros están probando diseños eléctricos y más silenciosos. Los helicópteros siguen siendo un salvavidas cuando las carreteras están bloqueadas.",
+      "script_hr": "Danas se helikopteri koriste u cijelom svijetu. Bučni su i trebaju puno goriva, pa inženjeri testiraju električne i tiše dizajne. Helikopteri ostaju spas kada su ceste blokirane.",
+      "script_cs": "Dnes se vrtulníky používají po celém světě. Jsou hlučné a potřebují hodně paliva, takže inženýři testují elektrické a tišší konstrukce. Vrtulníky zůstávají záchranným lanem, když jsou silnice zablokovány.",
+      "script_pl": "Obecnie helikoptery są używane na całym świecie. Są hałaśliwe i zużywają dużo paliwa, dlatego inżynierowie testują elektryczne i cichsze konstrukcje. Helikoptery pozostają ratunkiem, gdy drogi są zablokowane.",
+      "script_fi": "Nykyään helikoptereita käytetään kaikkialla maailmassa. Ne ovat meluisia ja vaativat paljon polttoainetta, joten insinöörit testaavat sähköisiä ja hiljaisempia malleja. Helikopterit ovat elinehto, kun tiet ovat tukossa.",
+      "script_sk": "Dnes sa vrtuľníky používajú po celom svete. Sú hlučné a potrebujú veľa paliva, takže inžinieri testujú elektrické a tichšie konštrukcie. Vrtuľníky zostávajú záchranným lanom, keď sú cesty zablokované.",
+      "script_da": "I dag bruges helikoptere over hele verden. De er støjende og har brug for meget brændstof, så ingeniører tester elektriske og mere støjsvage designs. Helikoptere forbliver en livline, når veje er spærret.",
+      "images": [
+        "today.webp",
+        "today_2.webp",
+        "today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "lift",
+      "correct": "rotor",
+      "question_en": "What lifts a helicopter into the air?",
+      "question_de": "Was hebt einen Helikopter in die Luft?",
+      "question_it": "Cosa solleva un elicottero in aria?",
+      "question_fr": "Qu'est-ce qui fait voler un hélicoptère dans les airs ?",
+      "question_es": "¿Qué levanta un helicóptero en el aire?",
+      "question_hr": "Što podiže helikopter u zrak?",
+      "question_cs": "Co zvedá vrtulník do vzduchu?",
+      "question_pl": "Co unosi helikopter w powietrze?",
+      "question_fi": "Mikä nostaa helikopterin ilmaan?",
+      "question_sk": "Čo zdvihne vrtuľník do vzduchu?",
+      "question_da": "Hvad løfter en helikopter i luften?",
+      "options": [
+        {
+          "id": "rotor",
+          "label_en": "Its spinning rotor blades",
+          "label_de": "Seine rotierenden Rotorblätter",
+          "label_it": "Le sue pale rotanti del rotore",
+          "label_fr": "Ses pales de rotor en rotation",
+          "label_es": "Sus palas de rotor giratorias",
+          "label_hr": "Lopatice rotora koje se okreću",
+          "label_cs": "Jeho rotující listy rotoru",
+          "label_pl": "Jego wirujące łopatki wirnika",
+          "label_fi": "Sen pyörivät roottorin siivet",
+          "label_sk": "Jeho rotujúce lopatky rotora",
+          "label_da": "Dens roterende rotorblade"
+        },
+        {
+          "id": "wheels",
+          "label_en": "Its wheels",
+          "label_de": "Seine Räder",
+          "label_it": "Le sue ruote",
+          "label_fr": "Ses roues",
+          "label_es": "sus ruedas",
+          "label_hr": "Njegovi kotači",
+          "label_cs": "Jeho kola",
+          "label_pl": "Jego koła",
+          "label_fi": "Sen pyörät",
+          "label_sk": "Jeho kolesá",
+          "label_da": "Dens hjul"
+        },
+        {
+          "id": "sail",
+          "label_en": "A sail",
+          "label_de": "Ein Segel",
+          "label_it": "Una vela",
+          "label_fr": "Une voile",
+          "label_es": "una vela",
+          "label_hr": "Jedro",
+          "label_cs": "Plachta",
+          "label_pl": "Żagiel",
+          "label_fi": "Purje",
+          "label_sk": "Plachta",
+          "label_da": "Et sejl"
+        }
+      ]
+    },
+    {
+      "id": "hover",
+      "correct": "hover",
+      "question_en": "What can a helicopter do that a plane usually cannot?",
+      "question_de": "Was kann ein Hubschrauber, was ein Flugzeug normalerweise nicht kann?",
+      "question_it": "Cosa può fare un elicottero che di solito un aereo non può fare?",
+      "question_fr": "Que peut faire un hélicoptère qu’un avion ne peut généralement pas faire ?",
+      "question_es": "¿Qué puede hacer un helicóptero que normalmente un avión no puede hacer?",
+      "question_hr": "Što može helikopter, a obično ne može avion?",
+      "question_cs": "Co dokáže vrtulník, co letadlo obvykle nedokáže?",
+      "question_pl": "Co potrafi helikopter, czego zwykle nie potrafi samolot?",
+      "question_fi": "Mitä helikopteri voi tehdä, mitä lentokone ei yleensä pysty?",
+      "question_sk": "Čo dokáže vrtuľník, čo lietadlo zvyčajne nedokáže?",
+      "question_da": "Hvad kan en helikopter, som et fly normalt ikke kan?",
+      "options": [
+        {
+          "id": "hover",
+          "label_en": "Hover in one place",
+          "label_de": "Bewegen Sie den Mauszeiger an einer Stelle",
+          "label_it": "Passa il mouse in un posto",
+          "label_fr": "Survolez au même endroit",
+          "label_es": "Coloca el cursor en un lugar",
+          "label_hr": "Lebdite na jednom mjestu",
+          "label_cs": "Umístěte kurzor na jedno místo",
+          "label_pl": "Zatrzymaj się w jednym miejscu",
+          "label_fi": "Vie hiiri yhdessä paikassa",
+          "label_sk": "Umiestnite kurzor myši na jedno miesto",
+          "label_da": "Hold musen ét sted"
+        },
+        {
+          "id": "swim",
+          "label_en": "Swim underwater",
+          "label_de": "Unter Wasser schwimmen",
+          "label_it": "Nuota sott'acqua",
+          "label_fr": "Nager sous l'eau",
+          "label_es": "Nadar bajo el agua",
+          "label_hr": "Plivajte pod vodom",
+          "label_cs": "Plavat pod vodou",
+          "label_pl": "Pływaj pod wodą",
+          "label_fi": "Ui veden alla",
+          "label_sk": "Plávať pod vodou",
+          "label_da": "Svøm under vandet"
+        },
+        {
+          "id": "sing",
+          "label_en": "Sing",
+          "label_de": "Singen",
+          "label_it": "Cantare",
+          "label_fr": "Chanter",
+          "label_es": "Cantar",
+          "label_hr": "Pjevati",
+          "label_cs": "Zpívat",
+          "label_pl": "Śpiewać",
+          "label_fi": "Laulaa",
+          "label_sk": "Spievajte",
+          "label_da": "Synge"
+        }
+      ]
+    },
+    {
+      "id": "rescue",
+      "correct": "rescue",
+      "question_en": "Where are helicopters especially useful?",
+      "question_de": "Wo sind Hubschrauber besonders nützlich?",
+      "question_it": "Dove sono particolarmente utili gli elicotteri?",
+      "question_fr": "Où les hélicoptères sont-ils particulièrement utiles ?",
+      "question_es": "¿Dónde son especialmente útiles los helicópteros?",
+      "question_hr": "Gdje su helikopteri posebno korisni?",
+      "question_cs": "Kde jsou vrtulníky obzvláště užitečné?",
+      "question_pl": "Gdzie helikoptery są szczególnie przydatne?",
+      "question_fi": "Missä helikoptereista on erityisen hyötyä?",
+      "question_sk": "Kde sú vrtuľníky obzvlášť užitočné?",
+      "question_da": "Hvor er helikoptere særligt nyttige?",
+      "options": [
+        {
+          "id": "rescue",
+          "label_en": "Rescue missions in hard-to-reach places",
+          "label_de": "Rettungseinsätze an schwer zugänglichen Orten",
+          "label_it": "Missioni di salvataggio in luoghi difficili da raggiungere",
+          "label_fr": "Missions de sauvetage dans des endroits difficiles d'accès",
+          "label_es": "Misiones de rescate en lugares de difícil acceso",
+          "label_hr": "Spasilačke misije na teško dostupnim mjestima",
+          "label_cs": "Záchranné mise na těžko dostupných místech",
+          "label_pl": "Misje ratunkowe w trudno dostępnych miejscach",
+          "label_fi": "Pelastustehtäviä vaikeapääsyisissä paikoissa",
+          "label_sk": "Záchranné misie na ťažko dostupných miestach",
+          "label_da": "Redningsmissioner på svært tilgængelige steder"
+        },
+        {
+          "id": "cooking",
+          "label_en": "Cooking dinner",
+          "label_de": "Abendessen kochen",
+          "label_it": "Cucinare la cena",
+          "label_fr": "Cuisiner le dîner",
+          "label_es": "cocinar la cena",
+          "label_hr": "Kuhanje večere",
+          "label_cs": "Vaření večeře",
+          "label_pl": "Gotowanie obiadu",
+          "label_fi": "Illallisen keittäminen",
+          "label_sk": "Varenie večere",
+          "label_da": "Madlavning middag"
+        },
+        {
+          "id": "gardening",
+          "label_en": "Planting flowers",
+          "label_de": "Blumen pflanzen",
+          "label_it": "Piantare fiori",
+          "label_fr": "Planter des fleurs",
+          "label_es": "Plantar flores",
+          "label_hr": "Sadnja cvijeća",
+          "label_cs": "Výsadba květin",
+          "label_pl": "Sadzenie kwiatów",
+          "label_fi": "Kukkien istuttaminen",
+          "label_sk": "Výsadba kvetov",
+          "label_da": "Plantning af blomster"
+        }
+      ]
+    }
+  ]
+}

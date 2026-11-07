@@ -1555,6 +1555,27 @@
       "title_da": "Biler"
     },
     {
+      "id": "helicopter",
+      "category_id": "transport",
+      "symbol_id": "helicopter",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/helicopter/helicopter_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/helicopter/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2124333,
+      "version": 1,
+      "title_en": "Helicopters",
+      "title_de": "Hubschrauber",
+      "title_it": "Elicotteri",
+      "title_fr": "Hélicoptères",
+      "title_es": "Helicópteros",
+      "title_hr": "Helikopteri",
+      "title_cs": "Vrtulníky",
+      "title_pl": "Helikoptery",
+      "title_fi": "Helikopterit",
+      "title_sk": "Vrtuľníky",
+      "title_da": "Helikoptre"
+    },
+    {
       "id": "train",
       "category_id": "transport",
       "symbol_id": "train",
