@@ -1,0 +1,293 @@
+{
+  "id": "airplane",
+  "category_id": "transport",
+  "symbol_id": "airplane",
+  "thumbnail": "airplane_thumb.webp",
+  "title_en": "Airplanes",
+  "title_de": "Flugzeuge",
+  "title_it": "Aeroplani",
+  "title_fr": "Avions",
+  "title_es": "Aviones",
+  "title_hr": "Zrakoplovi",
+  "title_cs": "Letadla",
+  "title_pl": "Samoloty",
+  "title_fi": "Lentokoneet",
+  "title_sk": "Lietadlá",
+  "title_da": "Flyvemaskiner",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about airplanes. An airplane is a flying machine with wings and engines. It can carry people and cargo high above the clouds, across countries and oceans.",
+      "script_de": "Heute lernen wir etwas über Flugzeuge. Ein Flugzeug ist eine Flugmaschine mit Flügeln und Triebwerken. Es kann Menschen und Fracht hoch über den Wolken, über Länder und Ozeane befördern.",
+      "script_it": "Oggi parleremo degli aeroplani. Un aereo è una macchina volante dotata di ali e motori. Può trasportare persone e merci in alto sopra le nuvole, attraverso paesi e oceani.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur les avions. Un avion est une machine volante dotée d’ailes et de moteurs. Il peut transporter des personnes et des marchandises au-dessus des nuages, à travers les pays et les océans.",
+      "script_es": "Hoy vamos a aprender sobre aviones. Un avión es una máquina voladora con alas y motores. Puede transportar personas y carga muy por encima de las nubes, a través de países y océanos.",
+      "script_hr": "Danas ćemo učiti o avionima. Avion je leteći stroj s krilima i motorima. Može prevoziti ljude i teret visoko iznad oblaka, preko zemalja i oceana.",
+      "script_cs": "Dnes se budeme učit o letadlech. Letadlo je létající stroj s křídly a motory. Může přepravovat lidi a náklad vysoko nad mraky, přes země a oceány.",
+      "script_pl": "Dziś będziemy uczyć się o samolotach. Samolot to latająca maszyna ze skrzydłami i silnikami. Może przewozić ludzi i ładunki wysoko ponad chmurami, przez kraje i oceany.",
+      "script_fi": "Tänään opimme lentokoneista. Lentokone on lentävä kone, jossa on siivet ja moottorit. Se voi kuljettaa ihmisiä ja rahtia korkealla pilvien yläpuolella maiden ja valtamerien yli.",
+      "script_sk": "Dnes sa budeme učiť o lietadlách. Lietadlo je lietajúci stroj s krídlami a motormi. Dokáže prepraviť ľudí a náklad vysoko nad oblakmi, cez krajiny a oceány.",
+      "script_da": "I dag skal vi lære om fly. Et fly er en flyvende maskine med vinger og motorer. Den kan transportere mennesker og gods højt over skyerne, på tværs af lande og oceaner.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "history",
+      "script_en": "The first powered airplane flight was made by the Wright brothers in 1903. Their plane stayed in the air for only a few seconds, but it showed that controlled flight was possible. Airplanes soon became larger and faster.",
+      "script_de": "Der erste Flug mit einem Motorflugzeug wurde 1903 von den Gebrüdern Wright durchgeführt. Ihr Flugzeug blieb nur wenige Sekunden in der Luft, zeigte aber, dass ein kontrollierter Flug möglich war. Flugzeuge wurden bald größer und schneller.",
+      "script_it": "Il primo volo aereo a motore fu effettuato dai fratelli Wright nel 1903. Il loro aereo rimase in aria solo per pochi secondi, ma dimostrò che il volo controllato era possibile. Ben presto gli aeroplani divennero più grandi e più veloci.",
+      "script_fr": "Le premier vol d'un avion propulsé a été réalisé par les frères Wright en 1903. Leur avion n'est resté en l'air que quelques secondes, mais cela a montré qu'un vol contrôlé était possible. Les avions sont rapidement devenus plus gros et plus rapides.",
+      "script_es": "El primer vuelo en avión propulsado lo realizaron los hermanos Wright en 1903. Su avión permaneció en el aire sólo unos segundos, pero demostró que el vuelo controlado era posible. Los aviones pronto se hicieron más grandes y más rápidos.",
+      "script_hr": "Prvi let motornim zrakoplovom izvela su braća Wright 1903. godine. Njihov se zrakoplov zadržao u zraku svega nekoliko sekundi, ali je pokazao da je kontrolirani let moguć. Avioni su ubrzo postali veći i brži.",
+      "script_cs": "První let s motorovým letadlem provedli bratři Wrightové v roce 1903. Jejich letadlo zůstalo ve vzduchu jen několik sekund, ale ukázalo se, že řízený let je možný. Letadla se brzy stala větší a rychlejší.",
+      "script_pl": "Pierwszy lot samolotem z napędem wykonali bracia Wright w 1903 roku. Ich samolot wzbił się w powietrze zaledwie kilka sekund, ale pokazał, że kontrolowany lot jest możliwy. Samoloty wkrótce stały się większe i szybsze.",
+      "script_fi": "Wrightin veljekset tekivät ensimmäisen koneellisen lentokoneen vuonna 1903. Heidän koneensa pysyi ilmassa vain muutaman sekunnin, mutta se osoitti, että ohjattu lento oli mahdollista. Lentokoneista tuli pian suurempia ja nopeampia.",
+      "script_sk": "Prvý let motorového lietadla uskutočnili bratia Wrightovci v roku 1903. Ich lietadlo zostalo vo vzduchu len niekoľko sekúnd, ale ukázalo sa, že riadený let je možný. Lietadlá sa čoskoro stali väčšími a rýchlejšími.",
+      "script_da": "Den første flyvning med motordrevne fly blev foretaget af Wright-brødrene i 1903. Deres fly blev kun i luften i et par sekunder, men det viste, at kontrolleret flyvning var mulig. Flyvemaskiner blev hurtigt større og hurtigere.",
+      "images": [
+        "history.webp",
+        "history_2.webp",
+        "history_3.webp"
+      ]
+    },
+    {
+      "id": "parts",
+      "script_en": "An airplane's wings create lift as air moves over them. Its engines push it forward, and the tail helps it turn and stay steady. Inside the cockpit, pilots use many instruments to guide the plane.",
+      "script_de": "Die Flügel eines Flugzeugs erzeugen Auftrieb, wenn Luft darüber strömt. Seine Motoren treiben es vorwärts und das Heck hilft ihm, sich zu drehen und stabil zu bleiben. Im Cockpit nutzen Piloten viele Instrumente, um das Flugzeug zu steuern.",
+      "script_it": "Le ali di un aereo creano portanza mentre l'aria si muove su di loro. I suoi motori lo spingono in avanti e la coda lo aiuta a girare e a rimanere stabile. All'interno della cabina di pilotaggio, i piloti utilizzano numerosi strumenti per guidare l'aereo.",
+      "script_fr": "Les ailes d'un avion créent une portance lorsque l'air se déplace au-dessus d'elles. Ses moteurs le poussent vers l'avant et sa queue l'aide à tourner et à rester stable. A l’intérieur du cockpit, les pilotes utilisent de nombreux instruments pour guider l’avion.",
+      "script_es": "Las alas de un avión crean sustentación cuando el aire se mueve sobre ellas. Sus motores lo empujan hacia adelante y la cola le ayuda a girar y mantenerse estable. Dentro de la cabina, los pilotos utilizan muchos instrumentos para guiar el avión.",
+      "script_hr": "Krila aviona stvaraju uzgon dok se zrak kreće iznad njih. Motori ga guraju naprijed, a rep mu pomaže da se okrene i ostane stabilan. Unutar kokpita, piloti koriste mnoge instrumente za navođenje aviona.",
+      "script_cs": "Křídla letadla vytvářejí vztlak, když se nad nimi pohybuje vzduch. Jeho motory ho ženou dopředu a ocas mu pomáhá otáčet se a zůstat stabilní. Uvnitř kokpitu používají piloti mnoho nástrojů k vedení letadla.",
+      "script_pl": "Skrzydła samolotu wytwarzają siłę nośną, gdy powietrze przemieszcza się nad nimi. Silniki popychają go do przodu, a ogon pomaga mu skręcać i utrzymać stabilność. W kokpicie piloci używają wielu przyrządów do kierowania samolotem.",
+      "script_fi": "Lentokoneen siivet luovat nostovoimaa, kun ilma liikkuu niiden yli. Sen moottorit työntävät sitä eteenpäin, ja häntä auttaa sitä kääntymään ja pysymään vakaana. Ohjaamon sisällä lentäjät käyttävät monia välineitä ohjaamaan konetta.",
+      "script_sk": "Krídla lietadla vytvárajú vztlak, keď sa nad nimi pohybuje vzduch. Jeho motory ho tlačia dopredu a chvost mu pomáha otočiť sa a zostať stabilný. Vnútri kokpitu používajú piloti mnoho nástrojov na vedenie lietadla.",
+      "script_da": "Et flys vinger skaber løft, når luften bevæger sig over dem. Dens motorer skubber den fremad, og halen hjælper den med at dreje og holde sig stabil. Inde i cockpittet bruger piloter mange instrumenter til at styre flyet.",
+      "images": [
+        "parts.webp",
+        "parts_2.webp",
+        "parts_3.webp"
+      ]
+    },
+    {
+      "id": "airport",
+      "script_en": "Airplanes take off and land at airports. Long runways give them space to speed up and slow down. Control towers tell pilots when it is safe to move, and security checks help keep everyone safe.",
+      "script_de": "Flugzeuge starten und landen auf Flughäfen. Lange Start- und Landebahnen geben ihnen Raum zum Beschleunigen und Verlangsamen. Kontrolltürme teilen den Piloten mit, wann es sicher ist, sich fortzubewegen, und Sicherheitskontrollen sorgen für die Sicherheit aller.",
+      "script_it": "Gli aeroplani decollano e atterrano negli aeroporti. Le piste lunghe danno loro spazio per accelerare e rallentare. Le torri di controllo comunicano ai piloti quando è sicuro muoversi e i controlli di sicurezza aiutano a mantenere tutti al sicuro.",
+      "script_fr": "Les avions décollent et atterrissent dans les aéroports. Les longues pistes leur donnent l’espace nécessaire pour accélérer et ralentir. Les tours de contrôle indiquent aux pilotes quand il est possible de se déplacer en toute sécurité, et les contrôles de sécurité contribuent à assurer la sécurité de tous.",
+      "script_es": "Los aviones despegan y aterrizan en los aeropuertos. Las pistas largas les dan espacio para acelerar y frenar. Las torres de control indican a los pilotos cuándo es seguro moverse y los controles de seguridad ayudan a mantener a todos a salvo.",
+      "script_hr": "Zrakoplovi polijeću i slijeću u zračne luke. Duge piste daju im prostora za ubrzavanje i usporavanje. Kontrolni tornjevi govore pilotima kada je sigurno krenuti, a sigurnosne provjere pomažu da svi budu sigurni.",
+      "script_cs": "Letadla startují a přistávají na letištích. Dlouhé dráhy jim dávají prostor pro zrychlení a zpomalení. Kontrolní věže říkají pilotům, kdy je bezpečné se pohybovat, a bezpečnostní kontroly pomáhají udržet všechny v bezpečí.",
+      "script_pl": "Samoloty startują i lądują na lotniskach. Długie pasy startowe dają im przestrzeń do przyspieszania i zwalniania. Wieże kontrolne informują pilotów, kiedy można bezpiecznie się poruszać, a kontrole bezpieczeństwa pomagają zapewnić wszystkim bezpieczeństwo.",
+      "script_fi": "Lentokoneet nousevat ja laskeutuvat lentoasemille. Pitkät kiitotiet antavat niille tilaa nopeuttaa ja hidastaa. Lennonjohtotornit kertovat lentäjille, milloin on turvallista liikkua, ja turvatarkastukset auttavat pitämään kaikki turvassa.",
+      "script_sk": "Lietadlá štartujú a pristávajú na letiskách. Dlhé dráhy im dávajú priestor na zrýchlenie a spomalenie. Kontrolné veže informujú pilotov, kedy je bezpečný pohyb, a bezpečnostné kontroly pomáhajú udržať každého v bezpečí.",
+      "script_da": "Fly starter og lander i lufthavne. Lange landingsbaner giver dem plads til at sætte farten op og sænke farten. Kontroltårne ​​fortæller piloter, hvornår det er sikkert at bevæge sig, og sikkerhedstjek hjælper med at holde alle sikre.",
+      "images": [
+        "airport.webp",
+        "airport_2.webp",
+        "airport_3.webp"
+      ]
+    },
+    {
+      "id": "today",
+      "script_en": "Today airplanes connect the world. They carry passengers, mail, medicine, and fresh food across huge distances. Engineers are working on quieter, more efficient planes that use less fuel.",
+      "script_de": "Heute verbinden Flugzeuge die Welt. Sie befördern Passagiere, Post, Medikamente und frische Lebensmittel über große Entfernungen. Ingenieure arbeiten an leiseren, effizienteren Flugzeugen, die weniger Treibstoff verbrauchen.",
+      "script_it": "Oggi gli aerei collegano il mondo. Trasportano passeggeri, posta, medicine e cibo fresco su enormi distanze. Gli ingegneri stanno lavorando su aerei più silenziosi ed efficienti che consumano meno carburante.",
+      "script_fr": "Aujourd’hui, les avions relient le monde. Ils transportent des passagers, du courrier, des médicaments et des produits frais sur de grandes distances. Les ingénieurs travaillent sur des avions plus silencieux, plus efficaces et consommant moins de carburant.",
+      "script_es": "Hoy los aviones conectan el mundo. Transportan pasajeros, correo, medicinas y alimentos frescos a través de grandes distancias. Los ingenieros están trabajando en aviones más silenciosos y eficientes que utilicen menos combustible.",
+      "script_hr": "Danas zrakoplovi povezuju svijet. Prevoze putnike, poštu, lijekove i svježu hranu na velike udaljenosti. Inženjeri rade na tišim, učinkovitijim avionima koji troše manje goriva.",
+      "script_cs": "Dnes letadla spojují svět. Převáží cestující, poštu, léky a čerstvé potraviny na obrovské vzdálenosti. Inženýři pracují na tišších a účinnějších letadlech, která spotřebují méně paliva.",
+      "script_pl": "Dziś samoloty łączą świat. Przewożą pasażerów, pocztę, lekarstwa i świeżą żywność na ogromne odległości. Inżynierowie pracują nad cichszymi, wydajniejszymi samolotami, które zużywają mniej paliwa.",
+      "script_fi": "Nykyään lentokoneet yhdistävät maailman. He kuljettavat matkustajia, postia, lääkkeitä ja tuoretta ruokaa valtavien matkojen yli. Insinöörit työskentelevät hiljaisempien, tehokkaampien lentokoneiden parissa, jotka kuluttavat vähemmän polttoainetta.",
+      "script_sk": "Dnes lietadlá spájajú svet. Prevážajú cestujúcich, poštu, lieky a čerstvé potraviny na obrovské vzdialenosti. Inžinieri pracujú na tichších a efektívnejších lietadlách, ktoré spotrebujú menej paliva.",
+      "script_da": "I dag forbinder fly verden. De transporterer passagerer, post, medicin og frisk mad over store afstande. Ingeniører arbejder på mere støjsvage, mere effektive fly, der bruger mindre brændstof.",
+      "images": [
+        "today.webp",
+        "today_2.webp",
+        "today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "wings",
+      "correct": "wings",
+      "question_en": "What helps an airplane stay in the air?",
+      "question_de": "Was hilft einem Flugzeug, in der Luft zu bleiben?",
+      "question_it": "Cosa aiuta un aereo a rimanere in aria?",
+      "question_fr": "Qu’est-ce qui aide un avion à rester en l’air ?",
+      "question_es": "¿Qué ayuda a un avión a mantenerse en el aire?",
+      "question_hr": "Što pomaže zrakoplovu da ostane u zraku?",
+      "question_cs": "Co pomáhá letadlu zůstat ve vzduchu?",
+      "question_pl": "Co pomaga samolotowi utrzymać się w powietrzu?",
+      "question_fi": "Mikä auttaa lentokonetta pysymään ilmassa?",
+      "question_sk": "Čo pomáha lietadlu zostať vo vzduchu?",
+      "question_da": "Hvad hjælper et fly med at holde sig i luften?",
+      "options": [
+        {
+          "id": "wings",
+          "label_en": "Its wings",
+          "label_de": "Seine Flügel",
+          "label_it": "Le sue ali",
+          "label_fr": "Ses ailes",
+          "label_es": "sus alas",
+          "label_hr": "Njegova krila",
+          "label_cs": "Jeho křídla",
+          "label_pl": "Jego skrzydła",
+          "label_fi": "Sen siivet",
+          "label_sk": "Jeho krídla",
+          "label_da": "Dens vinger"
+        },
+        {
+          "id": "wheels",
+          "label_en": "Its wheels",
+          "label_de": "Seine Räder",
+          "label_it": "Le sue ruote",
+          "label_fr": "Ses roues",
+          "label_es": "sus ruedas",
+          "label_hr": "Njegovi kotači",
+          "label_cs": "Jeho kola",
+          "label_pl": "Jego koła",
+          "label_fi": "Sen pyörät",
+          "label_sk": "Jeho kolesá",
+          "label_da": "Dens hjul"
+        },
+        {
+          "id": "tail",
+          "label_en": "Its tail only",
+          "label_de": "Nur sein Schwanz",
+          "label_it": "Solo la sua coda",
+          "label_fr": "Sa queue seulement",
+          "label_es": "solo su cola",
+          "label_hr": "Samo njegov rep",
+          "label_cs": "Pouze jeho ocas",
+          "label_pl": "Tylko ogon",
+          "label_fi": "Vain sen häntä",
+          "label_sk": "Iba jeho chvost",
+          "label_da": "Kun dens hale"
+        }
+      ]
+    },
+    {
+      "id": "first",
+      "correct": "wright",
+      "question_en": "Who made the first powered airplane flight?",
+      "question_de": "Wer hat den ersten Flug mit einem Motorflugzeug gemacht?",
+      "question_it": "Chi ha effettuato il primo volo in aereo a motore?",
+      "question_fr": "Qui a effectué le premier vol d’un avion propulsé ?",
+      "question_es": "¿Quién realizó el primer vuelo en avión a motor?",
+      "question_hr": "Tko je napravio prvi let motornim avionom?",
+      "question_cs": "Kdo provedl první let motorového letadla?",
+      "question_pl": "Kto wykonał pierwszy lot samolotem z napędem?",
+      "question_fi": "Kuka teki ensimmäisen moottoroidun lentokoneen?",
+      "question_sk": "Kto uskutočnil prvý let motorového lietadla?",
+      "question_da": "Hvem foretog den første flyvning med motordrevet fly?",
+      "options": [
+        {
+          "id": "wright",
+          "label_en": "The Wright brothers",
+          "label_de": "Die Gebrüder Wright",
+          "label_it": "I fratelli Wright",
+          "label_fr": "Les frères Wright",
+          "label_es": "los hermanos wright",
+          "label_hr": "Braća Wright",
+          "label_cs": "bratři Wrightové",
+          "label_pl": "Bracia Wright",
+          "label_fi": "Wrightin veljekset",
+          "label_sk": "Bratia Wrightovci",
+          "label_da": "Wright-brødrene"
+        },
+        {
+          "id": "edison",
+          "label_en": "Thomas Edison",
+          "label_de": "Thomas Edison",
+          "label_it": "Tommaso Edison",
+          "label_fr": "Thomas Edison",
+          "label_es": "Tomás Edison",
+          "label_hr": "Thomas Edison",
+          "label_cs": "Thomas Edison",
+          "label_pl": "Thomasa Edisona",
+          "label_fi": "Thomas Edison",
+          "label_sk": "Thomas Edison",
+          "label_da": "Thomas Edison"
+        },
+        {
+          "id": "newton",
+          "label_en": "Isaac Newton",
+          "label_de": "Isaac Newton",
+          "label_it": "Isacco Newton",
+          "label_fr": "Isaac Newton",
+          "label_es": "isaac newton",
+          "label_hr": "Isaac Newton",
+          "label_cs": "Isaac Newton",
+          "label_pl": "Izaaka Newtona",
+          "label_fi": "Isaac Newton",
+          "label_sk": "Isaac Newton",
+          "label_da": "Isaac Newton"
+        }
+      ]
+    },
+    {
+      "id": "airport",
+      "correct": "airport",
+      "question_en": "Where do airplanes take off and land?",
+      "question_de": "Wo starten und landen Flugzeuge?",
+      "question_it": "Dove decollano e atterrano gli aerei?",
+      "question_fr": "Où décollent et atterrissent les avions ?",
+      "question_es": "¿Dónde despegan y aterrizan los aviones?",
+      "question_hr": "Gdje avioni polijeću i slijeću?",
+      "question_cs": "Kde letadla startují a přistávají?",
+      "question_pl": "Gdzie startują i lądują samoloty?",
+      "question_fi": "Missä lentokoneet nousevat ja laskeutuvat?",
+      "question_sk": "Kde lietadlá štartujú a pristávajú?",
+      "question_da": "Hvor letter og lander fly?",
+      "options": [
+        {
+          "id": "airport",
+          "label_en": "At an airport",
+          "label_de": "Auf einem Flughafen",
+          "label_it": "In un aeroporto",
+          "label_fr": "Dans un aéroport",
+          "label_es": "en un aeropuerto",
+          "label_hr": "U zračnoj luci",
+          "label_cs": "Na letišti",
+          "label_pl": "Na lotnisku",
+          "label_fi": "Lentokentällä",
+          "label_sk": "Na letisku",
+          "label_da": "I en lufthavn"
+        },
+        {
+          "id": "garage",
+          "label_en": "In a garage",
+          "label_de": "In einer Garage",
+          "label_it": "In un garage",
+          "label_fr": "Dans un garage",
+          "label_es": "en un garaje",
+          "label_hr": "U garaži",
+          "label_cs": "V garáži",
+          "label_pl": "W garażu",
+          "label_fi": "Autotallissa",
+          "label_sk": "V garáži",
+          "label_da": "I en garage"
+        },
+        {
+          "id": "harbour",
+          "label_en": "In a harbour",
+          "label_de": "In einem Hafen",
+          "label_it": "In un porto",
+          "label_fr": "Dans un port",
+          "label_es": "en un puerto",
+          "label_hr": "U luci",
+          "label_cs": "V přístavu",
+          "label_pl": "W porcie",
+          "label_fi": "Satamassa",
+          "label_sk": "V prístave",
+          "label_da": "I en havn"
+        }
+      ]
+    }
+  ]
+}

@@ -986,6 +986,27 @@
       "title_fi": "Saturnus",
       "title_sk": "Saturn",
       "title_da": "Saturn"
+    },
+    {
+      "id": "airplane",
+      "category_id": "transport",
+      "symbol_id": "airplane",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/airplane/airplane_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/airplane/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 1777917,
+      "version": 1,
+      "title_en": "Airplanes",
+      "title_de": "Flugzeuge",
+      "title_it": "Aeroplani",
+      "title_fr": "Avions",
+      "title_es": "Aviones",
+      "title_hr": "Zrakoplovi",
+      "title_cs": "Letadla",
+      "title_pl": "Samoloty",
+      "title_fi": "Lentokoneet",
+      "title_sk": "Lietadlá",
+      "title_da": "Flyvemaskiner"
     }
   ]
 }
