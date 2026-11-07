@@ -1,0 +1,293 @@
+{
+  "id": "mars",
+  "category_id": "planets",
+  "symbol_id": "mars",
+  "thumbnail": "mars_thumb.webp",
+  "title_en": "Mars",
+  "title_de": "Mars",
+  "title_it": "Marte",
+  "title_fr": "Mars",
+  "title_es": "Marte",
+  "title_hr": "Mars",
+  "title_cs": "Mars",
+  "title_pl": "Mars",
+  "title_fi": "Mars",
+  "title_sk": "Mars",
+  "title_da": "Mars",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about Mars. Mars is the fourth planet from the Sun and is often called the Red Planet. Its colour comes from rusty iron dust that covers its surface.",
+      "script_de": "Heute werden wir etwas über den Mars lernen. Der Mars ist der vierte Planet von der Sonne aus gesehen und wird oft als Roter Planet bezeichnet. Seine Farbe entsteht durch rostigen Eisenstaub, der seine Oberfläche bedeckt.",
+      "script_it": "Oggi conosceremo Marte. Marte è il quarto pianeta a partire dal Sole ed è spesso chiamato il Pianeta Rosso. Il suo colore deriva dalla polvere di ferro arrugginito che ne ricopre la superficie.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur Mars. Mars est la quatrième planète après le Soleil et est souvent appelée la planète rouge. Sa couleur vient de la poussière de fer rouillée qui recouvre sa surface.",
+      "script_es": "Hoy vamos a aprender sobre Marte. Marte es el cuarto planeta desde el Sol y a menudo se le llama Planeta Rojo. Su color proviene del polvo de hierro oxidado que cubre su superficie.",
+      "script_hr": "Danas ćemo učiti o Marsu. Mars je četvrti planet od Sunca i često se naziva Crveni planet. Boja mu dolazi od zahrđale željezne prašine koja prekriva njegovu površinu.",
+      "script_cs": "Dnes se budeme učit o Marsu. Mars je čtvrtá planeta od Slunce a často se mu říká Rudá planeta. Jeho barva pochází z rezavého železného prachu, který pokrývá jeho povrch.",
+      "script_pl": "Dziś będziemy uczyć się o Marsie. Mars jest czwartą planetą od Słońca i często nazywany jest Czerwoną Planetą. Swój kolor zawdzięcza rdzawemu żelaznemu pyłowi pokrywającemu jego powierzchnię.",
+      "script_fi": "Tänään opimme Marsista. Mars on neljäs planeetta Auringosta ja sitä kutsutaan usein punaiseksi planeettaksi. Sen väri tulee sen pinnan peittävästä ruosteisesta rautapölystä.",
+      "script_sk": "Dnes sa budeme učiť o Marse. Mars je štvrtá planéta od Slnka a často sa nazýva Červená planéta. Jeho farba pochádza z hrdzavého železného prachu, ktorý pokrýva jeho povrch.",
+      "script_da": "I dag skal vi lære om Mars. Mars er den fjerde planet fra Solen og kaldes ofte for den røde planet. Dens farve kommer fra rustent jernstøv, der dækker dens overflade.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "surface",
+      "script_en": "Mars is a cold, rocky world with deserts, mountains, and enormous canyons. It has the tallest volcano in the solar system, Olympus Mons. The air is very thin and mostly made of carbon dioxide.",
+      "script_de": "Der Mars ist eine kalte, felsige Welt mit Wüsten, Bergen und riesigen Schluchten. Hier befindet sich der höchste Vulkan im Sonnensystem, Olympus Mons. Die Luft ist sehr dünn und besteht größtenteils aus Kohlendioxid.",
+      "script_it": "Marte è un mondo freddo e roccioso con deserti, montagne ed enormi canyon. Ha il vulcano più alto del sistema solare, l'Olympus Mons. L’aria è molto rarefatta e composta principalmente da anidride carbonica.",
+      "script_fr": "Mars est un monde froid et rocheux avec des déserts, des montagnes et d'énormes canyons. Elle possède le plus haut volcan du système solaire, Olympus Mons. L’air est très raréfié et principalement composé de dioxyde de carbone.",
+      "script_es": "Marte es un mundo frío y rocoso con desiertos, montañas y enormes cañones. Tiene el volcán más alto del sistema solar, Olympus Mons. El aire es muy fino y está compuesto principalmente de dióxido de carbono.",
+      "script_hr": "Mars je hladan, stjenoviti svijet s pustinjama, planinama i ogromnim kanjonima. Ima najviši vulkan u Sunčevom sustavu, Olympus Mons. Zrak je vrlo rijedak i uglavnom se sastoji od ugljičnog dioksida.",
+      "script_cs": "Mars je studený, skalnatý svět s pouštěmi, horami a obrovskými kaňony. Má nejvyšší sopku ve sluneční soustavě, Olympus Mons. Vzduch je velmi řídký a většinou se skládá z oxidu uhličitého.",
+      "script_pl": "Mars to zimny, skalisty świat z pustyniami, górami i ogromnymi kanionami. Znajduje się tam najwyższy wulkan w Układzie Słonecznym, Olympus Mons. Powietrze jest bardzo rozrzedzone i składa się głównie z dwutlenku węgla.",
+      "script_fi": "Mars on kylmä, kivinen maailma, jossa on aavikoita, vuoria ja valtavia kanjoneita. Siinä on aurinkokunnan korkein tulivuori, Olympus Mons. Ilma on hyvin ohutta ja koostuu pääosin hiilidioksidista.",
+      "script_sk": "Mars je studený, skalnatý svet s púšťami, horami a obrovskými kaňonmi. Má najvyššiu sopku v slnečnej sústave, Olympus Mons. Vzduch je veľmi riedky a väčšinou je tvorený oxidom uhličitým.",
+      "script_da": "Mars er en kold, stenet verden med ørkener, bjerge og enorme kløfter. Den har den højeste vulkan i solsystemet, Olympus Mons. Luften er meget tynd og for det meste lavet af kuldioxid.",
+      "images": [
+        "surface.webp",
+        "surface_2.webp",
+        "surface_3.webp"
+      ]
+    },
+    {
+      "id": "rovers",
+      "script_en": "People have sent many robots to Mars. Rovers drive across the surface, testing rocks and searching for signs of ancient water. Their photographs help scientists learn what Mars was like long ago.",
+      "script_de": "Die Menschen haben viele Roboter zum Mars geschickt. Rover fahren über die Oberfläche, testen Felsen und suchen nach Spuren von altem Wasser. Ihre Fotos helfen Wissenschaftlern zu verstehen, wie der Mars vor langer Zeit aussah.",
+      "script_it": "Gli esseri umani hanno inviato molti robot su Marte. I rover attraversano la superficie, testando le rocce e cercando segni di acqua antica. Le loro fotografie aiutano gli scienziati a scoprire com'era Marte molto tempo fa.",
+      "script_fr": "Les gens ont envoyé de nombreux robots sur Mars. Les rovers traversent la surface, testent les roches et recherchent des signes d'eau ancienne. Leurs photographies aident les scientifiques à découvrir à quoi ressemblait Mars il y a longtemps.",
+      "script_es": "La gente ha enviado muchos robots a Marte. Los rovers recorren la superficie, probando rocas y buscando signos de agua antigua. Sus fotografías ayudan a los científicos a aprender cómo era Marte hace mucho tiempo.",
+      "script_hr": "Ljudi su poslali mnogo robota na Mars. Roveri voze po površini, testiraju stijene i traže znakove drevne vode. Njihove fotografije pomažu znanstvenicima da saznaju kakav je Mars bio davno.",
+      "script_cs": "Lidé poslali na Mars mnoho robotů. Rovery jezdí po povrchu, testují skály a hledají známky dávné vody. Jejich fotografie pomáhají vědcům zjistit, jaký byl Mars kdysi dávno.",
+      "script_pl": "Ludzie wysłali wiele robotów na Marsa. Łaziki jeżdżą po powierzchni, badając skały i szukając śladów starożytnej wody. Ich zdjęcia pomagają naukowcom dowiedzieć się, jak wyglądał Mars dawno temu.",
+      "script_fi": "Ihmiset ovat lähettäneet monia robotteja Marsiin. Roverit ajavat pinnan poikki, testaavat kiviä ja etsivät merkkejä muinaisesta vedestä. Heidän valokuvansa auttavat tutkijoita oppimaan, millainen Mars oli kauan sitten.",
+      "script_sk": "Ľudia poslali na Mars veľa robotov. Rovery jazdia po povrchu, testujú skaly a hľadajú známky dávnej vody. Ich fotografie pomáhajú vedcom zistiť, aký bol Mars kedysi dávno.",
+      "script_da": "Folk har sendt mange robotter til Mars. Rovers kører hen over overfladen, tester sten og leder efter tegn på gammelt vand. Deres fotografier hjælper videnskabsmænd med at lære, hvordan Mars var for længe siden.",
+      "images": [
+        "rovers.webp",
+        "rovers_2.webp",
+        "rovers_3.webp"
+      ]
+    },
+    {
+      "id": "moons",
+      "script_en": "Mars has two tiny moons, Phobos and Deimos. They are lumpy and look like potatoes rather than round balls. They may once have been asteroids that were captured by Mars's gravity.",
+      "script_de": "Der Mars hat zwei winzige Monde, Phobos und Deimos. Sie sind klumpig und ähneln eher Kartoffeln als runden Kugeln. Möglicherweise handelte es sich einst um Asteroiden, die von der Schwerkraft des Mars eingefangen wurden.",
+      "script_it": "Marte ha due piccole lune, Phobos e Deimos. Sono grumosi e sembrano patate piuttosto che palline rotonde. Potrebbero essere stati un tempo asteroidi catturati dalla gravità di Marte.",
+      "script_fr": "Mars possède deux petites lunes, Phobos et Deimos. Ils sont grumeleux et ressemblent à des pommes de terre plutôt qu'à des boules rondes. Il s’agit peut-être autrefois d’astéroïdes capturés par la gravité de Mars.",
+      "script_es": "Marte tiene dos lunas pequeñas, Fobos y Deimos. Tienen grumos y parecen patatas en lugar de bolas redondas. Es posible que alguna vez hayan sido asteroides que fueron capturados por la gravedad de Marte.",
+      "script_hr": "Mars ima dva sićušna mjeseca, Phobos i Deimos. Kvrgave su i izgledaju više poput krumpira nego okruglih kuglica. Možda su nekada bili asteroidi koje je zahvatila Marsova gravitacija.",
+      "script_cs": "Mars má dva malé měsíce, Phobos a Deimos. Jsou hrudkovité a vypadají spíše jako brambory než kulaté kuličky. Kdysi to mohly být asteroidy, které byly zachyceny gravitací Marsu.",
+      "script_pl": "Mars ma dwa małe księżyce, Fobos i Deimos. Są grudkowate i wyglądają raczej jak ziemniaki niż okrągłe kulki. Być może kiedyś były to asteroidy przechwycone przez grawitację Marsa.",
+      "script_fi": "Marsilla on kaksi pientä kuuta, Phobos ja Deimos. Ne ovat möykkyisiä ja näyttävät enemmän perunoilta kuin pyöreiltä palloilta. Ne saattoivat joskus olla asteroideja, jotka Marsin painovoima vangitsi.",
+      "script_sk": "Mars má dva malé mesiace, Phobos a Deimos. Sú hrudkovité a vyzerajú skôr ako zemiaky než guľaté gule. Kedysi to mohli byť asteroidy, ktoré zachytila ​​gravitácia Marsu.",
+      "script_da": "Mars har to små måner, Phobos og Deimos. De er klumpet og ligner kartofler frem for runde kugler. De kan engang have været asteroider, der blev fanget af Mars' tyngdekraft.",
+      "images": [
+        "moons.webp",
+        "moons_2.webp",
+        "moons_3.webp"
+      ]
+    },
+    {
+      "id": "future",
+      "script_en": "Today scientists are studying whether people could one day visit Mars. A journey there would be long and difficult, but the red planet remains one of the most exciting places to explore.",
+      "script_de": "Heute untersuchen Wissenschaftler, ob Menschen eines Tages den Mars besuchen könnten. Eine Reise dorthin wäre lang und schwierig, aber der Rote Planet bleibt einer der aufregendsten Orte, die es zu erkunden gilt.",
+      "script_it": "Oggi gli scienziati stanno studiando se un giorno gli esseri umani potranno visitare Marte. Un viaggio lì sarebbe lungo e difficile, ma il pianeta rosso rimane uno dei luoghi più emozionanti da esplorare.",
+      "script_fr": "Aujourd’hui, les scientifiques étudient si des humains pourraient un jour visiter Mars. Un voyage là-bas serait long et difficile, mais la planète rouge reste l’un des endroits les plus passionnants à explorer.",
+      "script_es": "Hoy en día los científicos están estudiando si algún día la gente podría visitar Marte. Un viaje hasta allí sería largo y difícil, pero el planeta rojo sigue siendo uno de los lugares más interesantes para explorar.",
+      "script_hr": "Danas znanstvenici proučavaju mogu li ljudi jednog dana posjetiti Mars. Putovanje do tamo bilo bi dugo i teško, ali crveni planet ostaje jedno od najuzbudljivijih mjesta za istraživanje.",
+      "script_cs": "Dnes vědci zkoumají, zda by lidé mohli jednoho dne navštívit Mars. Cesta tam by byla dlouhá a obtížná, ale rudá planeta zůstává jedním z nejzajímavějších míst k prozkoumání.",
+      "script_pl": "Dziś naukowcy badają, czy pewnego dnia ludzie będą mogli odwiedzić Marsa. Podróż tam byłaby długa i trudna, ale czerwona planeta pozostaje jednym z najbardziej ekscytujących miejsc do odkrycia.",
+      "script_fi": "Nykyään tutkijat tutkivat, voisivatko ihmiset jonain päivänä vierailla Marsissa. Matka sinne olisi pitkä ja vaikea, mutta punainen planeetta on edelleen yksi jännittävimmistä tutkimisen arvoisista paikoista.",
+      "script_sk": "Dnes vedci skúmajú, či by ľudia jedného dňa mohli navštíviť Mars. Cesta tam by bola dlhá a náročná, ale červená planéta zostáva jedným z najzaujímavejších miest na preskúmanie.",
+      "script_da": "I dag undersøger forskere, om mennesker en dag kan besøge Mars. En rejse dertil ville være lang og vanskelig, men den røde planet er stadig et af de mest spændende steder at udforske.",
+      "images": [
+        "future.webp",
+        "future_2.webp",
+        "future_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "order",
+      "correct": "fourth",
+      "question_en": "Which planet is Mars from the Sun?",
+      "question_de": "Welcher Planet ist der Mars von der Sonne aus?",
+      "question_it": "Quale pianeta è Marte dal Sole?",
+      "question_fr": "Quelle planète est Mars par rapport au Soleil ?",
+      "question_es": "¿Qué planeta es Marte desde el Sol?",
+      "question_hr": "Koji je planet Mars od Sunca?",
+      "question_cs": "Která planeta je Mars od Slunce?",
+      "question_pl": "Która planeta jest Marsem względem Słońca?",
+      "question_fi": "Mikä planeetta on Marsista auringosta?",
+      "question_sk": "Ktorá planéta je Mars od Slnka?",
+      "question_da": "Hvilken planet er Mars fra Solen?",
+      "options": [
+        {
+          "id": "fourth",
+          "label_en": "The fourth planet",
+          "label_de": "Der vierte Planet",
+          "label_it": "Il quarto pianeta",
+          "label_fr": "La quatrième planète",
+          "label_es": "El cuarto planeta",
+          "label_hr": "Četvrti planet",
+          "label_cs": "Čtvrtá planeta",
+          "label_pl": "Czwarta planeta",
+          "label_fi": "Neljäs planeetta",
+          "label_sk": "Štvrtá planéta",
+          "label_da": "Den fjerde planet"
+        },
+        {
+          "id": "second",
+          "label_en": "The second planet",
+          "label_de": "Der zweite Planet",
+          "label_it": "Il secondo pianeta",
+          "label_fr": "La deuxième planète",
+          "label_es": "El segundo planeta",
+          "label_hr": "Drugi planet",
+          "label_cs": "Druhá planeta",
+          "label_pl": "Druga planeta",
+          "label_fi": "Toinen planeetta",
+          "label_sk": "Druhá planéta",
+          "label_da": "Den anden planet"
+        },
+        {
+          "id": "seventh",
+          "label_en": "The seventh planet",
+          "label_de": "Der siebte Planet",
+          "label_it": "Il settimo pianeta",
+          "label_fr": "La septième planète",
+          "label_es": "El séptimo planeta",
+          "label_hr": "Sedmi planet",
+          "label_cs": "Sedmá planeta",
+          "label_pl": "Siódma planeta",
+          "label_fi": "Seitsemäs planeetta",
+          "label_sk": "Siedma planéta",
+          "label_da": "Den syvende planet"
+        }
+      ]
+    },
+    {
+      "id": "colour",
+      "correct": "iron",
+      "question_en": "Why does Mars look red?",
+      "question_de": "Warum sieht der Mars rot aus?",
+      "question_it": "Perché Marte appare rosso?",
+      "question_fr": "Pourquoi Mars paraît-elle rouge ?",
+      "question_es": "¿Por qué Marte se ve rojo?",
+      "question_hr": "Zašto Mars izgleda crveno?",
+      "question_cs": "Proč Mars vypadá červeně?",
+      "question_pl": "Dlaczego Mars wygląda na czerwony?",
+      "question_fi": "Miksi Mars näyttää punaiselta?",
+      "question_sk": "Prečo Mars vyzerá červený?",
+      "question_da": "Hvorfor ser Mars rød ud?",
+      "options": [
+        {
+          "id": "iron",
+          "label_en": "Rusty iron dust on its surface",
+          "label_de": "Rostiger Eisenstaub auf seiner Oberfläche",
+          "label_it": "Polvere di ferro arrugginito sulla sua superficie",
+          "label_fr": "Poussière de fer rouillée à la surface",
+          "label_es": "Polvo de hierro oxidado en su superficie",
+          "label_hr": "Hrđava željezna prašina na površini",
+          "label_cs": "Na jeho povrchu rezavý železný prach",
+          "label_pl": "Zardzewiały żelazny pył na jego powierzchni",
+          "label_fi": "Ruosteinen rautapöly sen pinnalla",
+          "label_sk": "Na jeho povrchu hrdzavý železný prach",
+          "label_da": "Rustent jernstøv på overfladen"
+        },
+        {
+          "id": "red",
+          "label_en": "Red plants",
+          "label_de": "Rote Pflanzen",
+          "label_it": "Piante rosse",
+          "label_fr": "Plantes rouges",
+          "label_es": "plantas rojas",
+          "label_hr": "Crvene biljke",
+          "label_cs": "Červené rostliny",
+          "label_pl": "Czerwone rośliny",
+          "label_fi": "Punaiset kasvit",
+          "label_sk": "Červené rastliny",
+          "label_da": "Røde planter"
+        },
+        {
+          "id": "paint",
+          "label_en": "Red paint",
+          "label_de": "Rote Farbe",
+          "label_it": "Vernice rossa",
+          "label_fr": "Peinture rouge",
+          "label_es": "pintura roja",
+          "label_hr": "Crvena boja",
+          "label_cs": "Červená barva",
+          "label_pl": "Czerwona farba",
+          "label_fi": "Punainen maali",
+          "label_sk": "Červený náter",
+          "label_da": "Rød maling"
+        }
+      ]
+    },
+    {
+      "id": "moons",
+      "correct": "two",
+      "question_en": "How many moons does Mars have?",
+      "question_de": "Wie viele Monde hat der Mars?",
+      "question_it": "Quante lune ha Marte?",
+      "question_fr": "Combien de lunes Mars a-t-elle ?",
+      "question_es": "¿Cuántas lunas tiene Marte?",
+      "question_hr": "Koliko mjeseca ima Mars?",
+      "question_cs": "Kolik měsíců má Mars?",
+      "question_pl": "Ile księżyców ma Mars?",
+      "question_fi": "Kuinka monta kuuta Marsilla on?",
+      "question_sk": "Koľko mesiacov má Mars?",
+      "question_da": "Hvor mange måner har Mars?",
+      "options": [
+        {
+          "id": "two",
+          "label_en": "Two",
+          "label_de": "Zwei",
+          "label_it": "Due",
+          "label_fr": "Deux",
+          "label_es": "Dos",
+          "label_hr": "Dva",
+          "label_cs": "Dva",
+          "label_pl": "Dwa",
+          "label_fi": "Kaksi",
+          "label_sk": "Dvaja",
+          "label_da": "To"
+        },
+        {
+          "id": "one",
+          "label_en": "One",
+          "label_de": "Eins",
+          "label_it": "Uno",
+          "label_fr": "Un",
+          "label_es": "Uno",
+          "label_hr": "Jedan",
+          "label_cs": "Jeden",
+          "label_pl": "Jeden",
+          "label_fi": "Yksi",
+          "label_sk": "Jeden",
+          "label_da": "En"
+        },
+        {
+          "id": "ten",
+          "label_en": "Ten",
+          "label_de": "Zehn",
+          "label_it": "Dieci",
+          "label_fr": "Dix",
+          "label_es": "Diez",
+          "label_hr": "Deset",
+          "label_cs": "Deset",
+          "label_pl": "Dziesięć",
+          "label_fi": "Kymmenen",
+          "label_sk": "Desať",
+          "label_da": "Ti"
+        }
+      ]
+    }
+  ]
+}

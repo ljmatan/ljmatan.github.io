@@ -944,6 +944,27 @@
       "title_fi": "Jupiter",
       "title_sk": "Jupiter",
       "title_da": "Jupiter"
+    },
+    {
+      "id": "mars",
+      "category_id": "planets",
+      "symbol_id": "mars",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/mars/mars_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/mars/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 1762277,
+      "version": 1,
+      "title_en": "Mars",
+      "title_de": "Mars",
+      "title_it": "Marte",
+      "title_fr": "Mars",
+      "title_es": "Marte",
+      "title_hr": "Mars",
+      "title_cs": "Mars",
+      "title_pl": "Mars",
+      "title_fi": "Mars",
+      "title_sk": "Mars",
+      "title_da": "Mars"
     }
   ]
 }
