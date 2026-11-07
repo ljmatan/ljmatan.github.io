@@ -1,0 +1,293 @@
+{
+  "id": "dancing",
+  "category_id": "activities",
+  "symbol_id": "dancing",
+  "thumbnail": "dancing_thumb.webp",
+  "title_en": "Dancing",
+  "title_de": "Tanzen",
+  "title_it": "Danza",
+  "title_fr": "Danse",
+  "title_es": "Baile",
+  "title_hr": "Plesanje",
+  "title_cs": "Tanec",
+  "title_pl": "Taniec",
+  "title_fi": "Tanssiminen",
+  "title_sk": "Tancovanie",
+  "title_da": "Dans",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about dancing. Dancing is moving your body to music. People dance to have fun, to celebrate, and to show how they feel.",
+      "script_de": "Heute lernen wir etwas über das Tanzen. Tanzen bedeutet, den Körper zur Musik zu bewegen. Menschen tanzen, um Spaß zu haben, um zu feiern und um ihre Gefühle zu zeigen.",
+      "script_it": "Oggi impareremo a ballare. Ballare è muovere il tuo corpo al ritmo della musica. Le persone ballano per divertirsi, per festeggiare e per mostrare come si sentono.",
+      "script_fr": "Aujourd'hui, nous allons apprendre à danser. Danser, c'est bouger son corps au rythme de la musique. Les gens dansent pour s'amuser, pour célébrer et pour montrer ce qu'ils ressentent.",
+      "script_es": "Hoy vamos a aprender sobre el baile. Bailar es mover tu cuerpo al ritmo de la música. La gente baila para divertirse, celebrar y mostrar cómo se siente.",
+      "script_hr": "Danas ćemo učiti o plesu. Ples je pokretanje vašeg tijela uz glazbu. Ljudi plešu kako bi se zabavili, proslavili i pokazali kako se osjećaju.",
+      "script_cs": "Dnes se budeme učit o tanci. Tanec je pohyb vašeho těla na hudbu. Lidé tančí, aby se bavili, oslavovali a ukázali, jak se cítí.",
+      "script_pl": "Dziś będziemy uczyć się tańca. Taniec porusza Twoje ciało w rytm muzyki. Ludzie tańczą, żeby się dobrze bawić, świętować i pokazywać, jak się czują.",
+      "script_fi": "Tänään opimme tanssimaan. Tanssi liikuttaa kehoasi musiikin tahtiin. Ihmiset tanssivat pitääkseen hauskaa, juhliakseen ja näyttääkseen miltä heistä tuntuu.",
+      "script_sk": "Dnes sa naučíme tancovať. Tanec je pohyb vášho tela na hudbu. Ľudia tancujú, aby sa zabavili, oslávili a ukázali, ako sa cítia.",
+      "script_da": "I dag skal vi lære om dans. Dans er at bevæge din krop til musik. Folk danser for at have det sjovt, for at fejre og for at vise, hvordan de har det.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "styles",
+      "script_en": "There are many kinds of dance. Ballet uses gentle, controlled movements. Folk dances come from different countries and cultures. Street dance is energetic and often performed in groups.",
+      "script_de": "Es gibt viele Tanzarten. Beim Ballett kommen sanfte, kontrollierte Bewegungen zum Einsatz. Volkstänze kommen aus verschiedenen Ländern und Kulturen. Street Dance ist energiegeladen und wird oft in Gruppen aufgeführt.",
+      "script_it": "Esistono molti tipi di danza. Il balletto utilizza movimenti delicati e controllati. Le danze popolari provengono da paesi e culture diverse. La danza di strada è energica e spesso eseguita in gruppo.",
+      "script_fr": "Il existe de nombreux types de danse. Le ballet utilise des mouvements doux et contrôlés. Les danses folkloriques proviennent de différents pays et cultures. La danse de rue est énergique et souvent exécutée en groupe.",
+      "script_es": "Hay muchos tipos de baile. El ballet utiliza movimientos suaves y controlados. Las danzas folclóricas provienen de diferentes países y culturas. El baile callejero es enérgico y, a menudo, se realiza en grupos.",
+      "script_hr": "Postoje mnoge vrste plesa. Balet koristi nježne, kontrolirane pokrete. Narodni plesovi dolaze iz različitih zemalja i kultura. Street dance je energičan i često se izvodi u grupama.",
+      "script_cs": "Existuje mnoho druhů tance. Balet používá jemné, kontrolované pohyby. Lidové tance pocházejí z různých zemí a kultur. Street dance je energický a často se provádí ve skupinách.",
+      "script_pl": "Jest wiele rodzajów tańca. Balet wykorzystuje delikatne, kontrolowane ruchy. Tańce ludowe pochodzą z różnych krajów i kultur. Taniec uliczny jest energiczny i często wykonywany w grupach.",
+      "script_fi": "Tanssia on monenlaista. Baletissa käytetään lempeitä, kontrolloituja liikkeitä. Kansantanssit tulevat eri maista ja kulttuureista. Katutanssi on energistä ja sitä esitetään usein ryhmissä.",
+      "script_sk": "Existuje veľa druhov tanca. Balet využíva jemné, kontrolované pohyby. Ľudové tance pochádzajú z rôznych krajín a kultúr. Street dance je energický a často sa predvádza v skupinách.",
+      "script_da": "Der er mange slags dans. Ballet bruger blide, kontrollerede bevægelser. Folkedanse kommer fra forskellige lande og kulturer. Streetdance er energisk og udføres ofte i grupper.",
+      "images": [
+        "styles.webp",
+        "styles_2.webp",
+        "styles_3.webp"
+      ]
+    },
+    {
+      "id": "body",
+      "script_en": "Dancing helps coordination, balance, and strength. Dancers warm up first so their muscles are ready. Practising a little often is better than practising a lot once.",
+      "script_de": "Tanzen fördert Koordination, Gleichgewicht und Kraft. Die Tänzer wärmen sich zuerst auf, damit ihre Muskeln bereit sind. Ein wenig oft zu üben ist besser, als einmal viel zu üben.",
+      "script_it": "Ballare aiuta la coordinazione, l’equilibrio e la forza. I ballerini si riscaldano prima in modo che i loro muscoli siano pronti. Esercitarsi poco spesso è meglio che esercitarsi molto una volta.",
+      "script_fr": "La danse aide à la coordination, à l’équilibre et à la force. Les danseurs s’échauffent d’abord pour que leurs muscles soient prêts. Mieux vaut s’entraîner un peu souvent que s’entraîner beaucoup une fois.",
+      "script_es": "Bailar ayuda a la coordinación, el equilibrio y la fuerza. Los bailarines calientan primero para que sus músculos estén listos. Practicar un poco a menudo es mejor que practicar mucho una vez.",
+      "script_hr": "Ples pomaže koordinaciji, ravnoteži i snazi. Plesači se prvo zagrijavaju kako bi im mišići bili spremni. Vježbati malo često bolje je nego jednom puno vježbati.",
+      "script_cs": "Tanec pomáhá koordinaci, rovnováze a síle. Tanečníci se nejprve zahřejí, aby byly jejich svaly připraveny. Cvičit málo často je lepší než cvičit hodně jednou.",
+      "script_pl": "Taniec pomaga w koordynacji, równowadze i sile. Tancerze najpierw się rozgrzewają, aby ich mięśnie były gotowe. Lepiej ćwiczyć trochę częściej, niż ćwiczyć dużo raz.",
+      "script_fi": "Tanssi edistää koordinaatiota, tasapainoa ja voimaa. Tanssijat lämmittävät ensin, jotta heidän lihaksensa ovat valmiita. Harjoittelu vähän usein on parempi kuin harjoitella paljon kerran.",
+      "script_sk": "Tanec pomáha koordinácii, rovnováhe a sile. Tanečníci sa najskôr zahrejú, aby boli svaly pripravené. Cvičiť trochu často je lepšie ako cvičiť veľa raz.",
+      "script_da": "Dans hjælper med koordination, balance og styrke. Dansere varmer først op, så deres muskler er klar. At øve lidt ofte er bedre end at øve meget én gang.",
+      "images": [
+        "body.webp",
+        "body_2.webp",
+        "body_3.webp"
+      ]
+    },
+    {
+      "id": "music",
+      "script_en": "Music and dance go together. Dancers listen for the beat and move in time with it. You do not need special equipment to dance, just some space and a song you enjoy.",
+      "script_de": "Musik und Tanz gehören zusammen. Tänzer achten auf den Takt und bewegen sich im Takt. Zum Tanzen benötigen Sie keine spezielle Ausrüstung, nur etwas Platz und ein Lied, das Ihnen Spaß macht.",
+      "script_it": "La musica e la danza vanno insieme. I ballerini ascoltano il ritmo e si muovono a tempo con esso. Per ballare non hai bisogno di attrezzature particolari, basta un po' di spazio e una canzone che ti piace.",
+      "script_fr": "La musique et la danse vont de pair. Les danseurs écoutent le rythme et bougent au rythme de celui-ci. Vous n'avez pas besoin d'équipement spécial pour danser, juste un peu d'espace et une chanson que vous appréciez.",
+      "script_es": "La música y el baile van de la mano. Los bailarines escuchan el ritmo y se mueven al ritmo de él. No necesitas equipo especial para bailar, solo algo de espacio y una canción que disfrutes.",
+      "script_hr": "Glazba i ples idu zajedno. Plesači slušaju ritam i kreću se u ritmu s njim. Za ples vam nije potrebna posebna oprema, samo prostor i pjesma u kojoj uživate.",
+      "script_cs": "Hudba a tanec jdou k sobě. Tanečníci poslouchají rytmus a pohybují se s ním v čase. K tanci nepotřebujete speciální vybavení, stačí prostor a píseň, která vás baví.",
+      "script_pl": "Muzyka i taniec idą w parze. Tancerze słuchają rytmu i poruszają się w jego rytmie. Do tańca nie potrzebujesz specjalnego sprzętu, wystarczy trochę przestrzeni i piosenka, która sprawia Ci przyjemność.",
+      "script_fi": "Musiikki ja tanssi kulkevat yhdessä. Tanssijat kuuntelevat rytmiä ja liikkuvat sen mukana. Tanssimiseen ei tarvita erityisiä välineitä, vain vähän tilaa ja musiikki josta pidät.",
+      "script_sk": "Hudba a tanec idú spolu. Tanečníci počúvajú rytmus a pohybujú sa s ním v čase. Na tanec nepotrebujete špeciálne vybavenie, stačí priestor a pieseň, ktorá vás baví.",
+      "script_da": "Musik og dans hænger sammen. Dansere lytter efter beatet og bevæger sig i takt med det. Du behøver ikke specielt udstyr til at danse, bare lidt plads og en sang, du nyder.",
+      "images": [
+        "music.webp",
+        "music_2.webp",
+        "music_3.webp"
+      ]
+    },
+    {
+      "id": "together",
+      "script_en": "Dancing brings people together. At weddings, festivals, and parties, people dance to celebrate. Everyone can dance in their own way, and there is no single right style.",
+      "script_de": "Tanzen bringt Menschen zusammen. Auf Hochzeiten, Festivals und Partys wird getanzt, um zu feiern. Jeder kann auf seine eigene Art tanzen und es gibt keinen einzigen richtigen Stil.",
+      "script_it": "Il ballo unisce le persone. Ai matrimoni, ai festival e alle feste, la gente balla per festeggiare. Ognuno può ballare a modo suo e non esiste un unico stile giusto.",
+      "script_fr": "La danse rassemble les gens. Lors des mariages, des festivals et des fêtes, les gens dansent pour célébrer. Chacun peut danser à sa manière et il n’existe pas de style unique.",
+      "script_es": "El baile une a la gente. En bodas, festivales y fiestas, la gente baila para celebrar. Cada uno puede bailar a su manera y no existe un estilo único y adecuado.",
+      "script_hr": "Ples zbližava ljude. Na vjenčanjima, festivalima i zabavama ljudi plešu kako bi proslavili. Svatko može plesati na svoj način i ne postoji jedan pravi stil.",
+      "script_cs": "Tanec spojuje lidi. Na svatbách, festivalech a večírcích lidé tančí na oslavu. Každý může tančit po svém a neexistuje jediný správný styl.",
+      "script_pl": "Taniec łączy ludzi. Na weselach, festiwalach i przyjęciach ludzie tańczą, aby to uczcić. Każdy może tańczyć na swój sposób i nie ma jednego, dobrego stylu.",
+      "script_fi": "Tanssi yhdistää ihmisiä. Häissä, festivaaleissa ja juhlissa ihmiset tanssivat juhlimaan. Jokainen voi tanssia omalla tavallaan, eikä ole olemassa yhtä oikeaa tyyliä.",
+      "script_sk": "Tanec spája ľudí. Na svadbách, festivaloch a večierkoch ľudia tancujú na oslavu. Každý môže tancovať po svojom a neexistuje jediný správny štýl.",
+      "script_da": "Dans bringer mennesker sammen. Ved bryllupper, festivaler og fester danser folk for at fejre det. Alle kan danse på deres egen måde, og der er ikke en enkelt rigtige stil.",
+      "images": [
+        "together.webp",
+        "together_2.webp",
+        "together_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "what",
+      "correct": "move",
+      "question_en": "What is dancing?",
+      "question_de": "Was ist Tanzen?",
+      "question_it": "Cos'è ballare?",
+      "question_fr": "Qu'est-ce que la danse ?",
+      "question_es": "¿Qué es bailar?",
+      "question_hr": "Što je ples?",
+      "question_cs": "co je tanec?",
+      "question_pl": "Co się tańczy?",
+      "question_fi": "Mitä tanssiminen on?",
+      "question_sk": "čo je tanec?",
+      "question_da": "Hvad er dans?",
+      "options": [
+        {
+          "id": "move",
+          "label_en": "Moving your body to music",
+          "label_de": "Bewegen Sie Ihren Körper zur Musik",
+          "label_it": "Muovere il corpo a ritmo di musica",
+          "label_fr": "Bouger son corps au rythme de la musique",
+          "label_es": "Moviendo tu cuerpo con la música",
+          "label_hr": "Pokretanje tijela uz glazbu",
+          "label_cs": "Rozhýbejte své tělo na hudbu",
+          "label_pl": "Poruszanie ciałem w rytm muzyki",
+          "label_fi": "Kehon liikuttaminen musiikin tahtiin",
+          "label_sk": "Pohybujte telom na hudbu",
+          "label_da": "At bevæge din krop til musik"
+        },
+        {
+          "id": "eat",
+          "label_en": "Eating",
+          "label_de": "Essen",
+          "label_it": "Mangiare",
+          "label_fr": "Manger",
+          "label_es": "Comiendo",
+          "label_hr": "Jelo",
+          "label_cs": "Stravování",
+          "label_pl": "Jedzenie",
+          "label_fi": "Syöminen",
+          "label_sk": "Stravovanie",
+          "label_da": "At spise"
+        },
+        {
+          "id": "sleep",
+          "label_en": "Sleeping",
+          "label_de": "Schlafen",
+          "label_it": "Dormire",
+          "label_fr": "Dormir",
+          "label_es": "Durmiendo",
+          "label_hr": "Spavanje",
+          "label_cs": "Spací",
+          "label_pl": "Spanie",
+          "label_fi": "Nukkuminen",
+          "label_sk": "Spanie",
+          "label_da": "Sovende"
+        }
+      ]
+    },
+    {
+      "id": "warm",
+      "correct": "warm",
+      "question_en": "What should dancers do first?",
+      "question_de": "Was sollten Tänzer zuerst tun?",
+      "question_it": "Cosa dovrebbero fare prima i ballerini?",
+      "question_fr": "Que doivent faire les danseurs en premier ?",
+      "question_es": "¿Qué deben hacer los bailarines primero?",
+      "question_hr": "Što bi plesači prvo trebali učiniti?",
+      "question_cs": "Co by měli tanečníci udělat jako první?",
+      "question_pl": "Co tancerze powinni zrobić najpierw?",
+      "question_fi": "Mitä tanssijan tulisi tehdä ensin?",
+      "question_sk": "Čo by mali tanečníci urobiť ako prvé?",
+      "question_da": "Hvad skal dansere gøre først?",
+      "options": [
+        {
+          "id": "warm",
+          "label_en": "Warm up their muscles",
+          "label_de": "Wärmen Sie ihre Muskeln auf",
+          "label_it": "Riscalda i loro muscoli",
+          "label_fr": "Réchauffer leurs muscles",
+          "label_es": "Calienta sus músculos",
+          "label_hr": "Zagrijte njihove mišiće",
+          "label_cs": "Zahřejte jim svaly",
+          "label_pl": "Rozgrzej ich mięśnie",
+          "label_fi": "Lämmitä heidän lihaksiaan",
+          "label_sk": "Zahrejte im svaly",
+          "label_da": "Varm deres muskler op"
+        },
+        {
+          "id": "run",
+          "label_en": "Run away",
+          "label_de": "Weglaufen",
+          "label_it": "Fuggire",
+          "label_fr": "Fuyez",
+          "label_es": "Huir",
+          "label_hr": "Pobjeći",
+          "label_cs": "Utéci",
+          "label_pl": "Uciec",
+          "label_fi": "Juokse karkuun",
+          "label_sk": "Utekaj preč",
+          "label_da": "Løb væk"
+        },
+        {
+          "id": "eat",
+          "label_en": "Eat a big meal",
+          "label_de": "Iss eine große Mahlzeit",
+          "label_it": "Fai un pasto abbondante",
+          "label_fr": "Manger un gros repas",
+          "label_es": "comer una gran comida",
+          "label_hr": "Jedite obilan obrok",
+          "label_cs": "Jezte velké jídlo",
+          "label_pl": "Zjedz duży posiłek",
+          "label_fi": "Syö iso ateria",
+          "label_sk": "Jedzte veľké jedlo",
+          "label_da": "Spis et stort måltid"
+        }
+      ]
+    },
+    {
+      "id": "styles",
+      "correct": "ballet",
+      "question_en": "Which of these is a kind of dance?",
+      "question_de": "Welche davon ist eine Art Tanz?",
+      "question_it": "Quale di queste è una specie di danza?",
+      "question_fr": "Laquelle de celles-ci est une sorte de danse ?",
+      "question_es": "¿Cuál de estos es un tipo de baile?",
+      "question_hr": "Što je od ovoga vrsta plesa?",
+      "question_cs": "Který z nich je druh tance?",
+      "question_pl": "Który z nich jest rodzajem tańca?",
+      "question_fi": "Mikä näistä on eräänlainen tanssi?",
+      "question_sk": "Ktorý z nich je druh tanca?",
+      "question_da": "Hvilken af ​​disse er en slags dans?",
+      "options": [
+        {
+          "id": "ballet",
+          "label_en": "Ballet",
+          "label_de": "Ballett",
+          "label_it": "Balletto",
+          "label_fr": "Ballet",
+          "label_es": "Ballet",
+          "label_hr": "Balet",
+          "label_cs": "Balet",
+          "label_pl": "Balet",
+          "label_fi": "Baletti",
+          "label_sk": "balet",
+          "label_da": "Ballet"
+        },
+        {
+          "id": "soup",
+          "label_en": "Soup",
+          "label_de": "Suppe",
+          "label_it": "Minestra",
+          "label_fr": "Soupe",
+          "label_es": "Sopa",
+          "label_hr": "Juha",
+          "label_cs": "Polévka",
+          "label_pl": "Zupa",
+          "label_fi": "Keitto",
+          "label_sk": "polievka",
+          "label_da": "Suppe"
+        },
+        {
+          "id": "brick",
+          "label_en": "Brick",
+          "label_de": "Ziegel",
+          "label_it": "Mattone",
+          "label_fr": "Brique",
+          "label_es": "Ladrillo",
+          "label_hr": "Cigla",
+          "label_cs": "Cihlový",
+          "label_pl": "Cegła",
+          "label_fi": "Tiili",
+          "label_sk": "Tehla",
+          "label_da": "Mursten"
+        }
+      ]
+    }
+  ]
+}
