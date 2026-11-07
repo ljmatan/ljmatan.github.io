@@ -1303,6 +1303,27 @@
       "title_da": "Klasseværelser"
     },
     {
+      "id": "crayons",
+      "category_id": "school",
+      "symbol_id": "crayons",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/crayons/crayons_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/crayons/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2344395,
+      "version": 1,
+      "title_en": "Crayons",
+      "title_de": "Buntstifte",
+      "title_it": "Pastelli",
+      "title_fr": "Crayons",
+      "title_es": "Lápices de color",
+      "title_hr": "Bojice",
+      "title_cs": "Pastelky",
+      "title_pl": "Kredki",
+      "title_fi": "Väriliidut",
+      "title_sk": "Pastelky",
+      "title_da": "Farveblyanter"
+    },
+    {
       "id": "pencil",
       "category_id": "school",
       "symbol_id": "pencil",

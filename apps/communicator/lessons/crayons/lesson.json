@@ -1,0 +1,293 @@
+{
+  "id": "crayons",
+  "category_id": "school",
+  "symbol_id": "crayons",
+  "thumbnail": "crayons_thumb.webp",
+  "title_en": "Crayons",
+  "title_de": "Buntstifte",
+  "title_it": "Pastelli",
+  "title_fr": "Crayons",
+  "title_es": "Lápices de color",
+  "title_hr": "Bojice",
+  "title_cs": "Pastelky",
+  "title_pl": "Kredki",
+  "title_fi": "Väriliidut",
+  "title_sk": "Pastelky",
+  "title_da": "Farveblyanter",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about crayons. A crayon is a small stick of coloured wax used for drawing. Crayons are easy to hold and come in many bright colours.",
+      "script_de": "Heute lernen wir etwas über Buntstifte. Ein Buntstift ist ein kleiner Stift aus farbigem Wachs, der zum Zeichnen verwendet wird. Buntstifte liegen gut in der Hand und sind in vielen leuchtenden Farben erhältlich.",
+      "script_it": "Oggi impareremo a conoscere i pastelli. Un pastello è un bastoncino di cera colorata utilizzato per disegnare. I pastelli sono facili da tenere in mano e sono disponibili in molti colori vivaci.",
+      "script_fr": "Aujourd'hui, nous allons découvrir les crayons. Un crayon est un petit bâton de cire colorée utilisé pour dessiner. Les crayons sont faciles à tenir et existent dans de nombreuses couleurs vives.",
+      "script_es": "Hoy vamos a aprender sobre crayones. Un crayón es una pequeña barra de cera de color que se utiliza para dibujar. Los crayones son fáciles de sostener y vienen en muchos colores brillantes.",
+      "script_hr": "Danas ćemo učiti o bojicama. Krejon je mali štapić voska u boji koji se koristi za crtanje. Bojice se lako drže i dolaze u mnogim svijetlim bojama.",
+      "script_cs": "Dnes se budeme učit o pastelkách. Pastelka je malá tyčinka z barevného vosku, která se používá ke kreslení. Pastelky se snadno drží a jsou v mnoha jasných barvách.",
+      "script_pl": "Dzisiaj będziemy uczyć się o kredkach. Kredka to mały sztyft kolorowego wosku używany do rysowania. Kredki są łatwe w trzymaniu i dostępne w wielu jasnych kolorach.",
+      "script_fi": "Tänään opimme väriliiduista. Värikynä on pieni värillinen vahapuikko, jota käytetään piirtämiseen. Väriliidut on helppo pitää kädessä ja niitä on saatavilla useissa kirkkaissa väreissä.",
+      "script_sk": "Dnes sa budeme učiť o pastelkách. Pastelka je malá tyčinka z farebného vosku, ktorá sa používa na kreslenie. Pastelky sa ľahko držia a sú v mnohých žiarivých farbách.",
+      "script_da": "I dag skal vi lære om farveblyanter. En farveblyant er en lille stav af farvet voks, der bruges til at tegne. Farveblyanter er nemme at holde og fås i mange klare farver.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "wax",
+      "script_en": "Crayons are made of wax mixed with colour. The wax rubs off onto paper as you draw. Soft crayons make bold lines, while harder ones are good for details.",
+      "script_de": "Buntstifte bestehen aus mit Farbe vermischtem Wachs. Das Wachs reibt sich beim Zeichnen auf das Papier ab. Weiche Buntstifte zeichnen kräftige Linien, während sich härtere für Details eignen.",
+      "script_it": "I pastelli sono fatti di cera mescolata con colore. La cera si stacca sulla carta mentre disegni. I pastelli morbidi creano linee decise, mentre quelli più duri sono ottimi per i dettagli.",
+      "script_fr": "Les crayons sont faits de cire mélangée à de la couleur. La cire s'efface sur le papier lorsque vous dessinez. Les crayons doux dessinent des lignes audacieuses, tandis que les plus durs sont parfaits pour les détails.",
+      "script_es": "Los crayones están hechos de cera mezclada con color. La cera se pega al papel mientras dibujas. Los crayones blandos crean líneas audaces, mientras que los más duros son buenos para los detalles.",
+      "script_hr": "Bojice su izrađene od voska pomiješanog s bojom. Vosak se briše o papir dok crtate. Meke bojice daju odvažne linije, dok su tvrđe dobre za detalje.",
+      "script_cs": "Pastelky jsou vyrobeny z vosku smíchaného s barvou. Vosk se při kreslení otírá o papír. Měkké pastelky dělají výrazné linie, zatímco tvrdší jsou dobré pro detaily.",
+      "script_pl": "Kredki wykonane są z wosku zmieszanego z kolorem. Podczas rysowania wosk ściera się na papierze. Miękkie kredki tworzą odważne linie, a twardsze są dobre dla szczegółów.",
+      "script_fi": "Väriliidut on valmistettu vahasta, johon on sekoitettu väriä. Vaha hieroutuu paperille piirtäessäsi. Pehmeät värikynät tekevät rohkeista viivoista, kun taas kovemmat ovat hyviä yksityiskohtiin.",
+      "script_sk": "Pastelky sú vyrobené z vosku zmiešaného s farbou. Vosk sa pri kreslení otiera o papier. Mäkké pastelky robia výrazné línie, zatiaľ čo tvrdšie sú dobré na detaily.",
+      "script_da": "Farveblyanter er lavet af voks blandet med farve. Voksen smitter af på papiret, mens du tegner. Bløde farveblyanter laver dristige linjer, mens hårdere er gode til detaljer.",
+      "images": [
+        "wax.webp",
+        "wax_2.webp",
+        "wax_3.webp"
+      ]
+    },
+    {
+      "id": "draw",
+      "script_en": "You can use crayons for outlines, shading, and colouring. Pressing lightly makes pale colours, and pressing harder makes them darker. Try blending two colours by layering them.",
+      "script_de": "Sie können Buntstifte zum Umreißen, Schattieren und Färben verwenden. Durch leichtes Drücken werden die Farben blasser, durch stärkeres Drücken werden sie dunkler. Versuchen Sie, zwei Farben zu vermischen, indem Sie sie übereinander legen.",
+      "script_it": "Puoi usare i pastelli per contorni, ombreggiature e colorazioni. Premendo leggermente si ottengono colori pallidi, mentre premendo più forte si ottengono colori più scuri. Prova a fondere due colori sovrapponendoli.",
+      "script_fr": "Vous pouvez utiliser des crayons de couleur pour les contours, les ombres et la coloration. Une légère pression rend les couleurs pâles, et une pression plus forte les rend plus foncées. Essayez de mélanger deux couleurs en les superposant.",
+      "script_es": "Puedes utilizar crayones para delinear, sombrear y colorear. Presionar ligeramente hace que los colores sean pálidos y presionar más fuerte los hace más oscuros. Intente mezclar dos colores colocándolos en capas.",
+      "script_hr": "Možete koristiti bojice za obrise, sjenčanje i bojanje. Laganim pritiskom dobivamo blijede boje, a jačim pritiskom postaje tamnija. Pokušajte pomiješati dvije boje slojevitošću.",
+      "script_cs": "Pastelky můžete použít na obrysy, stínování a vybarvování. Lehkým stisknutím se barvy stanou bledými, silnějším stisknutím ztmavnou. Zkuste smíchat dvě barvy jejich vrstvením.",
+      "script_pl": "Do konturowania, cieniowania i kolorowania można używać kredek. Lekkie naciśnięcie powoduje blaknięcie kolorów, a mocniejsze naciśnięcie powoduje ich przyciemnienie. Spróbuj zmieszać dwa kolory, nakładając je na siebie.",
+      "script_fi": "Voit käyttää värikyniä ääriviivojen, varjostuksen ja värittämiseen. Kevyt painallus tekee väreistä vaaleita ja kovempi painaminen tummentaa. Kokeile yhdistää kaksi väriä kerrostamalla ne.",
+      "script_sk": "Pastelky môžete použiť na obrysy, tieňovanie a vyfarbovanie. Ľahkým stlačením sú farby bledé a silnejším stlačením tmavšie. Skúste zmiešať dve farby ich vrstvením.",
+      "script_da": "Du kan bruge farveblyanter til konturer, skygge og farve. Et let tryk giver blege farver, og et hårdere tryk gør dem mørkere. Prøv at blande to farver ved at lægge dem i lag.",
+      "images": [
+        "draw.webp",
+        "draw_2.webp",
+        "draw_3.webp"
+      ]
+    },
+    {
+      "id": "care",
+      "script_en": "Keep crayons in their box so they do not roll away. Avoid leaving them in the sun, because they can melt. A broken crayon can still be used, or you can peel it and draw with the side.",
+      "script_de": "Bewahren Sie Buntstifte in ihrer Schachtel auf, damit sie nicht wegrollen. Vermeiden Sie es, sie in der Sonne zu lassen, da sie schmelzen können. Ein zerbrochener Buntstift kann weiterhin verwendet werden, oder man schält ihn ab und zeichnet mit der Seite.",
+      "script_it": "Conserva i pastelli nella loro scatola in modo che non rotolino via. Evitate di lasciarli al sole perché potrebbero sciogliersi. Puoi ancora usare un pastello rotto, oppure puoi sbucciarlo e disegnare con il lato.",
+      "script_fr": "Gardez les crayons dans leur boîte pour qu'ils ne roulent pas. Évitez de les laisser au soleil, car ils pourraient fondre. Un crayon cassé peut toujours être utilisé, ou vous pouvez le décoller et dessiner avec le côté.",
+      "script_es": "Mantenga los crayones en su caja para que no se escapen. Evita dejarlos al sol, porque pueden derretirse. Aún puedes usar un crayón roto o puedes pelarlo y dibujar con el costado.",
+      "script_hr": "Držite bojice u njihovoj kutiji kako se ne bi otkotrljale. Izbjegavajte ih ostavljati na suncu jer se mogu rastopiti. I dalje možete koristiti slomljenu bojicu ili je možete oguliti i crtati stranom.",
+      "script_cs": "Pastelky mějte v krabici, aby se neodkutálely. Nenechávejte je na slunci, protože se mohou roztavit. Zlomená pastelka se dá ještě použít, nebo ji můžete sloupnout a kreslit stranou.",
+      "script_pl": "Trzymaj kredki w pudełku, aby się nie potoczyły. Unikaj pozostawiania ich na słońcu, ponieważ mogą się stopić. Złamanej kredki można nadal używać lub można ją obrać i rysować bokiem.",
+      "script_fi": "Pidä väriliidut laatikossaan, jotta ne eivät rullaa pois. Vältä jättämästä niitä aurinkoon, koska ne voivat sulaa. Rikkoutunutta väriliidua voidaan edelleen käyttää, tai voit kuoria sen ja piirtää sivuilla.",
+      "script_sk": "Pastelky majte v krabici, aby sa neodkotúľali. Nenechávajte ich na slnku, pretože sa môžu roztopiť. Zlomená pastelka sa dá ešte použiť, alebo ju môžete ošúpať a kresliť bokom.",
+      "script_da": "Opbevar farveblyanter i deres æske, så de ikke ruller væk. Undgå at efterlade dem i solen, da de kan smelte. En knækket farveblyant kan stadig bruges, eller du kan skrælle den og tegne med siden.",
+      "images": [
+        "care.webp",
+        "care_2.webp",
+        "care_3.webp"
+      ]
+    },
+    {
+      "id": "today",
+      "script_en": "Today crayons are used in classrooms, art studios, and homes. They are a safe and simple way to be creative. Sharing colours with a friend makes drawing even more fun.",
+      "script_de": "Heutzutage werden Buntstifte in Klassenzimmern, Kunstateliers und zu Hause verwendet. Sie sind eine sichere und einfache Möglichkeit, kreativ zu sein. Wenn Sie Farben mit einem Freund teilen, macht das Zeichnen noch mehr Spaß.",
+      "script_it": "Oggi i pastelli vengono utilizzati nelle aule, negli studi d'arte e nelle case. Sono un modo semplice e sicuro per essere creativi. Condividere i colori con un amico rende il disegno ancora più divertente.",
+      "script_fr": "Aujourd'hui, les crayons sont utilisés dans les salles de classe, les studios d'art et les maisons. Ils constituent un moyen simple et sûr d’être créatif. Partager des couleurs avec un ami rend le dessin encore plus amusant.",
+      "script_es": "Hoy en día, los crayones se utilizan en aulas, estudios de arte y hogares. Son una forma segura y sencilla de ser creativo. Compartir colores con un amigo hace que dibujar sea aún más divertido.",
+      "script_hr": "Danas se bojice koriste u učionicama, umjetničkim studijima i domovima. Oni su siguran i jednostavan način da budete kreativni. Dijeljenje boja s prijateljem čini crtanje još zabavnijim.",
+      "script_cs": "Dnes se pastelky používají ve třídách, uměleckých ateliérech a domácnostech. Jsou bezpečným a jednoduchým způsobem, jak být kreativní. Sdílení barev s přítelem dělá kreslení ještě zábavnější.",
+      "script_pl": "Dziś kredki są używane w klasach, pracowniach artystycznych i domach. Są bezpiecznym i prostym sposobem na kreatywność. Dzielenie się kolorami z przyjacielem sprawia, że ​​rysowanie staje się jeszcze przyjemniejsze.",
+      "script_fi": "Nykyään värikyniä käytetään luokkahuoneissa, taidestudioissa ja kodeissa. Ne ovat turvallinen ja yksinkertainen tapa olla luova. Värien jakaminen ystävän kanssa tekee piirtämisestä entistä hauskempaa.",
+      "script_sk": "Dnes sa pastelky používajú v triedach, umeleckých štúdiách a domácnostiach. Sú bezpečným a jednoduchým spôsobom, ako byť kreatívny. Zdieľanie farieb s priateľom robí kreslenie ešte zábavnejším.",
+      "script_da": "I dag bruges farveblyanter i klasseværelser, kunststudier og hjem. De er en sikker og enkel måde at være kreativ på. At dele farver med en ven gør det endnu sjovere at tegne.",
+      "images": [
+        "today.webp",
+        "today_2.webp",
+        "today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "what",
+      "correct": "wax",
+      "question_en": "What are crayons made of?",
+      "question_de": "Woraus bestehen Buntstifte?",
+      "question_it": "Di cosa sono fatti i pastelli?",
+      "question_fr": "De quoi sont faits les crayons ?",
+      "question_es": "¿De qué están hechos los crayones?",
+      "question_hr": "Od čega su napravljene bojice?",
+      "question_cs": "Z čeho se vyrábějí pastelky?",
+      "question_pl": "Z czego zrobione są kredki?",
+      "question_fi": "Mistä väriliidut on tehty?",
+      "question_sk": "Z čoho sa vyrábajú pastelky?",
+      "question_da": "Hvad er farveblyanter lavet af?",
+      "options": [
+        {
+          "id": "wax",
+          "label_en": "Wax and colour",
+          "label_de": "Wachs und Farbe",
+          "label_it": "Cera e colore",
+          "label_fr": "Cire et couleur",
+          "label_es": "Cera y color",
+          "label_hr": "Vosak i boja",
+          "label_cs": "Vosk a barva",
+          "label_pl": "Wosk i kolor",
+          "label_fi": "Vaha ja väri",
+          "label_sk": "Vosk a farba",
+          "label_da": "Voks og farve"
+        },
+        {
+          "id": "metal",
+          "label_en": "Metal",
+          "label_de": "Metall",
+          "label_it": "Metallo",
+          "label_fr": "Métal",
+          "label_es": "Metal",
+          "label_hr": "Metal",
+          "label_cs": "Kov",
+          "label_pl": "Metal",
+          "label_fi": "Metalli",
+          "label_sk": "Kovové",
+          "label_da": "Metal"
+        },
+        {
+          "id": "glass",
+          "label_en": "Glass",
+          "label_de": "Glas",
+          "label_it": "Bicchiere",
+          "label_fr": "Verre",
+          "label_es": "Vaso",
+          "label_hr": "Staklo",
+          "label_cs": "Sklo",
+          "label_pl": "Szkło",
+          "label_fi": "Lasi",
+          "label_sk": "sklo",
+          "label_da": "Glas"
+        }
+      ]
+    },
+    {
+      "id": "use",
+      "correct": "draw",
+      "question_en": "What do you use crayons for?",
+      "question_de": "Wofür verwendet man Buntstifte?",
+      "question_it": "Per cosa usi i pastelli?",
+      "question_fr": "À quoi servent-ils les crayons de couleur ?",
+      "question_es": "¿Para qué usas los crayones?",
+      "question_hr": "Za što koristite bojice?",
+      "question_cs": "Na co používáš pastelky?",
+      "question_pl": "Do czego używasz kredek?",
+      "question_fi": "Mihin käytät väriliiduita?",
+      "question_sk": "Na čo používate pastelky?",
+      "question_da": "Hvad bruger du farveblyanter til?",
+      "options": [
+        {
+          "id": "draw",
+          "label_en": "Drawing and colouring",
+          "label_de": "Zeichnen und Färben",
+          "label_it": "Disegnare e colorare",
+          "label_fr": "Dessin et coloriage",
+          "label_es": "Dibujar y colorear",
+          "label_hr": "Crtanje i bojanje",
+          "label_cs": "Kreslení a barvení",
+          "label_pl": "Rysowanie i kolorowanie",
+          "label_fi": "Piirustus ja väritys",
+          "label_sk": "Kreslenie a farbenie",
+          "label_da": "Tegning og farvelægning"
+        },
+        {
+          "id": "eat",
+          "label_en": "Eating",
+          "label_de": "Essen",
+          "label_it": "Mangiare",
+          "label_fr": "Manger",
+          "label_es": "Comiendo",
+          "label_hr": "Jelo",
+          "label_cs": "Stravování",
+          "label_pl": "Jedzenie",
+          "label_fi": "Syöminen",
+          "label_sk": "Stravovanie",
+          "label_da": "At spise"
+        },
+        {
+          "id": "wash",
+          "label_en": "Washing clothes",
+          "label_de": "Wäsche waschen",
+          "label_it": "Lavare i vestiti",
+          "label_fr": "Laver les vêtements",
+          "label_es": "lavar ropa",
+          "label_hr": "Pranje odjeće",
+          "label_cs": "Praní prádla",
+          "label_pl": "Pranie ubrań",
+          "label_fi": "Vaatteiden pesu",
+          "label_sk": "Pranie bielizne",
+          "label_da": "Vask tøj"
+        }
+      ]
+    },
+    {
+      "id": "care",
+      "correct": "box",
+      "question_en": "Where should crayons be stored?",
+      "question_de": "Wo sollten Buntstifte aufbewahrt werden?",
+      "question_it": "Dove dovrebbero essere conservati i pastelli?",
+      "question_fr": "Où faut-il ranger les crayons ?",
+      "question_es": "¿Dónde se deben guardar los crayones?",
+      "question_hr": "Gdje treba čuvati bojice?",
+      "question_cs": "Kde se mají pastelky skladovat?",
+      "question_pl": "Gdzie przechowywać kredki?",
+      "question_fi": "Missä väriliidut kannattaa säilyttää?",
+      "question_sk": "Kde by sa mali pastelky skladovať?",
+      "question_da": "Hvor skal farveblyanter opbevares?",
+      "options": [
+        {
+          "id": "box",
+          "label_en": "In a box, away from heat",
+          "label_de": "In einer Box, vor Hitze geschützt",
+          "label_it": "In una scatola, lontano dal calore",
+          "label_fr": "Dans une boîte, à l'abri de la chaleur",
+          "label_es": "En una caja, lejos del calor.",
+          "label_hr": "U kutiji, daleko od topline",
+          "label_cs": "V krabici, daleko od tepla",
+          "label_pl": "W pudełku, z dala od źródeł ciepła",
+          "label_fi": "Laatikossa, poissa lämmöltä",
+          "label_sk": "V krabici, mimo tepla",
+          "label_da": "I en kasse, væk fra varme"
+        },
+        {
+          "id": "sun",
+          "label_en": "In direct sunlight",
+          "label_de": "Bei direkter Sonneneinstrahlung",
+          "label_it": "Alla luce solare diretta",
+          "label_fr": "En plein soleil",
+          "label_es": "A la luz solar directa",
+          "label_hr": "Na izravnoj sunčevoj svjetlosti",
+          "label_cs": "Na přímém slunci",
+          "label_pl": "W bezpośrednim świetle słonecznym",
+          "label_fi": "Suorassa auringonpaisteessa",
+          "label_sk": "Na priamom slnku",
+          "label_da": "I direkte sollys"
+        },
+        {
+          "id": "water",
+          "label_en": "In water",
+          "label_de": "Im Wasser",
+          "label_it": "Nell'acqua",
+          "label_fr": "Dans l'eau",
+          "label_es": "en agua",
+          "label_hr": "U vodi",
+          "label_cs": "Ve vodě",
+          "label_pl": "W wodzie",
+          "label_fi": "Vedessä",
+          "label_sk": "Vo vode",
+          "label_da": "I vand"
+        }
+      ]
+    }
+  ]
+}
