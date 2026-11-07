@@ -1429,6 +1429,27 @@
       "title_da": "Farveblyanter"
     },
     {
+      "id": "homework",
+      "category_id": "school",
+      "symbol_id": "homework",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/homework/homework_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/homework/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2409397,
+      "version": 1,
+      "title_en": "Homework",
+      "title_de": "Hausaufgaben",
+      "title_it": "Compiti a casa",
+      "title_fr": "Devoirs",
+      "title_es": "Tarea",
+      "title_hr": "Domaća zadaća",
+      "title_cs": "Domácí úkoly",
+      "title_pl": "Praca domowa",
+      "title_fi": "Kotitehtävä",
+      "title_sk": "Domáce úlohy",
+      "title_da": "Lektier"
+    },
+    {
       "id": "pencil",
       "category_id": "school",
       "symbol_id": "pencil",

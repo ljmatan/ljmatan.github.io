@@ -1,0 +1,293 @@
+{
+  "id": "homework",
+  "category_id": "school",
+  "symbol_id": "homework",
+  "thumbnail": "homework_thumb.webp",
+  "title_en": "Homework",
+  "title_de": "Hausaufgaben",
+  "title_it": "Compiti a casa",
+  "title_fr": "Devoirs",
+  "title_es": "Tarea",
+  "title_hr": "Domaća zadaća",
+  "title_cs": "Domácí úkoly",
+  "title_pl": "Praca domowa",
+  "title_fi": "Kotitehtävä",
+  "title_sk": "Domáce úlohy",
+  "title_da": "Lektier",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about homework. Homework is schoolwork that students do at home. It helps them practise what they learned in class.",
+      "script_de": "Heute lernen wir etwas über Hausaufgaben. Hausaufgaben sind Schulaufgaben, die Schüler zu Hause erledigen. Es hilft ihnen, das im Unterricht Gelernte in die Praxis umzusetzen.",
+      "script_it": "Oggi parleremo dei compiti per casa. I compiti a casa sono compiti scolastici che gli studenti svolgono a casa. Li aiuta a mettere in pratica ciò che hanno imparato in classe.",
+      "script_fr": "Aujourd'hui, nous allons apprendre les devoirs. Les devoirs sont des devoirs que les élèves font à la maison. Cela les aide à mettre en pratique ce qu’ils ont appris en classe.",
+      "script_es": "Hoy vamos a aprender sobre la tarea. La tarea es tarea escolar que los estudiantes hacen en casa. Les ayuda a practicar lo que aprendieron en clase.",
+      "script_hr": "Danas ćemo učiti o domaćoj zadaći. Domaća zadaća je školska zadaća koju učenici rade kod kuće. Pomaže im u praksi ono što su naučili u razredu.",
+      "script_cs": "Dnes se budeme učit o domácích úkolech. Domácí úkol je školní úkol, který žáci dělají doma. Pomáhá jim procvičovat to, co se naučili ve třídě.",
+      "script_pl": "Dzisiaj będziemy uczyć się o zadaniach domowych. Zadania domowe to zadania szkolne, które uczniowie wykonują w domu. Pomaga im to w praktyce tego, czego nauczyli się na zajęciach.",
+      "script_fi": "Tänään opimme läksyjä. Kotitehtävät ovat koulutehtäviä, joita opiskelijat tekevät kotona. Se auttaa heitä harjoittelemaan luokassa oppimaansa.",
+      "script_sk": "Dnes sa naučíme o domácich úlohách. Domáca úloha je školská úloha, ktorú žiaci robia doma. Pomáha im precvičiť si to, čo sa naučili v triede.",
+      "script_da": "I dag skal vi lære om lektier. Lektier er skolearbejde, som eleverne laver derhjemme. Det hjælper dem med at praktisere det, de har lært i klassen.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "why",
+      "script_en": "Homework gives students time to practise reading, writing, or maths. It also helps them learn to work on their own. Teachers use it to see what students understand and what needs more help.",
+      "script_de": "Hausaufgaben geben den Schülern Zeit, Lesen, Schreiben oder Mathematik zu üben. Es hilft ihnen auch dabei, selbstständiges Arbeiten zu erlernen. Lehrer nutzen es, um zu sehen, was die Schüler verstehen und was mehr Hilfe benötigt.",
+      "script_it": "I compiti a casa danno agli studenti il ​​tempo di esercitarsi nella lettura, nella scrittura o in matematica. Li aiuta anche a imparare a lavorare da soli. Gli insegnanti lo usano per vedere cosa capiscono gli studenti e cosa necessita di maggiore aiuto.",
+      "script_fr": "Les devoirs donnent aux élèves le temps de s'entraîner à la lecture, à l'écriture ou aux mathématiques. Cela les aide également à apprendre à travailler de manière autonome. Les enseignants l'utilisent pour voir ce que les élèves comprennent et ce qui nécessite davantage d'aide.",
+      "script_es": "La tarea les da a los estudiantes tiempo para practicar la lectura, la escritura o las matemáticas. También les ayuda a aprender a trabajar por su cuenta. Los profesores lo utilizan para ver qué entienden los estudiantes y qué necesita más ayuda.",
+      "script_hr": "Domaća zadaća učenicima daje vremena za vježbanje čitanja, pisanja ili matematike. Također im pomaže da nauče raditi sami. Učitelji ga koriste kako bi vidjeli što učenici razumiju i što treba više pomoći.",
+      "script_cs": "Domácí úkol dává studentům čas na procvičování čtení, psaní nebo matematiky. Pomáhá jim také naučit se pracovat samostatně. Učitelé ji používají k tomu, aby viděli, čemu studenti rozumí a co potřebuje více pomoci.",
+      "script_pl": "Praca domowa daje uczniom czas na ćwiczenie czytania, pisania i matematyki. Pomaga im także w nauce samodzielnej pracy. Nauczyciele używają go, aby zobaczyć, co uczniowie rozumieją, a co wymaga dalszej pomocy.",
+      "script_fi": "Kotitehtävät antavat opiskelijoille aikaa harjoitella lukemista, kirjoittamista tai matematiikkaa. Se myös auttaa heitä oppimaan työskentelemään itsenäisesti. Opettajat käyttävät sitä nähdäkseen, mitä oppilaat ymmärtävät ja mikä tarvitsee lisää apua.",
+      "script_sk": "Domáce úlohy poskytujú študentom čas na precvičenie čítania, písania alebo matematiky. Pomáha im tiež naučiť sa pracovať samostatne. Učitelia ho používajú na to, aby videli, čomu žiaci rozumejú a čo potrebuje ďalšiu pomoc.",
+      "script_da": "Lektier giver eleverne tid til at øve sig i at læse, skrive eller matematik. Det hjælper dem også med at lære at arbejde på egen hånd. Lærere bruger det til at se, hvad eleverne forstår, og hvad der har brug for mere hjælp.",
+      "images": [
+        "why.webp",
+        "why_2.webp",
+        "why_3.webp"
+      ]
+    },
+    {
+      "id": "space",
+      "script_en": "A quiet, tidy space makes homework easier. Keep the desk clear and turn off distracting screens. A glass of water and a short break can help you stay focused.",
+      "script_de": "Ein ruhiger, aufgeräumter Raum erleichtert die Hausaufgaben. Halten Sie den Schreibtisch frei und schalten Sie störende Bildschirme aus. Ein Glas Wasser und eine kurze Pause können Ihnen helfen, konzentriert zu bleiben.",
+      "script_it": "Uno spazio tranquillo e ordinato facilita i compiti. Mantieni la scrivania libera e spegni gli schermi che distraggono. Un bicchiere d’acqua e una breve pausa possono aiutarti a rimanere concentrato.",
+      "script_fr": "Un espace calme et bien rangé facilite les devoirs. Gardez le bureau dégagé et éteignez les écrans gênants. Un verre d'eau et une courte pause peuvent vous aider à rester concentré.",
+      "script_es": "Un espacio tranquilo y ordenado facilita las tareas. Mantenga el escritorio despejado y apague las pantallas que distraigan. Un vaso de agua y un breve descanso pueden ayudarte a mantenerte concentrado.",
+      "script_hr": "Miran, uredan prostor olakšava domaću zadaću. Držite stol čistim i isključite ekrane koji vam odvlače pažnju. Čaša vode i kratka stanka mogu vam pomoći da ostanete usredotočeni.",
+      "script_cs": "Tichý a uklizený prostor usnadňuje domácí úkoly. Udržujte stůl čistý a vypněte rušivé obrazovky. Sklenice vody a krátká pauza vám pomohou udržet pozornost.",
+      "script_pl": "Cicha i uporządkowana przestrzeń ułatwia odrabianie zadań domowych. Utrzymuj porządek na biurku i wyłącz rozpraszające ekrany. Szklanka wody i krótka przerwa pomogą Ci zachować koncentrację.",
+      "script_fi": "Hiljainen ja siisti tila helpottaa kotitehtäviä. Pidä työpöytä puhtaana ja sammuta häiritsevät näytöt. Lasillinen vettä ja lyhyt tauko voivat auttaa sinua pysymään keskittyneenä.",
+      "script_sk": "Tichý a uprataný priestor uľahčuje domáce úlohy. Udržujte pracovný stôl čistý a vypnite rušivé obrazovky. Pohár vody a krátka prestávka vám môžu pomôcť sústrediť sa.",
+      "script_da": "Et roligt, ryddeligt rum gør lektier lettere. Hold skrivebordet klart, og sluk for distraherende skærme. Et glas vand og en kort pause kan hjælpe dig med at holde fokus.",
+      "images": [
+        "space.webp",
+        "space_2.webp",
+        "space_3.webp"
+      ]
+    },
+    {
+      "id": "help",
+      "script_en": "If homework is tricky, read the instructions again and try one step at a time. Ask for help if you are stuck, but do your own work. Mistakes are part of learning.",
+      "script_de": "Wenn die Hausaufgaben schwierig sind, lesen Sie die Anweisungen noch einmal und versuchen Sie es Schritt für Schritt. Bitten Sie um Hilfe, wenn Sie nicht weiterkommen, aber erledigen Sie Ihre eigene Arbeit. Fehler gehören zum Lernen dazu.",
+      "script_it": "Se i compiti sono complicati, leggi di nuovo le istruzioni e prova un passaggio alla volta. Chiedi aiuto se sei bloccato, ma fai il tuo lavoro. Gli errori fanno parte dell'apprendimento.",
+      "script_fr": "Si les devoirs sont difficiles, relisez les instructions et essayez une étape à la fois. Demandez de l'aide si vous êtes bloqué, mais faites votre propre travail. Les erreurs font partie de l’apprentissage.",
+      "script_es": "Si la tarea es complicada, lea las instrucciones nuevamente e intente paso a paso. Pide ayuda si estás estancado, pero haz tu propio trabajo. Los errores son parte del aprendizaje.",
+      "script_hr": "Ako je domaća zadaća nezgodna, ponovno pročitajte upute i pokušajte korak po korak. Zatražite pomoć ako ste zapeli, ali radite svoj posao. Pogreške su dio učenja.",
+      "script_cs": "Pokud je domácí úkol složitý, přečtěte si znovu pokyny a zkoušejte krok za krokem. Požádejte o pomoc, pokud jste uvízli, ale dělejte svou vlastní práci. Chyby jsou součástí učení.",
+      "script_pl": "Jeśli praca domowa jest trudna, przeczytaj instrukcje ponownie i spróbuj wykonać krok po kroku. Jeśli utkniesz, poproś o pomoc, ale rób swoje. Błędy są częścią uczenia się.",
+      "script_fi": "Jos läksyt ovat hankalia, lue ohjeet uudelleen ja kokeile vaihe kerrallaan. Pyydä apua, jos olet jumissa, mutta tee oma työsi. Virheet ovat osa oppimista.",
+      "script_sk": "Ak je domáca úloha zložitá, prečítajte si pokyny ešte raz a skúste to krok za krokom. Požiadajte o pomoc, ak ste uviazli, ale robte svoju vlastnú prácu. Chyby sú súčasťou učenia.",
+      "script_da": "Hvis lektier er vanskelige, så læs instruktionerne igen og prøv et trin ad gangen. Bed om hjælp, hvis du sidder fast, men gør dit eget arbejde. Fejl er en del af læring.",
+      "images": [
+        "help.webp",
+        "help_2.webp",
+        "help_3.webp"
+      ]
+    },
+    {
+      "id": "balance",
+      "script_en": "Homework should not take all evening. Take breaks, and leave time for play and rest. If it feels too hard or too long, tell an adult so they can help.",
+      "script_de": "Hausaufgaben sollten nicht den ganzen Abend dauern. Machen Sie Pausen und lassen Sie Zeit zum Spielen und Ausruhen. Wenn es sich zu schwer oder zu lang anfühlt, sagen Sie es einem Erwachsenen, damit er helfen kann.",
+      "script_it": "I compiti non dovrebbero durare tutta la sera. Fai delle pause e lascia il tempo per giocare e riposare. Se ti sembra troppo difficile o troppo lungo, dillo a un adulto in modo che possa aiutarti.",
+      "script_fr": "Les devoirs ne devraient pas prendre toute la soirée. Faites des pauses et laissez du temps pour jouer et vous reposer. Si cela vous semble trop dur ou trop long, parlez-en à un adulte pour qu'il puisse vous aider.",
+      "script_es": "La tarea no debería tomar toda la noche. Tome descansos y deje tiempo para jugar y descansar. Si te resulta demasiado difícil o demasiado largo, díselo a un adulto para que pueda ayudarte.",
+      "script_hr": "Domaća zadaća ne bi trebala trajati cijelu večer. Pravite pauze i ostavite vrijeme za igru ​​i odmor. Ako vam se čini preteško ili predugo, recite odrasloj osobi kako bi vam mogla pomoći.",
+      "script_cs": "Domácí úkol by neměl zabrat celý večer. Udělejte si přestávky a nechte si čas na hru a odpočinek. Pokud se vám to zdá příliš těžké nebo příliš dlouhé, řekněte to dospělému, aby vám mohl pomoci.",
+      "script_pl": "Praca domowa nie powinna zająć całego wieczoru. Rób przerwy i zostawiaj czas na zabawę i odpoczynek. Jeśli wydaje Ci się to zbyt trudne lub zbyt długie, powiedz o tym dorosłemu, aby mógł Ci pomóc.",
+      "script_fi": "Kotitehtävien ei pitäisi kestää koko iltaa. Pidä taukoja ja jätä aikaa leikkiin ja lepoon. Jos se tuntuu liian vaikealta tai liian pitkältä, kerro siitä aikuiselle, jotta he voivat auttaa.",
+      "script_sk": "Domáce úlohy by nemali trvať celý večer. Urobte si prestávky a nechajte si čas na hru a odpočinok. Ak sa vám to zdá príliš ťažké alebo príliš dlhé, povedzte to dospelému, aby vám mohol pomôcť.",
+      "script_da": "Lektier bør ikke tage hele aftenen. Hold pauser, og giv tid til leg og hvile. Hvis det føles for hårdt eller for længe, ​​så fortæl det til en voksen, så de kan hjælpe.",
+      "images": [
+        "balance.webp",
+        "balance_2.webp",
+        "balance_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "what",
+      "correct": "schoolwork",
+      "question_en": "What is homework?",
+      "question_de": "Was sind Hausaufgaben?",
+      "question_it": "Cosa sono i compiti?",
+      "question_fr": "Qu'est-ce que les devoirs ?",
+      "question_es": "¿Qué es la tarea?",
+      "question_hr": "Što je domaća zadaća?",
+      "question_cs": "co je to domácí úkol?",
+      "question_pl": "Co to jest praca domowa?",
+      "question_fi": "Mikä on kotitehtävä?",
+      "question_sk": "čo je domáca úloha?",
+      "question_da": "Hvad er lektier?",
+      "options": [
+        {
+          "id": "schoolwork",
+          "label_en": "Schoolwork done at home",
+          "label_de": "Schulaufgaben zu Hause erledigt",
+          "label_it": "Compiti scolastici fatti a casa",
+          "label_fr": "Travaux scolaires faits à la maison",
+          "label_es": "Tareas escolares realizadas en casa.",
+          "label_hr": "Školske zadaće obavljene kod kuće",
+          "label_cs": "Školní práce doma",
+          "label_pl": "Prace szkolne odrabiane w domu",
+          "label_fi": "Kotona tehty koulutehtävät",
+          "label_sk": "Školské úlohy urobené doma",
+          "label_da": "Skolearbejde udført derhjemme"
+        },
+        {
+          "id": "food",
+          "label_en": "A type of food",
+          "label_de": "Eine Art Essen",
+          "label_it": "Un tipo di cibo",
+          "label_fr": "Un type de nourriture",
+          "label_es": "un tipo de comida",
+          "label_hr": "Vrsta hrane",
+          "label_cs": "Druh jídla",
+          "label_pl": "Rodzaj jedzenia",
+          "label_fi": "Eräänlainen ruokalaji",
+          "label_sk": "Druh jedla",
+          "label_da": "En type mad"
+        },
+        {
+          "id": "game",
+          "label_en": "A computer game",
+          "label_de": "Ein Computerspiel",
+          "label_it": "Un gioco per computer",
+          "label_fr": "Un jeu informatique",
+          "label_es": "un juego de computadora",
+          "label_hr": "Računalna igrica",
+          "label_cs": "Počítačová hra",
+          "label_pl": "Gra komputerowa",
+          "label_fi": "Tietokonepeli",
+          "label_sk": "Počítačová hra",
+          "label_da": "Et computerspil"
+        }
+      ]
+    },
+    {
+      "id": "where",
+      "correct": "quiet",
+      "question_en": "Where is a good place to do homework?",
+      "question_de": "Wo kann man gut Hausaufgaben machen?",
+      "question_it": "Dov'è un buon posto per fare i compiti?",
+      "question_fr": "Quel est un bon endroit pour faire ses devoirs ?",
+      "question_es": "¿Dónde hay un buen lugar para hacer la tarea?",
+      "question_hr": "Gdje je dobro mjesto za pisanje domaće zadaće?",
+      "question_cs": "Kde je dobré dělat domácí úkoly?",
+      "question_pl": "Gdzie jest dobre miejsce do odrabiania zadań domowych?",
+      "question_fi": "Missä on hyvä paikka tehdä läksyjä?",
+      "question_sk": "Kde je dobré miesto na domáce úlohy?",
+      "question_da": "Hvor er et godt sted at lave lektier?",
+      "options": [
+        {
+          "id": "quiet",
+          "label_en": "A quiet, tidy desk",
+          "label_de": "Ein ruhiger, aufgeräumter Schreibtisch",
+          "label_it": "Una scrivania silenziosa e ordinata",
+          "label_fr": "Un bureau calme et bien rangé",
+          "label_es": "Un escritorio tranquilo y ordenado",
+          "label_hr": "Miran, uredan stol",
+          "label_cs": "Tichý, uklizený stůl",
+          "label_pl": "Ciche, uporządkowane biurko",
+          "label_fi": "Hiljainen, siisti työpöytä",
+          "label_sk": "Tichý, uprataný stôl",
+          "label_da": "Et stille, ryddeligt skrivebord"
+        },
+        {
+          "id": "tv",
+          "label_en": "In front of a loud television",
+          "label_de": "Vor einem lauten Fernseher",
+          "label_it": "Davanti alla televisione ad alto volume",
+          "label_fr": "Devant une télévision bruyante",
+          "label_es": "Frente a un televisor ruidoso",
+          "label_hr": "Ispred glasnog televizora",
+          "label_cs": "Před hlasitou televizí",
+          "label_pl": "Przed głośnym telewizorem",
+          "label_fi": "Kovan television edessä",
+          "label_sk": "Pred hlasnou televíziou",
+          "label_da": "Foran et højt fjernsyn"
+        },
+        {
+          "id": "bed",
+          "label_en": "Under the bed",
+          "label_de": "Unter dem Bett",
+          "label_it": "Sotto il letto",
+          "label_fr": "Sous le lit",
+          "label_es": "debajo de la cama",
+          "label_hr": "Ispod kreveta",
+          "label_cs": "Pod postelí",
+          "label_pl": "Pod łóżkiem",
+          "label_fi": "Sängyn alla",
+          "label_sk": "Pod posteľou",
+          "label_da": "Under sengen"
+        }
+      ]
+    },
+    {
+      "id": "stuck",
+      "correct": "ask",
+      "question_en": "What should you do if homework is too hard?",
+      "question_de": "Was tun, wenn Hausaufgaben zu schwer sind?",
+      "question_it": "Cosa dovresti fare se i compiti sono troppo difficili?",
+      "question_fr": "Que faire si les devoirs sont trop difficiles ?",
+      "question_es": "¿Qué debes hacer si la tarea es demasiado difícil?",
+      "question_hr": "Što učiniti ako je zadaća preteška?",
+      "question_cs": "Co byste měli dělat, pokud jsou domácí úkoly příliš těžké?",
+      "question_pl": "Co zrobić, jeśli praca domowa jest zbyt trudna?",
+      "question_fi": "Mitä tehdä, jos läksyt ovat liian vaikeita?",
+      "question_sk": "Čo by ste mali robiť, ak sú domáce úlohy príliš ťažké?",
+      "question_da": "Hvad skal du gøre, hvis lektierne er for svære?",
+      "options": [
+        {
+          "id": "ask",
+          "label_en": "Ask an adult for help",
+          "label_de": "Bitten Sie einen Erwachsenen um Hilfe",
+          "label_it": "Chiedi aiuto a un adulto",
+          "label_fr": "Demander de l'aide à un adulte",
+          "label_es": "Pide ayuda a un adulto",
+          "label_hr": "Zamoli odraslu osobu za pomoć",
+          "label_cs": "Požádejte o pomoc dospělého",
+          "label_pl": "Poproś o pomoc osobę dorosłą",
+          "label_fi": "Pyydä apua aikuiselta",
+          "label_sk": "Požiadajte o pomoc dospelého",
+          "label_da": "Spørg en voksen om hjælp"
+        },
+        {
+          "id": "copy",
+          "label_en": "Copy a friend's work",
+          "label_de": "Kopieren Sie die Arbeit eines Freundes",
+          "label_it": "Copia il lavoro di un amico",
+          "label_fr": "Copiez le travail d'un ami",
+          "label_es": "Copiar el trabajo de un amigo",
+          "label_hr": "Kopiraj prijateljev rad",
+          "label_cs": "Zkopírujte práci přítele",
+          "label_pl": "Skopiuj pracę znajomego",
+          "label_fi": "Kopioi ystävän työ",
+          "label_sk": "Skopírujte prácu priateľa",
+          "label_da": "Kopier en vens arbejde"
+        },
+        {
+          "id": "stop",
+          "label_en": "Never try again",
+          "label_de": "Versuchen Sie es nie wieder",
+          "label_it": "Non riprovare mai più",
+          "label_fr": "N'essayez plus jamais",
+          "label_es": "Nunca vuelvas a intentarlo",
+          "label_hr": "Nikad više ne pokušavaj",
+          "label_cs": "Už to nikdy nezkoušejte",
+          "label_pl": "Nigdy więcej nie próbuj",
+          "label_fi": "Älä koskaan yritä uudelleen",
+          "label_sk": "Už to nikdy neskúšajte",
+          "label_da": "Prøv aldrig igen"
+        }
+      ]
+    }
+  ]
+}
