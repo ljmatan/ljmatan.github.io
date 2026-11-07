@@ -1049,6 +1049,27 @@
       "title_fi": "Polkupyörät",
       "title_sk": "Bicykle",
       "title_da": "Cykler"
+    },
+    {
+      "id": "boat",
+      "category_id": "transport",
+      "symbol_id": "boat",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/boat/boat_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/boat/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2105933,
+      "version": 1,
+      "title_en": "Boats",
+      "title_de": "Boote",
+      "title_it": "Barche",
+      "title_fr": "Bateaux",
+      "title_es": "Barcos",
+      "title_hr": "Čamci",
+      "title_cs": "Lodě",
+      "title_pl": "Łodzie",
+      "title_fi": "Veneitä",
+      "title_sk": "Lode",
+      "title_da": "Både"
     }
   ]
 }

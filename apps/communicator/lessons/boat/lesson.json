@@ -1,0 +1,293 @@
+{
+  "id": "boat",
+  "category_id": "transport",
+  "symbol_id": "boat",
+  "thumbnail": "boat_thumb.webp",
+  "title_en": "Boats",
+  "title_de": "Boote",
+  "title_it": "Barche",
+  "title_fr": "Bateaux",
+  "title_es": "Barcos",
+  "title_hr": "Čamci",
+  "title_cs": "Lodě",
+  "title_pl": "Łodzie",
+  "title_fi": "Veneitä",
+  "title_sk": "Lode",
+  "title_da": "Både",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about boats. A boat is a vehicle that floats and moves on water. People use boats for travel, fishing, carrying goods, and fun.",
+      "script_de": "Heute lernen wir etwas über Boote. Ein Boot ist ein Fahrzeug, das schwimmt und sich auf dem Wasser fortbewegt. Menschen nutzen Boote zum Reisen, Angeln, Transportieren von Gütern und zum Spaß.",
+      "script_it": "Oggi impareremo a conoscere le barche. Una barca è un veicolo che galleggia e si muove sull'acqua. Le persone usano le barche per viaggiare, pescare, trasportare merci e divertirsi.",
+      "script_fr": "Aujourd'hui, nous allons découvrir les bateaux. Un bateau est un véhicule qui flotte et se déplace sur l'eau. Les gens utilisent des bateaux pour voyager, pêcher, transporter des marchandises et s'amuser.",
+      "script_es": "Hoy vamos a aprender sobre barcos. Un barco es un vehículo que flota y se mueve sobre el agua. La gente utiliza los barcos para viajar, pescar, transportar mercancías y divertirse.",
+      "script_hr": "Danas ćemo učiti o brodovima. Čamac je vozilo koje pluta i kreće se po vodi. Ljudi koriste čamce za putovanja, ribolov, prijevoz robe i zabavu.",
+      "script_cs": "Dnes se budeme učit o lodích. Loď je vozidlo, které plave a pohybuje se po vodě. Lidé používají lodě k cestování, rybaření, přepravě zboží a zábavě.",
+      "script_pl": "Dziś będziemy uczyć się o łodziach. Łódź to pojazd pływający i poruszający się po wodzie. Ludzie używają łodzi do podróżowania, wędkowania, przewożenia towarów i zabawy.",
+      "script_fi": "Tänään opimme veneistä. Vene on ajoneuvo, joka kelluu ja liikkuu veden päällä. Ihmiset käyttävät veneitä matkustamiseen, kalastukseen, tavaroiden kuljettamiseen ja hauskanpitoon.",
+      "script_sk": "Dnes sa budeme učiť o lodiach. Loď je vozidlo, ktoré pláva a pohybuje sa na vode. Ľudia používajú lode na cestovanie, rybolov, prepravu tovaru a zábavu.",
+      "script_da": "I dag skal vi lære om både. En båd er et køretøj, der flyder og bevæger sig på vandet. Folk bruger både til rejser, fiskeri, transport af varer og sjov.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "history",
+      "script_en": "People have used boats for thousands of years. Early boats were simple rafts or hollowed logs. Later, sailing ships crossed oceans, and steam-powered boats made travel faster and more reliable.",
+      "script_de": "Seit Tausenden von Jahren nutzen Menschen Boote. Frühe Boote waren einfache Flöße oder ausgehöhlte Baumstämme. Später überquerten Segelschiffe die Ozeane und dampfbetriebene Boote machten das Reisen schneller und zuverlässiger.",
+      "script_it": "Le persone usano le barche da migliaia di anni. Le prime barche erano semplici zattere o tronchi scavati. Successivamente, le navi a vela attraversarono gli oceani e le barche a vapore resero il viaggio più veloce e affidabile.",
+      "script_fr": "Les gens utilisent des bateaux depuis des milliers d’années. Les premiers bateaux étaient de simples radeaux ou des rondins creux. Plus tard, les voiliers ont traversé les océans et les bateaux à vapeur ont rendu les voyages plus rapides et plus fiables.",
+      "script_es": "La gente ha utilizado barcos durante miles de años. Los primeros barcos eran simples balsas o troncos ahuecados. Más tarde, los veleros cruzaron océanos y los barcos a vapor hicieron que los viajes fueran más rápidos y fiables.",
+      "script_hr": "Ljudi koriste čamce tisućama godina. Rani čamci bili su jednostavne splavi ili izdubljena debla. Kasnije su jedrenjaci prelazili oceane, a čamci na parni pogon učinili su putovanje bržim i pouzdanijim.",
+      "script_cs": "Lidé používají lodě po tisíce let. Rané lodě byly jednoduché vory nebo duté klády. Později plachetnice překračovaly oceány a parní čluny zrychlily a zrychlily cestování.",
+      "script_pl": "Ludzie używali łodzi od tysięcy lat. Wczesne łodzie były prostymi tratwami lub wydrążonymi kłodami. Później żaglowce przemierzały oceany, a łodzie o napędzie parowym sprawiały, że podróżowanie było szybsze i bardziej niezawodne.",
+      "script_fi": "Ihmiset ovat käyttäneet veneitä tuhansia vuosia. Varhaiset veneet olivat yksinkertaisia ​​lauttoja tai onttoja tukkeja. Myöhemmin purjelaivat ylittivät valtameriä, ja höyrykäyttöiset veneet tekivät matkustamisesta nopeampaa ja luotettavampaa.",
+      "script_sk": "Ľudia používali člny už tisíce rokov. Prvé lode boli jednoduché plte alebo duté kmene. Neskôr plachetnice preplávali oceány a parné člny umožnili cestovanie rýchlejšie a spoľahlivejšie.",
+      "script_da": "Folk har brugt både i tusinder af år. Tidlige både var simple tømmerflåder eller udhulede bjælker. Senere krydsede sejlskibe oceaner, og dampdrevne både gjorde rejsen hurtigere og mere pålidelig.",
+      "images": [
+        "history.webp",
+        "history_2.webp",
+        "history_3.webp"
+      ]
+    },
+    {
+      "id": "parts",
+      "script_en": "A boat's hull is the body that floats. A rudder at the back helps steer, and a sail or motor provides power. Life jackets and a radio are important safety equipment on any boat.",
+      "script_de": "Der Rumpf eines Bootes ist der schwimmende Körper. Ein Ruder an der Rückseite hilft beim Steuern und ein Segel oder Motor sorgt für die Kraft. Schwimmwesten und ein Funkgerät gehören zur wichtigen Sicherheitsausrüstung auf jedem Boot.",
+      "script_it": "Lo scafo di una barca è il corpo che galleggia. Un timone nella parte posteriore aiuta a governare e una vela o un motore forniscono potenza. I giubbotti di salvataggio e la radio sono importanti dotazioni di sicurezza su qualsiasi imbarcazione.",
+      "script_fr": "La coque d'un bateau est le corps qui flotte. Un gouvernail à l'arrière aide à diriger, et une voile ou un moteur fournit de la puissance. Les gilets de sauvetage et une radio sont des équipements de sécurité importants sur tout bateau.",
+      "script_es": "El casco de un barco es el cuerpo que flota. Un timón en la parte trasera ayuda a dirigir y una vela o motor proporciona energía. Los chalecos salvavidas y una radio son equipos de seguridad importantes en cualquier embarcación.",
+      "script_hr": "Trup čamca je tijelo koje pluta. Kormilo straga pomaže u upravljanju, a jedro ili motor osigurava snagu. Prsluci za spašavanje i radio važna su sigurnosna oprema na svakom brodu.",
+      "script_cs": "Trup lodi je tělo, které plave. Kormidlo vzadu pomáhá řídit a plachta nebo motor poskytují sílu. Záchranné vesty a vysílačka jsou důležitým bezpečnostním vybavením každé lodi.",
+      "script_pl": "Kadłub łodzi to ciało, które pływa. Ster z tyłu pomaga sterować, a żagiel lub silnik zapewnia moc. Kamizelki ratunkowe i radio to ważne elementy bezpieczeństwa na każdej łodzi.",
+      "script_fi": "Veneen runko on runko, joka kelluu. Takana oleva peräsin auttaa ohjaamisessa ja purje tai moottori antaa voimaa. Pelastusliivit ja radio ovat tärkeitä turvavarusteita kaikissa veneissä.",
+      "script_sk": "Trup lode je telo, ktoré pláva. Kormidlo vzadu pomáha pri riadení a plachta alebo motor dodáva energiu. Záchranné vesty a vysielačka sú dôležitým bezpečnostným vybavením každej lode.",
+      "script_da": "En båds skrog er kroppen, der flyder. Et ror bagpå hjælper med at styre, og et sejl eller en motor giver kraft. Redningsveste og en radio er vigtigt sikkerhedsudstyr på enhver båd.",
+      "images": [
+        "parts.webp",
+        "parts_2.webp",
+        "parts_3.webp"
+      ]
+    },
+    {
+      "id": "types",
+      "script_en": "There are many kinds of boats. Sailboats use the wind, ferries carry passengers, cargo ships move goods, and kayaks are small and paddled. Each design suits a different job on the water.",
+      "script_de": "Es gibt viele Arten von Booten. Segelboote nutzen den Wind, Fähren befördern Passagiere, Frachtschiffe transportieren Güter und Kajaks sind klein und haben Paddel. Jedes Design eignet sich für eine andere Aufgabe auf dem Wasser.",
+      "script_it": "Esistono molti tipi di barche. Le barche a vela sfruttano il vento, i traghetti trasportano passeggeri, le navi mercantili spostano merci e i kayak sono piccoli e remati. Ogni modello si adatta a un lavoro diverso sull'acqua.",
+      "script_fr": "Il existe de nombreux types de bateaux. Les voiliers utilisent le vent, les ferries transportent des passagers, les cargos transportent des marchandises et les kayaks sont petits et pagayés. Chaque modèle convient à un travail différent sur l'eau.",
+      "script_es": "Hay muchos tipos de barcos. Los veleros utilizan el viento, los ferries transportan pasajeros, los cargueros mueven mercancías y los kayaks son pequeños y se reman. Cada diseño se adapta a un trabajo diferente en el agua.",
+      "script_hr": "Postoji mnogo vrsta čamaca. Jedrilice koriste vjetar, trajekti prevoze putnike, teretni brodovi prevoze robu, a kajaci su mali i za veslanje. Svaki dizajn odgovara različitom poslu na vodi.",
+      "script_cs": "Existuje mnoho druhů lodí. Plachetnice využívají vítr, trajekty přepravují cestující, nákladní lodě přepravují zboží a kajaky jsou malé a pádlované. Každý design se hodí k jiné práci na vodě.",
+      "script_pl": "Istnieje wiele rodzajów łodzi. Żaglówki korzystają z wiatru, promy przewożą pasażerów, statki towarowe przewożą towary, a kajaki są małe i wiosłowane. Każdy projekt pasuje do innej pracy na wodzie.",
+      "script_fi": "Veneitä on monenlaisia. Purjeveneet käyttävät tuulta, lautat kuljettavat matkustajia, rahtialukset kuljettavat tavaroita ja kajakit ovat pieniä ja melottavia. Jokainen malli sopii erilaisiin vesitöihin.",
+      "script_sk": "Existuje veľa druhov lodí. Plachetnice využívajú vietor, trajekty prevážajú cestujúcich, nákladné lode prepravujú tovar a kajaky sú malé a pádlované. Každému dizajnu vyhovuje iná práca na vode.",
+      "script_da": "Der findes mange slags både. Sejlbåde bruger vinden, færger transporterer passagerer, fragtskibe flytter gods, og kajakker er små og padlede. Hvert design passer til et andet job på vandet.",
+      "images": [
+        "types.webp",
+        "types_2.webp",
+        "types_3.webp"
+      ]
+    },
+    {
+      "id": "safety",
+      "script_en": "Today boats are used all over the world. Before setting out, check the weather and wear a life jacket. Boats should be kept steady, and children should always stay close to an adult.",
+      "script_de": "Heute werden Boote auf der ganzen Welt eingesetzt. Überprüfen Sie vor dem Aufbruch das Wetter und tragen Sie eine Schwimmweste. Boote sollten ruhig gehalten werden und Kinder sollten immer in der Nähe eines Erwachsenen bleiben.",
+      "script_it": "Oggi le barche sono utilizzate in tutto il mondo. Prima di partire controllate il meteo e indossate un giubbotto di salvataggio. Le barche devono essere mantenute ferme e i bambini devono stare sempre vicino a un adulto.",
+      "script_fr": "Aujourd'hui, les bateaux sont utilisés partout dans le monde. Avant de partir, vérifiez la météo et portez un gilet de sauvetage. Les bateaux doivent rester stables et les enfants doivent toujours rester à proximité d’un adulte.",
+      "script_es": "Hoy en día los barcos se utilizan en todo el mundo. Antes de partir, consulta el tiempo y utiliza un chaleco salvavidas. Los barcos deben mantenerse firmes y los niños siempre deben permanecer cerca de un adulto.",
+      "script_hr": "Danas se brodovi koriste u cijelom svijetu. Prije polaska provjerite kakvo je vrijeme i obucite prsluk za spašavanje. Čamce treba držati mirnima, a djeca uvijek u blizini odrasle osobe.",
+      "script_cs": "Dnes se lodě používají po celém světě. Než vyrazíte, zkontrolujte počasí a oblékněte si záchrannou vestu. Lodě by měly být stabilní a děti by měly být vždy v blízkosti dospělé osoby.",
+      "script_pl": "Dziś łodzie są używane na całym świecie. Przed wypłynięciem sprawdź pogodę i załóż kamizelkę ratunkową. Łodzie należy utrzymywać stabilnie, a dzieci powinny zawsze przebywać blisko osoby dorosłej.",
+      "script_fi": "Nykyään veneitä käytetään kaikkialla maailmassa. Ennen lähtöä tarkista sää ja pukeudu pelastusliiviin. Veneet tulee pitää paikallaan, ja lasten tulee aina pysyä aikuisen lähellä.",
+      "script_sk": "Dnes sa lode používajú po celom svete. Pred odchodom skontrolujte počasie a oblečte si záchrannú vestu. Lode by mali byť stabilné a deti by sa mali vždy zdržiavať v blízkosti dospelej osoby.",
+      "script_da": "I dag bruges både over hele verden. Inden du begiver dig ud, skal du tjekke vejret og bære en redningsvest. Både skal holdes stabile, og børn bør altid opholde sig tæt på en voksen.",
+      "images": [
+        "safety.webp",
+        "safety_2.webp",
+        "safety_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "float",
+      "correct": "hull",
+      "question_en": "What part of a boat floats on the water?",
+      "question_de": "Welcher Teil eines Bootes schwimmt auf dem Wasser?",
+      "question_it": "Quale parte di una barca galleggia sull'acqua?",
+      "question_fr": "Quelle partie d'un bateau flotte sur l'eau ?",
+      "question_es": "¿Qué parte de un barco flota en el agua?",
+      "question_hr": "Koji dio čamca pluta na vodi?",
+      "question_cs": "Jaká část lodi plave na vodě?",
+      "question_pl": "Jaka część łodzi pływa po wodzie?",
+      "question_fi": "Mikä osa veneestä kelluu vedessä?",
+      "question_sk": "Ktorá časť člna pláva na vode?",
+      "question_da": "Hvilken del af en båd flyder på vandet?",
+      "options": [
+        {
+          "id": "hull",
+          "label_en": "The hull",
+          "label_de": "Der Rumpf",
+          "label_it": "Lo scafo",
+          "label_fr": "La coque",
+          "label_es": "el casco",
+          "label_hr": "Trup",
+          "label_cs": "Trup",
+          "label_pl": "Kadłub",
+          "label_fi": "Runko",
+          "label_sk": "Trup",
+          "label_da": "Skroget"
+        },
+        {
+          "id": "sail",
+          "label_en": "The sail",
+          "label_de": "Das Segel",
+          "label_it": "La vela",
+          "label_fr": "La voile",
+          "label_es": "la vela",
+          "label_hr": "Jedro",
+          "label_cs": "Plachta",
+          "label_pl": "Żagiel",
+          "label_fi": "Purje",
+          "label_sk": "Plachta",
+          "label_da": "Sejlet"
+        },
+        {
+          "id": "rudder",
+          "label_en": "The rudder",
+          "label_de": "Das Ruder",
+          "label_it": "Il timone",
+          "label_fr": "Le gouvernail",
+          "label_es": "el timón",
+          "label_hr": "Kormilo",
+          "label_cs": "Kormidlo",
+          "label_pl": "Ster",
+          "label_fi": "Peräsin",
+          "label_sk": "Kormidlo",
+          "label_da": "Roret"
+        }
+      ]
+    },
+    {
+      "id": "steer",
+      "correct": "rudder",
+      "question_en": "What helps steer a boat?",
+      "question_de": "Was hilft beim Steuern eines Bootes?",
+      "question_it": "Cosa aiuta a governare una barca?",
+      "question_fr": "Qu'est-ce qui aide à diriger un bateau ?",
+      "question_es": "¿Qué ayuda a gobernar un barco?",
+      "question_hr": "Što pomaže u upravljanju čamcem?",
+      "question_cs": "Co pomáhá řídit loď?",
+      "question_pl": "Co pomaga w sterowaniu łodzią?",
+      "question_fi": "Mikä auttaa ohjaamaan venettä?",
+      "question_sk": "Čo pomáha riadiť loď?",
+      "question_da": "Hvad hjælper med at styre en båd?",
+      "options": [
+        {
+          "id": "rudder",
+          "label_en": "The rudder",
+          "label_de": "Das Ruder",
+          "label_it": "Il timone",
+          "label_fr": "Le gouvernail",
+          "label_es": "el timón",
+          "label_hr": "Kormilo",
+          "label_cs": "Kormidlo",
+          "label_pl": "Ster",
+          "label_fi": "Peräsin",
+          "label_sk": "Kormidlo",
+          "label_da": "Roret"
+        },
+        {
+          "id": "anchor",
+          "label_en": "The anchor",
+          "label_de": "Der Anker",
+          "label_it": "L'ancora",
+          "label_fr": "L'ancre",
+          "label_es": "el ancla",
+          "label_hr": "Sidro",
+          "label_cs": "Kotva",
+          "label_pl": "Kotwica",
+          "label_fi": "Ankkuri",
+          "label_sk": "Kotva",
+          "label_da": "Ankeret"
+        },
+        {
+          "id": "deck",
+          "label_en": "The deck",
+          "label_de": "Das Deck",
+          "label_it": "Il ponte",
+          "label_fr": "Le pont",
+          "label_es": "la baraja",
+          "label_hr": "Špil",
+          "label_cs": "Paluba",
+          "label_pl": "Pokład",
+          "label_fi": "Kansi",
+          "label_sk": "Paluba",
+          "label_da": "Dækket"
+        }
+      ]
+    },
+    {
+      "id": "safety",
+      "correct": "lifejacket",
+      "question_en": "What should you wear in a small boat?",
+      "question_de": "Was sollte man auf einem kleinen Boot anziehen?",
+      "question_it": "Cosa dovresti indossare su una piccola barca?",
+      "question_fr": "Que faut-il porter dans un petit bateau ?",
+      "question_es": "¿Qué debes llevar en un barco pequeño?",
+      "question_hr": "Što nositi u malom čamcu?",
+      "question_cs": "Co byste měli nosit v malé lodi?",
+      "question_pl": "Co należy nosić na małej łódce?",
+      "question_fi": "Mitä pienessä veneessä pitäisi käyttää?",
+      "question_sk": "Čo by ste si mali obliecť do malej lode?",
+      "question_da": "Hvad skal du have på i en lille båd?",
+      "options": [
+        {
+          "id": "lifejacket",
+          "label_en": "A life jacket",
+          "label_de": "Eine Schwimmweste",
+          "label_it": "Un giubbotto di salvataggio",
+          "label_fr": "Un gilet de sauvetage",
+          "label_es": "un chaleco salvavidas",
+          "label_hr": "Prsluk za spašavanje",
+          "label_cs": "Záchranná vesta",
+          "label_pl": "Kamizelka ratunkowa",
+          "label_fi": "Pelastusliivi",
+          "label_sk": "Záchranná vesta",
+          "label_da": "En redningsvest"
+        },
+        {
+          "id": "scarf",
+          "label_en": "A scarf",
+          "label_de": "Ein Schal",
+          "label_it": "Una sciarpa",
+          "label_fr": "Une écharpe",
+          "label_es": "una bufanda",
+          "label_hr": "šal",
+          "label_cs": "Šátek",
+          "label_pl": "Szalik",
+          "label_fi": "Huivi",
+          "label_sk": "Šál",
+          "label_da": "Et tørklæde"
+        },
+        {
+          "id": "backpack",
+          "label_en": "A backpack",
+          "label_de": "Ein Rucksack",
+          "label_it": "Uno zaino",
+          "label_fr": "Un sac à dos",
+          "label_es": "una mochila",
+          "label_hr": "Ruksak",
+          "label_cs": "Batoh",
+          "label_pl": "Plecak",
+          "label_fi": "Reppu",
+          "label_sk": "Batoh",
+          "label_da": "En rygsæk"
+        }
+      ]
+    }
+  ]
+}
