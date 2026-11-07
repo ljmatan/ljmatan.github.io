@@ -1,0 +1,293 @@
+{
+  "id": "swimming",
+  "category_id": "activities",
+  "symbol_id": "swimming",
+  "thumbnail": "swimming_thumb.webp",
+  "title_en": "Swimming",
+  "title_de": "Baden",
+  "title_it": "Nuoto",
+  "title_fr": "Natation",
+  "title_es": "Nadar",
+  "title_hr": "Plivanje",
+  "title_cs": "Plavání",
+  "title_pl": "Pływacki",
+  "title_fi": "Uima",
+  "title_sk": "Plávanie",
+  "title_da": "Svømning",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about swimming. Swimming is moving through water using your arms and legs. It is fun, good exercise, and an important safety skill.",
+      "script_de": "Heute lernen wir etwas über Schwimmen. Beim Schwimmen bewegt man sich mit Armen und Beinen durch das Wasser. Es macht Spaß, ist eine gute Übung und eine wichtige Sicherheitskompetenz.",
+      "script_it": "Oggi impareremo a nuotare. Nuotare significa muoversi nell'acqua usando le braccia e le gambe. È divertente, un buon esercizio e un'importante abilità di sicurezza.",
+      "script_fr": "Aujourd'hui, nous allons apprendre à nager. Nager, c'est se déplacer dans l'eau en utilisant ses bras et ses jambes. C'est amusant, c'est un bon exercice et une compétence de sécurité importante.",
+      "script_es": "Hoy vamos a aprender sobre natación. Nadar es moverse a través del agua usando los brazos y las piernas. Es divertido, un buen ejercicio y una importante habilidad de seguridad.",
+      "script_hr": "Danas ćemo učiti o plivanju. Plivanje je kretanje kroz vodu pomoću ruku i nogu. To je zabavno, dobra vježba i važna sigurnosna vještina.",
+      "script_cs": "Dnes se budeme učit o plavání. Plavání je pohyb ve vodě pomocí rukou a nohou. Je to zábava, dobré cvičení a důležitá bezpečnostní dovednost.",
+      "script_pl": "Dziś będziemy uczyć się pływania. Pływanie polega na poruszaniu się po wodzie za pomocą rąk i nóg. To świetna zabawa, dobre ćwiczenie i ważna umiejętność związana z bezpieczeństwem.",
+      "script_fi": "Tänään opimme uimista. Uinti on vedessä liikkumista käsien ja jalkojen avulla. Se on hauskaa, hyvää liikuntaa ja tärkeä turvallisuustaito.",
+      "script_sk": "Dnes sa naučíme plávať. Plávanie je pohyb vo vode pomocou rúk a nôh. Je to zábava, dobré cvičenie a dôležitá bezpečnostná zručnosť.",
+      "script_da": "I dag skal vi lære om svømning. Svømning er at bevæge sig gennem vandet ved hjælp af dine arme og ben. Det er sjovt, god motion og en vigtig sikkerhedsevne.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "safety",
+      "script_en": "Always swim with an adult or a trained lifeguard nearby. Never swim alone, and never dive into water unless you know it is deep enough. Learning with an instructor helps you stay safe and confident.",
+      "script_de": "Schwimmen Sie immer mit einem Erwachsenen oder einem ausgebildeten Rettungsschwimmer in der Nähe. Schwimmen Sie niemals alleine und tauchen Sie niemals ins Wasser, es sei denn, Sie wissen, dass es tief genug ist. Wenn Sie mit einem Lehrer lernen, bleiben Sie sicher und selbstbewusst.",
+      "script_it": "Nuota sempre con un adulto o un bagnino esperto nelle vicinanze. Non nuotare mai da solo e non tuffarti mai nell'acqua a meno che tu non sappia che è abbastanza profonda. Imparare con un istruttore ti aiuta a rimanere sicuro e fiducioso.",
+      "script_fr": "Nagez toujours avec un adulte ou un sauveteur qualifié à proximité. Ne nagez jamais seul et ne plongez jamais dans l’eau à moins de savoir qu’elle est suffisamment profonde. Apprendre avec un instructeur vous aide à rester en sécurité et en confiance.",
+      "script_es": "Nade siempre con un adulto o un salvavidas capacitado cerca. Nunca nades solo y nunca te sumerjas en el agua a menos que sepas que es lo suficientemente profunda. Aprender con un instructor te ayuda a mantenerte seguro y confiado.",
+      "script_hr": "Uvijek plivajte s odraslom osobom ili obučenim spasiocem u blizini. Nikada ne plivajte sami i nikada ne ronite u vodu ako ne znate da je dovoljno duboka. Učenje s instruktorom pomaže vam da ostanete sigurni i samouvjereni.",
+      "script_cs": "Vždy plavejte s dospělou osobou nebo vyškoleným plavčíkem v blízkosti. Nikdy neplavte sami a nikdy se neponořujte do vody, pokud nevíte, že je dostatečně hluboká. Učení s instruktorem vám pomůže zůstat v bezpečí a sebevědomí.",
+      "script_pl": "Zawsze pływaj w pobliżu osoby dorosłej lub przeszkolonego ratownika. Nigdy nie pływaj sam i nigdy nie nurkuj w wodzie, jeśli nie wiesz, że jest wystarczająco głęboka. Nauka z instruktorem pomaga zachować bezpieczeństwo i pewność siebie.",
+      "script_fi": "Ui aina aikuisen tai koulutetun hengenpelastajan kanssa lähellä. Älä koskaan ui yksin, äläkä koskaan sukeltaa veteen, ellet tiedä sen olevan tarpeeksi syvä. Oppiminen ohjaajan kanssa auttaa sinua pysymään turvassa ja luottavaisina.",
+      "script_sk": "Vždy plávajte s dospelou osobou alebo vyškoleným plavčíkom v blízkosti. Nikdy neplávajte sami a nikdy sa neponárajte do vody, pokiaľ neviete, že je dostatočne hlboká. Učenie sa s inštruktorom vám pomôže zostať v bezpečí a sebavedomí.",
+      "script_da": "Svøm altid med en voksen eller en uddannet livredder i nærheden. Svøm aldrig alene, og dyk aldrig ned i vandet, medmindre du ved, at det er dybt nok. At lære med en instruktør hjælper dig med at forblive sikker og selvsikker.",
+      "images": [
+        "safety.webp",
+        "safety_2.webp",
+        "safety_3.webp"
+      ]
+    },
+    {
+      "id": "strokes",
+      "script_en": "There are many swimming strokes. Front crawl is fast, breaststroke is steady, and backstroke lets you breathe easily. Floating on your back and treading water are useful skills too.",
+      "script_de": "Es gibt viele Schwimmzüge. Das Kraulen nach vorne ist schnell, das Brustschwimmen ist gleichmäßig und das Rückenschwimmen erleichtert das Atmen. Auch das Schwimmen auf dem Rücken und das Wassertreten sind nützliche Fähigkeiten.",
+      "script_it": "Ci sono molti stili di nuoto. Lo stile libero è veloce, la rana è costante e il dorso ti consente di respirare facilmente. Anche galleggiare sulla schiena e restare a galla sono abilità utili.",
+      "script_fr": "Il existe de nombreux styles de nage. Le crawl est rapide, la brasse est régulière et le dos vous permet de respirer facilement. Flotter sur le dos et faire du surplace sont également des compétences utiles.",
+      "script_es": "Hay muchos estilos de natación. El crol es rápido, la braza es constante y la brazada de espalda te permite respirar con facilidad. Flotar boca arriba y mantenerse a flote también son habilidades útiles.",
+      "script_hr": "Postoji mnogo plivačkih zaveslaja. Prednji kraul je brz, prsno plivanje je stabilno, a leđno plivanje omogućuje vam lagano disanje. Plutanje na leđima i gaženje u vodi također su korisne vještine.",
+      "script_cs": "Existuje mnoho plaveckých stylů. Přední kraul je rychlý, prsa jsou stabilní a zadní umožňuje snadné dýchání. Užitečné dovednosti jsou také vznášení se na zádech a šlapání vody.",
+      "script_pl": "Jest wiele ruchów pływackich. Kraul w przód jest szybki, styl klasyczny stabilny, a styl grzbietowy pozwala na łatwe oddychanie. Unoszenie się na plecach i stąpanie po wodzie to także przydatne umiejętności.",
+      "script_fi": "Uintilyöntejä on monia. Eturyömintä on nopeaa, rintauinti tasaista ja selkäuinti antaa sinun hengittää helposti. Selällään kelluminen ja veden polkeminen ovat myös hyödyllisiä taitoja.",
+      "script_sk": "Existuje veľa plaveckých spôsobov. Predný kraul je rýchly, prsia sú stabilné a zadný znak vám umožňuje ľahko dýchať. Plávanie na chrbte a šliapanie vody sú tiež užitočné zručnosti.",
+      "script_da": "Der er mange svømmeslag. Frontcrawl er hurtig, brystsvømning er stabil, og rygsvømning lader dig trække vejret let. At flyde på ryggen og træde vand er også nyttige færdigheder.",
+      "images": [
+        "strokes.webp",
+        "strokes_2.webp",
+        "strokes_3.webp"
+      ]
+    },
+    {
+      "id": "body",
+      "script_en": "Swimming uses almost every muscle in the body. It can help the heart and lungs grow stronger without putting pressure on the joints. Breathing out slowly underwater makes swimming feel easier.",
+      "script_de": "Beim Schwimmen wird fast jeder Muskel im Körper beansprucht. Es kann dazu beitragen, dass Herz und Lunge stärker werden, ohne Druck auf die Gelenke auszuüben. Langsames Ausatmen unter Wasser erleichtert das Schwimmen.",
+      "script_it": "Il nuoto utilizza quasi tutti i muscoli del corpo. Può aiutare il cuore e i polmoni a diventare più forti senza esercitare pressione sulle articolazioni. Espirare lentamente sott'acqua rende il nuoto più facile.",
+      "script_fr": "La natation sollicite presque tous les muscles du corps. Cela peut aider le cœur et les poumons à devenir plus forts sans exercer de pression sur les articulations. Expirer lentement sous l’eau rend la natation plus facile.",
+      "script_es": "La natación utiliza casi todos los músculos del cuerpo. Puede ayudar a que el corazón y los pulmones se fortalezcan sin ejercer presión sobre las articulaciones. Respirar lentamente bajo el agua hace que nadar sea más fácil.",
+      "script_hr": "Plivanje koristi gotovo svaki mišić u tijelu. Može pomoći srcu i plućima da ojačaju bez pritiska na zglobove. Polagano disanje pod vodom olakšava plivanje.",
+      "script_cs": "Při plavání se využívá téměř každý sval v těle. Může pomoci srdci a plícím zesílit, aniž by vyvíjel tlak na klouby. Pomalé vydechování pod vodou usnadňuje plavání.",
+      "script_pl": "Pływanie angażuje prawie wszystkie mięśnie ciała. Może pomóc wzmocnić serce i płuca bez wywierania nacisku na stawy. Powolne oddychanie pod wodą sprawia, że ​​pływanie staje się łatwiejsze.",
+      "script_fi": "Uinti käyttää lähes kaikkia kehon lihaksia. Se voi auttaa sydäntä ja keuhkoja kasvamaan vahvemmiksi aiheuttamatta painetta niveliin. Hitaasti veden alla hengittäminen tekee uinnista helpompaa.",
+      "script_sk": "Pri plávaní sa využíva takmer každý sval v tele. Môže pomôcť srdcu a pľúcam zosilnieť bez vyvíjania tlaku na kĺby. Pomalé vydychovanie pod vodou uľahčuje plávanie.",
+      "script_da": "Svømning bruger næsten alle muskler i kroppen. Det kan hjælpe hjertet og lungerne med at vokse sig stærkere uden at lægge pres på leddene. At trække vejret langsomt ud under vandet gør svømning lettere.",
+      "images": [
+        "body.webp",
+        "body_2.webp",
+        "body_3.webp"
+      ]
+    },
+    {
+      "id": "today",
+      "script_en": "Today people swim in pools, lakes, rivers, and the sea. Swimmers can join clubs, compete in races, or simply enjoy the water. Wherever you swim, checking the depth and the weather matters.",
+      "script_de": "Heutzutage schwimmen Menschen in Tümpeln, Seen, Flüssen und im Meer. Schwimmer können Vereinen beitreten, an Rennen teilnehmen oder einfach nur das Wasser genießen. Wo immer Sie schwimmen, ist es wichtig, die Tiefe und das Wetter zu überprüfen.",
+      "script_it": "Oggi le persone nuotano nelle piscine, nei laghi, nei fiumi e nel mare. I nuotatori possono unirsi ai club, competere in gare o semplicemente godersi l'acqua. Ovunque nuoti, controllare la profondità e il tempo è importante.",
+      "script_fr": "Aujourd’hui, les gens nagent dans les piscines, les lacs, les rivières et la mer. Les nageurs peuvent rejoindre des clubs, participer à des courses ou simplement profiter de l'eau. Où que vous nagez, il est important de vérifier la profondeur et la météo.",
+      "script_es": "Hoy en día la gente nada en piscinas, lagos, ríos y el mar. Los nadadores pueden unirse a clubes, competir en carreras o simplemente disfrutar del agua. Dondequiera que nades, es importante comprobar la profundidad y el tiempo.",
+      "script_hr": "Danas ljudi plivaju u bazenima, jezerima, rijekama i morima. Plivači se mogu pridružiti klubovima, natjecati u utrkama ili jednostavno uživati ​​u vodi. Gdje god da plivate, bitna je provjera dubine i vremena.",
+      "script_cs": "Dnes lidé plavou v bazénech, jezerech, řekách a moři. Plavci se mohou zapojit do klubů, soutěžit v závodech nebo si jen užívat vodu. Ať plavete kdekoli, záleží na kontrole hloubky a počasí.",
+      "script_pl": "Dziś ludzie kąpią się w basenach, jeziorach, rzekach i morzu. Pływacy mogą przyłączać się do klubów, brać udział w wyścigach lub po prostu cieszyć się wodą. Gdziekolwiek pływasz, sprawdzanie głębokości i pogody ma znaczenie.",
+      "script_fi": "Nykyään ihmiset uivat altaissa, järvissä, joissa ja meressä. Uimarit voivat liittyä seuroihin, kilpailla kilpailuissa tai vain nauttia vedestä. Missä tahansa uitkin, syvyyden ja sään tarkistaminen on tärkeää.",
+      "script_sk": "Dnes ľudia plávajú v bazénoch, jazerách, riekach a mori. Plavci sa môžu zapojiť do klubov, súťažiť na pretekoch alebo si jednoducho užívať vodu. Kdekoľvek plávate, na kontrole hĺbky a počasia záleží.",
+      "script_da": "I dag svømmer folk i bassiner, søer, floder og havet. Svømmere kan deltage i klubber, konkurrere i løb eller bare nyde vandet. Uanset hvor du svømmer, er det vigtigt at tjekke dybden og vejret.",
+      "images": [
+        "today.webp",
+        "today_2.webp",
+        "today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "alone",
+      "correct": "no",
+      "question_en": "Should you swim alone?",
+      "question_de": "Sollte man alleine schwimmen?",
+      "question_it": "Dovresti nuotare da solo?",
+      "question_fr": "Faut-il nager seul ?",
+      "question_es": "¿Deberías nadar solo?",
+      "question_hr": "Trebate li plivati ​​sami?",
+      "question_cs": "Měl bys plavat sám?",
+      "question_pl": "Czy warto pływać samotnie?",
+      "question_fi": "Pitäisikö sinun uida yksin?",
+      "question_sk": "Mali by ste plávať sami?",
+      "question_da": "Skal du svømme alene?",
+      "options": [
+        {
+          "id": "no",
+          "label_en": "No, always with an adult or lifeguard",
+          "label_de": "Nein, immer in Begleitung eines Erwachsenen oder Rettungsschwimmers",
+          "label_it": "No, sempre con un adulto o un bagnino",
+          "label_fr": "Non, toujours avec un adulte ou un sauveteur",
+          "label_es": "No, siempre con un adulto o socorrista.",
+          "label_hr": "Ne, uvijek s odraslom osobom ili spasiocem",
+          "label_cs": "Ne, vždy s dospělým nebo plavčíkem",
+          "label_pl": "Nie, zawsze z osobą dorosłą lub ratownikiem",
+          "label_fi": "Ei, aina aikuisen tai hengenpelastajan kanssa",
+          "label_sk": "Nie, vždy s dospelým alebo plavčíkom",
+          "label_da": "Nej, altid med en voksen eller livredder"
+        },
+        {
+          "id": "yes",
+          "label_en": "Yes, always",
+          "label_de": "Ja, immer",
+          "label_it": "Sì, sempre",
+          "label_fr": "Oui, toujours",
+          "label_es": "si, siempre",
+          "label_hr": "Da, uvijek",
+          "label_cs": "Ano, vždy",
+          "label_pl": "Tak, zawsze",
+          "label_fi": "Kyllä, aina",
+          "label_sk": "Áno, vždy",
+          "label_da": "Ja, altid"
+        },
+        {
+          "id": "night",
+          "label_en": "Only at night",
+          "label_de": "Nur nachts",
+          "label_it": "Solo di notte",
+          "label_fr": "Seulement la nuit",
+          "label_es": "solo por la noche",
+          "label_hr": "Samo noću",
+          "label_cs": "Pouze v noci",
+          "label_pl": "Tylko w nocy",
+          "label_fi": "Vain yöllä",
+          "label_sk": "Iba v noci",
+          "label_da": "Kun om natten"
+        }
+      ]
+    },
+    {
+      "id": "stroke",
+      "correct": "crawl",
+      "question_en": "Which is a swimming stroke?",
+      "question_de": "Was ist ein Schwimmstil?",
+      "question_it": "Cos'è uno stile di nuoto?",
+      "question_fr": "Qu'est-ce qu'un mouvement de nage ?",
+      "question_es": "¿Qué es una brazada de natación?",
+      "question_hr": "Što je plivački zaveslaj?",
+      "question_cs": "Co je plavecký způsob?",
+      "question_pl": "Co to jest udar pływacki?",
+      "question_fi": "Mikä on uimahalvaus?",
+      "question_sk": "Čo je to plavecký ťah?",
+      "question_da": "Hvad er et svømmeslag?",
+      "options": [
+        {
+          "id": "crawl",
+          "label_en": "Front crawl",
+          "label_de": "Vorderkriechen",
+          "label_it": "Scansione frontale",
+          "label_fr": "Crawl",
+          "label_es": "crol",
+          "label_hr": "Prednji kraul",
+          "label_cs": "Přední plazení",
+          "label_pl": "Skradanie się z przodu",
+          "label_fi": "Eturyömintä",
+          "label_sk": "Predné plazenie",
+          "label_da": "Frontcrawl"
+        },
+        {
+          "id": "run",
+          "label_en": "Running",
+          "label_de": "Läuft",
+          "label_it": "Corsa",
+          "label_fr": "En cours d'exécution",
+          "label_es": "Correr",
+          "label_hr": "Trčanje",
+          "label_cs": "Běh",
+          "label_pl": "Działanie",
+          "label_fi": "Juoksemassa",
+          "label_sk": "Beh",
+          "label_da": "Løb"
+        },
+        {
+          "id": "hop",
+          "label_en": "Hopping",
+          "label_de": "Hüpfen",
+          "label_it": "Saltellando",
+          "label_fr": "Sauter",
+          "label_es": "saltando",
+          "label_hr": "Poskakujući",
+          "label_cs": "Poskakování",
+          "label_pl": "Skakanie",
+          "label_fi": "Hyppääminen",
+          "label_sk": "Skákanie",
+          "label_da": "Hopping"
+        }
+      ]
+    },
+    {
+      "id": "skill",
+      "correct": "float",
+      "question_en": "What is a useful water safety skill?",
+      "question_de": "Was ist eine nützliche Fähigkeit zur Wassersicherheit?",
+      "question_it": "Qual è un’abilità utile per la sicurezza in acqua?",
+      "question_fr": "Qu’est-ce qu’une compétence utile en matière de sécurité aquatique ?",
+      "question_es": "¿Qué es una habilidad útil para la seguridad en el agua?",
+      "question_hr": "Što je korisna vještina sigurnosti u vodi?",
+      "question_cs": "Co je užitečná dovednost v oblasti bezpečnosti vody?",
+      "question_pl": "Jaka jest przydatna umiejętność dotycząca bezpieczeństwa w wodzie?",
+      "question_fi": "Mikä on hyödyllinen vesiturvallisuustaito?",
+      "question_sk": "Čo je užitočná zručnosť v oblasti bezpečnosti vody?",
+      "question_da": "Hvad er en nyttig vandsikkerhedsfærdighed?",
+      "options": [
+        {
+          "id": "float",
+          "label_en": "Floating and treading water",
+          "label_de": "Schwimmen und Wassertreten",
+          "label_it": "Galleggiante e che calpesta l'acqua",
+          "label_fr": "Flottant et faisant du surplace",
+          "label_es": "Flotar y pisar el agua",
+          "label_hr": "Voda koja pluta i gazi",
+          "label_cs": "Plovoucí a šlapající voda",
+          "label_pl": "Pływająca i krocząca woda",
+          "label_fi": "Kelluva ja polkeva vesi",
+          "label_sk": "Plávajúca a šliapajúca voda",
+          "label_da": "Flydende og trædende vand"
+        },
+        {
+          "id": "dive",
+          "label_en": "Diving into shallow water",
+          "label_de": "Eintauchen in seichtes Wasser",
+          "label_it": "Immersioni in acque poco profonde",
+          "label_fr": "Plonger dans des eaux peu profondes",
+          "label_es": "Bucear en aguas poco profundas",
+          "label_hr": "Ronjenje u plitku vodu",
+          "label_cs": "Potápění do mělké vody",
+          "label_pl": "Nurkowanie w płytkiej wodzie",
+          "label_fi": "Sukellus matalaan veteen",
+          "label_sk": "Potápanie do plytkej vody",
+          "label_da": "Dykning i lavt vand"
+        },
+        {
+          "id": "hold",
+          "label_en": "Holding your breath forever",
+          "label_de": "Halten Sie den Atem für immer an",
+          "label_it": "Trattenendo il respiro per sempre",
+          "label_fr": "Retenir ton souffle pour toujours",
+          "label_es": "Conteniendo la respiración para siempre",
+          "label_hr": "Zauvijek zadržavajući dah",
+          "label_cs": "Zadržet dech navždy",
+          "label_pl": "Wstrzymaj oddech na zawsze",
+          "label_fi": "Hengityksen pidättäminen ikuisesti",
+          "label_sk": "Zadržať dych navždy",
+          "label_da": "Holder vejret for evigt"
+        }
+      ]
+    }
+  ]
+}

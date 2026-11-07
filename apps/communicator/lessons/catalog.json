@@ -43,6 +43,27 @@
       "title_da": "Maleri"
     },
     {
+      "id": "swimming",
+      "category_id": "activities",
+      "symbol_id": "swimming",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/swimming/swimming_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/swimming/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2296600,
+      "version": 1,
+      "title_en": "Swimming",
+      "title_de": "Baden",
+      "title_it": "Nuoto",
+      "title_fr": "Natation",
+      "title_es": "Nadar",
+      "title_hr": "Plivanje",
+      "title_cs": "Plavání",
+      "title_pl": "Pływacki",
+      "title_fi": "Uima",
+      "title_sk": "Plávanie",
+      "title_da": "Svømning"
+    },
+    {
       "id": "bear",
       "category_id": "animals",
       "symbol_id": "bear",
