@@ -1,0 +1,293 @@
+{
+  "id": "volcano",
+  "category_id": "nature",
+  "symbol_id": "volcano",
+  "thumbnail": "volcano_thumb.webp",
+  "title_en": "Volcanoes",
+  "title_de": "Vulkane",
+  "title_it": "Vulcani",
+  "title_fr": "Volcans",
+  "title_es": "Volcanes",
+  "title_hr": "Vulkani",
+  "title_cs": "Sopky",
+  "title_pl": "Wulkany",
+  "title_fi": "Tulivuoret",
+  "title_sk": "Sopky",
+  "title_da": "Vulkaner",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about volcanoes. A volcano is a mountain with an opening that can let hot rock, ash, and gas escape from deep inside the Earth.",
+      "script_de": "Heute lernen wir etwas über Vulkane. Ein Vulkan ist ein Berg mit einer Öffnung, durch die heißes Gestein, Asche und Gas tief aus dem Erdinneren entweichen können.",
+      "script_it": "Oggi parleremo dei vulcani. Un vulcano è una montagna con un'apertura che può far fuoriuscire roccia calda, cenere e gas dalle profondità della Terra.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur les volcans. Un volcan est une montagne avec une ouverture qui peut laisser échapper des roches chaudes, des cendres et des gaz des profondeurs de la Terre.",
+      "script_es": "Hoy vamos a aprender sobre los volcanes. Un volcán es una montaña con una abertura que puede dejar escapar rocas calientes, cenizas y gases desde las profundidades de la Tierra.",
+      "script_hr": "Danas ćemo učiti o vulkanima. Vulkan je planina s otvorom koji može pustiti vruće kamenje, pepeo i plin da pobjegnu iz dubine Zemlje.",
+      "script_cs": "Dnes se budeme učit o sopkách. Sopka je hora s otvorem, který může nechat žhavý kámen, popel a plyn uniknout z hlubin Země.",
+      "script_pl": "Dziś będziemy uczyć się o wulkanach. Wulkan to góra z otworem, przez który gorące skały, popiół i gaz mogą wydostać się z głębi Ziemi.",
+      "script_fi": "Tänään opimme tulivuorista. Tulivuori on vuori, jonka aukko voi päästää kuuman kiven, tuhkan ja kaasun karkaamaan syvältä maan sisältä.",
+      "script_sk": "Dnes sa budeme učiť o sopkách. Sopka je hora s otvorom, ktorý môže nechať horúci kameň, popol a plyn uniknúť hlboko z vnútra Zeme.",
+      "script_da": "I dag skal vi lære om vulkaner. En vulkan er et bjerg med en åbning, der kan lade varme sten, aske og gas slippe ud dybt inde i Jorden.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "inside",
+      "script_en": "Under a volcano, melted rock called magma collects in a chamber. Pressure pushes it up through a channel called a vent. When it reaches the surface, it is called lava.",
+      "script_de": "Unter einem Vulkan sammelt sich geschmolzenes Gestein, Magma genannt, in einer Kammer. Der Druck drückt es durch einen Kanal, der als Entlüftung bezeichnet wird, nach oben. Wenn es die Oberfläche erreicht, wird es Lava genannt.",
+      "script_it": "Sotto un vulcano, la roccia fusa chiamata magma si raccoglie in una camera. La pressione lo spinge verso l'alto attraverso un canale chiamato sfiato. Quando raggiunge la superficie prende il nome di lava.",
+      "script_fr": "Sous un volcan, une roche fondue appelée magma s'accumule dans une chambre. La pression le pousse vers le haut à travers un canal appelé évent. Lorsqu’elle atteint la surface, on parle de lave.",
+      "script_es": "Debajo de un volcán, la roca derretida llamada magma se acumula en una cámara. La presión lo empuja hacia arriba a través de un canal llamado respiradero. Cuando llega a la superficie se llama lava.",
+      "script_hr": "Ispod vulkana rastopljeno kamenje koje se naziva magma skuplja se u komori. Tlak ga gura prema gore kroz kanal koji se naziva otvor. Kada dospije na površinu, naziva se lava.",
+      "script_cs": "Pod sopkou se v komoře shromažďuje roztavená hornina zvaná magma. Tlak jej tlačí nahoru kanálem zvaným ventilační otvor. Když se dostane na povrch, nazývá se láva.",
+      "script_pl": "Pod wulkanem w komorze gromadzi się stopiona skała zwana magmą. Ciśnienie wypycha go do góry przez kanał zwany otworem wentylacyjnym. Kiedy dotrze na powierzchnię, nazywa się ją lawą.",
+      "script_fi": "Tulivuoren alla sulanut kivi, nimeltään magma, kerääntyy kammioon. Paine työntää sen ylös kanavan läpi, jota kutsutaan tuuletusaukoksi. Kun se saavuttaa pinnan, sitä kutsutaan laavaksi.",
+      "script_sk": "Pod sopkou sa v komore zhromažďuje roztavená hornina nazývaná magma. Tlak ho tlačí nahor cez kanál nazývaný vetrací otvor. Keď sa dostane na povrch, nazýva sa láva.",
+      "script_da": "Under en vulkan samler smeltet sten kaldet magma sig i et kammer. Tryk skubber det op gennem en kanal kaldet en udluftning. Når det når overfladen, kaldes det lava.",
+      "images": [
+        "inside.webp",
+        "inside_2.webp",
+        "inside_3.webp"
+      ]
+    },
+    {
+      "id": "eruption",
+      "script_en": "Some eruptions are slow, with lava flowing like a thick river. Others are explosive, shooting ash and rock high into the sky. The type of eruption depends on the magma and the gases inside it.",
+      "script_de": "Einige Eruptionen verlaufen langsam, wobei die Lava wie ein dicker Fluss fließt. Andere sind explosiv und schießen Asche und Gestein hoch in den Himmel. Die Art der Eruption hängt vom Magma und den darin enthaltenen Gasen ab.",
+      "script_it": "Alcune eruzioni sono lente, con la lava che scorre come un grosso fiume. Altri sono esplosivi e sparano cenere e rocce in alto nel cielo. Il tipo di eruzione dipende dal magma e dai gas al suo interno.",
+      "script_fr": "Certaines éruptions sont lentes, avec de la lave coulant comme une rivière épaisse. D’autres sont explosifs, projetant des cendres et des roches haut dans le ciel. Le type d'éruption dépend du magma et des gaz qu'il contient.",
+      "script_es": "Algunas erupciones son lentas y la lava fluye como un río espeso. Otros son explosivos y lanzan cenizas y rocas hacia el cielo. El tipo de erupción depende del magma y de los gases que contiene.",
+      "script_hr": "Neke su erupcije spore, a lava teče poput guste rijeke. Drugi su eksplozivni, bacaju pepeo i kamen visoko u nebo. Vrsta erupcije ovisi o magmi i plinovima u njoj.",
+      "script_cs": "Některé erupce jsou pomalé, láva teče jako hustá řeka. Jiné jsou výbušné, vystřelují popel a skály vysoko do nebe. Typ erupce závisí na magmatu a plynech v něm.",
+      "script_pl": "Niektóre erupcje są powolne, a lawa płynie jak gęsta rzeka. Inne są wybuchowe, wyrzucając popiół i skały wysoko w niebo. Rodzaj erupcji zależy od magmy i znajdujących się w niej gazów.",
+      "script_fi": "Jotkut purkaukset ovat hitaita, ja laava virtaa kuin paksu joki. Toiset ovat räjähtäviä ja ampuvat tuhkaa ja kiveä korkealle taivaalle. Purkauksen tyyppi riippuu magmasta ja sen sisällä olevista kaasuista.",
+      "script_sk": "Niektoré erupcie sú pomalé, láva tečie ako hustá rieka. Iné sú výbušné, vystreľujú popol a skaly vysoko do neba. Typ erupcie závisí od magmy a plynov v nej.",
+      "script_da": "Nogle udbrud er langsomme, med lava, der flyder som en tyk flod. Andre er eksplosive, skyder aske og sten højt op i himlen. Typen af ​​udbrud afhænger af magmaen og gasserne inde i den.",
+      "images": [
+        "eruption.webp",
+        "eruption_2.webp",
+        "eruption_3.webp"
+      ]
+    },
+    {
+      "id": "help",
+      "script_en": "Volcanic ash can break down into very rich soil, which helps farms grow. Volcanoes also create hot springs and geothermal energy. People have lived near volcanoes for thousands of years.",
+      "script_de": "Vulkanasche kann zu sehr nährstoffreichem Boden zerfallen, der landwirtschaftlichen Betrieben beim Wachstum hilft. Vulkane erzeugen auch heiße Quellen und geothermische Energie. Seit Jahrtausenden leben Menschen in der Nähe von Vulkanen.",
+      "script_it": "La cenere vulcanica può scomporsi in un terreno molto ricco, che aiuta le aziende agricole a crescere. I vulcani creano anche sorgenti termali ed energia geotermica. Le persone vivono vicino ai vulcani da migliaia di anni.",
+      "script_fr": "Les cendres volcaniques peuvent se décomposer en un sol très riche, ce qui favorise la croissance des fermes. Les volcans créent également des sources chaudes et de l'énergie géothermique. Les gens vivent à proximité des volcans depuis des milliers d’années.",
+      "script_es": "La ceniza volcánica puede descomponerse y formar un suelo muy rico, lo que ayuda a que las granjas crezcan. Los volcanes también crean fuentes termales y energía geotérmica. La gente ha vivido cerca de volcanes durante miles de años.",
+      "script_hr": "Vulkanski pepeo može se razgraditi u vrlo bogato tlo, što pomaže rastu farmi. Vulkani također stvaraju vruće izvore i geotermalnu energiju. Ljudi su živjeli u blizini vulkana tisućama godina.",
+      "script_cs": "Sopečný popel se může rozložit na velmi bohatou půdu, což pomáhá farmám růst. Sopky také vytvářejí horké prameny a geotermální energii. Lidé žili v blízkosti sopek po tisíce let.",
+      "script_pl": "Popiół wulkaniczny może rozpaść się, tworząc bardzo bogatą glebę, co pomaga w rozwoju gospodarstw. Wulkany wytwarzają także gorące źródła i energię geotermalną. Ludzie żyli w pobliżu wulkanów od tysięcy lat.",
+      "script_fi": "Vulkaaninen tuhka voi hajota erittäin rikkaaksi maaperäksi, mikä auttaa maatiloja kasvamaan. Tulivuoret tuottavat myös kuumia lähteitä ja geotermistä energiaa. Ihmiset ovat asuneet lähellä tulivuoria tuhansia vuosia.",
+      "script_sk": "Sopečný popol sa môže rozložiť na veľmi bohatú pôdu, čo pomáha farmám rásť. Sopky tiež vytvárajú horúce pramene a geotermálnu energiu. Ľudia žili v blízkosti sopiek už tisíce rokov.",
+      "script_da": "Vulkanaske kan nedbrydes til meget rig jord, hvilket hjælper gårde med at vokse. Vulkaner skaber også varme kilder og geotermisk energi. Folk har boet i nærheden af ​​vulkaner i tusinder af år.",
+      "images": [
+        "help.webp",
+        "help_2.webp",
+        "help_3.webp"
+      ]
+    },
+    {
+      "id": "today",
+      "script_en": "Today scientists use sensors, cameras, and satellites to watch volcanoes. They warn nearby towns when an eruption might happen. If a volcano becomes dangerous, people may need to evacuate.",
+      "script_de": "Heute nutzen Wissenschaftler Sensoren, Kameras und Satelliten, um Vulkane zu beobachten. Sie warnen nahegelegene Städte, wenn es zu einem Ausbruch kommen könnte. Wenn ein Vulkan gefährlich wird, müssen Menschen möglicherweise evakuiert werden.",
+      "script_it": "Oggi gli scienziati utilizzano sensori, telecamere e satelliti per osservare i vulcani. Avvertono le città vicine quando potrebbe verificarsi un'eruzione. Se un vulcano diventa pericoloso, le persone potrebbero dover evacuare.",
+      "script_fr": "Aujourd’hui, les scientifiques utilisent des capteurs, des caméras et des satellites pour observer les volcans. Ils préviennent les villes voisines lorsqu'une éruption pourrait se produire. Si un volcan devient dangereux, les gens devront peut-être évacuer.",
+      "script_es": "Hoy en día, los científicos utilizan sensores, cámaras y satélites para observar los volcanes. Advierten a los pueblos cercanos cuando podría ocurrir una erupción. Si un volcán se vuelve peligroso, es posible que las personas deban evacuar.",
+      "script_hr": "Danas znanstvenici koriste senzore, kamere i satelite za promatranje vulkana. Oni upozoravaju obližnje gradove kada bi mogla doći do erupcije. Ako vulkan postane opasan, ljudi će se možda morati evakuirati.",
+      "script_cs": "Dnes vědci používají senzory, kamery a satelity ke sledování sopek. Varují okolní města, když by mohlo dojít k erupci. Pokud se sopka stane nebezpečnou, lidé se možná budou muset evakuovat.",
+      "script_pl": "Obecnie naukowcy używają czujników, kamer i satelitów do obserwacji wulkanów. Ostrzegają pobliskie miasta, gdy może nastąpić erupcja. Jeśli wulkan stanie się niebezpieczny, ludzie będą musieli się ewakuować.",
+      "script_fi": "Nykyään tutkijat käyttävät antureita, kameroita ja satelliitteja seuratakseen tulivuoria. He varoittavat lähikaupunkeja, kun purkaukset voivat tapahtua. Jos tulivuoresta tulee vaarallinen, ihmisten on ehkä evakuoitava.",
+      "script_sk": "Dnes vedci používajú senzory, kamery a satelity na sledovanie sopiek. Varujú okolité mestá, keď môže dôjsť k erupcii. Ak sa sopka stane nebezpečnou, ľudia sa možno budú musieť evakuovať.",
+      "script_da": "I dag bruger forskere sensorer, kameraer og satellitter til at se vulkaner. De advarer nærliggende byer, når et udbrud kan ske. Hvis en vulkan bliver farlig, kan folk blive nødt til at evakuere.",
+      "images": [
+        "today.webp",
+        "today_2.webp",
+        "today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "lava",
+      "correct": "lava",
+      "question_en": "What is melted rock called when it reaches the surface?",
+      "question_de": "Wie nennt man geschmolzenes Gestein, wenn es die Oberfläche erreicht?",
+      "question_it": "Come si chiama la roccia fusa quando raggiunge la superficie?",
+      "question_fr": "Comment s’appelle la roche fondue lorsqu’elle atteint la surface ?",
+      "question_es": "¿Cómo se llama la roca derretida cuando llega a la superficie?",
+      "question_hr": "Kako se naziva otopljena stijena kada dospije na površinu?",
+      "question_cs": "Jak se nazývá roztavená hornina, když dosáhne povrchu?",
+      "question_pl": "Jak nazywa się stopiona skała, gdy dotrze na powierzchnię?",
+      "question_fi": "Mitä kutsutaan sulaksi kiveksi, kun se saavuttaa pinnan?",
+      "question_sk": "Ako sa nazýva roztavená hornina, keď dosiahne povrch?",
+      "question_da": "Hvad kaldes smeltet sten, når den når overfladen?",
+      "options": [
+        {
+          "id": "lava",
+          "label_en": "Lava",
+          "label_de": "Lava",
+          "label_it": "Lava",
+          "label_fr": "Lave",
+          "label_es": "Lava",
+          "label_hr": "Lava",
+          "label_cs": "Láva",
+          "label_pl": "Lawa",
+          "label_fi": "Laava",
+          "label_sk": "Láva",
+          "label_da": "Lava"
+        },
+        {
+          "id": "magma",
+          "label_en": "Magma",
+          "label_de": "Magma",
+          "label_it": "Magma",
+          "label_fr": "Magma",
+          "label_es": "Magma",
+          "label_hr": "Magma",
+          "label_cs": "Magma",
+          "label_pl": "Magma",
+          "label_fi": "Magma",
+          "label_sk": "Magma",
+          "label_da": "Magma"
+        },
+        {
+          "id": "ash",
+          "label_en": "Ash",
+          "label_de": "Asche",
+          "label_it": "Cenere",
+          "label_fr": "Cendre",
+          "label_es": "Ceniza",
+          "label_hr": "Pepeo",
+          "label_cs": "Popel",
+          "label_pl": "Popiół",
+          "label_fi": "Tuhka",
+          "label_sk": "Ash",
+          "label_da": "Aske"
+        }
+      ]
+    },
+    {
+      "id": "inside",
+      "correct": "magma",
+      "question_en": "What is melted rock underground called?",
+      "question_de": "Wie nennt man geschmolzenes Gestein im Untergrund?",
+      "question_it": "Come si chiama la roccia fusa nel sottosuolo?",
+      "question_fr": "Comment s’appelle la roche fondue sous terre ?",
+      "question_es": "¿Cómo se llama la roca derretida bajo tierra?",
+      "question_hr": "Kako se naziva otopljena stijena pod zemljom?",
+      "question_cs": "Jak se nazývá roztavená hornina v podzemí?",
+      "question_pl": "Jak nazywa się stopiona skała pod ziemią?",
+      "question_fi": "Mitä kutsutaan maan alla olevaksi sulaksi kiveksi?",
+      "question_sk": "Ako sa nazýva roztopená hornina v podzemí?",
+      "question_da": "Hvad kaldes smeltet sten under jorden?",
+      "options": [
+        {
+          "id": "magma",
+          "label_en": "Magma",
+          "label_de": "Magma",
+          "label_it": "Magma",
+          "label_fr": "Magma",
+          "label_es": "Magma",
+          "label_hr": "Magma",
+          "label_cs": "Magma",
+          "label_pl": "Magma",
+          "label_fi": "Magma",
+          "label_sk": "Magma",
+          "label_da": "Magma"
+        },
+        {
+          "id": "lava",
+          "label_en": "Lava",
+          "label_de": "Lava",
+          "label_it": "Lava",
+          "label_fr": "Lave",
+          "label_es": "Lava",
+          "label_hr": "Lava",
+          "label_cs": "Láva",
+          "label_pl": "Lawa",
+          "label_fi": "Laava",
+          "label_sk": "Láva",
+          "label_da": "Lava"
+        },
+        {
+          "id": "soil",
+          "label_en": "Soil",
+          "label_de": "Boden",
+          "label_it": "Suolo",
+          "label_fr": "Sol",
+          "label_es": "Suelo",
+          "label_hr": "Tlo",
+          "label_cs": "Půda",
+          "label_pl": "Gleba",
+          "label_fi": "Maaperä",
+          "label_sk": "Pôda",
+          "label_da": "Jord"
+        }
+      ]
+    },
+    {
+      "id": "soil",
+      "correct": "soil",
+      "question_en": "How can volcanoes help farmers?",
+      "question_de": "Wie können Vulkane den Landwirten helfen?",
+      "question_it": "In che modo i vulcani possono aiutare gli agricoltori?",
+      "question_fr": "Comment les volcans peuvent-ils aider les agriculteurs ?",
+      "question_es": "¿Cómo pueden los volcanes ayudar a los agricultores?",
+      "question_hr": "Kako vulkani mogu pomoći poljoprivrednicima?",
+      "question_cs": "Jak mohou sopky pomoci zemědělcům?",
+      "question_pl": "W jaki sposób wulkany mogą pomóc rolnikom?",
+      "question_fi": "Kuinka tulivuoret voivat auttaa maanviljelijöitä?",
+      "question_sk": "Ako môžu sopky pomôcť farmárom?",
+      "question_da": "Hvordan kan vulkaner hjælpe landmænd?",
+      "options": [
+        {
+          "id": "soil",
+          "label_en": "They create rich soil",
+          "label_de": "Sie schaffen nährstoffreichen Boden",
+          "label_it": "Creano un terreno ricco",
+          "label_fr": "Ils créent un sol riche",
+          "label_es": "Crean suelo rico",
+          "label_hr": "Oni stvaraju bogato tlo",
+          "label_cs": "Vytvářejí bohatou půdu",
+          "label_pl": "Tworzą bogatą glebę",
+          "label_fi": "Ne luovat rikkaan maaperän",
+          "label_sk": "Vytvárajú bohatú pôdu",
+          "label_da": "De skaber rig jord"
+        },
+        {
+          "id": "rain",
+          "label_en": "They stop all rain",
+          "label_de": "Sie stoppen jeglichen Regen",
+          "label_it": "Fermano tutta la pioggia",
+          "label_fr": "Ils arrêtent toute pluie",
+          "label_es": "Detienen toda lluvia",
+          "label_hr": "Zaustavljaju svaku kišu",
+          "label_cs": "Zastaví veškerý déšť",
+          "label_pl": "Zatrzymują wszelki deszcz",
+          "label_fi": "Ne pysäyttävät kaiken sateen",
+          "label_sk": "Zastavia každý dážď",
+          "label_da": "De stopper al regn"
+        },
+        {
+          "id": "cold",
+          "label_en": "They make the land colder",
+          "label_de": "Sie machen das Land kälter",
+          "label_it": "Rendono la terra più fredda",
+          "label_fr": "Ils rendent la terre plus froide",
+          "label_es": "Hacen que la tierra sea más fría",
+          "label_hr": "Čine zemlju hladnijom",
+          "label_cs": "Dělají zemi chladnější",
+          "label_pl": "Sprawiają, że ziemia staje się zimniejsza",
+          "label_fi": "Ne tekevät maasta kylmemmän",
+          "label_sk": "Robia krajinu chladnejšou",
+          "label_da": "De gør landet koldere"
+        }
+      ]
+    }
+  ]
+}

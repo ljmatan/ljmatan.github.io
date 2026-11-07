@@ -1072,6 +1072,27 @@
       "title_da": "Regnbuer"
     },
     {
+      "id": "volcano",
+      "category_id": "nature",
+      "symbol_id": "volcano",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/volcano/volcano_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/volcano/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2818767,
+      "version": 1,
+      "title_en": "Volcanoes",
+      "title_de": "Vulkane",
+      "title_it": "Vulcani",
+      "title_fr": "Volcans",
+      "title_es": "Volcanes",
+      "title_hr": "Vulkani",
+      "title_cs": "Sopky",
+      "title_pl": "Wulkany",
+      "title_fi": "Tulivuoret",
+      "title_sk": "Sopky",
+      "title_da": "Vulkaner"
+    },
+    {
       "id": "earth",
       "category_id": "planets",
       "symbol_id": "earth",
