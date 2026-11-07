@@ -1408,6 +1408,27 @@
       "title_da": "Saturn"
     },
     {
+      "id": "alphabet",
+      "category_id": "school",
+      "symbol_id": "alphabet",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/alphabet/alphabet_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/alphabet/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2670522,
+      "version": 1,
+      "title_en": "The Alphabet",
+      "title_de": "Das Alphabet",
+      "title_it": "L'alfabeto",
+      "title_fr": "L'alphabet",
+      "title_es": "El Alfabeto",
+      "title_hr": "Abeceda",
+      "title_cs": "Abeceda",
+      "title_pl": "Alfabet",
+      "title_fi": "Aakkoset",
+      "title_sk": "Abeceda",
+      "title_da": "Alfabetet"
+    },
+    {
       "id": "backpack",
       "category_id": "school",
       "symbol_id": "backpack",
