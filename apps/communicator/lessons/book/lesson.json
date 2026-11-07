@@ -1,0 +1,293 @@
+{
+  "id": "book",
+  "category_id": "school",
+  "symbol_id": "book",
+  "thumbnail": "book_thumb.webp",
+  "title_en": "Books",
+  "title_de": "Bücher",
+  "title_it": "Libri",
+  "title_fr": "Livres",
+  "title_es": "Libros",
+  "title_hr": "knjige",
+  "title_cs": "knihy",
+  "title_pl": "Książki",
+  "title_fi": "Kirjat",
+  "title_sk": "knihy",
+  "title_da": "Bøger",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about books. A book is a set of pages held together by a cover. Books can tell stories, teach facts, share poems, or show beautiful pictures.",
+      "script_de": "Heute werden wir etwas über Bücher lernen. Ein Buch besteht aus einer Reihe von Seiten, die durch einen Einband zusammengehalten werden. Bücher können Geschichten erzählen, Fakten vermitteln, Gedichte teilen oder schöne Bilder zeigen.",
+      "script_it": "Oggi parleremo dei libri. Un libro è un insieme di pagine tenute insieme da una copertina. I libri possono raccontare storie, insegnare fatti, condividere poesie o mostrare bellissime immagini.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur les livres. Un livre est un ensemble de pages reliées par une couverture. Les livres peuvent raconter des histoires, enseigner des faits, partager des poèmes ou montrer de belles images.",
+      "script_es": "Hoy vamos a aprender sobre libros. Un libro es un conjunto de páginas unidas por una cubierta. Los libros pueden contar historias, enseñar hechos, compartir poemas o mostrar bellas imágenes.",
+      "script_hr": "Danas ćemo učiti o knjigama. Knjiga je skup stranica spojenih koricama. Knjige mogu pričati priče, podučavati činjenice, dijeliti pjesme ili prikazivati ​​prekrasne slike.",
+      "script_cs": "Dnes se budeme učit o knihách. Kniha je soubor stránek, které drží pohromadě přebal. Knihy mohou vyprávět příběhy, učit fakta, sdílet básně nebo zobrazovat krásné obrázky.",
+      "script_pl": "Dziś będziemy uczyć się o książkach. Książka to zbiór stron połączonych ze sobą okładką. Książki mogą opowiadać historie, uczyć faktów, dzielić się wierszami lub pokazywać piękne obrazy.",
+      "script_fi": "Tänään opimme kirjoista. Kirja on joukko sivuja, joita kansi pitää yhdessä. Kirjat voivat kertoa tarinoita, opettaa tosiasioita, jakaa runoja tai näyttää kauniita kuvia.",
+      "script_sk": "Dnes sa budeme učiť o knihách. Kniha je súbor strán, ktoré drží pohromade obal. Knihy môžu rozprávať príbehy, učiť fakty, zdieľať básne alebo zobrazovať krásne obrázky.",
+      "script_da": "I dag skal vi lære om bøger. En bog er et sæt sider, der holdes sammen af ​​et omslag. Bøger kan fortælle historier, lære fakta, dele digte eller vise smukke billeder.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "parts",
+      "script_en": "The cover protects the pages and shows the title. The spine holds the book together and usually shows the title too. Pages can be made of paper or shown on a screen.",
+      "script_de": "Der Einband schützt die Seiten und zeigt den Titel. Der Buchrücken hält das Buch zusammen und zeigt meist auch den Titel. Seiten können aus Papier bestehen oder auf einem Bildschirm angezeigt werden.",
+      "script_it": "La copertina protegge le pagine e mostra il titolo. Il dorso tiene insieme il libro e di solito mostra anche il titolo. Le pagine possono essere fatte di carta o visualizzate su uno schermo.",
+      "script_fr": "La couverture protège les pages et montre le titre. Le dos maintient le livre ensemble et montre généralement également le titre. Les pages peuvent être en papier ou affichées sur un écran.",
+      "script_es": "La portada protege las páginas y muestra el título. El lomo mantiene unido el libro y normalmente también muestra el título. Las páginas pueden estar hechas de papel o mostrarse en una pantalla.",
+      "script_hr": "Omot štiti stranice i prikazuje naslov. Hrbat drži knjigu na okupu i obično prikazuje i naslov. Stranice mogu biti izrađene od papira ili prikazane na ekranu.",
+      "script_cs": "Obálka chrání stránky a zobrazuje název. Hřbet drží knihu pohromadě a obvykle zobrazuje i název. Stránky mohou být vyrobeny z papíru nebo zobrazeny na obrazovce.",
+      "script_pl": "Okładka chroni strony i pokazuje tytuł. Grzbiet spaja książkę i zwykle pokazuje także tytuł. Strony mogą być wykonane z papieru lub pokazane na ekranie.",
+      "script_fi": "Kansi suojaa sivuja ja näyttää otsikon. Selkä pitää kirjan koossa ja näyttää yleensä myös otsikon. Sivut voidaan tehdä paperista tai näyttää näytöllä.",
+      "script_sk": "Obálka chráni strany a zobrazuje názov. Chrbát drží knihu pohromade a zvyčajne zobrazuje aj názov. Stránky môžu byť vyrobené z papiera alebo zobrazené na obrazovke.",
+      "script_da": "Omslaget beskytter siderne og viser titlen. Ryggen holder bogen sammen og viser normalt også titlen. Sider kan være lavet af papir eller vist på en skærm.",
+      "images": [
+        "parts.webp",
+        "parts_2.webp",
+        "parts_3.webp"
+      ]
+    },
+    {
+      "id": "types",
+      "script_en": "There are many kinds of books. Picture books combine words and art, chapter books tell longer stories, and fact books explain the world. Poetry books play with rhythm and sound.",
+      "script_de": "Es gibt viele Arten von Büchern. Bilderbücher kombinieren Worte und Kunst, Kapitelbücher erzählen längere Geschichten und Sachbücher erklären die Welt. Gedichtbände spielen mit Rhythmus und Klang.",
+      "script_it": "Esistono molti tipi di libri. I libri illustrati combinano parole e arte, i libri a capitoli raccontano storie più lunghe e i libri di fatto spiegano il mondo. I libri di poesie giocano con il ritmo e il suono.",
+      "script_fr": "Il existe de nombreux types de livres. Les livres d'images combinent les mots et l'art, les livres de chapitres racontent des histoires plus longues et les livres de faits expliquent le monde. Les livres de poésie jouent avec le rythme et le son.",
+      "script_es": "Hay muchos tipos de libros. Los libros ilustrados combinan palabras y arte, los libros de capítulos cuentan historias más largas y los libros de hechos explican el mundo. Los libros de poesía juegan con el ritmo y el sonido.",
+      "script_hr": "Postoji mnogo vrsta knjiga. Slikovnice kombiniraju riječi i umjetnost, knjige s poglavljima pričaju duže priče, a knjige s činjenicama objašnjavaju svijet. Knjige poezije igraju se ritmom i zvukom.",
+      "script_cs": "Existuje mnoho druhů knih. Obrázkové knihy kombinují slova a umění, kapitoly vyprávějí delší příběhy a knihy faktů vysvětlují svět. Knihy poezie si hrají s rytmem a zvukem.",
+      "script_pl": "Istnieje wiele rodzajów książek. Książki obrazkowe łączą słowa i sztukę, książki z rozdziałami opowiadają dłuższe historie, a książki oparte na faktach wyjaśniają świat. Książki poetyckie bawią się rytmem i dźwiękiem.",
+      "script_fi": "Kirjoja on monenlaisia. Kuvakirjoissa yhdistyvät sanat ja taide, lukukirjat kertovat pidempiä tarinoita ja faktakirjat selittävät maailmaa. Runokirjat leikkivät rytmillä ja äänellä.",
+      "script_sk": "Existuje veľa druhov kníh. Obrázkové knihy kombinujú slová a umenie, kapitoly rozprávajú dlhšie príbehy a knihy faktov vysvetľujú svet. Knihy poézie sa hrajú s rytmom a zvukom.",
+      "script_da": "Der findes mange slags bøger. Billedbøger kombinerer ord og kunst, kapitelbøger fortæller længere historier, og faktabøger forklarer verden. Digtbøger leger med rytme og lyd.",
+      "images": [
+        "types.webp",
+        "types_2.webp",
+        "types_3.webp"
+      ]
+    },
+    {
+      "id": "reading",
+      "script_en": "Reading takes us to new places without leaving home. It builds vocabulary, imagination, and empathy. Libraries lend books for free and help readers find their next favourite story.",
+      "script_de": "Lesen führt uns an neue Orte, ohne das Haus zu verlassen. Es baut Wortschatz, Vorstellungskraft und Empathie auf. Bibliotheken leihen kostenlos Bücher aus und helfen den Lesern, ihre nächste Lieblingsgeschichte zu finden.",
+      "script_it": "La lettura ci porta in posti nuovi senza uscire di casa. Costruisce il vocabolario, l’immaginazione e l’empatia. Le biblioteche prestano libri gratuitamente e aiutano i lettori a trovare la loro prossima storia preferita.",
+      "script_fr": "La lecture nous emmène vers de nouveaux endroits sans quitter la maison. Cela développe le vocabulaire, l’imagination et l’empathie. Les bibliothèques prêtent des livres gratuitement et aident les lecteurs à trouver leur prochaine histoire préférée.",
+      "script_es": "La lectura nos lleva a nuevos lugares sin salir de casa. Desarrolla vocabulario, imaginación y empatía. Las bibliotecas prestan libros gratis y ayudan a los lectores a encontrar su próxima historia favorita.",
+      "script_hr": "Čitanje nas vodi na nova mjesta bez napuštanja doma. Gradi vokabular, maštu i empatiju. Knjižnice besplatno posuđuju knjige i pomažu čitateljima pronaći svoju sljedeću omiljenu priču.",
+      "script_cs": "Čtení nás zavede na nová místa, aniž bychom opustili domov. Rozvíjí slovní zásobu, představivost a empatii. Knihovny půjčují knihy zdarma a pomáhají čtenářům najít jejich další oblíbený příběh.",
+      "script_pl": "Czytanie przenosi nas w nowe miejsca bez wychodzenia z domu. Rozwija słownictwo, wyobraźnię i empatię. Biblioteki bezpłatnie wypożyczają książki i pomagają czytelnikom znaleźć kolejną ulubioną historię.",
+      "script_fi": "Lukeminen vie meidät uusiin paikkoihin poistumatta kotoa. Se rakentaa sanastoa, mielikuvitusta ja empatiaa. Kirjastot lainaavat kirjoja ilmaiseksi ja auttavat lukijoita löytämään seuraavan suosikkitarinansa.",
+      "script_sk": "Čítanie nás zavedie na nové miesta bez toho, aby sme opustili domov. Buduje slovnú zásobu, predstavivosť a empatiu. Knižnice požičiavajú knihy zadarmo a pomáhajú čitateľom nájsť ich ďalší obľúbený príbeh.",
+      "script_da": "Læsning bringer os nye steder hen uden at forlade hjemmet. Det opbygger ordforråd, fantasi og empati. Biblioteker låner bøger gratis ud og hjælper læserne med at finde deres næste yndlingshistorie.",
+      "images": [
+        "reading.webp",
+        "reading_2.webp",
+        "reading_3.webp"
+      ]
+    },
+    {
+      "id": "care",
+      "script_en": "Books last longer when we care for them. Clean hands, a bookmark instead of a folded corner, and a dry shelf keep pages in good condition. Sharing a book with a friend is one of the best ways to enjoy it.",
+      "script_de": "Bücher halten länger, wenn wir sie pflegen. Saubere Hände, ein Lesezeichen anstelle einer gefalteten Ecke und ein trockenes Regal sorgen dafür, dass die Seiten in gutem Zustand bleiben. Ein Buch mit einem Freund zu teilen ist eine der besten Möglichkeiten, es zu genießen.",
+      "script_it": "I libri durano più a lungo se ce ne prendiamo cura. Mani pulite, un segnalibro invece di un angolo piegato e uno scaffale asciutto mantengono le pagine in buone condizioni. Condividere un libro con un amico è uno dei modi migliori per goderselo.",
+      "script_fr": "Les livres durent plus longtemps lorsque nous en prenons soin. Des mains propres, un marque-page au lieu d'un coin plié et une étagère sèche maintiennent les pages en bon état. Partager un livre avec un ami est l’une des meilleures façons d’en profiter.",
+      "script_es": "Los libros duran más cuando los cuidamos. Las manos limpias, un marcapáginas en lugar de una esquina doblada y un estante seco mantienen las páginas en buenas condiciones. Compartir un libro con un amigo es una de las mejores formas de disfrutarlo.",
+      "script_hr": "Knjige traju duže kada se brinemo o njima. Čiste ruke, knjižna oznaka umjesto presavijenog kuta i suha polica održavaju stranice u dobrom stanju. Dijeljenje knjige s prijateljem jedan je od najboljih načina da uživate u njoj.",
+      "script_cs": "Knihy vydrží déle, když se o ně staráme. Čisté ruce, záložka místo složeného rohu a suchá police udrží stránky v dobrém stavu. Sdílení knihy s přítelem je jedním z nejlepších způsobů, jak si ji užít.",
+      "script_pl": "Książki służą dłużej, jeśli o nie dbamy. Czyste ręce, zakładka zamiast zagiętego rogu i sucha półka pozwalają zachować strony w dobrym stanie. Dzielenie się książką z przyjacielem to jeden z najlepszych sposobów na czerpanie z niej przyjemności.",
+      "script_fi": "Kirjat kestävät pidempään, kun pidämme niistä huolta. Puhtaat kädet, kirjanmerkki taitetun kulman sijaan ja kuiva hylly pitävät sivut hyvässä kunnossa. Kirjan jakaminen ystävän kanssa on yksi parhaista tavoista nauttia siitä.",
+      "script_sk": "Knihy vydržia dlhšie, keď sa o ne staráme. Čisté ruky, záložka namiesto zloženého rohu a suchá polica udržujú stránky v dobrom stave. Zdieľanie knihy s priateľom je jedným z najlepších spôsobov, ako si ju užiť.",
+      "script_da": "Bøger holder længere, når vi passer på dem. Rene hænder, et bogmærke i stedet for et foldet hjørne og en tør hylde holder siderne i god stand. At dele en bog med en ven er en af ​​de bedste måder at nyde den på.",
+      "images": [
+        "care.webp",
+        "care_2.webp",
+        "care_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "pages",
+      "correct": "pages",
+      "question_en": "What is inside a book?",
+      "question_de": "Was ist in einem Buch?",
+      "question_it": "Cosa c'è dentro un libro?",
+      "question_fr": "Qu’y a-t-il à l’intérieur d’un livre ?",
+      "question_es": "¿Qué hay dentro de un libro?",
+      "question_hr": "Što je unutar knjige?",
+      "question_cs": "Co je uvnitř knihy?",
+      "question_pl": "Co kryje się w książce?",
+      "question_fi": "Mitä kirjan sisällä on?",
+      "question_sk": "Čo je vo vnútri knihy?",
+      "question_da": "Hvad er der inde i en bog?",
+      "options": [
+        {
+          "id": "pages",
+          "label_en": "Pages",
+          "label_de": "Seiten",
+          "label_it": "Pagine",
+          "label_fr": "Pages",
+          "label_es": "paginas",
+          "label_hr": "Stranice",
+          "label_cs": "Stránky",
+          "label_pl": "Strony",
+          "label_fi": "Sivut",
+          "label_sk": "Stránky",
+          "label_da": "Sider"
+        },
+        {
+          "id": "wheels",
+          "label_en": "Wheels",
+          "label_de": "Räder",
+          "label_it": "Ruote",
+          "label_fr": "Roues",
+          "label_es": "Ruedas",
+          "label_hr": "Kotači",
+          "label_cs": "Kola",
+          "label_pl": "Koła",
+          "label_fi": "Pyörät",
+          "label_sk": "Kolesá",
+          "label_da": "Hjul"
+        },
+        {
+          "id": "batteries",
+          "label_en": "Batteries",
+          "label_de": "Batterien",
+          "label_it": "Batterie",
+          "label_fr": "Piles",
+          "label_es": "Baterías",
+          "label_hr": "Baterije",
+          "label_cs": "Baterie",
+          "label_pl": "Baterie",
+          "label_fi": "Paristot",
+          "label_sk": "Batérie",
+          "label_da": "Batterier"
+        }
+      ]
+    },
+    {
+      "id": "spine",
+      "correct": "spine",
+      "question_en": "What holds the pages together?",
+      "question_de": "Was hält die Seiten zusammen?",
+      "question_it": "Cosa tiene insieme le pagine?",
+      "question_fr": "Qu’est-ce qui maintient les pages ensemble ?",
+      "question_es": "¿Qué mantiene unidas las páginas?",
+      "question_hr": "Što drži stranice zajedno?",
+      "question_cs": "Co drží stránky pohromadě?",
+      "question_pl": "Co spaja strony?",
+      "question_fi": "Mikä pitää sivut yhdessä?",
+      "question_sk": "Čo drží stránky pohromade?",
+      "question_da": "Hvad holder siderne sammen?",
+      "options": [
+        {
+          "id": "spine",
+          "label_en": "The spine",
+          "label_de": "Die Wirbelsäule",
+          "label_it": "La colonna vertebrale",
+          "label_fr": "La colonne vertébrale",
+          "label_es": "la columna vertebral",
+          "label_hr": "Kralježnica",
+          "label_cs": "Páteř",
+          "label_pl": "Kręgosłup",
+          "label_fi": "Selkäranka",
+          "label_sk": "Chrbtica",
+          "label_da": "Rygsøjlen"
+        },
+        {
+          "id": "cover",
+          "label_en": "The cover only",
+          "label_de": "Nur die Hülle",
+          "label_it": "Solo la copertina",
+          "label_fr": "La couverture seulement",
+          "label_es": "solo la portada",
+          "label_hr": "Samo omot",
+          "label_cs": "Pouze kryt",
+          "label_pl": "Tylko okładka",
+          "label_fi": "Vain kansi",
+          "label_sk": "Iba obal",
+          "label_da": "Kun omslaget"
+        },
+        {
+          "id": "bookmark",
+          "label_en": "The bookmark",
+          "label_de": "Das Lesezeichen",
+          "label_it": "Il segnalibro",
+          "label_fr": "Le marque-page",
+          "label_es": "el marcador",
+          "label_hr": "Knjižna oznaka",
+          "label_cs": "Záložka",
+          "label_pl": "Zakładka",
+          "label_fi": "Kirjanmerkki",
+          "label_sk": "Záložka",
+          "label_da": "Bogmærket"
+        }
+      ]
+    },
+    {
+      "id": "library",
+      "correct": "library",
+      "question_en": "Where can you borrow books for free?",
+      "question_de": "Wo kann man kostenlos Bücher ausleihen?",
+      "question_it": "Dove puoi prendere in prestito i libri gratuitamente?",
+      "question_fr": "Où peut-on emprunter des livres gratuitement ?",
+      "question_es": "¿Dónde puedes pedir prestados libros gratis?",
+      "question_hr": "Gdje se mogu besplatno posuditi knjige?",
+      "question_cs": "Kde si můžete půjčit knihy zdarma?",
+      "question_pl": "Gdzie można bezpłatnie wypożyczyć książki?",
+      "question_fi": "Mistä voi lainata kirjoja ilmaiseksi?",
+      "question_sk": "Kde si môžete požičať knihy zadarmo?",
+      "question_da": "Hvor kan man låne bøger gratis?",
+      "options": [
+        {
+          "id": "library",
+          "label_en": "A library",
+          "label_de": "Eine Bibliothek",
+          "label_it": "Una biblioteca",
+          "label_fr": "Une bibliothèque",
+          "label_es": "una biblioteca",
+          "label_hr": "Knjižnica",
+          "label_cs": "Knihovna",
+          "label_pl": "Biblioteka",
+          "label_fi": "Kirjasto",
+          "label_sk": "Knižnica",
+          "label_da": "Et bibliotek"
+        },
+        {
+          "id": "garage",
+          "label_en": "A garage",
+          "label_de": "Eine Garage",
+          "label_it": "Un garage",
+          "label_fr": "Un garage",
+          "label_es": "un garaje",
+          "label_hr": "Garaža",
+          "label_cs": "Garáž",
+          "label_pl": "Garaż",
+          "label_fi": "Autotalli",
+          "label_sk": "Garáž",
+          "label_da": "En garage"
+        },
+        {
+          "id": "bakery",
+          "label_en": "A bakery",
+          "label_de": "Eine Bäckerei",
+          "label_it": "Una panetteria",
+          "label_fr": "Une boulangerie",
+          "label_es": "una panadería",
+          "label_hr": "pekara",
+          "label_cs": "Pekárna",
+          "label_pl": "Piekarnia",
+          "label_fi": "Leipomo",
+          "label_sk": "Pekáreň",
+          "label_da": "Et bageri"
+        }
+      ]
+    }
+  ]
+}

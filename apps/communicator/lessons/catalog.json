@@ -1009,6 +1009,27 @@
       "title_da": "Saturn"
     },
     {
+      "id": "book",
+      "category_id": "school",
+      "symbol_id": "book",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/book/book_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/book/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2214932,
+      "version": 1,
+      "title_en": "Books",
+      "title_de": "Bücher",
+      "title_it": "Libri",
+      "title_fr": "Livres",
+      "title_es": "Libros",
+      "title_hr": "knjige",
+      "title_cs": "knihy",
+      "title_pl": "Książki",
+      "title_fi": "Kirjat",
+      "title_sk": "knihy",
+      "title_da": "Bøger"
+    },
+    {
       "id": "airplane",
       "category_id": "transport",
       "symbol_id": "airplane",
