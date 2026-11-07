@@ -1,0 +1,293 @@
+{
+  "id": "painting",
+  "category_id": "activities",
+  "symbol_id": "painting",
+  "thumbnail": "painting_thumb.webp",
+  "title_en": "Painting",
+  "title_de": "Malerei",
+  "title_it": "Pittura",
+  "title_fr": "Peinture",
+  "title_es": "Cuadro",
+  "title_hr": "Slika",
+  "title_cs": "Malování",
+  "title_pl": "Malarstwo",
+  "title_fi": "Maalaus",
+  "title_sk": "Maľovanie",
+  "title_da": "Maleri",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about painting. Painting is making pictures with coloured paint and a brush. People paint to share ideas, tell stories, and express feelings.",
+      "script_de": "Heute lernen wir etwas über Malerei. Beim Malen entstehen Bilder mit farbiger Farbe und einem Pinsel. Menschen malen, um Ideen auszutauschen, Geschichten zu erzählen und Gefühle auszudrücken.",
+      "script_it": "Oggi impareremo a dipingere. Dipingere significa creare immagini con vernice colorata e un pennello. Le persone dipingono per condividere idee, raccontare storie ed esprimere sentimenti.",
+      "script_fr": "Aujourd'hui, nous allons apprendre la peinture. Peindre, c'est réaliser des images avec de la peinture colorée et un pinceau. Les gens peignent pour partager des idées, raconter des histoires et exprimer des sentiments.",
+      "script_es": "Hoy vamos a aprender sobre pintura. Pintar es hacer dibujos con pintura de colores y un pincel. La gente pinta para compartir ideas, contar historias y expresar sentimientos.",
+      "script_hr": "Danas ćemo učiti o slikanju. Slikanje je pravljenje slika bojom u boji i kistom. Ljudi slikaju kako bi dijelili ideje, pričali priče i izražavali osjećaje.",
+      "script_cs": "Dnes se naučíme malovat. Malování je tvorba obrázků barevnou barvou a štětcem. Lidé malují, aby sdíleli nápady, vyprávěli příběhy a vyjadřovali pocity.",
+      "script_pl": "Dziś będziemy uczyć się o malarstwie. Malarstwo to wykonywanie obrazów za pomocą kolorowej farby i pędzla. Ludzie malują, aby dzielić się pomysłami, opowiadać historie i wyrażać uczucia.",
+      "script_fi": "Tänään opimme maalaamisesta. Maalaus on kuvien tekemistä värimaaleilla ja siveltimellä. Ihmiset maalaavat jakaakseen ideoita, kertoakseen tarinoita ja ilmaistakseen tunteita.",
+      "script_sk": "Dnes sa naučíme maľovať. Maľovanie je vytváranie obrázkov farebnou farbou a štetcom. Ľudia maľujú, aby zdieľali nápady, rozprávali príbehy a vyjadrovali pocity.",
+      "script_da": "I dag skal vi lære om maleri. At male er at lave billeder med farvet maling og en pensel. Folk maler for at dele ideer, fortælle historier og udtrykke følelser.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "tools",
+      "script_en": "Painters use brushes of different sizes, a palette for mixing colours, and paper or canvas. Water or oil helps the paint flow. Cleaning brushes after use keeps them soft for next time.",
+      "script_de": "Maler verwenden Pinsel unterschiedlicher Größe, eine Palette zum Mischen von Farben sowie Papier oder Leinwand. Wasser oder Öl unterstützen den Farbfluss. Wenn Sie die Bürsten nach dem Gebrauch reinigen, bleiben sie für das nächste Mal weich.",
+      "script_it": "I pittori utilizzano pennelli di diverse dimensioni, una tavolozza per mescolare i colori e carta o tela. L'acqua o l'olio aiutano la vernice a scorrere. La pulizia dei pennelli dopo l'uso li mantiene morbidi per la prossima volta.",
+      "script_fr": "Les peintres utilisent des pinceaux de différentes tailles, une palette pour mélanger les couleurs et du papier ou de la toile. L'eau ou l'huile facilitent l'écoulement de la peinture. Nettoyer les pinceaux après utilisation les garde doux pour la prochaine fois.",
+      "script_es": "Los pintores utilizan pinceles de diferentes tamaños, una paleta para mezclar colores y papel o lienzo. El agua o el aceite ayudan a que la pintura fluya. Limpiar los cepillos después de su uso los mantiene suaves para la próxima vez.",
+      "script_hr": "Slikari koriste kistove različitih veličina, paletu za miješanje boja te papir ili platno. Voda ili ulje pomažu protoku boje. Čišćenje četkica nakon upotrebe održava ih mekima za sljedeći put.",
+      "script_cs": "Malíři používají štětce různých velikostí, paletu na míchání barev, papír nebo plátno. Voda nebo olej napomáhají roztékání barvy. Čištění štětců po použití je udrží měkké pro příště.",
+      "script_pl": "Malarze posługują się pędzlami różnej wielkości, paletą do mieszania kolorów oraz papierem lub płótnem. Woda lub olej pomaga w przepływie farby. Czyszczenie pędzli po użyciu zapewnia ich miękkość na następny raz.",
+      "script_fi": "Maalarit käyttävät erikokoisia siveltimiä, palettia värien sekoittamiseen sekä paperia tai kangasta. Vesi tai öljy auttaa maalin valumista. Puhdistusharjat käytön jälkeen pitää ne pehmeinä seuraavaa kertaa varten.",
+      "script_sk": "Maliari používajú štetce rôznych veľkostí, paletu na miešanie farieb, papier alebo plátno. Voda alebo olej napomáha roztekaniu farby. Čistenie štetcov po použití ich udrží mäkké aj nabudúce.",
+      "script_da": "Malere bruger pensler i forskellige størrelser, en palet til at blande farver og papir eller lærred. Vand eller olie hjælper malingen til at flyde. Rengøringsbørster efter brug holder dem bløde til næste gang.",
+      "images": [
+        "tools.webp",
+        "tools_2.webp",
+        "tools_3.webp"
+      ]
+    },
+    {
+      "id": "colours",
+      "script_en": "The primary colours are red, yellow, and blue. Mixing red and yellow makes orange, yellow and blue make green, and red and blue make purple. Artists use these combinations to create many shades.",
+      "script_de": "Die Grundfarben sind Rot, Gelb und Blau. Das Mischen von Rot und Gelb ergibt Orange, Gelb und Blau ergeben Grün und Rot und Blau ergeben Lila. Künstler nutzen diese Kombinationen, um viele Farbtöne zu erzeugen.",
+      "script_it": "I colori primari sono rosso, giallo e blu. Mescolando il rosso e il giallo si ottiene l'arancione, il giallo e il blu danno il verde, e il rosso e il blu danno il viola. Gli artisti usano queste combinazioni per creare molte sfumature.",
+      "script_fr": "Les couleurs primaires sont le rouge, le jaune et le bleu. Mélanger le rouge et le jaune donne de l’orange, le jaune et le bleu donnent du vert et le rouge et le bleu donnent du violet. Les artistes utilisent ces combinaisons pour créer de nombreuses nuances.",
+      "script_es": "Los colores primarios son rojo, amarillo y azul. Al mezclar rojo y amarillo se obtiene el naranja, el amarillo y el azul se obtienen el verde, y el rojo y el azul se obtienen el morado. Los artistas usan estas combinaciones para crear muchos tonos.",
+      "script_hr": "Primarne boje su crvena, žuta i plava. Miješanjem crvene i žute dobiva se narančasta, žute i plave zelena, a crvena i plava ljubičasta. Umjetnici koriste ove kombinacije za stvaranje mnogih nijansi.",
+      "script_cs": "Primární barvy jsou červená, žlutá a modrá. Smícháním červené a žluté vznikne oranžová, žlutá a modrá zelená a červená a modrá fialová. Umělci používají tyto kombinace k vytvoření mnoha odstínů.",
+      "script_pl": "Podstawowe kolory to czerwony, żółty i niebieski. Mieszanie koloru czerwonego i żółtego powoduje, że pomarańczowy, żółty i niebieski dają kolor zielony, a czerwony i niebieski tworzą fiolet. Artyści używają tych kombinacji do tworzenia wielu odcieni.",
+      "script_fi": "Päävärit ovat punainen, keltainen ja sininen. Punaisen ja keltaisen sekoittaminen tekee oranssista, keltaisesta ja sinisestä vihreää ja punaisesta ja sinisestä purppuran. Taiteilijat käyttävät näitä yhdistelmiä luodakseen monia sävyjä.",
+      "script_sk": "Primárne farby sú červená, žltá a modrá. Zmiešaním červenej a žltej vznikne oranžová, žltá a modrá zelená a červená a modrá fialová. Umelci používajú tieto kombinácie na vytvorenie mnohých odtieňov.",
+      "script_da": "De primære farver er rød, gul og blå. Blanding af rød og gul gør orange, gul og blå gør grøn, og rød og blå gør lilla. Kunstnere bruger disse kombinationer til at skabe mange nuancer.",
+      "images": [
+        "colours.webp",
+        "colours_2.webp",
+        "colours_3.webp"
+      ]
+    },
+    {
+      "id": "process",
+      "script_en": "A painting often starts with a sketch or a wash of colour. Artists add layers, step back to look, and keep adjusting. Some paintings take minutes, while others take many days.",
+      "script_de": "Ein Gemälde beginnt oft mit einer Skizze oder einem Farbtupfer. Künstler fügen Ebenen hinzu, treten einen Schritt zurück, um hinzusehen, und passen sich immer wieder an. Manche Gemälde dauern nur wenige Minuten, andere wiederum mehrere Tage.",
+      "script_it": "Un dipinto spesso inizia con uno schizzo o una spruzzata di colore. Gli artisti aggiungono strati, fanno un passo indietro per guardare e continuano ad apportare modifiche. Alcuni dipinti richiedono pochi minuti, mentre altri richiedono molti giorni.",
+      "script_fr": "Une peinture commence souvent par un croquis ou un lavis de couleur. Les artistes ajoutent des calques, prennent du recul pour regarder et continuent de s'ajuster. Certaines peintures prennent quelques minutes, tandis que d'autres prennent plusieurs jours.",
+      "script_es": "Una pintura suele comenzar con un boceto o una capa de color. Los artistas añaden capas, dan un paso atrás para mirar y siguen ajustando. Algunas pinturas tardan unos minutos, mientras que otras tardan muchos días.",
+      "script_hr": "Slika često počinje skicom ili ispiranjem boje. Umjetnici dodaju slojeve, odmaknu se kako bi pogledali i nastavljaju se prilagođavati. Za neke su slike potrebne minute, a za druge mnogo dana.",
+      "script_cs": "Obraz často začíná náčrtem nebo lavírováním barev. Umělci přidávají vrstvy, ustupují, aby se podívali, a pokračují v úpravách. Některé obrazy trvají minuty, jiné mnoho dní.",
+      "script_pl": "Malowanie często zaczyna się od szkicu lub odrobiny koloru. Artyści dodają warstwy, cofają się, żeby popatrzeć i ciągle dostosowują. Niektóre obrazy trwają kilka minut, inne – wiele dni.",
+      "script_fi": "Maalaus alkaa usein luonnoksella tai värinpesulla. Taiteilijat lisäävät tasoja, palaavat katsomaan ja jatkavat säätämistä. Jotkut maalaukset kestävät minuutteja, kun taas toiset kestävät useita päiviä.",
+      "script_sk": "Maľba často začína náčrtom alebo preliatím farby. Umelci pridávajú vrstvy, ustupujú, aby sa pozreli, a pokračujú v úpravách. Niektoré maľby trvajú niekoľko minút, iné zas niekoľko dní.",
+      "script_da": "Et maleri starter ofte med en skitse eller en farvevask. Kunstnere tilføjer lag, træder tilbage for at se og fortsætter med at justere. Nogle malerier tager minutter, mens andre tager mange dage.",
+      "images": [
+        "process.webp",
+        "process_2.webp",
+        "process_3.webp"
+      ]
+    },
+    {
+      "id": "today",
+      "script_en": "Today people paint with watercolour, acrylic, oil, and even digital tools. Art can be shown in galleries, schools, or at home. Every painting is a chance to see the world in a new way.",
+      "script_de": "Heutzutage malen Menschen mit Wasserfarben, Acryl, Öl und sogar digitalen Werkzeugen. Kunst kann in Galerien, Schulen oder zu Hause gezeigt werden. Jedes Gemälde ist eine Chance, die Welt auf neue Weise zu sehen.",
+      "script_it": "Oggi le persone dipingono con acquerello, acrilico, olio e persino strumenti digitali. L'arte può essere esposta in gallerie, scuole o a casa. Ogni dipinto è un'opportunità per vedere il mondo in un modo nuovo.",
+      "script_fr": "Aujourd’hui, les gens peignent à l’aquarelle, à l’acrylique, à l’huile et même avec des outils numériques. L'art peut être exposé dans des galeries, des écoles ou à la maison. Chaque tableau est une chance de voir le monde d’une nouvelle manière.",
+      "script_es": "Hoy en día la gente pinta con acuarela, acrílico, óleo e incluso herramientas digitales. El arte se puede exhibir en galerías, escuelas o en casa. Cada pintura es una oportunidad de ver el mundo de una manera nueva.",
+      "script_hr": "Danas ljudi slikaju akvarelom, akrilom, uljem, pa čak i digitalnim alatima. Umjetnost se može izlagati u galerijama, školama ili kod kuće. Svaka slika je prilika da svijet vidite na novi način.",
+      "script_cs": "Dnes lidé malují akvarelem, akrylem, olejem a dokonce i digitálními nástroji. Umění lze vystavovat v galeriích, školách nebo doma. Každý obraz je šancí vidět svět novým způsobem.",
+      "script_pl": "Obecnie ludzie malują akwarelą, akrylem, olejem, a nawet narzędziami cyfrowymi. Sztukę można pokazywać w galeriach, szkołach lub w domu. Każdy obraz to szansa na zobaczenie świata w nowy sposób.",
+      "script_fi": "Nykyään ihmiset maalaavat vesiväreillä, akryylillä, öljyllä ja jopa digitaalisilla työkaluilla. Taidetta voidaan näyttää gallerioissa, kouluissa tai kotona. Jokainen maalaus on mahdollisuus nähdä maailma uudella tavalla.",
+      "script_sk": "Dnes ľudia maľujú akvarelom, akrylom, olejom a dokonca aj digitálnymi nástrojmi. Umenie je možné vystavovať v galériách, školách alebo doma. Každý obraz je šancou vidieť svet novým spôsobom.",
+      "script_da": "I dag maler folk med akvarel, akryl, olie og endda digitale værktøjer. Kunst kan vises i gallerier, skoler eller derhjemme. Hvert maleri er en chance for at se verden på en ny måde.",
+      "images": [
+        "today.webp",
+        "today_2.webp",
+        "today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "tool",
+      "correct": "brush",
+      "question_en": "What do painters use to apply paint?",
+      "question_de": "Womit tragen Maler Farbe auf?",
+      "question_it": "Cosa usano i pittori per applicare la vernice?",
+      "question_fr": "Qu'utilisent les peintres pour appliquer la peinture ?",
+      "question_es": "¿Qué usan los pintores para aplicar pintura?",
+      "question_hr": "Što slikari koriste za nanošenje boje?",
+      "question_cs": "Co používají malíři k nanášení barvy?",
+      "question_pl": "Czego używają malarze do nakładania farby?",
+      "question_fi": "Mitä maalarit käyttävät maalin levittämiseen?",
+      "question_sk": "Čo používajú maliari na nanášanie farby?",
+      "question_da": "Hvad bruger malere til at påføre maling?",
+      "options": [
+        {
+          "id": "brush",
+          "label_en": "A brush",
+          "label_de": "Ein Pinsel",
+          "label_it": "Un pennello",
+          "label_fr": "Un pinceau",
+          "label_es": "un cepillo",
+          "label_hr": "Četka",
+          "label_cs": "Štětec",
+          "label_pl": "Pędzel",
+          "label_fi": "Harja",
+          "label_sk": "Štetec",
+          "label_da": "En børste"
+        },
+        {
+          "id": "hammer",
+          "label_en": "A hammer",
+          "label_de": "Ein Hammer",
+          "label_it": "Un martello",
+          "label_fr": "Un marteau",
+          "label_es": "un martillo",
+          "label_hr": "Čekić",
+          "label_cs": "Kladivo",
+          "label_pl": "Młotek",
+          "label_fi": "vasara",
+          "label_sk": "Kladivo",
+          "label_da": "En hammer"
+        },
+        {
+          "id": "spoon",
+          "label_en": "A spoon",
+          "label_de": "Ein Löffel",
+          "label_it": "Un cucchiaio",
+          "label_fr": "Une cuillère",
+          "label_es": "una cuchara",
+          "label_hr": "žlica",
+          "label_cs": "Lžíce",
+          "label_pl": "Łyżka",
+          "label_fi": "Lusikka",
+          "label_sk": "Lyžička",
+          "label_da": "En ske"
+        }
+      ]
+    },
+    {
+      "id": "primary",
+      "correct": "ryb",
+      "question_en": "Which colours are primary?",
+      "question_de": "Welche Farben sind Primärfarben?",
+      "question_it": "Quali colori sono primari?",
+      "question_fr": "Quelles couleurs sont primaires ?",
+      "question_es": "¿Qué colores son primarios?",
+      "question_hr": "Koje su boje primarne?",
+      "question_cs": "Které barvy jsou primární?",
+      "question_pl": "Które kolory są podstawowe?",
+      "question_fi": "Mitkä värit ovat ensisijaisia?",
+      "question_sk": "Ktoré farby sú primárne?",
+      "question_da": "Hvilke farver er primære?",
+      "options": [
+        {
+          "id": "ryb",
+          "label_en": "Red, yellow and blue",
+          "label_de": "Rot, Gelb und Blau",
+          "label_it": "Rosso, giallo e blu",
+          "label_fr": "Rouge, jaune et bleu",
+          "label_es": "Rojo, amarillo y azul",
+          "label_hr": "Crvena, žuta i plava",
+          "label_cs": "Červená, žlutá a modrá",
+          "label_pl": "Czerwony, żółty i niebieski",
+          "label_fi": "Punainen, keltainen ja sininen",
+          "label_sk": "Červená, žltá a modrá",
+          "label_da": "Rød, gul og blå"
+        },
+        {
+          "id": "green",
+          "label_en": "Green, orange and purple",
+          "label_de": "Grün, Orange und Lila",
+          "label_it": "Verde, arancione e viola",
+          "label_fr": "Vert, orange et violet",
+          "label_es": "Verde, naranja y morado",
+          "label_hr": "Zelena, narančasta i ljubičasta",
+          "label_cs": "Zelená, oranžová a fialová",
+          "label_pl": "Zielony, pomarańczowy i fioletowy",
+          "label_fi": "Vihreä, oranssi ja violetti",
+          "label_sk": "Zelená, oranžová a fialová",
+          "label_da": "Grøn, orange og lilla"
+        },
+        {
+          "id": "black",
+          "label_en": "Black and white",
+          "label_de": "Schwarz und Weiß",
+          "label_it": "In bianco e nero",
+          "label_fr": "Noir et blanc",
+          "label_es": "En blanco y negro",
+          "label_hr": "crno-bijelo",
+          "label_cs": "Černobílý",
+          "label_pl": "Czarno-biały",
+          "label_fi": "Mustavalkoinen",
+          "label_sk": "Čierna a biela",
+          "label_da": "Sort og hvid"
+        }
+      ]
+    },
+    {
+      "id": "surface",
+      "correct": "canvas",
+      "question_en": "What can you paint on?",
+      "question_de": "Worauf kann man malen?",
+      "question_it": "Su cosa puoi dipingere?",
+      "question_fr": "Sur quoi peut-on peindre ?",
+      "question_es": "¿Sobre qué puedes pintar?",
+      "question_hr": "Na čemu možete slikati?",
+      "question_cs": "Na co se dá malovat?",
+      "question_pl": "Na czym można malować?",
+      "question_fi": "Mihin voit maalata?",
+      "question_sk": "Na čo sa dá maľovať?",
+      "question_da": "Hvad kan du male på?",
+      "options": [
+        {
+          "id": "canvas",
+          "label_en": "Canvas or paper",
+          "label_de": "Leinwand oder Papier",
+          "label_it": "Tela o carta",
+          "label_fr": "Toile ou papier",
+          "label_es": "Lienzo o papel",
+          "label_hr": "Platno ili papir",
+          "label_cs": "Plátno nebo papír",
+          "label_pl": "Płótno lub papier",
+          "label_fi": "Kangas tai paperi",
+          "label_sk": "Plátno alebo papier",
+          "label_da": "Lærred eller papir"
+        },
+        {
+          "id": "water",
+          "label_en": "Only water",
+          "label_de": "Nur Wasser",
+          "label_it": "Solo acqua",
+          "label_fr": "Seulement de l'eau",
+          "label_es": "solo agua",
+          "label_hr": "Samo vodu",
+          "label_cs": "Pouze voda",
+          "label_pl": "Tylko woda",
+          "label_fi": "Vain vettä",
+          "label_sk": "Iba voda",
+          "label_da": "Kun vand"
+        },
+        {
+          "id": "air",
+          "label_en": "Only air",
+          "label_de": "Nur Luft",
+          "label_it": "Solo aria",
+          "label_fr": "Seulement de l'air",
+          "label_es": "solo aire",
+          "label_hr": "Samo zrak",
+          "label_cs": "Pouze vzduch",
+          "label_pl": "Tylko powietrze",
+          "label_fi": "Vain ilmaa",
+          "label_sk": "Iba vzduch",
+          "label_da": "Kun luft"
+        }
+      ]
+    }
+  ]
+}

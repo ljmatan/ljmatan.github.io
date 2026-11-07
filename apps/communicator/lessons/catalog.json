@@ -22,6 +22,27 @@
       "title_da": "Madlavning"
     },
     {
+      "id": "painting",
+      "category_id": "activities",
+      "symbol_id": "painting",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/painting/painting_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/painting/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2230799,
+      "version": 1,
+      "title_en": "Painting",
+      "title_de": "Malerei",
+      "title_it": "Pittura",
+      "title_fr": "Peinture",
+      "title_es": "Cuadro",
+      "title_hr": "Slika",
+      "title_cs": "Malování",
+      "title_pl": "Malarstwo",
+      "title_fi": "Maalaus",
+      "title_sk": "Maľovanie",
+      "title_da": "Maleri"
+    },
+    {
       "id": "bear",
       "category_id": "animals",
       "symbol_id": "bear",
