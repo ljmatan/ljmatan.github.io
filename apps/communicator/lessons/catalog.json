@@ -1114,6 +1114,27 @@
       "title_da": "Bøger"
     },
     {
+      "id": "pencil",
+      "category_id": "school",
+      "symbol_id": "pencil",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/pencil/pencil_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/pencil/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2124020,
+      "version": 1,
+      "title_en": "Pencils",
+      "title_de": "Bleistifte",
+      "title_it": "Matite",
+      "title_fr": "Crayons",
+      "title_es": "Lápices",
+      "title_hr": "Olovke",
+      "title_cs": "Tužky",
+      "title_pl": "Ołówki",
+      "title_fi": "Lyijykynät",
+      "title_sk": "Ceruzky",
+      "title_da": "Blyanter"
+    },
+    {
       "id": "airplane",
       "category_id": "transport",
       "symbol_id": "airplane",

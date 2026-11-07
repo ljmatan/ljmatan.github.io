@@ -1,0 +1,293 @@
+{
+  "id": "pencil",
+  "category_id": "school",
+  "symbol_id": "pencil",
+  "thumbnail": "pencil_thumb.webp",
+  "title_en": "Pencils",
+  "title_de": "Bleistifte",
+  "title_it": "Matite",
+  "title_fr": "Crayons",
+  "title_es": "Lápices",
+  "title_hr": "Olovke",
+  "title_cs": "Tužky",
+  "title_pl": "Ołówki",
+  "title_fi": "Lyijykynät",
+  "title_sk": "Ceruzky",
+  "title_da": "Blyanter",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about pencils. A pencil is a writing and drawing tool with a thin core of graphite inside a wooden casing. It can be erased, which makes it useful for learning.",
+      "script_de": "Heute lernen wir etwas über Bleistifte. Ein Bleistift ist ein Schreib- und Zeichengerät mit einem dünnen Graphitkern in einem Holzgehäuse. Es kann gelöscht werden, was es zum Lernen nützlich macht.",
+      "script_it": "Oggi parleremo delle matite. Una matita è uno strumento per scrivere e disegnare con un sottile nucleo di grafite all'interno di un involucro di legno. Può essere cancellato, il che lo rende utile per l'apprendimento.",
+      "script_fr": "Aujourd'hui, nous allons découvrir les crayons. Un crayon est un outil d’écriture et de dessin doté d’un mince noyau de graphite à l’intérieur d’un boîtier en bois. Il peut être effacé, ce qui le rend utile pour l'apprentissage.",
+      "script_es": "Hoy vamos a aprender sobre lápices. Un lápiz es una herramienta para escribir y dibujar con un fino núcleo de grafito dentro de una carcasa de madera. Se puede borrar, lo que lo hace útil para aprender.",
+      "script_hr": "Danas ćemo učiti o olovkama. Olovka je alat za pisanje i crtanje s tankom jezgrom od grafita unutar drvenog kućišta. Može se brisati, što ga čini korisnim za učenje.",
+      "script_cs": "Dnes se budeme učit o tužkách. Tužka je nástroj pro psaní a kreslení s tenkým jádrem z grafitu uvnitř dřevěného pouzdra. Dá se vymazat, což je užitečné pro učení.",
+      "script_pl": "Dzisiaj będziemy uczyć się o ołówkach. Ołówek to narzędzie do pisania i rysowania z cienkim rdzeniem grafitowym w drewnianej obudowie. Można go wymazać, co czyni go przydatnym do nauki.",
+      "script_fi": "Tänään opimme lyijykynistä. Lyijykynä on kirjoitus- ja piirustustyökalu, jossa on ohut grafiittisydän puukotelon sisällä. Se voidaan pyyhkiä pois, mikä tekee siitä hyödyllisen oppimisen kannalta.",
+      "script_sk": "Dnes sa naučíme niečo o ceruzkách. Ceruzka je nástroj na písanie a kreslenie s tenkým jadrom z grafitu v drevenom obale. Dá sa vymazať, čo je užitočné pri učení.",
+      "script_da": "I dag skal vi lære om blyanter. En blyant er et skrive- og tegneværktøj med en tynd kerne af grafit inde i et træhus. Det kan slettes, hvilket gør det nyttigt til læring.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "history",
+      "script_en": "Long ago people discovered graphite that could mark paper. They wrapped it in wood to make it easier to hold. Pencils became common in schools and workshops around the world.",
+      "script_de": "Vor langer Zeit entdeckten die Menschen Graphit, der Papier markieren konnte. Sie haben es in Holz eingewickelt, damit es leichter zu halten ist. Bleistifte wurden in Schulen und Werkstätten auf der ganzen Welt üblich.",
+      "script_it": "Molto tempo fa la gente scoprì la grafite che poteva segnare la carta. L'hanno avvolto nel legno per renderlo più facile da tenere. Le matite divennero comuni nelle scuole e nei laboratori di tutto il mondo.",
+      "script_fr": "Il y a bien longtemps, les gens ont découvert le graphite capable de marquer le papier. Ils l'ont enveloppé dans du bois pour le rendre plus facile à tenir. Les crayons sont devenus courants dans les écoles et les ateliers du monde entier.",
+      "script_es": "Hace mucho tiempo se descubrió el grafito que podía marcar el papel. Lo envolvieron en madera para que fuera más fácil de sostener. Los lápices se volvieron comunes en escuelas y talleres de todo el mundo.",
+      "script_hr": "Davno su ljudi otkrili grafit koji je mogao označavati papir. Umotali su ga u drvo da ga lakše drže. Olovke su postale uobičajene u školama i radionicama diljem svijeta.",
+      "script_cs": "Kdysi dávno lidé objevili grafit, který dokázal označit papír. Obalili ho dřevem, aby se lépe držel. Tužky se staly běžnými ve školách a dílnách po celém světě.",
+      "script_pl": "Dawno temu ludzie odkryli grafit, który mógł oznaczać papier. Owinęli go w drewno, żeby było łatwiej go trzymać. Ołówki stały się powszechne w szkołach i warsztatach na całym świecie.",
+      "script_fi": "Kauan sitten ihmiset löysivät grafiitin, joka voisi merkitä paperia. He käärivät sen puuhun, jotta sitä olisi helpompi pitää. Lyijykynät yleistyivät kouluissa ja työpajoissa ympäri maailmaa.",
+      "script_sk": "Už dávno ľudia objavili grafit, ktorý dokázal označovať papier. Obalili ho drevom, aby sa lepšie držalo. Ceruzky sa stali bežnými v školách a dielňach po celom svete.",
+      "script_da": "For længe siden opdagede folk grafit, der kunne mærke papir. De pakkede den ind i træ for at gøre den nemmere at holde. Blyanter blev almindelige i skoler og værksteder rundt om i verden.",
+      "images": [
+        "history.webp",
+        "history_2.webp",
+        "history_3.webp"
+      ]
+    },
+    {
+      "id": "parts",
+      "script_en": "A pencil has a graphite core, a wooden body, and often an eraser held by a metal band. Sharpening the wood exposes fresh graphite. The hardness of the graphite changes how dark the line looks.",
+      "script_de": "Ein Bleistift hat einen Graphitkern, einen Holzkörper und oft einen Radiergummi, der von einem Metallband gehalten wird. Durch das Schärfen des Holzes wird frischer Graphit freigelegt. Die Härte des Graphits verändert, wie dunkel die Linie aussieht.",
+      "script_it": "Una matita ha un nucleo di grafite, un corpo di legno e spesso una gomma tenuta da una fascia metallica. L'affilatura del legno espone la grafite fresca. La durezza della grafite cambia l'aspetto scuro della linea.",
+      "script_fr": "Un crayon a un noyau en graphite, un corps en bois et souvent une gomme maintenue par une bande métallique. L'affûtage du bois expose du graphite frais. La dureté du graphite modifie l'apparence sombre de la ligne.",
+      "script_es": "Un lápiz tiene un núcleo de grafito, un cuerpo de madera y, a menudo, una goma de borrar sujeta por una banda de metal. Al afilar la madera se expone el grafito fresco. La dureza del grafito cambia la oscuridad de la línea.",
+      "script_hr": "Olovka ima grafitnu jezgru, drveno tijelo i često gumicu koju drži metalna traka. Oštrenje drveta otkriva svježi grafit. Tvrdoća grafita mijenja koliko crte izgledaju tamno.",
+      "script_cs": "Tužka má grafitové jádro, dřevěné tělo a často gumu drženou kovovým páskem. Ostřením dřeva se odhalí čerstvý grafit. Tvrdost grafitu mění, jak tmavě čára vypadá.",
+      "script_pl": "Ołówek ma grafitowy rdzeń, drewniany korpus i często gumkę przytrzymywaną metalową opaską. Ostrzenie drewna odsłania świeży grafit. Twardość grafitu zmienia odcień linii.",
+      "script_fi": "Kynässä on grafiittisydän, puinen runko ja usein pyyhekumi, jota pitää metallinauha. Puun teroitus paljastaa tuoreen grafiitin. Grafiitin kovuus muuttaa viivan tummuutta.",
+      "script_sk": "Ceruzka má grafitové jadro, drevené telo a často aj gumu, ktorú drží kovový pásik. Ostrenie dreva odhalí čerstvý grafit. Tvrdosť grafitu mení, ako tmavá čiara vyzerá.",
+      "script_da": "En blyant har en grafitkerne, en trækrop og ofte et viskelæder, der holdes af et metalbånd. Slibning af træet afslører frisk grafit. Hårdheden af ​​grafitten ændrer, hvor mørk linjen ser ud.",
+      "images": [
+        "parts.webp",
+        "parts_2.webp",
+        "parts_3.webp"
+      ]
+    },
+    {
+      "id": "uses",
+      "script_en": "Pencils are used for homework, drawing, planning, and taking notes. Artists use them for quick sketches and detailed shading. Because pencil marks can be erased, they are forgiving for beginners.",
+      "script_de": "Bleistifte werden für Hausaufgaben, Zeichnen, Planen und Notizen verwendet. Künstler nutzen sie für schnelle Skizzen und detaillierte Schattierungen. Da Bleistiftstriche gelöscht werden können, sind sie auch für Anfänger fehlerverzeihend.",
+      "script_it": "Le matite vengono utilizzate per i compiti, per disegnare, per pianificare e per prendere appunti. Gli artisti li usano per schizzi rapidi e ombreggiature dettagliate. Poiché i segni della matita possono essere cancellati, perdonano i principianti.",
+      "script_fr": "Les crayons sont utilisés pour les devoirs, le dessin, la planification et la prise de notes. Les artistes les utilisent pour des croquis rapides et des ombrages détaillés. Parce que les marques de crayon peuvent être effacées, elles pardonnent aux débutants.",
+      "script_es": "Los lápices se utilizan para hacer tareas, dibujar, planificar y tomar notas. Los artistas los utilizan para realizar bocetos rápidos y sombreados detallados. Como las marcas de lápiz se pueden borrar, son fáciles de usar para los principiantes.",
+      "script_hr": "Olovke se koriste za domaće zadaće, crtanje, planiranje i bilježenje. Umjetnici ih koriste za brze skice i detaljno sjenčanje. Budući da se tragovi olovke mogu obrisati, oni su lakši za početnike.",
+      "script_cs": "Tužky se používají pro domácí úkoly, kreslení, plánování a psaní poznámek. Umělci je používají pro rychlé skici a detailní stínování. Protože značky tužkou lze vymazat, jsou pro začátečníky shovívavé.",
+      "script_pl": "Ołówek służy do odrabiania zadań domowych, rysowania, planowania i robienia notatek. Artyści używają ich do szybkich szkiców i szczegółowego cieniowania. Ponieważ ślady ołówka można usunąć, są one wyrozumiałe dla początkujących.",
+      "script_fi": "Kyniä käytetään kotitehtäviin, piirtämiseen, suunnitteluun ja muistiinpanojen tekemiseen. Taiteilijat käyttävät niitä nopeisiin luonnoksiin ja yksityiskohtaiseen varjostukseen. Koska kynäjäljet ​​voidaan poistaa, ne ovat anteeksiantavia aloittelijoille.",
+      "script_sk": "Ceruzky sa používajú na domáce úlohy, kreslenie, plánovanie a písanie poznámok. Umelci ich používajú na rýchle skice a detailné tieňovanie. Pretože značky ceruzkou sa dajú vymazať, sú pre začiatočníkov zhovievavé.",
+      "script_da": "Blyanter bruges til lektier, tegning, planlægning og noter. Kunstnere bruger dem til hurtige skitser og detaljerede skygger. Fordi blyantmærker kan slettes, er de tilgivende for begyndere.",
+      "images": [
+        "uses.webp",
+        "uses_2.webp",
+        "uses_3.webp"
+      ]
+    },
+    {
+      "id": "today",
+      "script_en": "Today there are wooden pencils, mechanical pencils, and coloured pencils. Digital styluses let artists draw on tablets. Even with new tools, the simple pencil remains a favourite.",
+      "script_de": "Heute gibt es Holzstifte, Druckbleistifte und Buntstifte. Mit digitalen Stiften können Künstler auf Tablets zeichnen. Auch bei neuen Werkzeugen bleibt der einfache Bleistift ein Favorit.",
+      "script_it": "Oggi ci sono matite di legno, matite meccaniche e matite colorate. Gli stili digitali consentono agli artisti di disegnare sui tablet. Anche con i nuovi strumenti, la semplice matita rimane la preferita.",
+      "script_fr": "Il existe aujourd’hui des crayons en bois, des porte-mines et des crayons de couleur. Les stylets numériques permettent aux artistes de dessiner sur des tablettes. Même avec de nouveaux outils, le simple crayon reste un favori.",
+      "script_es": "Hoy en día existen lápices de madera, portaminas y lápices de colores. Los lápices digitales permiten a los artistas dibujar en tabletas. Incluso con nuevas herramientas, el simple lápiz sigue siendo el favorito.",
+      "script_hr": "Danas postoje drvene olovke, mehaničke olovke i olovke u boji. Digitalne olovke omogućuju umjetnicima da crtaju na tabletima. Čak i s novim alatima, jednostavna olovka ostaje omiljena.",
+      "script_cs": "Dnes existují dřevěné tužky, mechanické tužky a barevné tužky. Digitální stylusy umožňují umělcům kreslit na tabletech. I s novými nástroji zůstává jednoduchá tužka oblíbená.",
+      "script_pl": "Obecnie istnieją ołówki drewniane, ołówki automatyczne i kredki. Cyfrowe rysiki pozwalają artystom rysować na tabletach. Nawet dzięki nowym narzędziom prosty ołówek pozostaje ulubionym narzędziem.",
+      "script_fi": "Nykyään on puukyniä, mekaanisia kyniä ja värikyniä. Digitaalisten kynsien avulla taiteilijat voivat piirtää tableteille. Uusillakin työkaluilla yksinkertainen kynä pysyy suosikkina.",
+      "script_sk": "Dnes existujú drevené ceruzky, mechanické ceruzky a farebné ceruzky. Digitálne dotykové perá umožňujú umelcom kresliť na tabletoch. Aj s novými nástrojmi zostáva jednoduchá ceruzka obľúbenou.",
+      "script_da": "I dag er der træblyanter, mekaniske blyanter og farveblyanter. Digitale penne lader kunstnere tegne på tablets. Selv med nye værktøjer forbliver den enkle blyant en favorit.",
+      "images": [
+        "today.webp",
+        "today_2.webp",
+        "today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "core",
+      "correct": "graphite",
+      "question_en": "What is inside a pencil?",
+      "question_de": "Was ist in einem Bleistift?",
+      "question_it": "Cosa c'è dentro una matita?",
+      "question_fr": "Qu'y a-t-il à l'intérieur d'un crayon ?",
+      "question_es": "¿Qué hay dentro de un lápiz?",
+      "question_hr": "Što je unutar olovke?",
+      "question_cs": "Co je uvnitř tužky?",
+      "question_pl": "Co kryje się w ołówku?",
+      "question_fi": "Mitä lyijykynän sisällä on?",
+      "question_sk": "Čo je vnútri ceruzky?",
+      "question_da": "Hvad er der inde i en blyant?",
+      "options": [
+        {
+          "id": "graphite",
+          "label_en": "Graphite",
+          "label_de": "Graphit",
+          "label_it": "Grafite",
+          "label_fr": "Graphite",
+          "label_es": "Grafito",
+          "label_hr": "Grafit",
+          "label_cs": "Grafit",
+          "label_pl": "Grafit",
+          "label_fi": "Grafiitti",
+          "label_sk": "Grafit",
+          "label_da": "Grafit"
+        },
+        {
+          "id": "ink",
+          "label_en": "Ink",
+          "label_de": "Tinte",
+          "label_it": "Inchiostro",
+          "label_fr": "Encre",
+          "label_es": "Tinta",
+          "label_hr": "Tinta",
+          "label_cs": "Inkoust",
+          "label_pl": "Atrament",
+          "label_fi": "Muste",
+          "label_sk": "Atrament",
+          "label_da": "Blæk"
+        },
+        {
+          "id": "water",
+          "label_en": "Water",
+          "label_de": "Wasser",
+          "label_it": "Acqua",
+          "label_fr": "Eau",
+          "label_es": "Agua",
+          "label_hr": "Voda",
+          "label_cs": "Voda",
+          "label_pl": "Woda",
+          "label_fi": "Vesi",
+          "label_sk": "Voda",
+          "label_da": "Vand"
+        }
+      ]
+    },
+    {
+      "id": "eraser",
+      "correct": "eraser",
+      "question_en": "What removes pencil marks?",
+      "question_de": "Was entfernt Bleistiftstriche?",
+      "question_it": "Cosa rimuove i segni della matita?",
+      "question_fr": "Qu'est-ce qui enlève les traces de crayon ?",
+      "question_es": "¿Qué elimina las marcas de lápiz?",
+      "question_hr": "Što uklanja tragove olovke?",
+      "question_cs": "Co odstraňuje stopy po tužce?",
+      "question_pl": "Co usuwa ślady ołówka?",
+      "question_fi": "Mikä poistaa kynän jälkiä?",
+      "question_sk": "Čo odstraňuje stopy ceruzky?",
+      "question_da": "Hvad fjerner blyantmærker?",
+      "options": [
+        {
+          "id": "eraser",
+          "label_en": "An eraser",
+          "label_de": "Ein Radiergummi",
+          "label_it": "Una gomma",
+          "label_fr": "Une gomme",
+          "label_es": "un borrador",
+          "label_hr": "Gumica za brisanje",
+          "label_cs": "Guma",
+          "label_pl": "Gumka",
+          "label_fi": "Pyyhekumi",
+          "label_sk": "Guma",
+          "label_da": "Et viskelæder"
+        },
+        {
+          "id": "ruler",
+          "label_en": "A ruler",
+          "label_de": "Ein Herrscher",
+          "label_it": "Un sovrano",
+          "label_fr": "Un dirigeant",
+          "label_es": "un gobernante",
+          "label_hr": "Ravnalo",
+          "label_cs": "Vládce",
+          "label_pl": "Władca",
+          "label_fi": "Hallitsija",
+          "label_sk": "Vládca",
+          "label_da": "En lineal"
+        },
+        {
+          "id": "brush",
+          "label_en": "A paintbrush",
+          "label_de": "Ein Pinsel",
+          "label_it": "Un pennello",
+          "label_fr": "Un pinceau",
+          "label_es": "un pincel",
+          "label_hr": "Kist",
+          "label_cs": "Štětec",
+          "label_pl": "Pędzel",
+          "label_fi": "Sivellin",
+          "label_sk": "Maliarsky štetec",
+          "label_da": "En malerpensel"
+        }
+      ]
+    },
+    {
+      "id": "tool",
+      "correct": "sharpener",
+      "question_en": "What keeps a pencil sharp?",
+      "question_de": "Was hält einen Bleistift scharf?",
+      "question_it": "Cosa mantiene una matita affilata?",
+      "question_fr": "Qu'est-ce qui permet à un crayon de rester bien aiguisé ?",
+      "question_es": "¿Qué mantiene afilado un lápiz?",
+      "question_hr": "Što održava olovku oštrom?",
+      "question_cs": "Co udržuje tužku ostrou?",
+      "question_pl": "Co sprawia, że ​​ołówek jest ostry?",
+      "question_fi": "Mikä pitää kynän terävänä?",
+      "question_sk": "Čo udrží ceruzku ostrú?",
+      "question_da": "Hvad holder en blyant skarp?",
+      "options": [
+        {
+          "id": "sharpener",
+          "label_en": "A sharpener",
+          "label_de": "Ein Spitzer",
+          "label_it": "Un affilatore",
+          "label_fr": "Un taille-crayon",
+          "label_es": "un sacapuntas",
+          "label_hr": "Šiljilo",
+          "label_cs": "Ořezávátko",
+          "label_pl": "Temperówka",
+          "label_fi": "Teroitin",
+          "label_sk": "Orezávatko",
+          "label_da": "En skærper"
+        },
+        {
+          "id": "stapler",
+          "label_en": "A stapler",
+          "label_de": "Ein Hefter",
+          "label_it": "Una cucitrice",
+          "label_fr": "Une agrafeuse",
+          "label_es": "una grapadora",
+          "label_hr": "Klamerica",
+          "label_cs": "Sešívačka",
+          "label_pl": "Zszywacz",
+          "label_fi": "Nitoja",
+          "label_sk": "Zošívačka",
+          "label_da": "En hæftemaskine"
+        },
+        {
+          "id": "scissors",
+          "label_en": "Scissors",
+          "label_de": "Schere",
+          "label_it": "Forbici",
+          "label_fr": "Ciseaux",
+          "label_es": "Tijeras",
+          "label_hr": "Škare",
+          "label_cs": "Nůžky",
+          "label_pl": "Nożyczki",
+          "label_fi": "Sakset",
+          "label_sk": "Nožnice",
+          "label_da": "Saks"
+        }
+      ]
+    }
+  ]
+}
