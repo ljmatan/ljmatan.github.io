@@ -925,6 +925,27 @@
       "title_da": "Senge"
     },
     {
+      "id": "chair",
+      "category_id": "household",
+      "symbol_id": "chair",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/chair/chair_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/chair/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2319888,
+      "version": 1,
+      "title_en": "Chairs",
+      "title_de": "Stühle",
+      "title_it": "Sedie",
+      "title_fr": "Chaises",
+      "title_es": "Sillas",
+      "title_hr": "Stolice",
+      "title_cs": "Židle",
+      "title_pl": "Krzesła",
+      "title_fi": "Tuolit",
+      "title_sk": "Stoličky",
+      "title_da": "Stole"
+    },
+    {
       "id": "earth",
       "category_id": "planets",
       "symbol_id": "earth",

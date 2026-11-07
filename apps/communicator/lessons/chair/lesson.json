@@ -1,0 +1,293 @@
+{
+  "id": "chair",
+  "category_id": "household",
+  "symbol_id": "chair",
+  "thumbnail": "chair_thumb.webp",
+  "title_en": "Chairs",
+  "title_de": "Stühle",
+  "title_it": "Sedie",
+  "title_fr": "Chaises",
+  "title_es": "Sillas",
+  "title_hr": "Stolice",
+  "title_cs": "Židle",
+  "title_pl": "Krzesła",
+  "title_fi": "Tuolit",
+  "title_sk": "Stoličky",
+  "title_da": "Stole",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about chairs. A chair is a seat with a back and legs. People use chairs at tables, in classrooms, at work, and whenever they need to rest.",
+      "script_de": "Heute lernen wir etwas über Stühle. Ein Stuhl ist ein Sitz mit Rückenlehne und Beinen. Menschen nutzen Stühle an Tischen, im Klassenzimmer, bei der Arbeit und immer dann, wenn sie sich ausruhen möchten.",
+      "script_it": "Oggi parleremo delle sedie. Una sedia è un sedile con schienale e gambe. Le persone usano le sedie ai tavoli, nelle aule, al lavoro e ogni volta che hanno bisogno di riposare.",
+      "script_fr": "Aujourd'hui, nous allons découvrir les chaises. Une chaise est un siège avec un dossier et des pieds. Les gens utilisent des chaises à table, dans les salles de classe, au travail et chaque fois qu’ils ont besoin de se reposer.",
+      "script_es": "Hoy vamos a aprender sobre sillas. Una silla es un asiento con respaldo y patas. La gente usa sillas en las mesas, en las aulas, en el trabajo y cuando necesitan descansar.",
+      "script_hr": "Danas ćemo učiti o stolicama. Stolica je sjedište s naslonom i nogama. Ljudi koriste stolice za stolovima, u učionicama, na poslu i kad god se trebaju odmoriti.",
+      "script_cs": "Dnes se budeme učit o židlích. Židle je sedák s opěradlem a nohami. Lidé používají židle u stolů, ve třídách, v práci a kdykoli si potřebují odpočinout.",
+      "script_pl": "Dzisiaj będziemy uczyć się o krzesłach. Krzesło to siedzisko z oparciem i nogami. Ludzie używają krzeseł przy stołach, w klasach, w pracy i zawsze, gdy potrzebują odpoczynku.",
+      "script_fi": "Tänään opimme tuoleista. Tuoli on istuin, jossa on selkänoja ja jalat. Ihmiset käyttävät tuoleja pöydissä, luokkahuoneissa, töissä ja aina kun he tarvitsevat lepoa.",
+      "script_sk": "Dnes sa dozvieme niečo o stoličkách. Stolička je sedadlo s operadlom a nohami. Ľudia používajú stoličky pri stoloch, v triedach, v práci a kedykoľvek si potrebujú oddýchnuť.",
+      "script_da": "I dag skal vi lære om stole. En stol er et sæde med ryg og ben. Folk bruger stole ved borde, i klasseværelser, på arbejdet, og når de har brug for at hvile sig.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "history",
+      "script_en": "The first chairs were simple stools without backs. Over time, people added backs and armrests for comfort. Special chairs were once a sign of importance, like a king's throne.",
+      "script_de": "Die ersten Stühle waren einfache Hocker ohne Rückenlehne. Im Laufe der Zeit fügten die Menschen Rücken- und Armlehnen hinzu, um den Komfort zu erhöhen. Besondere Stühle waren einst ein Zeichen von Bedeutung, wie ein Königsthron.",
+      "script_it": "Le prime sedie erano semplici sgabelli senza schienale. Nel corso del tempo, le persone hanno aggiunto schienali e braccioli per il massimo comfort. Un tempo le sedie speciali erano un segno di importanza, come il trono di un re.",
+      "script_fr": "Les premières chaises étaient de simples tabourets sans dossier. Au fil du temps, les gens ont ajouté des dossiers et des accoudoirs pour plus de confort. Les chaises spéciales étaient autrefois un signe d'importance, comme le trône d'un roi.",
+      "script_es": "Las primeras sillas eran sencillos taburetes sin respaldo. Con el tiempo, la gente añadió respaldos y apoyabrazos para mayor comodidad. Las sillas especiales alguna vez fueron un signo de importancia, como el trono de un rey.",
+      "script_hr": "Prve stolice bile su jednostavne stolice bez naslona. S vremenom su ljudi dodavali naslone za leđa i ruke radi udobnosti. Posebne stolice nekada su bile znak važnosti, poput kraljevog prijestolja.",
+      "script_cs": "První židle byly jednoduché stoličky bez opěradel. Postupem času lidé přidali záda a područky pro pohodlí. Zvláštní židle byly kdysi znakem důležitosti, jako královský trůn.",
+      "script_pl": "Pierwsze krzesła były prostymi stołkami bez oparcia. Z czasem ludzie dodali oparcia i podłokietniki dla wygody. Specjalne krzesła były kiedyś oznaką ważności, niczym królewski tron.",
+      "script_fi": "Ensimmäiset tuolit olivat yksinkertaisia ​​jakkaraita ilman selkänojaa. Ajan myötä ihmiset lisäsivät selkänojaa ja käsinojat mukavuuden lisäämiseksi. Erikoistuolit olivat kerran tärkeä merkki, kuten kuninkaan valtaistuin.",
+      "script_sk": "Prvé stoličky boli jednoduché stoličky bez operadiel. Postupom času ľudia pridali operadlá a podrúčky pre pohodlie. Špeciálne stoličky boli kedysi znakom dôležitosti, ako kráľovský trón.",
+      "script_da": "De første stole var simple skamler uden ryg. Med tiden tilføjede folk ryg og armlæn for komfort. Særlige stole var engang et tegn på betydning, som en konges trone.",
+      "images": [
+        "history.webp",
+        "history_2.webp",
+        "history_3.webp"
+      ]
+    },
+    {
+      "id": "parts",
+      "script_en": "A chair has a seat to sit on, a back to support the spine, and legs to hold it up. Some chairs also have armrests, wheels, or cushions. A stable chair should not wobble.",
+      "script_de": "Ein Stuhl hat eine Sitzfläche, eine Rückenlehne, die die Wirbelsäule stützt, und Beine, die sie stützen. Einige Stühle verfügen auch über Armlehnen, Rollen oder Kissen. Ein stabiler Stuhl sollte nicht wackeln.",
+      "script_it": "Una sedia ha un sedile su cui sedersi, uno schienale per sostenere la colonna vertebrale e gambe per sorreggerla. Alcune sedie hanno anche braccioli, ruote o cuscini. Una sedia stabile non dovrebbe oscillare.",
+      "script_fr": "Une chaise a un siège sur lequel s'asseoir, un dossier pour soutenir la colonne vertébrale et des pieds pour la maintenir. Certaines chaises ont également des accoudoirs, des roulettes ou des coussins. Une chaise stable ne doit pas vaciller.",
+      "script_es": "Una silla tiene un asiento para sentarse, un respaldo para sostener la columna y patas para sostenerla. Algunas sillas también tienen reposabrazos, ruedas o cojines. Una silla estable no debe tambalearse.",
+      "script_hr": "Stolac ima sjedište za sjedenje, naslon za podupiranje kralježnice i noge za držanje. Neki stolci također imaju naslone za ruke, kotačiće ili jastuke. Stabilna stolica ne bi se trebala klimati.",
+      "script_cs": "Židle má sedák, na který se dá sedět, opěradlo, které podpírá páteř, a nohy, na které se dá sedět. Některé židle mají také područky, kolečka nebo polštáře. Stabilní židle by se neměla viklat.",
+      "script_pl": "Krzesło ma siedzisko, na którym można usiąść, oparcie wspierające kręgosłup i nogi, które je podtrzymują. Niektóre krzesła mają także podłokietniki, kółka lub poduszki. Stabilne krzesło nie powinno się chwiać.",
+      "script_fi": "Tuolissa on istuin istumalle, selkänoja tukemaan selkärankaa ja jalat pitämään sitä pystyssä. Joissakin tuoleissa on myös käsinojat, pyörät tai tyynyt. Vakaa tuoli ei saa heilua.",
+      "script_sk": "Stolička má sedadlo na sedenie, operadlo na podopretie chrbtice a nohy, na ktoré sa dá držať. Niektoré stoličky majú aj podrúčky, kolieska alebo vankúše. Stabilná stolička by sa nemala kývať.",
+      "script_da": "En stol har et sæde at sidde på, en ryg til at støtte rygsøjlen og ben til at holde den op. Nogle stole har også armlæn, hjul eller hynder. En stabil stol bør ikke vakle.",
+      "images": [
+        "parts.webp",
+        "parts_2.webp",
+        "parts_3.webp"
+      ]
+    },
+    {
+      "id": "uses",
+      "script_en": "Chairs help us eat together, read, draw, and learn. Office chairs support people who sit for work, while wheelchairs help people move around. Choosing the right height helps feet rest flat on the floor.",
+      "script_de": "Stühle helfen uns, gemeinsam zu essen, zu lesen, zu zeichnen und zu lernen. Bürostühle unterstützen sitzende Menschen bei der Arbeit, Rollstühle erleichtern die Fortbewegung. Durch die Wahl der richtigen Höhe bleiben die Füße flach auf dem Boden.",
+      "script_it": "Le sedie ci aiutano a mangiare insieme, leggere, disegnare e imparare. Le sedie da ufficio supportano le persone che si siedono per lavorare, mentre le sedie a rotelle aiutano le persone a muoversi. Scegliere la giusta altezza aiuta i piedi a restare ben appoggiati sul pavimento.",
+      "script_fr": "Les chaises nous aident à manger ensemble, à lire, à dessiner et à apprendre. Les chaises de bureau aident les personnes assises pour travailler, tandis que les fauteuils roulants aident les gens à se déplacer. Choisir la bonne hauteur permet aux pieds de reposer à plat sur le sol.",
+      "script_es": "Las sillas nos ayudan a comer juntos, leer, dibujar y aprender. Las sillas de oficina ayudan a las personas que se sientan a trabajar, mientras que las sillas de ruedas ayudan a las personas a moverse. Elegir la altura adecuada ayuda a que los pies descansen sobre el suelo.",
+      "script_hr": "Stolice nam pomažu da zajedno jedemo, čitamo, crtamo i učimo. Uredske stolice podržavaju ljude koji sjede za rad, dok invalidska kolica pomažu ljudima da se kreću. Odabir prave visine pomaže da stopala budu ravno na podu.",
+      "script_cs": "Židle nám pomáhají společně jíst, číst, kreslit a učit se. Kancelářské židle podporují lidi, kteří sedí při práci, zatímco invalidní vozíky pomáhají lidem pohybovat se. Volba správné výšky pomáhá chodidlům spočívat na podlaze.",
+      "script_pl": "Krzesła pomagają nam jeść razem, czytać, rysować i uczyć się. Krzesła biurowe wspierają osoby siedzące podczas pracy, natomiast wózki inwalidzkie ułatwiają poruszanie się. Wybór odpowiedniej wysokości pomaga stopom spoczywać płasko na podłodze.",
+      "script_fi": "Tuolit auttavat meitä syömään yhdessä, lukemaan, piirtämään ja oppimaan. Työtuolit tukevat ihmisiä, jotka istuvat töissä, kun taas pyörätuolit auttavat ihmisiä liikkumaan. Oikean korkeuden valinta auttaa jalkoja lepäämään tasaisesti lattiaa vasten.",
+      "script_sk": "Stoličky nám pomáhajú spolu jesť, čítať, kresliť a učiť sa. Kancelárske stoličky podporujú ľudí, ktorí sedia pri práci, zatiaľ čo invalidné vozíky pomáhajú ľuďom pohybovať sa. Výber správnej výšky pomáha chodidlám spočívať na podlahe.",
+      "script_da": "Stole hjælper os med at spise sammen, læse, tegne og lære. Kontorstole støtter folk, der sidder på arbejde, mens kørestole hjælper folk med at bevæge sig rundt. At vælge den rigtige højde hjælper fødderne med at hvile fladt på gulvet.",
+      "images": [
+        "uses.webp",
+        "uses_2.webp",
+        "uses_3.webp"
+      ]
+    },
+    {
+      "id": "today",
+      "script_en": "Today chairs are made from wood, metal, plastic, and fabric. Designers think about comfort and support, especially for people who sit for long periods. Good posture helps the body feel better.",
+      "script_de": "Heutzutage werden Stühle aus Holz, Metall, Kunststoff und Stoff hergestellt. Designer denken an Komfort und Unterstützung, insbesondere für Menschen, die lange sitzen. Eine gute Haltung trägt dazu bei, dass sich der Körper besser fühlt.",
+      "script_it": "Oggi le sedie sono realizzate in legno, metallo, plastica e tessuto. I designer pensano al comfort e al sostegno, soprattutto per le persone che stanno sedute per lunghi periodi. Una buona postura aiuta il corpo a sentirsi meglio.",
+      "script_fr": "Aujourd’hui, les chaises sont fabriquées à partir de bois, de métal, de plastique et de tissu. Les concepteurs pensent au confort et au soutien, en particulier pour les personnes qui restent assises pendant de longues périodes. Une bonne posture aide le corps à se sentir mieux.",
+      "script_es": "Hoy en día las sillas se fabrican con madera, metal, plástico y tela. Los diseñadores piensan en la comodidad y el apoyo, especialmente para las personas que permanecen sentadas durante largos períodos. Una buena postura ayuda al cuerpo a sentirse mejor.",
+      "script_hr": "Danas se stolice izrađuju od drva, metala, plastike i tkanine. Dizajneri razmišljaju o udobnosti i potpori, posebno za ljude koji dugo sjede. Dobro držanje pomaže tijelu da se osjeća bolje.",
+      "script_cs": "Dnešní židle jsou vyráběny ze dřeva, kovu, plastu a tkaniny. Návrháři myslí na pohodlí a podporu, zejména pro lidi, kteří sedí po dlouhou dobu. Dobré držení těla pomáhá tělu cítit se lépe.",
+      "script_pl": "Obecnie krzesła są wykonane z drewna, metalu, plastiku i tkaniny. Projektanci myślą o komforcie i wsparciu, szczególnie dla osób, które siedzą przez długi czas. Dobra postawa pomaga ciału poczuć się lepiej.",
+      "script_fi": "Nykyään tuolit valmistetaan puusta, metallista, muovista ja kankaasta. Suunnittelijat ajattelevat mukavuutta ja tukea, erityisesti pitkiä aikoja istuvat ihmiset. Hyvä ryhti parantaa kehon oloa.",
+      "script_sk": "Dnes sa stoličky vyrábajú z dreva, kovu, plastu a látky. Dizajnéri myslia na pohodlie a podporu, najmä pre ľudí, ktorí dlho sedia. Dobré držanie tela pomáha telu cítiť sa lepšie.",
+      "script_da": "I dag er stole lavet af træ, metal, plastik og stof. Designere tænker på komfort og støtte, især for folk, der sidder i lange perioder. God kropsholdning hjælper kroppen til at føle sig bedre.",
+      "images": [
+        "today.webp",
+        "today_2.webp",
+        "today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "back",
+      "correct": "back",
+      "question_en": "What supports your back on a chair?",
+      "question_de": "Was stützt Ihren Rücken auf einem Stuhl?",
+      "question_it": "Cosa sostiene la tua schiena su una sedia?",
+      "question_fr": "Qu'est-ce qui soutient votre dos sur une chaise ?",
+      "question_es": "¿Qué sostiene tu espalda en una silla?",
+      "question_hr": "Što podupire vaša leđa na stolcu?",
+      "question_cs": "Co podpírá vaše záda na židli?",
+      "question_pl": "Co podtrzymuje Twoje plecy na krześle?",
+      "question_fi": "Mikä tukee selkääsi tuolissa?",
+      "question_sk": "Čo podopiera váš chrbát na stoličke?",
+      "question_da": "Hvad støtter din ryg på en stol?",
+      "options": [
+        {
+          "id": "back",
+          "label_en": "The backrest",
+          "label_de": "Die Rückenlehne",
+          "label_it": "Lo schienale",
+          "label_fr": "Le dossier",
+          "label_es": "el respaldo",
+          "label_hr": "Naslon za leđa",
+          "label_cs": "Opěrka zad",
+          "label_pl": "Oparcie",
+          "label_fi": "Selkänoja",
+          "label_sk": "Operadlo",
+          "label_da": "Ryglænet"
+        },
+        {
+          "id": "legs",
+          "label_en": "The legs",
+          "label_de": "Die Beine",
+          "label_it": "Le gambe",
+          "label_fr": "Les jambes",
+          "label_es": "las piernas",
+          "label_hr": "Noge",
+          "label_cs": "Nohy",
+          "label_pl": "Nogi",
+          "label_fi": "Jalat",
+          "label_sk": "Nohy",
+          "label_da": "Benene"
+        },
+        {
+          "id": "seat",
+          "label_en": "The seat",
+          "label_de": "Der Sitz",
+          "label_it": "Il sedile",
+          "label_fr": "Le siège",
+          "label_es": "el asiento",
+          "label_hr": "Sjedište",
+          "label_cs": "Sedadlo",
+          "label_pl": "Siedzisko",
+          "label_fi": "Istuin",
+          "label_sk": "Sedadlo",
+          "label_da": "Sædet"
+        }
+      ]
+    },
+    {
+      "id": "legs",
+      "correct": "legs",
+      "question_en": "What holds a chair up?",
+      "question_de": "Was hält einen Stuhl hoch?",
+      "question_it": "Cosa sostiene una sedia?",
+      "question_fr": "Qu'est-ce qui retient une chaise ?",
+      "question_es": "¿Qué sostiene una silla?",
+      "question_hr": "Što drži stolicu podignutu?",
+      "question_cs": "Co drží židli?",
+      "question_pl": "Co podtrzymuje krzesło?",
+      "question_fi": "Mikä pitää tuolin pystyssä?",
+      "question_sk": "Čo drží stoličku?",
+      "question_da": "Hvad holder en stol oppe?",
+      "options": [
+        {
+          "id": "legs",
+          "label_en": "Its legs",
+          "label_de": "Seine Beine",
+          "label_it": "Le sue gambe",
+          "label_fr": "Ses jambes",
+          "label_es": "sus piernas",
+          "label_hr": "Njegove noge",
+          "label_cs": "Jeho nohy",
+          "label_pl": "Jego nogi",
+          "label_fi": "Sen jalat",
+          "label_sk": "Jeho nohy",
+          "label_da": "dens ben"
+        },
+        {
+          "id": "cushion",
+          "label_en": "The cushion",
+          "label_de": "Das Kissen",
+          "label_it": "Il cuscino",
+          "label_fr": "Le coussin",
+          "label_es": "el cojin",
+          "label_hr": "Jastuk",
+          "label_cs": "Polštář",
+          "label_pl": "Poduszka",
+          "label_fi": "Tyyny",
+          "label_sk": "Vankúš",
+          "label_da": "Puden"
+        },
+        {
+          "id": "back",
+          "label_en": "The back",
+          "label_de": "Der Rücken",
+          "label_it": "Il retro",
+          "label_fr": "Le dos",
+          "label_es": "la espalda",
+          "label_hr": "Stražnja strana",
+          "label_cs": "Zadní strana",
+          "label_pl": "Plecy",
+          "label_fi": "Takaosa",
+          "label_sk": "Chrbát",
+          "label_da": "Bagsiden"
+        }
+      ]
+    },
+    {
+      "id": "use",
+      "correct": "table",
+      "question_en": "Where do people often use chairs?",
+      "question_de": "Wo werden Stühle häufig genutzt?",
+      "question_it": "Dove le persone usano spesso le sedie?",
+      "question_fr": "Où les gens utilisent-ils souvent des chaises ?",
+      "question_es": "¿Dónde suele utilizar la gente las sillas?",
+      "question_hr": "Gdje ljudi često koriste stolice?",
+      "question_cs": "Kde lidé často používají židle?",
+      "question_pl": "Gdzie ludzie często korzystają z krzeseł?",
+      "question_fi": "Missä ihmiset usein käyttävät tuoleja?",
+      "question_sk": "Kde ľudia často používajú stoličky?",
+      "question_da": "Hvor bruger folk ofte stole?",
+      "options": [
+        {
+          "id": "table",
+          "label_en": "At tables",
+          "label_de": "An Tischen",
+          "label_it": "Ai tavoli",
+          "label_fr": "Aux tables",
+          "label_es": "en las mesas",
+          "label_hr": "Za stolovima",
+          "label_cs": "U stolů",
+          "label_pl": "Przy stołach",
+          "label_fi": "Pöydissä",
+          "label_sk": "Pri stoloch",
+          "label_da": "Ved borde"
+        },
+        {
+          "id": "sky",
+          "label_en": "In the sky",
+          "label_de": "Am Himmel",
+          "label_it": "Nel cielo",
+          "label_fr": "Dans le ciel",
+          "label_es": "en el cielo",
+          "label_hr": "Na nebu",
+          "label_cs": "Na obloze",
+          "label_pl": "Na niebie",
+          "label_fi": "Taivaalla",
+          "label_sk": "Na oblohe",
+          "label_da": "I himlen"
+        },
+        {
+          "id": "water",
+          "label_en": "Underwater",
+          "label_de": "Unterwasser",
+          "label_it": "Sott'acqua",
+          "label_fr": "Sous l'eau",
+          "label_es": "Submarino",
+          "label_hr": "Pod vodom",
+          "label_cs": "Pod vodou",
+          "label_pl": "Podwodny",
+          "label_fi": "Vedenalainen",
+          "label_sk": "Pod vodou",
+          "label_da": "Undervands"
+        }
+      ]
+    }
+  ]
+}
