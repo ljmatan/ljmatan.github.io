@@ -1,0 +1,293 @@
+{
+  "id": "backpack",
+  "category_id": "school",
+  "symbol_id": "backpack",
+  "thumbnail": "backpack_thumb.webp",
+  "title_en": "Backpacks",
+  "title_de": "Rucksäcke",
+  "title_it": "Zaini",
+  "title_fr": "Sacs à dos",
+  "title_es": "Mochilas",
+  "title_hr": "Ruksaci",
+  "title_cs": "Batohy",
+  "title_pl": "Plecaki",
+  "title_fi": "Reput",
+  "title_sk": "Batohy",
+  "title_da": "Rygsække",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about backpacks. A backpack is a bag with two straps that you wear on your back. Students use them to carry books, pencils, and lunch to school.",
+      "script_de": "Heute lernen wir etwas über Rucksäcke. Ein Rucksack ist eine Tasche mit zwei Riemen, die Sie auf dem Rücken tragen. Schüler tragen damit Bücher, Stifte und Mittagessen zur Schule.",
+      "script_it": "Oggi parleremo degli zaini. Uno zaino è una borsa con due cinghie che indossi sulla schiena. Gli studenti li usano per portare libri, matite e il pranzo a scuola.",
+      "script_fr": "Aujourd'hui, nous allons découvrir les sacs à dos. Un sac à dos est un sac doté de deux bretelles que l’on porte sur le dos. Les élèves les utilisent pour transporter des livres, des crayons et leur déjeuner à l'école.",
+      "script_es": "Hoy vamos a aprender sobre las mochilas. Una mochila es un bolso con dos correas que se lleva en la espalda. Los estudiantes los usan para llevar libros, lápices y almuerzo a la escuela.",
+      "script_hr": "Danas ćemo učiti o ruksacima. Ruksak je torba s dva remena koju nosite na leđima. Učenici ih koriste za nošenje knjiga, olovaka i ručka u školu.",
+      "script_cs": "Dnes se seznámíme s batohy. Batoh je taška se dvěma popruhy, kterou nosíte na zádech. Studenti je používají k nošení knih, tužek a obědů do školy.",
+      "script_pl": "Dzisiaj będziemy uczyć się o plecakach. Plecak to torba z dwoma paskami, którą nosi się na plecach. Uczniowie używają ich do noszenia książek, ołówków i drugiego śniadania do szkoły.",
+      "script_fi": "Tänään opimme repuista. Reppu on laukku, jossa on kaksi hihnaa, joita käytät selässäsi. Oppilaat käyttävät niitä kirjojen, kynien ja lounaan kuljettamiseen kouluun.",
+      "script_sk": "Dnes sa budeme učiť o batohoch. Batoh je taška s dvoma popruhmi, ktorú nosíte na chrbte. Študenti ich používajú na nosenie kníh, ceruziek a obeda do školy.",
+      "script_da": "I dag skal vi lære om rygsække. En rygsæk er en taske med to stropper, som du har på ryggen. Eleverne bruger dem til at bære bøger, blyanter og frokost i skole.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "parts",
+      "script_en": "A backpack has a main compartment and often several smaller pockets. Wide, padded straps are more comfortable than thin ones. Zippers keep everything safely inside.",
+      "script_de": "Ein Rucksack hat ein Hauptfach und oft mehrere kleinere Taschen. Breite, gepolsterte Träger sind bequemer als dünne. Reißverschlüsse halten alles sicher im Inneren.",
+      "script_it": "Uno zaino ha uno scomparto principale e spesso diverse tasche più piccole. Le spalline larghe e imbottite sono più comode di quelle sottili. Le cerniere tengono tutto al sicuro all'interno.",
+      "script_fr": "Un sac à dos possède un compartiment principal et souvent plusieurs petites poches. Les bretelles larges et rembourrées sont plus confortables que les bretelles fines. Les fermetures éclair gardent tout en sécurité à l'intérieur.",
+      "script_es": "Una mochila tiene un compartimento principal y, a menudo, varios bolsillos más pequeños. Los tirantes anchos y acolchados son más cómodos que los finos. Las cremalleras mantienen todo seguro en el interior.",
+      "script_hr": "Ruksak ima glavni pretinac i često nekoliko manjih džepova. Široke podstavljene naramenice udobnije su od tankih. Zatvarači drže sve na sigurnom unutra.",
+      "script_cs": "Batoh má hlavní komoru a často několik menších kapes. Široká, polstrovaná ramínka jsou pohodlnější než tenká. Zipy udrží vše bezpečně uvnitř.",
+      "script_pl": "Plecak posiada komorę główną oraz często kilka mniejszych kieszeni. Szerokie, wyściełane paski są wygodniejsze niż cienkie. Zamki błyskawiczne utrzymują wszystko bezpiecznie w środku.",
+      "script_fi": "Repussa on päälokero ja usein useita pienempiä taskuja. Leveät, pehmustetut olkaimet ovat mukavampia kuin ohuet. Vetoketjut pitävät kaiken turvallisesti sisällä.",
+      "script_sk": "Batoh má hlavnú priehradku a často aj niekoľko menších vreciek. Široké, polstrované popruhy sú pohodlnejšie ako tenké. Zipsy udržia všetko bezpečne vo vnútri.",
+      "script_da": "En rygsæk har et hovedrum og ofte flere mindre lommer. Brede, polstrede stropper er mere behagelige end tynde. Lynlåse holder alt sikkert inde.",
+      "images": [
+        "parts.webp",
+        "parts_2.webp",
+        "parts_3.webp"
+      ]
+    },
+    {
+      "id": "pack",
+      "script_en": "Pack the biggest books closest to your back. Use both straps so the weight is balanced. Carry only what you need, because a heavy bag can hurt your shoulders.",
+      "script_de": "Packen Sie die größten Bücher möglichst nah an Ihren Rücken. Benutzen Sie beide Gurte, damit das Gewicht ausgeglichen ist. Tragen Sie nur das, was Sie brauchen, denn eine schwere Tasche kann Ihre Schultern verletzen.",
+      "script_it": "Prepara i libri più grandi più vicini alla tua schiena. Utilizzare entrambe le cinghie in modo che il peso sia bilanciato. Porta con te solo ciò di cui hai bisogno, perché una borsa pesante può farti male alle spalle.",
+      "script_fr": "Emportez les plus gros livres le plus près de votre dos. Utilisez les deux sangles pour que le poids soit équilibré. Emportez uniquement ce dont vous avez besoin, car un sac lourd peut vous faire mal aux épaules.",
+      "script_es": "Empaque los libros más grandes cerca de su espalda. Utilice ambas correas para equilibrar el peso. Lleva sólo lo que necesites, porque una bolsa pesada puede lastimarte los hombros.",
+      "script_hr": "Spakirajte najveće knjige najbliže svojim leđima. Koristite obje trake kako bi težina bila uravnotežena. Nosite samo ono što vam je potrebno, jer teška torba može povrijediti vaša ramena.",
+      "script_cs": "Největší knihy si sbalte nejblíže k zádům. Použijte oba popruhy, aby byla váha vyvážená. Noste jen to, co potřebujete, protože z těžké tašky vás mohou bolet ramena.",
+      "script_pl": "Spakuj największe książki najbliżej pleców. Użyj obu pasków, aby ciężar był zrównoważony. Noś tylko to, czego potrzebujesz, ponieważ ciężka torba może zranić ramiona.",
+      "script_fi": "Pakkaa suurimmat kirjat lähimpänä selkääsi. Käytä molempia hihnoja, jotta paino on tasapainossa. Kuljeta vain sitä, mitä tarvitset, koska raskas laukku voi vahingoittaa hartioitasi.",
+      "script_sk": "Najväčšie knihy si zbaľte najbližšie k chrbtu. Použite oba popruhy, aby bola váha vyvážená. Noste len to, čo potrebujete, pretože z ťažkej tašky vás môžu bolieť ramená.",
+      "script_da": "Pak de største bøger tættest på ryggen. Brug begge stropper, så vægten er afbalanceret. Bær kun hvad du har brug for, for en tung taske kan skade dine skuldre.",
+      "images": [
+        "pack.webp",
+        "pack_2.webp",
+        "pack_3.webp"
+      ]
+    },
+    {
+      "id": "school",
+      "script_en": "At school, backpacks usually have a special place. Keeping your bag tidy makes it easier to find things. Check your bag each evening so nothing important is left at home.",
+      "script_de": "In der Schule nehmen Rucksäcke meist einen besonderen Platz ein. Wenn Sie Ihre Tasche aufgeräumt halten, können Sie Dinge leichter finden. Überprüfen Sie jeden Abend Ihre Tasche, damit nichts Wichtiges zu Hause zurückbleibt.",
+      "script_it": "A scuola, gli zaini hanno solitamente un posto speciale. Mantenere la borsa in ordine rende più facile trovare le cose. Controlla la borsa ogni sera in modo che non rimanga nulla di importante a casa.",
+      "script_fr": "À l’école, les sacs à dos ont généralement une place particulière. Garder votre sac bien rangé facilite la recherche des objets. Vérifiez votre sac chaque soir afin que rien d'important ne soit laissé à la maison.",
+      "script_es": "En el colegio las mochilas suelen tener un lugar especial. Mantener tu bolso ordenado hace que sea más fácil encontrar cosas. Revisa tu bolso cada noche para que no quede nada importante en casa.",
+      "script_hr": "U školi ruksaci obično imaju posebno mjesto. Održavanje torbe urednom olakšava pronalaženje stvari. Provjerite torbu svake večeri kako ništa važno ne bi ostalo kod kuće.",
+      "script_cs": "Ve škole mají batohy obvykle zvláštní místo. Udržování pořádku v tašce usnadňuje hledání věcí. Každý večer si zkontrolujte tašku, aby doma nezůstalo nic důležitého.",
+      "script_pl": "W szkole plecaki zajmują zazwyczaj szczególne miejsce. Utrzymanie porządku w torbie ułatwia znalezienie rzeczy. Każdego wieczoru sprawdzaj swoją torbę, aby nic ważnego nie zostało w domu.",
+      "script_fi": "Koulussa repuilla on yleensä erityinen paikka. Laukun siistinä pitäminen helpottaa tavaroiden löytämistä. Tarkista laukkusi joka ilta, jotta mitään tärkeää ei jää kotiin.",
+      "script_sk": "V škole majú batohy zvyčajne špeciálne miesto. Udržiavanie tašky v poriadku uľahčuje hľadanie vecí. Každý večer si skontrolujte tašku, aby vám doma nezostalo nič dôležité.",
+      "script_da": "I skolen har rygsække som regel en særlig plads. At holde din taske ryddelig gør det nemmere at finde ting. Tjek din taske hver aften, så intet vigtigt er tilbage derhjemme.",
+      "images": [
+        "school.webp",
+        "school_2.webp",
+        "school_3.webp"
+      ]
+    },
+    {
+      "id": "care",
+      "script_en": "Backpacks last longer when they are cared for. Wipe off dirt, empty crumbs, and let a wet bag dry fully. If a strap breaks, ask an adult to help fix it.",
+      "script_de": "Rucksäcke halten länger, wenn sie gepflegt werden. Schmutz abwischen, Krümel ausleeren und einen nassen Beutel vollständig trocknen lassen. Wenn ein Riemen reißt, bitten Sie einen Erwachsenen, bei der Reparatur zu helfen.",
+      "script_it": "Gli zaini durano più a lungo se vengono curati. Rimuovere lo sporco, le briciole vuote e lasciare asciugare completamente la borsa bagnata. Se una cinghia si rompe, chiedi a un adulto di aiutarti a ripararla.",
+      "script_fr": "Les sacs à dos durent plus longtemps lorsqu'ils sont entretenus. Essuyez la saleté, videz les miettes et laissez sécher complètement un sac humide. Si une sangle se brise, demande à un adulte de t'aider à la réparer.",
+      "script_es": "Las mochilas duran más cuando se cuidan. Limpie la suciedad, vacíe las migas y deje que una bolsa mojada se seque por completo. Si una correa se rompe, pídele a un adulto que te ayude a arreglarla.",
+      "script_hr": "Ruksaci traju dulje kada se o njima brine. Obrišite prljavštinu, ispraznite mrvice i ostavite mokru vrećicu da se potpuno osuši. Ako remen pukne, zamolite odraslu osobu da vam ga popravi.",
+      "script_cs": "Batohy vydrží déle, když je o ně postaráno. Otřete nečistoty, vysypte drobky a nechte mokrý sáček úplně vyschnout. Pokud se popruh přetrhne, požádejte dospělého, aby jej pomohl opravit.",
+      "script_pl": "Plecaki służą dłużej, jeśli się o nie dba. Wytrzyj brud, usuń okruchy i pozostaw wilgotną torbę do całkowitego wyschnięcia. Jeśli pasek się zepsuje, poproś osobę dorosłą o pomoc w jego naprawie.",
+      "script_fi": "Reput kestävät pidempään, kun niistä huolehditaan. Pyyhi pois lika, tyhjennä murut ja anna märän pussin kuivua kokonaan. Jos hihna katkeaa, pyydä aikuista auttamaan sen korjaamisessa.",
+      "script_sk": "Batohy vydržia dlhšie, keď sa o ne starajú. Utrite nečistoty, vysypte omrvinky a nechajte mokré vrecko úplne vyschnúť. Ak sa popruh pretrhne, požiadajte dospelú osobu, aby vám pomohla opraviť ho.",
+      "script_da": "Rygsække holder længere, når de bliver plejet. Tør snavs af, tøm krummer, og lad en våd pose tørre helt. Hvis en rem går i stykker, så bed en voksen om at hjælpe med at reparere den.",
+      "images": [
+        "care.webp",
+        "care_2.webp",
+        "care_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "what",
+      "correct": "back",
+      "question_en": "What is a backpack worn on?",
+      "question_de": "Worauf wird ein Rucksack getragen?",
+      "question_it": "Su cosa si indossa uno zaino?",
+      "question_fr": "Sur quoi porte-t-on un sac à dos ?",
+      "question_es": "¿En qué se lleva una mochila?",
+      "question_hr": "Na što se nosi ruksak?",
+      "question_cs": "Na čem se nosí batoh?",
+      "question_pl": "Do czego nosi się plecak?",
+      "question_fi": "Mitä reppua käytetään?",
+      "question_sk": "Na čom sa nosí batoh?",
+      "question_da": "Hvad bæres en rygsæk på?",
+      "options": [
+        {
+          "id": "back",
+          "label_en": "Your back",
+          "label_de": "Dein Rücken",
+          "label_it": "La tua schiena",
+          "label_fr": "Votre dos",
+          "label_es": "tu espalda",
+          "label_hr": "Tvoja leđa",
+          "label_cs": "Vaše záda",
+          "label_pl": "Twoje plecy",
+          "label_fi": "Selkäsi",
+          "label_sk": "Tvoj chrbát",
+          "label_da": "Din ryg"
+        },
+        {
+          "id": "head",
+          "label_en": "Your head",
+          "label_de": "Dein Kopf",
+          "label_it": "La tua testa",
+          "label_fr": "Ta tête",
+          "label_es": "tu cabeza",
+          "label_hr": "Tvoja glava",
+          "label_cs": "Vaše hlava",
+          "label_pl": "Twoja głowa",
+          "label_fi": "Pääsi",
+          "label_sk": "Vaša hlava",
+          "label_da": "Dit hoved"
+        },
+        {
+          "id": "foot",
+          "label_en": "Your foot",
+          "label_de": "Dein Fuß",
+          "label_it": "Il tuo piede",
+          "label_fr": "Ton pied",
+          "label_es": "tu pie",
+          "label_hr": "Tvoja noga",
+          "label_cs": "Tvoje noha",
+          "label_pl": "Twoja stopa",
+          "label_fi": "Jalkasi",
+          "label_sk": "Tvoja noha",
+          "label_da": "Din fod"
+        }
+      ]
+    },
+    {
+      "id": "straps",
+      "correct": "two",
+      "question_en": "How many straps does a backpack usually have?",
+      "question_de": "Wie viele Gurte hat ein Rucksack normalerweise?",
+      "question_it": "Quante cinghie ha solitamente uno zaino?",
+      "question_fr": "Combien de bretelles possède généralement un sac à dos ?",
+      "question_es": "¿Cuántas correas suele tener una mochila?",
+      "question_hr": "Koliko remena obično ima ruksak?",
+      "question_cs": "Kolik popruhů má obvykle batoh?",
+      "question_pl": "Ile pasków zwykle ma plecak?",
+      "question_fi": "Kuinka monta hihnaa repussa yleensä on?",
+      "question_sk": "Koľko popruhov má zvyčajne batoh?",
+      "question_da": "Hvor mange stropper har en rygsæk normalt?",
+      "options": [
+        {
+          "id": "two",
+          "label_en": "Two",
+          "label_de": "Zwei",
+          "label_it": "Due",
+          "label_fr": "Deux",
+          "label_es": "Dos",
+          "label_hr": "Dva",
+          "label_cs": "Dva",
+          "label_pl": "Dwa",
+          "label_fi": "Kaksi",
+          "label_sk": "Dvaja",
+          "label_da": "To"
+        },
+        {
+          "id": "one",
+          "label_en": "One",
+          "label_de": "Eins",
+          "label_it": "Uno",
+          "label_fr": "Un",
+          "label_es": "Uno",
+          "label_hr": "Jedan",
+          "label_cs": "Jeden",
+          "label_pl": "Jeden",
+          "label_fi": "Yksi",
+          "label_sk": "Jeden",
+          "label_da": "En"
+        },
+        {
+          "id": "five",
+          "label_en": "Five",
+          "label_de": "Fünf",
+          "label_it": "Cinque",
+          "label_fr": "Cinq",
+          "label_es": "Cinco",
+          "label_hr": "Pet",
+          "label_cs": "Pět",
+          "label_pl": "Pięć",
+          "label_fi": "Viisi",
+          "label_sk": "Päť",
+          "label_da": "Fem"
+        }
+      ]
+    },
+    {
+      "id": "heavy",
+      "correct": "both",
+      "question_en": "How can you keep a backpack comfortable?",
+      "question_de": "Wie hält man einen Rucksack bequem?",
+      "question_it": "Come mantenere comodo lo zaino?",
+      "question_fr": "Comment garder un sac à dos confortable ?",
+      "question_es": "¿Cómo mantener una mochila cómoda?",
+      "question_hr": "Kako vam ruksak može biti udoban?",
+      "question_cs": "Jak můžete udržet batoh pohodlný?",
+      "question_pl": "Jak zadbać o wygodę plecaka?",
+      "question_fi": "Kuinka voit pitää reppu mukavana?",
+      "question_sk": "Ako udržať batoh pohodlný?",
+      "question_da": "Hvordan kan du holde en rygsæk komfortabel?",
+      "options": [
+        {
+          "id": "both",
+          "label_en": "Use both straps and pack light",
+          "label_de": "Benutzen Sie beide Gurte und packen Sie Licht ein",
+          "label_it": "Usa entrambe le cinghie e porta con te la luce",
+          "label_fr": "Utilisez les deux sangles et la lampe de poche",
+          "label_es": "Utilice ambas correas y lleve luz",
+          "label_hr": "Koristite obje naramenice i nosite se lagano",
+          "label_cs": "Použijte oba popruhy a sbalte se",
+          "label_pl": "Użyj obu pasków i spakuj lekki plecak",
+          "label_fi": "Käytä molempia hihnoja ja pakkausvaloa",
+          "label_sk": "Použite oba popruhy a zabaľte sa",
+          "label_da": "Brug både stropper og paklys"
+        },
+        {
+          "id": "one",
+          "label_en": "Use one strap",
+          "label_de": "Verwenden Sie einen Riemen",
+          "label_it": "Usa una cinghia",
+          "label_fr": "Utilisez une sangle",
+          "label_es": "Usa una correa",
+          "label_hr": "Koristite jedan remen",
+          "label_cs": "Použijte jeden popruh",
+          "label_pl": "Użyj jednego paska",
+          "label_fi": "Käytä yhtä hihnaa",
+          "label_sk": "Použite jeden popruh",
+          "label_da": "Brug en rem"
+        },
+        {
+          "id": "run",
+          "label_en": "Fill it with rocks",
+          "label_de": "Füllen Sie es mit Steinen",
+          "label_it": "Riempilo con le rocce",
+          "label_fr": "Remplissez-le de pierres",
+          "label_es": "Llénalo con piedras",
+          "label_hr": "Napunite ga kamenjem",
+          "label_cs": "Naplňte ji kameny",
+          "label_pl": "Wypełnij go kamieniami",
+          "label_fi": "Täytä se kivillä",
+          "label_sk": "Naplňte ju kameňmi",
+          "label_da": "Fyld den med sten"
+        }
+      ]
+    }
+  ]
+}
