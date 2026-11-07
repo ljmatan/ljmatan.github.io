@@ -1,0 +1,293 @@
+{
+  "id": "hiking",
+  "category_id": "activities",
+  "symbol_id": "hiking",
+  "thumbnail": "hiking_thumb.webp",
+  "title_en": "Hiking",
+  "title_de": "Wandern",
+  "title_it": "Escursionismo",
+  "title_fr": "Randonnée",
+  "title_es": "Senderismo",
+  "title_hr": "Planinarenje",
+  "title_cs": "Turistika",
+  "title_pl": "Turystyka piesza",
+  "title_fi": "Patikointi",
+  "title_sk": "Pešia turistika",
+  "title_da": "Vandring",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about hiking. Hiking is walking along trails in nature for fun and exercise. Hikers explore forests, hills, and mountains.",
+      "script_de": "Heute werden wir etwas über das Wandern lernen. Wandern ist das Spazierengehen auf Wegen in der Natur, um Spaß zu haben und sich sportlich zu betätigen. Wanderer erkunden Wälder, Hügel und Berge.",
+      "script_it": "Oggi impareremo a conoscere l'escursionismo. Fare escursionismo è camminare lungo sentieri immersi nella natura per divertirsi ed esercitarsi. Gli escursionisti esplorano foreste, colline e montagne.",
+      "script_fr": "Aujourd'hui, nous allons découvrir la randonnée. La randonnée, c'est parcourir des sentiers dans la nature pour s'amuser et faire de l'exercice. Les randonneurs explorent les forêts, les collines et les montagnes.",
+      "script_es": "Hoy vamos a aprender sobre senderismo. El senderismo es caminar por senderos en la naturaleza para divertirse y hacer ejercicio. Los excursionistas exploran bosques, colinas y montañas.",
+      "script_hr": "Danas ćemo učiti o planinarenju. Planinarenje je hodanje stazama u prirodi radi zabave i tjelovježbe. Planinari istražuju šume, brda i planine.",
+      "script_cs": "Dnes se budeme učit o pěší turistice. Pěší turistika je procházka po stezkách v přírodě za zábavou a cvičením. Turisté prozkoumávají lesy, kopce a hory.",
+      "script_pl": "Dziś będziemy uczyć się o pieszych wędrówkach. Piesze wędrówki to spacery po szlakach w naturze dla zabawy i ćwiczeń. Wędrowcy zwiedzają lasy, wzgórza i góry.",
+      "script_fi": "Tänään opimme vaellusta. Vaellus on kävelyä luonnonpoluilla huvin ja liikunnan vuoksi. Vaeltajat tutkivat metsiä, kukkuloita ja vuoria.",
+      "script_sk": "Dnes sa budeme učiť o turistike. Pešia turistika je prechádzka po chodníkoch v prírode za zábavou a cvičením. Turisti spoznávajú lesy, kopce a hory.",
+      "script_da": "I dag skal vi lære om vandreture. Vandring er at gå langs stier i naturen for sjov og motion. Vandrere udforsker skove, bakker og bjerge.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "gear",
+      "script_en": "Hikers wear comfortable boots and carry water, snacks, and a map. A waterproof jacket is useful if the weather changes. Tell someone where you are going and when you plan to return.",
+      "script_de": "Wanderer tragen bequeme Stiefel und haben Wasser, Snacks und eine Karte dabei. Eine wasserdichte Jacke ist nützlich, wenn das Wetter umschlägt. Sagen Sie jemandem, wohin Sie gehen und wann Sie zurückkehren möchten.",
+      "script_it": "Gli escursionisti indossano stivali comodi e portano con sé acqua, snack e una mappa. Una giacca impermeabile è utile se il tempo cambia. Dì a qualcuno dove stai andando e quando pensi di tornare.",
+      "script_fr": "Les randonneurs portent des bottes confortables et emportent de l'eau, des collations et une carte. Une veste imperméable est utile si le temps change. Dites à quelqu’un où vous allez et quand vous comptez revenir.",
+      "script_es": "Los excursionistas usan botas cómodas y llevan agua, refrigerios y un mapa. Una chaqueta impermeable es útil si el tiempo cambia. Dígale a alguien adónde va y cuándo planea regresar.",
+      "script_hr": "Planinari nose udobne čizme i nose vodu, grickalice i kartu. Vodootporna jakna korisna je ako se vrijeme promijeni. Recite nekome kamo idete i kada se planirate vratiti.",
+      "script_cs": "Turisté nosí pohodlné boty a vodu, občerstvení a mapu. Při změně počasí se hodí nepromokavá bunda. Řekněte někomu, kam jedete a kdy se plánujete vrátit.",
+      "script_pl": "Wędrowcy noszą wygodne buty i noszą wodę, przekąski i mapę. Wodoodporna kurtka przydaje się, gdy zmienia się pogoda. Powiedz komuś, dokąd się wybierasz i kiedy planujesz wrócić.",
+      "script_fi": "Retkeilijät käyttävät mukavia saappaita ja kantavat mukanaan vettä, välipaloja ja karttaa. Vedenpitävä takki on hyödyllinen sään muuttuessa. Kerro jollekin, minne olet menossa ja milloin aiot palata.",
+      "script_sk": "Turisti nosia pohodlné topánky a nosia so sebou vodu, občerstvenie a mapu. Nepremokavá bunda je užitočná pri zmene počasia. Povedzte niekomu, kam idete a kedy sa plánujete vrátiť.",
+      "script_da": "Vandrere bærer komfortable støvler og medbringer vand, snacks og et kort. En vandtæt jakke er nyttig, hvis vejret skifter. Fortæl nogen, hvor du skal hen, og hvornår du planlægger at vende tilbage.",
+      "images": [
+        "gear.webp",
+        "gear_2.webp",
+        "gear_3.webp"
+      ]
+    },
+    {
+      "id": "trail",
+      "script_en": "Trails are often marked with coloured signs or paint. Stay on the path to protect plants and avoid getting lost. Take your rubbish home and leave nature as you found it.",
+      "script_de": "Wege sind oft mit farbigen Schildern oder Farbe markiert. Bleiben Sie auf dem Weg, um die Pflanzen zu schützen und sich nicht zu verlaufen. Nehmen Sie Ihren Müll mit nach Hause und hinterlassen Sie die Natur so, wie Sie sie vorgefunden haben.",
+      "script_it": "I sentieri sono spesso segnalati con cartelli colorati o vernice. Rimani sul sentiero per proteggere le piante ed evitare di perderti. Porta a casa i tuoi rifiuti e lascia la natura come l'hai trovata.",
+      "script_fr": "Les sentiers sont souvent balisés avec des panneaux colorés ou de la peinture. Restez sur le chemin pour protéger les plantes et éviter de vous perdre. Ramenez vos déchets à la maison et laissez la nature telle que vous l'avez trouvée.",
+      "script_es": "Los senderos suelen estar marcados con señales de colores o pintura. Manténgase en el camino para proteger las plantas y evitar perderse. Lleva tu basura a casa y deja la naturaleza tal como la encontraste.",
+      "script_hr": "Staze su često označene znakovima u boji ili bojom. Ostanite na putu kako biste zaštitili biljke i izbjegli da se izgubite. Odnesite svoje smeće kući i ostavite prirodu onakvu kakvu ste je zatekli.",
+      "script_cs": "Stezky jsou často značeny barevnými značkami nebo barvou. Zůstaňte na cestě k ochraně rostlin a vyhněte se ztrátě. Vezměte si své odpadky domů a nechte přírodu tak, jak jste ji našli.",
+      "script_pl": "Szlaki są często oznaczone kolorowymi znakami lub farbą. Pozostań na ścieżce, aby chronić rośliny i uniknąć zgubienia się. Zabierz śmieci do domu i zostaw przyrodę taką, jaką je zastałeś.",
+      "script_fi": "Polut on usein merkitty värillisillä kylteillä tai maalilla. Pysy tiellä suojellaksesi kasveja ja välttääksesi eksymistä. Vie roskat kotiin ja jätä luonto sellaisena kuin sen löysit.",
+      "script_sk": "Trate sú často označené farebnými značkami alebo farbou. Zostaňte na ceste, aby ste chránili rastliny a vyhli sa strate. Odneste si odpadky domov a nechajte prírodu tak, ako ste ju našli.",
+      "script_da": "Stier er ofte markeret med farvede skilte eller maling. Bliv på stien for at beskytte planter og undgå at fare vild. Tag dit affald med hjem og forlad naturen, som du fandt den.",
+      "images": [
+        "trail.webp",
+        "trail_2.webp",
+        "trail_3.webp"
+      ]
+    },
+    {
+      "id": "pace",
+      "script_en": "Hiking can be tiring, so walk at a steady pace and take breaks. Drink water before you feel thirsty. Turn back if the weather gets bad or someone feels unwell.",
+      "script_de": "Wandern kann ermüdend sein. Gehen Sie daher in einem gleichmäßigen Tempo und machen Sie Pausen. Trinken Sie Wasser, bevor Sie Durst verspüren. Kehren Sie um, wenn das Wetter schlecht wird oder sich jemand unwohl fühlt.",
+      "script_it": "L'escursionismo può essere stancante, quindi cammina a un ritmo costante e fai delle pause. Bevi acqua prima di avere sete. Torna indietro se il tempo peggiora o qualcuno non si sente bene.",
+      "script_fr": "La randonnée peut être fatiguante, alors marchez à un rythme régulier et faites des pauses. Buvez de l’eau avant d’avoir soif. Faites demi-tour si le temps se gâte ou si quelqu'un ne se sent pas bien.",
+      "script_es": "Caminar puede ser agotador, así que camine a un ritmo constante y tome descansos. Beba agua antes de tener sed. Regrese si hace mal tiempo o si alguien se siente mal.",
+      "script_hr": "Planinarenje može biti naporno, stoga hodajte ujednačenim tempom i pravite pauze. Pijte vodu prije nego što osjetite žeđ. Vratite se ako se vrijeme pokvari ili se netko ne osjeća dobro.",
+      "script_cs": "Pěší turistika může být únavná, proto choďte stálým tempem a dělejte si přestávky. Před pocitem žízně pijte vodu. Vraťte se, pokud se zhorší počasí nebo se někdo necítí dobře.",
+      "script_pl": "Wędrówka może być męcząca, więc idź w stałym tempie i rób przerwy. Pij wodę, zanim poczujesz pragnienie. Zawróć, jeśli pogoda się pogorszy lub ktoś poczuje się źle.",
+      "script_fi": "Vaellus voi olla väsyttävää, joten kävele tasaisesti ja pidä taukoja. Juo vettä ennen kuin tunnet janoa. Käänny takaisin, jos sää huononee tai joku voi huonosti.",
+      "script_sk": "Pešia turistika môže byť únavná, preto choďte rovnomerným tempom a robte si prestávky. Pred pocitom smädu vypite vodu. Vráťte sa, ak sa zhorší počasie alebo sa niekto necíti dobre.",
+      "script_da": "Vandring kan være trættende, så gå i et jævnt tempo og hold pauser. Drik vand, før du føler dig tørstig. Vend tilbage, hvis vejret bliver dårligt, eller nogen føler sig utilpas.",
+      "images": [
+        "pace.webp",
+        "pace_2.webp",
+        "pace_3.webp"
+      ]
+    },
+    {
+      "id": "today",
+      "script_en": "Today hiking is a popular way to enjoy nature and stay healthy. Some people hike for a few hours, and others go on long journeys. Every hike is a chance to see something new.",
+      "script_de": "Heute ist Wandern eine beliebte Art, die Natur zu genießen und gesund zu bleiben. Manche Menschen wandern ein paar Stunden, andere unternehmen lange Reisen. Jede Wanderung ist eine Chance, etwas Neues zu sehen.",
+      "script_it": "Oggi l'escursionismo è un modo popolare per godersi la natura e mantenersi in salute. Alcune persone camminano per qualche ora, mentre altre intraprendono lunghi viaggi. Ogni escursione è un'occasione per vedere qualcosa di nuovo.",
+      "script_fr": "Aujourd’hui, la randonnée est un moyen populaire de profiter de la nature et de rester en bonne santé. Certains marchent quelques heures, d’autres font de longs voyages. Chaque randonnée est l'occasion de voir quelque chose de nouveau.",
+      "script_es": "Hoy en día, el senderismo es una forma popular de disfrutar de la naturaleza y mantenerse saludable. Algunas personas caminan durante unas horas y otras realizan viajes largos. Cada caminata es una oportunidad de ver algo nuevo.",
+      "script_hr": "Danas je planinarenje popularan način uživanja u prirodi i očuvanja zdravlja. Neki ljudi pješače nekoliko sati, a drugi idu na duga putovanja. Svako planinarenje je prilika da se vidi nešto novo.",
+      "script_cs": "Dnes je turistika oblíbeným způsobem, jak si užít přírodu a zůstat zdravý. Někteří lidé jdou několik hodin na túru a jiní se vydávají na dlouhé cesty. Každý výlet je příležitostí vidět něco nového.",
+      "script_pl": "Obecnie wędrówki są popularnym sposobem na cieszenie się przyrodą i zachowanie zdrowia. Niektórzy wybierają się na kilkugodzinną wędrówkę, inni wybierają się w długą podróż. Każda wędrówka to szansa, aby zobaczyć coś nowego.",
+      "script_fi": "Nykyään vaellus on suosittu tapa nauttia luonnosta ja pysyä terveenä. Jotkut ihmiset patikoivat muutaman tunnin, ja toiset lähtevät pitkille matkoille. Jokainen vaellus on mahdollisuus nähdä jotain uutta.",
+      "script_sk": "Dnes je turistika obľúbeným spôsobom, ako si užiť prírodu a zostať zdravý. Niektorí chodia na túru niekoľko hodín a iní idú na dlhé cesty. Každá túra je príležitosťou vidieť niečo nové.",
+      "script_da": "I dag er vandreture en populær måde at nyde naturen og holde sig sund. Nogle mennesker vandrer i et par timer, og andre tager på lange rejser. Hver vandretur er en chance for at se noget nyt.",
+      "images": [
+        "today.webp",
+        "today_2.webp",
+        "today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "what",
+      "correct": "walk",
+      "question_en": "What is hiking?",
+      "question_de": "Was ist Wandern?",
+      "question_it": "Cos'è l'escursionismo?",
+      "question_fr": "Qu’est-ce que la randonnée ?",
+      "question_es": "¿Qué es el senderismo?",
+      "question_hr": "Što je planinarenje?",
+      "question_cs": "co je turistika?",
+      "question_pl": "Co to jest wędrówki?",
+      "question_fi": "Mitä on vaellus?",
+      "question_sk": "čo je turistika?",
+      "question_da": "Hvad er vandring?",
+      "options": [
+        {
+          "id": "walk",
+          "label_en": "Walking on trails in nature",
+          "label_de": "Wandern auf Wegen in der Natur",
+          "label_it": "Camminare su sentieri nella natura",
+          "label_fr": "Marcher sur des sentiers en pleine nature",
+          "label_es": "Caminando por senderos en la naturaleza",
+          "label_hr": "Hodanje stazama u prirodi",
+          "label_cs": "Procházky po stezkách v přírodě",
+          "label_pl": "Chodzenie po szlakach w przyrodzie",
+          "label_fi": "Kävely poluilla luonnossa",
+          "label_sk": "Chôdza po chodníkoch v prírode",
+          "label_da": "Gå på stier i naturen"
+        },
+        {
+          "id": "swim",
+          "label_en": "Swimming",
+          "label_de": "Baden",
+          "label_it": "Nuoto",
+          "label_fr": "Natation",
+          "label_es": "Nadar",
+          "label_hr": "Plivanje",
+          "label_cs": "Plavání",
+          "label_pl": "Pływacki",
+          "label_fi": "Uima",
+          "label_sk": "Plávanie",
+          "label_da": "Svømning"
+        },
+        {
+          "id": "fly",
+          "label_en": "Flying",
+          "label_de": "Fliegen",
+          "label_it": "Volare",
+          "label_fr": "Vol",
+          "label_es": "Vuelo",
+          "label_hr": "Leteći",
+          "label_cs": "Létající",
+          "label_pl": "Latający",
+          "label_fi": "Lentäminen",
+          "label_sk": "Lietanie",
+          "label_da": "Flyvende"
+        }
+      ]
+    },
+    {
+      "id": "gear",
+      "correct": "water",
+      "question_en": "What should hikers carry?",
+      "question_de": "Was sollten Wanderer mitnehmen?",
+      "question_it": "Cosa dovrebbero portare gli escursionisti?",
+      "question_fr": "Que doivent emporter les randonneurs ?",
+      "question_es": "¿Qué deben llevar los excursionistas?",
+      "question_hr": "Što bi planinari trebali nositi?",
+      "question_cs": "Co by si měli turisté vzít s sebou?",
+      "question_pl": "Co powinni zabrać ze sobą wędrowcy?",
+      "question_fi": "Mitä retkeilijöiden tulee kantaa?",
+      "question_sk": "Čo by si turisti mali vziať so sebou?",
+      "question_da": "Hvad skal vandrere medbringe?",
+      "options": [
+        {
+          "id": "water",
+          "label_en": "Water and a map",
+          "label_de": "Wasser und eine Karte",
+          "label_it": "Acqua e una mappa",
+          "label_fr": "De l'eau et une carte",
+          "label_es": "Agua y un mapa.",
+          "label_hr": "Voda i karta",
+          "label_cs": "Voda a mapa",
+          "label_pl": "Woda i mapa",
+          "label_fi": "Vesi ja kartta",
+          "label_sk": "Voda a mapa",
+          "label_da": "Vand og et kort"
+        },
+        {
+          "id": "tv",
+          "label_en": "A television",
+          "label_de": "Ein Fernseher",
+          "label_it": "Una televisione",
+          "label_fr": "Une télévision",
+          "label_es": "una television",
+          "label_hr": "Televizija",
+          "label_cs": "Televize",
+          "label_pl": "Telewizor",
+          "label_fi": "Televisio",
+          "label_sk": "Televízor",
+          "label_da": "Et fjernsyn"
+        },
+        {
+          "id": "pillow",
+          "label_en": "A pillow",
+          "label_de": "Ein Kissen",
+          "label_it": "Un cuscino",
+          "label_fr": "Un oreiller",
+          "label_es": "una almohada",
+          "label_hr": "Jastuk",
+          "label_cs": "Polštář",
+          "label_pl": "Poduszka",
+          "label_fi": "Tyyny",
+          "label_sk": "Vankúš",
+          "label_da": "En pude"
+        }
+      ]
+    },
+    {
+      "id": "trail",
+      "correct": "safe",
+      "question_en": "Why should hikers stay on the trail?",
+      "question_de": "Warum sollten Wanderer auf dem Weg bleiben?",
+      "question_it": "Perché gli escursionisti dovrebbero restare sul sentiero?",
+      "question_fr": "Pourquoi les randonneurs devraient-ils rester sur le sentier ?",
+      "question_es": "¿Por qué los excursionistas deberían permanecer en el sendero?",
+      "question_hr": "Zašto bi planinari trebali ostati na stazi?",
+      "question_cs": "Proč by měli turisté zůstat na stezce?",
+      "question_pl": "Dlaczego wędrowcy powinni pozostać na szlaku?",
+      "question_fi": "Miksi retkeilijöiden pitäisi pysyä polulla?",
+      "question_sk": "Prečo by mali turisti zostať na chodníku?",
+      "question_da": "Hvorfor skal vandrere blive på stien?",
+      "options": [
+        {
+          "id": "safe",
+          "label_en": "To stay safe and protect plants",
+          "label_de": "Um sicher zu bleiben und Pflanzen zu schützen",
+          "label_it": "Per stare al sicuro e proteggere le piante",
+          "label_fr": "Pour rester en sécurité et protéger les plantes",
+          "label_es": "Para mantenerse seguro y proteger las plantas",
+          "label_hr": "Da ostanemo sigurni i zaštitimo biljke",
+          "label_cs": "Zůstat v bezpečí a chránit rostliny",
+          "label_pl": "Aby zachować bezpieczeństwo i chronić rośliny",
+          "label_fi": "Pysyäksesi turvassa ja suojellaksesi kasveja",
+          "label_sk": "Aby zostali v bezpečí a chránili rastliny",
+          "label_da": "For at være sikker og beskytte planter"
+        },
+        {
+          "id": "mud",
+          "label_en": "To get muddy",
+          "label_de": "Um matschig zu werden",
+          "label_it": "Diventare fangoso",
+          "label_fr": "Pour devenir boueux",
+          "label_es": "enlodarse",
+          "label_hr": "Zamutiti se",
+          "label_cs": "Aby se zabahnila",
+          "label_pl": "Aby się zabłocić",
+          "label_fi": "Mutaiseksi",
+          "label_sk": "Zablatiť sa",
+          "label_da": "At blive mudret"
+        },
+        {
+          "id": "lost",
+          "label_en": "To get lost",
+          "label_de": "Sich verlaufen",
+          "label_it": "Perdersi",
+          "label_fr": "Pour se perdre",
+          "label_es": "perderse",
+          "label_hr": "Da se izgubim",
+          "label_cs": "Ztratit se",
+          "label_pl": "Aby się zgubić",
+          "label_fi": "Eksymään",
+          "label_sk": "Stratiť sa",
+          "label_da": "At fare vild"
+        }
+      ]
+    }
+  ]
+}

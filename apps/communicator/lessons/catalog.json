@@ -85,6 +85,27 @@
       "title_da": "Havearbejde"
     },
     {
+      "id": "hiking",
+      "category_id": "activities",
+      "symbol_id": "hiking",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/hiking/hiking_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/hiking/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2912676,
+      "version": 1,
+      "title_en": "Hiking",
+      "title_de": "Wandern",
+      "title_it": "Escursionismo",
+      "title_fr": "Randonnée",
+      "title_es": "Senderismo",
+      "title_hr": "Planinarenje",
+      "title_cs": "Turistika",
+      "title_pl": "Turystyka piesza",
+      "title_fi": "Patikointi",
+      "title_sk": "Pešia turistika",
+      "title_da": "Vandring"
+    },
+    {
       "id": "painting",
       "category_id": "activities",
       "symbol_id": "painting",
