@@ -1322,6 +1322,27 @@
       "title_fi": "Autot",
       "title_sk": "Autá",
       "title_da": "Biler"
+    },
+    {
+      "id": "train",
+      "category_id": "transport",
+      "symbol_id": "train",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/train/train_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/train/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2707991,
+      "version": 1,
+      "title_en": "Trains",
+      "title_de": "Züge",
+      "title_it": "Treni",
+      "title_fr": "Trains",
+      "title_es": "Trenes",
+      "title_hr": "Vlakovi",
+      "title_cs": "Vlaky",
+      "title_pl": "Pociągi",
+      "title_fi": "Junat",
+      "title_sk": "Vlaky",
+      "title_da": "Tog"
     }
   ]
 }

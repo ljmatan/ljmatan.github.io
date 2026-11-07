@@ -1,0 +1,293 @@
+{
+  "id": "train",
+  "category_id": "transport",
+  "symbol_id": "train",
+  "thumbnail": "train_thumb.webp",
+  "title_en": "Trains",
+  "title_de": "Züge",
+  "title_it": "Treni",
+  "title_fr": "Trains",
+  "title_es": "Trenes",
+  "title_hr": "Vlakovi",
+  "title_cs": "Vlaky",
+  "title_pl": "Pociągi",
+  "title_fi": "Junat",
+  "title_sk": "Vlaky",
+  "title_da": "Tog",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about trains. A train is a group of carriages pulled along metal rails. Trains can carry many people or heavy goods at the same time.",
+      "script_de": "Heute lernen wir etwas über Züge. Ein Zug ist eine Gruppe von Waggons, die entlang von Metallschienen gezogen werden. Züge können viele Personen oder schwere Güter gleichzeitig befördern.",
+      "script_it": "Oggi parleremo dei treni. Un treno è un gruppo di carrozze trainate su rotaie metalliche. I treni possono trasportare molte persone o merci pesanti contemporaneamente.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur les trains. Un train est un groupe de wagons tirés sur des rails métalliques. Les trains peuvent transporter plusieurs personnes ou marchandises lourdes en même temps.",
+      "script_es": "Hoy vamos a aprender sobre trenes. Un tren es un grupo de vagones arrastrados sobre rieles metálicos. Los trenes pueden transportar muchas personas o mercancías pesadas al mismo tiempo.",
+      "script_hr": "Danas ćemo učiti o vlakovima. Vlak je skupina vagona koji se vuku po metalnim tračnicama. Vlakovi mogu prevoziti mnogo ljudi ili teške terete u isto vrijeme.",
+      "script_cs": "Dnes se budeme učit o vlacích. Vlak je skupina vozů tažených po kovových kolejnicích. Vlaky mohou přepravovat mnoho lidí nebo těžký náklad současně.",
+      "script_pl": "Dzisiaj będziemy uczyć się o pociągach. Pociąg to grupa wagonów ciągniętych po metalowych szynach. Pociągi mogą przewozić jednocześnie wiele osób lub ciężkich towarów.",
+      "script_fi": "Tänään opimme junista. Juna on joukko vaunuja, joita vedetään metallikiskoja pitkin. Junat voivat kuljettaa useita ihmisiä tai raskaita tavaroita samanaikaisesti.",
+      "script_sk": "Dnes sa budeme učiť o vlakoch. Vlak je skupina vozňov ťahaných po kovových koľajniciach. Vlaky môžu súčasne prepravovať veľa ľudí alebo ťažký tovar.",
+      "script_da": "I dag skal vi lære om tog. Et tog er en gruppe vogne trukket langs metalskinner. Tog kan transportere mange mennesker eller tungt gods på samme tid.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "history",
+      "script_en": "The first trains were powered by steam engines. They changed the world by making it possible to travel long distances quickly. Later, diesel and electric trains replaced many steam engines.",
+      "script_de": "Die ersten Züge wurden von Dampfmaschinen angetrieben. Sie veränderten die Welt, indem sie es ermöglichten, schnell große Entfernungen zurückzulegen. Später ersetzten Diesel- und Elektrozüge viele Dampfmaschinen.",
+      "script_it": "I primi treni erano alimentati da motori a vapore. Hanno cambiato il mondo rendendo possibile percorrere rapidamente lunghe distanze. Successivamente, i treni diesel ed elettrici sostituirono molti motori a vapore.",
+      "script_fr": "Les premiers trains étaient propulsés par des machines à vapeur. Ils ont changé le monde en permettant de parcourir rapidement de longues distances. Plus tard, les trains diesel et électriques ont remplacé de nombreuses machines à vapeur.",
+      "script_es": "Los primeros trenes funcionaban con máquinas de vapor. Cambiaron el mundo al hacer posible viajar largas distancias rápidamente. Más tarde, los trenes diésel y eléctricos sustituyeron a muchas máquinas de vapor.",
+      "script_hr": "Prve vlakove pokretali su parni strojevi. Promijenili su svijet omogućivši brzo putovanje na velike udaljenosti. Kasnije su dizel i električni vlakovi zamijenili mnoge parne strojeve.",
+      "script_cs": "První vlaky byly poháněny parními stroji. Změnili svět tím, že umožnili rychle cestovat na velké vzdálenosti. Později dieselové a elektrické vlaky nahradily mnoho parních strojů.",
+      "script_pl": "Pierwsze pociągi napędzane były silnikami parowymi. Zmienili świat, umożliwiając szybkie pokonywanie długich dystansów. Później pociągi spalinowe i elektryczne zastąpiły wiele silników parowych.",
+      "script_fi": "Ensimmäiset junat olivat höyrykoneita. Ne muuttivat maailmaa mahdollistamalla pitkien matkojen matkustamisen nopeasti. Myöhemmin diesel- ja sähköjunat korvasivat monet höyrykoneet.",
+      "script_sk": "Prvé vlaky boli poháňané parnými strojmi. Zmenili svet tým, že umožnili rýchlo cestovať na veľké vzdialenosti. Neskôr dieselové a elektrické vlaky nahradili mnohé parné stroje.",
+      "script_da": "De første tog blev drevet af dampmaskiner. De ændrede verden ved at gøre det muligt at rejse lange afstande hurtigt. Senere erstattede diesel- og elektriske tog mange dampmaskiner.",
+      "images": [
+        "history.webp",
+        "history_2.webp",
+        "history_3.webp"
+      ]
+    },
+    {
+      "id": "parts",
+      "script_en": "A train runs on two steel rails. Its wheels are shaped to stay on the track, and signals tell the driver when it is safe to go. The engine at the front pulls the carriages behind it.",
+      "script_de": "Ein Zug fährt auf zwei Stahlschienen. Seine Räder sind so geformt, dass sie auf der Spur bleiben, und Signale informieren den Fahrer darüber, wann die Fahrt sicher ist. Der Motor vorne zieht die Kutschen hinter sich her.",
+      "script_it": "Un treno corre su due rotaie d'acciaio. Le sue ruote sono sagomate per rimanere in carreggiata e i segnali comunicano al conducente quando è sicuro procedere. Il motore davanti trascina le carrozze dietro di sé.",
+      "script_fr": "Un train circule sur deux rails en acier. Ses roues sont conçues pour rester sur la piste et des signaux indiquent au conducteur quand il peut partir en toute sécurité. Le moteur à l'avant tire les voitures derrière lui.",
+      "script_es": "Un tren circula sobre dos raíles de acero. Sus ruedas están diseñadas para permanecer en la pista y las señales le indican al conductor cuándo es seguro avanzar. El motor delantero tira de los vagones que se encuentran detrás.",
+      "script_hr": "Vlak vozi po dvije čelične tračnice. Njegovi kotači oblikovani su tako da ostanu na stazi, a signali govore vozaču kada je sigurno krenuti. Motor na prednjoj strani vuče vagone za sobom.",
+      "script_cs": "Vlak jezdí po dvou ocelových kolejích. Jeho kola jsou tvarována tak, aby zůstala na trati, a signály sdělují řidiči, kdy je bezpečné jet. Motor vpředu táhne kočáry za sebou.",
+      "script_pl": "Pociąg porusza się po dwóch stalowych szynach. Koła są ukształtowane tak, aby pozostawały na torze, a sygnały informują kierowcę, kiedy można bezpiecznie jechać. Lokomotywa z przodu ciągnie za sobą wagony.",
+      "script_fi": "Juna kulkee kahdella teräskiskolla. Sen pyörät on muotoiltu pysymään radalla, ja signaalit kertovat kuljettajalle, milloin se on turvallista. Etumoottori vetää vaunuja perässään.",
+      "script_sk": "Vlak jazdí po dvoch oceľových koľajniciach. Jeho kolesá sú tvarované tak, aby zostali na trati a signály oznamujú vodičovi, kedy je bezpečné ísť. Motor vpredu ťahá vozne za sebou.",
+      "script_da": "Et tog kører på to stålskinner. Dens hjul er formet til at blive på banen, og signaler fortæller føreren, hvornår det er sikkert at køre. Motoren foran trækker vognene bag sig.",
+      "images": [
+        "parts.webp",
+        "parts_2.webp",
+        "parts_3.webp"
+      ]
+    },
+    {
+      "id": "types",
+      "script_en": "There are many kinds of trains. Some carry passengers between cities, some carry coal or containers, and some run underground in big cities. High-speed trains can travel faster than many cars.",
+      "script_de": "Es gibt viele Arten von Zügen. Einige befördern Passagiere zwischen Städten, andere transportieren Kohle oder Container und wieder andere verkehren in Großstädten unterirdisch. Hochgeschwindigkeitszüge können schneller fahren als viele Autos.",
+      "script_it": "Esistono molti tipi di treni. Alcuni trasportano passeggeri tra le città, altri trasportano carbone o container e altri corrono sottoterra nelle grandi città. I treni ad alta velocità possono viaggiare più velocemente di molte automobili.",
+      "script_fr": "Il existe de nombreux types de trains. Certains transportent des passagers entre les villes, d’autres du charbon ou des conteneurs, et certains circulent sous terre dans les grandes villes. Les trains à grande vitesse peuvent voyager plus vite que de nombreuses voitures.",
+      "script_es": "Hay muchos tipos de trenes. Algunos transportan pasajeros entre ciudades, otros transportan carbón o contenedores y otros circulan bajo tierra en las grandes ciudades. Los trenes de alta velocidad pueden viajar más rápido que muchos coches.",
+      "script_hr": "Postoji mnogo vrsta vlakova. Neki prevoze putnike između gradova, neki prevoze ugljen ili kontejnere, a neki voze ispod zemlje u velikim gradovima. Brzi vlakovi mogu putovati brže od mnogih automobila.",
+      "script_cs": "Existuje mnoho druhů vlaků. Někteří vozí cestující mezi městy, někteří přepravují uhlí nebo kontejnery a někteří jezdí pod zemí ve velkých městech. Vysokorychlostní vlaky mohou jezdit rychleji než mnoho aut.",
+      "script_pl": "Jest wiele rodzajów pociągów. Niektóre przewożą pasażerów między miastami, inne przewożą węgiel lub kontenery, a jeszcze inne jeżdżą pod ziemią w dużych miastach. Pociągi dużych prędkości mogą podróżować szybciej niż wiele samochodów.",
+      "script_fi": "Junia on monenlaisia. Jotkut kuljettavat matkustajia kaupunkien välillä, jotkut kuljettavat hiiltä tai kontteja ja jotkut kulkevat maan alla suurissa kaupungeissa. Suurnopeusjunat voivat kulkea nopeammin kuin monet autot.",
+      "script_sk": "Existuje veľa druhov vlakov. Niektorí prepravujú cestujúcich medzi mestami, niektorí prevážajú uhlie alebo kontajnery a niektorí jazdia pod zemou vo veľkých mestách. Vysokorýchlostné vlaky môžu cestovať rýchlejšie ako mnohé autá.",
+      "script_da": "Der er mange slags tog. Nogle transporterer passagerer mellem byer, nogle medbringer kul eller containere, og nogle kører under jorden i storbyer. Højhastighedstog kan køre hurtigere end mange biler.",
+      "images": [
+        "types.webp",
+        "types_2.webp",
+        "types_3.webp"
+      ]
+    },
+    {
+      "id": "today",
+      "script_en": "Today trains are an important way to move people without using as much space or fuel as cars. Metro systems help cities breathe, and long-distance trains connect countries. Engineers are making trains even faster and quieter.",
+      "script_de": "Heutzutage sind Züge eine wichtige Möglichkeit, Menschen zu bewegen, ohne so viel Platz und Treibstoff zu verbrauchen wie Autos. U-Bahn-Systeme helfen Städten, zu atmen, und Fernzüge verbinden Länder. Ingenieure machen Züge noch schneller und leiser.",
+      "script_it": "Oggi i treni rappresentano un mezzo importante per spostare le persone senza utilizzare tanto spazio o carburante quanto le automobili. I sistemi metropolitani aiutano le città a respirare e i treni a lunga percorrenza collegano i paesi. Gli ingegneri stanno rendendo i treni ancora più veloci e silenziosi.",
+      "script_fr": "Aujourd’hui, les trains constituent un moyen important de déplacer les personnes sans utiliser autant d’espace ni de carburant que les voitures. Les systèmes de métro aident les villes à respirer et les trains longue distance relient les pays. Les ingénieurs rendent les trains encore plus rapides et plus silencieux.",
+      "script_es": "Hoy en día, los trenes son una forma importante de trasladar personas sin utilizar tanto espacio ni combustible como los automóviles. Los sistemas de metro ayudan a las ciudades a respirar y los trenes de larga distancia conectan a los países. Los ingenieros están haciendo que los trenes sean aún más rápidos y silenciosos.",
+      "script_hr": "Danas su vlakovi važan način za kretanje ljudi bez korištenja prostora ili goriva kao automobili. Metro sustavi pomažu gradovima da dišu, a međugradski vlakovi povezuju zemlje. Inženjeri rade vlakove još brže i tiše.",
+      "script_cs": "Vlaky jsou dnes důležitým způsobem přepravy lidí, aniž by spotřebovaly tolik prostoru nebo paliva jako auta. Systémy metra pomáhají městům dýchat a dálkové vlaky spojují země. Inženýři dělají vlaky ještě rychlejší a tišší.",
+      "script_pl": "Obecnie pociągi są ważnym sposobem przemieszczania ludzi bez zużywania tak dużej przestrzeni i paliwa jak samochody. Metro pomaga miastom oddychać, a pociągi dalekobieżne łączą kraje. Inżynierowie sprawiają, że pociągi są jeszcze szybsze i cichsze.",
+      "script_fi": "Nykyään junat ovat tärkeä tapa siirtää ihmisiä käyttämättä yhtä paljon tilaa tai polttoainetta kuin autot. Metrojärjestelmät auttavat kaupunkeja hengittämään, ja kaukojunat yhdistävät maita. Insinöörit tekevät junista entistä nopeampia ja hiljaisempia.",
+      "script_sk": "Vlaky sú dnes dôležitým spôsobom prepravy ľudí bez toho, aby spotrebovali toľko miesta alebo paliva ako autá. Systémy metra pomáhajú mestám dýchať a diaľkové vlaky spájajú krajiny. Inžinieri robia vlaky ešte rýchlejšie a tichšie.",
+      "script_da": "I dag er tog en vigtig måde at flytte folk på uden at bruge så meget plads eller brændstof som biler. Metrosystemer hjælper byer med at trække vejret, og langdistancetog forbinder lande. Ingeniører gør togene endnu hurtigere og mere støjsvage.",
+      "images": [
+        "today.webp",
+        "today_2.webp",
+        "today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "rails",
+      "correct": "rails",
+      "question_en": "Where do trains run?",
+      "question_de": "Wo fahren Züge?",
+      "question_it": "Dove passano i treni?",
+      "question_fr": "Où circulent les trains ?",
+      "question_es": "¿Por dónde circulan los trenes?",
+      "question_hr": "Gdje voze vlakovi?",
+      "question_cs": "Kde jezdí vlaky?",
+      "question_pl": "Gdzie jeżdżą pociągi?",
+      "question_fi": "Missä junat kulkevat?",
+      "question_sk": "Kde jazdia vlaky?",
+      "question_da": "Hvor kører togene?",
+      "options": [
+        {
+          "id": "rails",
+          "label_en": "On metal rails",
+          "label_de": "Auf Metallschienen",
+          "label_it": "Su binari metallici",
+          "label_fr": "Sur rails métalliques",
+          "label_es": "Sobre rieles metálicos",
+          "label_hr": "Na metalnim tračnicama",
+          "label_cs": "Na kovových kolejnicích",
+          "label_pl": "Na metalowych szynach",
+          "label_fi": "Metallikiskoilla",
+          "label_sk": "Na kovových koľajniciach",
+          "label_da": "På metalskinner"
+        },
+        {
+          "id": "road",
+          "label_en": "On ordinary roads",
+          "label_de": "Auf normalen Straßen",
+          "label_it": "Sulle strade ordinarie",
+          "label_fr": "Sur les routes ordinaires",
+          "label_es": "En carreteras ordinarias",
+          "label_hr": "Na običnim cestama",
+          "label_cs": "Na běžných silnicích",
+          "label_pl": "Na zwykłych drogach",
+          "label_fi": "Tavallisilla teillä",
+          "label_sk": "Na bežných cestách",
+          "label_da": "På almindelige veje"
+        },
+        {
+          "id": "water",
+          "label_en": "On water",
+          "label_de": "Auf dem Wasser",
+          "label_it": "Sull'acqua",
+          "label_fr": "Sur l'eau",
+          "label_es": "sobre el agua",
+          "label_hr": "Na vodi",
+          "label_cs": "Na vodě",
+          "label_pl": "Na wodzie",
+          "label_fi": "Veden päällä",
+          "label_sk": "Na vode",
+          "label_da": "På vandet"
+        }
+      ]
+    },
+    {
+      "id": "engine",
+      "correct": "locomotive",
+      "question_en": "What is the front part of a train called?",
+      "question_de": "Wie heißt der vordere Teil eines Zuges?",
+      "question_it": "Come si chiama la parte anteriore di un treno?",
+      "question_fr": "Comment s’appelle la partie avant d’un train ?",
+      "question_es": "¿Cómo se llama la parte delantera de un tren?",
+      "question_hr": "Kako se zove prednji dio vlaka?",
+      "question_cs": "Jak se nazývá přední část vlaku?",
+      "question_pl": "Jak nazywa się przednia część pociągu?",
+      "question_fi": "Mikä on junan etuosan nimi?",
+      "question_sk": "Ako sa volá predná časť vlaku?",
+      "question_da": "Hvad hedder den forreste del af et tog?",
+      "options": [
+        {
+          "id": "locomotive",
+          "label_en": "The locomotive",
+          "label_de": "Die Lokomotive",
+          "label_it": "La locomotiva",
+          "label_fr": "La locomotive",
+          "label_es": "la locomotora",
+          "label_hr": "Lokomotiva",
+          "label_cs": "Lokomotiva",
+          "label_pl": "Lokomotywa",
+          "label_fi": "Veturi",
+          "label_sk": "Lokomotíva",
+          "label_da": "Lokomotivet"
+        },
+        {
+          "id": "carriage",
+          "label_en": "The carriage",
+          "label_de": "Die Kutsche",
+          "label_it": "La carrozza",
+          "label_fr": "La calèche",
+          "label_es": "el carruaje",
+          "label_hr": "Kočija",
+          "label_cs": "Kočár",
+          "label_pl": "Powóz",
+          "label_fi": "Vaunu",
+          "label_sk": "Kočiar",
+          "label_da": "Vognen"
+        },
+        {
+          "id": "platform",
+          "label_en": "The platform",
+          "label_de": "Die Plattform",
+          "label_it": "La piattaforma",
+          "label_fr": "La plateforme",
+          "label_es": "la plataforma",
+          "label_hr": "Platforma",
+          "label_cs": "Platforma",
+          "label_pl": "Platforma",
+          "label_fi": "Alusta",
+          "label_sk": "Platforma",
+          "label_da": "Platformen"
+        }
+      ]
+    },
+    {
+      "id": "fast",
+      "correct": "high_speed",
+      "question_en": "Which trains are especially fast?",
+      "question_de": "Welche Züge sind besonders schnell?",
+      "question_it": "Quali treni sono particolarmente veloci?",
+      "question_fr": "Quels trains sont particulièrement rapides ?",
+      "question_es": "¿Qué trenes son especialmente rápidos?",
+      "question_hr": "Koji su vlakovi posebno brzi?",
+      "question_cs": "Které vlaky jsou obzvláště rychlé?",
+      "question_pl": "Które pociągi są szczególnie szybkie?",
+      "question_fi": "Mitkä junat ovat erityisen nopeita?",
+      "question_sk": "Ktoré vlaky sú obzvlášť rýchle?",
+      "question_da": "Hvilke tog er særligt hurtige?",
+      "options": [
+        {
+          "id": "high_speed",
+          "label_en": "High-speed trains",
+          "label_de": "Hochgeschwindigkeitszüge",
+          "label_it": "Treni ad alta velocità",
+          "label_fr": "Trains à grande vitesse",
+          "label_es": "Trenes de alta velocidad",
+          "label_hr": "Brzi vlakovi",
+          "label_cs": "Vysokorychlostní vlaky",
+          "label_pl": "Pociągi dużych prędkości",
+          "label_fi": "Suurnopeusjunat",
+          "label_sk": "Vysokorýchlostné vlaky",
+          "label_da": "Højhastighedstog"
+        },
+        {
+          "id": "steam",
+          "label_en": "Steam trains",
+          "label_de": "Dampfzüge",
+          "label_it": "Treni a vapore",
+          "label_fr": "Trains à vapeur",
+          "label_es": "Trenes de vapor",
+          "label_hr": "Parni vlakovi",
+          "label_cs": "Parní vlaky",
+          "label_pl": "Pociągi parowe",
+          "label_fi": "Höyryjunat",
+          "label_sk": "Parné vlaky",
+          "label_da": "Damptog"
+        },
+        {
+          "id": "freight",
+          "label_en": "Freight trains",
+          "label_de": "Güterzüge",
+          "label_it": "Treni merci",
+          "label_fr": "Trains de marchandises",
+          "label_es": "Trenes de mercancías",
+          "label_hr": "Teretni vlakovi",
+          "label_cs": "Nákladní vlaky",
+          "label_pl": "Pociągi towarowe",
+          "label_fi": "Tavarajunat",
+          "label_sk": "Nákladné vlaky",
+          "label_da": "Godstog"
+        }
+      ]
+    }
+  ]
+}
