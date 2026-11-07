@@ -1681,6 +1681,27 @@
       "title_da": "Helikoptre"
     },
     {
+      "id": "motorcycle",
+      "category_id": "transport",
+      "symbol_id": "motorcycle",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/motorcycle/motorcycle_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/motorcycle/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2356311,
+      "version": 1,
+      "title_en": "Motorcycles",
+      "title_de": "Motorräder",
+      "title_it": "Motociclette",
+      "title_fr": "Motos",
+      "title_es": "Motocicletas",
+      "title_hr": "Motocikli",
+      "title_cs": "Motocykly",
+      "title_pl": "Motocykle",
+      "title_fi": "Moottoripyörät",
+      "title_sk": "Motocykle",
+      "title_da": "Motorcykler"
+    },
+    {
       "id": "train",
       "category_id": "transport",
       "symbol_id": "train",

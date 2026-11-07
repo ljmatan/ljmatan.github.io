@@ -1,0 +1,293 @@
+{
+  "id": "motorcycle",
+  "category_id": "transport",
+  "symbol_id": "motorcycle",
+  "thumbnail": "motorcycle_thumb.webp",
+  "title_en": "Motorcycles",
+  "title_de": "Motorräder",
+  "title_it": "Motociclette",
+  "title_fr": "Motos",
+  "title_es": "Motocicletas",
+  "title_hr": "Motocikli",
+  "title_cs": "Motocykly",
+  "title_pl": "Motocykle",
+  "title_fi": "Moottoripyörät",
+  "title_sk": "Motocykle",
+  "title_da": "Motorcykler",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about motorcycles. A motorcycle is a two-wheeled vehicle with an engine. People ride them to travel quickly and to have fun on open roads.",
+      "script_de": "Heute lernen wir etwas über Motorräder. Ein Motorrad ist ein zweirädriges Fahrzeug mit Motor. Die Leute fahren damit, um schnell voranzukommen und Spaß auf offenen Straßen zu haben.",
+      "script_it": "Oggi impareremo a conoscere le motociclette. Una motocicletta è un veicolo a due ruote con un motore. La gente li usa per viaggiare velocemente e divertirsi sulle strade aperte.",
+      "script_fr": "Aujourd'hui, nous allons découvrir les motos. Une moto est un véhicule à deux roues équipé d'un moteur. Les gens les conduisent pour voyager vite et s'amuser sur les routes ouvertes.",
+      "script_es": "Hoy vamos a aprender sobre motocicletas. Una motocicleta es un vehículo de dos ruedas con motor. La gente los utiliza para viajar rápido y divertirse en carreteras abiertas.",
+      "script_hr": "Danas ćemo učiti o motociklima. Motocikl je vozilo na dva kotača s motorom. Ljudi ih voze kako bi brzo putovali i kako bi se zabavili na otvorenim cestama.",
+      "script_cs": "Dnes se budeme učit o motocyklech. Motocykl je dvoukolové vozidlo s motorem. Lidé na nich jezdí, aby mohli rychle cestovat a bavit se na otevřených silnicích.",
+      "script_pl": "Dzisiaj będziemy uczyć się o motocyklach. Motocykl to pojazd dwukołowy wyposażony w silnik. Ludzie jeżdżą na nich, aby szybko podróżować i dobrze się bawić na otwartych drogach.",
+      "script_fi": "Tänään opimme moottoripyöristä. Moottoripyörä on kaksipyöräinen ajoneuvo, jossa on moottori. Ihmiset ajavat niillä matkustaakseen nopeasti ja pitääkseen hauskaa avoimilla teillä.",
+      "script_sk": "Dnes sa budeme učiť o motocykloch. Motocykel je dvojkolesové vozidlo s motorom. Ľudia na nich jazdia, aby rýchlo cestovali a zabávali sa na otvorených cestách.",
+      "script_da": "I dag skal vi lære om motorcykler. En motorcykel er et tohjulet køretøj med motor. Folk rider dem for at rejse hurtigt og for at have det sjovt på åbne veje.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "parts",
+      "script_en": "A motorcycle has an engine between its wheels, handlebars for steering, and brakes on both wheels. Riders twist the throttle to go and squeeze the brakes to slow down. Good tyres help grip the road.",
+      "script_de": "Ein Motorrad hat einen Motor zwischen den Rädern, einen Lenker zum Lenken und Bremsen an beiden Rädern. Die Fahrer drehen am Gashebel, um zu fahren, und betätigen die Bremsen, um langsamer zu werden. Gute Reifen sorgen für guten Halt auf der Straße.",
+      "script_it": "Una motocicletta ha un motore tra le ruote, un manubrio per sterzare e freni su entrambe le ruote. I ciclisti girano l'acceleratore per andare e premono i freni per rallentare. Buoni pneumatici aiutano ad aderire alla strada.",
+      "script_fr": "Une moto a un moteur entre ses roues, un guidon pour la direction et des freins sur les deux roues. Les coureurs tournent l’accélérateur pour avancer et appuient sur les freins pour ralentir. De bons pneus aident à adhérer à la route.",
+      "script_es": "Una motocicleta tiene un motor entre las ruedas, manillares para la dirección y frenos en ambas ruedas. Los conductores giran el acelerador para avanzar y aprietan los frenos para reducir la velocidad. Los buenos neumáticos ayudan a agarrarse a la carretera.",
+      "script_hr": "Motocikl ima motor između kotača, upravljač za upravljanje i kočnice na oba kotača. Vozači okreću gas da krenu i stišću kočnice da uspore. Dobre gume pomažu u prianjanju ceste.",
+      "script_cs": "Motocykl má motor mezi koly, řídítka pro řízení a brzdy na obou kolech. Jezdci otáčí plynem, aby se rozjeli, a sešlápnou brzdy, aby zpomalili. Dobré pneumatiky pomáhají přilnavosti k vozovce.",
+      "script_pl": "Motocykl ma silnik umieszczony pomiędzy kołami, kierownicę do kierowania i hamulce na obu kołach. Jeźdźcy przekręcają przepustnicę, aby jechać, i naciskają hamulce, aby zwolnić. Dobre opony pomagają trzymać się drogi.",
+      "script_fi": "Moottoripyörässä on moottori pyörien välissä, ohjaustanko ohjausta varten ja jarrut molemmissa pyörissä. Kuljettajat kiertävät kaasua mennäkseen ja puristavat jarruja hidastaakseen vauhtia. Hyvät renkaat pitävät tien päällä.",
+      "script_sk": "Motocykel má motor medzi kolesami, riadidlá na riadenie a brzdy na oboch kolesách. Jazdci otáčajú plyn, aby mohli ísť, a stláčaním bŕzd spomalia. Dobré pneumatiky pomáhajú priľnavosti na ceste.",
+      "script_da": "En motorcykel har en motor mellem hjulene, styr til styring og bremser på begge hjul. Rytterne drejer gashåndtaget for at køre og klemmer på bremserne for at bremse. Gode ​​dæk hjælper med at holde vejen.",
+      "images": [
+        "parts.webp",
+        "parts_2.webp",
+        "parts_3.webp"
+      ]
+    },
+    {
+      "id": "safety",
+      "script_en": "Motorcycles are less protected than cars, so safety gear matters. A helmet protects the head, and a jacket and gloves protect the skin. Riders should be seen, stay out of blind spots, and never ride too fast.",
+      "script_de": "Motorräder sind weniger geschützt als Autos, daher ist Sicherheitsausrüstung wichtig. Ein Helm schützt den Kopf, Jacke und Handschuhe schützen die Haut. Fahrer sollten gesehen werden, sich aus toten Winkeln fernhalten und niemals zu schnell fahren.",
+      "script_it": "Le motociclette sono meno protette delle automobili, quindi l'attrezzatura di sicurezza è importante. Un casco protegge la testa e una giacca e guanti proteggono la pelle. I ciclisti dovrebbero essere visti, stare lontani dagli angoli ciechi e non guidare mai troppo velocemente.",
+      "script_fr": "Les motos sont moins protégées que les voitures, les équipements de sécurité sont donc importants. Un casque protège la tête et une veste et des gants protègent la peau. Les cyclistes doivent être vus, rester à l’écart des angles morts et ne jamais rouler trop vite.",
+      "script_es": "Las motocicletas están menos protegidas que los automóviles, por lo que el equipo de seguridad es importante. Un casco protege la cabeza y una chaqueta y guantes protegen la piel. Los pasajeros deben ser vistos, mantenerse alejados de los puntos ciegos y nunca conducir demasiado rápido.",
+      "script_hr": "Motocikli su manje zaštićeni od automobila, stoga je sigurnosna oprema važna. Kaciga štiti glavu, a jakna i rukavice štite kožu. Vozače treba vidjeti, kloniti se mrtvih kutova i nikada ne voziti prebrzo.",
+      "script_cs": "Motocykly jsou chráněny méně než auta, takže na bezpečnostních zařízeních záleží. Přilba chrání hlavu a bunda a rukavice chrání pokožku. Jezdci by měli být vidět, držet se mimo slepá místa a nikdy nejezdit příliš rychle.",
+      "script_pl": "Motocykle są mniej chronione niż samochody, dlatego sprzęt ochronny ma znaczenie. Kask chroni głowę, a kurtka i rękawiczki chronią skórę. Jeźdźcy powinni być widoczni, unikać martwych punktów i nigdy nie jeździć zbyt szybko.",
+      "script_fi": "Moottoripyörät ovat vähemmän suojattuja kuin autot, joten turvavarusteilla on väliä. Kypärä suojaa päätä ja takki ja käsineet suojaavat ihoa. Ratsastajat tulee nähdä, pysy poissa kuolleista kulmista äläkä koskaan aja liian nopeasti.",
+      "script_sk": "Motocykle sú menej chránené ako autá, preto je dôležitá bezpečnostná výbava. Prilba chráni hlavu a bunda a rukavice chránia pokožku. Jazdcov treba vidieť, držať sa mimo slepých uhlov a nikdy nejazdiť príliš rýchlo.",
+      "script_da": "Motorcykler er mindre beskyttede end biler, så sikkerhedsudstyr betyder noget. En hjelm beskytter hovedet, og en jakke og handsker beskytter huden. Ryttere skal ses, holde sig ude af blinde vinkler og aldrig køre for hurtigt.",
+      "images": [
+        "safety.webp",
+        "safety_2.webp",
+        "safety_3.webp"
+      ]
+    },
+    {
+      "id": "sport",
+      "script_en": "Motorcycles are also used for racing and for delivering small packages. Some are designed for rough dirt tracks, while others are built for long journeys. Each type has different tyres and suspension.",
+      "script_de": "Motorräder werden auch für Rennen und die Zustellung kleiner Pakete eingesetzt. Einige sind für holprige Feldwege konzipiert, während andere für lange Fahrten gebaut sind. Jeder Typ hat unterschiedliche Reifen und Federung.",
+      "script_it": "Le motociclette vengono utilizzate anche per le corse e per la consegna di piccoli pacchi. Alcuni sono progettati per strade sterrate accidentate, mentre altri sono costruiti per lunghi viaggi. Ogni tipo ha pneumatici e sospensioni diversi.",
+      "script_fr": "Les motos sont également utilisées pour les courses et pour la livraison de petits colis. Certains sont conçus pour les chemins de terre accidentés, tandis que d’autres sont construits pour les longs trajets. Chaque type a des pneus et une suspension différents.",
+      "script_es": "Las motocicletas también se utilizan para carreras y para repartir paquetes pequeños. Algunos están diseñados para caminos de tierra accidentados, mientras que otros están diseñados para viajes largos. Cada tipo tiene diferentes neumáticos y suspensión.",
+      "script_hr": "Motocikli se također koriste za utrke i dostavu malih paketa. Neki su dizajnirani za grube zemljane staze, dok su drugi napravljeni za duga putovanja. Svaki tip ima različite gume i ovjes.",
+      "script_cs": "Motocykly se také používají pro závodění a pro doručování malých zásilek. Některé jsou určeny pro drsné prašné cesty, zatímco jiné jsou určeny pro dlouhé cesty. Každý typ má jiné pneumatiky a odpružení.",
+      "script_pl": "Motocykle są również wykorzystywane do wyścigów i dostarczania małych paczek. Niektóre są przeznaczone do nierównych dróg gruntowych, inne zaś do długich podróży. Każdy typ ma inne opony i zawieszenie.",
+      "script_fi": "Moottoripyöriä käytetään myös kilpa-ajoon ja pienten pakettien toimittamiseen. Jotkut on suunniteltu karkeille hiekkaradoille, kun taas toiset on suunniteltu pitkiä matkoja varten. Jokaisella tyypillä on erilaiset renkaat ja jousitus.",
+      "script_sk": "Motocykle sa používajú aj na preteky a na doručovanie malých balíkov. Niektoré sú určené pre drsné prašné cesty, zatiaľ čo iné sú určené na dlhé cesty. Každý typ má iné pneumatiky a odpruženie.",
+      "script_da": "Motorcykler bruges også til racerløb og til levering af små pakker. Nogle er designet til hårde grusveje, mens andre er bygget til lange rejser. Hver type har forskellige dæk og affjedring.",
+      "images": [
+        "sport.webp",
+        "sport_2.webp",
+        "sport_3.webp"
+      ]
+    },
+    {
+      "id": "today",
+      "script_en": "Today electric motorcycles are becoming more common. They are quieter and produce no exhaust smoke. Whether electric or petrol-powered, motorcycles remain a fast and compact way to travel.",
+      "script_de": "Heutzutage werden elektrische Motorräder immer häufiger eingesetzt. Sie sind leiser und erzeugen keinen Abgasrauch. Ob elektrisch oder benzinbetrieben, Motorräder bleiben ein schnelles und kompaktes Fortbewegungsmittel.",
+      "script_it": "Oggi le moto elettriche stanno diventando sempre più comuni. Sono più silenziosi e non producono fumo di scarico. Che siano elettriche o a benzina, le moto rimangono un modo veloce e compatto di viaggiare.",
+      "script_fr": "Aujourd’hui, les motos électriques sont de plus en plus courantes. Ils sont plus silencieux et ne produisent aucune fumée d’échappement. Qu’elles soient électriques ou essence, les motos restent un moyen de déplacement rapide et compact.",
+      "script_es": "Hoy en día las motos eléctricas son cada vez más comunes. Son más silenciosos y no producen humo de escape. Ya sean eléctricas o de gasolina, las motocicletas siguen siendo una forma de viajar rápida y compacta.",
+      "script_hr": "Danas su električni motocikli sve češći. Tiši su i ne proizvode ispušni dim. Bez obzira na to jesu li na električni ili benzinski pogon, motocikli ostaju brz i kompaktan način putovanja.",
+      "script_cs": "Dnes jsou elektrické motocykly stále běžnější. Jsou tišší a neprodukují žádný výfukový kouř. Ať už na elektrický nebo benzínový pohon, motocykly zůstávají rychlým a kompaktním způsobem cestování.",
+      "script_pl": "Obecnie motocykle elektryczne stają się coraz popularniejsze. Są cichsze i nie wytwarzają dymu. Niezależnie od tego, czy napędzane są silnikiem elektrycznym, czy benzynowym, motocykle pozostają szybkim i kompaktowym sposobem podróżowania.",
+      "script_fi": "Nykyään sähkömoottoripyörät ovat yleistymässä. Ne ovat hiljaisempia eivätkä tuota pakokaasua. Olipa kyseessä sähkö- tai bensiinikäyttöinen, moottoripyörät ovat edelleen nopea ja kompakti tapa matkustaa.",
+      "script_sk": "Dnes sú elektrické motocykle čoraz bežnejšie. Sú tichšie a neprodukujú žiadny výfukový dym. Či už elektrické alebo benzínové, motocykle zostávajú rýchlym a kompaktným spôsobom cestovania.",
+      "script_da": "I dag bliver elektriske motorcykler mere almindelige. De er mere støjsvage og producerer ingen udstødningsrøg. Uanset om det er elektrisk eller benzindrevet, forbliver motorcykler en hurtig og kompakt måde at rejse på.",
+      "images": [
+        "today.webp",
+        "today_2.webp",
+        "today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "wheels",
+      "correct": "two",
+      "question_en": "How many wheels does a motorcycle have?",
+      "question_de": "Wie viele Räder hat ein Motorrad?",
+      "question_it": "Quante ruote ha una moto?",
+      "question_fr": "Combien de roues possède une moto ?",
+      "question_es": "¿Cuántas ruedas tiene una motocicleta?",
+      "question_hr": "Koliko kotača ima motocikl?",
+      "question_cs": "Kolik kol má motocykl?",
+      "question_pl": "Ile kół ma motocykl?",
+      "question_fi": "Kuinka monta pyörää moottoripyörässä on?",
+      "question_sk": "Koľko kolies má motocykel?",
+      "question_da": "Hvor mange hjul har en motorcykel?",
+      "options": [
+        {
+          "id": "two",
+          "label_en": "Two",
+          "label_de": "Zwei",
+          "label_it": "Due",
+          "label_fr": "Deux",
+          "label_es": "Dos",
+          "label_hr": "Dva",
+          "label_cs": "Dva",
+          "label_pl": "Dwa",
+          "label_fi": "Kaksi",
+          "label_sk": "Dvaja",
+          "label_da": "To"
+        },
+        {
+          "id": "four",
+          "label_en": "Four",
+          "label_de": "Vier",
+          "label_it": "Quattro",
+          "label_fr": "Quatre",
+          "label_es": "cuatro",
+          "label_hr": "četiri",
+          "label_cs": "Čtyři",
+          "label_pl": "Cztery",
+          "label_fi": "Neljä",
+          "label_sk": "Štyri",
+          "label_da": "Fire"
+        },
+        {
+          "id": "six",
+          "label_en": "Six",
+          "label_de": "Sechs",
+          "label_it": "Sei",
+          "label_fr": "Six",
+          "label_es": "Seis",
+          "label_hr": "Šest",
+          "label_cs": "Šest",
+          "label_pl": "Sześć",
+          "label_fi": "Kuusi",
+          "label_sk": "Šesť",
+          "label_da": "Seks"
+        }
+      ]
+    },
+    {
+      "id": "helmet",
+      "correct": "helmet",
+      "question_en": "What protects a rider's head?",
+      "question_de": "Was schützt den Kopf eines Fahrers?",
+      "question_it": "Cosa protegge la testa di un ciclista?",
+      "question_fr": "Qu'est-ce qui protège la tête d'un cavalier ?",
+      "question_es": "¿Qué protege la cabeza de un jinete?",
+      "question_hr": "Što štiti glavu jahača?",
+      "question_cs": "Co chrání hlavu jezdce?",
+      "question_pl": "Co chroni głowę jeźdźca?",
+      "question_fi": "Mikä suojaa ratsastajan päätä?",
+      "question_sk": "Čo chráni hlavu jazdca?",
+      "question_da": "Hvad beskytter en rytters hoved?",
+      "options": [
+        {
+          "id": "helmet",
+          "label_en": "A helmet",
+          "label_de": "Ein Helm",
+          "label_it": "Un casco",
+          "label_fr": "Un casque",
+          "label_es": "un casco",
+          "label_hr": "Kaciga",
+          "label_cs": "Přilba",
+          "label_pl": "Hełm",
+          "label_fi": "Kypärä",
+          "label_sk": "Prilba",
+          "label_da": "En hjelm"
+        },
+        {
+          "id": "scarf",
+          "label_en": "A scarf",
+          "label_de": "Ein Schal",
+          "label_it": "Una sciarpa",
+          "label_fr": "Une écharpe",
+          "label_es": "una bufanda",
+          "label_hr": "šal",
+          "label_cs": "Šátek",
+          "label_pl": "Szalik",
+          "label_fi": "Huivi",
+          "label_sk": "Šál",
+          "label_da": "Et tørklæde"
+        },
+        {
+          "id": "boots",
+          "label_en": "Boots",
+          "label_de": "Stiefel",
+          "label_it": "Stivali",
+          "label_fr": "Bottes",
+          "label_es": "Botas",
+          "label_hr": "Čizme",
+          "label_cs": "Boty",
+          "label_pl": "Buty",
+          "label_fi": "Saappaat",
+          "label_sk": "Čižmy",
+          "label_da": "Støvler"
+        }
+      ]
+    },
+    {
+      "id": "throttle",
+      "correct": "throttle",
+      "question_en": "What does the rider twist to go faster?",
+      "question_de": "Was dreht der Fahrer, um schneller zu fahren?",
+      "question_it": "Cosa gira il ciclista per andare più veloce?",
+      "question_fr": "Que fait le cavalier pour aller plus vite ?",
+      "question_es": "¿Qué gira el ciclista para ir más rápido?",
+      "question_hr": "Što jahač okreće da bi išao brže?",
+      "question_cs": "Co točí jezdec, aby jel rychleji?",
+      "question_pl": "Co skręca jeździec, żeby jechać szybciej?",
+      "question_fi": "Mitä ratsastaja vääntää mennäkseen nopeammin?",
+      "question_sk": "Čo krúti jazdec, aby išiel rýchlejšie?",
+      "question_da": "Hvad vrider rytteren for at gå hurtigere?",
+      "options": [
+        {
+          "id": "throttle",
+          "label_en": "The throttle",
+          "label_de": "Der Gashebel",
+          "label_it": "L'acceleratore",
+          "label_fr": "L'accélérateur",
+          "label_es": "el acelerador",
+          "label_hr": "Prigušnica",
+          "label_cs": "Plyn",
+          "label_pl": "Przepustnica",
+          "label_fi": "Kaasu",
+          "label_sk": "Plyn",
+          "label_da": "Gashåndtaget"
+        },
+        {
+          "id": "mirror",
+          "label_en": "The mirror",
+          "label_de": "Der Spiegel",
+          "label_it": "Lo specchio",
+          "label_fr": "Le miroir",
+          "label_es": "el espejo",
+          "label_hr": "Ogledalo",
+          "label_cs": "Zrcadlo",
+          "label_pl": "Lustro",
+          "label_fi": "Peili",
+          "label_sk": "Zrkadlo",
+          "label_da": "Spejlet"
+        },
+        {
+          "id": "seat",
+          "label_en": "The seat",
+          "label_de": "Der Sitz",
+          "label_it": "Il sedile",
+          "label_fr": "Le siège",
+          "label_es": "el asiento",
+          "label_hr": "Sjedište",
+          "label_cs": "Sedadlo",
+          "label_pl": "Siedzisko",
+          "label_fi": "Istuin",
+          "label_sk": "Sedadlo",
+          "label_da": "Sædet"
+        }
+      ]
+    }
+  ]
+}
