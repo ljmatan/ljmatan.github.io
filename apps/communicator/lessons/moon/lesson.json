@@ -1,0 +1,293 @@
+{
+  "id": "moon",
+  "category_id": "planets",
+  "symbol_id": "moon",
+  "thumbnail": "moon_thumb.webp",
+  "title_en": "The Moon",
+  "title_de": "Der Mond",
+  "title_it": "La Luna",
+  "title_fr": "La Lune",
+  "title_es": "la luna",
+  "title_hr": "Mjesec",
+  "title_cs": "Měsíc",
+  "title_pl": "Księżyc",
+  "title_fi": "Kuu",
+  "title_sk": "Mesiac",
+  "title_da": "Månen",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about the Moon. The Moon is Earth's only natural satellite. It circles our planet and lights up our night sky.",
+      "script_de": "Heute werden wir etwas über den Mond lernen. Der Mond ist der einzige natürliche Satellit der Erde. Es umkreist unseren Planeten und erhellt unseren Nachthimmel.",
+      "script_it": "Oggi conosceremo la Luna. La Luna è l'unico satellite naturale della Terra. Circonda il nostro pianeta e illumina il nostro cielo notturno.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur la Lune. La Lune est le seul satellite naturel de la Terre. Il fait le tour de notre planète et illumine notre ciel nocturne.",
+      "script_es": "Hoy vamos a aprender sobre la Luna. La Luna es el único satélite natural de la Tierra. Gira alrededor de nuestro planeta e ilumina nuestro cielo nocturno.",
+      "script_hr": "Danas ćemo učiti o Mjesecu. Mjesec je Zemljin jedini prirodni satelit. Kruži oko naše planete i osvjetljava naše noćno nebo.",
+      "script_cs": "Dnes se budeme učit o Měsíci. Měsíc je jediný přirozený satelit Země. Krouží naší planetou a osvětluje naši noční oblohu.",
+      "script_pl": "Dziś będziemy uczyć się o Księżycu. Księżyc jest jedynym naturalnym satelitą Ziemi. Okrąża naszą planetę i oświetla nasze nocne niebo.",
+      "script_fi": "Tänään opimme Kuusta. Kuu on Maan ainoa luonnollinen satelliitti. Se kiertää planeettamme ja valaisee yötaivaamme.",
+      "script_sk": "Dnes sa dozvieme niečo o Mesiaci. Mesiac je jediný prirodzený satelit Zeme. Obieha našu planétu a osvetľuje našu nočnú oblohu.",
+      "script_da": "I dag skal vi lære om Månen. Månen er Jordens eneste naturlige satellit. Den kredser om vores planet og lyser vores nattehimmel op.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "surface",
+      "script_en": "The Moon's surface is covered in craters, mountains, and dark plains. It has almost no air, so there is no wind or rain to smooth the rocks. Footprints left by astronauts can last for millions of years.",
+      "script_de": "Die Oberfläche des Mondes ist mit Kratern, Bergen und dunklen Ebenen bedeckt. Es gibt fast keine Luft, daher gibt es weder Wind noch Regen, die die Felsen glätten könnten. Von Astronauten hinterlassene Fußabdrücke können Millionen von Jahren überdauern.",
+      "script_it": "La superficie della Luna è ricoperta di crateri, montagne e pianure scure. Non c'è quasi aria, quindi non c'è vento o pioggia a levigare le rocce. Le impronte lasciate dagli astronauti possono durare milioni di anni.",
+      "script_fr": "La surface de la Lune est couverte de cratères, de montagnes et de plaines sombres. Il n’y a presque pas d’air, donc il n’y a ni vent ni pluie pour aplanir les rochers. Les empreintes laissées par les astronautes peuvent durer des millions d’années.",
+      "script_es": "La superficie de la Luna está cubierta de cráteres, montañas y llanuras oscuras. Casi no tiene aire, por lo que no hay viento ni lluvia que alisen las rocas. Las huellas dejadas por los astronautas pueden durar millones de años.",
+      "script_hr": "Mjesečeva je površina prekrivena kraterima, planinama i tamnim ravnicama. Zraka gotovo da i nema, pa nema ni vjetra ni kiše da zagladi stijene. Otisci stopala koje su ostavili astronauti mogu trajati milijunima godina.",
+      "script_cs": "Povrch Měsíce pokrývají krátery, hory a tmavé pláně. Nemá skoro žádný vzduch, takže tam nefouká vítr ani déšť, který by uhlazoval skály. Stopy zanechané kosmonauty mohou trvat miliony let.",
+      "script_pl": "Powierzchnia Księżyca pokryta jest kraterami, górami i ciemnymi równinami. Prawie nie ma tam powietrza, więc nie ma wiatru ani deszczu, który wygładzałby skały. Ślady pozostawione przez astronautów mogą przetrwać miliony lat.",
+      "script_fi": "Kuun pintaa peittävät kraatterit, vuoret ja tummat tasangot. Siinä ei ole melkein ilmaa, joten tuulta tai sadetta ei ole tasoittava kiviä. Astronautien jättämät jalanjäljet ​​voivat kestää miljoonia vuosia.",
+      "script_sk": "Povrch Mesiaca pokrývajú krátery, hory a tmavé pláne. Nemá takmer žiadny vzduch, takže nefúka vietor ani dážď, ktorý by vyhladzoval skaly. Stopy, ktoré zanechajú astronauti, môžu trvať milióny rokov.",
+      "script_da": "Månens overflade er dækket af kratere, bjerge og mørke sletter. Den har næsten ingen luft, så der er ingen vind eller regn til at glatte klipperne. Fodspor efterladt af astronauter kan vare i millioner af år.",
+      "images": [
+        "surface.webp",
+        "surface_2.webp",
+        "surface_3.webp"
+      ]
+    },
+    {
+      "id": "phases",
+      "script_en": "The Moon seems to change shape through the month. These phases happen because we see different amounts of its sunlit side. It starts as a thin crescent, grows to a full moon, and then shrinks again.",
+      "script_de": "Der Mond scheint im Laufe des Monats seine Form zu verändern. Diese Phasen treten auf, weil wir unterschiedlich viel von seiner sonnenbeschienenen Seite sehen. Es beginnt als dünne Sichel, wächst zu einem Vollmond und schrumpft dann wieder.",
+      "script_it": "La Luna sembra cambiare forma durante il mese. Queste fasi accadono perché vediamo quantità diverse del suo lato illuminato dal sole. Inizia come una sottile mezzaluna, cresce fino alla luna piena e poi si restringe di nuovo.",
+      "script_fr": "La Lune semble changer de forme au cours du mois. Ces phases se produisent parce que nous voyons différentes quantités de son côté ensoleillé. Cela commence comme un mince croissant, se transforme en pleine lune, puis rétrécit à nouveau.",
+      "script_es": "La Luna parece cambiar de forma a lo largo del mes. Estas fases ocurren porque vemos diferentes cantidades de su lado iluminado por el sol. Comienza como una delgada media luna, crece hasta convertirse en luna llena y luego vuelve a encogerse.",
+      "script_hr": "Čini se da Mjesec mijenja oblik kroz mjesec. Te se faze događaju jer vidimo različite količine njegove osunčane strane. Počinje kao tanki polumjesec, raste do punog mjeseca, a zatim se opet smanjuje.",
+      "script_cs": "Zdá se, že Měsíc během měsíce mění tvar. Tyto fáze se dějí, protože vidíme různá množství jeho osluněné strany. Začíná jako tenký srpek, roste do úplňku a pak se zase zmenšuje.",
+      "script_pl": "Wydaje się, że Księżyc zmienia kształt w ciągu miesiąca. Fazy ​​​​te mają miejsce, ponieważ widzimy różną ilość jego nasłonecznionej strony. Zaczyna się jako cienki półksiężyc, rośnie do pełni księżyca, a następnie ponownie się kurczy.",
+      "script_fi": "Kuu näyttää vaihtavan muotoaan kuukauden aikana. Nämä vaiheet tapahtuvat, koska näemme eri määriä sen auringon valaista puolta. Se alkaa ohuena puolikuuna, kasvaa täysikuuksi ja kutistuu sitten uudelleen.",
+      "script_sk": "Zdá sa, že Mesiac v priebehu mesiaca mení tvar. Tieto fázy sa dejú, pretože vidíme rôzne množstvá jeho slnečnej strany. Začína ako tenký polmesiac, rastie do splnu a potom sa opäť zmenšuje.",
+      "script_da": "Månen ser ud til at ændre form gennem måneden. Disse faser sker, fordi vi ser forskellige mængder af dens solbeskinnede side. Den starter som en tynd halvmåne, vokser til fuldmåne og skrumper så igen.",
+      "images": [
+        "phases.webp",
+        "phases_2.webp",
+        "phases_3.webp"
+      ]
+    },
+    {
+      "id": "tides",
+      "script_en": "The Moon's gravity pulls on Earth's oceans and helps create the tides. As the Moon moves around Earth, the tides rise and fall each day. Many animals that live near the shore depend on this rhythm.",
+      "script_de": "Die Schwerkraft des Mondes zieht die Ozeane der Erde an und trägt zur Entstehung der Gezeiten bei. Während sich der Mond um die Erde bewegt, steigen und fallen die Gezeiten jeden Tag. Viele Tiere, die in Ufernähe leben, sind auf diesen Rhythmus angewiesen.",
+      "script_it": "La gravità della Luna attira gli oceani terrestri e contribuisce a creare le maree. Mentre la Luna si muove attorno alla Terra, le maree salgono e scendono ogni giorno. Molti animali che vivono vicino alla riva dipendono da questo ritmo.",
+      "script_fr": "La gravité de la Lune attire les océans de la Terre et contribue à créer les marées. À mesure que la Lune se déplace autour de la Terre, les marées montent et descendent chaque jour. De nombreux animaux vivant près du rivage dépendent de ce rythme.",
+      "script_es": "La gravedad de la Luna atrae los océanos de la Tierra y ayuda a crear las mareas. A medida que la Luna se mueve alrededor de la Tierra, las mareas suben y bajan cada día. Muchos animales que viven cerca de la orilla dependen de este ritmo.",
+      "script_hr": "Mjesečeva gravitacija privlači Zemljine oceane i pomaže u stvaranju plime i oseke. Kako se Mjesec kreće oko Zemlje, plima raste i opada svaki dan. Mnoge životinje koje žive uz obalu ovise o ovom ritmu.",
+      "script_cs": "Gravitace Měsíce přitahuje pozemské oceány a pomáhá vytvářet příliv a odliv. Jak se Měsíc pohybuje kolem Země, příliv a odliv každý den stoupá a klesá. Na tomto rytmu závisí mnoho zvířat, která žijí poblíž pobřeží.",
+      "script_pl": "Grawitacja Księżyca przyciąga ziemskie oceany i pomaga w tworzeniu pływów. Gdy Księżyc porusza się wokół Ziemi, każdego dnia przypływy i odpływy wznoszą się i opadają. Wiele zwierząt żyjących w pobliżu brzegu zależy od tego rytmu.",
+      "script_fi": "Kuun painovoima vetää Maan valtameriä ja auttaa luomaan vuorovesi. Kun Kuu kiertää maata, vuorovesi nousee ja laskee joka päivä. Monet lähellä rantaa elävät eläimet ovat riippuvaisia ​​tästä rytmistä.",
+      "script_sk": "Gravitácia Mesiaca priťahuje zemské oceány a pomáha vytvárať príliv a odliv. Keď sa Mesiac pohybuje okolo Zeme, príliv a odliv každý deň stúpa a klesá. Mnoho zvierat, ktoré žijú v blízkosti brehu, závisí od tohto rytmu.",
+      "script_da": "Månens tyngdekraft trækker på Jordens oceaner og hjælper med at skabe tidevandet. Når Månen bevæger sig rundt om Jorden, stiger og falder tidevandet hver dag. Mange dyr, der lever nær kysten, er afhængige af denne rytme.",
+      "images": [
+        "tides.webp",
+        "tides_2.webp",
+        "tides_3.webp"
+      ]
+    },
+    {
+      "id": "explore",
+      "script_en": "People first walked on the Moon in 1969 during the Apollo missions. Today robots and new missions are studying the Moon again. It is the next step for humans travelling farther into space.",
+      "script_de": "Im Rahmen der Apollo-Missionen betraten 1969 erstmals Menschen den Mond. Heute erforschen Roboter und neue Missionen wieder den Mond. Es ist der nächste Schritt für Menschen, die weiter in den Weltraum reisen.",
+      "script_it": "L'uomo ha camminato per la prima volta sulla Luna nel 1969 durante le missioni Apollo. Oggi robot e nuove missioni tornano a studiare la Luna. È il passo successivo per gli esseri umani che viaggiano più lontano nello spazio.",
+      "script_fr": "Les premiers hommes ont marché sur la Lune en 1969 lors des missions Apollo. Aujourd’hui, des robots et de nouvelles missions étudient à nouveau la Lune. C’est la prochaine étape pour les humains voyageant plus loin dans l’espace.",
+      "script_es": "La primera vez que se pisó la Luna fue en 1969, durante las misiones Apolo. Hoy robots y nuevas misiones vuelven a estudiar la Luna. Es el siguiente paso para que los humanos viajen más al espacio.",
+      "script_hr": "Ljudi su prvi put hodali Mjesecom 1969. godine tijekom misije Apollo. Danas roboti i nove misije ponovno proučavaju Mjesec. To je sljedeći korak za ljude koji putuju dalje u svemir.",
+      "script_cs": "Lidé poprvé chodili po Měsíci v roce 1969 během misí Apollo. Dnes roboti a nové mise opět studují Měsíc. Je to další krok pro lidi cestující dále do vesmíru.",
+      "script_pl": "Po raz pierwszy ludzie stanęli na Księżycu w 1969 roku podczas misji Apollo. Dziś roboty i nowe misje ponownie badają Księżyc. To kolejny krok dla ludzi podróżujących dalej w kosmos.",
+      "script_fi": "Ihmiset kävelivät ensimmäisen kerran Kuussa vuonna 1969 Apollo-lentojen aikana. Tänään robotit ja uudet tehtävät tutkivat taas Kuuta. Se on seuraava askel ihmisille, jotka matkustavat kauemmas avaruuteen.",
+      "script_sk": "Ľudia prvýkrát kráčali po Mesiaci v roku 1969 počas misií Apollo. Dnes roboty a nové misie opäť študujú Mesiac. Je to ďalší krok pre ľudí, ktorí cestujú ďalej do vesmíru.",
+      "script_da": "Folk gik første gang på Månen i 1969 under Apollo-missionerne. I dag studerer robotter og nye missioner Månen igen. Det er det næste skridt for mennesker, der rejser længere ud i rummet.",
+      "images": [
+        "explore.webp",
+        "explore_2.webp",
+        "explore_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "what",
+      "correct": "satellite",
+      "question_en": "What is the Moon?",
+      "question_de": "Was ist der Mond?",
+      "question_it": "Cos'è la Luna?",
+      "question_fr": "Qu'est-ce que la Lune ?",
+      "question_es": "¿Qué es la Luna?",
+      "question_hr": "Što je Mjesec?",
+      "question_cs": "Co je Měsíc?",
+      "question_pl": "Czym jest Księżyc?",
+      "question_fi": "Mikä on Kuu?",
+      "question_sk": "Čo je Mesiac?",
+      "question_da": "Hvad er månen?",
+      "options": [
+        {
+          "id": "satellite",
+          "label_en": "Earth's natural satellite",
+          "label_de": "Der natürliche Satellit der Erde",
+          "label_it": "Il satellite naturale della Terra",
+          "label_fr": "Le satellite naturel de la Terre",
+          "label_es": "El satélite natural de la Tierra.",
+          "label_hr": "Zemljin prirodni satelit",
+          "label_cs": "Přirozený satelit Země",
+          "label_pl": "Naturalny satelita Ziemi",
+          "label_fi": "Maan luonnollinen satelliitti",
+          "label_sk": "Prirodzený satelit Zeme",
+          "label_da": "Jordens naturlige satellit"
+        },
+        {
+          "id": "star",
+          "label_en": "A star",
+          "label_de": "Ein Stern",
+          "label_it": "Una stella",
+          "label_fr": "Une étoile",
+          "label_es": "una estrella",
+          "label_hr": "zvijezda",
+          "label_cs": "Hvězda",
+          "label_pl": "Gwiazda",
+          "label_fi": "Tähti",
+          "label_sk": "Hviezda",
+          "label_da": "En stjerne"
+        },
+        {
+          "id": "planet",
+          "label_en": "A planet",
+          "label_de": "Ein Planet",
+          "label_it": "Un pianeta",
+          "label_fr": "Une planète",
+          "label_es": "un planeta",
+          "label_hr": "Planet",
+          "label_cs": "Planeta",
+          "label_pl": "Planeta",
+          "label_fi": "Planeetta",
+          "label_sk": "Planéta",
+          "label_da": "En planet"
+        }
+      ]
+    },
+    {
+      "id": "phases",
+      "correct": "sunlight",
+      "question_en": "Why does the Moon seem to change shape?",
+      "question_de": "Warum scheint der Mond seine Form zu ändern?",
+      "question_it": "Perché la Luna sembra cambiare forma?",
+      "question_fr": "Pourquoi la Lune semble-t-elle changer de forme ?",
+      "question_es": "¿Por qué la Luna parece cambiar de forma?",
+      "question_hr": "Zašto se čini da Mjesec mijenja oblik?",
+      "question_cs": "Proč se zdá, že Měsíc mění tvar?",
+      "question_pl": "Dlaczego Księżyc wydaje się zmieniać kształt?",
+      "question_fi": "Miksi Kuu näyttää muuttavan muotoaan?",
+      "question_sk": "Prečo sa zdá, že Mesiac mení tvar?",
+      "question_da": "Hvorfor ser Månen ud til at ændre form?",
+      "options": [
+        {
+          "id": "sunlight",
+          "label_en": "We see different amounts of its sunlit side",
+          "label_de": "Wir sehen unterschiedlich viel von seiner sonnenbeschienenen Seite",
+          "label_it": "Vediamo diverse quantità del suo lato illuminato dal sole",
+          "label_fr": "Nous voyons différentes quantités de son côté ensoleillé",
+          "label_es": "Vemos diferentes cantidades de su lado iluminado por el sol.",
+          "label_hr": "Vidimo različite količine njegove osunčane strane",
+          "label_cs": "Vidíme různá množství jeho osluněné strany",
+          "label_pl": "Widzimy różną ilość jego nasłonecznionej strony",
+          "label_fi": "Näemme eri määriä sen auringon valaista puolta",
+          "label_sk": "Vidíme rôzne množstvá jeho slnečnej strany",
+          "label_da": "Vi ser forskellige mængder af dens solbeskinnede side"
+        },
+        {
+          "id": "clouds",
+          "label_en": "Clouds cover it",
+          "label_de": "Wolken bedecken es",
+          "label_it": "Le nuvole lo coprono",
+          "label_fr": "Les nuages ​​le couvrent",
+          "label_es": "Las nubes lo cubren",
+          "label_hr": "Prekrivaju ga oblaci",
+          "label_cs": "Zakrývají to mraky",
+          "label_pl": "Zakrywają go chmury",
+          "label_fi": "Pilvet peittävät sen",
+          "label_sk": "Zakrývajú to mraky",
+          "label_da": "Skyer dækker det"
+        },
+        {
+          "id": "spin",
+          "label_en": "It spins faster",
+          "label_de": "Es dreht sich schneller",
+          "label_it": "Gira più velocemente",
+          "label_fr": "Il tourne plus vite",
+          "label_es": "gira mas rapido",
+          "label_hr": "Brže se vrti",
+          "label_cs": "Točí se rychleji",
+          "label_pl": "Obraca się szybciej",
+          "label_fi": "Se pyörii nopeammin",
+          "label_sk": "Točí sa rýchlejšie",
+          "label_da": "Den snurrer hurtigere"
+        }
+      ]
+    },
+    {
+      "id": "tides",
+      "correct": "tides",
+      "question_en": "What does the Moon help create on Earth?",
+      "question_de": "Was trägt der Mond zur Entstehung auf der Erde bei?",
+      "question_it": "Cosa contribuisce a creare la Luna sulla Terra?",
+      "question_fr": "Qu’est-ce que la Lune contribue à créer sur Terre ?",
+      "question_es": "¿Qué ayuda a crear la Luna en la Tierra?",
+      "question_hr": "Što Mjesec pomaže stvoriti na Zemlji?",
+      "question_cs": "Co pomáhá vytvářet Měsíc na Zemi?",
+      "question_pl": "Co Księżyc pomaga stworzyć na Ziemi?",
+      "question_fi": "Mitä Kuu auttaa luomaan maan päälle?",
+      "question_sk": "Čo pomáha vytvárať Mesiac na Zemi?",
+      "question_da": "Hvad hjælper Månen med at skabe på Jorden?",
+      "options": [
+        {
+          "id": "tides",
+          "label_en": "Ocean tides",
+          "label_de": "Gezeiten im Ozean",
+          "label_it": "Maree oceaniche",
+          "label_fr": "Marées océaniques",
+          "label_es": "mareas oceánicas",
+          "label_hr": "Oceanske plime",
+          "label_cs": "Příliv a odliv oceánu",
+          "label_pl": "Pływy oceaniczne",
+          "label_fi": "Valtameren vuorovesi",
+          "label_sk": "Oceánske prílivy",
+          "label_da": "Hav tidevand"
+        },
+        {
+          "id": "rain",
+          "label_en": "Rain",
+          "label_de": "Regen",
+          "label_it": "Piovere",
+          "label_fr": "Pluie",
+          "label_es": "Lluvia",
+          "label_hr": "Kiša",
+          "label_cs": "Déšť",
+          "label_pl": "Deszcz",
+          "label_fi": "Sade",
+          "label_sk": "Dážď",
+          "label_da": "Regn"
+        },
+        {
+          "id": "wind",
+          "label_en": "Wind",
+          "label_de": "Wind",
+          "label_it": "Vento",
+          "label_fr": "Vent",
+          "label_es": "Viento",
+          "label_hr": "Vjetar",
+          "label_cs": "Vítr",
+          "label_pl": "Wiatr",
+          "label_fi": "Tuuli",
+          "label_sk": "Vietor",
+          "label_da": "Vind"
+        }
+      ]
+    }
+  ]
+}

@@ -1030,6 +1030,27 @@
       "title_da": "Mars"
     },
     {
+      "id": "moon",
+      "category_id": "planets",
+      "symbol_id": "moon",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/moon/moon_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/moon/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 1894308,
+      "version": 1,
+      "title_en": "The Moon",
+      "title_de": "Der Mond",
+      "title_it": "La Luna",
+      "title_fr": "La Lune",
+      "title_es": "la luna",
+      "title_hr": "Mjesec",
+      "title_cs": "Měsíc",
+      "title_pl": "Księżyc",
+      "title_fi": "Kuu",
+      "title_sk": "Mesiac",
+      "title_da": "Månen"
+    },
+    {
       "id": "saturn",
       "category_id": "planets",
       "symbol_id": "saturn",
