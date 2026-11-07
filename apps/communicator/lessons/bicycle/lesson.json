@@ -1,0 +1,293 @@
+{
+  "id": "bicycle",
+  "category_id": "transport",
+  "symbol_id": "bicycle",
+  "thumbnail": "bicycle_thumb.webp",
+  "title_en": "Bicycles",
+  "title_de": "Fahrräder",
+  "title_it": "Biciclette",
+  "title_fr": "Vélos",
+  "title_es": "bicicletas",
+  "title_hr": "Bicikli",
+  "title_cs": "jízdní kola",
+  "title_pl": "Rowery",
+  "title_fi": "Polkupyörät",
+  "title_sk": "Bicykle",
+  "title_da": "Cykler",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about bicycles. A bicycle has two wheels, a frame, and pedals. People ride bicycles to travel, exercise, and have fun.",
+      "script_de": "Heute lernen wir etwas über Fahrräder. Ein Fahrrad besteht aus zwei Rädern, einem Rahmen und Pedalen. Menschen fahren mit dem Fahrrad, um zu reisen, Sport zu treiben und Spaß zu haben.",
+      "script_it": "Oggi impareremo a conoscere le biciclette. Una bicicletta ha due ruote, un telaio e pedali. Le persone vanno in bicicletta per viaggiare, fare esercizio e divertirsi.",
+      "script_fr": "Aujourd'hui, nous allons découvrir les vélos. Un vélo a deux roues, un cadre et des pédales. Les gens font du vélo pour voyager, faire de l'exercice et s'amuser.",
+      "script_es": "Hoy vamos a aprender sobre bicicletas. Una bicicleta tiene dos ruedas, un cuadro y pedales. La gente anda en bicicleta para viajar, hacer ejercicio y divertirse.",
+      "script_hr": "Danas ćemo učiti o biciklima. Bicikl ima dva kotača, okvir i pedale. Ljudi voze bicikle kako bi putovali, vježbali i zabavili se.",
+      "script_cs": "Dnes se budeme učit o jízdních kolech. Kolo má dvě kola, rám a pedály. Lidé jezdí na kole, aby cestovali, cvičili a bavili se.",
+      "script_pl": "Dzisiaj będziemy uczyć się o rowerach. Rower ma dwa koła, ramę i pedały. Ludzie jeżdżą na rowerach, aby podróżować, ćwiczyć i bawić się.",
+      "script_fi": "Tänään opimme polkupyöristä. Polkupyörässä on kaksi pyörää, runko ja polkimet. Ihmiset ajavat polkupyörällä matkustaakseen, treenatakseen ja pitääkseen hauskaa.",
+      "script_sk": "Dnes sa budeme učiť o bicykloch. Bicykel má dve kolesá, rám a pedále. Ľudia jazdia na bicykli, aby cestovali, cvičili a zabávali sa.",
+      "script_da": "I dag skal vi lære om cykler. En cykel har to hjul, et stel og pedaler. Folk cykler for at rejse, træne og have det sjovt.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "history",
+      "script_en": "Early bicycles looked very different from today's bikes. Some had one huge front wheel and a tiny back wheel. Later, the safety bicycle with two equal wheels and a chain became popular.",
+      "script_de": "Frühe Fahrräder sahen ganz anders aus als heutige Fahrräder. Einige hatten ein riesiges Vorderrad und ein winziges Hinterrad. Später wurde das Sicherheitsfahrrad mit zwei gleichen Rädern und einer Kette populär.",
+      "script_it": "Le prime biciclette sembravano molto diverse dalle bici di oggi. Alcuni avevano un'enorme ruota anteriore e una piccola ruota posteriore. Successivamente divenne popolare la bicicletta di sicurezza con due ruote uguali e una catena.",
+      "script_fr": "Les premiers vélos étaient très différents des vélos d'aujourd'hui. Certains avaient une énorme roue avant et une petite roue arrière. Plus tard, le vélo de sécurité à deux roues égales et une chaîne est devenu populaire.",
+      "script_es": "Las primeras bicicletas tenían un aspecto muy diferente a las bicicletas actuales. Algunos tenían una enorme rueda delantera y una pequeña rueda trasera. Más tarde se hizo popular la bicicleta de seguridad con dos ruedas iguales y una cadena.",
+      "script_hr": "Rani bicikli izgledali su dosta drugačije od današnjih bicikala. Neki su imali jedan veliki prednji kotač i mali stražnji kotač. Kasnije je postao popularan sigurnosni bicikl s dva jednaka kotača i lancem.",
+      "script_cs": "Raná kola vypadala velmi odlišně od dnešních kol. Některé měly jedno velké přední kolo a malé zadní kolo. Později se stalo populární bezpečnostní kolo se dvěma stejnými koly a řetězem.",
+      "script_pl": "Wczesne rowery wyglądały zupełnie inaczej niż dzisiejsze rowery. Niektórzy mieli jedno ogromne przednie koło i małe tylne koło. Później popularny stał się rower bezpieczeństwa z dwoma jednakowymi kołami i łańcuchem.",
+      "script_fi": "Varhaiset pyörät näyttivät hyvin erilaisilta kuin nykyiset. Joillakin oli yksi iso etupyörä ja pieni takapyörä. Myöhemmin turvapyörä, jossa on kaksi yhtä suurta pyörää ja ketju, tuli suosituksi.",
+      "script_sk": "Rané bicykle vyzerali úplne inak ako tie dnešné. Niektoré mali jedno veľké predné koleso a maličké zadné koleso. Neskôr sa stal populárnym bezpečnostný bicykel s dvoma rovnakými kolesami a reťazou.",
+      "script_da": "Tidlige cykler så meget anderledes ud end nutidens cykler. Nogle havde et stort forhjul og et lille baghjul. Senere blev sikkerhedscyklen med to lige store hjul og en kæde populær.",
+      "images": [
+        "history.webp",
+        "history_2.webp",
+        "history_3.webp"
+      ]
+    },
+    {
+      "id": "parts",
+      "script_en": "When you push the pedals, a chain turns the back wheel. Hand brakes squeeze the wheel rims to slow the bicycle down. A helmet protects the rider's head, and lights help others see the bike at night.",
+      "script_de": "Wenn Sie in die Pedale treten, dreht eine Kette das Hinterrad. Handbremsen drücken die Felgen zusammen, um das Fahrrad abzubremsen. Ein Helm schützt den Kopf des Fahrers und Lichter helfen anderen, das Fahrrad nachts zu sehen.",
+      "script_it": "Quando si spingono i pedali, una catena fa girare la ruota posteriore. I freni a mano stringono i cerchioni per rallentare la bicicletta. Un casco protegge la testa del ciclista e le luci aiutano gli altri a vedere la bici di notte.",
+      "script_fr": "Lorsque vous appuyez sur les pédales, une chaîne fait tourner la roue arrière. Les freins à main serrent les jantes pour ralentir le vélo. Un casque protège la tête du cycliste et des lumières aident les autres à voir le vélo la nuit.",
+      "script_es": "Cuando pisas los pedales, una cadena hace girar la rueda trasera. Los frenos de mano aprietan las llantas de las ruedas para reducir la velocidad de la bicicleta. Un casco protege la cabeza del ciclista y las luces ayudan a otros a ver la bicicleta por la noche.",
+      "script_hr": "Kada pritisnete pedale, lanac okreće stražnji kotač. Ručne kočnice stišću naplatke kako bi usporile bicikl. Kaciga štiti glavu vozača, a svjetla pomažu drugima da vide motocikl noću.",
+      "script_cs": "Když sešlápnete pedály, řetěz otočí zadní kolo. Ruční brzdy stlačují ráfky kol a zpomalují kolo. Přilba chrání hlavu jezdce a světla pomáhají ostatním vidět kolo v noci.",
+      "script_pl": "Po naciśnięciu pedałów łańcuch obraca tylne koło. Hamulce ręczne ściskają obręcze kół, aby spowolnić rower. Kask chroni głowę rowerzysty, a światła pomagają innym widzieć rower w nocy.",
+      "script_fi": "Kun painat polkimia, ketju kääntää takapyörää. Käsijarrut puristavat pyörän vanteita hidastaen polkupyörää. Kypärä suojaa ajajan päätä ja valot auttavat muita näkemään pyörän yöllä.",
+      "script_sk": "Keď stlačíte pedále, reťaz otáča zadné koleso. Ručné brzdy stláčajú ráfiky kolies, aby spomalili bicykel. Prilba chráni hlavu jazdca a svetlá pomáhajú ostatným vidieť bicykel v noci.",
+      "script_da": "Når du trykker på pedalerne, drejer en kæde baghjulet. Håndbremser klemmer hjulfælgene for at bremse cyklen. En hjelm beskytter rytterens hoved, og lys hjælper andre med at se cyklen om natten.",
+      "images": [
+        "parts.webp",
+        "parts_2.webp",
+        "parts_3.webp"
+      ]
+    },
+    {
+      "id": "learn",
+      "script_en": "Learning to ride a bicycle takes practice. At first, riders use training wheels or a balance bike. With patience and a safe quiet place, most people learn to balance and steer.",
+      "script_de": "Das Erlernen des Fahrradfahrens erfordert Übung. Zunächst nutzen die Fahrer Stützräder oder ein Laufrad. Mit Geduld und einem sicheren, ruhigen Ort lernen die meisten Menschen, das Gleichgewicht zu halten und zu steuern.",
+      "script_it": "Imparare ad andare in bicicletta richiede pratica. Inizialmente, i ciclisti utilizzano ruote da allenamento o una bicicletta senza pedali. Con pazienza e un posto tranquillo e sicuro, la maggior parte delle persone impara a mantenere l'equilibrio e a sterzare.",
+      "script_fr": "Apprendre à faire du vélo demande de la pratique. Au début, les coureurs utilisent des roues d'entraînement ou une draisienne. Avec de la patience et un endroit calme et sûr, la plupart des gens apprennent à s’équilibrer et à se diriger.",
+      "script_es": "Aprender a andar en bicicleta requiere práctica. Al principio, los ciclistas utilizan ruedas de apoyo o una bicicleta de equilibrio. Con paciencia y un lugar tranquilo y seguro, la mayoría de las personas aprenden a mantener el equilibrio y conducir.",
+      "script_hr": "Za učenje vožnje bicikla potrebna je vježba. U početku vozači koriste kotače za vježbanje ili bicikl za ravnotežu. Uz strpljenje i sigurno tiho mjesto većina ljudi nauči održavati ravnotežu i upravljati.",
+      "script_cs": "Naučit se jezdit na kole vyžaduje praxi. Nejprve jezdci používají tréninková kolečka nebo balanční kolo. S trpělivostí a bezpečným klidným místem se většina lidí naučí udržovat rovnováhu a řídit.",
+      "script_pl": "Nauka jazdy na rowerze wymaga praktyki. Na początku jeźdźcy korzystają z kółek treningowych lub rowerka biegowego. Dzięki cierpliwości i bezpiecznemu, cichemu miejscu większość ludzi nauczy się utrzymywać równowagę i sterować.",
+      "script_fi": "Pyöräilyn oppiminen vaatii harjoittelua. Aluksi ajajat käyttävät harjoituspyöriä tai tasapainopyörää. Kärsivällisyyden ja turvallisen hiljaisen paikan ansiosta useimmat ihmiset oppivat tasapainottamaan ja ohjaamaan.",
+      "script_sk": "Naučiť sa jazdiť na bicykli si vyžaduje prax. Najprv jazdci využívajú tréningové kolieska alebo balančný bicykel. S trpezlivosťou a bezpečným tichým miestom sa väčšina ľudí naučí udržiavať rovnováhu a riadiť.",
+      "script_da": "At lære at cykle kræver øvelse. I starten bruger ryttere træningshjul eller en balancecykel. Med tålmodighed og et trygt stille sted lærer de fleste at balancere og styre.",
+      "images": [
+        "learn.webp",
+        "learn_2.webp",
+        "learn_3.webp"
+      ]
+    },
+    {
+      "id": "today",
+      "script_en": "Today bicycles are a healthy, low-cost way to get around. They take up little space and do not need fuel. Many cities are adding safe bike lanes so more people can ride.",
+      "script_de": "Heutzutage sind Fahrräder eine gesunde und kostengünstige Möglichkeit, sich fortzubewegen. Sie nehmen wenig Platz ein und benötigen keinen Kraftstoff. Viele Städte bauen sichere Radwege aus, damit mehr Menschen fahren können.",
+      "script_it": "Oggi la bicicletta rappresenta un mezzo sano ed economico per spostarsi. Occupano poco spazio e non necessitano di carburante. Molte città stanno aggiungendo piste ciclabili sicure in modo che più persone possano pedalare.",
+      "script_fr": "Aujourd’hui, le vélo constitue un moyen de déplacement sain et peu coûteux. Ils prennent peu de place et n'ont pas besoin de carburant. De nombreuses villes ajoutent des pistes cyclables sécurisées afin que davantage de personnes puissent rouler.",
+      "script_es": "Hoy en día, la bicicleta es una forma saludable y económica de desplazarse. Ocupan poco espacio y no necesitan combustible. Muchas ciudades están agregando carriles bici seguros para que más personas puedan viajar.",
+      "script_hr": "Danas su bicikli zdrav i jeftin način kretanja. Zauzimaju malo prostora i ne trebaju gorivo. Mnogi gradovi dodaju sigurne biciklističke staze kako bi se više ljudi moglo voziti.",
+      "script_cs": "Dnes jsou jízdní kola zdravým a levným způsobem cestování. Zabírají málo místa a nepotřebují palivo. Mnoho měst přidává bezpečné cyklostezky, aby mohlo jezdit více lidí.",
+      "script_pl": "Rowery są dziś zdrowym i tanim sposobem poruszania się. Zajmują mało miejsca i nie potrzebują paliwa. Wiele miast dodaje bezpieczne ścieżki rowerowe, aby więcej osób mogło jeździć.",
+      "script_fi": "Nykyään pyörät ovat terveellinen ja edullinen tapa liikkua. Ne vievät vähän tilaa eivätkä tarvitse polttoainetta. Monet kaupungit lisäävät turvallisia pyöräteitä, jotta useammat ihmiset voivat ajaa.",
+      "script_sk": "Bicykle sú dnes zdravým a lacným spôsobom dopravy. Zaberajú málo miesta a nepotrebujú palivo. Mnohé mestá pridávajú bezpečné cyklistické pruhy, aby mohlo jazdiť viac ľudí.",
+      "script_da": "I dag er cykler en sund og billig måde at komme rundt på. De fylder lidt og behøver ikke brændstof. Mange byer tilføjer sikre cykelstier, så flere mennesker kan køre.",
+      "images": [
+        "today.webp",
+        "today_2.webp",
+        "today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "wheels",
+      "correct": "two",
+      "question_en": "How many wheels does a bicycle have?",
+      "question_de": "Wie viele Räder hat ein Fahrrad?",
+      "question_it": "Quante ruote ha una bicicletta?",
+      "question_fr": "Combien de roues possède un vélo ?",
+      "question_es": "¿Cuántas ruedas tiene una bicicleta?",
+      "question_hr": "Koliko kotača ima bicikl?",
+      "question_cs": "Kolik kol má kolo?",
+      "question_pl": "Ile kół ma rower?",
+      "question_fi": "Kuinka monta pyörää polkupyörässä on?",
+      "question_sk": "Koľko kolies má bicykel?",
+      "question_da": "Hvor mange hjul har en cykel?",
+      "options": [
+        {
+          "id": "two",
+          "label_en": "Two",
+          "label_de": "Zwei",
+          "label_it": "Due",
+          "label_fr": "Deux",
+          "label_es": "Dos",
+          "label_hr": "Dva",
+          "label_cs": "Dva",
+          "label_pl": "Dwa",
+          "label_fi": "Kaksi",
+          "label_sk": "Dvaja",
+          "label_da": "To"
+        },
+        {
+          "id": "three",
+          "label_en": "Three",
+          "label_de": "Drei",
+          "label_it": "Tre",
+          "label_fr": "Trois",
+          "label_es": "Tres",
+          "label_hr": "Tri",
+          "label_cs": "Tři",
+          "label_pl": "Trzy",
+          "label_fi": "Kolme",
+          "label_sk": "Tri",
+          "label_da": "Tre"
+        },
+        {
+          "id": "four",
+          "label_en": "Four",
+          "label_de": "Vier",
+          "label_it": "Quattro",
+          "label_fr": "Quatre",
+          "label_es": "cuatro",
+          "label_hr": "četiri",
+          "label_cs": "Čtyři",
+          "label_pl": "Cztery",
+          "label_fi": "Neljä",
+          "label_sk": "Štyri",
+          "label_da": "Fire"
+        }
+      ]
+    },
+    {
+      "id": "power",
+      "correct": "pedals",
+      "question_en": "What do you push to make a bicycle move?",
+      "question_de": "Was treibst du voran, um ein Fahrrad in Bewegung zu bringen?",
+      "question_it": "Cosa spingi per far muovere una bicicletta?",
+      "question_fr": "Que pousse-t-on pour faire bouger un vélo ?",
+      "question_es": "¿Qué empujas para que una bicicleta se mueva?",
+      "question_hr": "Što gurate da bi se bicikl pokrenuo?",
+      "question_cs": "Co prosazujete, aby se kolo rozpohybovalo?",
+      "question_pl": "Co należy nacisnąć, aby rower się poruszył?",
+      "question_fi": "Mitä työnnät saadaksesi pyörän liikkumaan?",
+      "question_sk": "Čo tlačíte, aby sa bicykel rozhýbal?",
+      "question_da": "Hvad presser du på for at få en cykel til at bevæge sig?",
+      "options": [
+        {
+          "id": "pedals",
+          "label_en": "The pedals",
+          "label_de": "Die Pedale",
+          "label_it": "I pedali",
+          "label_fr": "Les pédales",
+          "label_es": "los pedales",
+          "label_hr": "Pedale",
+          "label_cs": "Pedály",
+          "label_pl": "Pedały",
+          "label_fi": "Polkimet",
+          "label_sk": "Pedále",
+          "label_da": "Pedalerne"
+        },
+        {
+          "id": "horn",
+          "label_en": "The horn",
+          "label_de": "Die Hupe",
+          "label_it": "Il corno",
+          "label_fr": "La corne",
+          "label_es": "el cuerno",
+          "label_hr": "Rog",
+          "label_cs": "Roh",
+          "label_pl": "Róg",
+          "label_fi": "Torvi",
+          "label_sk": "Roh",
+          "label_da": "Hornet"
+        },
+        {
+          "id": "seat",
+          "label_en": "The seat",
+          "label_de": "Der Sitz",
+          "label_it": "Il sedile",
+          "label_fr": "Le siège",
+          "label_es": "el asiento",
+          "label_hr": "Sjedište",
+          "label_cs": "Sedadlo",
+          "label_pl": "Siedzisko",
+          "label_fi": "Istuin",
+          "label_sk": "Sedadlo",
+          "label_da": "Sædet"
+        }
+      ]
+    },
+    {
+      "id": "safety",
+      "correct": "helmet",
+      "question_en": "What protects a rider's head?",
+      "question_de": "Was schützt den Kopf eines Fahrers?",
+      "question_it": "Cosa protegge la testa di un ciclista?",
+      "question_fr": "Qu'est-ce qui protège la tête d'un cavalier ?",
+      "question_es": "¿Qué protege la cabeza de un jinete?",
+      "question_hr": "Što štiti glavu jahača?",
+      "question_cs": "Co chrání hlavu jezdce?",
+      "question_pl": "Co chroni głowę jeźdźca?",
+      "question_fi": "Mikä suojaa ratsastajan päätä?",
+      "question_sk": "Čo chráni hlavu jazdca?",
+      "question_da": "Hvad beskytter en rytters hoved?",
+      "options": [
+        {
+          "id": "helmet",
+          "label_en": "A helmet",
+          "label_de": "Ein Helm",
+          "label_it": "Un casco",
+          "label_fr": "Un casque",
+          "label_es": "un casco",
+          "label_hr": "Kaciga",
+          "label_cs": "Přilba",
+          "label_pl": "Hełm",
+          "label_fi": "Kypärä",
+          "label_sk": "Prilba",
+          "label_da": "En hjelm"
+        },
+        {
+          "id": "gloves",
+          "label_en": "Gloves",
+          "label_de": "Handschuhe",
+          "label_it": "Guanti",
+          "label_fr": "Gants",
+          "label_es": "Guantes",
+          "label_hr": "Rukavice",
+          "label_cs": "Rukavice",
+          "label_pl": "Rękawice",
+          "label_fi": "Käsineet",
+          "label_sk": "Rukavice",
+          "label_da": "Handsker"
+        },
+        {
+          "id": "bell",
+          "label_en": "A bell",
+          "label_de": "Eine Glocke",
+          "label_it": "Una campana",
+          "label_fr": "Une cloche",
+          "label_es": "una campana",
+          "label_hr": "zvono",
+          "label_cs": "Zvonek",
+          "label_pl": "Dzwonek",
+          "label_fi": "Kello",
+          "label_sk": "Zvonček",
+          "label_da": "En klokke"
+        }
+      ]
+    }
+  ]
+}

@@ -1028,6 +1028,27 @@
       "title_fi": "Lentokoneet",
       "title_sk": "Lietadlá",
       "title_da": "Flyvemaskiner"
+    },
+    {
+      "id": "bicycle",
+      "category_id": "transport",
+      "symbol_id": "bicycle",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/bicycle/bicycle_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/bicycle/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2684470,
+      "version": 1,
+      "title_en": "Bicycles",
+      "title_de": "Fahrräder",
+      "title_it": "Biciclette",
+      "title_fr": "Vélos",
+      "title_es": "bicicletas",
+      "title_hr": "Bicikli",
+      "title_cs": "jízdní kola",
+      "title_pl": "Rowery",
+      "title_fi": "Polkupyörät",
+      "title_sk": "Bicykle",
+      "title_da": "Cykler"
     }
   ]
 }
