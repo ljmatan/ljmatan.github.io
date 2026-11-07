@@ -965,6 +965,27 @@
       "title_fi": "Mars",
       "title_sk": "Mars",
       "title_da": "Mars"
+    },
+    {
+      "id": "saturn",
+      "category_id": "planets",
+      "symbol_id": "saturn",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/saturn/saturn_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/saturn/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 1806326,
+      "version": 1,
+      "title_en": "Saturn",
+      "title_de": "Saturn",
+      "title_it": "Saturno",
+      "title_fr": "Saturne",
+      "title_es": "Saturno",
+      "title_hr": "Saturn",
+      "title_cs": "Saturn",
+      "title_pl": "Saturn",
+      "title_fi": "Saturnus",
+      "title_sk": "Saturn",
+      "title_da": "Saturn"
     }
   ]
 }

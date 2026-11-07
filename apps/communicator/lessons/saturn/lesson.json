@@ -1,0 +1,293 @@
+{
+  "id": "saturn",
+  "category_id": "planets",
+  "symbol_id": "saturn",
+  "thumbnail": "saturn_thumb.webp",
+  "title_en": "Saturn",
+  "title_de": "Saturn",
+  "title_it": "Saturno",
+  "title_fr": "Saturne",
+  "title_es": "Saturno",
+  "title_hr": "Saturn",
+  "title_cs": "Saturn",
+  "title_pl": "Saturn",
+  "title_fi": "Saturnus",
+  "title_sk": "Saturn",
+  "title_da": "Saturn",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about Saturn. Saturn is the sixth planet from the Sun and is famous for its beautiful rings. It is a gas giant, like Jupiter, with a pale golden colour.",
+      "script_de": "Heute werden wir etwas über Saturn lernen. Saturn ist der sechste Planet von der Sonne und ist berühmt für seine wunderschönen Ringe. Es ist ein Gasriese wie Jupiter mit einer blassgoldenen Farbe.",
+      "script_it": "Oggi impareremo a conoscere Saturno. Saturno è il sesto pianeta a partire dal Sole ed è famoso per i suoi bellissimi anelli. È un gigante gassoso, come Giove, dal colore dorato pallido.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur Saturne. Saturne est la sixième planète après le Soleil et est célèbre pour ses magnifiques anneaux. C'est une géante gazeuse, comme Jupiter, de couleur dorée pâle.",
+      "script_es": "Hoy vamos a aprender sobre Saturno. Saturno es el sexto planeta desde el Sol y es famoso por sus hermosos anillos. Es un gigante gaseoso, como Júpiter, de color dorado pálido.",
+      "script_hr": "Danas ćemo učiti o Saturnu. Saturn je šesti planet od Sunca i poznat je po svojim prekrasnim prstenovima. To je plinoviti div, poput Jupitera, blijedo zlatne boje.",
+      "script_cs": "Dnes se budeme učit o Saturnu. Saturn je šestá planeta od Slunce a je známá svými nádhernými prstenci. Je to plynný obr, jako Jupiter, se světle zlatou barvou.",
+      "script_pl": "Dziś będziemy uczyć się o Saturnie. Saturn jest szóstą planetą od Słońca i słynie z pięknych pierścieni. Jest to gazowy olbrzym, podobny do Jowisza, o bladozłotym kolorze.",
+      "script_fi": "Tänään opimme Saturnuksesta. Saturnus on kuudes planeetta Auringosta ja se on kuuluisa kauniista renkaistaan. Se on kaasujättiläinen, kuten Jupiter, jonka väri on vaalean kultainen.",
+      "script_sk": "Dnes sa dozvieme o Saturne. Saturn je šiesta planéta od Slnka a je známa svojimi nádhernými prstencami. Je to plynný obr, ako Jupiter, s bledozlatou farbou.",
+      "script_da": "I dag skal vi lære om Saturn. Saturn er den sjette planet fra Solen og er berømt for sine smukke ringe. Det er en gaskæmpe, ligesom Jupiter, med en bleg gylden farve.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "rings",
+      "script_en": "Saturn's rings are made of billions of pieces of ice and rock. Some pieces are tiny grains, while others are as big as houses. The rings look solid from far away, but they are actually thin and separate.",
+      "script_de": "Saturnringe bestehen aus Milliarden von Eis- und Gesteinsstücken. Manche Stücke sind winzige Körner, andere sind so groß wie Häuser. Von weitem sehen die Ringe solide aus, in Wirklichkeit sind sie jedoch dünn und einzeln.",
+      "script_it": "Gli anelli di Saturno sono costituiti da miliardi di pezzi di ghiaccio e roccia. Alcuni pezzi sono minuscoli granelli, mentre altri sono grandi quanto case. Gli anelli sembrano solidi da lontano, ma in realtà sono sottili e separati.",
+      "script_fr": "Les anneaux de Saturne sont constitués de milliards de morceaux de glace et de roche. Certains morceaux sont de minuscules grains, tandis que d’autres sont aussi gros que des maisons. De loin, les anneaux semblent solides, mais ils sont en réalité minces et séparés.",
+      "script_es": "Los anillos de Saturno están formados por miles de millones de trozos de hielo y roca. Algunas piezas son granos diminutos, mientras que otras son tan grandes como casas. Los anillos parecen sólidos desde lejos, pero en realidad son delgados y separados.",
+      "script_hr": "Saturnovi prstenovi napravljeni su od milijardi komadića leda i stijena. Neki komadi su sićušna zrnca, dok su drugi veliki poput kuća. Prstenovi izdaleka izgledaju čvrsto, ali zapravo su tanki i odvojeni.",
+      "script_cs": "Saturnovy prstence se skládají z miliard kusů ledu a hornin. Některé kousky jsou malinká zrníčka, zatímco jiné jsou velké jako domy. Prsteny vypadají z dálky pevně, ale ve skutečnosti jsou tenké a oddělené.",
+      "script_pl": "Pierścienie Saturna składają się z miliardów kawałków lodu i skał. Niektóre kawałki to maleńkie ziarenka, inne są tak duże jak domy. Z daleka pierścienie wyglądają na solidne, ale w rzeczywistości są cienkie i oddzielne.",
+      "script_fi": "Saturnuksen renkaat on tehty miljardeista jään ja kiven palasista. Jotkut palaset ovat pieniä rakeita, kun taas toiset ovat talon kokoisia. Sormukset näyttävät kaukaa katsottuna kiinteiltä, ​​mutta itse asiassa ne ovat ohuita ja erillisiä.",
+      "script_sk": "Saturnove prstence sa skladajú z miliárd kusov ľadu a skál. Niektoré kúsky sú malé zrnká, zatiaľ čo iné sú veľké ako domy. Prstene vyzerajú z diaľky pevne, ale v skutočnosti sú tenké a oddelené.",
+      "script_da": "Saturns ringe er lavet af milliarder af is- og stenstykker. Nogle stykker er små korn, mens andre er så store som huse. Ringene ser solide ud på lang afstand, men de er faktisk tynde og adskilte.",
+      "images": [
+        "rings.webp",
+        "rings_2.webp",
+        "rings_3.webp"
+      ]
+    },
+    {
+      "id": "moons",
+      "script_en": "Saturn has many moons. Its largest moon, Titan, has a thick orange atmosphere and lakes of liquid methane. Another moon, Enceladus, shoots icy water into space from cracks in its surface.",
+      "script_de": "Saturn hat viele Monde. Sein größter Mond, Titan, hat eine dicke orangefarbene Atmosphäre und Seen aus flüssigem Methan. Ein anderer Mond, Enceladus, schießt aus Rissen in seiner Oberfläche eisiges Wasser in den Weltraum.",
+      "script_it": "Saturno ha molte lune. La sua luna più grande, Titano, ha una densa atmosfera arancione e laghi di metano liquido. Un'altra luna, Encelado, spara acqua ghiacciata nello spazio dalle fessure della sua superficie.",
+      "script_fr": "Saturne a plusieurs lunes. Sa plus grande lune, Titan, possède une épaisse atmosphère orange et des lacs de méthane liquide. Une autre lune, Encelade, projette de l'eau glacée dans l'espace depuis les fissures de sa surface.",
+      "script_es": "Saturno tiene muchas lunas. Su luna más grande, Titán, tiene una espesa atmósfera anaranjada y lagos de metano líquido. Otra luna, Encelado, dispara agua helada al espacio desde grietas en su superficie.",
+      "script_hr": "Saturn ima mnogo mjeseca. Njegov najveći mjesec, Titan, ima gustu narančastu atmosferu i jezera tekućeg metana. Drugi mjesec, Enceladus, iz pukotina na svojoj površini izbacuje ledenu vodu u svemir.",
+      "script_cs": "Saturn má mnoho měsíců. Jeho největší měsíc Titan má hustou oranžovou atmosféru a jezera kapalného metanu. Další měsíc, Enceladus, vystřeluje do vesmíru ledovou vodu z prasklin na svém povrchu.",
+      "script_pl": "Saturn ma wiele księżyców. Jego największy księżyc, Tytan, ma gęstą pomarańczową atmosferę i jeziora ciekłego metanu. Inny księżyc, Enceladus, wystrzeliwuje w przestrzeń kosmiczną lodowatą wodę z pęknięć na jego powierzchni.",
+      "script_fi": "Saturnuksella on monia kuita. Sen suurimmassa kuussa, Titanissa, on paksu oranssi ilmakehä ja nestemäistä metaanijärviä. Toinen kuu, Enceladus, ampuu jäistä vettä avaruuteen pinnan halkeamista.",
+      "script_sk": "Saturn má veľa mesiacov. Jeho najväčší mesiac Titan má hustú oranžovú atmosféru a jazerá tekutého metánu. Ďalší mesiac, Enceladus, vystreľuje do vesmíru ľadovú vodu z trhlín na svojom povrchu.",
+      "script_da": "Saturn har mange måner. Dens største måne, Titan, har en tyk orange atmosfære og søer af flydende metan. En anden måne, Enceladus, skyder iskoldt vand ud i rummet fra revner i overfladen.",
+      "images": [
+        "moons.webp",
+        "moons_2.webp",
+        "moons_3.webp"
+      ]
+    },
+    {
+      "id": "light",
+      "script_en": "Saturn is very light for its size. In fact, if there were a bathtub big enough, Saturn would float in water. Its rings and pale colour make it one of the most recognisable planets in the night sky.",
+      "script_de": "Saturn ist für seine Größe sehr leicht. Wenn es eine Badewanne gäbe, die groß genug wäre, würde Saturn tatsächlich im Wasser schwimmen. Seine Ringe und seine blasse Farbe machen ihn zu einem der bekanntesten Planeten am Nachthimmel.",
+      "script_it": "Saturno è molto leggero per le sue dimensioni. Infatti, se esistesse una vasca da bagno abbastanza grande, Saturno galleggerebbe nell’acqua. I suoi anelli e il colore pallido lo rendono uno dei pianeti più riconoscibili nel cielo notturno.",
+      "script_fr": "Saturne est très légère pour sa taille. En fait, s’il y avait une baignoire assez grande, Saturne flotterait dans l’eau. Ses anneaux et sa couleur pâle en font l'une des planètes les plus reconnaissables du ciel nocturne.",
+      "script_es": "Saturno es muy ligero para su tamaño. De hecho, si hubiera una bañera lo suficientemente grande, Saturno flotaría en el agua. Sus anillos y su color pálido lo convierten en uno de los planetas más reconocibles del cielo nocturno.",
+      "script_hr": "Saturn je vrlo lagan za svoju veličinu. Zapravo, kada bi postojala dovoljno velika kada, Saturn bi plutao u vodi. Njegovi prstenovi i blijeda boja čine ga jednim od najprepoznatljivijih planeta na noćnom nebu.",
+      "script_cs": "Saturn je na svou velikost velmi lehký. Ve skutečnosti, pokud by tam byla dostatečně velká vana, Saturn by plaval ve vodě. Její prstence a bledá barva z ní činí jednu z nejlépe rozpoznatelných planet na noční obloze.",
+      "script_pl": "Saturn jest bardzo lekki jak na swoje rozmiary. Tak naprawdę, gdyby istniała wystarczająco duża wanna, Saturn unosiłby się w wodzie. Jej pierścienie i blady kolor sprawiają, że jest to jedna z najbardziej rozpoznawalnych planet na nocnym niebie.",
+      "script_fi": "Saturnus on kokoonsa nähden erittäin kevyt. Itse asiassa, jos olisi tarpeeksi suuri kylpyamme, Saturnus kelluisi vedessä. Sen renkaat ja vaalea väri tekevät siitä yhden yötaivaan tunnistetuimmista planeetoista.",
+      "script_sk": "Saturn je na svoju veľkosť veľmi ľahký. V skutočnosti, ak by bola vaňa dostatočne veľká, Saturn by sa vznášal vo vode. Jeho prstence a bledá farba z neho robia jednu z najznámejších planét na nočnej oblohe.",
+      "script_da": "Saturn er meget let for sin størrelse. Faktisk, hvis der var et badekar stort nok, ville Saturn flyde i vand. Dens ringe og blege farve gør den til en af ​​de mest genkendelige planeter på nattehimlen.",
+      "images": [
+        "light.webp",
+        "light_2.webp",
+        "light_3.webp"
+      ]
+    },
+    {
+      "id": "exploration",
+      "script_en": "Today we learn about Saturn from spacecraft such as Cassini, which orbited the planet for many years. It sent back amazing pictures of the rings, storms, and moons before its mission ended.",
+      "script_de": "Heute erfahren wir von Raumsonden wie Cassini, die den Planeten viele Jahre lang umkreisten, etwas über Saturn. Es schickte erstaunliche Bilder der Ringe, Stürme und Monde zurück, bevor seine Mission endete.",
+      "script_it": "Oggi apprendiamo di Saturno da veicoli spaziali come Cassini, che hanno orbitato attorno al pianeta per molti anni. Ha inviato immagini straordinarie degli anelli, delle tempeste e delle lune prima della fine della sua missione.",
+      "script_fr": "Aujourd’hui, nous en apprenons davantage sur Saturne grâce à des vaisseaux spatiaux tels que Cassini, qui ont tourné autour de la planète pendant de nombreuses années. Il a renvoyé des images étonnantes des anneaux, des tempêtes et des lunes avant la fin de sa mission.",
+      "script_es": "Hoy aprendemos sobre Saturno gracias a naves espaciales como Cassini, que orbitaron el planeta durante muchos años. Envió fotografías asombrosas de los anillos, las tormentas y las lunas antes de que terminara su misión.",
+      "script_hr": "Danas saznajemo o Saturnu iz svemirskih letjelica kao što je Cassini, koje su godinama kružile oko planeta. Poslao je nevjerojatne slike prstenova, oluja i mjeseca prije nego što je njegova misija završila.",
+      "script_cs": "Dnes se o Saturnu dozvídáme z kosmických lodí, jako je Cassini, které kolem planety obíhaly mnoho let. Před ukončením mise poslal zpět úžasné snímky prstenců, bouří a měsíců.",
+      "script_pl": "Dziś dowiadujemy się o Saturnie ze statków kosmicznych takich jak Cassini, które okrążały planetę przez wiele lat. Przed zakończeniem misji przesłał niesamowite zdjęcia pierścieni, burz i księżyców.",
+      "script_fi": "Tänään opimme Saturnuksesta Cassinin kaltaisista avaruusaluksista, jotka kiertävät planeettaa monta vuotta. Se lähetti takaisin uskomattomia kuvia renkaista, myrskyistä ja kuuista ennen tehtävänsä päättymistä.",
+      "script_sk": "Dnes sa o Saturne dozvedáme z kozmických lodí ako Cassini, ktoré obiehali okolo planéty mnoho rokov. Pred ukončením misie poslal späť úžasné obrázky prstencov, búrok a mesiacov.",
+      "script_da": "I dag lærer vi om Saturn fra rumfartøjer som Cassini, der kredsede om planeten i mange år. Den sendte fantastiske billeder tilbage af ringene, stormene og månerne, før dens mission sluttede.",
+      "images": [
+        "exploration.webp",
+        "exploration_2.webp",
+        "exploration_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "rings",
+      "correct": "ice",
+      "question_en": "What are Saturn's rings made of?",
+      "question_de": "Woraus bestehen Saturnringe?",
+      "question_it": "Di cosa sono fatti gli anelli di Saturno?",
+      "question_fr": "De quoi sont faits les anneaux de Saturne ?",
+      "question_es": "¿De qué están hechos los anillos de Saturno?",
+      "question_hr": "Od čega su napravljeni Saturnovi prstenovi?",
+      "question_cs": "Z čeho jsou vyrobeny Saturnovy prstence?",
+      "question_pl": "Z czego zbudowane są pierścienie Saturna?",
+      "question_fi": "Mistä Saturnuksen renkaat on tehty?",
+      "question_sk": "Z čoho sú vyrobené Saturnove prstence?",
+      "question_da": "Hvad er Saturns ringe lavet af?",
+      "options": [
+        {
+          "id": "ice",
+          "label_en": "Ice and rock",
+          "label_de": "Eis und Fels",
+          "label_it": "Ghiaccio e roccia",
+          "label_fr": "Glace et roche",
+          "label_es": "Hielo y roca",
+          "label_hr": "Led i kamen",
+          "label_cs": "Led a kámen",
+          "label_pl": "Lód i skała",
+          "label_fi": "Jää ja kivi",
+          "label_sk": "Ľad a kameň",
+          "label_da": "Is og sten"
+        },
+        {
+          "id": "gas",
+          "label_en": "Only gas",
+          "label_de": "Nur Gas",
+          "label_it": "Solo gas",
+          "label_fr": "Uniquement du gaz",
+          "label_es": "solo gasolina",
+          "label_hr": "Samo plin",
+          "label_cs": "Pouze plyn",
+          "label_pl": "Tylko gaz",
+          "label_fi": "Vain kaasu",
+          "label_sk": "Iba plyn",
+          "label_da": "Kun gas"
+        },
+        {
+          "id": "cloud",
+          "label_en": "Clouds",
+          "label_de": "Wolken",
+          "label_it": "Nuvole",
+          "label_fr": "Nuages",
+          "label_es": "Nubes",
+          "label_hr": "Oblaci",
+          "label_cs": "Mraky",
+          "label_pl": "Chmury",
+          "label_fi": "Pilviä",
+          "label_sk": "Mraky",
+          "label_da": "Skyer"
+        }
+      ]
+    },
+    {
+      "id": "moon",
+      "correct": "titan",
+      "question_en": "What is Saturn's largest moon called?",
+      "question_de": "Wie heißt der größte Saturnmond?",
+      "question_it": "Come si chiama la luna più grande di Saturno?",
+      "question_fr": "Comment s'appelle la plus grande lune de Saturne ?",
+      "question_es": "¿Cómo se llama la luna más grande de Saturno?",
+      "question_hr": "Kako se zove Saturnov najveći mjesec?",
+      "question_cs": "Jak se nazývá největší Saturnův měsíc?",
+      "question_pl": "Jak nazywa się największy księżyc Saturna?",
+      "question_fi": "Mikä on Saturnuksen suurimman kuun nimi?",
+      "question_sk": "Ako sa volá najväčší mesiac Saturnu?",
+      "question_da": "Hvad hedder Saturns største måne?",
+      "options": [
+        {
+          "id": "titan",
+          "label_en": "Titan",
+          "label_de": "Titan",
+          "label_it": "Titano",
+          "label_fr": "Titan",
+          "label_es": "Titán",
+          "label_hr": "titan",
+          "label_cs": "Titan",
+          "label_pl": "tytan",
+          "label_fi": "Titan",
+          "label_sk": "Titan",
+          "label_da": "Titan"
+        },
+        {
+          "id": "europa",
+          "label_en": "Europa",
+          "label_de": "Europa",
+          "label_it": "Europa",
+          "label_fr": "Europe",
+          "label_es": "europa",
+          "label_hr": "Europa",
+          "label_cs": "Evropa",
+          "label_pl": "Europy",
+          "label_fi": "Europa",
+          "label_sk": "Európa",
+          "label_da": "Europa"
+        },
+        {
+          "id": "phobos",
+          "label_en": "Phobos",
+          "label_de": "Phobos",
+          "label_it": "Phobos",
+          "label_fr": "Phobos",
+          "label_es": "Fobos",
+          "label_hr": "Fobos",
+          "label_cs": "Phobos",
+          "label_pl": "Fobos",
+          "label_fi": "Phobos",
+          "label_sk": "Phobos",
+          "label_da": "Phobos"
+        }
+      ]
+    },
+    {
+      "id": "float",
+      "correct": "float",
+      "question_en": "Why is Saturn special in water?",
+      "question_de": "Warum ist Saturn im Wasser etwas Besonderes?",
+      "question_it": "Perché Saturno è speciale nell'acqua?",
+      "question_fr": "Pourquoi Saturne est-il spécial dans l’eau ?",
+      "question_es": "¿Por qué Saturno es especial en el agua?",
+      "question_hr": "Zašto je Saturn poseban u vodi?",
+      "question_cs": "Proč je Saturn zvláštní ve vodě?",
+      "question_pl": "Dlaczego Saturn jest wyjątkowy w wodzie?",
+      "question_fi": "Miksi Saturnus on erityinen vedessä?",
+      "question_sk": "Prečo je Saturn výnimočný vo vode?",
+      "question_da": "Hvorfor er Saturn speciel i vand?",
+      "options": [
+        {
+          "id": "float",
+          "label_en": "It would float",
+          "label_de": "Es würde schweben",
+          "label_it": "Galleggerebbe",
+          "label_fr": "Ça flotterait",
+          "label_es": "flotaria",
+          "label_hr": "Plutao bi",
+          "label_cs": "Plavalo by to",
+          "label_pl": "Pływałoby",
+          "label_fi": "Se kelluisi",
+          "label_sk": "Vznášalo by sa",
+          "label_da": "Det ville flyde"
+        },
+        {
+          "id": "sink",
+          "label_en": "It would sink fast",
+          "label_de": "Es würde schnell sinken",
+          "label_it": "Affonderebbe velocemente",
+          "label_fr": "Ça coulerait vite",
+          "label_es": "Se hundiría rápido",
+          "label_hr": "Brzo bi potonuo",
+          "label_cs": "Rychle by se potopila",
+          "label_pl": "Szybko by zatonął",
+          "label_fi": "Se uppoaisi nopeasti",
+          "label_sk": "Rýchlo by sa potopila",
+          "label_da": "Det ville synke hurtigt"
+        },
+        {
+          "id": "melt",
+          "label_en": "It would melt",
+          "label_de": "Es würde schmelzen",
+          "label_it": "Si scioglierebbe",
+          "label_fr": "Ça fondrait",
+          "label_es": "se derretiría",
+          "label_hr": "Rastopilo bi se",
+          "label_cs": "Roztavilo by se to",
+          "label_pl": "Topiłoby się",
+          "label_fi": "Se sulaisi",
+          "label_sk": "Roztopilo by sa",
+          "label_da": "Det ville smelte"
+        }
+      ]
+    }
+  ]
+}
