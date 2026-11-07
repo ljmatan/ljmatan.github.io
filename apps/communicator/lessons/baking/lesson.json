@@ -1,0 +1,293 @@
+{
+  "id": "baking",
+  "category_id": "activities",
+  "symbol_id": "baking",
+  "thumbnail": "baking_thumb.webp",
+  "title_en": "Baking",
+  "title_de": "Backen",
+  "title_it": "Cottura al forno",
+  "title_fr": "Pâtisserie",
+  "title_es": "Hornada",
+  "title_hr": "Pečenje",
+  "title_cs": "Pečení",
+  "title_pl": "Pieczenie",
+  "title_fi": "Paistaminen",
+  "title_sk": "Pečenie",
+  "title_da": "Bagning",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about baking. Baking is cooking food with dry heat in an oven. People bake bread, cakes, biscuits, and pies.",
+      "script_de": "Heute lernen wir etwas über das Backen. Backen ist das Garen von Speisen mit trockener Hitze in einem Ofen. Die Leute backen Brot, Kuchen, Kekse und Torten.",
+      "script_it": "Oggi impareremo a cucinare. La cottura è cuocere il cibo con calore secco in un forno. Le persone cuociono pane, torte, biscotti e crostate.",
+      "script_fr": "Aujourd'hui, nous allons apprendre la pâtisserie. La pâtisserie consiste à cuire des aliments à chaleur sèche dans un four. Les gens préparent du pain, des gâteaux, des biscuits et des tartes.",
+      "script_es": "Hoy vamos a aprender sobre repostería. Hornear es cocinar alimentos con calor seco en un horno. La gente hornea pan, pasteles, galletas y tartas.",
+      "script_hr": "Danas ćemo učiti o pečenju. Pečenje je kuhanje hrane suhom toplinom u pećnici. Ljudi peku kruh, kolače, kekse i pite.",
+      "script_cs": "Dnes se naučíme něco o pečení. Pečení je vaření jídla suchým teplem v troubě. Lidé pečou chléb, koláče, sušenky a koláče.",
+      "script_pl": "Dziś będziemy uczyć się o pieczeniu. Pieczenie to gotowanie żywności w piekarniku przy użyciu suchego ciepła. Ludzie pieczą chleb, ciasta, ciastka i ciasta.",
+      "script_fi": "Tänään opimme leipomisesta. Leivonta on ruoan valmistamista kuivalla lämmöllä uunissa. Ihmiset leipovat leipää, kakkuja, keksejä ja piirakoita.",
+      "script_sk": "Dnes sa naučíme niečo o pečení. Pečenie je varenie jedla suchým teplom v rúre. Ľudia pečú chlieb, koláče, sušienky a koláče.",
+      "script_da": "I dag skal vi lære om bagning. Bagning er at lave mad med tør varme i en ovn. Folk bager brød, kager, kiks og tærter.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "ingredients",
+      "script_en": "Baking uses ingredients such as flour, sugar, eggs, and butter. Measuring carefully helps the recipe turn out well. Baking powder or yeast makes dough rise.",
+      "script_de": "Beim Backen werden Zutaten wie Mehl, Zucker, Eier und Butter verwendet. Sorgfältiges Abmessen trägt dazu bei, dass das Rezept gut gelingt. Backpulver oder Hefe lassen den Teig aufgehen.",
+      "script_it": "La cottura utilizza ingredienti come farina, zucchero, uova e burro. Misurare con attenzione aiuta la ricetta a venire bene. Il lievito o il lievito fanno lievitare l'impasto.",
+      "script_fr": "La pâtisserie utilise des ingrédients tels que la farine, le sucre, les œufs et le beurre. En mesurant soigneusement, la recette se déroule bien. La levure chimique ou la levure font lever la pâte.",
+      "script_es": "Para hornear se utilizan ingredientes como harina, azúcar, huevos y mantequilla. Medir con cuidado ayuda a que la receta salga bien. El polvo para hornear o la levadura hacen que la masa suba.",
+      "script_hr": "Za pečenje se koriste sastojci kao što su brašno, šećer, jaja i maslac. Pažljivo mjerenje pomaže da recept ispadne dobro. Prašak za pecivo ili kvasac dižu tijesto.",
+      "script_cs": "Pečení používá přísady, jako je mouka, cukr, vejce a máslo. Pečlivé měření pomáhá, aby recept dobře dopadl. Prášek do pečiva nebo droždí způsobí kynutí těsta.",
+      "script_pl": "Do pieczenia wykorzystuje się takie składniki, jak mąka, cukier, jajka i masło. Dzięki dokładnemu odmierzeniu przepis wyjdzie dobrze. Proszek do pieczenia lub drożdże powodują, że ciasto rośnie.",
+      "script_fi": "Leivonnassa käytetään ainesosia, kuten jauhoja, sokeria, munia ja voita. Huolellinen mittaaminen auttaa reseptiä onnistumaan. Leivinjauhe tai hiiva saa taikinan kohoamaan.",
+      "script_sk": "Pri pečení sa používajú prísady ako múka, cukor, vajcia a maslo. Dôkladné meranie pomáha, aby recept dobre dopadol. Cesto kysne prášok do pečiva alebo droždie.",
+      "script_da": "Bagning bruger ingredienser som mel, sukker, æg og smør. At måle omhyggeligt hjælper opskriften til at blive godt. Bagepulver eller gær får dejen til at hæve.",
+      "images": [
+        "ingredients.webp",
+        "ingredients_2.webp",
+        "ingredients_3.webp"
+      ]
+    },
+    {
+      "id": "safety",
+      "script_en": "Ovens and trays get very hot. Always ask an adult before using the oven. Use oven gloves, keep handles turned inward, and let baked food cool before touching it.",
+      "script_de": "Backöfen und Bleche werden sehr heiß. Fragen Sie immer einen Erwachsenen, bevor Sie den Ofen benutzen. Benutzen Sie Ofenhandschuhe, halten Sie die Griffe nach innen gedreht und lassen Sie das gebackene Essen abkühlen, bevor Sie es berühren.",
+      "script_it": "Forni e teglie diventano molto caldi. Chiedere sempre ad un adulto prima di utilizzare il forno. Utilizzare guanti da forno, tenere i manici rivolti verso l'interno e lasciare raffreddare il cibo cotto prima di toccarlo.",
+      "script_fr": "Les fours et les plateaux deviennent très chauds. Demandez toujours à un adulte avant d'utiliser le four. Utilisez des gants de cuisine, gardez les poignées tournées vers l’intérieur et laissez les aliments cuits refroidir avant de les toucher.",
+      "script_es": "Los hornos y bandejas se calientan mucho. Pregúntale siempre a un adulto antes de usar el horno. Use guantes para horno, mantenga las manijas hacia adentro y deje que los alimentos horneados se enfríen antes de tocarlos.",
+      "script_hr": "Pećnice i pladnji se jako zagriju. Uvijek pitajte odraslu osobu prije korištenja pećnice. Koristite rukavice za pećnicu, držite ručke okrenute prema unutra i pustite pečenu hranu da se ohladi prije nego je dodirnete.",
+      "script_cs": "Trouby a plechy jsou velmi horké. Před použitím trouby se vždy zeptejte dospělé osoby. Používejte chňapky, rukojeti držte otočené dovnitř a nechte upečené jídlo vychladnout, než se ho dotknete.",
+      "script_pl": "Piekarniki i blachy bardzo się nagrzewają. Przed użyciem piekarnika zawsze zapytaj osobę dorosłą. Używaj rękawic kuchennych, trzymaj uchwyty skierowane do wewnątrz i poczekaj, aż upieczone jedzenie ostygnie, zanim go dotkniesz.",
+      "script_fi": "Uunit ja uunipellit kuumenevat hyvin. Kysy aina aikuiselta ennen uunin käyttöä. Käytä uunikäsineitä, pidä kahvat sisäänpäin käännettyinä ja anna leivonnaisten jäähtyä ennen kuin kosket siihen.",
+      "script_sk": "Rúry a plechy sú veľmi horúce. Pred použitím rúry vždy požiadajte dospelú osobu. Používajte chňapky, rukoväte držte otočené dovnútra a nechajte upečené jedlo vychladnúť, kým sa ho nedotknete.",
+      "script_da": "Ovne og bakker bliver meget varme. Spørg altid en voksen, før du bruger ovnen. Brug ovnhandsker, hold håndtagene vendt indad, og lad bagt mad køle af, før du rører ved det.",
+      "images": [
+        "safety.webp",
+        "safety_2.webp",
+        "safety_3.webp"
+      ]
+    },
+    {
+      "id": "process",
+      "script_en": "A recipe tells you what to do step by step. Mix the ingredients, shape the dough, and bake it for the right time. Cooling on a rack keeps the bottom crisp.",
+      "script_de": "Ein Rezept erklärt Ihnen Schritt für Schritt, was zu tun ist. Mischen Sie die Zutaten, formen Sie den Teig und backen Sie ihn für die richtige Zeit. Durch das Abkühlen auf einem Rost bleibt der Boden knusprig.",
+      "script_it": "Una ricetta ti dice cosa fare passo dopo passo. Mescolare gli ingredienti, modellare l'impasto e cuocerlo per il tempo giusto. Il raffreddamento su una griglia mantiene il fondo croccante.",
+      "script_fr": "Une recette vous indique quoi faire étape par étape. Mélangez les ingrédients, façonnez la pâte et enfournez-la pendant le bon moment. Le refroidissement sur une grille garde le fond croustillant.",
+      "script_es": "Una receta te dice qué hacer paso a paso. Mezcla los ingredientes, dale forma a la masa y hornéala en el momento adecuado. Enfriarlo sobre una rejilla mantiene el fondo crujiente.",
+      "script_hr": "Recept vam govori što trebate učiniti korak po korak. Pomiješajte sastojke, oblikujte tijesto i pecite ga određeno vrijeme. Hlađenjem na rešetki dno ostaje hrskavo.",
+      "script_cs": "Recept vám řekne, co dělat krok za krokem. Smíchejte ingredience, vytvarujte těsto a pečte na správný čas. Chlazení na stojanu udržuje dno křupavé.",
+      "script_pl": "Przepis opisuje krok po kroku, co należy zrobić. Wymieszaj składniki, uformuj ciasto i piecz przez odpowiedni czas. Chłodzenie na kratce sprawia, że ​​spód pozostaje chrupiący.",
+      "script_fi": "Resepti kertoo, mitä tehdä vaihe vaiheelta. Sekoita ainekset, muotoile taikina ja paista sopivan ajan. Telineessä jäähdyttäminen pitää pohjan raikkaana.",
+      "script_sk": "Recept vám povie, čo robiť krok za krokom. Zmiešajte ingrediencie, vytvarujte cesto a pečte na správny čas. Chladenie na stojane udržuje spodok chrumkavý.",
+      "script_da": "En opskrift fortæller dig, hvad du skal gøre trin for trin. Bland ingredienserne, form dejen, og bag den til det rigtige tidspunkt. Afkøling på en rist holder bunden sprød.",
+      "images": [
+        "process.webp",
+        "process_2.webp",
+        "process_3.webp"
+      ]
+    },
+    {
+      "id": "today",
+      "script_en": "Today people bake at home for fun and to share. Baking together teaches measuring and patience. Wrapping leftovers well reduces food waste.",
+      "script_de": "Heutzutage backen die Leute zu Hause zum Spaß und zum Teilen. Gemeinsames Backen lehrt Abmessen und Geduld. Das gute Verpacken von Resten reduziert die Lebensmittelverschwendung.",
+      "script_it": "Oggi le persone cucinano a casa per divertirsi e condividere. Cucinare insieme insegna la misura e la pazienza. Avvolgere bene gli avanzi riduce gli sprechi alimentari.",
+      "script_fr": "Aujourd’hui, on cuisine à la maison pour s’amuser et pour partager. Cuisiner ensemble enseigne la mesure et la patience. Bien emballer les restes réduit le gaspillage alimentaire.",
+      "script_es": "Hoy en día la gente hornea en casa por diversión y para compartir. Hornear juntos enseña a medir y tener paciencia. Envolver bien las sobras reduce el desperdicio de alimentos.",
+      "script_hr": "Danas ljudi peku kod kuće za zabavu i dijeljenje. Zajedničko pečenje uči odmjeravanju i strpljenju. Dobro zamatanje ostataka smanjuje bacanje hrane.",
+      "script_cs": "Dnes lidé pečou doma pro radost a pro sdílení. Společné pečení učí měření a trpělivosti. Dobré zabalení zbytků snižuje plýtvání potravinami.",
+      "script_pl": "Dziś ludzie pieczą w domu dla zabawy i dzielenia się. Wspólne pieczenie uczy miary i cierpliwości. Dobre zawijanie resztek pozwala ograniczyć marnowanie żywności.",
+      "script_fi": "Nykyään ihmiset leipovat kotona huvikseen ja jaettavaksi. Yhdessä leipominen opettaa mittaamista ja kärsivällisyyttä. Ylijäämien kääriminen hyvin vähentää ruokahävikkiä.",
+      "script_sk": "Dnes ľudia pečú doma pre radosť a zdieľanie. Spoločné pečenie učí merať a trpezlivo. Dobré zabalenie zvyškov znižuje plytvanie potravinami.",
+      "script_da": "I dag bager folk derhjemme for sjov og for at dele. At bage sammen lærer måling og tålmodighed. Indpakning af rester godt mindsker madspild.",
+      "images": [
+        "today.webp",
+        "today_2.webp",
+        "today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "oven",
+      "correct": "oven",
+      "question_en": "What tool bakes food with dry heat?",
+      "question_de": "Welches Gerät backt Lebensmittel mit trockener Hitze?",
+      "question_it": "Quale strumento cuoce il cibo con il calore secco?",
+      "question_fr": "Quel outil cuit les aliments à chaleur sèche ?",
+      "question_es": "¿Qué herramienta hornea los alimentos con calor seco?",
+      "question_hr": "Koji alat peče hranu suhom toplinom?",
+      "question_cs": "Jaký nástroj peče jídlo suchým teplem?",
+      "question_pl": "Jakie narzędzie piecze jedzenie przy użyciu suchego ciepła?",
+      "question_fi": "Millä työkalulla paistaa ruokaa kuivalla lämmöllä?",
+      "question_sk": "Aký nástroj pečie jedlo suchým teplom?",
+      "question_da": "Hvilket værktøj bager mad med tør varme?",
+      "options": [
+        {
+          "id": "oven",
+          "label_en": "An oven",
+          "label_de": "Ein Ofen",
+          "label_it": "Un forno",
+          "label_fr": "Un four",
+          "label_es": "un horno",
+          "label_hr": "Pećnica",
+          "label_cs": "Trouba",
+          "label_pl": "Piekarnik",
+          "label_fi": "Uuni",
+          "label_sk": "Rúra",
+          "label_da": "En ovn"
+        },
+        {
+          "id": "fridge",
+          "label_en": "A fridge",
+          "label_de": "Ein Kühlschrank",
+          "label_it": "Un frigorifero",
+          "label_fr": "Un frigo",
+          "label_es": "una nevera",
+          "label_hr": "hladnjak",
+          "label_cs": "Lednice",
+          "label_pl": "Lodówka",
+          "label_fi": "Jääkaappi",
+          "label_sk": "Chladnička",
+          "label_da": "Et køleskab"
+        },
+        {
+          "id": "sink",
+          "label_en": "A sink",
+          "label_de": "Ein Waschbecken",
+          "label_it": "Un lavandino",
+          "label_fr": "Un évier",
+          "label_es": "un fregadero",
+          "label_hr": "Sudoper",
+          "label_cs": "Umyvadlo",
+          "label_pl": "Zlew",
+          "label_fi": "Pesuallas",
+          "label_sk": "Umývadlo",
+          "label_da": "En vask"
+        }
+      ]
+    },
+    {
+      "id": "measure",
+      "correct": "recipe",
+      "question_en": "Why do bakers measure ingredients?",
+      "question_de": "Warum messen Bäcker Zutaten ab?",
+      "question_it": "Perché i panettieri misurano gli ingredienti?",
+      "question_fr": "Pourquoi les boulangers mesurent-ils les ingrédients ?",
+      "question_es": "¿Por qué los panaderos miden los ingredientes?",
+      "question_hr": "Zašto pekari mjere sastojke?",
+      "question_cs": "Proč pekaři měří ingredience?",
+      "question_pl": "Dlaczego piekarze odmierzają składniki?",
+      "question_fi": "Miksi leipurit mittaavat ainekset?",
+      "question_sk": "Prečo pekári merajú suroviny?",
+      "question_da": "Hvorfor måler bagere ingredienser?",
+      "options": [
+        {
+          "id": "recipe",
+          "label_en": "So the recipe turns out well",
+          "label_de": "Das Rezept ist also gelungen",
+          "label_it": "Quindi la ricetta riesce bene",
+          "label_fr": "Donc la recette s'avère bien",
+          "label_es": "Entonces la receta sale bien.",
+          "label_hr": "Tako da je recept dobro ispao",
+          "label_cs": "Recept tedy dopadá dobře",
+          "label_pl": "Więc przepis się sprawdza",
+          "label_fi": "Reseptistä tulee siis hyvää",
+          "label_sk": "Recept teda dopadne dobre",
+          "label_da": "Så opskriften bliver godt"
+        },
+        {
+          "id": "noise",
+          "label_en": "To make noise",
+          "label_de": "Lärm machen",
+          "label_it": "Per fare rumore",
+          "label_fr": "Pour faire du bruit",
+          "label_es": "para hacer ruido",
+          "label_hr": "Praviti buku",
+          "label_cs": "Dělat hluk",
+          "label_pl": "Żeby hałasować",
+          "label_fi": "tehdä melua",
+          "label_sk": "Robiť hluk",
+          "label_da": "At lave larm"
+        },
+        {
+          "id": "cold",
+          "label_en": "To keep food cold",
+          "label_de": "Um Speisen kalt zu halten",
+          "label_it": "Per mantenere il cibo freddo",
+          "label_fr": "Pour garder les aliments au frais",
+          "label_es": "Para mantener la comida fría",
+          "label_hr": "Za održavanje hrane hladnom",
+          "label_cs": "Aby jídlo zůstalo studené",
+          "label_pl": "Aby żywność była zimna",
+          "label_fi": "Ruoan pitämiseksi kylmänä",
+          "label_sk": "Aby jedlo zostalo studené",
+          "label_da": "For at holde maden kold"
+        }
+      ]
+    },
+    {
+      "id": "safe",
+      "correct": "adult",
+      "question_en": "Who should help with a hot oven?",
+      "question_de": "Wer soll bei einem heißen Ofen helfen?",
+      "question_it": "Chi dovrebbe aiutare con il forno caldo?",
+      "question_fr": "Qui devrait aider avec un four chaud ?",
+      "question_es": "¿Quién debería ayudar con un horno caliente?",
+      "question_hr": "Tko bi trebao pomoći s vrućom pećnicom?",
+      "question_cs": "Kdo by měl pomoci s horkou troubou?",
+      "question_pl": "Kto powinien pomagać przy gorącym piekarniku?",
+      "question_fi": "Kenen pitäisi auttaa kuuman uunin kanssa?",
+      "question_sk": "Kto by mal pomáhať s horúcou rúrou?",
+      "question_da": "Hvem skal hjælpe med en varm ovn?",
+      "options": [
+        {
+          "id": "adult",
+          "label_en": "An adult",
+          "label_de": "Ein Erwachsener",
+          "label_it": "Un adulto",
+          "label_fr": "Un adulte",
+          "label_es": "un adulto",
+          "label_hr": "Odrasla osoba",
+          "label_cs": "Dospělý",
+          "label_pl": "Osoba dorosła",
+          "label_fi": "Aikuinen",
+          "label_sk": "Dospelý",
+          "label_da": "En voksen"
+        },
+        {
+          "id": "nobody",
+          "label_en": "Nobody",
+          "label_de": "Niemand",
+          "label_it": "Nessuno",
+          "label_fr": "Personne",
+          "label_es": "Nadie",
+          "label_hr": "Nitko",
+          "label_cs": "Nikdo",
+          "label_pl": "Nikt",
+          "label_fi": "Ei kukaan",
+          "label_sk": "Nikto",
+          "label_da": "Ingen"
+        },
+        {
+          "id": "pet",
+          "label_en": "A pet",
+          "label_de": "Ein Haustier",
+          "label_it": "Un animale domestico",
+          "label_fr": "Un animal de compagnie",
+          "label_es": "una mascota",
+          "label_hr": "Kućni ljubimac",
+          "label_cs": "Domácí mazlíček",
+          "label_pl": "Zwierzę",
+          "label_fi": "Lemmikki",
+          "label_sk": "Domáce zvieratko",
+          "label_da": "Et kæledyr"
+        }
+      ]
+    }
+  ]
+}

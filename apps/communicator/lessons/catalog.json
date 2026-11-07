@@ -1,6 +1,27 @@
 {
   "lessons": [
     {
+      "id": "baking",
+      "category_id": "activities",
+      "symbol_id": "baking",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/baking/baking_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/baking/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2486207,
+      "version": 1,
+      "title_en": "Baking",
+      "title_de": "Backen",
+      "title_it": "Cottura al forno",
+      "title_fr": "Pâtisserie",
+      "title_es": "Hornada",
+      "title_hr": "Pečenje",
+      "title_cs": "Pečení",
+      "title_pl": "Pieczenie",
+      "title_fi": "Paistaminen",
+      "title_sk": "Pečenie",
+      "title_da": "Bagning"
+    },
+    {
       "id": "cooking",
       "category_id": "activities",
       "symbol_id": "cooking",
