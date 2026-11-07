@@ -1009,6 +1009,27 @@
       "title_da": "Stole"
     },
     {
+      "id": "table",
+      "category_id": "household",
+      "symbol_id": "table",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/table/table_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/table/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2599950,
+      "version": 1,
+      "title_en": "Tables",
+      "title_de": "Tische",
+      "title_it": "Tabelle",
+      "title_fr": "Tableaux",
+      "title_es": "Mesas",
+      "title_hr": "Stolovi",
+      "title_cs": "Tabulky",
+      "title_pl": "Stoły",
+      "title_fi": "Taulukot",
+      "title_sk": "Tabuľky",
+      "title_da": "Tabeller"
+    },
+    {
       "id": "rain",
       "category_id": "nature",
       "symbol_id": "rain",

@@ -1,0 +1,293 @@
+{
+  "id": "table",
+  "category_id": "household",
+  "symbol_id": "table",
+  "thumbnail": "table_thumb.webp",
+  "title_en": "Tables",
+  "title_de": "Tische",
+  "title_it": "Tabelle",
+  "title_fr": "Tableaux",
+  "title_es": "Mesas",
+  "title_hr": "Stolovi",
+  "title_cs": "Tabulky",
+  "title_pl": "Stoły",
+  "title_fi": "Taulukot",
+  "title_sk": "Tabuľky",
+  "title_da": "Tabeller",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about tables. A table is a flat surface held up by legs. People use tables for eating, writing, drawing, playing games, and putting things down.",
+      "script_de": "Heute lernen wir etwas über Tabellen. Ein Tisch ist eine ebene Fläche, die von Beinen gehalten wird. Menschen nutzen Tische zum Essen, Schreiben, Zeichnen, Spielen und Abstellen von Dingen.",
+      "script_it": "Oggi parleremo delle tabelle. Un tavolo è una superficie piana sorretta da gambe. Le persone usano i tavoli per mangiare, scrivere, disegnare, giocare e posare le cose.",
+      "script_fr": "Aujourd'hui, nous allons découvrir les tables. Une table est une surface plane soutenue par des pieds. Les gens utilisent les tables pour manger, écrire, dessiner, jouer à des jeux et déposer des choses.",
+      "script_es": "Hoy vamos a aprender sobre tablas. Una mesa es una superficie plana sostenida por patas. La gente usa las mesas para comer, escribir, dibujar, jugar y dejar cosas.",
+      "script_hr": "Danas ćemo učiti o stolovima. Stol je ravna površina koju drže noge. Ljudi koriste stolove za jelo, pisanje, crtanje, igranje igara i odlaganje stvari.",
+      "script_cs": "Dnes se seznámíme s tabulkami. Stůl je rovná plocha držená nohama. Lidé používají stoly k jídlu, psaní, kreslení, hraní her a odkládání věcí.",
+      "script_pl": "Dzisiaj będziemy uczyć się o tabelach. Stół to płaska powierzchnia podtrzymywana przez nogi. Ludzie używają stołów do jedzenia, pisania, rysowania, grania w gry i odkładania rzeczy.",
+      "script_fi": "Tänään opimme taulukoista. Pöytä on tasainen pinta, jota jalat pitävät pystyssä. Ihmiset käyttävät pöytiä syömiseen, kirjoittamiseen, piirtämiseen, pelaamiseen ja tavaroiden laskemiseen.",
+      "script_sk": "Dnes sa dozvieme niečo o tabuľkách. Stôl je rovná plocha podopieraná nohami. Ľudia používajú stoly na jedenie, písanie, kreslenie, hranie hier a odkladanie vecí.",
+      "script_da": "I dag skal vi lære om tabeller. Et bord er en flad overflade, der holdes op af ben. Folk bruger borde til at spise, skrive, tegne, spille spil og lægge ting fra sig.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "history",
+      "script_en": "Tables have been used for thousands of years. Early tables were simple boards on stones or legs. In castles and farmhouses, long tables brought many people together for meals.",
+      "script_de": "Tische werden seit Tausenden von Jahren verwendet. Frühe Tische waren einfache Bretter auf Steinen oder Beinen. In Burgen und Bauernhäusern versammelten sich viele Menschen an langen Tischen zum Essen.",
+      "script_it": "Le tabelle sono state utilizzate per migliaia di anni. I primi tavoli erano semplici assi su pietre o gambe. Nei castelli e nelle masserie, le lunghe tavolate riunivano molte persone per i pasti.",
+      "script_fr": "Les tables sont utilisées depuis des milliers d'années. Les premières tables étaient de simples planches posées sur des pierres ou des pieds. Dans les châteaux et les fermes, de longues tables réunissaient de nombreuses personnes autour des repas.",
+      "script_es": "Las mesas se han utilizado durante miles de años. Las primeras mesas eran simples tablas sobre piedras o patas. En castillos y casas de campo, las mesas largas reunían a mucha gente para comer.",
+      "script_hr": "Stolovi se koriste tisućama godina. Rani stolovi bili su jednostavne daske na kamenu ili nogama. U dvorcima i seoskim kućama dugi stolovi okupljali su mnogo ljudi za objedom.",
+      "script_cs": "Stoly se používají tisíce let. Rané stoly byly jednoduché desky na kamenech nebo nohách. V zámcích a na statcích dlouhé stoly sdružovaly mnoho lidí k jídlu.",
+      "script_pl": "Tabele są używane od tysięcy lat. Wczesne stoły były prostymi deskami na kamieniach lub nogach. W zamkach i gospodarstwach wiejskich długie stoły gromadziły wiele osób przy posiłkach.",
+      "script_fi": "Pöytiä on käytetty tuhansia vuosia. Varhaiset pöydät olivat yksinkertaisia ​​kiviä tai jalkoja. Linnoissa ja maalaistaloissa pitkät pöydät toivat monia ihmisiä yhteen aterialle.",
+      "script_sk": "Stoly sa používajú už tisíce rokov. Rané stoly boli jednoduché dosky na kameňoch alebo nohách. V zámkoch a na statkoch dlhé stoly spájali veľa ľudí pri jedle.",
+      "script_da": "Tabeller har været brugt i tusinder af år. Tidlige borde var simple brædder på sten eller ben. I slotte og bondegårde bragte langborde mange mennesker sammen til måltider.",
+      "images": [
+        "history.webp",
+        "history_2.webp",
+        "history_3.webp"
+      ]
+    },
+    {
+      "id": "parts",
+      "script_en": "A table has a flat top and strong legs or a central base. Some tables have drawers or shelves underneath. A good table is steady, with enough space for everyone to use it comfortably.",
+      "script_de": "Ein Tisch hat eine flache Platte und starke Beine oder eine zentrale Basis. Einige Tische haben darunter Schubladen oder Regale. Ein guter Tisch ist stabil und bietet genug Platz, damit jeder ihn bequem nutzen kann.",
+      "script_it": "Un tavolo ha un piano piatto e gambe robuste o una base centrale. Alcuni tavoli hanno cassetti o ripiani sottostanti. Un buon tavolo è stabile, con abbastanza spazio perché tutti possano usarlo comodamente.",
+      "script_fr": "Une table a un plateau plat et des pieds solides ou une base centrale. Certaines tables ont des tiroirs ou des étagères en dessous. Une bonne table est stable et offre suffisamment d’espace pour que chacun puisse l’utiliser confortablement.",
+      "script_es": "Una mesa tiene una superficie plana y patas fuertes o una base central. Algunas mesas tienen cajones o estantes debajo. Una buena mesa es estable y tiene suficiente espacio para que todos la utilicen cómodamente.",
+      "script_hr": "Stol ima ravnu ploču i jake noge ili središnju bazu. Neki stolovi imaju ladice ili police ispod. Dobar stol je stabilan, s dovoljno prostora da ga svi mogu udobno koristiti.",
+      "script_cs": "Stůl má plochou desku a silné nohy nebo středovou základnu. Některé stoly mají vespod zásuvky nebo police. Dobrý stůl je stabilní, s dostatkem místa, aby jej každý mohl pohodlně používat.",
+      "script_pl": "Stół ma płaski blat i mocne nogi lub centralną podstawę. Niektóre stoły mają pod spodem szuflady lub półki. Dobry stół jest stabilny i ma wystarczająco dużo miejsca, aby każdy mógł z niego wygodnie korzystać.",
+      "script_fi": "Pöydässä on tasainen kansi ja vahvat jalat tai keskijalka. Joissakin pöydissä on laatikoita tai hyllyjä. Hyvä pöytä on vakaa, ja siinä on tarpeeksi tilaa kaikille mukavasti käyttää sitä.",
+      "script_sk": "Stôl má plochú dosku a silné nohy alebo stredovú základňu. Niektoré stolíky majú pod sebou zásuvky alebo police. Dobrý stôl je stabilný a má dostatok priestoru, aby ho každý mohol pohodlne používať.",
+      "script_da": "Et bord har en flad plade og stærke ben eller en central base. Nogle borde har skuffer eller hylder under. Et godt bord er stabilt, med plads nok til, at alle kan bruge det komfortabelt.",
+      "images": [
+        "parts.webp",
+        "parts_2.webp",
+        "parts_3.webp"
+      ]
+    },
+    {
+      "id": "family",
+      "script_en": "Tables are places where people come together. Families eat meals, children do homework, and friends play board games around them. Keeping the table clear gives everyone room to work and share.",
+      "script_de": "Tische sind Orte, an denen Menschen zusammenkommen. Familien essen, Kinder machen Hausaufgaben und Freunde spielen um sie herum Brettspiele. Wenn Sie den Tisch frei halten, haben alle Raum zum Arbeiten und Teilen.",
+      "script_it": "I tavoli sono luoghi in cui le persone si incontrano. Le famiglie consumano i pasti, i bambini fanno i compiti e gli amici giocano a giochi da tavolo intorno a loro. Mantenere il tavolo libero offre a tutti spazio per lavorare e condividere.",
+      "script_fr": "Les tables sont des lieux où les gens se réunissent. Les familles prennent leurs repas, les enfants font leurs devoirs et les amis jouent à des jeux de société autour d'eux. Garder la table dégagée donne à chacun la possibilité de travailler et de partager.",
+      "script_es": "Las mesas son lugares donde se reúne la gente. Las familias comen, los niños hacen los deberes y los amigos juegan juegos de mesa a su alrededor. Mantener la mesa despejada les da a todos espacio para trabajar y compartir.",
+      "script_hr": "Stolovi su mjesta gdje se ljudi okupljaju. Obitelji jedu, djeca pišu zadaće, a prijatelji igraju društvene igre oko njih. Održavanje stola čistim daje svima prostor za rad i dijeljenje.",
+      "script_cs": "Stoly jsou místa, kde se lidé scházejí. Rodiny jedí, děti dělají domácí úkoly a přátelé kolem nich hrají deskové hry. Udržování čistého stolu dává každému prostor pro práci a sdílení.",
+      "script_pl": "Stoły to miejsca, w których spotykają się ludzie. Rodziny jedzą posiłki, dzieci odrabiają lekcje, a przyjaciele grają wokół nich w gry planszowe. Utrzymanie porządku przy stole zapewnia każdemu miejsce do pracy i dzielenia się.",
+      "script_fi": "Pöydät ovat paikkoja, joissa ihmiset kokoontuvat yhteen. Perheet syövät aterioita, lapset tekevät läksyjä ja ystävät pelaavat lautapelejä heidän ympärillään. Pöydän pitäminen puhtaana antaa kaikille tilaa työskennellä ja jakaa.",
+      "script_sk": "Stoly sú miesta, kde sa ľudia stretávajú. Rodiny jedia, deti robia domáce úlohy a priatelia okolo nich hrajú spoločenské hry. Udržiavanie čistého stola dáva každému priestor na prácu a zdieľanie.",
+      "script_da": "Borde er steder, hvor mennesker mødes. Familier spiser måltider, børn laver lektier, og venner spiller brætspil omkring dem. At holde bordet klart giver alle plads til at arbejde og dele.",
+      "images": [
+        "family.webp",
+        "family_2.webp",
+        "family_3.webp"
+      ]
+    },
+    {
+      "id": "today",
+      "script_en": "Today tables come in many designs, from tiny side tables to large conference tables. Adjustable desks help people work at a comfortable height. Whatever its shape, a table makes space for shared activities.",
+      "script_de": "Heutzutage gibt es Tische in vielen Ausführungen, vom kleinen Beistelltisch bis zum großen Konferenztisch. Verstellbare Schreibtische ermöglichen das Arbeiten in einer angenehmen Höhe. Unabhängig von der Form bietet ein Tisch Platz für gemeinsame Aktivitäten.",
+      "script_it": "Oggi i tavoli sono disponibili in molti modelli, dai piccoli tavolini ai grandi tavoli da conferenza. Le scrivanie regolabili aiutano le persone a lavorare ad un'altezza comoda. Qualunque sia la sua forma, un tavolo crea spazio per attività condivise.",
+      "script_fr": "Aujourd'hui, les tables se déclinent en de nombreux modèles, des petites tables d'appoint aux grandes tables de conférence. Les bureaux réglables aident les gens à travailler à une hauteur confortable. Quelle que soit sa forme, une table offre un espace pour des activités partagées.",
+      "script_es": "Hoy en día, las mesas vienen en muchos diseños, desde pequeñas mesas auxiliares hasta grandes mesas de conferencias. Los escritorios ajustables ayudan a las personas a trabajar a una altura cómoda. Cualquiera que sea su forma, una mesa deja espacio para actividades compartidas.",
+      "script_hr": "Danas stolovi dolaze u mnogim izvedbama, od malenih bočnih stolova do velikih konferencijskih stolova. Podesivi stolovi pomažu ljudima da rade na udobnoj visini. Bez obzira na oblik, stol čini prostor za zajedničke aktivnosti.",
+      "script_cs": "Dnes se stolky dodávají v mnoha provedeních, od malých odkládacích stolků až po velké konferenční stolky. Nastavitelné stoly pomáhají lidem pracovat v pohodlné výšce. Ať už má stůl jakýkoli tvar, vytváří prostor pro společné aktivity.",
+      "script_pl": "Obecnie stoły są dostępne w wielu wersjach, od małych stolików bocznych po duże stoły konferencyjne. Biurka regulowane pomagają ludziom pracować na wygodnej wysokości. Niezależnie od kształtu, stół zapewnia przestrzeń do wspólnych zajęć.",
+      "script_fi": "Nykyään pöytiä on monenlaisia, pienistä sivupöydistä suuriin neuvottelupöytiin. Säädettävät työpöydät auttavat ihmisiä työskentelemään mukavalla korkeudella. Pöydän muoto on mikä tahansa, se antaa tilaa yhteiselle toiminnalle.",
+      "script_sk": "Dnešné stolíky prichádzajú v mnohých prevedeniach, od malých príručných stolíkov až po veľké konferenčné stolíky. Nastaviteľné stoly pomáhajú ľuďom pracovať v pohodlnej výške. Nech už je jeho tvar akýkoľvek, stôl vytvára priestor pre spoločné aktivity.",
+      "script_da": "I dag findes borde i mange designs, lige fra små sideborde til store konferenceborde. Justerbare skriveborde hjælper folk med at arbejde i en behagelig højde. Uanset formen giver et bord plads til fælles aktiviteter.",
+      "images": [
+        "today.webp",
+        "today_2.webp",
+        "today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "top",
+      "correct": "top",
+      "question_en": "What is the flat part of a table called?",
+      "question_de": "Wie heißt der flache Teil eines Tisches?",
+      "question_it": "Come si chiama la parte piatta di un tavolo?",
+      "question_fr": "Comment s’appelle la partie plate d’une table ?",
+      "question_es": "¿Cómo se llama la parte plana de una mesa?",
+      "question_hr": "Kako se zove ravni dio stola?",
+      "question_cs": "Jak se nazývá plochá část stolu?",
+      "question_pl": "Jak nazywa się płaska część stołu?",
+      "question_fi": "Mikä on pöydän litteän osan nimi?",
+      "question_sk": "Ako sa nazýva plochá časť stola?",
+      "question_da": "Hvad hedder den flade del af et bord?",
+      "options": [
+        {
+          "id": "top",
+          "label_en": "The tabletop",
+          "label_de": "Die Tischplatte",
+          "label_it": "Il piano del tavolo",
+          "label_fr": "Le dessus de table",
+          "label_es": "la mesa",
+          "label_hr": "Ploča stola",
+          "label_cs": "Stolní deska",
+          "label_pl": "Blat",
+          "label_fi": "Pöytälevy",
+          "label_sk": "Stolová doska",
+          "label_da": "Bordpladen"
+        },
+        {
+          "id": "leg",
+          "label_en": "A leg",
+          "label_de": "Ein Bein",
+          "label_it": "Una gamba",
+          "label_fr": "Une jambe",
+          "label_es": "una pierna",
+          "label_hr": "noga",
+          "label_cs": "Noha",
+          "label_pl": "Noga",
+          "label_fi": "Jalka",
+          "label_sk": "Noha",
+          "label_da": "Et ben"
+        },
+        {
+          "id": "drawer",
+          "label_en": "A drawer",
+          "label_de": "Eine Schublade",
+          "label_it": "Un cassetto",
+          "label_fr": "Un tiroir",
+          "label_es": "un cajón",
+          "label_hr": "Ladica",
+          "label_cs": "Zásuvka",
+          "label_pl": "Szuflada",
+          "label_fi": "Laatikon",
+          "label_sk": "Zásuvka",
+          "label_da": "En skuffe"
+        }
+      ]
+    },
+    {
+      "id": "support",
+      "correct": "legs",
+      "question_en": "What holds the tabletop up?",
+      "question_de": "Was hält die Tischplatte hoch?",
+      "question_it": "Cosa sostiene il piano del tavolo?",
+      "question_fr": "Qu'est-ce qui retient la table ?",
+      "question_es": "¿Qué sostiene la mesa?",
+      "question_hr": "Što drži ploču stola gore?",
+      "question_cs": "Co drží desku stolu nahoře?",
+      "question_pl": "Co podtrzymuje blat?",
+      "question_fi": "Mikä pitää pöytälevyn pystyssä?",
+      "question_sk": "Čo drží dosku hore?",
+      "question_da": "Hvad holder bordpladen oppe?",
+      "options": [
+        {
+          "id": "legs",
+          "label_en": "Legs or a base",
+          "label_de": "Beine oder eine Basis",
+          "label_it": "Gambe o una base",
+          "label_fr": "Des pieds ou une base",
+          "label_es": "Piernas o una base",
+          "label_hr": "Noge ili baza",
+          "label_cs": "Nohy nebo základna",
+          "label_pl": "Nogi lub podstawa",
+          "label_fi": "Jalat tai pohja",
+          "label_sk": "Nohy alebo základňa",
+          "label_da": "Ben eller en base"
+        },
+        {
+          "id": "chair",
+          "label_en": "A chair",
+          "label_de": "Ein Stuhl",
+          "label_it": "Una sedia",
+          "label_fr": "Une chaise",
+          "label_es": "una silla",
+          "label_hr": "Stolica",
+          "label_cs": "Židle",
+          "label_pl": "Krzesło",
+          "label_fi": "Tuoli",
+          "label_sk": "Stolička",
+          "label_da": "En stol"
+        },
+        {
+          "id": "lamp",
+          "label_en": "A lamp",
+          "label_de": "Eine Lampe",
+          "label_it": "Una lampada",
+          "label_fr": "Une lampe",
+          "label_es": "una lámpara",
+          "label_hr": "svjetiljka",
+          "label_cs": "Lampa",
+          "label_pl": "Lampa",
+          "label_fi": "Lamppu",
+          "label_sk": "Lampa",
+          "label_da": "En lampe"
+        }
+      ]
+    },
+    {
+      "id": "use",
+      "correct": "eat",
+      "question_en": "What do families often do around a table?",
+      "question_de": "Was machen Familien oft am Tisch?",
+      "question_it": "Cosa fanno spesso le famiglie attorno a un tavolo?",
+      "question_fr": "Que font souvent les familles autour d’une table ?",
+      "question_es": "¿Qué suelen hacer las familias alrededor de una mesa?",
+      "question_hr": "Što obitelji često rade za stolom?",
+      "question_cs": "Co rodiny často dělají u stolu?",
+      "question_pl": "Co rodziny często robią przy stole?",
+      "question_fi": "Mitä perheet usein tekevät pöydän ääressä?",
+      "question_sk": "Čo často robia rodiny pri stole?",
+      "question_da": "Hvad laver familier ofte omkring et bord?",
+      "options": [
+        {
+          "id": "eat",
+          "label_en": "Eat meals together",
+          "label_de": "Essen Sie gemeinsam Mahlzeiten",
+          "label_it": "Consumare i pasti insieme",
+          "label_fr": "Prendre des repas ensemble",
+          "label_es": "comer juntos",
+          "label_hr": "Jedite obroke zajedno",
+          "label_cs": "Jezte jídla společně",
+          "label_pl": "Jedzcie razem posiłki",
+          "label_fi": "Syö aterioita yhdessä",
+          "label_sk": "Jedzte jedlá spolu",
+          "label_da": "Spis måltider sammen"
+        },
+        {
+          "id": "sleep",
+          "label_en": "Sleep",
+          "label_de": "Schlafen",
+          "label_it": "Sonno",
+          "label_fr": "Dormir",
+          "label_es": "Dormir",
+          "label_hr": "Spavati",
+          "label_cs": "Spát",
+          "label_pl": "Spać",
+          "label_fi": "Nukkua",
+          "label_sk": "Spánok",
+          "label_da": "Sove"
+        },
+        {
+          "id": "swim",
+          "label_en": "Swim",
+          "label_de": "Schwimmen",
+          "label_it": "Nuotare",
+          "label_fr": "Nager",
+          "label_es": "Nadar",
+          "label_hr": "Plivati",
+          "label_cs": "Plavat",
+          "label_pl": "Pływać",
+          "label_fi": "Uida",
+          "label_sk": "Plávať",
+          "label_da": "Svømme"
+        }
+      ]
+    }
+  ]
+}
