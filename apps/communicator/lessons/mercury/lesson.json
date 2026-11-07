@@ -1,0 +1,293 @@
+{
+  "id": "mercury",
+  "category_id": "planets",
+  "symbol_id": "mercury",
+  "thumbnail": "mercury_thumb.webp",
+  "title_en": "Mercury",
+  "title_de": "Merkur",
+  "title_it": "Mercurio",
+  "title_fr": "Mercure",
+  "title_es": "Mercurio",
+  "title_hr": "Merkur",
+  "title_cs": "Merkur",
+  "title_pl": "Merkury",
+  "title_fi": "Merkurius",
+  "title_sk": "Merkúr",
+  "title_da": "Merkur",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about Mercury. Mercury is the smallest planet in our solar system and the closest one to the Sun. It is a rocky world covered with craters, much like our Moon.",
+      "script_de": "Heute werden wir etwas über Merkur lernen. Merkur ist der kleinste Planet in unserem Sonnensystem und der sonnennächste. Es ist eine felsige Welt voller Krater, ähnlich wie unser Mond.",
+      "script_it": "Oggi conosceremo Mercurio. Mercurio è il pianeta più piccolo del nostro sistema solare e quello più vicino al Sole. È un mondo roccioso ricoperto di crateri, proprio come la nostra Luna.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur Mercure. Mercure est la plus petite planète de notre système solaire et la plus proche du Soleil. C'est un monde rocheux couvert de cratères, un peu comme notre Lune.",
+      "script_es": "Hoy vamos a aprender sobre Mercurio. Mercurio es el planeta más pequeño de nuestro sistema solar y el más cercano al Sol. Es un mundo rocoso cubierto de cráteres, muy parecido a nuestra Luna.",
+      "script_hr": "Danas ćemo učiti o Merkuru. Merkur je najmanji planet u našem Sunčevom sustavu i najbliži Suncu. To je stjenoviti svijet prekriven kraterima, poput našeg Mjeseca.",
+      "script_cs": "Dnes se budeme učit o Merkuru. Merkur je nejmenší planeta v naší sluneční soustavě a nejbližší Slunci. Je to skalnatý svět pokrytý krátery, podobně jako náš Měsíc.",
+      "script_pl": "Dziś dowiemy się więcej o Merkurym. Merkury to najmniejsza planeta w naszym Układzie Słonecznym i najbliższa Słońcu. Jest to skalisty świat pokryty kraterami, podobny do naszego Księżyca.",
+      "script_fi": "Tänään opimme Mercurysta. Merkurius on aurinkokuntamme pienin planeetta ja lähinnä aurinkoa. Se on kivinen maailma, jota peittävät kraatterit, aivan kuten Kuumme.",
+      "script_sk": "Dnes sa dozvieme o Merkúre. Merkúr je najmenšia planéta našej slnečnej sústavy a najbližšia k Slnku. Je to skalnatý svet pokrytý krátermi, podobne ako náš Mesiac.",
+      "script_da": "I dag skal vi lære om Merkur. Merkur er den mindste planet i vores solsystem og den tættest på Solen. Det er en stenet verden dækket af kratere, ligesom vores måne.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "sun",
+      "script_en": "Mercury races around the Sun faster than any other planet. A year on Mercury lasts only about eighty-eight Earth days. Even so, a single day there lasts much longer than a day on Earth.",
+      "script_de": "Merkur rast schneller um die Sonne als jeder andere Planet. Ein Jahr auf Merkur dauert nur etwa achtundachtzig Erdentage. Dennoch dauert ein einziger Tag dort viel länger als ein Tag auf der Erde.",
+      "script_it": "Mercurio gira attorno al Sole più velocemente di qualsiasi altro pianeta. Un anno su Mercurio dura solo circa ottantotto giorni terrestri. Anche così, un solo giorno dura molto più a lungo di un giorno sulla Terra.",
+      "script_fr": "Mercure tourne autour du Soleil plus rapidement que toute autre planète. Une année sur Mercure ne dure qu’environ quatre-vingt-huit jours terrestres. Même ainsi, une seule journée là-bas dure beaucoup plus longtemps qu’une journée sur Terre.",
+      "script_es": "Mercurio gira alrededor del Sol más rápido que cualquier otro planeta. Un año en Mercurio dura sólo unos ochenta y ocho días terrestres. Aun así, un solo día allí dura mucho más que un día en la Tierra.",
+      "script_hr": "Merkur juri oko Sunca brže nego bilo koji drugi planet. Godina na Merkuru traje samo oko osamdeset i osam zemaljskih dana. Unatoč tome, tamo jedan dan traje puno duže nego dan na Zemlji.",
+      "script_cs": "Merkur obíhá kolem Slunce rychleji než kterákoli jiná planeta. Rok na Merkuru trvá jen asi osmdesát osm pozemských dní. I tak tam jeden jediný den trvá mnohem déle než jeden den na Zemi.",
+      "script_pl": "Merkury krąży wokół Słońca szybciej niż jakakolwiek inna planeta. Rok na Merkurym trwa tylko około osiemdziesięciu ośmiu ziemskich dni. Mimo to jeden dzień trwa tam znacznie dłużej niż dzień na Ziemi.",
+      "script_fi": "Merkurius kilpailee Auringon ympäri nopeammin kuin mikään muu planeetta. Vuosi Merkuriuksella kestää vain noin kahdeksankymmentäkahdeksan Maan päivää. Siitä huolimatta yksi päivä kestää siellä paljon kauemmin kuin päivä maan päällä.",
+      "script_sk": "Merkúr obieha okolo Slnka rýchlejšie ako ktorákoľvek iná planéta. Rok na Merkúre trvá len asi osemdesiatosem pozemských dní. Aj tak tam jeden jediný deň trvá oveľa dlhšie ako jeden deň na Zemi.",
+      "script_da": "Merkur racer rundt om Solen hurtigere end nogen anden planet. Et år på Merkur varer kun omkring 88 jorddage. Alligevel varer en enkelt dag der meget længere end en dag på Jorden.",
+      "images": [
+        "sun.webp",
+        "sun_2.webp",
+        "sun_3.webp"
+      ]
+    },
+    {
+      "id": "temperature",
+      "script_en": "Mercury has almost no atmosphere to hold in heat. Its sunny side can get hot enough to melt lead, while its dark side drops far below freezing. That makes it a world of extreme temperatures.",
+      "script_de": "Quecksilber hat fast keine Atmosphäre, um Wärme zu speichern. Seine Sonnenseite kann so heiß werden, dass Blei schmilzt, während seine Schattenseite weit unter den Gefrierpunkt fällt. Das macht es zu einer Welt extremer Temperaturen.",
+      "script_it": "Mercurio non ha quasi alcuna atmosfera per trattenere il calore. Il suo lato soleggiato può diventare abbastanza caldo da sciogliere il piombo, mentre il suo lato oscuro scende ben al di sotto dello zero. Questo lo rende un mondo di temperature estreme.",
+      "script_fr": "Mercure n'a presque pas d'atmosphère pour retenir la chaleur. Son côté ensoleillé peut devenir suffisamment chaud pour faire fondre le plomb, tandis que son côté sombre descend bien en dessous de zéro. Cela en fait un monde de températures extrêmes.",
+      "script_es": "Mercurio casi no tiene atmósfera para retener el calor. Su lado soleado puede calentarse lo suficiente como para derretir el plomo, mientras que su lado oscuro cae muy por debajo del punto de congelación. Eso lo convierte en un mundo de temperaturas extremas.",
+      "script_hr": "Merkur gotovo da nema atmosferu koja bi držala toplinu. Njegova sunčana strana može postati dovoljno vruća da otopi olovo, dok njegova tamna strana pada daleko ispod nule. To ga čini svijetom ekstremnih temperatura.",
+      "script_cs": "Merkur nemá téměř žádnou atmosféru, která by udržela teplo. Jeho slunečná strana se může zahřát natolik, že roztaví olovo, zatímco temná strana klesne hluboko pod bod mrazu. To z něj dělá svět extrémních teplot.",
+      "script_pl": "Merkury prawie nie ma atmosfery, w której mógłby utrzymać ciepło. Jego słoneczna strona może nagrzać się na tyle, aby stopić ołów, podczas gdy ciemna strona spada znacznie poniżej zera. To sprawia, że ​​jest to świat ekstremalnych temperatur.",
+      "script_fi": "Elohopealla ei ole juuri lainkaan ilmakehää, jota se pitää lämmössä. Sen aurinkoinen puoli voi kuumentua tarpeeksi sulamaan lyijyä, kun taas sen tumma puoli laskee selvästi pakkasen alapuolelle. Tämä tekee siitä äärimmäisten lämpötilojen maailman.",
+      "script_sk": "Ortuť nemá takmer žiadnu atmosféru, ktorá by udržala teplo. Jeho slnečná strana sa môže zahriať natoľko, že roztopí olovo, zatiaľ čo jeho temná strana klesne hlboko pod bod mrazu. To z neho robí svet extrémnych teplôt.",
+      "script_da": "Kviksølv har næsten ingen atmosfære til at holde på varmen. Dens solrige side kan blive varm nok til at smelte bly, mens dens mørke side falder langt under frysepunktet. Det gør det til en verden med ekstreme temperaturer.",
+      "images": [
+        "temperature.webp",
+        "temperature_2.webp",
+        "temperature_3.webp"
+      ]
+    },
+    {
+      "id": "craters",
+      "script_en": "Without wind or rain, the craters on Mercury stay almost unchanged for millions of years. Space rocks have punched holes in its surface again and again. Some craters are hundreds of kilometres wide.",
+      "script_de": "Ohne Wind und Regen bleiben die Krater auf dem Merkur Millionen von Jahren nahezu unverändert. Weltraumgesteine ​​haben immer wieder Löcher in seine Oberfläche gestanzt. Manche Krater sind Hunderte von Kilometern breit.",
+      "script_it": "Senza vento o pioggia, i crateri su Mercurio rimangono pressoché invariati per milioni di anni. Le rocce spaziali hanno ripetutamente perforato la sua superficie. Alcuni crateri sono larghi centinaia di chilometri.",
+      "script_fr": "Sans vent ni pluie, les cratères de Mercure restent presque inchangés pendant des millions d'années. Les roches spatiales ont percé à maintes reprises des trous dans sa surface. Certains cratères mesurent des centaines de kilomètres de large.",
+      "script_es": "Sin viento ni lluvia, los cráteres de Mercurio permanecen casi sin cambios durante millones de años. Las rocas espaciales han perforado su superficie una y otra vez. Algunos cráteres tienen cientos de kilómetros de ancho.",
+      "script_hr": "Bez vjetra ili kiše, krateri na Merkuru ostaju gotovo nepromijenjeni milijunima godina. Svemirsko kamenje iznova je bušilo rupe na njegovoj površini. Neki krateri široki su stotinama kilometara.",
+      "script_cs": "Bez větru a deště zůstávají krátery na Merkuru téměř beze změny po miliony let. Vesmírné kameny znovu a znovu prorážely díry do jeho povrchu. Některé krátery jsou stovky kilometrů široké.",
+      "script_pl": "Bez wiatru i deszczu kratery na Merkurym pozostają prawie niezmienione przez miliony lat. Kosmiczne skały raz po raz wybijają dziury w jego powierzchni. Niektóre kratery mają setki kilometrów szerokości.",
+      "script_fi": "Ilman tuulta tai sadetta Merkuriuksen kraatterit pysyvät lähes muuttumattomina miljoonia vuosia. Avaruuskivet ovat lyöneet reikiä sen pintaan kerta toisensa jälkeen. Jotkut kraatterit ovat satojen kilometrien leveitä.",
+      "script_sk": "Bez vetra a dažďa zostávajú krátery na Merkúre takmer nezmenené milióny rokov. Vesmírne skaly znovu a znovu prerážali diery do jeho povrchu. Niektoré krátery sú široké stovky kilometrov.",
+      "script_da": "Uden vind eller regn forbliver kraterne på Merkur næsten uændrede i millioner af år. Rumsten har slået huller i overfladen igen og igen. Nogle kratere er hundredvis af kilometer brede.",
+      "images": [
+        "craters.webp",
+        "craters_2.webp",
+        "craters_3.webp"
+      ]
+    },
+    {
+      "id": "explore",
+      "script_en": "Spacecraft have visited Mercury only a few times because it is hard to reach. Missions such as Mariner 10, Messenger, and BepiColombo have sent back detailed pictures. Scientists are still learning about this little planet.",
+      "script_de": "Raumsonden haben Merkur nur wenige Male besucht, da er schwer zu erreichen ist. Missionen wie Mariner 10, Messenger und BepiColombo haben detaillierte Bilder zurückgeschickt. Wissenschaftler lernen immer noch etwas über diesen kleinen Planeten.",
+      "script_it": "Le navicelle spaziali hanno visitato Mercurio solo poche volte perché è difficile da raggiungere. Missioni come Mariner 10, Messenger e BepiColombo hanno inviato immagini dettagliate. Gli scienziati stanno ancora imparando a conoscere questo piccolo pianeta.",
+      "script_fr": "Les vaisseaux spatiaux n’ont visité Mercure que quelques fois car elle est difficile à atteindre. Des missions telles que Mariner 10, Messenger et BepiColombo ont renvoyé des photos détaillées. Les scientifiques en apprennent encore davantage sur cette petite planète.",
+      "script_es": "Las naves espaciales han visitado Mercurio sólo unas pocas veces porque es de difícil acceso. Misiones como Mariner 10, Messenger y BepiColombo han enviado imágenes detalladas. Los científicos todavía están aprendiendo sobre este pequeño planeta.",
+      "script_hr": "Svemirske letjelice su posjetile Merkur samo nekoliko puta jer je do njega teško doći. Misije kao što su Mariner 10, Messenger i BepiColombo poslale su detaljne slike. Znanstvenici još uvijek uče o ovom malom planetu.",
+      "script_cs": "Kosmické lodě navštívily Merkur jen několikrát, protože je těžké se k němu dostat. Mise jako Mariner 10, Messenger a BepiColombo poslaly zpět podrobné obrázky. Vědci se o této malé planetě stále učí.",
+      "script_pl": "Sonda kosmiczna odwiedziła Merkurego tylko kilka razy, ponieważ jest on trudny do osiągnięcia. Misje takie jak Mariner 10, Messenger i BepiColombo przesłały szczegółowe zdjęcia. Naukowcy wciąż poznają tę małą planetę.",
+      "script_fi": "Avaruusalukset ovat vierailleet Merkuriuksessa vain muutaman kerran, koska siihen on vaikea päästä. Tehtävät, kuten Mariner 10, Messenger ja BepiColombo, ovat lähettäneet yksityiskohtaisia ​​kuvia. Tiedemiehet oppivat edelleen tästä pienestä planeettasta.",
+      "script_sk": "Vesmírne lode navštívili Merkúr len niekoľkokrát, pretože je ťažké sa k nemu dostať. Misie ako Mariner 10, Messenger a BepiColombo poslali späť podrobné obrázky. Vedci sa o tejto malej planéte stále učia.",
+      "script_da": "Rumfartøjer har kun besøgt Merkur få gange, fordi det er svært at nå. Missioner som Mariner 10, Messenger og BepiColombo har sendt detaljerede billeder tilbage. Forskere lærer stadig om denne lille planet.",
+      "images": [
+        "explore.webp",
+        "explore_2.webp",
+        "explore_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "size",
+      "correct": "mercury",
+      "question_en": "Which planet is the smallest in our solar system?",
+      "question_de": "Welcher Planet ist der kleinste in unserem Sonnensystem?",
+      "question_it": "Quale pianeta è il più piccolo nel nostro sistema solare?",
+      "question_fr": "Quelle planète est la plus petite de notre système solaire ?",
+      "question_es": "¿Qué planeta es el más pequeño de nuestro sistema solar?",
+      "question_hr": "Koji je planet najmanji u našem Sunčevom sustavu?",
+      "question_cs": "Která planeta je nejmenší v naší sluneční soustavě?",
+      "question_pl": "Która planeta jest najmniejsza w naszym Układzie Słonecznym?",
+      "question_fi": "Mikä planeetta on aurinkokuntamme pienin?",
+      "question_sk": "Ktorá planéta je najmenšia v našej slnečnej sústave?",
+      "question_da": "Hvilken planet er den mindste i vores solsystem?",
+      "options": [
+        {
+          "id": "mercury",
+          "label_en": "Mercury",
+          "label_de": "Quecksilber",
+          "label_it": "Mercurio",
+          "label_fr": "Mercure",
+          "label_es": "Mercurio",
+          "label_hr": "Merkur",
+          "label_cs": "Rtuť",
+          "label_pl": "Rtęć",
+          "label_fi": "Merkurius",
+          "label_sk": "Merkúr",
+          "label_da": "Merkur"
+        },
+        {
+          "id": "earth",
+          "label_en": "Earth",
+          "label_de": "Erde",
+          "label_it": "Terra",
+          "label_fr": "Terre",
+          "label_es": "Tierra",
+          "label_hr": "Zemlja",
+          "label_cs": "Země",
+          "label_pl": "Ziemia",
+          "label_fi": "Maapallo",
+          "label_sk": "Zem",
+          "label_da": "Jord"
+        },
+        {
+          "id": "jupiter",
+          "label_en": "Jupiter",
+          "label_de": "Jupiter",
+          "label_it": "Giove",
+          "label_fr": "Jupiter",
+          "label_es": "Júpiter",
+          "label_hr": "Jupiter",
+          "label_cs": "Jupiter",
+          "label_pl": "Jupiter",
+          "label_fi": "Jupiter",
+          "label_sk": "Jupiter",
+          "label_da": "Jupiter"
+        }
+      ]
+    },
+    {
+      "id": "year",
+      "correct": "short",
+      "question_en": "How long is a year on Mercury?",
+      "question_de": "Wie lang ist ein Jahr auf Merkur?",
+      "question_it": "Quanto dura un anno su Mercurio?",
+      "question_fr": "Combien de temps dure une année sur Mercure ?",
+      "question_es": "¿Cuánto dura un año en Mercurio?",
+      "question_hr": "Koliko traje godina na Merkuru?",
+      "question_cs": "Jak dlouhý je rok na Merkuru?",
+      "question_pl": "Ile trwa rok na Merkurym?",
+      "question_fi": "Kuinka pitkä on vuosi Mercuryssa?",
+      "question_sk": "Ako dlho je rok na Merkúre?",
+      "question_da": "Hvor længe er et år på Mercury?",
+      "options": [
+        {
+          "id": "short",
+          "label_en": "About 88 Earth days",
+          "label_de": "Ungefähr 88 Erdentage",
+          "label_it": "Circa 88 giorni terrestri",
+          "label_fr": "Environ 88 jours terrestres",
+          "label_es": "Aproximadamente 88 días terrestres",
+          "label_hr": "Oko 88 zemaljskih dana",
+          "label_cs": "Asi 88 pozemských dní",
+          "label_pl": "Około 88 dni ziemskich",
+          "label_fi": "Noin 88 Maan päivää",
+          "label_sk": "Asi 88 pozemských dní",
+          "label_da": "Omkring 88 jorddage"
+        },
+        {
+          "id": "long",
+          "label_en": "About 88 Earth years",
+          "label_de": "Ungefähr 88 Erdenjahre",
+          "label_it": "Circa 88 anni terrestri",
+          "label_fr": "Environ 88 années terrestres",
+          "label_es": "Aproximadamente 88 años terrestres",
+          "label_hr": "Oko 88 zemaljskih godina",
+          "label_cs": "Asi 88 pozemských let",
+          "label_pl": "Około 88 lat ziemskich",
+          "label_fi": "Noin 88 Maan vuotta",
+          "label_sk": "Asi 88 pozemských rokov",
+          "label_da": "Omkring 88 jordår"
+        },
+        {
+          "id": "same",
+          "label_en": "Exactly one Earth day",
+          "label_de": "Genau ein Tag auf der Erde",
+          "label_it": "Esattamente un giorno terrestre",
+          "label_fr": "Exactement un jour terrestre",
+          "label_es": "Exactamente un día terrestre",
+          "label_hr": "Točno jedan zemaljski dan",
+          "label_cs": "Přesně jeden pozemský den",
+          "label_pl": "Dokładnie jeden dzień ziemski",
+          "label_fi": "Juuri yksi Maan päivä",
+          "label_sk": "Presne jeden deň Zeme",
+          "label_da": "Præcis én jorddag"
+        }
+      ]
+    },
+    {
+      "id": "air",
+      "correct": "thin",
+      "question_en": "What is Mercury's atmosphere like?",
+      "question_de": "Wie ist die Atmosphäre von Merkur?",
+      "question_it": "Com'è l'atmosfera di Mercurio?",
+      "question_fr": "À quoi ressemble l’atmosphère de Mercure ?",
+      "question_es": "¿Cómo es la atmósfera de Mercurio?",
+      "question_hr": "Kakva je Merkurova atmosfera?",
+      "question_cs": "Jaká je atmosféra Merkuru?",
+      "question_pl": "Jaka jest atmosfera Merkurego?",
+      "question_fi": "Millainen on Mercuryn ilmapiiri?",
+      "question_sk": "Aká je atmosféra Merkúru?",
+      "question_da": "Hvordan er Mercurys atmosfære?",
+      "options": [
+        {
+          "id": "thin",
+          "label_en": "Almost none",
+          "label_de": "Fast keine",
+          "label_it": "Quasi nessuno",
+          "label_fr": "Presque aucun",
+          "label_es": "Casi ninguno",
+          "label_hr": "Gotovo nikakve",
+          "label_cs": "Téměř žádný",
+          "label_pl": "Prawie żaden",
+          "label_fi": "Lähes ei yhtään",
+          "label_sk": "Takmer žiadne",
+          "label_da": "Næsten ingen"
+        },
+        {
+          "id": "thick",
+          "label_en": "Very thick",
+          "label_de": "Sehr dick",
+          "label_it": "Molto spesso",
+          "label_fr": "Très épais",
+          "label_es": "muy grueso",
+          "label_hr": "Vrlo gusto",
+          "label_cs": "Velmi husté",
+          "label_pl": "Bardzo gruby",
+          "label_fi": "Erittäin paksu",
+          "label_sk": "Veľmi husté",
+          "label_da": "Meget tyk"
+        },
+        {
+          "id": "wet",
+          "label_en": "Full of rain",
+          "label_de": "Voller Regen",
+          "label_it": "Pieno di pioggia",
+          "label_fr": "Plein de pluie",
+          "label_es": "Lleno de lluvia",
+          "label_hr": "Pun kiše",
+          "label_cs": "Plný deště",
+          "label_pl": "Pełne deszczu",
+          "label_fi": "Sadetta täynnä",
+          "label_sk": "Plné dažďa",
+          "label_da": "Fuld af regn"
+        }
+      ]
+    }
+  ]
+}

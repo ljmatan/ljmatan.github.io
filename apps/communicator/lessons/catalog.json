@@ -1324,6 +1324,27 @@
       "title_da": "Mars"
     },
     {
+      "id": "mercury",
+      "category_id": "planets",
+      "symbol_id": "mercury",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/mercury/mercury_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/mercury/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2074950,
+      "version": 1,
+      "title_en": "Mercury",
+      "title_de": "Merkur",
+      "title_it": "Mercurio",
+      "title_fr": "Mercure",
+      "title_es": "Mercurio",
+      "title_hr": "Merkur",
+      "title_cs": "Merkur",
+      "title_pl": "Merkury",
+      "title_fi": "Merkurius",
+      "title_sk": "Merkúr",
+      "title_da": "Merkur"
+    },
+    {
       "id": "moon",
       "category_id": "planets",
       "symbol_id": "moon",
