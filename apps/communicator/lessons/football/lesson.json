@@ -1,0 +1,293 @@
+{
+  "id": "football",
+  "category_id": "activities",
+  "symbol_id": "football",
+  "thumbnail": "football_thumb.webp",
+  "title_en": "Football",
+  "title_de": "Fußball",
+  "title_it": "Calcio",
+  "title_fr": "Football",
+  "title_es": "Fútbol",
+  "title_hr": "Nogomet",
+  "title_cs": "Fotbal",
+  "title_pl": "Piłka nożna",
+  "title_fi": "Jalkapallo",
+  "title_sk": "Futbal",
+  "title_da": "Fodbold",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about football. Football is a team game played with a round ball. Two teams try to score goals by kicking the ball into the other team's net.",
+      "script_de": "Heute lernen wir etwas über Fußball. Fußball ist ein Mannschaftsspiel, das mit einem runden Ball gespielt wird. Zwei Mannschaften versuchen, Tore zu erzielen, indem sie den Ball ins Netz der anderen Mannschaft schießen.",
+      "script_it": "Oggi impareremo a conoscere il calcio. Il calcio è un gioco di squadra giocato con una palla rotonda. Due squadre cercano di segnare calciando la palla nella rete dell'altra squadra.",
+      "script_fr": "Aujourd'hui, nous allons découvrir le football. Le football est un jeu d'équipe qui se joue avec un ballon rond. Deux équipes tentent de marquer des buts en envoyant le ballon dans le filet de l'autre équipe.",
+      "script_es": "Hoy vamos a aprender sobre fútbol. El fútbol es un juego de equipo que se juega con un balón redondo. Dos equipos intentan marcar goles pateando el balón hacia la red del otro equipo.",
+      "script_hr": "Danas ćemo učiti o nogometu. Nogomet je timska igra koja se igra okruglom loptom. Dvije ekipe pokušavaju postići gol ubacivanjem lopte u mrežu druge ekipe.",
+      "script_cs": "Dnes se budeme učit o fotbale. Fotbal je týmová hra s kulatým míčem. Dva týmy se snaží vstřelit gól kopnutím míče do sítě druhého týmu.",
+      "script_pl": "Dziś będziemy uczyć się o piłce nożnej. Piłka nożna to gra zespołowa, w którą gra się okrągłą piłką. Dwie drużyny próbują zdobyć bramkę, kopiąc piłkę do siatki drugiej drużyny.",
+      "script_fi": "Tänään opimme jalkapallosta. Jalkapallo on joukkuepeli, jota pelataan pyöreällä pallolla. Kaksi joukkuetta yrittää tehdä maaleja potkimalla pallon toisen joukkueen verkkoon.",
+      "script_sk": "Dnes sa budeme učiť o futbale. Futbal je tímová hra, ktorá sa hrá s guľatou loptou. Dva tímy sa snažia streliť gól kopaním lopty do siete druhého tímu.",
+      "script_da": "I dag skal vi lære om fodbold. Fodbold er et holdspil, der spilles med en rund bold. To hold forsøger at score mål ved at sparke bolden ind i det andet holds net.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "teams",
+      "script_en": "Each football team has eleven players on the pitch. One player is the goalkeeper, who tries to stop the ball going in. The other players pass, dribble, and shoot.",
+      "script_de": "Jede Fußballmannschaft hat elf Spieler auf dem Spielfeld. Ein Spieler ist der Torwart, der versucht, den Ball am Einlaufen zu hindern. Die anderen Spieler passen, dribbeln und schießen.",
+      "script_it": "Ogni squadra di calcio ha undici giocatori in campo. Un giocatore è il portiere, che cerca di fermare la palla che entra. Gli altri giocatori passano, dribblano e tirano.",
+      "script_fr": "Chaque équipe de football compte onze joueurs sur le terrain. Un joueur est le gardien de but qui essaie d'empêcher le ballon d'entrer. Les autres joueurs passent, dribblent et tirent.",
+      "script_es": "Cada equipo de fútbol tiene once jugadores en el campo. Un jugador es el portero, que intenta impedir que entre el balón. Los demás jugadores pasan, regatean y disparan.",
+      "script_hr": "Svaki nogometni tim ima jedanaest igrača na terenu. Jedan igrač je vratar, koji pokušava zaustaviti ulazak lopte. Ostali igrači dodaju, driblaju i pucaju.",
+      "script_cs": "Každý fotbalový tým má na hřišti jedenáct hráčů. Jeden hráč je brankář, který se snaží zastavit míček. Ostatní hráči přihrávají, driblují a střílí.",
+      "script_pl": "Każda drużyna piłkarska ma jedenastu zawodników na boisku. Jeden z graczy jest bramkarzem, który stara się zatrzymać piłkę. Pozostali gracze podają, kozłują i strzelają.",
+      "script_fi": "Jokaisella jalkapallojoukkueella on kentällä yksitoista pelaajaa. Yksi pelaaja on maalivahti, joka yrittää pysäyttää pallon sisäänmenon. Muut pelaajat syöttävät, tiputtavat ja ampuvat.",
+      "script_sk": "Každý futbalový tím má na ihrisku jedenásť hráčov. Jedným hráčom je brankár, ktorý sa snaží zastaviť loptu. Ostatní hráči prihrávajú, driblujú a strieľajú.",
+      "script_da": "Hvert fodboldhold har elleve spillere på banen. Den ene spiller er målmanden, som forsøger at stoppe bolden med at gå ind. De andre spillere passerer, dribler og skyder.",
+      "images": [
+        "teams.webp",
+        "teams_2.webp",
+        "teams_3.webp"
+      ]
+    },
+    {
+      "id": "rules",
+      "script_en": "A referee makes sure everyone follows the rules. Players cannot touch the ball with their hands, except the goalkeeper. A goal counts when the whole ball crosses the goal line.",
+      "script_de": "Ein Schiedsrichter stellt sicher, dass sich alle an die Regeln halten. Mit Ausnahme des Torwarts dürfen die Spieler den Ball nicht mit den Händen berühren. Ein Tor zählt, wenn der gesamte Ball die Torlinie überquert.",
+      "script_it": "Un arbitro si assicura che tutti rispettino le regole. I giocatori non possono toccare la palla con le mani, tranne il portiere. Un goal conta quando tutta la palla oltrepassa la linea di porta.",
+      "script_fr": "Un arbitre s'assure que tout le monde respecte les règles. Les joueurs ne peuvent pas toucher le ballon avec leurs mains, à l'exception du gardien de but. Un but compte lorsque le ballon franchit entièrement la ligne de but.",
+      "script_es": "Un árbitro se asegura de que todos sigan las reglas. Los jugadores no pueden tocar el balón con las manos, excepto el portero. Un gol cuenta cuando todo el balón cruza la línea de meta.",
+      "script_hr": "Sudac se brine da svi poštuju pravila. Igrači ne mogu dirati loptu rukama, osim vratara. Pogodak se računa kada cijela lopta prijeđe gol-liniju.",
+      "script_cs": "Rozhodčí dohlíží na to, aby všichni dodržovali pravidla. Hráči se nemohou dotknout míče rukama, kromě brankáře. Gól se počítá, když celý míč přejde brankovou čáru.",
+      "script_pl": "Sędzia pilnuje, aby wszyscy przestrzegali zasad. Zawodnicy nie mogą dotykać piłki rękami, z wyjątkiem bramkarza. Bramka liczy się, gdy cała piłka przekroczy linię bramkową.",
+      "script_fi": "Erotuomari varmistaa, että kaikki noudattavat sääntöjä. Pelaajat eivät saa koskea palloon käsillään, paitsi maalivahti. Maali lasketaan, kun koko pallo ylittää maaliviivan.",
+      "script_sk": "Rozhodca dohliada na to, aby všetci dodržiavali pravidlá. Hráči sa nemôžu dotknúť lopty rukami, okrem brankára. Gól sa počíta, keď celá lopta prekročí bránkovú čiaru.",
+      "script_da": "En dommer sørger for, at alle følger reglerne. Spillere kan ikke røre bolden med deres hænder, undtagen målmanden. Et mål tæller, når hele bolden krydser mållinjen.",
+      "images": [
+        "rules.webp",
+        "rules_2.webp",
+        "rules_3.webp"
+      ]
+    },
+    {
+      "id": "skills",
+      "script_en": "Good footballers practise passing, dribbling, and shooting. Looking up helps you see your teammates. Teamwork and fair play matter as much as speed and skill.",
+      "script_de": "Gute Fußballer üben Passen, Dribbeln und Schießen. Wenn Sie nach oben schauen, sehen Sie Ihre Teamkollegen. Teamwork und Fairplay zählen ebenso wie Schnelligkeit und Geschicklichkeit.",
+      "script_it": "I bravi calciatori si esercitano nei passaggi, nei dribbling e nei tiri. Alzare lo sguardo ti aiuta a vedere i tuoi compagni di squadra. Il lavoro di squadra e il fair play contano tanto quanto la velocità e l’abilità.",
+      "script_fr": "Les bons footballeurs s’entraînent aux passes, aux dribbles et aux tirs. Levant les yeux vous aide à voir vos coéquipiers. Le travail d’équipe et le fair-play comptent autant que la rapidité et les compétences.",
+      "script_es": "Los buenos futbolistas practican pases, regates y tiros. Mirar hacia arriba te ayuda a ver a tus compañeros de equipo. El trabajo en equipo y el juego limpio son tan importantes como la velocidad y la habilidad.",
+      "script_hr": "Dobri nogometaši vježbaju dodavanje, dribling i šut. Podizanje pogleda pomaže vam da vidite svoje suigrače. Timski rad i poštena igra važni su koliko i brzina i vještina.",
+      "script_cs": "Dobří fotbalisté trénují přihrávky, driblování a střelbu. Pohled nahoru vám pomůže vidět vaše spoluhráče. Týmová práce a fair play jsou důležité stejně jako rychlost a dovednost.",
+      "script_pl": "Dobrzy piłkarze ćwiczą podania, drybling i strzelanie. Patrzenie w górę pomaga zobaczyć członków drużyny. Praca zespołowa i gra fair play są równie ważne jak szybkość i umiejętności.",
+      "script_fi": "Hyvät jalkapalloilijat harjoittelevat syöttämistä, tiputtelua ja laukausta. Katse ylös auttaa sinua näkemään joukkuetoverisi. Ryhmätyö ja reilu peli ovat yhtä tärkeitä kuin nopeus ja taito.",
+      "script_sk": "Dobrí futbalisti trénujú prihrávky, dribling a streľbu. Pohľad hore vám pomôže vidieť vašich spoluhráčov. Tímová práca a fair play sú dôležité rovnako ako rýchlosť a zručnosť.",
+      "script_da": "Gode ​​fodboldspillere træner pasninger, dribling og skydning. At slå op hjælper dig med at se dine holdkammerater. Teamwork og fair play betyder lige så meget som hurtighed og dygtighed.",
+      "images": [
+        "skills.webp",
+        "skills_2.webp",
+        "skills_3.webp"
+      ]
+    },
+    {
+      "id": "fun",
+      "script_en": "Football is played all over the world. You can play in a club, at school, or just with friends. The most important thing is to have fun and be kind to other players.",
+      "script_de": "Fußball wird auf der ganzen Welt gespielt. Sie können im Verein, in der Schule oder einfach mit Freunden spielen. Das Wichtigste ist, Spaß zu haben und freundlich zu anderen Spielern zu sein.",
+      "script_it": "Il calcio si gioca in tutto il mondo. Puoi giocare in un club, a scuola o semplicemente con gli amici. La cosa più importante è divertirsi ed essere gentili con gli altri giocatori.",
+      "script_fr": "Le football est pratiqué partout dans le monde. Vous pouvez jouer dans un club, à l'école ou simplement avec des amis. Le plus important est de s'amuser et d'être gentil avec les autres joueurs.",
+      "script_es": "El fútbol se juega en todo el mundo. Puedes jugar en un club, en la escuela o simplemente con amigos. Lo más importante es divertirse y ser amable con los demás jugadores.",
+      "script_hr": "Nogomet se igra u cijelom svijetu. Možete igrati u klubu, u školi ili samo s prijateljima. Najvažnije je zabaviti se i biti ljubazan prema ostalim igračima.",
+      "script_cs": "Fotbal se hraje po celém světě. Můžete hrát v klubu, ve škole nebo jen tak s přáteli. Nejdůležitější je bavit se a být laskavý k ostatním hráčům.",
+      "script_pl": "W piłkę nożną gra się na całym świecie. Można grać w klubie, w szkole lub po prostu z przyjaciółmi. Najważniejsze to dobrze się bawić i być miłym dla innych graczy.",
+      "script_fi": "Jalkapalloa pelataan kaikkialla maailmassa. Voit pelata klubissa, koulussa tai vain ystävien kanssa. Tärkeintä on pitää hauskaa ja olla ystävällinen muille pelaajille.",
+      "script_sk": "Futbal sa hrá po celom svete. Môžete hrať v klube, v škole alebo len tak s kamarátmi. Najdôležitejšie je baviť sa a byť láskavý k ostatným hráčom.",
+      "script_da": "Fodbold spilles over hele verden. Du kan spille i en klub, i skolen eller bare med venner. Det vigtigste er at have det sjovt og være venlig over for andre spillere.",
+      "images": [
+        "fun.webp",
+        "fun_2.webp",
+        "fun_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "goal",
+      "correct": "net",
+      "question_en": "How do you score in football?",
+      "question_de": "Wie punktet man im Fußball?",
+      "question_it": "Come si segna nel calcio?",
+      "question_fr": "Comment marque-t-on au football ?",
+      "question_es": "¿Cómo se anota en el fútbol?",
+      "question_hr": "Kako zabijaš u nogometu?",
+      "question_cs": "Jak se vám ve fotbale dává gól?",
+      "question_pl": "Jak zdobywasz punkty w piłce nożnej?",
+      "question_fi": "Miten teet maaleja jalkapallossa?",
+      "question_sk": "Ako bodujete vo futbale?",
+      "question_da": "Hvordan scorer du i fodbold?",
+      "options": [
+        {
+          "id": "net",
+          "label_en": "Kick the ball into the net",
+          "label_de": "Schieße den Ball ins Netz",
+          "label_it": "Calcia la palla in rete",
+          "label_fr": "Frapper le ballon dans le filet",
+          "label_es": "Patear la pelota a la red.",
+          "label_hr": "Ubaciti loptu u mrežu",
+          "label_cs": "Kopněte míč do sítě",
+          "label_pl": "Kopnij piłkę do siatki",
+          "label_fi": "Potkaise pallo verkkoon",
+          "label_sk": "Dokopnite loptu do siete",
+          "label_da": "Sparke bolden i nettet"
+        },
+        {
+          "id": "hands",
+          "label_en": "Throw the ball over a wall",
+          "label_de": "Wirf den Ball über eine Mauer",
+          "label_it": "Lancia la palla oltre un muro",
+          "label_fr": "Lancer la balle par-dessus un mur",
+          "label_es": "Lanzar la pelota por encima de una pared.",
+          "label_hr": "Baci loptu preko zida",
+          "label_cs": "Hoďte míč přes zeď",
+          "label_pl": "Rzuć piłką przez ścianę",
+          "label_fi": "Heitä pallo seinän yli",
+          "label_sk": "Hoďte loptu cez stenu",
+          "label_da": "Kast bolden over en væg"
+        },
+        {
+          "id": "run",
+          "label_en": "Run around the pitch",
+          "label_de": "Laufen Sie über das Spielfeld",
+          "label_it": "Corri intorno al campo",
+          "label_fr": "Courir sur le terrain",
+          "label_es": "Corre por la cancha",
+          "label_hr": "Trči po terenu",
+          "label_cs": "Běhejte po hřišti",
+          "label_pl": "Biegaj po boisku",
+          "label_fi": "Juokse kentän ympäri",
+          "label_sk": "Behajte po ihrisku",
+          "label_da": "Løb rundt på banen"
+        }
+      ]
+    },
+    {
+      "id": "player",
+      "correct": "keeper",
+      "question_en": "Who can use their hands on the pitch?",
+      "question_de": "Wer kann seine Hände auf dem Spielfeld benutzen?",
+      "question_it": "Chi può usare le mani in campo?",
+      "question_fr": "Qui peut utiliser ses mains sur le terrain ?",
+      "question_es": "¿Quién puede usar las manos en el campo?",
+      "question_hr": "Tko može koristiti svoje ruke na terenu?",
+      "question_cs": "Kdo může používat ruce na hřišti?",
+      "question_pl": "Kto może używać rąk na boisku?",
+      "question_fi": "Kuka voi käyttää käsiään kentällä?",
+      "question_sk": "Kto môže používať ruky na ihrisku?",
+      "question_da": "Hvem kan bruge deres hænder på banen?",
+      "options": [
+        {
+          "id": "keeper",
+          "label_en": "The goalkeeper",
+          "label_de": "Der Torwart",
+          "label_it": "Il portiere",
+          "label_fr": "Le gardien de but",
+          "label_es": "el portero",
+          "label_hr": "Vratar",
+          "label_cs": "Brankář",
+          "label_pl": "Bramkarz",
+          "label_fi": "Maalivahti",
+          "label_sk": "Brankár",
+          "label_da": "Målmanden"
+        },
+        {
+          "id": "striker",
+          "label_en": "The striker",
+          "label_de": "Der Stürmer",
+          "label_it": "L'attaccante",
+          "label_fr": "L'attaquant",
+          "label_es": "el delantero",
+          "label_hr": "Napadač",
+          "label_cs": "Útočník",
+          "label_pl": "Napastnik",
+          "label_fi": "Hyökkääjä",
+          "label_sk": "Útočník",
+          "label_da": "Angriberen"
+        },
+        {
+          "id": "referee",
+          "label_en": "The referee",
+          "label_de": "Der Schiedsrichter",
+          "label_it": "L'arbitro",
+          "label_fr": "L'arbitre",
+          "label_es": "el árbitro",
+          "label_hr": "Sudac",
+          "label_cs": "rozhodčí",
+          "label_pl": "Sędzia",
+          "label_fi": "Tuomari",
+          "label_sk": "Rozhodca",
+          "label_da": "Dommeren"
+        }
+      ]
+    },
+    {
+      "id": "team",
+      "correct": "eleven",
+      "question_en": "How many players are on a football team on the pitch?",
+      "question_de": "Wie viele Spieler einer Fußballmannschaft stehen auf dem Spielfeld?",
+      "question_it": "Quanti giocatori ci sono in una squadra di calcio in campo?",
+      "question_fr": "Combien de joueurs compte une équipe de football sur le terrain ?",
+      "question_es": "¿Cuántos jugadores hay en un equipo de fútbol en el campo?",
+      "question_hr": "Koliko je igrača u nogometnoj momčadi na terenu?",
+      "question_cs": "Kolik hráčů je ve fotbalovém týmu na hřišti?",
+      "question_pl": "Ilu zawodników liczy drużyna piłkarska na boisku?",
+      "question_fi": "Kuinka monta pelaajaa jalkapallojoukkueessa on kentällä?",
+      "question_sk": "Koľko hráčov je vo futbalovom tíme na ihrisku?",
+      "question_da": "Hvor mange spillere er på et fodboldhold på banen?",
+      "options": [
+        {
+          "id": "eleven",
+          "label_en": "Eleven",
+          "label_de": "Elf",
+          "label_it": "Undici",
+          "label_fr": "Onze",
+          "label_es": "Once",
+          "label_hr": "Jedanaest",
+          "label_cs": "Jedenáct",
+          "label_pl": "Jedenaście",
+          "label_fi": "Yksitoista",
+          "label_sk": "Jedenásť",
+          "label_da": "Elleve"
+        },
+        {
+          "id": "two",
+          "label_en": "Two",
+          "label_de": "Zwei",
+          "label_it": "Due",
+          "label_fr": "Deux",
+          "label_es": "Dos",
+          "label_hr": "Dva",
+          "label_cs": "Dva",
+          "label_pl": "Dwa",
+          "label_fi": "Kaksi",
+          "label_sk": "Dvaja",
+          "label_da": "To"
+        },
+        {
+          "id": "twenty",
+          "label_en": "Twenty",
+          "label_de": "Zwanzig",
+          "label_it": "Venti",
+          "label_fr": "Vingt",
+          "label_es": "Veinte",
+          "label_hr": "Dvadeset",
+          "label_cs": "Dvacet",
+          "label_pl": "Dwadzieścia",
+          "label_fi": "Kaksikymmentä",
+          "label_sk": "dvadsať",
+          "label_da": "Tyve"
+        }
+      ]
+    }
+  ]
+}

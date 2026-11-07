@@ -43,6 +43,27 @@
       "title_da": "Dans"
     },
     {
+      "id": "football",
+      "category_id": "activities",
+      "symbol_id": "football",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/football/football_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/football/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2601483,
+      "version": 1,
+      "title_en": "Football",
+      "title_de": "Fußball",
+      "title_it": "Calcio",
+      "title_fr": "Football",
+      "title_es": "Fútbol",
+      "title_hr": "Nogomet",
+      "title_cs": "Fotbal",
+      "title_pl": "Piłka nożna",
+      "title_fi": "Jalkapallo",
+      "title_sk": "Futbal",
+      "title_da": "Fodbold"
+    },
+    {
       "id": "painting",
       "category_id": "activities",
       "symbol_id": "painting",
