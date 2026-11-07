@@ -1345,6 +1345,27 @@
       "title_da": "Både"
     },
     {
+      "id": "bus",
+      "category_id": "transport",
+      "symbol_id": "bus",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/bus/bus_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/bus/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2359445,
+      "version": 1,
+      "title_en": "Buses",
+      "title_de": "Busse",
+      "title_it": "Autobus",
+      "title_fr": "Autobus",
+      "title_es": "Autobuses",
+      "title_hr": "Autobusi",
+      "title_cs": "Autobusy",
+      "title_pl": "Autobusy",
+      "title_fi": "Bussit",
+      "title_sk": "Autobusy",
+      "title_da": "Busser"
+    },
+    {
       "id": "car",
       "category_id": "transport",
       "symbol_id": "car",

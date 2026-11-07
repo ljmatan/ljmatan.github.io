@@ -1,0 +1,293 @@
+{
+  "id": "bus",
+  "category_id": "transport",
+  "symbol_id": "bus",
+  "thumbnail": "bus_thumb.webp",
+  "title_en": "Buses",
+  "title_de": "Busse",
+  "title_it": "Autobus",
+  "title_fr": "Autobus",
+  "title_es": "Autobuses",
+  "title_hr": "Autobusi",
+  "title_cs": "Autobusy",
+  "title_pl": "Autobusy",
+  "title_fi": "Bussit",
+  "title_sk": "Autobusy",
+  "title_da": "Busser",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about buses. A bus is a long road vehicle that carries many passengers at once. People use buses to travel to school, work, and around town.",
+      "script_de": "Heute lernen wir etwas über Busse. Ein Bus ist ein Langstreckenfahrzeug, das viele Fahrgäste gleichzeitig befördert. Menschen nutzen Busse, um zur Schule, zur Arbeit und in die Stadt zu fahren.",
+      "script_it": "Oggi parleremo degli autobus. Un autobus è un lungo veicolo stradale che trasporta molti passeggeri contemporaneamente. Le persone usano gli autobus per recarsi a scuola, al lavoro e in giro per la città.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur les bus. Un bus est un long véhicule routier qui transporte plusieurs passagers à la fois. Les gens utilisent les bus pour se rendre à l’école, au travail et en ville.",
+      "script_es": "Hoy vamos a aprender sobre los autobuses. Un autobús es un vehículo de largo recorrido que transporta muchos pasajeros a la vez. La gente usa autobuses para viajar a la escuela, al trabajo y por la ciudad.",
+      "script_hr": "Danas ćemo učiti o autobusima. Autobus je dugo cestovno vozilo koje prevozi više putnika odjednom. Ljudi koriste autobuse za putovanje u školu, na posao i po gradu.",
+      "script_cs": "Dnes se budeme učit o autobusech. Autobus je dlouhé silniční vozidlo, které přepravuje mnoho cestujících najednou. Lidé využívají autobusy k cestě do školy, práce a po městě.",
+      "script_pl": "Dzisiaj będziemy uczyć się o autobusach. Autobus to długi pojazd drogowy, który przewozi wielu pasażerów jednocześnie. Ludzie korzystają z autobusów, aby dojechać do szkoły, pracy i po mieście.",
+      "script_fi": "Tänään opimme busseista. Bussi on pitkä maantieajoneuvo, joka kuljettaa useita matkustajia kerralla. Ihmiset matkustavat linja-autoilla kouluun, töihin ja kaupunkiin.",
+      "script_sk": "Dnes sa budeme učiť o autobusoch. Autobus je dlhé cestné vozidlo, ktoré prepravuje veľa cestujúcich naraz. Ľudia využívajú autobusy na cestu do školy, práce a po meste.",
+      "script_da": "I dag skal vi lære om busser. En bus er et langt køretøj, der transporterer mange passagerer på én gang. Folk bruger busser til at rejse til skole, arbejde og rundt i byen.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "routes",
+      "script_en": "Buses follow set routes and stop at marked stops. A route map and timetable show where the bus goes and when it arrives. Waiting at the stop and letting people get off first keeps everyone safe.",
+      "script_de": "Die Busse folgen festgelegten Routen und halten an markierten Haltestellen. Eine Streckenkarte und ein Fahrplan zeigen, wohin der Bus fährt und wann er ankommt. An der Haltestelle zu warten und die Leute zuerst aussteigen zu lassen, dient der Sicherheit aller.",
+      "script_it": "Gli autobus seguono percorsi prestabiliti e si fermano alle fermate segnalate. Una mappa del percorso e un orario mostrano dove va l'autobus e quando arriva. Aspettare alla fermata e lasciare che le persone scendano per prime mantiene tutti al sicuro.",
+      "script_fr": "Les bus suivent des itinéraires définis et s'arrêtent aux arrêts marqués. Une carte des itinéraires et des horaires indiquent où va le bus et quand il arrive. Attendre à l’arrêt et laisser les gens descendre en premier assure la sécurité de tous.",
+      "script_es": "Los autobuses siguen rutas establecidas y paran en paradas marcadas. Un mapa de ruta y un horario muestran dónde va el autobús y cuándo llega. Esperar en la parada y dejar que la gente baje primero mantiene a todos seguros.",
+      "script_hr": "Autobusi idu utvrđenim trasama i zaustavljaju se na označenim stajalištima. Karta rute i vozni red pokazuju gdje autobus ide i kada stiže. Čekanje na stajalištu i dopuštanje ljudima da prvi izađu čini sve sigurnima.",
+      "script_cs": "Autobusy jedou po stanovených trasách a zastavují na vyznačených zastávkách. Mapa trasy a jízdní řád ukazují, kam autobus jede a kdy přijede. Počkat na zastávce a nechat lidi vystoupit jako první chrání všechny.",
+      "script_pl": "Autobusy kursują wyznaczonymi trasami i zatrzymują się na oznaczonych przystankach. Mapa tras i rozkład jazdy pokazują, dokąd odjeżdża autobus i kiedy przyjedzie. Oczekiwanie na przystanku i pozwolenie ludziom wysiąść jako pierwsze zapewnia wszystkim bezpieczeństwo.",
+      "script_fi": "Bussit kulkevat määrättyjä reittejä ja pysähtyvät merkityillä pysäkeillä. Reittikartta ja aikataulu näyttävät, minne bussi menee ja milloin se saapuu. Pysäkillä odottaminen ja ihmisten poistuminen ensin pitää kaikki turvassa.",
+      "script_sk": "Autobusy idú po stanovených trasách a zastavujú na vyznačených zastávkach. Mapa trasy a cestovný poriadok ukazujú, kam autobus ide a kedy príde. Čakanie na zastávke a umožnenie vystúpenia ľudí ako prvých chráni každého.",
+      "script_da": "Busser følger fastlagte ruter og stopper ved afmærkede stoppesteder. Et rutekort og køreplan viser, hvor bussen går, og hvornår den ankommer. At vente ved stoppestedet og lade folk stå af først, holder alle i sikkerhed.",
+      "images": [
+        "routes.webp",
+        "routes_2.webp",
+        "routes_3.webp"
+      ]
+    },
+    {
+      "id": "types",
+      "script_en": "There are many kinds of buses. City buses run short routes, school buses carry children, and coach buses travel between towns. Some buses are double-decker, with seats on two floors.",
+      "script_de": "Es gibt viele Arten von Bussen. Stadtbusse verkehren auf kurzen Strecken, Schulbusse befördern Kinder und Reisebusse verkehren zwischen Städten. Einige Busse sind Doppeldeckerbusse mit Sitzplätzen auf zwei Etagen.",
+      "script_it": "Esistono molti tipi di autobus. Gli autobus urbani percorrono tragitti brevi, gli scuolabus trasportano i bambini e gli autobus viaggiano tra le città. Alcuni autobus sono a due piani, con posti a sedere su due piani.",
+      "script_fr": "Il existe de nombreux types de bus. Les bus urbains assurent des trajets courts, les bus scolaires transportent les enfants et les autocars circulent entre les villes. Certains bus sont à deux étages et disposent de sièges répartis sur deux étages.",
+      "script_es": "Hay muchos tipos de autobuses. Los autobuses urbanos realizan rutas cortas, los escolares transportan niños y los autocares viajan entre ciudades. Algunos autobuses son de dos pisos, con asientos en dos pisos.",
+      "script_hr": "Postoji mnogo vrsta autobusa. Gradski autobusi voze kratke rute, školski autobusi prevoze djecu, a autobusi voze između gradova. Neki autobusi su dvokatni, sa sjedalima na dva kata.",
+      "script_cs": "Existuje mnoho druhů autobusů. Městské autobusy jezdí na krátké trasy, školní autobusy vozí děti a autobusy jezdí mezi městy. Některé autobusy jsou dvoupatrové, se sedadly ve dvou patrech.",
+      "script_pl": "Jest wiele rodzajów autobusów. Autobusy miejskie kursują na krótkich trasach, autobusy szkolne przewożą dzieci, a autokary kursują pomiędzy miastami. Niektóre autobusy są piętrowe, z siedzeniami na dwóch piętrach.",
+      "script_fi": "Busseja on monenlaisia. Kaupunkibussit kulkevat lyhyitä reittejä, koulubussit kuljettavat lapsia ja linja-autot kulkevat kaupunkien välillä. Jotkut bussit ovat kaksikerroksisia, ja niissä on istuimet kahdessa kerroksessa.",
+      "script_sk": "Existuje mnoho druhov autobusov. Mestské autobusy jazdia na krátke trasy, školské autobusy prepravujú deti a autobusy premávajú medzi mestami. Niektoré autobusy sú dvojposchodové, so sedadlami na dvoch poschodiach.",
+      "script_da": "Der er mange slags busser. Bybusser kører korte ruter, skolebusser transporterer børn, og busbusser kører mellem byerne. Nogle busser er dobbeltdækker med sæder i to etager.",
+      "images": [
+        "types.webp",
+        "types_2.webp",
+        "types_3.webp"
+      ]
+    },
+    {
+      "id": "safety",
+      "script_en": "On a bus, hold the handrail and stay seated when the bus is moving. Wear a seat belt if there is one. Never run in front of a bus, because the driver may not see you.",
+      "script_de": "Halten Sie sich im Bus am Handlauf fest und bleiben Sie sitzen, wenn der Bus fährt. Legen Sie einen Sicherheitsgurt an, falls vorhanden. Laufen Sie niemals vor einen Bus, da der Fahrer Sie sonst möglicherweise nicht sieht.",
+      "script_it": "Su un autobus, tieniti al corrimano e resta seduto quando l'autobus è in movimento. Indossare la cintura di sicurezza, se presente. Non correre mai davanti a un autobus perché l'autista potrebbe non vederti.",
+      "script_fr": "Dans un bus, tenez la main courante et restez assis lorsque le bus roule. Portez une ceinture de sécurité s'il y en a une. Ne courez jamais devant un bus, car le chauffeur pourrait ne pas vous voir.",
+      "script_es": "En un autobús, sosténgase del pasamano y permanezca sentado cuando el autobús esté en movimiento. Use cinturón de seguridad si lo hay. Nunca corras delante de un autobús, porque es posible que el conductor no te vea.",
+      "script_hr": "U autobusu se držite za rukohvat i ostanite sjediti dok se autobus kreće. Vežite sigurnosni pojas ako postoji. Nikada nemojte trčati ispred autobusa jer vas vozač možda neće vidjeti.",
+      "script_cs": "V autobuse se držte zábradlí a zůstaňte sedět, když je autobus v pohybu. Používejte bezpečnostní pás, pokud existuje. Nikdy neběhejte před autobus, protože vás řidič nemusí vidět.",
+      "script_pl": "W autobusie trzymaj się poręczy i pozostań na swoim miejscu, gdy autobus jedzie. Zapinaj pas bezpieczeństwa, jeśli taki występuje. Nigdy nie biegaj przed autobusem, bo kierowca może Cię nie zauważyć.",
+      "script_fi": "Pidä bussissa kiinni kaiteesta ja pysy paikallaan bussin liikkuessa. Käytä turvavyötä, jos sellainen on. Älä koskaan juokse bussin eteen, koska kuljettaja ei välttämättä näe sinua.",
+      "script_sk": "V autobuse sa držte zábradlia a zostaňte sedieť, keď sa autobus pohybuje. Zapnite bezpečnostný pás, ak existuje. Nikdy nebehajte pred autobus, pretože vás vodič nemusí vidieť.",
+      "script_da": "På en bus skal du holde i gelænderet og blive siddende, når bussen kører. Brug sikkerhedssele, hvis der er en. Løb aldrig foran en bus, fordi chaufføren måske ikke ser dig.",
+      "images": [
+        "safety.webp",
+        "safety_2.webp",
+        "safety_3.webp"
+      ]
+    },
+    {
+      "id": "today",
+      "script_en": "Today many cities are adding electric buses. They are quieter and cleaner than diesel buses. Good bus services help reduce traffic and make travel easier for everyone.",
+      "script_de": "Heutzutage setzen viele Städte auf Elektrobusse. Sie sind leiser und sauberer als Dieselbusse. Gute Busverbindungen tragen dazu bei, den Verkehr zu reduzieren und das Reisen für alle einfacher zu machen.",
+      "script_it": "Oggi molte città stanno aggiungendo autobus elettrici. Sono più silenziosi e puliti degli autobus diesel. Buoni servizi di autobus aiutano a ridurre il traffico e rendono il viaggio più facile per tutti.",
+      "script_fr": "Aujourd'hui, de nombreuses villes ajoutent des bus électriques. Ils sont plus silencieux et plus propres que les bus diesel. De bons services de bus contribuent à réduire le trafic et à faciliter les déplacements de tous.",
+      "script_es": "Hoy en día muchas ciudades están añadiendo autobuses eléctricos. Son más silenciosos y limpios que los autobuses diésel. Los buenos servicios de autobús ayudan a reducir el tráfico y facilitan los viajes para todos.",
+      "script_hr": "Danas mnogi gradovi dodaju električne autobuse. Tiši su i čišći od dizelskih autobusa. Dobre autobusne usluge smanjuju promet i olakšavaju putovanje svima.",
+      "script_cs": "Dnes mnoho měst přidává elektrobusy. Jsou tišší a čistší než dieselové autobusy. Dobrá autobusová doprava pomáhá snižovat provoz a usnadňuje cestování pro každého.",
+      "script_pl": "Obecnie wiele miast dodaje autobusy elektryczne. Są cichsze i czystsze niż autobusy z silnikiem diesla. Dobre połączenia autobusowe pomagają zmniejszyć ruch i ułatwić wszystkim podróżowanie.",
+      "script_fi": "Nykyään monet kaupungit lisäävät sähköbusseja. Ne ovat hiljaisempia ja puhtaampia kuin dieselbussit. Hyvät bussiyhteydet vähentävät liikennettä ja helpottavat matkustamista kaikille.",
+      "script_sk": "Dnes mnohé mestá pridávajú elektrické autobusy. Sú tichšie a čistejšie ako naftové autobusy. Dobré autobusové služby pomáhajú znižovať premávku a uľahčujú cestovanie pre každého.",
+      "script_da": "I dag tilføjer mange byer elektriske busser. De er mere støjsvage og renere end dieselbusser. Gode ​​busforbindelser er med til at reducere trafikken og gøre rejsen nemmere for alle.",
+      "images": [
+        "today.webp",
+        "today_2.webp",
+        "today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "what",
+      "correct": "people",
+      "question_en": "What is a bus used for?",
+      "question_de": "Wozu dient ein Bus?",
+      "question_it": "A cosa serve un autobus?",
+      "question_fr": "A quoi sert un bus ?",
+      "question_es": "¿Para qué se utiliza un autobús?",
+      "question_hr": "Čemu služi autobus?",
+      "question_cs": "K čemu slouží autobus?",
+      "question_pl": "Do czego służy autobus?",
+      "question_fi": "Mihin bussia käytetään?",
+      "question_sk": "Na čo slúži autobus?",
+      "question_da": "Hvad bruges en bus til?",
+      "options": [
+        {
+          "id": "people",
+          "label_en": "Carrying many passengers",
+          "label_de": "Viele Passagiere befördern",
+          "label_it": "Trasporta molti passeggeri",
+          "label_fr": "Transporter de nombreux passagers",
+          "label_es": "Llevando muchos pasajeros",
+          "label_hr": "Prevoz mnogo putnika",
+          "label_cs": "Přeprava mnoha cestujících",
+          "label_pl": "Przewożący wielu pasażerów",
+          "label_fi": "Kuljettaa paljon matkustajia",
+          "label_sk": "Preváža veľa cestujúcich",
+          "label_da": "Medbringer mange passagerer"
+        },
+        {
+          "id": "flying",
+          "label_en": "Flying",
+          "label_de": "Fliegen",
+          "label_it": "Volare",
+          "label_fr": "Vol",
+          "label_es": "Vuelo",
+          "label_hr": "Leteći",
+          "label_cs": "Létající",
+          "label_pl": "Latający",
+          "label_fi": "Lentäminen",
+          "label_sk": "Lietanie",
+          "label_da": "Flyvende"
+        },
+        {
+          "id": "cooking",
+          "label_en": "Cooking",
+          "label_de": "Kochen",
+          "label_it": "Cucina",
+          "label_fr": "Cuisson",
+          "label_es": "Cocinando",
+          "label_hr": "Kuhanje",
+          "label_cs": "Vaření",
+          "label_pl": "Gotowanie",
+          "label_fi": "Ruoanlaitto",
+          "label_sk": "Varenie",
+          "label_da": "Madlavning"
+        }
+      ]
+    },
+    {
+      "id": "where",
+      "correct": "stop",
+      "question_en": "Where do people wait for a bus?",
+      "question_de": "Wo warten die Leute auf einen Bus?",
+      "question_it": "Dove aspettano le persone l'autobus?",
+      "question_fr": "Où les gens attendent-ils un bus ?",
+      "question_es": "¿Dónde espera la gente el autobús?",
+      "question_hr": "Gdje ljudi čekaju autobus?",
+      "question_cs": "Kde lidé čekají na autobus?",
+      "question_pl": "Gdzie ludzie czekają na autobus?",
+      "question_fi": "Missä ihmiset odottavat bussia?",
+      "question_sk": "Kde ľudia čakajú na autobus?",
+      "question_da": "Hvor venter folk på en bus?",
+      "options": [
+        {
+          "id": "stop",
+          "label_en": "At a bus stop",
+          "label_de": "An einer Bushaltestelle",
+          "label_it": "Alla fermata dell'autobus",
+          "label_fr": "À un arrêt de bus",
+          "label_es": "en una parada de autobús",
+          "label_hr": "Na autobusnoj stanici",
+          "label_cs": "Na autobusové zastávce",
+          "label_pl": "Na przystanku autobusowym",
+          "label_fi": "Bussipysäkillä",
+          "label_sk": "Na autobusovej zastávke",
+          "label_da": "Ved et busstoppested"
+        },
+        {
+          "id": "roof",
+          "label_en": "On a roof",
+          "label_de": "Auf einem Dach",
+          "label_it": "Su un tetto",
+          "label_fr": "Sur un toit",
+          "label_es": "en un techo",
+          "label_hr": "Na krovu",
+          "label_cs": "Na střeše",
+          "label_pl": "Na dachu",
+          "label_fi": "Katolla",
+          "label_sk": "Na streche",
+          "label_da": "På et tag"
+        },
+        {
+          "id": "river",
+          "label_en": "In a river",
+          "label_de": "In einem Fluss",
+          "label_it": "In un fiume",
+          "label_fr": "Dans une rivière",
+          "label_es": "en un rio",
+          "label_hr": "U rijeci",
+          "label_cs": "V řece",
+          "label_pl": "W rzece",
+          "label_fi": "Joessa",
+          "label_sk": "V rieke",
+          "label_da": "I en flod"
+        }
+      ]
+    },
+    {
+      "id": "safe",
+      "correct": "hold",
+      "question_en": "What should you do while the bus is moving?",
+      "question_de": "Was ist zu tun, während der Bus fährt?",
+      "question_it": "Cosa dovresti fare mentre l'autobus è in movimento?",
+      "question_fr": "Que devez-vous faire pendant que le bus roule ?",
+      "question_es": "¿Qué debes hacer mientras el autobús está en movimiento?",
+      "question_hr": "Što trebate činiti dok se autobus kreće?",
+      "question_cs": "Co byste měli dělat, když je autobus v pohybu?",
+      "question_pl": "Co należy zrobić, gdy autobus jedzie?",
+      "question_fi": "Mitä sinun tulee tehdä bussin liikkuessa?",
+      "question_sk": "Čo by ste mali robiť, keď sa autobus pohybuje?",
+      "question_da": "Hvad skal du gøre, mens bussen kører?",
+      "options": [
+        {
+          "id": "hold",
+          "label_en": "Hold the handrail and stay seated",
+          "label_de": "Halten Sie sich am Handlauf fest und bleiben Sie sitzen",
+          "label_it": "Tieni il corrimano e rimani seduto",
+          "label_fr": "Tenez la main courante et restez assis",
+          "label_es": "Sujétese del pasamano y quédese sentado.",
+          "label_hr": "Držite se za rukohvat i ostanite sjediti",
+          "label_cs": "Držte se zábradlí a zůstaňte sedět",
+          "label_pl": "Trzymaj się poręczy i pozostań w pozycji siedzącej",
+          "label_fi": "Pidä kiinni kaiteesta ja pysy paikallaan",
+          "label_sk": "Držte sa zábradlia a zostaňte sedieť",
+          "label_da": "Hold i gelænderet og bliv siddende"
+        },
+        {
+          "id": "jump",
+          "label_en": "Jump between seats",
+          "label_de": "Springen Sie zwischen den Sitzen",
+          "label_it": "Salta tra i sedili",
+          "label_fr": "Sauter entre les sièges",
+          "label_es": "Saltar entre asientos",
+          "label_hr": "Skačite između sjedala",
+          "label_cs": "Skákejte mezi sedadly",
+          "label_pl": "Skakaj między siedzeniami",
+          "label_fi": "Hyppää istuinten väliin",
+          "label_sk": "Skákať medzi sedadlami",
+          "label_da": "Hop mellem sæderne"
+        },
+        {
+          "id": "open",
+          "label_en": "Open the door",
+          "label_de": "Öffne die Tür",
+          "label_it": "Apri la porta",
+          "label_fr": "Ouvre la porte",
+          "label_es": "Abrir la puerta",
+          "label_hr": "otvori vrata",
+          "label_cs": "Otevřete dveře",
+          "label_pl": "Otwórz drzwi",
+          "label_fi": "Avaa ovi",
+          "label_sk": "Otvorte dvere",
+          "label_da": "Åbn døren"
+        }
+      ]
+    }
+  ]
+}
