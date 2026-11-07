@@ -1093,6 +1093,27 @@
       "title_da": "Borde"
     },
     {
+      "id": "forest",
+      "category_id": "nature",
+      "symbol_id": "forest",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/forest/forest_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/forest/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 3284121,
+      "version": 1,
+      "title_en": "Forests",
+      "title_de": "Wälder",
+      "title_it": "Foreste",
+      "title_fr": "Forêts",
+      "title_es": "Bosques",
+      "title_hr": "Šume",
+      "title_cs": "Lesy",
+      "title_pl": "Lasy",
+      "title_fi": "Metsät",
+      "title_sk": "Lesy",
+      "title_da": "Skove"
+    },
+    {
       "id": "rain",
       "category_id": "nature",
       "symbol_id": "rain",

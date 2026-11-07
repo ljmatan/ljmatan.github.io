@@ -1,0 +1,293 @@
+{
+  "id": "forest",
+  "category_id": "nature",
+  "symbol_id": "forest",
+  "thumbnail": "forest_thumb.webp",
+  "title_en": "Forests",
+  "title_de": "Wälder",
+  "title_it": "Foreste",
+  "title_fr": "Forêts",
+  "title_es": "Bosques",
+  "title_hr": "Šume",
+  "title_cs": "Lesy",
+  "title_pl": "Lasy",
+  "title_fi": "Metsät",
+  "title_sk": "Lesy",
+  "title_da": "Skove",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about forests. A forest is a large area covered with many trees. Forests are home to birds, insects, deer, and countless other living things.",
+      "script_de": "Heute lernen wir etwas über Wälder. Ein Wald ist eine große Fläche mit vielen Bäumen. Wälder sind die Heimat von Vögeln, Insekten, Hirschen und unzähligen anderen Lebewesen.",
+      "script_it": "Oggi parleremo delle foreste. Una foresta è una vasta area ricoperta da molti alberi. Le foreste ospitano uccelli, insetti, cervi e innumerevoli altri esseri viventi.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur les forêts. Une forêt est une vaste zone couverte de nombreux arbres. Les forêts abritent des oiseaux, des insectes, des cerfs et d'innombrables autres êtres vivants.",
+      "script_es": "Hoy vamos a aprender sobre los bosques. Un bosque es una gran superficie cubierta de muchos árboles. Los bosques son el hogar de aves, insectos, ciervos y muchos otros seres vivos.",
+      "script_hr": "Danas ćemo učiti o šumama. Šuma je veliko područje prekriveno mnogim drvećem. Šume su dom pticama, kukcima, jelenima i bezbrojnim drugim živim bićima.",
+      "script_cs": "Dnes se budeme učit o lesích. Les je velká oblast pokrytá mnoha stromy. Lesy jsou domovem ptáků, hmyzu, jelenů a bezpočtu dalších živých tvorů.",
+      "script_pl": "Dziś będziemy uczyć się o lasach. Las to duży obszar porośnięty wieloma drzewami. Lasy są domem dla ptaków, owadów, jeleni i niezliczonych innych żywych istot.",
+      "script_fi": "Tänään opimme metsistä. Metsä on laaja, monien puiden peittämä alue. Metsät ovat lintujen, hyönteisten, peurojen ja lukemattomien muiden elävien olentojen koti.",
+      "script_sk": "Dnes sa budeme učiť o lesoch. Les je veľká oblasť pokrytá množstvom stromov. Lesy sú domovom vtákov, hmyzu, jeleňov a nespočetných ďalších živých vecí.",
+      "script_da": "I dag skal vi lære om skove. En skov er et stort område dækket af mange træer. Skove er hjemsted for fugle, insekter, hjorte og utallige andre levende ting.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "layers",
+      "script_en": "Forests have layers. Small plants and moss grow near the ground, shrubs grow above them, and tall trees reach for the light. Each layer gives food and shelter to different animals.",
+      "script_de": "Wälder haben Schichten. In Bodennähe wachsen kleine Pflanzen und Moos, darüber wachsen Sträucher und hohe Bäume greifen nach dem Licht. Jede Schicht bietet verschiedenen Tieren Nahrung und Schutz.",
+      "script_it": "Le foreste hanno strati. Piccole piante e muschio crescono vicino al terreno, gli arbusti crescono sopra di loro e gli alberi ad alto fusto raggiungono la luce. Ogni strato fornisce cibo e riparo a diversi animali.",
+      "script_fr": "Les forêts ont des couches. Les petites plantes et la mousse poussent près du sol, les arbustes poussent au-dessus et les grands arbres recherchent la lumière. Chaque couche donne nourriture et abri à différents animaux.",
+      "script_es": "Los bosques tienen capas. Cerca del suelo crecen plantas pequeñas y musgo, encima crecen arbustos y árboles altos buscan la luz. Cada capa proporciona alimento y refugio a diferentes animales.",
+      "script_hr": "Šume imaju slojeve. Male biljke i mahovina rastu pri tlu, iznad njih raste grmlje, a visoko drveće dopire do svjetla. Svaki sloj daje hranu i sklonište različitim životinjama.",
+      "script_cs": "Lesy mají vrstvy. U země rostou drobné rostlinky a mech, nad nimi keře a vysoké stromy sahají za světlem. Každá vrstva poskytuje potravu a úkryt různým zvířatům.",
+      "script_pl": "Lasy mają warstwy. Przy ziemi rosną drobne rośliny i mchy, nad nimi rosną krzewy, a wysokie drzewa sięgają po światło. Każda warstwa zapewnia pożywienie i schronienie różnym zwierzętom.",
+      "script_fi": "Metsillä on kerroksia. Pienet kasvit ja sammal kasvavat lähellä maata, pensaat kasvavat niiden yläpuolella ja korkeat puut kurkottavat valoa. Jokainen kerros antaa ruokaa ja suojaa eri eläimille.",
+      "script_sk": "Lesy majú vrstvy. Pri zemi rastú drobné rastlinky a mach, nad nimi kry a vysoké stromy siahajú po svetle. Každá vrstva poskytuje potravu a prístrešie rôznym zvieratám.",
+      "script_da": "Skove har lag. Små planter og mos vokser nær jorden, buske vokser over dem, og høje træer rækker ud efter lyset. Hvert lag giver mad og husly til forskellige dyr.",
+      "images": [
+        "layers.webp",
+        "layers_2.webp",
+        "layers_3.webp"
+      ]
+    },
+    {
+      "id": "air",
+      "script_en": "Trees clean the air and make oxygen. They also hold soil in place and store water. Forests help keep the climate steady and protect the land from erosion.",
+      "script_de": "Bäume reinigen die Luft und produzieren Sauerstoff. Außerdem halten sie den Boden an Ort und Stelle und speichern Wasser. Wälder tragen dazu bei, das Klima stabil zu halten und das Land vor Erosion zu schützen.",
+      "script_it": "Gli alberi puliscono l'aria e producono ossigeno. Inoltre mantengono il terreno in posizione e immagazzinano l'acqua. Le foreste contribuiscono a mantenere il clima stabile e a proteggere il territorio dall’erosione.",
+      "script_fr": "Les arbres purifient l’air et produisent de l’oxygène. Ils retiennent également le sol en place et stockent l’eau. Les forêts contribuent à maintenir le climat stable et à protéger les terres de l’érosion.",
+      "script_es": "Los árboles limpian el aire y producen oxígeno. También mantienen la tierra en su lugar y almacenan agua. Los bosques ayudan a mantener el clima estable y protegen la tierra de la erosión.",
+      "script_hr": "Drveće čisti zrak i stvara kisik. Oni također drže tlo na mjestu i skladište vodu. Šume pomažu u održavanju stabilne klime i štite zemlju od erozije.",
+      "script_cs": "Stromy čistí vzduch a produkují kyslík. Také drží půdu na místě a ukládají vodu. Lesy pomáhají udržovat klima stabilní a chrání půdu před erozí.",
+      "script_pl": "Drzewa oczyszczają powietrze i wytwarzają tlen. Utrzymują także glebę w miejscu i magazynują wodę. Lasy pomagają utrzymać stabilny klimat i chronią ziemię przed erozją.",
+      "script_fi": "Puut puhdistavat ilmaa ja tuottavat happea. Ne myös pitävät maaperän paikoillaan ja varastoivat vettä. Metsät auttavat pitämään ilmaston tasaisena ja suojaavat maata eroosiolta.",
+      "script_sk": "Stromy čistia vzduch a vytvárajú kyslík. Tiež držia pôdu na mieste a uchovávajú vodu. Lesy pomáhajú udržiavať klímu stabilnú a chránia krajinu pred eróziou.",
+      "script_da": "Træer renser luften og laver ilt. De holder også jorden på plads og opbevarer vand. Skove hjælper med at holde klimaet stabilt og beskytter jorden mod erosion.",
+      "images": [
+        "air.webp",
+        "air_2.webp",
+        "air_3.webp"
+      ]
+    },
+    {
+      "id": "people",
+      "script_en": "People visit forests to walk, camp, and learn about nature. Some communities depend on forests for wood, fruit, and medicine. It is important to use these resources wisely.",
+      "script_de": "Menschen besuchen Wälder, um spazieren zu gehen, zu campen und etwas über die Natur zu lernen. Einige Gemeinden sind für Holz, Obst und Medikamente auf Wälder angewiesen. Es ist wichtig, diese Ressourcen sinnvoll zu nutzen.",
+      "script_it": "Le persone visitano le foreste per camminare, accamparsi e conoscere la natura. Alcune comunità dipendono dalle foreste per il legno, la frutta e le medicine. È importante utilizzare saggiamente queste risorse.",
+      "script_fr": "Les gens visitent les forêts pour marcher, camper et découvrir la nature. Certaines communautés dépendent des forêts pour leur bois, leurs fruits et leurs médicaments. Il est important d’utiliser ces ressources à bon escient.",
+      "script_es": "La gente visita los bosques para caminar, acampar y aprender sobre la naturaleza. Algunas comunidades dependen de los bosques para obtener madera, frutas y medicinas. Es importante utilizar estos recursos sabiamente.",
+      "script_hr": "Ljudi posjećuju šume kako bi šetali, kampirali i učili o prirodi. Neke zajednice ovise o šumama za drvo, voće i lijekove. Važno je mudro koristiti te resurse.",
+      "script_cs": "Lidé navštěvují lesy, aby se procházeli, tábořili a poznávali přírodu. Některá společenství jsou závislá na lesích pro dřevo, ovoce a léky. Je důležité používat tyto zdroje moudře.",
+      "script_pl": "Ludzie odwiedzają lasy, aby spacerować, biwakować i poznawać przyrodę. Niektóre społeczności są uzależnione od lasów, które dostarczają drewna, owoców i leków. Ważne jest, aby mądrze korzystać z tych zasobów.",
+      "script_fi": "Ihmiset käyvät metsissä kävelemässä, telttailemassa ja oppimassa luonnosta. Jotkut yhteisöt ovat riippuvaisia ​​metsistä saadakseen puuta, hedelmiä ja lääkkeitä. On tärkeää käyttää näitä resursseja viisaasti.",
+      "script_sk": "Ľudia navštevujú lesy, aby sa prechádzali, táborili a spoznávali prírodu. Niektoré komunity sú závislé od lesov, pokiaľ ide o drevo, ovocie a lieky. Je dôležité používať tieto zdroje rozumne.",
+      "script_da": "Folk besøger skove for at gå, campere og lære om naturen. Nogle samfund er afhængige af skove til træ, frugt og medicin. Det er vigtigt at bruge disse ressourcer fornuftigt.",
+      "images": [
+        "people.webp",
+        "people_2.webp",
+        "people_3.webp"
+      ]
+    },
+    {
+      "id": "care",
+      "script_en": "Forests are threatened by fires, logging, and disease. Planting new trees and protecting old forests helps them recover. Every small action, like not leaving litter, helps.",
+      "script_de": "Wälder sind durch Brände, Abholzung und Krankheiten bedroht. Das Pflanzen neuer Bäume und der Schutz alter Wälder hilft ihnen, sich zu erholen. Jede kleine Aktion, wie zum Beispiel keinen Müll zurückzulassen, hilft.",
+      "script_it": "Le foreste sono minacciate da incendi, disboscamento e malattie. Piantare nuovi alberi e proteggere le vecchie foreste li aiuta a riprendersi. Ogni piccola azione, come non lasciare rifiuti, aiuta.",
+      "script_fr": "Les forêts sont menacées par les incendies, l'exploitation forestière et les maladies. Planter de nouveaux arbres et protéger les vieilles forêts aide à leur rétablissement. Chaque petit geste, comme ne pas laisser de détritus, aide.",
+      "script_es": "Los bosques están amenazados por incendios, tala y enfermedades. Plantar árboles nuevos y proteger los bosques viejos les ayuda a recuperarse. Cualquier pequeña acción, como no dejar basura, ayuda.",
+      "script_hr": "Šume su ugrožene požarima, sječama i bolestima. Sadnja novih stabala i zaštita starih šuma pomaže im da se oporave. Svaka mala radnja, poput neostavljanja smeća, pomaže.",
+      "script_cs": "Lesy ohrožují požáry, těžba dřeva a nemoci. Výsadba nových stromů a ochrana starých lesů jim pomáhá zotavit se. Každá malá akce, jako je neopuštění steliva, pomáhá.",
+      "script_pl": "Lasom zagrażają pożary, wyręby i choroby. Sadzenie nowych drzew i ochrona starych lasów pomaga im się regenerować. Pomaga każda mała czynność, np. nie zostawianie śmieci.",
+      "script_fi": "Metsiä uhkaavat tulipalot, hakkuut ja taudit. Uusien puiden istuttaminen ja vanhojen metsien suojeleminen auttavat niitä toipumaan. Jokainen pieni teko, kuten roskien jättäminen, auttaa.",
+      "script_sk": "Lesy ohrozujú požiare, ťažba dreva a choroby. Výsadba nových stromov a ochrana starých lesov im pomáha zotaviť sa. Každá malá akcia, ako napríklad neopustenie odpadkov, pomáha.",
+      "script_da": "Skovene er truet af brande, skovhugst og sygdomme. Plantning af nye træer og beskyttelse af gamle skove hjælper dem med at komme sig. Hver lille handling, som ikke at efterlade affald, hjælper.",
+      "images": [
+        "care.webp",
+        "care_2.webp",
+        "care_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "what",
+      "correct": "trees",
+      "question_en": "What is a forest?",
+      "question_de": "Was ist ein Wald?",
+      "question_it": "Cos'è una foresta?",
+      "question_fr": "Qu'est-ce qu'une forêt ?",
+      "question_es": "¿Qué es un bosque?",
+      "question_hr": "Što je šuma?",
+      "question_cs": "co je to les?",
+      "question_pl": "Co to jest las?",
+      "question_fi": "Mikä on metsä?",
+      "question_sk": "čo je les?",
+      "question_da": "Hvad er en skov?",
+      "options": [
+        {
+          "id": "trees",
+          "label_en": "A large area of trees",
+          "label_de": "Eine große Fläche mit Bäumen",
+          "label_it": "Una vasta area di alberi",
+          "label_fr": "Une grande zone d'arbres",
+          "label_es": "Una gran superficie de árboles.",
+          "label_hr": "Velika površina drveća",
+          "label_cs": "Velká plocha stromů",
+          "label_pl": "Duży obszar drzew",
+          "label_fi": "Suuri alue puita",
+          "label_sk": "Veľká plocha stromov",
+          "label_da": "Et stort område med træer"
+        },
+        {
+          "id": "water",
+          "label_en": "A deep lake",
+          "label_de": "Ein tiefer See",
+          "label_it": "Un lago profondo",
+          "label_fr": "Un lac profond",
+          "label_es": "un lago profundo",
+          "label_hr": "Duboko jezero",
+          "label_cs": "Hluboké jezero",
+          "label_pl": "Głębokie jezioro",
+          "label_fi": "Syvä järvi",
+          "label_sk": "Hlboké jazero",
+          "label_da": "En dyb sø"
+        },
+        {
+          "id": "sand",
+          "label_en": "A sandy beach",
+          "label_de": "Ein Sandstrand",
+          "label_it": "Una spiaggia sabbiosa",
+          "label_fr": "Une plage de sable",
+          "label_es": "una playa de arena",
+          "label_hr": "Pješčana plaža",
+          "label_cs": "Písečná pláž",
+          "label_pl": "Piaszczysta plaża",
+          "label_fi": "Hiekkaranta",
+          "label_sk": "Piesočnatá pláž",
+          "label_da": "En sandstrand"
+        }
+      ]
+    },
+    {
+      "id": "air",
+      "correct": "oxygen",
+      "question_en": "What do trees make for us to breathe?",
+      "question_de": "Was geben uns Bäume zum Atmen?",
+      "question_it": "Cosa ci fanno respirare gli alberi?",
+      "question_fr": "Que font les arbres pour nous permettre de respirer ?",
+      "question_es": "¿Qué hacen los árboles para que respiremos?",
+      "question_hr": "Što drveće čini da dišemo?",
+      "question_cs": "Co nám stromy umožňují dýchat?",
+      "question_pl": "Czym drzewa pozwalają nam oddychać?",
+      "question_fi": "Mitä puut saavat meidät hengittämään?",
+      "question_sk": "Čo nám stromy umožňujú dýchať?",
+      "question_da": "Hvad gør træer for, at vi kan trække vejret?",
+      "options": [
+        {
+          "id": "oxygen",
+          "label_en": "Oxygen",
+          "label_de": "Sauerstoff",
+          "label_it": "Ossigeno",
+          "label_fr": "Oxygène",
+          "label_es": "Oxígeno",
+          "label_hr": "Kisik",
+          "label_cs": "Kyslík",
+          "label_pl": "Tlen",
+          "label_fi": "Happi",
+          "label_sk": "Kyslík",
+          "label_da": "Ilt"
+        },
+        {
+          "id": "salt",
+          "label_en": "Salt",
+          "label_de": "Salz",
+          "label_it": "Sale",
+          "label_fr": "Sel",
+          "label_es": "Sal",
+          "label_hr": "Sol",
+          "label_cs": "Sůl",
+          "label_pl": "Sól",
+          "label_fi": "Suolaa",
+          "label_sk": "Soľ",
+          "label_da": "Salt"
+        },
+        {
+          "id": "snow",
+          "label_en": "Snow",
+          "label_de": "Schnee",
+          "label_it": "Nevicare",
+          "label_fr": "Neige",
+          "label_es": "Nieve",
+          "label_hr": "Snijeg",
+          "label_cs": "Sněžení",
+          "label_pl": "Śnieg",
+          "label_fi": "Lumi",
+          "label_sk": "Sneh",
+          "label_da": "Sne"
+        }
+      ]
+    },
+    {
+      "id": "care",
+      "correct": "plant",
+      "question_en": "How can people help forests?",
+      "question_de": "Wie können Menschen den Wäldern helfen?",
+      "question_it": "Come possono le persone aiutare le foreste?",
+      "question_fr": "Comment les gens peuvent-ils aider les forêts ?",
+      "question_es": "¿Cómo pueden las personas ayudar a los bosques?",
+      "question_hr": "Kako ljudi mogu pomoći šumama?",
+      "question_cs": "Jak mohou lidé pomoci lesům?",
+      "question_pl": "Jak ludzie mogą pomóc lasom?",
+      "question_fi": "Miten ihmiset voivat auttaa metsiä?",
+      "question_sk": "Ako môžu ľudia pomôcť lesom?",
+      "question_da": "Hvordan kan folk hjælpe skovene?",
+      "options": [
+        {
+          "id": "plant",
+          "label_en": "Plant trees and avoid litter",
+          "label_de": "Pflanzen Sie Bäume und vermeiden Sie Müll",
+          "label_it": "Pianta alberi ed evita i rifiuti",
+          "label_fr": "Plantez des arbres et évitez les déchets",
+          "label_es": "Plantar árboles y evitar la basura.",
+          "label_hr": "Sadite drveće i izbjegavajte smeće",
+          "label_cs": "Vysazujte stromy a vyhýbejte se odpadkům",
+          "label_pl": "Sadź drzewa i unikaj śmieci",
+          "label_fi": "Istuta puita ja vältä roskaa",
+          "label_sk": "Vysádzajte stromy a vyhýbajte sa odpadkom",
+          "label_da": "Plant træer og undgå affald"
+        },
+        {
+          "id": "burn",
+          "label_en": "Burn them",
+          "label_de": "Verbrenne sie",
+          "label_it": "Bruciateli",
+          "label_fr": "Brûlez-les",
+          "label_es": "quemarlos",
+          "label_hr": "Spali ih",
+          "label_cs": "Spalte je",
+          "label_pl": "Spal je",
+          "label_fi": "Polta ne",
+          "label_sk": "Spáliť ich",
+          "label_da": "Brænd dem"
+        },
+        {
+          "id": "cut",
+          "label_en": "Cut every tree",
+          "label_de": "Schneiden Sie jeden Baum",
+          "label_it": "Taglia ogni albero",
+          "label_fr": "Coupez chaque arbre",
+          "label_es": "Corta cada árbol",
+          "label_hr": "Posjeci svako drvo",
+          "label_cs": "Ořízněte každý strom",
+          "label_pl": "Wytnij każde drzewo",
+          "label_fi": "Leikkaa jokainen puu",
+          "label_sk": "Vyrežte každý strom",
+          "label_da": "Klip hvert træ"
+        }
+      ]
+    }
+  ]
+}
