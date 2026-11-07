@@ -1,0 +1,293 @@
+{
+  "id": "car",
+  "category_id": "transport",
+  "symbol_id": "car",
+  "thumbnail": "car_thumb.webp",
+  "title_en": "Cars",
+  "title_de": "Autos",
+  "title_it": "Automobili",
+  "title_fr": "Voitures",
+  "title_es": "Coches",
+  "title_hr": "Automobili",
+  "title_cs": "Auta",
+  "title_pl": "Samochody",
+  "title_fi": "Autot",
+  "title_sk": "Autá",
+  "title_da": "Biler",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about cars. A car is a road vehicle with four wheels and its own engine. People use cars to travel to work, school, shops, and faraway places.",
+      "script_de": "Heute lernen wir etwas über Autos. Ein Auto ist ein Straßenfahrzeug mit vier Rädern und eigenem Motor. Menschen nutzen das Auto, um zur Arbeit, zur Schule, zum Einkaufen und an entfernte Orte zu fahren.",
+      "script_it": "Oggi impareremo a conoscere le automobili. Un'auto è un veicolo stradale con quattro ruote e un proprio motore. Le persone usano l’auto per recarsi al lavoro, a scuola, nei negozi e in luoghi lontani.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur les voitures. Une voiture est un véhicule routier doté de quatre roues et de son propre moteur. Les gens utilisent la voiture pour se rendre au travail, à l’école, dans les magasins et dans des lieux éloignés.",
+      "script_es": "Hoy vamos a aprender sobre los coches. Un automóvil es un vehículo de carretera con cuatro ruedas y motor propio. La gente utiliza el coche para ir al trabajo, a la escuela, a las tiendas y a lugares lejanos.",
+      "script_hr": "Danas ćemo učiti o automobilima. Automobil je cestovno vozilo s četiri kotača i vlastitim motorom. Ljudi koriste automobile za putovanje na posao, u školu, trgovine i daleka mjesta.",
+      "script_cs": "Dnes se budeme učit o autech. Automobil je silniční vozidlo se čtyřmi koly a vlastním motorem. Lidé používají auta k cestování do práce, školy, obchodů a vzdálených míst.",
+      "script_pl": "Dziś będziemy uczyć się o samochodach. Samochód to pojazd drogowy posiadający cztery koła i własny silnik. Ludzie podróżują samochodami do pracy, szkoły, sklepów i odległych miejsc.",
+      "script_fi": "Tänään opimme autoista. Auto on tieajoneuvo, jossa on neljä pyörää ja oma moottori. Ihmiset matkustavat autolla töihin, kouluun, kauppoihin ja kaukaisiin paikkoihin.",
+      "script_sk": "Dnes sa budeme učiť o autách. Automobil je cestné vozidlo so štyrmi kolesami a vlastným motorom. Ľudia používajú autá na cestu do práce, školy, obchodov a ďalekých miest.",
+      "script_da": "I dag skal vi lære om biler. En bil er et vejkøretøj med fire hjul og egen motor. Folk bruger biler til at rejse til arbejde, skole, butikker og fjerne steder.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "history",
+      "script_en": "The first cars were built more than a hundred years ago. They were slow, noisy, and expensive. Later, factories learned to build cars quickly, and soon families all over the world could own one.",
+      "script_de": "Die ersten Autos wurden vor mehr als hundert Jahren gebaut. Sie waren langsam, laut und teuer. Später lernten die Fabriken, schnell Autos zu bauen, und bald konnten Familien auf der ganzen Welt eines besitzen.",
+      "script_it": "Le prime automobili furono costruite più di cento anni fa. Erano lenti, rumorosi e costosi. Successivamente, le fabbriche impararono rapidamente a costruire automobili e presto le famiglie di tutto il mondo poterono possederne una.",
+      "script_fr": "Les premières voitures ont été construites il y a plus de cent ans. Ils étaient lents, bruyants et chers. Plus tard, les usines ont appris à construire des voitures rapidement et bientôt des familles du monde entier ont pu en posséder une.",
+      "script_es": "Los primeros coches se construyeron hace más de cien años. Eran lentos, ruidosos y caros. Más tarde, las fábricas aprendieron a fabricar automóviles rápidamente y pronto familias de todo el mundo pudieron tener uno.",
+      "script_hr": "Prvi automobili proizvedeni su prije više od sto godina. Bili su spori, bučni i skupi. Kasnije su tvornice naučile brzo proizvoditi automobile i uskoro su ih mogle posjedovati obitelji diljem svijeta.",
+      "script_cs": "První vozy byly vyrobeny před více než sto lety. Byly pomalé, hlučné a drahé. Později se továrny naučily rychle vyrábět auta a brzy je mohly vlastnit rodiny po celém světě.",
+      "script_pl": "Pierwsze samochody powstały ponad sto lat temu. Były powolne, hałaśliwe i drogie. Później fabryki szybko nauczyły się produkować samochody i wkrótce rodziny na całym świecie mogły je posiadać.",
+      "script_fi": "Ensimmäiset autot rakennettiin yli sata vuotta sitten. Ne olivat hitaita, meluisia ja kalliita. Myöhemmin tehtaat oppivat rakentamaan autoja nopeasti, ja pian perheet kaikkialla maailmassa saivat sellaisen omistaa.",
+      "script_sk": "Prvé autá boli vyrobené pred viac ako sto rokmi. Boli pomalé, hlučné a drahé. Neskôr sa továrne naučili rýchlo vyrábať autá a čoskoro ich mohli vlastniť rodiny po celom svete.",
+      "script_da": "De første biler blev bygget for mere end hundrede år siden. De var langsomme, støjende og dyre. Senere lærte fabrikkerne hurtigt at bygge biler, og snart kunne familier over hele verden eje en.",
+      "images": [
+        "history.webp",
+        "history_2.webp",
+        "history_3.webp"
+      ]
+    },
+    {
+      "id": "parts",
+      "script_en": "A car has an engine that makes it move, a steering wheel that turns the wheels, and brakes that slow it down. Seat belts keep people safe, and lights help the driver see and be seen.",
+      "script_de": "Ein Auto hat einen Motor, der es in Bewegung setzt, ein Lenkrad, das die Räder dreht, und Bremsen, die es abbremsen. Sicherheitsgurte sorgen für die Sicherheit der Menschen und Lichter helfen dem Fahrer, zu sehen und gesehen zu werden.",
+      "script_it": "Un'auto ha un motore che la fa muovere, un volante che fa girare le ruote e freni che la rallentano. Le cinture di sicurezza mantengono le persone al sicuro e le luci aiutano il conducente a vedere ed essere visto.",
+      "script_fr": "Une voiture a un moteur qui la fait bouger, un volant qui fait tourner les roues et des freins qui la ralentissent. Les ceintures de sécurité assurent la sécurité des personnes et les lumières aident le conducteur à voir et à être vu.",
+      "script_es": "Un automóvil tiene un motor que lo hace moverse, un volante que hace girar las ruedas y frenos que lo frenan. Los cinturones de seguridad mantienen a las personas seguras y las luces ayudan al conductor a ver y ser visto.",
+      "script_hr": "Automobil ima motor koji ga pokreće, upravljač koji okreće kotače i kočnice koje ga usporavaju. Sigurnosni pojasevi štite ljude, a svjetla pomažu vozaču da vidi i bude viđen.",
+      "script_cs": "Auto má motor, díky kterému se pohybuje, volant, který otáčí koly, a brzdy, které ho zpomalují. Bezpečnostní pásy udržují lidi v bezpečí a světla pomáhají řidiči vidět a být viděn.",
+      "script_pl": "Samochód ma silnik, który wprawia go w ruch, kierownicę, która obraca kołami i hamulce, które go spowalniają. Pasy bezpieczeństwa zapewniają bezpieczeństwo pasażerów, a światła pomagają kierowcy widzieć i być widzianym.",
+      "script_fi": "Autossa on moottori, joka saa sen liikkumaan, ohjauspyörä, joka kääntää pyöriä, ja jarrut, jotka hidastavat sitä. Turvavyöt pitävät ihmiset turvassa, ja valot auttavat kuljettajaa näkemään ja tulla nähdyksi.",
+      "script_sk": "Auto má motor, vďaka ktorému sa pohybuje, volant, ktorý otáča kolesá, a brzdy, ktoré ho spomaľujú. Bezpečnostné pásy udržujú ľudí v bezpečí a svetlá pomáhajú vodičovi vidieť a byť videný.",
+      "script_da": "En bil har en motor, der får den til at bevæge sig, et rat, der drejer hjulene, og bremser, der bremser den. Sikkerhedsseler holder folk sikkert, og lys hjælper føreren med at se og blive set.",
+      "images": [
+        "parts.webp",
+        "parts_2.webp",
+        "parts_3.webp"
+      ]
+    },
+    {
+      "id": "rules",
+      "script_en": "Cars share the road with buses, bicycles, and people walking. Traffic lights, road signs, and speed limits help everyone stay safe. Drivers must watch carefully and stop for pedestrians at crossings.",
+      "script_de": "Autos teilen sich die Straße mit Bussen, Fahrrädern und Fußgängern. Ampeln, Verkehrsschilder und Geschwindigkeitsbegrenzungen tragen zur Sicherheit aller bei. Autofahrer müssen aufmerksam aufpassen und an Kreuzungen auf Fußgänger achten.",
+      "script_it": "Le auto condividono la strada con autobus, biciclette e persone che camminano. Semafori, segnali stradali e limiti di velocità aiutano tutti a rimanere al sicuro. I conducenti devono prestare attenzione e fermarsi ai pedoni agli incroci.",
+      "script_fr": "Les voitures partagent la route avec les bus, les vélos et les piétons. Les feux de circulation, les panneaux de signalisation et les limitations de vitesse contribuent à la sécurité de tous. Les conducteurs doivent faire attention et s'arrêter pour les piétons aux passages à niveau.",
+      "script_es": "Los coches comparten la vía con autobuses, bicicletas y gente a pie. Los semáforos, las señales de tráfico y los límites de velocidad ayudan a todos a mantenerse seguros. Los conductores deben observar atentamente y detenerse ante los peatones en los cruces.",
+      "script_hr": "Automobili dijele cestu s autobusima, biciklima i ljudima koji hodaju. Semafori, prometni znakovi i ograničenja brzine pomažu svima da ostanu sigurni. Vozači moraju pažljivo paziti i zaustavljati se zbog pješaka na prijelazima.",
+      "script_cs": "Auta sdílejí silnici s autobusy, jízdními koly a chodícími lidmi. Semafory, dopravní značky a omezení rychlosti pomáhají všem zůstat v bezpečí. Řidiči musí dávat pozor a zastavovat pro chodce na přechodech.",
+      "script_pl": "Samochody dzielą drogę z autobusami, rowerami i spacerującymi ludźmi. Sygnalizacja świetlna, znaki drogowe i ograniczenia prędkości pomagają wszystkim zachować bezpieczeństwo. Kierowcy muszą zachować szczególną ostrożność i zatrzymywać się przed przejściami dla pieszych.",
+      "script_fi": "Autot jakavat tien linja-autojen, polkupyörien ja kävelevien ihmisten kanssa. Liikennevalot, liikennemerkit ja nopeusrajoitukset auttavat kaikkia pysymään turvassa. Kuljettajien tulee tarkkailla ja pysähtyä jalankulkijoiden varalta risteyksissä.",
+      "script_sk": "Autá zdieľajú cestu s autobusmi, bicyklami a chodiacimi ľuďmi. Semafory, dopravné značky a obmedzenia rýchlosti pomáhajú všetkým zostať v bezpečí. Vodiči musia pozorne sledovať a zastaviť chodcov na priechodoch.",
+      "script_da": "Biler deler vejen med busser, cykler og folk, der går. Trafiklys, vejskilte og hastighedsbegrænsninger hjælper alle med at forblive sikre. Bilister skal holde øje med og standse for fodgængere ved krydsninger.",
+      "images": [
+        "rules.webp",
+        "rules_2.webp",
+        "rules_3.webp"
+      ]
+    },
+    {
+      "id": "today",
+      "script_en": "Today many cars can run on electricity instead of petrol or diesel. Electric cars are quieter and can be cleaner for the air. Engineers are also testing cars that can help the driver park or avoid danger.",
+      "script_de": "Heutzutage können viele Autos mit Strom statt mit Benzin oder Diesel fahren. Elektroautos sind leiser und können die Luft sauberer machen. Ingenieure testen auch Autos, die dem Fahrer beim Einparken oder beim Vermeiden von Gefahren helfen können.",
+      "script_it": "Oggi molte auto possono funzionare con l’elettricità invece che con la benzina o il diesel. Le auto elettriche sono più silenziose e possono essere più pulite per l’aria. Gli ingegneri stanno anche testando auto che possano aiutare il conducente a parcheggiare o evitare pericoli.",
+      "script_fr": "Aujourd’hui, de nombreuses voitures peuvent fonctionner à l’électricité au lieu de l’essence ou du diesel. Les voitures électriques sont plus silencieuses et peuvent être plus propres pour l’air. Les ingénieurs testent également des voitures qui peuvent aider le conducteur à se garer ou à éviter un danger.",
+      "script_es": "Hoy en día muchos coches pueden funcionar con electricidad en lugar de gasolina o diésel. Los coches eléctricos son más silenciosos y pueden ser más limpios para el aire. Los ingenieros también están probando coches que puedan ayudar al conductor a aparcar o evitar peligros.",
+      "script_hr": "Danas mnogi automobili mogu raditi na struju umjesto na benzin ili dizel. Električni automobili su tiši i mogu biti čišći za zrak. Inženjeri također testiraju automobile koji mogu pomoći vozaču pri parkiranju ili izbjegavanju opasnosti.",
+      "script_cs": "Dnes může mnoho aut jezdit na elektřinu místo benzínu nebo nafty. Elektromobily jsou tišší a mohou být čistší pro vzduch. Inženýři také testují auta, která mohou řidiči pomoci zaparkovat nebo se vyhnout nebezpečí.",
+      "script_pl": "Obecnie wiele samochodów może być napędzanych energią elektryczną zamiast benzyną lub olejem napędowym. Samochody elektryczne są cichsze i mogą być czystsze dla powietrza. Inżynierowie testują także samochody, które mogą pomóc kierowcy w zaparkowaniu lub uniknięciu niebezpieczeństwa.",
+      "script_fi": "Nykyään monet autot voivat toimia sähköllä bensiinin tai dieselin sijaan. Sähköautot ovat hiljaisempia ja voivat olla puhtaampia ilmalle. Insinöörit testaavat myös autoja, jotka voivat auttaa kuljettajaa pysäköimään tai välttämään vaaran.",
+      "script_sk": "Dnes môže veľa áut jazdiť na elektrinu namiesto benzínu alebo nafty. Elektromobily sú tichšie a môžu byť čistejšie pre vzduch. Inžinieri testujú aj autá, ktoré môžu vodičovi pomôcť zaparkovať alebo vyhnúť sa nebezpečenstvu.",
+      "script_da": "I dag kan mange biler køre på el i stedet for benzin eller diesel. Elbiler er mere støjsvage og kan være renere for luften. Ingeniører tester også biler, der kan hjælpe chaufføren med at parkere eller undgå fare.",
+      "images": [
+        "today.webp",
+        "today_2.webp",
+        "today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "wheels",
+      "correct": "four",
+      "question_en": "How many wheels does a car usually have?",
+      "question_de": "Wie viele Räder hat ein Auto normalerweise?",
+      "question_it": "Quante ruote ha solitamente un'auto?",
+      "question_fr": "Combien de roues une voiture a-t-elle habituellement ?",
+      "question_es": "¿Cuántas ruedas suele tener un coche?",
+      "question_hr": "Koliko kotača obično ima automobil?",
+      "question_cs": "Kolik kol má obvykle auto?",
+      "question_pl": "Ile kół ma zwykle samochód?",
+      "question_fi": "Kuinka monta pyörää autossa yleensä on?",
+      "question_sk": "Koľko kolies má zvyčajne auto?",
+      "question_da": "Hvor mange hjul har en bil normalt?",
+      "options": [
+        {
+          "id": "four",
+          "label_en": "Four",
+          "label_de": "Vier",
+          "label_it": "Quattro",
+          "label_fr": "Quatre",
+          "label_es": "cuatro",
+          "label_hr": "četiri",
+          "label_cs": "Čtyři",
+          "label_pl": "Cztery",
+          "label_fi": "Neljä",
+          "label_sk": "Štyri",
+          "label_da": "Fire"
+        },
+        {
+          "id": "two",
+          "label_en": "Two",
+          "label_de": "Zwei",
+          "label_it": "Due",
+          "label_fr": "Deux",
+          "label_es": "Dos",
+          "label_hr": "Dva",
+          "label_cs": "Dva",
+          "label_pl": "Dwa",
+          "label_fi": "Kaksi",
+          "label_sk": "Dvaja",
+          "label_da": "To"
+        },
+        {
+          "id": "six",
+          "label_en": "Six",
+          "label_de": "Sechs",
+          "label_it": "Sei",
+          "label_fr": "Six",
+          "label_es": "Seis",
+          "label_hr": "Šest",
+          "label_cs": "Šest",
+          "label_pl": "Sześć",
+          "label_fi": "Kuusi",
+          "label_sk": "Šesť",
+          "label_da": "Seks"
+        }
+      ]
+    },
+    {
+      "id": "safety",
+      "correct": "belt",
+      "question_en": "What keeps people safe in a car?",
+      "question_de": "Was sorgt für die Sicherheit von Menschen im Auto?",
+      "question_it": "Cosa mantiene le persone al sicuro in macchina?",
+      "question_fr": "Qu’est-ce qui assure la sécurité des personnes dans une voiture ?",
+      "question_es": "¿Qué mantiene a las personas seguras en un automóvil?",
+      "question_hr": "Što ljude čini sigurnima u automobilu?",
+      "question_cs": "Co udržuje lidi v bezpečí v autě?",
+      "question_pl": "Co zapewnia bezpieczeństwo ludziom w samochodzie?",
+      "question_fi": "Mikä pitää ihmiset turvassa autossa?",
+      "question_sk": "Čo chráni ľudí v aute?",
+      "question_da": "Hvad holder folk sikkert i en bil?",
+      "options": [
+        {
+          "id": "belt",
+          "label_en": "Seat belts",
+          "label_de": "Sicherheitsgurte",
+          "label_it": "Cinture di sicurezza",
+          "label_fr": "La ceinture de sécurité",
+          "label_es": "Cinturones de seguridad",
+          "label_hr": "Sigurnosni pojasevi",
+          "label_cs": "Bezpečnostní pásy",
+          "label_pl": "Pasy bezpieczeństwa",
+          "label_fi": "Turvavyöt",
+          "label_sk": "Bezpečnostné pásy",
+          "label_da": "Sikkerhedsseler"
+        },
+        {
+          "id": "horn",
+          "label_en": "The horn",
+          "label_de": "Die Hupe",
+          "label_it": "Il corno",
+          "label_fr": "La corne",
+          "label_es": "el cuerno",
+          "label_hr": "Rog",
+          "label_cs": "Roh",
+          "label_pl": "Róg",
+          "label_fi": "Torvi",
+          "label_sk": "Roh",
+          "label_da": "Hornet"
+        },
+        {
+          "id": "radio",
+          "label_en": "The radio",
+          "label_de": "Das Radio",
+          "label_it": "La radio",
+          "label_fr": "La radio",
+          "label_es": "la radio",
+          "label_hr": "Radio",
+          "label_cs": "Rádio",
+          "label_pl": "Radio",
+          "label_fi": "Radio",
+          "label_sk": "Rádio",
+          "label_da": "Radioen"
+        }
+      ]
+    },
+    {
+      "id": "power",
+      "correct": "electric",
+      "question_en": "What can power a modern car?",
+      "question_de": "Was kann ein modernes Auto antreiben?",
+      "question_it": "Cosa può alimentare un’auto moderna?",
+      "question_fr": "Qu’est-ce qui peut propulser une voiture moderne ?",
+      "question_es": "¿Qué puede impulsar un coche moderno?",
+      "question_hr": "Što može pokretati moderan automobil?",
+      "question_cs": "Co může pohánět moderní auto?",
+      "question_pl": "Co może napędzać nowoczesny samochód?",
+      "question_fi": "Mikä voi tehostaa nykyaikaista autoa?",
+      "question_sk": "Čo dokáže poháňať moderné auto?",
+      "question_da": "Hvad kan drive en moderne bil?",
+      "options": [
+        {
+          "id": "electric",
+          "label_en": "Electricity",
+          "label_de": "Strom",
+          "label_it": "Elettricità",
+          "label_fr": "Électricité",
+          "label_es": "Electricidad",
+          "label_hr": "Struja",
+          "label_cs": "Elektřina",
+          "label_pl": "Elektryczność",
+          "label_fi": "Sähkö",
+          "label_sk": "Elektrina",
+          "label_da": "Elektricitet"
+        },
+        {
+          "id": "wind",
+          "label_en": "Wind only",
+          "label_de": "Nur Wind",
+          "label_it": "Solo vento",
+          "label_fr": "Vent uniquement",
+          "label_es": "Solo viento",
+          "label_hr": "Samo vjetar",
+          "label_cs": "Pouze vítr",
+          "label_pl": "Tylko wiatr",
+          "label_fi": "Vain tuuli",
+          "label_sk": "Iba vietor",
+          "label_da": "Kun vind"
+        },
+        {
+          "id": "food",
+          "label_en": "Food",
+          "label_de": "Essen",
+          "label_it": "Cibo",
+          "label_fr": "Nourriture",
+          "label_es": "Alimento",
+          "label_hr": "Hrana",
+          "label_cs": "Jídlo",
+          "label_pl": "Żywność",
+          "label_fi": "Ruokaa",
+          "label_sk": "Jedlo",
+          "label_da": "Mad"
+        }
+      ]
+    }
+  ]
+}

@@ -1091,6 +1091,27 @@
       "title_fi": "Veneitä",
       "title_sk": "Lode",
       "title_da": "Både"
+    },
+    {
+      "id": "car",
+      "category_id": "transport",
+      "symbol_id": "car",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/car/car_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/car/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2471997,
+      "version": 1,
+      "title_en": "Cars",
+      "title_de": "Autos",
+      "title_it": "Automobili",
+      "title_fr": "Voitures",
+      "title_es": "Coches",
+      "title_hr": "Automobili",
+      "title_cs": "Auta",
+      "title_pl": "Samochody",
+      "title_fi": "Autot",
+      "title_sk": "Autá",
+      "title_da": "Biler"
     }
   ]
 }
