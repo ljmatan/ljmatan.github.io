@@ -1,6 +1,27 @@
 {
   "lessons": [
     {
+      "id": "cooking",
+      "category_id": "activities",
+      "symbol_id": "cooking",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/cooking/cooking_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/cooking/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2412246,
+      "version": 1,
+      "title_en": "Cooking",
+      "title_de": "Kochen",
+      "title_it": "Cucina",
+      "title_fr": "Cuisson",
+      "title_es": "Cocinando",
+      "title_hr": "Kuhanje",
+      "title_cs": "Vaření",
+      "title_pl": "Gotowanie",
+      "title_fi": "Ruoanlaitto",
+      "title_sk": "Varenie",
+      "title_da": "Madlavning"
+    },
+    {
       "id": "bear",
       "category_id": "animals",
       "symbol_id": "bear",
