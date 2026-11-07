@@ -1114,6 +1114,27 @@
       "title_da": "Vulkaner"
     },
     {
+      "id": "comet",
+      "category_id": "planets",
+      "symbol_id": "comet",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/comet/comet_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/comet/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2278878,
+      "version": 1,
+      "title_en": "Comets",
+      "title_de": "Kometen",
+      "title_it": "Comete",
+      "title_fr": "Comètes",
+      "title_es": "Cometas",
+      "title_hr": "Kometi",
+      "title_cs": "Komety",
+      "title_pl": "Komety",
+      "title_fi": "Komeetat",
+      "title_sk": "Kométy",
+      "title_da": "Kometer"
+    },
+    {
       "id": "earth",
       "category_id": "planets",
       "symbol_id": "earth",

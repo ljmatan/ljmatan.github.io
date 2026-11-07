@@ -1,0 +1,293 @@
+{
+  "id": "comet",
+  "category_id": "planets",
+  "symbol_id": "comet",
+  "thumbnail": "comet_thumb.webp",
+  "title_en": "Comets",
+  "title_de": "Kometen",
+  "title_it": "Comete",
+  "title_fr": "Comètes",
+  "title_es": "Cometas",
+  "title_hr": "Kometi",
+  "title_cs": "Komety",
+  "title_pl": "Komety",
+  "title_fi": "Komeetat",
+  "title_sk": "Kométy",
+  "title_da": "Kometer",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about comets. A comet is a ball of ice, dust, and rock that travels around the Sun. When it gets close to the Sun, it grows a bright tail.",
+      "script_de": "Heute lernen wir etwas über Kometen. Ein Komet ist eine Kugel aus Eis, Staub und Gestein, die um die Sonne wandert. Wenn es sich der Sonne nähert, bildet es einen hellen Schweif.",
+      "script_it": "Oggi parleremo delle comete. Una cometa è una palla di ghiaccio, polvere e roccia che viaggia attorno al Sole. Quando si avvicina al Sole, gli cresce una coda luminosa.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur les comètes. Une comète est une boule de glace, de poussière et de roche qui tourne autour du Soleil. Lorsqu’elle s’approche du Soleil, une queue brillante lui pousse.",
+      "script_es": "Hoy vamos a aprender sobre los cometas. Un cometa es una bola de hielo, polvo y roca que viaja alrededor del Sol. Cuando se acerca al Sol, le crece una cola brillante.",
+      "script_hr": "Danas ćemo učiti o kometima. Komet je kugla od leda, prašine i kamena koja putuje oko Sunca. Kad se približi Suncu, izraste joj svijetli rep.",
+      "script_cs": "Dnes se budeme učit o kometách. Kometa je koule ledu, prachu a kamene, která obíhá kolem Slunce. Když se přiblíží ke Slunci, naroste mu jasný ocas.",
+      "script_pl": "Dzisiaj będziemy uczyć się o kometach. Kometa to kula lodu, pyłu i skał krążąca wokół Słońca. Gdy zbliży się do Słońca, wypuszcza jasny ogon.",
+      "script_fi": "Tänään opimme komeetoista. Komeetta on jäästä, pölystä ja kivestä koostuva pallo, joka kiertää Auringon. Kun se lähestyy aurinkoa, se kasvattaa kirkkaan häntän.",
+      "script_sk": "Dnes sa budeme učiť o kométach. Kométa je guľa ľadu, prachu a kameňa, ktorá obieha okolo Slnka. Keď sa priblíži k Slnku, narastie mu svetlý chvost.",
+      "script_da": "I dag skal vi lære om kometer. En komet er en kugle af is, støv og sten, der rejser rundt om Solen. Når den kommer tæt på Solen, får den en lys hale.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "tail",
+      "script_en": "The Sun warms a comet and turns its ice into gas. This gas and dust stream away and form a tail that can stretch millions of kilometres. The tail always points away from the Sun.",
+      "script_de": "Die Sonne erwärmt einen Kometen und verwandelt sein Eis in Gas. Dieses Gas und dieser Staub strömen weg und bilden einen Schweif, der sich über Millionen von Kilometern erstrecken kann. Der Schweif zeigt immer von der Sonne weg.",
+      "script_it": "Il Sole riscalda una cometa e trasforma il suo ghiaccio in gas. Questo gas e questa polvere si allontanano e formano una coda che può allungarsi per milioni di chilometri. La coda punta sempre lontano dal Sole.",
+      "script_fr": "Le Soleil réchauffe une comète et transforme sa glace en gaz. Ces gaz et poussières s'écoulent et forment une queue qui peut s'étendre sur des millions de kilomètres. La queue pointe toujours à l'opposé du Soleil.",
+      "script_es": "El Sol calienta un cometa y convierte su hielo en gas. Este gas y polvo se dispersan y forman una cola que puede extenderse millones de kilómetros. La cola siempre apunta en dirección opuesta al Sol.",
+      "script_hr": "Sunce zagrijava komet i pretvara njegov led u plin. Ovaj plin i prašina otječu i tvore rep koji se može protezati milijunima kilometara. Rep je uvijek okrenut od Sunca.",
+      "script_cs": "Slunce ohřívá kometu a mění její led na plyn. Tento plyn a prach proudí pryč a tvoří ohon, který se může táhnout miliony kilometrů. Ocas vždy směřuje od Slunce.",
+      "script_pl": "Słońce ogrzewa kometę i zamienia jej lód w gaz. Gaz i pył odpływają i tworzą ogon, który może rozciągać się na miliony kilometrów. Ogon zawsze skierowany jest w stronę przeciwną do Słońca.",
+      "script_fi": "Aurinko lämmittää komeetta ja muuttaa sen jään kaasuksi. Tämä kaasu ja pöly virtaavat pois ja muodostavat hännän, joka voi venyttää miljoonia kilometrejä. Häntä osoittaa aina poispäin auringosta.",
+      "script_sk": "Slnko ohrieva kométu a mení jej ľad na plyn. Tento plyn a prach prúdia preč a vytvárajú chvost, ktorý sa môže tiahnuť milióny kilometrov. Chvost vždy smeruje od Slnka.",
+      "script_da": "Solen opvarmer en komet og forvandler dens is til gas. Denne gas og støv strømmer væk og danner en hale, der kan strække sig millioner af kilometer. Halen peger altid væk fra Solen.",
+      "images": [
+        "tail.webp",
+        "tail_2.webp",
+        "tail_3.webp"
+      ]
+    },
+    {
+      "id": "orbit",
+      "script_en": "Many comets travel on long oval paths. Some return after a few years, while others take thousands of years. Halley's Comet is famous because it comes back about every seventy-six years.",
+      "script_de": "Viele Kometen bewegen sich auf langen ovalen Bahnen. Manche kehren nach ein paar Jahren zurück, bei anderen dauert es Tausende von Jahren. Der Halleysche Komet ist berühmt, weil er etwa alle 76 Jahre wiederkommt.",
+      "script_it": "Molte comete percorrono lunghi percorsi ovali. Alcuni ritornano dopo pochi anni, mentre altri impiegano migliaia di anni. La cometa di Halley è famosa perché ritorna circa ogni settantasei anni.",
+      "script_fr": "De nombreuses comètes voyagent sur de longues trajectoires ovales. Certains reviennent après quelques années, tandis que d’autres prennent des milliers d’années. La comète de Halley est célèbre car elle revient environ tous les soixante-seize ans.",
+      "script_es": "Muchos cometas siguen largas trayectorias ovaladas. Algunos regresan después de unos años, mientras que otros tardan miles de años. El cometa Halley es famoso porque regresa aproximadamente cada setenta y seis años.",
+      "script_hr": "Mnogi kometi putuju dugim ovalnim stazama. Neki se vraćaju nakon nekoliko godina, dok su drugima potrebne tisuće godina. Halleyjev komet poznat je jer se vraća svakih sedamdeset šest godina.",
+      "script_cs": "Mnoho komet cestuje po dlouhých oválných drahách. Některé se vrátí po několika letech, zatímco jiným to trvá tisíce let. Halleyova kometa je slavná, protože se vrací zhruba každých sedmdesát šest let.",
+      "script_pl": "Wiele komet porusza się po długich owalnych ścieżkach. Niektóre wracają po kilku latach, inne po tysiącach lat. Kometa Halleya jest sławna, ponieważ powraca mniej więcej co siedemdziesiąt sześć lat.",
+      "script_fi": "Monet komeetat kulkevat pitkiä soikeita polkuja. Jotkut palaavat muutaman vuoden kuluttua, kun taas toisilla kestää tuhansia vuosia. Halley's Comet on kuuluisa, koska se tulee takaisin noin 76 vuoden välein.",
+      "script_sk": "Mnoho komét cestuje po dlhých oválnych dráhach. Niektoré sa vrátia po niekoľkých rokoch, iným to trvá tisíce rokov. Halleyova kométa je známa tým, že sa vracia približne každých sedemdesiatšesť rokov.",
+      "script_da": "Mange kometer rejser på lange ovale stier. Nogle vender tilbage efter et par år, mens andre tager tusinder af år. Halley's Comet er berømt, fordi den kommer tilbage omkring hvert seksoghalvfjerds år.",
+      "images": [
+        "orbit.webp",
+        "orbit_2.webp",
+        "orbit_3.webp"
+      ]
+    },
+    {
+      "id": "history",
+      "script_en": "People have watched comets for thousands of years. Long ago, some thought they were signs of change or danger. Today we know they are natural objects left over from the early solar system.",
+      "script_de": "Seit Tausenden von Jahren beobachten Menschen Kometen. Vor langer Zeit dachten manche, sie seien Zeichen von Veränderung oder Gefahr. Heute wissen wir, dass es sich um natürliche Objekte handelt, die aus dem frühen Sonnensystem übrig geblieben sind.",
+      "script_it": "Le persone osservano le comete da migliaia di anni. Molto tempo fa, alcuni pensavano che fossero segni di cambiamento o di pericolo. Oggi sappiamo che sono oggetti naturali rimasti dal sistema solare primordiale.",
+      "script_fr": "Les gens observent les comètes depuis des milliers d’années. Autrefois, certains pensaient qu’il s’agissait d’un signe de changement ou de danger. Aujourd’hui, nous savons qu’il s’agit d’objets naturels hérités du premier système solaire.",
+      "script_es": "La gente ha observado los cometas durante miles de años. Hace mucho tiempo, algunos pensaban que eran señales de cambio o peligro. Hoy sabemos que son objetos naturales que quedaron del sistema solar primitivo.",
+      "script_hr": "Ljudi su promatrali komete tisućama godina. Prije mnogo vremena, neki su mislili da su to znakovi promjene ili opasnosti. Danas znamo da su to prirodni objekti zaostali iz ranog Sunčevog sustava.",
+      "script_cs": "Lidé sledovali komety tisíce let. Kdysi dávno si někteří mysleli, že jsou znamením změny nebo nebezpečí. Dnes víme, že jde o přírodní objekty, které zbyly z rané sluneční soustavy.",
+      "script_pl": "Ludzie obserwują komety od tysięcy lat. Dawno temu niektórzy uważali, że są to oznaki zmian lub niebezpieczeństwa. Dziś wiemy, że są to naturalne obiekty pozostałe po wczesnym Układzie Słonecznym.",
+      "script_fi": "Ihmiset ovat katsoneet komeettoja tuhansia vuosia. Kauan sitten jotkut ajattelivat, että ne olivat merkkejä muutoksesta tai vaarasta. Nykyään tiedämme, että ne ovat luonnollisia esineitä, jotka ovat jääneet jäljelle varhaisesta aurinkokunnasta.",
+      "script_sk": "Ľudia sledovali kométy tisíce rokov. Už dávno si niektorí mysleli, že sú znakmi zmeny alebo nebezpečenstva. Dnes vieme, že sú to prírodné objekty, ktoré zostali z ranej slnečnej sústavy.",
+      "script_da": "Folk har set kometer i tusinder af år. For længe siden troede nogle, at de var tegn på forandring eller fare. I dag ved vi, at de er naturlige genstande tilbage fra det tidlige solsystem.",
+      "images": [
+        "history.webp",
+        "history_2.webp",
+        "history_3.webp"
+      ]
+    },
+    {
+      "id": "explore",
+      "script_en": "Spacecraft have flown close to comets and even landed on one. They found dark ice and dust, not fire. Studying comets helps us understand how the solar system formed.",
+      "script_de": "Raumschiffe sind in die Nähe von Kometen geflogen und sogar auf einem gelandet. Sie fanden dunkles Eis und Staub, kein Feuer. Die Untersuchung von Kometen hilft uns zu verstehen, wie das Sonnensystem entstanden ist.",
+      "script_it": "I veicoli spaziali hanno volato vicino alle comete e sono addirittura atterrati su una di esse. Hanno trovato ghiaccio scuro e polvere, non fuoco. Lo studio delle comete ci aiuta a capire come si è formato il sistema solare.",
+      "script_fr": "Des vaisseaux spatiaux ont volé près de comètes et ont même atterri sur l'une d'entre elles. Ils ont trouvé de la glace noire et de la poussière, pas du feu. L'étude des comètes nous aide à comprendre comment le système solaire s'est formé.",
+      "script_es": "Las naves espaciales han volado cerca de cometas e incluso han aterrizado en uno de ellos. Encontraron hielo oscuro y polvo, no fuego. El estudio de los cometas nos ayuda a comprender cómo se formó el sistema solar.",
+      "script_hr": "Svemirske letjelice letjele su blizu kometa i čak su sletjele na jedan. Pronašli su tamni led i prašinu, a ne vatru. Proučavanje kometa pomaže nam razumjeti kako je nastao Sunčev sustav.",
+      "script_cs": "Kosmické lodě proletěly blízko komet a na jedné dokonce přistály. Našli tmavý led a prach, ne oheň. Studium komet nám pomáhá pochopit, jak vznikla sluneční soustava.",
+      "script_pl": "Sondy kosmiczne przeleciały blisko komet, a nawet wylądowały na jednej. Znaleźli ciemny lód i pył, a nie ogień. Badanie komet pomaga nam zrozumieć, jak powstał Układ Słoneczny.",
+      "script_fi": "Avaruusalukset ovat lentäneet lähellä komeettoja ja jopa laskeutuneet yhden päälle. He löysivät tummaa jäätä ja pölyä, eivät tulta. Komeettojen tutkiminen auttaa meitä ymmärtämään, miten aurinkokunta muodostui.",
+      "script_sk": "Kozmické lode preleteli blízko komét a dokonca na jednej pristáli. Našli tmavý ľad a prach, nie oheň. Štúdium komét nám pomáha pochopiť, ako vznikla slnečná sústava.",
+      "script_da": "Rumfartøjer er fløjet tæt på kometer og endda landet på en. De fandt mørk is og støv, ikke ild. At studere kometer hjælper os med at forstå, hvordan solsystemet blev dannet.",
+      "images": [
+        "explore.webp",
+        "explore_2.webp",
+        "explore_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "what",
+      "correct": "ice",
+      "question_en": "What is a comet made of?",
+      "question_de": "Woraus besteht ein Komet?",
+      "question_it": "Di cosa è fatta una cometa?",
+      "question_fr": "De quoi est faite une comète ?",
+      "question_es": "¿De qué está hecho un cometa?",
+      "question_hr": "Od čega se sastoji komet?",
+      "question_cs": "Z čeho se skládá kometa?",
+      "question_pl": "Z czego zbudowana jest kometa?",
+      "question_fi": "Mistä komeetta on tehty?",
+      "question_sk": "Z čoho je vyrobená kométa?",
+      "question_da": "Hvad er en komet lavet af?",
+      "options": [
+        {
+          "id": "ice",
+          "label_en": "Ice, dust and rock",
+          "label_de": "Eis, Staub und Fels",
+          "label_it": "Ghiaccio, polvere e roccia",
+          "label_fr": "Glace, poussière et roche",
+          "label_es": "Hielo, polvo y roca",
+          "label_hr": "Led, prašina i kamen",
+          "label_cs": "Led, prach a kámen",
+          "label_pl": "Lód, pył i skały",
+          "label_fi": "Jää, pöly ja kivi",
+          "label_sk": "Ľad, prach a skala",
+          "label_da": "Is, støv og sten"
+        },
+        {
+          "id": "fire",
+          "label_en": "Fire only",
+          "label_de": "Nur Feuer",
+          "label_it": "Solo fuoco",
+          "label_fr": "Feu seulement",
+          "label_es": "Sólo fuego",
+          "label_hr": "Samo vatra",
+          "label_cs": "Pouze oheň",
+          "label_pl": "Tylko ogień",
+          "label_fi": "Vain tulipalo",
+          "label_sk": "Iba oheň",
+          "label_da": "Kun ild"
+        },
+        {
+          "id": "metal",
+          "label_en": "Solid metal",
+          "label_de": "Massives Metall",
+          "label_it": "Metallo solido",
+          "label_fr": "Métal solide",
+          "label_es": "Metal sólido",
+          "label_hr": "Čvrsti metal",
+          "label_cs": "Pevný kov",
+          "label_pl": "Solidny metal",
+          "label_fi": "Kiinteä metalli",
+          "label_sk": "Pevný kov",
+          "label_da": "Solidt metal"
+        }
+      ]
+    },
+    {
+      "id": "tail",
+      "correct": "close",
+      "question_en": "When does a comet grow a tail?",
+      "question_de": "Wann wächst einem Kometen ein Schweif?",
+      "question_it": "Quando cresce la coda a una cometa?",
+      "question_fr": "Quand une comète a-t-elle une queue ?",
+      "question_es": "¿Cuándo le crece cola a un cometa?",
+      "question_hr": "Kada kometu izraste rep?",
+      "question_cs": "Kdy naroste kometě ohon?",
+      "question_pl": "Kiedy komecie wyrasta ogon?",
+      "question_fi": "Milloin komeetalle kasvaa häntä?",
+      "question_sk": "Kedy narastie kométe chvost?",
+      "question_da": "Hvornår får en komet en hale?",
+      "options": [
+        {
+          "id": "close",
+          "label_en": "When it comes close to the Sun",
+          "label_de": "Wenn es der Sonne nahe kommt",
+          "label_it": "Quando si avvicina al Sole",
+          "label_fr": "Quand il s'approche du Soleil",
+          "label_es": "Cuando se acerca al Sol",
+          "label_hr": "Kada se približi Suncu",
+          "label_cs": "Když se přiblíží ke Slunci",
+          "label_pl": "Kiedy zbliży się do Słońca",
+          "label_fi": "Kun se tulee lähelle aurinkoa",
+          "label_sk": "Keď sa priblíži k Slnku",
+          "label_da": "Når den kommer tæt på Solen"
+        },
+        {
+          "id": "night",
+          "label_en": "Only at night on Earth",
+          "label_de": "Nur nachts auf der Erde",
+          "label_it": "Solo di notte sulla Terra",
+          "label_fr": "Seulement la nuit sur Terre",
+          "label_es": "Sólo de noche en la Tierra",
+          "label_hr": "Samo noću na Zemlji",
+          "label_cs": "Pouze v noci na Zemi",
+          "label_pl": "Tylko nocą na Ziemi",
+          "label_fi": "Vain yöllä maan päällä",
+          "label_sk": "Na Zemi iba v noci",
+          "label_da": "Kun om natten på Jorden"
+        },
+        {
+          "id": "moon",
+          "label_en": "When the Moon shines",
+          "label_de": "Wenn der Mond scheint",
+          "label_it": "Quando la Luna splende",
+          "label_fr": "Quand la Lune brille",
+          "label_es": "Cuando la luna brilla",
+          "label_hr": "Kad Mjesec sja",
+          "label_cs": "Když svítí Měsíc",
+          "label_pl": "Kiedy księżyc świeci",
+          "label_fi": "Kun Kuu paistaa",
+          "label_sk": "Keď Mesiac svieti",
+          "label_da": "Når månen skinner"
+        }
+      ]
+    },
+    {
+      "id": "halley",
+      "correct": "halley",
+      "question_en": "Which famous comet returns about every 76 years?",
+      "question_de": "Welcher berühmte Komet kehrt etwa alle 76 Jahre zurück?",
+      "question_it": "Quale famosa cometa ritorna circa ogni 76 anni?",
+      "question_fr": "Quelle comète célèbre revient environ tous les 76 ans ?",
+      "question_es": "¿Qué cometa famoso regresa aproximadamente cada 76 años?",
+      "question_hr": "Koji se poznati komet vraća otprilike svakih 76 godina?",
+      "question_cs": "Která slavná kometa se vrací přibližně každých 76 let?",
+      "question_pl": "Która słynna kometa powraca mniej więcej co 76 lat?",
+      "question_fi": "Mikä kuuluisa komeetta palaa noin 76 vuoden välein?",
+      "question_sk": "Ktorá slávna kométa sa vracia približne každých 76 rokov?",
+      "question_da": "Hvilken berømt komet vender tilbage hvert 76. år?",
+      "options": [
+        {
+          "id": "halley",
+          "label_en": "Halley's Comet",
+          "label_de": "Halleyscher Komet",
+          "label_it": "La cometa di Halley",
+          "label_fr": "La comète de Halley",
+          "label_es": "El cometa Halley",
+          "label_hr": "Halleyev komet",
+          "label_cs": "Halleyova kometa",
+          "label_pl": "Kometa Halleya",
+          "label_fi": "Halley's Comet",
+          "label_sk": "Halleyho kométa",
+          "label_da": "Halleys komet"
+        },
+        {
+          "id": "earth",
+          "label_en": "Comet Earth",
+          "label_de": "Komet Erde",
+          "label_it": "Cometa Terra",
+          "label_fr": "Comète Terre",
+          "label_es": "cometa tierra",
+          "label_hr": "Komet Zemlja",
+          "label_cs": "Kometa Země",
+          "label_pl": "Kometa Ziemia",
+          "label_fi": "Maa komeetta",
+          "label_sk": "Kométa Zem",
+          "label_da": "Komet Jorden"
+        },
+        {
+          "id": "sun",
+          "label_en": "Comet Sun",
+          "label_de": "Komet Sonne",
+          "label_it": "Sole cometa",
+          "label_fr": "Comète Soleil",
+          "label_es": "cometa sol",
+          "label_hr": "Komet Sunce",
+          "label_cs": "Kometa Slunce",
+          "label_pl": "Kometa Słońce",
+          "label_fi": "Komeetta Sun",
+          "label_sk": "Kométa Slnko",
+          "label_da": "Komet Sol"
+        }
+      ]
+    }
+  ]
+}
