@@ -1,0 +1,293 @@
+{
+  "id": "school",
+  "category_id": "school",
+  "symbol_id": "school",
+  "thumbnail": "school_thumb.webp",
+  "title_en": "School",
+  "title_de": "Schule",
+  "title_it": "Scuola",
+  "title_fr": "École",
+  "title_es": "Escuela",
+  "title_hr": "Škola",
+  "title_cs": "Škola",
+  "title_pl": "Szkoła",
+  "title_fi": "Koulu",
+  "title_sk": "Škola",
+  "title_da": "Skole",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about school. School is a place where children and adults go to learn new things. They read, write, solve problems, make friends, and discover the world.",
+      "script_de": "Heute lernen wir etwas über die Schule. Die Schule ist ein Ort, an den Kinder und Erwachsene gehen, um Neues zu lernen. Sie lesen, schreiben, lösen Probleme, schließen Freundschaften und entdecken die Welt.",
+      "script_it": "Oggi parleremo della scuola. La scuola è un luogo dove bambini e adulti vanno per imparare cose nuove. Leggono, scrivono, risolvono problemi, fanno amicizia e scoprono il mondo.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur l'école. School is a place where children and adults go to learn new things. They read, write, solve problems, make friends, and discover the world.",
+      "script_es": "Hoy vamos a aprender sobre la escuela. La escuela es un lugar donde niños y adultos van a aprender cosas nuevas. Leen, escriben, resuelven problemas, hacen amigos y descubren el mundo.",
+      "script_hr": "Danas ćemo učiti o školi. Škola je mjesto gdje djeca i odrasli odlaze učiti nove stvari. Čitaju, pišu, rješavaju probleme, sklapaju prijateljstva i otkrivaju svijet.",
+      "script_cs": "Dnes se budeme učit o škole. Škola je místem, kam se děti i dospělí chodí učit nové věci. Čtou, píší, řeší problémy, navazují přátele a objevují svět.",
+      "script_pl": "Dzisiaj będziemy uczyć się o szkole. Szkoła to miejsce, do którego dzieci i dorośli chodzą, aby uczyć się nowych rzeczy. Czytają, piszą, rozwiązują problemy, nawiązują przyjaźnie i odkrywają świat.",
+      "script_fi": "Tänään opimme koulusta. Koulu on paikka, jossa lapset ja aikuiset menevät oppimaan uutta. He lukevat, kirjoittavat, ratkaisevat ongelmia, ystävystyvät ja löytävät maailmaa.",
+      "script_sk": "Dnes sa budeme učiť o škole. Škola je miesto, kam chodia deti aj dospelí učiť sa nové veci. Čítajú, píšu, riešia problémy, získavajú priateľov a objavujú svet.",
+      "script_da": "I dag skal vi lære om skolen. Skolen er et sted, hvor børn og voksne går for at lære nyt. De læser, skriver, løser problemer, får venner og opdager verden.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "people",
+      "script_en": "Many people work together at school. Teachers plan lessons and help students learn. Students listen, ask questions, and practise new skills. Cleaners, cooks, and helpers keep the school safe and welcoming.",
+      "script_de": "In der Schule arbeiten viele Menschen zusammen. Lehrer planen den Unterricht und helfen den Schülern beim Lernen. Die Schüler hören zu, stellen Fragen und üben neue Fähigkeiten. Reinigungskräfte, Köche und Helfer sorgen dafür, dass die Schule sicher und einladend ist.",
+      "script_it": "Molte persone lavorano insieme a scuola. Gli insegnanti pianificano le lezioni e aiutano gli studenti ad apprendere. Gli studenti ascoltano, fanno domande e mettono in pratica nuove abilità. Addetti alle pulizie, cuochi e aiutanti mantengono la scuola sicura e accogliente.",
+      "script_fr": "Beaucoup de gens travaillent ensemble à l’école. Les enseignants planifient les cours et aident les élèves à apprendre. Les élèves écoutent, posent des questions et mettent en pratique de nouvelles compétences. Les nettoyeurs, les cuisiniers et les aides assurent la sécurité et l'accueil de l'école.",
+      "script_es": "Mucha gente trabaja junta en la escuela. Los profesores planifican lecciones y ayudan a los estudiantes a aprender. Los estudiantes escuchan, hacen preguntas y practican nuevas habilidades. Los limpiadores, cocineros y ayudantes mantienen la escuela segura y acogedora.",
+      "script_hr": "Mnogi ljudi rade zajedno u školi. Učitelji planiraju lekcije i pomažu učenicima u učenju. Učenici slušaju, postavljaju pitanja i vježbaju nove vještine. Čistačice, kuhari i pomoćni radnici održavaju školu sigurnom i gostoljubivom.",
+      "script_cs": "Mnoho lidí spolupracuje ve škole. Učitelé plánují hodiny a pomáhají studentům učit se. Studenti naslouchají, ptají se a procvičují si nové dovednosti. Uklízeči, kuchaři a pomocníci udržují školu bezpečnou a přívětivou.",
+      "script_pl": "Wiele osób współpracuje w szkole. Nauczyciele planują lekcje i pomagają uczniom w nauce. Uczniowie słuchają, zadają pytania i ćwiczą nowe umiejętności. Sprzątaczki, kucharze i pomocnicy dbają o bezpieczeństwo i przyjazność szkoły.",
+      "script_fi": "Monet ihmiset työskentelevät yhdessä koulussa. Opettajat suunnittelevat oppitunteja ja auttavat oppilaita oppimaan. Oppilaat kuuntelevat, kysyvät ja harjoittelevat uusia taitoja. Siivoojat, kokit ja apulaiset pitävät koulun turvallisena ja tervetulleena.",
+      "script_sk": "Veľa ľudí spolupracuje v škole. Učitelia plánujú hodiny a pomáhajú študentom učiť sa. Študenti počúvajú, kladú otázky a precvičujú si nové zručnosti. Upratovačky, kuchári a pomocníci udržiavajú školu bezpečnú a príjemnú.",
+      "script_da": "Mange mennesker arbejder sammen i skolen. Lærere planlægger lektioner og hjælper eleverne med at lære. Eleverne lytter, stiller spørgsmål og træner nye færdigheder. Rengøringsassistenter, kokke og hjælpere holder skolen sikker og imødekommende.",
+      "images": [
+        "people.webp",
+        "people_2.webp",
+        "people_3.webp"
+      ]
+    },
+    {
+      "id": "day",
+      "script_en": "A school day has lessons, breaks, lunch, and playtime. Recess gives children a chance to run, talk, and rest between classes. A regular routine helps everyone feel calm and ready to learn.",
+      "script_de": "Ein Schultag besteht aus Unterricht, Pausen, Mittagessen und Spielzeit. Die Pause gibt den Kindern die Möglichkeit, zwischen den Unterrichtsstunden zu rennen, zu reden und sich auszuruhen. Eine regelmäßige Routine trägt dazu bei, dass sich jeder ruhig und lernbereit fühlt.",
+      "script_it": "Una giornata scolastica prevede lezioni, pause, pranzo e momenti di gioco. La ricreazione offre ai bambini la possibilità di correre, parlare e riposarsi tra una lezione e l'altra. Una routine regolare aiuta tutti a sentirsi calmi e pronti a imparare.",
+      "script_fr": "Une journée scolaire comprend des cours, des pauses, des déjeuners et des récréations. La récréation donne aux enfants la possibilité de courir, de parler et de se reposer entre les cours. Une routine régulière aide chacun à se sentir calme et prêt à apprendre.",
+      "script_es": "Un día escolar tiene lecciones, descansos, almuerzo y tiempo de juego. El recreo les da a los niños la oportunidad de correr, hablar y descansar entre clases. Una rutina regular ayuda a que todos se sientan tranquilos y listos para aprender.",
+      "script_hr": "Školski dan ima nastavu, odmore, ručak i vrijeme za igru. Odmor daje djeci priliku za trčanje, razgovor i odmor između razreda. Redovita rutina pomaže svima da se osjećaju smireno i spremno za učenje.",
+      "script_cs": "Školní den má lekce, přestávky, oběd a čas na hraní. Přestávka dává dětem šanci běhat, mluvit a odpočívat mezi třídami. Pravidelný režim pomáhá každému cítit se klidně a připravený se učit.",
+      "script_pl": "Dzień szkolny składa się z lekcji, przerw, lunchu i czasu na zabawę. Przerwy dają dzieciom czas na bieganie, rozmowę i odpoczynek pomiędzy zajęciami. Regularna rutyna pomaga każdemu poczuć się spokojnym i gotowym do nauki.",
+      "script_fi": "Koulupäivässä on oppitunteja, taukoja, lounasta ja leikkiaikaa. Tauko antaa lapsille mahdollisuuden juosta, puhua ja levätä luokkien välillä. Säännöllinen rutiini auttaa kaikkia tuntemaan olonsa rauhalliseksi ja valmiiksi oppimaan.",
+      "script_sk": "Školský deň má vyučovanie, prestávky, obed a čas na hranie. Prestávka dáva deťom príležitosť behať, rozprávať sa a oddychovať medzi triedami. Pravidelná rutina pomáha každému cítiť sa pokojne a pripravená učiť sa.",
+      "script_da": "En skoledag har lektioner, pauser, frokost og legetid. Frikvarteret giver børn mulighed for at løbe, snakke og hvile mellem timerne. En fast rutine hjælper alle med at føle sig rolige og klar til at lære.",
+      "images": [
+        "day.webp",
+        "day_2.webp",
+        "day_3.webp"
+      ]
+    },
+    {
+      "id": "subjects",
+      "script_en": "Schools teach many subjects. Reading and writing help us share ideas. Maths helps us measure and solve problems. Science explains nature, and art and music let us be creative.",
+      "script_de": "Schulen unterrichten viele Fächer. Lesen und Schreiben helfen uns, Ideen auszutauschen. Mathematik hilft uns, Probleme zu messen und zu lösen. Die Wissenschaft erklärt die Natur und Kunst und Musik lassen uns kreativ sein.",
+      "script_it": "Le scuole insegnano molte materie. Leggere e scrivere ci aiuta a condividere idee. La matematica ci aiuta a misurare e risolvere i problemi. La scienza spiega la natura e l’arte e la musica ci permettono di essere creativi.",
+      "script_fr": "Les écoles enseignent de nombreuses matières. La lecture et l’écriture nous aident à partager des idées. Les mathématiques nous aident à mesurer et à résoudre des problèmes. La science explique la nature, et l'art et la musique nous permettent d'être créatifs.",
+      "script_es": "Las escuelas enseñan muchas materias. Leer y escribir nos ayudan a compartir ideas. Las matemáticas nos ayudan a medir y resolver problemas. La ciencia explica la naturaleza y el arte y la música nos permiten ser creativos.",
+      "script_hr": "U školama se podučava mnogo predmeta. Čitanje i pisanje nam pomažu u razmjeni ideja. Matematika nam pomaže mjeriti i rješavati probleme. Znanost objašnjava prirodu, a umjetnost i glazba omogućuju nam da budemo kreativni.",
+      "script_cs": "Ve školách se učí mnoho předmětů. Čtení a psaní nám pomáhá sdílet nápady. Matematika nám pomáhá měřit a řešit problémy. Věda vysvětluje přírodu a umění a hudba nám umožňují být kreativní.",
+      "script_pl": "Szkoły uczą wielu przedmiotów. Czytanie i pisanie pomagają nam dzielić się pomysłami. Matematyka pomaga nam mierzyć i rozwiązywać problemy. Nauka wyjaśnia naturę, a sztuka i muzyka pozwalają wykazać się kreatywnością.",
+      "script_fi": "Kouluissa opetetaan monia aineita. Lukeminen ja kirjoittaminen auttavat meitä jakamaan ajatuksia. Matematiikka auttaa meitä mittaamaan ja ratkaisemaan ongelmia. Tiede selittää luontoa, ja taide ja musiikki antavat meidän olla luovia.",
+      "script_sk": "V školách sa učia mnohé predmety. Čítanie a písanie nám pomáha zdieľať nápady. Matematika nám pomáha merať a riešiť problémy. Veda vysvetľuje prírodu a umenie a hudba nám umožňujú byť kreatívnymi.",
+      "script_da": "Skolerne underviser i mange fag. At læse og skrive hjælper os med at dele ideer. Matematik hjælper os med at måle og løse problemer. Videnskab forklarer naturen, og kunst og musik lader os være kreative.",
+      "images": [
+        "subjects.webp",
+        "subjects_2.webp",
+        "subjects_3.webp"
+      ]
+    },
+    {
+      "id": "today",
+      "script_en": "Today children learn in classrooms, at home, and online. Some schools are small, and some are very large. Wherever learning happens, curiosity and kindness make it better.",
+      "script_de": "Heutzutage lernen Kinder im Klassenzimmer, zu Hause und online. Manche Schulen sind klein, andere sehr groß. Wo immer gelernt wird, machen Neugier und Freundlichkeit es besser.",
+      "script_it": "Oggi i bambini imparano in classe, a casa e online. Alcune scuole sono piccole, altre molto grandi. Ovunque avvenga l’apprendimento, la curiosità e la gentilezza lo rendono migliore.",
+      "script_fr": "Aujourd’hui, les enfants apprennent en classe, à la maison et en ligne. Certaines écoles sont petites et d’autres très grandes. Partout où l’apprentissage a lieu, la curiosité et la gentillesse le rendent meilleur.",
+      "script_es": "Hoy los niños aprenden en las aulas, en casa y en línea. Algunas escuelas son pequeñas y otras son muy grandes. Dondequiera que se aprende, la curiosidad y la amabilidad lo hacen mejor.",
+      "script_hr": "Danas djeca uče u učionicama, kod kuće i na internetu. Neke su škole male, a neke jako velike. Gdje god se uči, radoznalost i ljubaznost ga čine boljim.",
+      "script_cs": "Dnes se děti učí ve třídách, doma a online. Některé školy jsou malé a některé velmi velké. Všude, kde se učení děje, je zvídavost a laskavost lepší.",
+      "script_pl": "Obecnie dzieci uczą się w klasach, w domu i w Internecie. Niektóre szkoły są małe, inne bardzo duże. Gdziekolwiek odbywa się nauka, ciekawość i życzliwość czynią ją lepszą.",
+      "script_fi": "Today children learn in classrooms, at home, and online. Jotkut koulut ovat pieniä ja jotkut erittäin suuria. Wherever learning happens, curiosity and kindness make it better.",
+      "script_sk": "Dnes sa deti učia v triedach, doma a online. Niektoré školy sú malé a niektoré veľmi veľké. Kdekoľvek sa učenie deje, zvedavosť a láskavosť ho zlepšujú.",
+      "script_da": "I dag lærer børn i klasseværelser, derhjemme og online. Nogle skoler er små, og nogle er meget store. Hvor end læring sker, gør nysgerrighed og venlighed det bedre.",
+      "images": [
+        "today.webp",
+        "today_2.webp",
+        "today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "teacher",
+      "correct": "teacher",
+      "question_en": "Who plans lessons and helps students learn?",
+      "question_de": "Wer plant den Unterricht und hilft den Schülern beim Lernen?",
+      "question_it": "Chi pianifica le lezioni e aiuta gli studenti ad apprendere?",
+      "question_fr": "Qui planifie les cours et aide les élèves à apprendre ?",
+      "question_es": "¿Quién planifica las lecciones y ayuda a los estudiantes a aprender?",
+      "question_hr": "Tko planira nastavu i pomaže učenicima u učenju?",
+      "question_cs": "Kdo plánuje hodiny a pomáhá studentům učit se?",
+      "question_pl": "Kto planuje lekcje i pomaga uczniom w nauce?",
+      "question_fi": "Kuka suunnittelee oppitunteja ja auttaa oppilaita oppimaan?",
+      "question_sk": "Kto plánuje hodiny a pomáha študentom učiť sa?",
+      "question_da": "Hvem planlægger lektioner og hjælper eleverne med at lære?",
+      "options": [
+        {
+          "id": "teacher",
+          "label_en": "A teacher",
+          "label_de": "Ein Lehrer",
+          "label_it": "Un insegnante",
+          "label_fr": "Un professeur",
+          "label_es": "un maestro",
+          "label_hr": "Učiteljica",
+          "label_cs": "Učitel",
+          "label_pl": "Nauczyciel",
+          "label_fi": "Opettaja",
+          "label_sk": "Učiteľ",
+          "label_da": "En lærer"
+        },
+        {
+          "id": "driver",
+          "label_en": "A bus driver",
+          "label_de": "Ein Busfahrer",
+          "label_it": "Un autista di autobus",
+          "label_fr": "Un chauffeur de bus",
+          "label_es": "un conductor de autobús",
+          "label_hr": "Vozač autobusa",
+          "label_cs": "Řidič autobusu",
+          "label_pl": "Kierowca autobusu",
+          "label_fi": "Linja-auton kuljettaja",
+          "label_sk": "Vodič autobusu",
+          "label_da": "En buschauffør"
+        },
+        {
+          "id": "pilot",
+          "label_en": "A pilot",
+          "label_de": "Ein Pilot",
+          "label_it": "Un pilota",
+          "label_fr": "Un pilote",
+          "label_es": "un piloto",
+          "label_hr": "pilot",
+          "label_cs": "Pilot",
+          "label_pl": "Pilot",
+          "label_fi": "Lentäjä",
+          "label_sk": "Pilot",
+          "label_da": "En pilot"
+        }
+      ]
+    },
+    {
+      "id": "recess",
+      "correct": "recess",
+      "question_en": "What is the school break for play called?",
+      "question_de": "Wie heißt die Spielpause in der Schule?",
+      "question_it": "Come si chiamano le vacanze scolastiche per giocare?",
+      "question_fr": "Comment s’appelle la récréation scolaire pour jouer ?",
+      "question_es": "¿Cómo se llama el receso escolar para jugar?",
+      "question_hr": "Kako se zove školski odmor za igru?",
+      "question_cs": "Jak se nazývá školní přestávka na hraní?",
+      "question_pl": "Jak nazywa się przerwa szkolna na zabawę?",
+      "question_fi": "Mikä on leikin koulun tauon nimi?",
+      "question_sk": "Ako sa nazýva školská prestávka na hru?",
+      "question_da": "Hvad hedder skoleferien til leg?",
+      "options": [
+        {
+          "id": "recess",
+          "label_en": "Recess",
+          "label_de": "Aussparung",
+          "label_it": "Recesso",
+          "label_fr": "Récréation",
+          "label_es": "Recreo",
+          "label_hr": "Udubljenje",
+          "label_cs": "Přestávka",
+          "label_pl": "Wgłębienie",
+          "label_fi": "Syvennys",
+          "label_sk": "Prehĺbenie",
+          "label_da": "Fordybning"
+        },
+        {
+          "id": "homework",
+          "label_en": "Homework",
+          "label_de": "Hausaufgaben",
+          "label_it": "Compiti a casa",
+          "label_fr": "Devoirs",
+          "label_es": "Tarea",
+          "label_hr": "domaća zadaća",
+          "label_cs": "Domácí úkol",
+          "label_pl": "Praca domowa",
+          "label_fi": "Kotitehtävä",
+          "label_sk": "Domáce úlohy",
+          "label_da": "Lektier"
+        },
+        {
+          "id": "assembly",
+          "label_en": "Assembly",
+          "label_de": "Montage",
+          "label_it": "Assemblea",
+          "label_fr": "Assemblée",
+          "label_es": "Asamblea",
+          "label_hr": "Skupština",
+          "label_cs": "Shromáždění",
+          "label_pl": "Montaż",
+          "label_fi": "Kokoonpano",
+          "label_sk": "Montáž",
+          "label_da": "Forsamling"
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "correct": "learn",
+      "question_en": "What is school mainly for?",
+      "question_de": "Wozu dient die Schule hauptsächlich?",
+      "question_it": "A cosa serve principalmente la scuola?",
+      "question_fr": "A quoi sert principalement l’école ?",
+      "question_es": "¿Para qué sirve principalmente la escuela?",
+      "question_hr": "Čemu uglavnom služi škola?",
+      "question_cs": "K čemu je škola především?",
+      "question_pl": "Do czego głównie służy szkoła?",
+      "question_fi": "Mitä varten koulu pääasiassa on?",
+      "question_sk": "Na čo je škola hlavne?",
+      "question_da": "Hvad er skolen primært til?",
+      "options": [
+        {
+          "id": "learn",
+          "label_en": "Learning",
+          "label_de": "Lernen",
+          "label_it": "Apprendimento",
+          "label_fr": "Apprentissage",
+          "label_es": "Aprendiendo",
+          "label_hr": "Učenje",
+          "label_cs": "Učení",
+          "label_pl": "Nauka",
+          "label_fi": "Oppiminen",
+          "label_sk": "Učenie",
+          "label_da": "Læring"
+        },
+        {
+          "id": "sleeping",
+          "label_en": "Sleeping",
+          "label_de": "Schlafen",
+          "label_it": "Dormire",
+          "label_fr": "Dormir",
+          "label_es": "Durmiendo",
+          "label_hr": "Spavanje",
+          "label_cs": "Spací",
+          "label_pl": "Spanie",
+          "label_fi": "Nukkuminen",
+          "label_sk": "Spanie",
+          "label_da": "Sovende"
+        },
+        {
+          "id": "shopping",
+          "label_en": "Shopping",
+          "label_de": "Einkaufen",
+          "label_it": "Shopping",
+          "label_fr": "Achats",
+          "label_es": "Compras",
+          "label_hr": "Kupovina",
+          "label_cs": "Nakupování",
+          "label_pl": "Zakupy",
+          "label_fi": "Ostokset",
+          "label_sk": "Nakupovanie",
+          "label_da": "Shopping"
+        }
+      ]
+    }
+  ]
+}

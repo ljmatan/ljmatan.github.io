@@ -1177,6 +1177,27 @@
       "title_da": "Blyanter"
     },
     {
+      "id": "school",
+      "category_id": "school",
+      "symbol_id": "school",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/school/school_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/school/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2665643,
+      "version": 1,
+      "title_en": "School",
+      "title_de": "Schule",
+      "title_it": "Scuola",
+      "title_fr": "École",
+      "title_es": "Escuela",
+      "title_hr": "Škola",
+      "title_cs": "Škola",
+      "title_pl": "Szkoła",
+      "title_fi": "Koulu",
+      "title_sk": "Škola",
+      "title_da": "Skole"
+    },
+    {
       "id": "airplane",
       "category_id": "transport",
       "symbol_id": "airplane",
