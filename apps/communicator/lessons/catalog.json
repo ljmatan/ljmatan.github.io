@@ -1114,6 +1114,27 @@
       "title_da": "Ure"
     },
     {
+      "id": "lamp",
+      "category_id": "household",
+      "symbol_id": "lamp",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/lamp/lamp_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/lamp/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2050008,
+      "version": 1,
+      "title_en": "Lamps",
+      "title_de": "Lampen",
+      "title_it": "Lampade",
+      "title_fr": "Lampes",
+      "title_es": "Lámparas",
+      "title_hr": "Svjetiljke",
+      "title_cs": "Lampy",
+      "title_pl": "Lampy",
+      "title_fi": "Lamput",
+      "title_sk": "Lampy",
+      "title_da": "Lamper"
+    },
+    {
       "id": "table",
       "category_id": "household",
       "symbol_id": "table",
