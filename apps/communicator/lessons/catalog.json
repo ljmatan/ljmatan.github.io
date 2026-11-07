@@ -1135,6 +1135,27 @@
       "title_da": "Lamper"
     },
     {
+      "id": "mirror",
+      "category_id": "household",
+      "symbol_id": "mirror",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/mirror/mirror_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/mirror/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2100955,
+      "version": 1,
+      "title_en": "Mirrors",
+      "title_de": "Spiegel",
+      "title_it": "Specchi",
+      "title_fr": "Miroirs",
+      "title_es": "Espejos",
+      "title_hr": "Ogledala",
+      "title_cs": "Zrcadla",
+      "title_pl": "Lustra",
+      "title_fi": "Peilit",
+      "title_sk": "Zrkadlá",
+      "title_da": "Spejle"
+    },
+    {
       "id": "table",
       "category_id": "household",
       "symbol_id": "table",

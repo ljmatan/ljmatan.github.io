@@ -1,0 +1,293 @@
+{
+  "id": "mirror",
+  "category_id": "household",
+  "symbol_id": "mirror",
+  "thumbnail": "mirror_thumb.webp",
+  "title_en": "Mirrors",
+  "title_de": "Spiegel",
+  "title_it": "Specchi",
+  "title_fr": "Miroirs",
+  "title_es": "Espejos",
+  "title_hr": "Ogledala",
+  "title_cs": "Zrcadla",
+  "title_pl": "Lustra",
+  "title_fi": "Peilit",
+  "title_sk": "Zrkadlá",
+  "title_da": "Spejle",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about mirrors. A mirror is a smooth piece of glass that reflects light. It shows us what we look like and makes rooms feel brighter.",
+      "script_de": "Heute lernen wir etwas über Spiegel. Ein Spiegel ist ein glattes Stück Glas, das Licht reflektiert. Es zeigt uns, wie wir aussehen und lässt Räume heller wirken.",
+      "script_it": "Oggi parleremo degli specchi. Uno specchio è un pezzo di vetro liscio che riflette la luce. Ci mostra il nostro aspetto e fa sembrare le stanze più luminose.",
+      "script_fr": "Aujourd'hui, nous allons découvrir les miroirs. Un miroir est un morceau de verre lisse qui reflète la lumière. Cela nous montre à quoi nous ressemblons et rend les pièces plus lumineuses.",
+      "script_es": "Hoy vamos a aprender sobre los espejos. Un espejo es una pieza lisa de vidrio que refleja la luz. Nos muestra cómo somos y hace que las habitaciones parezcan más luminosas.",
+      "script_hr": "Danas ćemo učiti o ogledalima. Ogledalo je glatki komad stakla koji reflektira svjetlost. Pokazuje nam kako izgledamo i čini sobe svjetlijima.",
+      "script_cs": "Dnes se budeme učit o zrcadlech. Zrcadlo je hladký kus skla, který odráží světlo. Ukazuje nám, jak vypadáme, a dodává místnosti pocit světla.",
+      "script_pl": "Dzisiaj będziemy uczyć się o lustrach. Lustro to gładki kawałek szkła odbijający światło. Pokazuje nam, jak wyglądamy i sprawia, że ​​pomieszczenia wydają się jaśniejsze.",
+      "script_fi": "Tänään opimme peileistä. Peili on sileä lasinpala, joka heijastaa valoa. Se näyttää meille, miltä näytämme ja saa huoneet tuntumaan valoisammilta.",
+      "script_sk": "Dnes sa budeme učiť o zrkadlách. Zrkadlo je hladký kus skla, ktorý odráža svetlo. Ukazuje nám, ako vyzeráme, a robí izby svetlejšie.",
+      "script_da": "I dag skal vi lære om spejle. Et spejl er et glat stykke glas, der reflekterer lys. Det viser os, hvordan vi ser ud, og får værelser til at føles lysere.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "how",
+      "script_en": "A mirror has a thin layer of metal behind the glass. Light bounces off this layer and back to our eyes. That is why we see a reflection instead of the wall behind the mirror.",
+      "script_de": "Ein Spiegel hat eine dünne Metallschicht hinter dem Glas. Von dieser Schicht wird Licht zurück zu unseren Augen reflektiert. Deshalb sehen wir hinter dem Spiegel ein Spiegelbild statt der Wand.",
+      "script_it": "Uno specchio ha un sottile strato di metallo dietro il vetro. La luce rimbalza su questo strato e torna ai nostri occhi. Ecco perché vediamo un riflesso invece del muro dietro lo specchio.",
+      "script_fr": "Un miroir a une fine couche de métal derrière le verre. La lumière rebondit sur cette couche et revient vers nos yeux. C'est pourquoi nous voyons un reflet au lieu du mur derrière le miroir.",
+      "script_es": "Un espejo tiene una fina capa de metal detrás del cristal. La luz rebota en esta capa y regresa a nuestros ojos. Por eso vemos un reflejo en lugar de la pared detrás del espejo.",
+      "script_hr": "Ogledalo ima tanak sloj metala iza stakla. Svjetlost se odbija od ovog sloja i vraća u naše oči. Zato iza ogledala umjesto zida vidimo odraz.",
+      "script_cs": "Zrcadlo má za sklem tenkou vrstvu kovu. Světlo se odráží od této vrstvy a zpět do našich očí. Proto místo stěny za zrcadlem vidíme odraz.",
+      "script_pl": "Lustro ma cienką warstwę metalu za szkłem. Światło odbija się od tej warstwy i wraca do naszych oczu. Dlatego zamiast ściany za lustrem widzimy odbicie.",
+      "script_fi": "Peilin lasin takana on ohut metallikerros. Valo pomppii tästä kerroksesta ja takaisin silmiimme. Siksi näemme peilin takana olevan seinän sijaan heijastuksen.",
+      "script_sk": "Zrkadlo má za sklom tenkú vrstvu kovu. Svetlo sa odráža od tejto vrstvy a vracia sa späť do našich očí. Preto namiesto steny za zrkadlom vidíme odraz.",
+      "script_da": "Et spejl har et tyndt lag metal bag glasset. Lys preller af dette lag og tilbage til vores øjne. Derfor ser vi en refleksion i stedet for væggen bag spejlet.",
+      "images": [
+        "how.webp",
+        "how_2.webp",
+        "how_3.webp"
+      ]
+    },
+    {
+      "id": "uses",
+      "script_en": "We use mirrors to brush our hair, wash our faces, and check our clothes. Drivers use mirrors to see behind their cars. Dentists and doctors use small mirrors to look closely at hard-to-see places.",
+      "script_de": "Wir benutzen Spiegel, um unsere Haare zu bürsten, unsere Gesichter zu waschen und unsere Kleidung zu überprüfen. Autofahrer nutzen Spiegel, um hinter ihr Auto zu sehen. Zahnärzte und Ärzte nutzen kleine Spiegel, um schwer einsehbare Stellen genau zu betrachten.",
+      "script_it": "Usiamo gli specchi per spazzolarci i capelli, lavarci il viso e controllare i nostri vestiti. Gli automobilisti usano gli specchietti per vedere dietro la propria auto. Dentisti e medici usano piccoli specchi per osservare da vicino i luoghi difficili da vedere.",
+      "script_fr": "Nous utilisons des miroirs pour nous brosser les cheveux, nous laver le visage et vérifier nos vêtements. Les conducteurs utilisent des rétroviseurs pour voir derrière leur voiture. Les dentistes et les médecins utilisent de petits miroirs pour observer de près les endroits difficiles à voir.",
+      "script_es": "Usamos espejos para cepillarnos el cabello, lavarnos la cara y revisar nuestra ropa. Los conductores utilizan los espejos para ver detrás de sus coches. Los dentistas y médicos utilizan pequeños espejos para observar de cerca los lugares difíciles de ver.",
+      "script_hr": "Koristimo ogledala za češljanje kose, pranje lica i provjeravanje odjeće. Vozači koriste ogledala da vide iza svojih automobila. Zubari i liječnici koriste mala zrcala kako bi izbliza promatrali teško vidljiva mjesta.",
+      "script_cs": "Používáme zrcadla k kartáčování vlasů, mytí obličeje a kontrole oblečení. Řidiči používají zrcátka, aby viděli za svá auta. Zubaři a lékaři používají malá zrcátka, aby se zblízka podívali na špatně viditelná místa.",
+      "script_pl": "Używamy lusterek do czesania włosów, mycia twarzy i sprawdzania ubrań. Kierowcy korzystają z lusterek, aby widzieć, co dzieje się za ich samochodami. Dentyści i lekarze używają małych lusterek, aby dokładnie przyjrzeć się trudno widocznym miejscom.",
+      "script_fi": "Käytämme peilejä hiusten harjaamiseen, kasvojen pesuun ja vaatteiden tarkistamiseen. Kuljettajat käyttävät peilejä nähdäkseen autonsa taakse. Hammaslääkärit ja lääkärit käyttävät pieniä peilejä tarkastellakseen tarkasti vaikeasti näkyviä paikkoja.",
+      "script_sk": "Zrkadlá používame na čistenie vlasov, umývanie tváre a kontrolu oblečenia. Vodiči používajú zrkadlá, aby videli za svoje auto. Zubní lekári a lekári používajú malé zrkadlá, aby sa zblízka pozreli na ťažko viditeľné miesta.",
+      "script_da": "Vi bruger spejle til at børste vores hår, vaske vores ansigter og tjekke vores tøj. Chauffører bruger spejle til at se bag deres biler. Tandlæger og læger bruger små spejle til at se nøje på steder, der er svære at se.",
+      "images": [
+        "uses.webp",
+        "uses_2.webp",
+        "uses_3.webp"
+      ]
+    },
+    {
+      "id": "nature",
+      "script_en": "Nature has mirrors too. A calm lake can reflect the sky and mountains. You can even make a mirror with still water in a bowl on a sunny day.",
+      "script_de": "Auch die Natur hat Spiegel. Ein ruhiger See kann den Himmel und die Berge widerspiegeln. An einem sonnigen Tag können Sie sogar einen Spiegel mit stillem Wasser in einer Schüssel herstellen.",
+      "script_it": "Anche la natura ha degli specchi. Un lago calmo può riflettere il cielo e le montagne. Puoi anche realizzare uno specchio con acqua naturale in una ciotola in una giornata soleggiata.",
+      "script_fr": "La nature a aussi des miroirs. Un lac calme peut refléter le ciel et les montagnes. Vous pouvez même réaliser un miroir avec de l'eau plate dans un bol par une journée ensoleillée.",
+      "script_es": "La naturaleza también tiene espejos. Un lago en calma puede reflejar el cielo y las montañas. Incluso puedes hacer un espejo con agua sin gas en un recipiente en un día soleado.",
+      "script_hr": "I priroda ima ogledala. Mirno jezero može odražavati nebo i planine. Možete čak napraviti ogledalo s negaziranom vodom u posudi za sunčanog dana.",
+      "script_cs": "Příroda má také zrcadla. Klidné jezero může odrážet oblohu a hory. Můžete si dokonce vyrobit zrcadlo s neperlivou vodou v misce za slunečného dne.",
+      "script_pl": "Natura też ma lustra. Spokojne jezioro może odbijać niebo i góry. W słoneczny dzień możesz nawet zrobić lustro z niegazowanej wody w misce.",
+      "script_fi": "Luonnossakin on peilejä. Rauhallinen järvi voi heijastaa taivasta ja vuoria. Voit jopa tehdä peilin hiilihapotetulla vedellä kulhoon aurinkoisena päivänä.",
+      "script_sk": "Aj príroda má zrkadlá. Pokojné jazero môže odrážať oblohu a hory. Môžete si dokonca vyrobiť zrkadlo s neperlivou vodou v miske za slnečného dňa.",
+      "script_da": "Naturen har også spejle. En rolig sø kan afspejle himlen og bjergene. Du kan endda lave et spejl med stillestående vand i en skål på en solskinsdag.",
+      "images": [
+        "nature.webp",
+        "nature_2.webp",
+        "nature_3.webp"
+      ]
+    },
+    {
+      "id": "safe",
+      "script_en": "Mirrors are made of glass, so they can break. Do not run near a mirror or throw things at it. If a mirror breaks, ask an adult to clean up the pieces safely.",
+      "script_de": "Spiegel bestehen aus Glas und können daher zerbrechen. Laufen Sie nicht in die Nähe eines Spiegels und werfen Sie keine Gegenstände darauf. Wenn ein Spiegel zerbricht, bitten Sie einen Erwachsenen, die Teile sicher zu beseitigen.",
+      "script_it": "Gli specchi sono fatti di vetro, quindi possono rompersi. Non correre vicino a uno specchio e non lanciargli oggetti. Se uno specchio si rompe, chiedi a un adulto di ripulire i pezzi in modo sicuro.",
+      "script_fr": "Les miroirs sont en verre et peuvent donc se briser. Ne courez pas près d’un miroir et ne lui jetez pas d’objets. Si un miroir se brise, demande à un adulte de nettoyer les morceaux en toute sécurité.",
+      "script_es": "Los espejos están hechos de vidrio, por lo que pueden romperse. No corras cerca de un espejo ni le arrojes cosas. Si un espejo se rompe, pídele a un adulto que limpie los pedazos de manera segura.",
+      "script_hr": "Ogledala su napravljena od stakla, pa se mogu razbiti. Ne trčite blizu ogledala i ne bacajte stvari na njega. Ako se ogledalo razbije, zamolite odraslu osobu da sigurno očisti komadiće.",
+      "script_cs": "Zrcadla jsou vyrobena ze skla, takže se mohou rozbít. Neběhejte blízko zrcadla a neházejte na něj věci. Pokud se zrcadlo rozbije, požádejte dospělého, aby kusy bezpečně uklidil.",
+      "script_pl": "Lustra są wykonane ze szkła, więc mogą pęknąć. Nie biegaj w pobliżu lustra i nie rzucaj w nie przedmiotami. Jeśli lustro się stłucze, poproś osobę dorosłą, aby bezpiecznie sprzątnęła kawałki.",
+      "script_fi": "Peilit on valmistettu lasista, joten ne voivat rikkoutua. Älä juokse peilin lähelle tai heitä esineitä sen päälle. Jos peili rikkoutuu, pyydä aikuista puhdistamaan palaset turvallisesti.",
+      "script_sk": "Zrkadlá sú vyrobené zo skla, takže sa môžu rozbiť. Nebehajte pri zrkadle a nehádžte doň veci. Ak sa zrkadlo rozbije, požiadajte dospelú osobu, aby kusy bezpečne upratala.",
+      "script_da": "Spejle er lavet af glas, så de kan gå i stykker. Løb ikke i nærheden af ​​et spejl eller smid ting efter det. Hvis et spejl går i stykker, så bed en voksen om at rydde stykkerne sikkert op.",
+      "images": [
+        "safe.webp",
+        "safe_2.webp",
+        "safe_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "what",
+      "correct": "reflect",
+      "question_en": "What does a mirror do?",
+      "question_de": "Was macht ein Spiegel?",
+      "question_it": "Cosa fa uno specchio?",
+      "question_fr": "A quoi sert un miroir ?",
+      "question_es": "¿Qué hace un espejo?",
+      "question_hr": "Što ogledalo radi?",
+      "question_cs": "Co dělá zrcadlo?",
+      "question_pl": "Co robi lustro?",
+      "question_fi": "Mitä peili tekee?",
+      "question_sk": "Čo robí zrkadlo?",
+      "question_da": "Hvad gør et spejl?",
+      "options": [
+        {
+          "id": "reflect",
+          "label_en": "Reflects light",
+          "label_de": "Reflektiert Licht",
+          "label_it": "Riflette la luce",
+          "label_fr": "Reflète la lumière",
+          "label_es": "Refleja la luz",
+          "label_hr": "Reflektira svjetlost",
+          "label_cs": "Odráží světlo",
+          "label_pl": "Odbija światło",
+          "label_fi": "Heijastaa valoa",
+          "label_sk": "Odráža svetlo",
+          "label_da": "Reflekterer lys"
+        },
+        {
+          "id": "cook",
+          "label_en": "Cooks food",
+          "label_de": "Kocht Essen",
+          "label_it": "Cucina il cibo",
+          "label_fr": "Cuire la nourriture",
+          "label_es": "cocina comida",
+          "label_hr": "Kuha hranu",
+          "label_cs": "Vaří jídlo",
+          "label_pl": "Gotuje jedzenie",
+          "label_fi": "Kokkaa ruokaa",
+          "label_sk": "Varí jedlo",
+          "label_da": "laver mad"
+        },
+        {
+          "id": "make",
+          "label_en": "Makes water",
+          "label_de": "Macht Wasser",
+          "label_it": "Fa acqua",
+          "label_fr": "Fait de l'eau",
+          "label_es": "hace agua",
+          "label_hr": "Stvara vodu",
+          "label_cs": "Dělá vodu",
+          "label_pl": "Robi wodę",
+          "label_fi": "Tekee vettä",
+          "label_sk": "Vytvára vodu",
+          "label_da": "laver vand"
+        }
+      ]
+    },
+    {
+      "id": "where",
+      "correct": "bathroom",
+      "question_en": "Where do people often use a mirror?",
+      "question_de": "Wo benutzen Menschen oft einen Spiegel?",
+      "question_it": "Dove le persone usano spesso uno specchio?",
+      "question_fr": "Où les gens utilisent-ils souvent un miroir ?",
+      "question_es": "¿Dónde suele utilizar la gente un espejo?",
+      "question_hr": "Gdje ljudi često koriste ogledalo?",
+      "question_cs": "Kde lidé často používají zrcadlo?",
+      "question_pl": "Gdzie ludzie często korzystają z lustra?",
+      "question_fi": "Missä ihmiset käyttävät usein peiliä?",
+      "question_sk": "Kde ľudia často používajú zrkadlo?",
+      "question_da": "Hvor bruger folk ofte et spejl?",
+      "options": [
+        {
+          "id": "bathroom",
+          "label_en": "In the bathroom",
+          "label_de": "Im Badezimmer",
+          "label_it": "Nel bagno",
+          "label_fr": "Dans la salle de bain",
+          "label_es": "en el baño",
+          "label_hr": "U kupaonici",
+          "label_cs": "V koupelně",
+          "label_pl": "W łazience",
+          "label_fi": "Kylpyhuoneessa",
+          "label_sk": "V kúpeľni",
+          "label_da": "På badeværelset"
+        },
+        {
+          "id": "oven",
+          "label_en": "Inside an oven",
+          "label_de": "In einem Ofen",
+          "label_it": "All'interno di un forno",
+          "label_fr": "À l'intérieur d'un four",
+          "label_es": "dentro de un horno",
+          "label_hr": "U pećnici",
+          "label_cs": "Uvnitř trouby",
+          "label_pl": "Wewnątrz piekarnika",
+          "label_fi": "Uunin sisällä",
+          "label_sk": "Vo vnútri rúry",
+          "label_da": "Inde i en ovn"
+        },
+        {
+          "id": "river",
+          "label_en": "Under a river",
+          "label_de": "Unter einem Fluss",
+          "label_it": "Sotto un fiume",
+          "label_fr": "Sous une rivière",
+          "label_es": "bajo un río",
+          "label_hr": "Ispod rijeke",
+          "label_cs": "Pod řekou",
+          "label_pl": "Pod rzeką",
+          "label_fi": "Joen alla",
+          "label_sk": "Pod riekou",
+          "label_da": "Under en flod"
+        }
+      ]
+    },
+    {
+      "id": "safe",
+      "correct": "careful",
+      "question_en": "How should you treat a mirror?",
+      "question_de": "Wie sollte man einen Spiegel behandeln?",
+      "question_it": "Come dovresti trattare uno specchio?",
+      "question_fr": "Comment traiter un miroir ?",
+      "question_es": "¿Cómo se debe tratar un espejo?",
+      "question_hr": "Kako se treba ponašati prema ogledalu?",
+      "question_cs": "Jak byste měli zacházet se zrcadlem?",
+      "question_pl": "Jak traktować lustro?",
+      "question_fi": "Miten peiliin pitäisi suhtautua?",
+      "question_sk": "Ako by ste mali zaobchádzať so zrkadlom?",
+      "question_da": "Hvordan skal du behandle et spejl?",
+      "options": [
+        {
+          "id": "careful",
+          "label_en": "Carefully, because it can break",
+          "label_de": "Vorsichtig, denn es kann kaputt gehen",
+          "label_it": "Con attenzione, perché può rompersi",
+          "label_fr": "Attention, car il peut se casser",
+          "label_es": "Con cuidado, porque se puede romper.",
+          "label_hr": "Pažljivo, jer se može slomiti",
+          "label_cs": "Opatrně, protože může prasknout",
+          "label_pl": "Ostrożnie, bo może pęknąć",
+          "label_fi": "Varovasti, koska se voi rikkoutua",
+          "label_sk": "Opatrne, pretože sa môže zlomiť",
+          "label_da": "Forsigtigt, for den kan gå i stykker"
+        },
+        {
+          "id": "throw",
+          "label_en": "Throw it",
+          "label_de": "Wirf es",
+          "label_it": "Lancialo",
+          "label_fr": "Jetez-le",
+          "label_es": "Tíralo",
+          "label_hr": "Baci ga",
+          "label_cs": "Hoď to",
+          "label_pl": "Rzuć to",
+          "label_fi": "Heitä se",
+          "label_sk": "Hoď to",
+          "label_da": "Smid den"
+        },
+        {
+          "id": "hit",
+          "label_en": "Hit it with a ball",
+          "label_de": "Schlagen Sie es mit einem Ball",
+          "label_it": "Colpiscilo con una palla",
+          "label_fr": "Frappez-le avec une balle",
+          "label_es": "Golpéalo con una pelota",
+          "label_hr": "Udari ga loptom",
+          "label_cs": "Odpalte to míčem",
+          "label_pl": "Uderz piłką",
+          "label_fi": "Lyö sitä pallolla",
+          "label_sk": "Odpáliť loptou",
+          "label_da": "Slå den med en bold"
+        }
+      ]
+    }
+  ]
+}
