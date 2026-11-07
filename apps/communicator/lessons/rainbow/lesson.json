@@ -1,0 +1,293 @@
+{
+  "id": "rainbow",
+  "category_id": "nature",
+  "symbol_id": "rainbow",
+  "thumbnail": "rainbow_thumb.webp",
+  "title_en": "Rainbows",
+  "title_de": "Regenbogen",
+  "title_it": "Arcobaleni",
+  "title_fr": "Arcs-en-ciel",
+  "title_es": "arcoiris",
+  "title_hr": "Duge",
+  "title_cs": "duhy",
+  "title_pl": "Tęcze",
+  "title_fi": "Sateenkaaret",
+  "title_sk": "Dúhy",
+  "title_da": "Regnbuer",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about rainbows. A rainbow is a curved band of colours that appears in the sky when sunlight shines through water droplets.",
+      "script_de": "Heute lernen wir etwas über Regenbogen. Ein Regenbogen ist ein geschwungenes Farbband, das am Himmel erscheint, wenn Sonnenlicht durch Wassertropfen scheint.",
+      "script_it": "Oggi impareremo a conoscere gli arcobaleni. L'arcobaleno è una fascia curva di colori che appare nel cielo quando la luce del sole splende attraverso le gocce d'acqua.",
+      "script_fr": "Aujourd'hui, nous allons découvrir les arcs-en-ciel. Un arc-en-ciel est une bande incurvée de couleurs qui apparaît dans le ciel lorsque la lumière du soleil brille à travers des gouttelettes d'eau.",
+      "script_es": "Hoy vamos a aprender sobre el arcoíris. Un arco iris es una banda curva de colores que aparece en el cielo cuando la luz del sol brilla a través de las gotas de agua.",
+      "script_hr": "Danas ćemo učiti o dugama. Duga je zakrivljeni pojas boja koji se pojavljuje na nebu kada sunčeva svjetlost sija kroz kapljice vode.",
+      "script_cs": "Dnes se budeme učit o duhách. Duha je zakřivený pruh barev, který se objeví na obloze, když sluneční světlo prosvítá skrz kapičky vody.",
+      "script_pl": "Dziś będziemy uczyć się o tęczach. Tęcza to zakrzywione pasmo kolorów pojawiające się na niebie, gdy światło słoneczne prześwieca przez kropelki wody.",
+      "script_fi": "Tänään opimme sateenkaareista. Sateenkaari on kaareva värinauha, joka ilmestyy taivaalle, kun auringonvalo paistaa vesipisaroiden läpi.",
+      "script_sk": "Dnes sa budeme učiť o dúhe. Dúha je zakrivený pás farieb, ktorý sa objavuje na oblohe, keď slnečné svetlo presvitá cez kvapôčky vody.",
+      "script_da": "I dag skal vi lære om regnbuer. En regnbue er et buet bånd af farver, der vises på himlen, når sollys skinner gennem vanddråber.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "how",
+      "script_en": "When sunlight enters a raindrop, it bends and splits into different colours. The light bounces inside the drop and comes out in a fan of colours. Millions of drops together make the arc we see.",
+      "script_de": "Wenn Sonnenlicht in einen Regentropfen eindringt, krümmt er sich und teilt sich in verschiedene Farben auf. Das Licht wird im Inneren des Tropfens reflektiert und erscheint in einem Fächer aus Farben. Millionen von Tropfen bilden zusammen den Bogen, den wir sehen.",
+      "script_it": "Quando la luce del sole entra in una goccia di pioggia, questa si piega e si divide in diversi colori. La luce rimbalza all'interno della goccia ed esce in un ventaglio di colori. Milioni di gocce insieme formano l'arco che vediamo.",
+      "script_fr": "Lorsque la lumière du soleil pénètre dans une goutte de pluie, celle-ci se plie et se divise en différentes couleurs. La lumière rebondit à l’intérieur de la goutte et ressort dans un éventail de couleurs. Des millions de gouttes forment ensemble l’arc que nous voyons.",
+      "script_es": "Cuando la luz del sol entra en una gota de lluvia, se dobla y se divide en diferentes colores. La luz rebota dentro de la gota y sale en un abanico de colores. Millones de gotas juntas forman el arco que vemos.",
+      "script_hr": "Kada sunčeva svjetlost uđe u kišnu kap, ona se savija i cijepa u različite boje. Svjetlost se odbija unutar kapi i izlazi u lepezi boja. Milijuni kapljica zajedno čine luk koji vidimo.",
+      "script_cs": "Když sluneční světlo vstoupí do dešťové kapky, ohne se a rozdělí se na různé barvy. Světlo se odráží uvnitř kapky a vychází ve vějíři barev. Miliony kapek dohromady vytvářejí oblouk, který vidíme.",
+      "script_pl": "Kiedy światło słoneczne wpada do kropli deszczu, zagina się i rozdziela na różne kolory. Światło odbija się wewnątrz kropli i ukazuje wachlarz kolorów. Miliony kropel razem tworzą łuk, który widzimy.",
+      "script_fi": "Kun auringonvalo pääsee sadepisaraan, se taipuu ja halkeaa eri väreiksi. Valo pomppii pisaran sisällä ja tulee ulos väreinä. Miljoonat pisarat yhdessä muodostavat kaaren, jonka näemme.",
+      "script_sk": "Keď slnečné svetlo vstúpi do dažďovej kvapky, ohne sa a rozdelí sa na rôzne farby. Svetlo sa odráža vo vnútri kvapky a vychádza vo vejári farieb. Milióny kvapiek spolu vytvárajú oblúk, ktorý vidíme.",
+      "script_da": "Når sollys trænger ind i en regndråbe, bøjes den og deler sig i forskellige farver. Lyset hopper inde i dråben og kommer ud i en vifte af farver. Millioner af dråber tilsammen danner den bue, vi ser.",
+      "images": [
+        "how.webp",
+        "how_2.webp",
+        "how_3.webp"
+      ]
+    },
+    {
+      "id": "colours",
+      "script_en": "A rainbow usually shows red, orange, yellow, green, blue, indigo, and violet. Red is on the outside of the arc and violet is on the inside. Sometimes the colours are so close together that some are hard to see.",
+      "script_de": "Ein Regenbogen besteht normalerweise aus Rot, Orange, Gelb, Grün, Blau, Indigo und Violett. Rot befindet sich auf der Außenseite des Bogens und Violett auf der Innenseite. Manchmal liegen die Farben so nah beieinander, dass einige kaum zu erkennen sind.",
+      "script_it": "Un arcobaleno di solito mostra il rosso, l'arancione, il giallo, il verde, il blu, l'indaco e il viola. Il rosso è all'esterno dell'arco e il viola è all'interno. A volte i colori sono così vicini che alcuni sono difficili da vedere.",
+      "script_fr": "Un arc-en-ciel montre généralement du rouge, de l'orange, du jaune, du vert, du bleu, de l'indigo et du violet. Le rouge est à l’extérieur de l’arc et le violet à l’intérieur. Parfois, les couleurs sont si rapprochées que certaines sont difficiles à voir.",
+      "script_es": "Un arcoíris suele mostrar rojo, naranja, amarillo, verde, azul, índigo y violeta. El rojo está en el exterior del arco y el violeta en el interior. A veces los colores están tan juntos que algunos son difíciles de ver.",
+      "script_hr": "Duga obično prikazuje crvenu, narančastu, žutu, zelenu, plavu, indigo i ljubičastu. Crvena je na vanjskoj strani luka, a ljubičasta je na unutarnjoj. Ponekad su boje toliko blizu jedna drugoj da je neke teško vidjeti.",
+      "script_cs": "Duha obvykle zobrazuje červenou, oranžovou, žlutou, zelenou, modrou, indigovou a fialovou. Červená je na vnější straně oblouku a fialová je uvnitř. Někdy jsou barvy tak blízko u sebe, že některé jsou špatně vidět.",
+      "script_pl": "Tęcza zazwyczaj przedstawia kolor czerwony, pomarańczowy, żółty, zielony, niebieski, indygo i fioletowy. Czerwony znajduje się na zewnątrz łuku, a fioletowy wewnątrz. Czasami kolory są tak blisko siebie, że niektóre są trudne do zauważenia.",
+      "script_fi": "Sateenkaaressa on yleensä punainen, oranssi, keltainen, vihreä, sininen, indigo ja violetti. Punainen on kaaren ulkopuolella ja violetti sisäpuolella. Joskus värit ovat niin lähellä toisiaan, että joitain on vaikea nähdä.",
+      "script_sk": "Dúha zvyčajne zobrazuje červenú, oranžovú, žltú, zelenú, modrú, indigovú a fialovú. Červená je na vonkajšej strane oblúka a fialová je vo vnútri. Niekedy sú farby tak blízko pri sebe, že niektoré je ťažké vidieť.",
+      "script_da": "En regnbue viser normalt rød, orange, gul, grøn, blå, indigo og violet. Rød er på ydersiden af ​​buen og violet er på indersiden. Nogle gange er farverne så tæt på hinanden, at nogle er svære at se.",
+      "images": [
+        "colours.webp",
+        "colours_2.webp",
+        "colours_3.webp"
+      ]
+    },
+    {
+      "id": "types",
+      "script_en": "Some rainbows have a second, fainter arc outside the first one. At night, moonlight can create a rare moonbow. Rainbows can also appear in the spray of waterfalls and garden hoses.",
+      "script_de": "Manche Regenbögen haben einen zweiten, schwächeren Bogen außerhalb des ersten. Nachts kann Mondlicht einen seltenen Mondbogen erzeugen. Auch im Gischt von Wasserfällen und Gartenschläuchen können Regenbögen entstehen.",
+      "script_it": "Alcuni arcobaleni hanno un secondo arco più debole all'esterno del primo. Di notte, la luce della luna può creare un raro arco lunare. Gli arcobaleni possono apparire anche negli spruzzi delle cascate e dei tubi da giardino.",
+      "script_fr": "Certains arcs-en-ciel ont un deuxième arc plus faible en dehors du premier. La nuit, le clair de lune peut créer un arc lunaire rare. Des arcs-en-ciel peuvent également apparaître dans les jets des cascades et des tuyaux d’arrosage.",
+      "script_es": "Algunos arcoíris tienen un segundo arco más tenue fuera del primero. Por la noche, la luz de la luna puede crear un raro arco lunar. Los arcoíris también pueden aparecer en el rocío de cascadas y mangueras de jardín.",
+      "script_hr": "Neke duge imaju drugi, slabiji luk izvan prvog. Noću, mjesečina može stvoriti rijedak mjesečev luk. Duge se također mogu pojaviti u prskanju slapova i vrtnih crijeva.",
+      "script_cs": "Některé duhy mají druhý, slabší oblouk mimo první. V noci může měsíční světlo vytvořit vzácný měsíční luk. Duhy se mohou objevit i ve sprše vodopádů a zahradních hadic.",
+      "script_pl": "Niektóre tęcze mają drugi, słabszy łuk poza pierwszym. W nocy światło księżyca może stworzyć rzadki księżycowy łuk. Tęcze mogą pojawiać się także w strumieniach wodospadów i węży ogrodowych.",
+      "script_fi": "Joillakin sateenkaareilla on toinen, himmeämpi kaari ensimmäisen ulkopuolella. Yöllä kuunvalo voi luoda harvinaisen kuukaaren. Sateenkaaret voivat näkyä myös vesiputousten ja puutarhaletkujen suihkussa.",
+      "script_sk": "Niektoré dúhy majú druhý, slabší oblúk mimo prvého. V noci môže mesačný svit vytvoriť vzácny mesačný luk. Dúhy sa môžu objaviť aj v spreji vodopádov a záhradných hadíc.",
+      "script_da": "Nogle regnbuer har en anden, svagere bue uden for den første. Om natten kan måneskin skabe en sjælden månebue. Regnbuer kan også dukke op i sprøjten fra vandfald og haveslanger.",
+      "images": [
+        "types.webp",
+        "types_2.webp",
+        "types_3.webp"
+      ]
+    },
+    {
+      "id": "today",
+      "script_en": "Today rainbows are a favourite subject for photographers and artists. They remind us that light and water create beautiful things. A rainbow is always a sign that the rain is passing.",
+      "script_de": "Heutzutage sind Regenbögen ein beliebtes Motiv für Fotografen und Künstler. Sie erinnern uns daran, dass Licht und Wasser schöne Dinge erschaffen. Ein Regenbogen ist immer ein Zeichen dafür, dass der Regen vorübergeht.",
+      "script_it": "Oggi gli arcobaleni sono uno dei soggetti preferiti da fotografi e artisti. Ci ricordano che la luce e l'acqua creano cose belle. Un arcobaleno è sempre un segno che la pioggia sta passando.",
+      "script_fr": "Aujourd’hui, les arcs-en-ciel sont un sujet de prédilection pour les photographes et les artistes. Ils nous rappellent que la lumière et l'eau créent de belles choses. Un arc-en-ciel est toujours le signe que la pluie passe.",
+      "script_es": "Hoy en día, los arcoíris son el tema favorito de fotógrafos y artistas. Nos recuerdan que la luz y el agua crean cosas hermosas. Un arco iris es siempre una señal de que la lluvia está pasando.",
+      "script_hr": "Danas su duge omiljena tema fotografa i umjetnika. Podsjećaju nas da svjetlost i voda stvaraju lijepe stvari. Duga je uvijek znak da kiša prolazi.",
+      "script_cs": "Dnes jsou duhy oblíbeným tématem fotografů a umělců. Připomínají nám, že světlo a voda vytvářejí krásné věci. Duha je vždy znamením, že déšť pomine.",
+      "script_pl": "Dziś tęcze są ulubionym tematem fotografów i artystów. Przypominają nam, że światło i woda tworzą piękne rzeczy. Tęcza jest zawsze znakiem, że deszcz przechodzi.",
+      "script_fi": "Nykyään sateenkaari on valokuvaajien ja taiteilijoiden suosikkiaihe. Ne muistuttavat meitä siitä, että valo ja vesi luovat kauniita asioita. Sateenkaari on aina merkki siitä, että sade on ohi.",
+      "script_sk": "Dnes sú dúhy obľúbeným námetom fotografov a umelcov. Pripomínajú nám, že svetlo a voda vytvárajú krásne veci. Dúha je vždy znakom toho, že dážď pominie.",
+      "script_da": "I dag er regnbuer et yndlingsmotiv for fotografer og kunstnere. De minder os om, at lys og vand skaber smukke ting. En regnbue er altid et tegn på, at regnen går forbi.",
+      "images": [
+        "today.webp",
+        "today_2.webp",
+        "today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "when",
+      "correct": "after",
+      "question_en": "When does a rainbow usually appear?",
+      "question_de": "Wann erscheint normalerweise ein Regenbogen?",
+      "question_it": "Quando appare solitamente l'arcobaleno?",
+      "question_fr": "Quand un arc-en-ciel apparaît-il habituellement ?",
+      "question_es": "¿Cuándo suele aparecer un arcoíris?",
+      "question_hr": "Kada se obično pojavljuje duga?",
+      "question_cs": "Kdy se obvykle objevuje duha?",
+      "question_pl": "Kiedy zwykle pojawia się tęcza?",
+      "question_fi": "Milloin sateenkaari yleensä ilmestyy?",
+      "question_sk": "Kedy sa zvyčajne objavuje dúha?",
+      "question_da": "Hvornår dukker en regnbue normalt op?",
+      "options": [
+        {
+          "id": "after",
+          "label_en": "After rain, when the Sun shines",
+          "label_de": "Nach dem Regen, wenn die Sonne scheint",
+          "label_it": "Dopo la pioggia, quando splende il sole",
+          "label_fr": "Après la pluie, quand le soleil brille",
+          "label_es": "Después de la lluvia, cuando brilla el sol",
+          "label_hr": "Nakon kiše, kad sunce sja",
+          "label_cs": "Po dešti, když svítí slunce",
+          "label_pl": "Po deszczu, gdy świeci słońce",
+          "label_fi": "Sateen jälkeen, kun aurinko paistaa",
+          "label_sk": "Po daždi, keď svieti slnko",
+          "label_da": "Efter regn, når solen skinner"
+        },
+        {
+          "id": "night",
+          "label_en": "In the middle of the night",
+          "label_de": "Mitten in der Nacht",
+          "label_it": "Nel cuore della notte",
+          "label_fr": "En pleine nuit",
+          "label_es": "En medio de la noche",
+          "label_hr": "Usred noći",
+          "label_cs": "Uprostřed noci",
+          "label_pl": "W środku nocy",
+          "label_fi": "Keskellä yötä",
+          "label_sk": "Uprostred noci",
+          "label_da": "Midt om natten"
+        },
+        {
+          "id": "snow",
+          "label_en": "Only when it snows",
+          "label_de": "Nur wenn es schneit",
+          "label_it": "Solo quando nevica",
+          "label_fr": "Seulement quand il neige",
+          "label_es": "Sólo cuando nieva",
+          "label_hr": "Samo kad padne snijeg",
+          "label_cs": "Jen když sněží",
+          "label_pl": "Tylko gdy spadnie śnieg",
+          "label_fi": "Vasta kun sataa lunta",
+          "label_sk": "Len keď sneží",
+          "label_da": "Kun når det sner"
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "correct": "red",
+      "question_en": "Which colour is on the outside of a rainbow?",
+      "question_de": "Welche Farbe hat die Außenseite eines Regenbogens?",
+      "question_it": "Di che colore si trova l'esterno dell'arcobaleno?",
+      "question_fr": "Quelle couleur se trouve à l’extérieur d’un arc-en-ciel ?",
+      "question_es": "¿Qué color está en el exterior de un arcoíris?",
+      "question_hr": "Koja je boja s vanjske strane duge?",
+      "question_cs": "Jaká barva je na vnější straně duhy?",
+      "question_pl": "Jaki kolor jest na zewnątrz tęczy?",
+      "question_fi": "Mikä väri on sateenkaaren ulkopuolella?",
+      "question_sk": "Aká farba je na vonkajšej strane dúhy?",
+      "question_da": "Hvilken farve er på ydersiden af ​​en regnbue?",
+      "options": [
+        {
+          "id": "red",
+          "label_en": "Red",
+          "label_de": "Rot",
+          "label_it": "Rosso",
+          "label_fr": "Rouge",
+          "label_es": "Rojo",
+          "label_hr": "crvena",
+          "label_cs": "Červený",
+          "label_pl": "Czerwony",
+          "label_fi": "Punainen",
+          "label_sk": "Červená",
+          "label_da": "Rød"
+        },
+        {
+          "id": "violet",
+          "label_en": "Violet",
+          "label_de": "Violett",
+          "label_it": "Viola",
+          "label_fr": "Violet",
+          "label_es": "Violeta",
+          "label_hr": "ljubičica",
+          "label_cs": "Fialový",
+          "label_pl": "Fioletowy",
+          "label_fi": "Violetti",
+          "label_sk": "Fialová",
+          "label_da": "Violet"
+        },
+        {
+          "id": "green",
+          "label_en": "Green",
+          "label_de": "Grün",
+          "label_it": "Verde",
+          "label_fr": "Vert",
+          "label_es": "Verde",
+          "label_hr": "zelena",
+          "label_cs": "Zelený",
+          "label_pl": "Zielony",
+          "label_fi": "Vihreä",
+          "label_sk": "Zelená",
+          "label_da": "Grøn"
+        }
+      ]
+    },
+    {
+      "id": "cause",
+      "correct": "sun",
+      "question_en": "What creates a rainbow?",
+      "question_de": "Was erzeugt einen Regenbogen?",
+      "question_it": "Cosa crea un arcobaleno?",
+      "question_fr": "Qu'est-ce qui crée un arc-en-ciel ?",
+      "question_es": "¿Qué crea un arcoíris?",
+      "question_hr": "Što stvara dugu?",
+      "question_cs": "Co vytváří duhu?",
+      "question_pl": "Co tworzy tęczę?",
+      "question_fi": "Mikä luo sateenkaaren?",
+      "question_sk": "Čo vytvára dúhu?",
+      "question_da": "Hvad skaber en regnbue?",
+      "options": [
+        {
+          "id": "sun",
+          "label_en": "Sunlight and water droplets",
+          "label_de": "Sonnenlicht und Wassertropfen",
+          "label_it": "La luce del sole e le gocce d'acqua",
+          "label_fr": "La lumière du soleil et les gouttelettes d'eau",
+          "label_es": "La luz del sol y las gotas de agua",
+          "label_hr": "Sunčeva svjetlost i kapljice vode",
+          "label_cs": "Sluneční světlo a kapky vody",
+          "label_pl": "Światło słoneczne i kropelki wody",
+          "label_fi": "Auringonvalo ja vesipisarat",
+          "label_sk": "Slnečné svetlo a kvapky vody",
+          "label_da": "Sollys og vanddråber"
+        },
+        {
+          "id": "wind",
+          "label_en": "Wind and dust",
+          "label_de": "Wind und Staub",
+          "label_it": "Vento e polvere",
+          "label_fr": "Vent et poussière",
+          "label_es": "Viento y polvo",
+          "label_hr": "Vjetar i prašina",
+          "label_cs": "Vítr a prach",
+          "label_pl": "Wiatr i kurz",
+          "label_fi": "Tuuli ja pöly",
+          "label_sk": "Vietor a prach",
+          "label_da": "Vind og støv"
+        },
+        {
+          "id": "cloud",
+          "label_en": "Clouds alone",
+          "label_de": "Nur Wolken",
+          "label_it": "Solo nuvole",
+          "label_fr": "Seuls les nuages",
+          "label_es": "Nubes solas",
+          "label_hr": "Oblaci sami",
+          "label_cs": "Mraky samy",
+          "label_pl": "Same chmury",
+          "label_fi": "Pilviä yksin",
+          "label_sk": "Oblaky samé",
+          "label_da": "Skyer alene"
+        }
+      ]
+    }
+  ]
+}

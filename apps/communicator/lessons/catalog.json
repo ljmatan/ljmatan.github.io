@@ -1009,6 +1009,27 @@
       "title_da": "Regn"
     },
     {
+      "id": "rainbow",
+      "category_id": "nature",
+      "symbol_id": "rainbow",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/rainbow/rainbow_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/rainbow/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2299767,
+      "version": 1,
+      "title_en": "Rainbows",
+      "title_de": "Regenbogen",
+      "title_it": "Arcobaleni",
+      "title_fr": "Arcs-en-ciel",
+      "title_es": "arcoiris",
+      "title_hr": "Duge",
+      "title_cs": "duhy",
+      "title_pl": "Tęcze",
+      "title_fi": "Sateenkaaret",
+      "title_sk": "Dúhy",
+      "title_da": "Regnbuer"
+    },
+    {
       "id": "earth",
       "category_id": "planets",
       "symbol_id": "earth",
