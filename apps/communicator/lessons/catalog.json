@@ -64,6 +64,27 @@
       "title_da": "Fodbold"
     },
     {
+      "id": "gardening",
+      "category_id": "activities",
+      "symbol_id": "gardening",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/gardening/gardening_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/gardening/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 3098820,
+      "version": 1,
+      "title_en": "Gardening",
+      "title_de": "Gartenarbeit",
+      "title_it": "Giardinaggio",
+      "title_fr": "Jardinage",
+      "title_es": "Jardinería",
+      "title_hr": "Vrtlarstvo",
+      "title_cs": "Zahradničení",
+      "title_pl": "Ogrodnictwo",
+      "title_fi": "Puutarhanhoito",
+      "title_sk": "Záhradníctvo",
+      "title_da": "Havearbejde"
+    },
+    {
       "id": "painting",
       "category_id": "activities",
       "symbol_id": "painting",

@@ -1,0 +1,293 @@
+{
+  "id": "gardening",
+  "category_id": "activities",
+  "symbol_id": "gardening",
+  "thumbnail": "gardening_thumb.webp",
+  "title_en": "Gardening",
+  "title_de": "Gartenarbeit",
+  "title_it": "Giardinaggio",
+  "title_fr": "Jardinage",
+  "title_es": "Jardinería",
+  "title_hr": "Vrtlarstvo",
+  "title_cs": "Zahradničení",
+  "title_pl": "Ogrodnictwo",
+  "title_fi": "Puutarhanhoito",
+  "title_sk": "Záhradníctvo",
+  "title_da": "Havearbejde",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about gardening. Gardening is growing plants in soil. Gardeners grow flowers, vegetables, and herbs, and they look after them with care.",
+      "script_de": "Heute lernen wir etwas über Gartenarbeit. Beim Gärtnern werden Pflanzen im Boden gezüchtet. Gärtner bauen Blumen, Gemüse und Kräuter an und kümmern sich sorgfältig um sie.",
+      "script_it": "Oggi parleremo del giardinaggio. Il giardinaggio significa coltivare piante nel terreno. I giardinieri coltivano fiori, verdure ed erbe aromatiche e se ne prendono cura con cura.",
+      "script_fr": "Aujourd'hui, nous allons apprendre le jardinage. Le jardinage consiste à faire pousser des plantes dans le sol. Les jardiniers cultivent des fleurs, des légumes et des herbes aromatiques et en prennent soin avec soin.",
+      "script_es": "Hoy vamos a aprender sobre jardinería. La jardinería consiste en cultivar plantas en el suelo. Los jardineros cultivan flores, verduras y hierbas y las cuidan con esmero.",
+      "script_hr": "Danas ćemo učiti o vrtlarstvu. Vrtlarstvo je uzgoj biljaka u tlu. Vrtlari uzgajaju cvijeće, povrće i začinsko bilje te se o njima brižno brinu.",
+      "script_cs": "Dnes se budeme učit o zahradničení. Zahradnictví je pěstování rostlin v půdě. Zahradníci pěstují květiny, zeleninu a bylinky a pečlivě se o ně starají.",
+      "script_pl": "Dziś będziemy uczyć się o ogrodnictwie. Ogrodnictwo to uprawa roślin w glebie. Ogrodnicy uprawiają kwiaty, warzywa i zioła i troskliwie się nimi opiekują.",
+      "script_fi": "Tänään opimme puutarhanhoidosta. Puutarhanhoito on kasvien kasvattamista maaperässä. Puutarhurit kasvattavat kukkia, vihanneksia ja yrttejä ja pitävät niistä huolta.",
+      "script_sk": "Dnes sa naučíme o záhradníctve. Záhradníctvo je pestovanie rastlín v pôde. Záhradkári pestujú kvety, zeleninu a bylinky a starostlivo sa o ne starajú.",
+      "script_da": "I dag skal vi lære om havearbejde. Havearbejde er at dyrke planter i jorden. Gartnere dyrker blomster, grøntsager og urter, og de passer dem med omhu.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "needs",
+      "script_en": "Plants need light, water, air, and nutrients from the soil. Too little water makes them wilt, and too much can rot their roots. Checking the soil with your finger helps you know when to water.",
+      "script_de": "Pflanzen benötigen Licht, Wasser, Luft und Nährstoffe aus dem Boden. Zu wenig Wasser lässt sie welken und zu viel kann ihre Wurzeln verfaulen lassen. Wenn Sie den Boden mit dem Finger prüfen, wissen Sie, wann Sie gießen müssen.",
+      "script_it": "Le piante hanno bisogno di luce, acqua, aria e sostanze nutritive dal terreno. Troppa poca acqua li fa appassire e troppa può far marcire le loro radici. Controllare il terreno con il dito ti aiuta a sapere quando annaffiare.",
+      "script_fr": "Les plantes ont besoin de lumière, d’eau, d’air et de nutriments provenant du sol. Trop peu d’eau les fait flétrir et trop peut pourrir leurs racines. Vérifier le sol avec votre doigt vous aide à savoir quand arroser.",
+      "script_es": "Las plantas necesitan luz, agua, aire y nutrientes del suelo. Muy poca agua hace que se marchiten y demasiada puede pudrir sus raíces. Revisar la tierra con el dedo le ayuda a saber cuándo regar.",
+      "script_hr": "Biljke trebaju svjetlost, vodu, zrak i hranjive tvari iz tla. Od premalo vode venu, a od previše može istruliti korijenje. Provjera tla prstom pomaže vam da znate kada zalijevati.",
+      "script_cs": "Rostliny potřebují světlo, vodu, vzduch a živiny z půdy. Příliš málo vody je způsobí vadnutím a příliš mnoho může uhnívat jejich kořeny. Kontrola půdy prstem vám pomůže vědět, kdy zalévat.",
+      "script_pl": "Rośliny potrzebują światła, wody, powietrza i składników odżywczych z gleby. Za mało wody powoduje więdnięcie, za dużo może gnić korzenie. Sprawdzanie gleby palcem pomoże Ci wiedzieć, kiedy podlać.",
+      "script_fi": "Kasvit tarvitsevat maaperästä valoa, vettä, ilmaa ja ravinteita. Liian vähän vettä saa ne kuihtumaan, ja liian paljon voi mädyttää niiden juuret. Maaperän tarkistaminen sormella auttaa sinua tietämään, milloin kastella.",
+      "script_sk": "Rastliny potrebujú svetlo, vodu, vzduch a živiny z pôdy. Príliš málo vody spôsobuje vädnutie a príliš veľa môže hniť ich korene. Kontrola pôdy prstom vám pomôže zistiť, kedy zalievať.",
+      "script_da": "Planter har brug for lys, vand, luft og næringsstoffer fra jorden. For lidt vand får dem til at visne, og for meget kan rådne deres rødder. Hvis du tjekker jorden med din finger, kan du vide, hvornår du skal vande.",
+      "images": [
+        "needs.webp",
+        "needs_2.webp",
+        "needs_3.webp"
+      ]
+    },
+    {
+      "id": "tools",
+      "script_en": "Gardeners use simple tools. A trowel digs small holes, a watering can waters gently, and gloves protect hands. Always put tools away so nobody trips over them.",
+      "script_de": "Gärtner verwenden einfache Werkzeuge. Eine Kelle gräbt kleine Löcher, eine Gießkanne gießt sanft und Handschuhe schützen die Hände. Bewahren Sie Werkzeuge immer so auf, dass niemand darüber stolpert.",
+      "script_it": "I giardinieri usano strumenti semplici. Una cazzuola scava piccoli fori, un annaffiatoio innaffia delicatamente e i guanti proteggono le mani. Riporre sempre gli strumenti in modo che nessuno ci inciampi.",
+      "script_fr": "Les jardiniers utilisent des outils simples. Une truelle creuse de petits trous, un arrosoir arrose doucement et des gants protègent les mains. Rangez toujours les outils afin que personne ne trébuche dessus.",
+      "script_es": "Los jardineros utilizan herramientas sencillas. Una paleta cava pequeños agujeros, una regadera riega suavemente y los guantes protegen las manos. Guarde siempre las herramientas para que nadie se tropiece con ellas.",
+      "script_hr": "Vrtlari koriste jednostavne alate. Lopatica kopa male rupe, kantica za zalijevanje nježno zalijeva, a rukavice štite ruke. Alat uvijek odložite tako da se nitko ne spotakne o njega.",
+      "script_cs": "Zahradníci používají jednoduché nástroje. Zednická lžíce vyhloubí malé díry, konev jemně zalévá a rukavice chrání ruce. Nástroje vždy odkládejte, aby o ně nikdo nezakopl.",
+      "script_pl": "Ogrodnicy używają prostych narzędzi. Kielnia kopie małe dziury, konewka delikatnie podlewa, a dłonie chronią rękawiczki. Zawsze odkładaj narzędzia, aby nikt się o nie nie potknął.",
+      "script_fi": "Puutarhurit käyttävät yksinkertaisia ​​työkaluja. Lasta kaivaa pieniä reikiä, kastelukannu kastelee hellästi ja käsineet suojaavat käsiä. Laita työkalut aina pois, jotta kukaan ei kompastu niihin.",
+      "script_sk": "Záhradkári používajú jednoduché nástroje. Hladidlom vyhrabáva malé diery, kanva jemne polieva a ruky chránia rukavice. Nástroje vždy odložte, aby o ne nikto nezakopol.",
+      "script_da": "Gartnere bruger simple værktøjer. En murske graver små huller, en vandkande vander blidt, og handsker beskytter hænder. Læg altid værktøj væk, så ingen snubler over dem.",
+      "images": [
+        "tools.webp",
+        "tools_2.webp",
+        "tools_3.webp"
+      ]
+    },
+    {
+      "id": "grow",
+      "script_en": "Some plants grow quickly, like lettuce, while others take months. Weeds steal water and light, so gardeners pull them out. Bees and butterflies help pollinate flowers.",
+      "script_de": "Manche Pflanzen wachsen schnell, wie zum Beispiel Salat, während andere Monate brauchen. Unkräuter stehlen Wasser und Licht, also entfernen Gärtner sie. Bienen und Schmetterlinge helfen bei der Bestäubung von Blumen.",
+      "script_it": "Alcune piante crescono rapidamente, come la lattuga, mentre altre impiegano mesi. Le erbacce rubano acqua e luce, quindi i giardinieri le estirpano. Le api e le farfalle aiutano a impollinare i fiori.",
+      "script_fr": "Certaines plantes poussent rapidement, comme la laitue, tandis que d'autres prennent des mois. Les mauvaises herbes volent l’eau et la lumière, alors les jardiniers les arrachent. Les abeilles et les papillons contribuent à la pollinisation des fleurs.",
+      "script_es": "Algunas plantas crecen rápidamente, como la lechuga, mientras que otras tardan meses. Las malas hierbas roban agua y luz, por eso los jardineros las arrancan. Las abejas y las mariposas ayudan a polinizar las flores.",
+      "script_hr": "Neke biljke rastu brzo, poput salate, dok drugima trebaju mjeseci. Korovi kradu vodu i svjetlo, pa ih vrtlari čupaju. Pčele i leptiri pomažu u oprašivanju cvijeća.",
+      "script_cs": "Některé rostliny rostou rychle, jako hlávkový salát, zatímco jiným to trvá měsíce. Plevel krade vodu a světlo, a tak je zahradníci vytahují. Včely a motýli pomáhají opylovat květiny.",
+      "script_pl": "Niektóre rośliny rosną szybko, jak sałata, inne potrzebują miesięcy. Chwasty kradną wodę i światło, więc ogrodnicy je wyciągają. Pszczoły i motyle pomagają zapylać kwiaty.",
+      "script_fi": "Jotkut kasvit kasvavat nopeasti, kuten salaatti, kun taas toiset kestävät kuukausia. Rikkaruohot varastavat vettä ja valoa, joten puutarhurit vetävät ne pois. Mehiläiset ja perhoset auttavat pölyttämään kukkia.",
+      "script_sk": "Niektoré rastliny rastú rýchlo, napríklad šalát, zatiaľ čo iné trvajú mesiace. Burina kradne vodu a svetlo, a tak ich záhradkári vyťahujú. Včely a motýle pomáhajú opeľovať kvety.",
+      "script_da": "Nogle planter vokser hurtigt, ligesom salat, mens andre tager måneder. Ukrudt stjæler vand og lys, så gartnere trækker det ud. Bier og sommerfugle hjælper med at bestøve blomster.",
+      "images": [
+        "grow.webp",
+        "grow_2.webp",
+        "grow_3.webp"
+      ]
+    },
+    {
+      "id": "today",
+      "script_en": "Today people garden at home, on balconies, and in community gardens. Growing even a few herbs can be fun. Gardening teaches patience and helps us understand where food comes from.",
+      "script_de": "Heutzutage gärtnern Menschen zu Hause, auf Balkonen und in Gemeinschaftsgärten. Schon der Anbau einiger weniger Kräuter kann Spaß machen. Gartenarbeit lehrt Geduld und hilft uns zu verstehen, woher Lebensmittel kommen.",
+      "script_it": "Oggi le persone fanno giardinaggio in casa, sui balconi e negli orti comunitari. Coltivare anche solo poche erbe può essere divertente. Il giardinaggio insegna la pazienza e ci aiuta a capire da dove proviene il cibo.",
+      "script_fr": "Aujourd’hui, les gens jardinent à la maison, sur les balcons et dans les jardins communautaires. Cultiver ne serait-ce que quelques herbes peut être amusant. Le jardinage enseigne la patience et nous aide à comprendre d’où vient la nourriture.",
+      "script_es": "Hoy en día la gente cultiva jardines en casa, en balcones y en jardines comunitarios. Cultivar incluso unas pocas hierbas puede ser divertido. La jardinería enseña paciencia y nos ayuda a comprender de dónde provienen los alimentos.",
+      "script_hr": "Danas ljudi vrtlare kod kuće, na balkonima iu društvenim vrtovima. Uzgoj čak i nekoliko biljaka može biti zabavno. Vrtlarstvo uči strpljenju i pomaže nam razumjeti odakle dolazi hrana.",
+      "script_cs": "Dnes lidé zahradničí doma, na balkónech i v komunitních zahradách. Pěstování i pár bylinek může být zábava. Zahradnictví učí trpělivosti a pomáhá nám pochopit, odkud jídlo pochází.",
+      "script_pl": "Dziś ludzie uprawiają ogród w domu, na balkonie i w ogrodach społecznościowych. Uprawa nawet kilku ziół może być świetną zabawą. Ogrodnictwo uczy cierpliwości i pomaga zrozumieć, skąd pochodzi jedzenie.",
+      "script_fi": "Nykyään ihmiset harjoittelevat puutarhaa kotona, parvekkeilla ja yhteisön puutarhoissa. Jopa muutaman yrtin kasvattaminen voi olla hauskaa. Puutarhanhoito opettaa kärsivällisyyttä ja auttaa ymmärtämään, mistä ruoka tulee.",
+      "script_sk": "Dnes ľudia záhradkárčia doma, na balkónoch a v komunitných záhradách. Pestovanie aj niekoľkých byliniek môže byť zábava. Záhradníctvo učí trpezlivosti a pomáha nám pochopiť, odkiaľ jedlo pochádza.",
+      "script_da": "I dag har folk haver derhjemme, på altaner og i fælleshaver. Det kan være sjovt at dyrke selv et par urter. Havearbejde lærer tålmodighed og hjælper os med at forstå, hvor maden kommer fra.",
+      "images": [
+        "today.webp",
+        "today_2.webp",
+        "today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "needs",
+      "correct": "water",
+      "question_en": "What do plants need to grow?",
+      "question_de": "Was brauchen Pflanzen zum Wachsen?",
+      "question_it": "Di cosa hanno bisogno le piante per crescere?",
+      "question_fr": "De quoi ont besoin les plantes pour pousser ?",
+      "question_es": "¿Qué necesitan las plantas para crecer?",
+      "question_hr": "Što je biljkama potrebno za rast?",
+      "question_cs": "Co potřebují rostliny k růstu?",
+      "question_pl": "Czego rośliny potrzebują do wzrostu?",
+      "question_fi": "Mitä kasvit tarvitsevat kasvaakseen?",
+      "question_sk": "Čo potrebujú rastliny na rast?",
+      "question_da": "Hvad skal planter til for at vokse?",
+      "options": [
+        {
+          "id": "water",
+          "label_en": "Light, water and soil",
+          "label_de": "Licht, Wasser und Boden",
+          "label_it": "Luce, acqua e suolo",
+          "label_fr": "Lumière, eau et sol",
+          "label_es": "Luz, agua y suelo.",
+          "label_hr": "Svjetlo, voda i tlo",
+          "label_cs": "Světlo, voda a půda",
+          "label_pl": "Światło, woda i gleba",
+          "label_fi": "Valo, vesi ja maaperä",
+          "label_sk": "Svetlo, voda a pôda",
+          "label_da": "Lys, vand og jord"
+        },
+        {
+          "id": "toys",
+          "label_en": "Toys",
+          "label_de": "Spielzeug",
+          "label_it": "Giocattoli",
+          "label_fr": "Jouets",
+          "label_es": "juguetes",
+          "label_hr": "igračke",
+          "label_cs": "Hračky",
+          "label_pl": "Zabawki",
+          "label_fi": "Lelut",
+          "label_sk": "Hračky",
+          "label_da": "Legetøj"
+        },
+        {
+          "id": "music",
+          "label_en": "Loud music",
+          "label_de": "Laute Musik",
+          "label_it": "Musica ad alto volume",
+          "label_fr": "Musique forte",
+          "label_es": "musica alta",
+          "label_hr": "Glasna glazba",
+          "label_cs": "Hlasitá hudba",
+          "label_pl": "Głośna muzyka",
+          "label_fi": "Kovaa musiikkia",
+          "label_sk": "Hlasná hudba",
+          "label_da": "Høj musik"
+        }
+      ]
+    },
+    {
+      "id": "tools",
+      "correct": "can",
+      "question_en": "What tool waters plants gently?",
+      "question_de": "Welches Gerät bewässert Pflanzen sanft?",
+      "question_it": "Quale strumento annaffia delicatamente le piante?",
+      "question_fr": "Quel outil arrose doucement les plantes ?",
+      "question_es": "¿Qué herramienta riega las plantas suavemente?",
+      "question_hr": "Koji alat nježno zalijeva biljke?",
+      "question_cs": "Jaký nástroj jemně zalévá rostliny?",
+      "question_pl": "Jakie narzędzie delikatnie podlewa rośliny?",
+      "question_fi": "Mikä työkalu kastelee kasveja hellästi?",
+      "question_sk": "Aký nástroj jemne polieva rastliny?",
+      "question_da": "Hvilket værktøj vander planter forsigtigt?",
+      "options": [
+        {
+          "id": "can",
+          "label_en": "A watering can",
+          "label_de": "Eine Gießkanne",
+          "label_it": "Un annaffiatoio",
+          "label_fr": "Un arrosoir",
+          "label_es": "una regadera",
+          "label_hr": "Kanta za zalijevanje",
+          "label_cs": "Konev na zalévání",
+          "label_pl": "Konewka",
+          "label_fi": "Kastelukannu",
+          "label_sk": "Polievacia kanva",
+          "label_da": "En vandkande"
+        },
+        {
+          "id": "hammer",
+          "label_en": "A hammer",
+          "label_de": "Ein Hammer",
+          "label_it": "Un martello",
+          "label_fr": "Un marteau",
+          "label_es": "un martillo",
+          "label_hr": "Čekić",
+          "label_cs": "Kladivo",
+          "label_pl": "Młotek",
+          "label_fi": "vasara",
+          "label_sk": "Kladivo",
+          "label_da": "En hammer"
+        },
+        {
+          "id": "spoon",
+          "label_en": "A spoon",
+          "label_de": "Ein Löffel",
+          "label_it": "Un cucchiaio",
+          "label_fr": "Une cuillère",
+          "label_es": "una cuchara",
+          "label_hr": "žlica",
+          "label_cs": "Lžíce",
+          "label_pl": "Łyżka",
+          "label_fi": "Lusikka",
+          "label_sk": "Lyžička",
+          "label_da": "En ske"
+        }
+      ]
+    },
+    {
+      "id": "weeds",
+      "correct": "space",
+      "question_en": "Why do gardeners pull out weeds?",
+      "question_de": "Warum jäten Gärtner Unkraut?",
+      "question_it": "Perché i giardinieri strappano le erbacce?",
+      "question_fr": "Pourquoi les jardiniers arrachent-ils les mauvaises herbes ?",
+      "question_es": "¿Por qué los jardineros arrancan las malas hierbas?",
+      "question_hr": "Zašto vrtlari čupaju korov?",
+      "question_cs": "Proč zahradníci vytrhávají plevel?",
+      "question_pl": "Dlaczego ogrodnicy wyrywają chwasty?",
+      "question_fi": "Miksi puutarhurit poistavat rikkaruohoja?",
+      "question_sk": "Prečo záhradkári vytrhávajú burinu?",
+      "question_da": "Hvorfor trækker gartnere ukrudt ud?",
+      "options": [
+        {
+          "id": "space",
+          "label_en": "Weeds steal water and light",
+          "label_de": "Unkräuter stehlen Wasser und Licht",
+          "label_it": "Le erbacce rubano acqua e luce",
+          "label_fr": "Les mauvaises herbes volent l'eau et la lumière",
+          "label_es": "Las malas hierbas roban agua y luz.",
+          "label_hr": "Korov krade vodu i svjetlo",
+          "label_cs": "Plevel krade vodu a světlo",
+          "label_pl": "Chwasty kradną wodę i światło",
+          "label_fi": "Rikkaruohot varastavat vettä ja valoa",
+          "label_sk": "Burina kradne vodu a svetlo",
+          "label_da": "Ukrudt stjæler vand og lys"
+        },
+        {
+          "id": "pretty",
+          "label_en": "To make mud",
+          "label_de": "Schlamm machen",
+          "label_it": "Per fare il fango",
+          "label_fr": "Faire de la boue",
+          "label_es": "para hacer barro",
+          "label_hr": "Napraviti blato",
+          "label_cs": "K výrobě bahna",
+          "label_pl": "Aby zrobić błoto",
+          "label_fi": "Mudan tekemiseen",
+          "label_sk": "Na výrobu bahna",
+          "label_da": "At lave mudder"
+        },
+        {
+          "id": "fast",
+          "label_en": "To run faster",
+          "label_de": "Um schneller zu laufen",
+          "label_it": "Per correre più veloce",
+          "label_fr": "Pour courir plus vite",
+          "label_es": "Para correr más rápido",
+          "label_hr": "Da trči brže",
+          "label_cs": "Aby běžel rychleji",
+          "label_pl": "Aby biegać szybciej",
+          "label_fi": "Juoksemaan nopeammin",
+          "label_sk": "Aby ste bežali rýchlejšie",
+          "label_da": "At løbe hurtigere"
+        }
+      ]
+    }
+  ]
+}
