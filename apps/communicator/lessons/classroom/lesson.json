@@ -1,0 +1,293 @@
+{
+  "id": "classroom",
+  "category_id": "school",
+  "symbol_id": "classroom",
+  "thumbnail": "classroom_thumb.webp",
+  "title_en": "Classrooms",
+  "title_de": "Klassenzimmer",
+  "title_it": "Aule",
+  "title_fr": "Salles de classe",
+  "title_es": "Aulas",
+  "title_hr": "Učionice",
+  "title_cs": "Učebny",
+  "title_pl": "Sale lekcyjne",
+  "title_fi": "Luokkahuoneet",
+  "title_sk": "Učebne",
+  "title_da": "Klasseværelser",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about classrooms. A classroom is a room where a teacher and students learn together. It usually has desks, a board, and shelves for books.",
+      "script_de": "Heute lernen wir etwas über Klassenzimmer. Ein Klassenzimmer ist ein Raum, in dem ein Lehrer und Schüler gemeinsam lernen. Es verfügt normalerweise über Schreibtische, ein Brett und Regale für Bücher.",
+      "script_it": "Oggi parleremo delle aule. Un'aula è una stanza in cui un insegnante e gli studenti imparano insieme. Di solito ha scrivanie, una lavagna e scaffali per i libri.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur les salles de classe. Une salle de classe est une pièce où un enseignant et ses élèves apprennent ensemble. Il comporte généralement des bureaux, un tableau et des étagères pour les livres.",
+      "script_es": "Hoy vamos a aprender sobre las aulas. Un aula es una sala donde un profesor y sus alumnos aprenden juntos. Suele tener escritorios, tablero y estanterías para libros.",
+      "script_hr": "Danas ćemo učiti o učionicama. Učionica je prostorija u kojoj učitelj i učenici uče zajedno. Obično ima stolove, ploču i police za knjige.",
+      "script_cs": "Dnes se budeme učit o třídách. Třída je místnost, kde se učitel a studenti společně učí. Obvykle má stoly, desku a police na knihy.",
+      "script_pl": "Dzisiaj będziemy uczyć się o salach lekcyjnych. Sala lekcyjna to pomieszczenie, w którym nauczyciel i uczniowie uczą się razem. Zwykle znajdują się w nim biurka, tablica i półki na książki.",
+      "script_fi": "Tänään opimme luokkahuoneista. Luokkahuone on huone, jossa opettaja ja oppilaat oppivat yhdessä. Siinä on yleensä pöydät, taulu ja hyllyt kirjoille.",
+      "script_sk": "Dnes sa budeme učiť o triedach. Učebňa je miestnosť, kde sa učiteľ a žiaci učia spoločne. Zvyčajne má písacie stoly, dosku a police na knihy.",
+      "script_da": "I dag skal vi lære om klasseværelser. Et klasseværelse er et rum, hvor en lærer og elever lærer sammen. Det har normalt skriveborde, et bræt og hylder til bøger.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "layout",
+      "script_en": "Desks are arranged so everyone can see the teacher and the board. Materials like pencils, rulers, and books are kept nearby. A tidy classroom helps everyone focus.",
+      "script_de": "Die Schreibtische sind so angeordnet, dass jeder den Lehrer und die Tafel sehen kann. Materialien wie Bleistifte, Lineale und Bücher werden in der Nähe aufbewahrt. Ein aufgeräumtes Klassenzimmer hilft allen, sich zu konzentrieren.",
+      "script_it": "I banchi sono disposti in modo che tutti possano vedere il docente e la lavagna. Materiali come matite, righelli e libri vengono tenuti nelle vicinanze. Una classe ordinata aiuta tutti a concentrarsi.",
+      "script_fr": "Les bureaux sont disposés de manière à ce que tout le monde puisse voir l'enseignant et le tableau. Des matériaux comme des crayons, des règles et des livres sont conservés à proximité. Une salle de classe bien rangée aide tout le monde à se concentrer.",
+      "script_es": "Los escritorios están dispuestos de manera que todos puedan ver al profesor y la pizarra. Materiales como lápices, reglas y libros se guardan cerca. Un aula ordenada ayuda a que todos se concentren.",
+      "script_hr": "Stolovi su raspoređeni tako da svi mogu vidjeti nastavnika i ploču. Materijali poput olovaka, ravnala i knjiga drže se u blizini. Uredna učionica pomaže svima da se usredotoče.",
+      "script_cs": "Stoly jsou uspořádány tak, aby každý viděl učitele a tabuli. Poblíž jsou uloženy materiály jako tužky, pravítka a knihy. Uklizená třída pomáhá všem soustředit se.",
+      "script_pl": "Biurka są ustawione tak, aby każdy mógł widzieć nauczyciela i tablicę. Materiały takie jak ołówki, linijki i książki są przechowywane w pobliżu. Uporządkowana sala lekcyjna pomaga wszystkim się skoncentrować.",
+      "script_fi": "Työpöydät on järjestetty niin, että kaikki näkevät opettajan ja taulun. Lähistöllä säilytetään materiaaleja, kuten kyniä, viivoja ja kirjoja. Siisti luokkahuone auttaa kaikkia keskittymään.",
+      "script_sk": "Stoly sú usporiadané tak, aby každý videl učiteľa a tabuľu. Materiály ako ceruzky, pravítka a knihy sú uložené v blízkosti. Uprataná trieda pomáha každému sústrediť sa.",
+      "script_da": "Der er indrettet skriveborde, så alle kan se læreren og bestyrelsen. Materialer som blyanter, linealer og bøger opbevares i nærheden. Et ryddeligt klasseværelse hjælper alle med at fokusere.",
+      "images": [
+        "layout.webp",
+        "layout_2.webp",
+        "layout_3.webp"
+      ]
+    },
+    {
+      "id": "learning",
+      "script_en": "Lessons can include reading, writing, maths, science, and art. Students ask questions and work alone or in groups. A calm, kind classroom helps everyone feel safe to try.",
+      "script_de": "Der Unterricht kann Lesen, Schreiben, Mathematik, Naturwissenschaften und Kunst umfassen. Die Studierenden stellen Fragen und arbeiten alleine oder in Gruppen. Ein ruhiger, freundlicher Unterricht trägt dazu bei, dass sich jeder beim Ausprobieren sicher fühlt.",
+      "script_it": "Le lezioni possono includere lettura, scrittura, matematica, scienze e arte. Gli studenti fanno domande e lavorano da soli o in gruppo. Un’aula calma e gentile aiuta tutti a sentirsi sicuri nel provare.",
+      "script_fr": "Les cours peuvent inclure la lecture, l’écriture, les mathématiques, les sciences et l’art. Les étudiants posent des questions et travaillent seuls ou en groupe. Une salle de classe calme et bienveillante aide chacun à se sentir en sécurité pour essayer.",
+      "script_es": "Las lecciones pueden incluir lectura, escritura, matemáticas, ciencias y arte. Los estudiantes hacen preguntas y trabajan solos o en grupos. Un aula tranquila y amable ayuda a que todos se sientan seguros para intentarlo.",
+      "script_hr": "Lekcije mogu uključivati ​​čitanje, pisanje, matematiku, znanost i umjetnost. Učenici postavljaju pitanja i rade sami ili u grupama. Mirna, ljubazna učionica pomaže svima da se osjećaju sigurnima da pokušaju.",
+      "script_cs": "Lekce mohou zahrnovat čtení, psaní, matematiku, přírodní vědy a umění. Studenti kladou otázky a pracují samostatně nebo ve skupinách. Klidná a laskavá třída pomáhá každému cítit se bezpečně při zkoušení.",
+      "script_pl": "Lekcje mogą obejmować czytanie, pisanie, matematykę, nauki ścisłe i sztukę. Uczniowie zadają pytania i pracują samodzielnie lub w grupach. Spokojna, miła sala lekcyjna sprawia, że ​​każdy może czuć się bezpiecznie.",
+      "script_fi": "Oppitunnit voivat sisältää lukemista, kirjoittamista, matematiikkaa, luonnontieteitä ja taidetta. Oppilaat esittävät kysymyksiä ja työskentelevät yksin tai ryhmissä. Rauhallinen, ystävällinen luokkahuone auttaa kaikkia tuntemaan olonsa turvalliseksi kokeilla.",
+      "script_sk": "Lekcie môžu zahŕňať čítanie, písanie, matematiku, vedu a umenie. Študenti kladú otázky a pracujú samostatne alebo v skupinách. Pokojná a milá trieda pomáha každému cítiť sa bezpečne.",
+      "script_da": "Lektioner kan omfatte læsning, skrivning, matematik, naturvidenskab og kunst. Eleverne stiller spørgsmål og arbejder alene eller i grupper. Et roligt, venligt klasseværelse hjælper alle til at føle sig trygge ved at prøve.",
+      "images": [
+        "learning.webp",
+        "learning_2.webp",
+        "learning_3.webp"
+      ]
+    },
+    {
+      "id": "rules",
+      "script_en": "Classrooms work best with simple rules. Listen when someone is speaking, take turns, and look after shared things. Being kind to classmates makes learning easier for everyone.",
+      "script_de": "Der Unterricht funktioniert am besten mit einfachen Regeln. Hören Sie zu, wenn jemand spricht, wechseln Sie sich ab und kümmern Sie sich um gemeinsame Dinge. Freundlichkeit gegenüber Klassenkameraden macht das Lernen für alle einfacher.",
+      "script_it": "Le aule funzionano meglio con regole semplici. Ascolta quando qualcuno parla, fai a turno e prenditi cura delle cose condivise. Essere gentili con i compagni di classe rende l’apprendimento più facile per tutti.",
+      "script_fr": "Les salles de classe fonctionnent mieux avec des règles simples. Écoutez quand quelqu'un parle, à tour de rôle et occupez-vous des choses partagées. Être gentil avec ses camarades de classe facilite l’apprentissage pour tout le monde.",
+      "script_es": "Las aulas funcionan mejor con reglas simples. Escuche cuando alguien habla, tome turnos y cuide las cosas compartidas. Ser amable con los compañeros de clase hace que el aprendizaje sea más fácil para todos.",
+      "script_hr": "Učionice najbolje funkcioniraju s jednostavnim pravilima. Slušajte kad netko govori, izmjenjujte se i pazite na zajedničke stvari. Biti ljubazan prema kolegama iz razreda svima olakšava učenje.",
+      "script_cs": "Učebny fungují nejlépe s jednoduchými pravidly. Poslouchejte, když někdo mluví, střídejte se a starejte se o sdílené věci. Vlídnost ke spolužákům usnadňuje učení všem.",
+      "script_pl": "Zajęcia najlepiej sprawdzają się, gdy obowiązują proste zasady. Słuchaj, gdy ktoś mówi, zmieniaj się i dbaj o wspólne rzeczy. Bycie miłym dla kolegów z klasy sprawia, że ​​nauka staje się łatwiejsza dla wszystkich.",
+      "script_fi": "Luokkahuoneet toimivat parhaiten yksinkertaisilla säännöillä. Kuuntele, kun joku puhuu, vuorottele ja huolehdi yhteisistä asioista. Ystävällisyys luokkatovereille tekee oppimisesta helpompaa kaikille.",
+      "script_sk": "Učebne fungujú najlepšie s jednoduchými pravidlami. Počúvajte, keď niekto hovorí, striedajte sa a starajte sa o spoločné veci. Milosť k spolužiakom uľahčuje učenie sa všetkým.",
+      "script_da": "Klasseværelser fungerer bedst med enkle regler. Lyt, når nogen taler, skift til, og pas på delte ting. At være venlig over for klassekammerater gør læring lettere for alle.",
+      "images": [
+        "rules.webp",
+        "rules_2.webp",
+        "rules_3.webp"
+      ]
+    },
+    {
+      "id": "today",
+      "script_en": "Today classrooms often use computers and tablets alongside books. Some lessons happen outdoors or online. However they are equipped, classrooms are places to ask questions and grow.",
+      "script_de": "Heutzutage werden in Klassenzimmern neben Büchern häufig auch Computer und Tablets verwendet. Einige Lektionen finden draußen oder online statt. Wie auch immer sie ausgestattet sind, Klassenzimmer sind Orte, an denen man Fragen stellen und wachsen kann.",
+      "script_it": "Oggi le aule utilizzano spesso computer e tablet insieme ai libri. Alcune lezioni si svolgono all'aperto o online. Comunque siano attrezzate, le aule sono luoghi in cui porre domande e crescere.",
+      "script_fr": "Aujourd’hui, les salles de classe utilisent souvent des ordinateurs et des tablettes en plus des livres. Certains cours ont lieu en extérieur ou en ligne. Quel que soit leur équipement, les salles de classe sont des lieux où poser des questions et grandir.",
+      "script_es": "Hoy en día, las aulas suelen utilizar ordenadores y tabletas junto con libros. Algunas lecciones se realizan al aire libre o en línea. Independientemente de cómo estén equipadas, las aulas son lugares para hacer preguntas y crecer.",
+      "script_hr": "Danas se u učionicama uz knjige često koriste računala i tableti. Neke lekcije održavaju se na otvorenom ili online. Kako god bile opremljene, učionice su mjesta za postavljanje pitanja i rast.",
+      "script_cs": "V dnešních třídách se vedle knih často používají počítače a tablety. Některé lekce probíhají venku nebo online. Jakkoli jsou vybavené, učebny jsou místem, kde lze klást otázky a růst.",
+      "script_pl": "Obecnie w klasach często oprócz książek używa się komputerów i tabletów. Niektóre lekcje odbywają się w plenerze lub online. Niezależnie od wyposażenia sale lekcyjne są miejscami, w których można zadawać pytania i rozwijać się.",
+      "script_fi": "Nykyään luokkahuoneissa käytetään usein tietokoneita ja tabletteja kirjojen rinnalla. Jotkut oppitunnit tapahtuvat ulkona tai verkossa. Vaikka luokkahuoneet ovat varusteltuja, ne ovat paikkoja kysyä kysymyksiä ja kasvaa.",
+      "script_sk": "V dnešných triedach sa popri knihách často používajú počítače a tablety. Niektoré lekcie prebiehajú vonku alebo online. Akokoľvek sú vybavené, triedy sú miestami na kladenie otázok a rast.",
+      "script_da": "I dag bruger klasseværelser ofte computere og tablets sammen med bøger. Nogle lektioner foregår udendørs eller online. Uanset hvordan de er udstyret, er klasseværelser steder at stille spørgsmål og vokse.",
+      "images": [
+        "today.webp",
+        "today_2.webp",
+        "today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "who",
+      "correct": "students",
+      "question_en": "Who learns in a classroom?",
+      "question_de": "Wer lernt in einem Klassenzimmer?",
+      "question_it": "Chi impara in una classe?",
+      "question_fr": "Qui apprend en classe ?",
+      "question_es": "¿Quién aprende en un aula?",
+      "question_hr": "Tko uči u učionici?",
+      "question_cs": "Kdo se učí ve třídě?",
+      "question_pl": "Kto uczy się w klasie?",
+      "question_fi": "Kuka oppii luokkahuoneessa?",
+      "question_sk": "Kto sa učí v triede?",
+      "question_da": "Hvem lærer i et klasseværelse?",
+      "options": [
+        {
+          "id": "students",
+          "label_en": "Students and a teacher",
+          "label_de": "Schüler und ein Lehrer",
+          "label_it": "Studenti e un insegnante",
+          "label_fr": "Des étudiants et un professeur",
+          "label_es": "Estudiantes y un profesor.",
+          "label_hr": "Učenici i profesorica",
+          "label_cs": "Studenti a učitel",
+          "label_pl": "Uczniowie i nauczyciel",
+          "label_fi": "Opiskelijat ja opettaja",
+          "label_sk": "Študenti a učiteľ",
+          "label_da": "studerende og en lærer"
+        },
+        {
+          "id": "only babies",
+          "label_en": "Only babies",
+          "label_de": "Nur Babys",
+          "label_it": "Solo bambini",
+          "label_fr": "Seulement les bébés",
+          "label_es": "solo bebes",
+          "label_hr": "Samo bebe",
+          "label_cs": "Pouze miminka",
+          "label_pl": "Tylko dzieci",
+          "label_fi": "Vain vauvoja",
+          "label_sk": "Iba bábätká",
+          "label_da": "Kun babyer"
+        },
+        {
+          "id": "no one",
+          "label_en": "No one",
+          "label_de": "Niemand",
+          "label_it": "Nessuno",
+          "label_fr": "Personne",
+          "label_es": "Nadie",
+          "label_hr": "nitko",
+          "label_cs": "Nikdo",
+          "label_pl": "Nikt",
+          "label_fi": "Ei kukaan",
+          "label_sk": "Nikto",
+          "label_da": "Ingen"
+        }
+      ]
+    },
+    {
+      "id": "what",
+      "correct": "board",
+      "question_en": "What is usually at the front of a classroom?",
+      "question_de": "Was steht normalerweise vor einem Klassenzimmer?",
+      "question_it": "Cosa c'è di solito davanti a un'aula?",
+      "question_fr": "Qu’y a-t-il habituellement devant une classe ?",
+      "question_es": "¿Qué suele haber al frente de un salón de clases?",
+      "question_hr": "Što se obično nalazi ispred učionice?",
+      "question_cs": "Co je obvykle v přední části třídy?",
+      "question_pl": "Co zwykle znajduje się z przodu klasy?",
+      "question_fi": "Mitä yleensä on luokkahuoneen edessä?",
+      "question_sk": "Čo je zvyčajne v prednej časti triedy?",
+      "question_da": "Hvad er der normalt forrest i et klasseværelse?",
+      "options": [
+        {
+          "id": "board",
+          "label_en": "A board",
+          "label_de": "Ein Brett",
+          "label_it": "Una tavola",
+          "label_fr": "Une planche",
+          "label_es": "un tablero",
+          "label_hr": "Ploča",
+          "label_cs": "deska",
+          "label_pl": "Deska",
+          "label_fi": "Lauta",
+          "label_sk": "Doska",
+          "label_da": "Et bræt"
+        },
+        {
+          "id": "bed",
+          "label_en": "A bed",
+          "label_de": "Ein Bett",
+          "label_it": "Un letto",
+          "label_fr": "Un lit",
+          "label_es": "una cama",
+          "label_hr": "Krevet",
+          "label_cs": "Postel",
+          "label_pl": "Łóżko",
+          "label_fi": "Sänky",
+          "label_sk": "Posteľ",
+          "label_da": "En seng"
+        },
+        {
+          "id": "pool",
+          "label_en": "A swimming pool",
+          "label_de": "Ein Schwimmbad",
+          "label_it": "Una piscina",
+          "label_fr": "Une piscine",
+          "label_es": "una piscina",
+          "label_hr": "Bazen",
+          "label_cs": "Plavecký bazén",
+          "label_pl": "Basen",
+          "label_fi": "Uima-allas",
+          "label_sk": "Plavecký bazén",
+          "label_da": "En swimmingpool"
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "correct": "safe",
+      "question_en": "Why do classrooms have rules?",
+      "question_de": "Warum gibt es in Klassenzimmern Regeln?",
+      "question_it": "Perché le aule hanno delle regole?",
+      "question_fr": "Pourquoi les salles de classe ont-elles des règles ?",
+      "question_es": "¿Por qué las aulas tienen reglas?",
+      "question_hr": "Zašto učionice imaju pravila?",
+      "question_cs": "Proč mají třídy pravidla?",
+      "question_pl": "Dlaczego w klasach obowiązują zasady?",
+      "question_fi": "Miksi luokkahuoneissa on säännöt?",
+      "question_sk": "Prečo majú triedy pravidlá?",
+      "question_da": "Hvorfor har klasseværelser regler?",
+      "options": [
+        {
+          "id": "safe",
+          "label_en": "To help everyone learn and feel safe",
+          "label_de": "Um allen zu helfen, zu lernen und sich sicher zu fühlen",
+          "label_it": "Per aiutare tutti a imparare e sentirsi sicuri",
+          "label_fr": "Pour aider chacun à apprendre et à se sentir en sécurité",
+          "label_es": "Para ayudar a todos a aprender y sentirse seguros",
+          "label_hr": "Pomoći svima da uče i osjećaju se sigurno",
+          "label_cs": "Pomáhat všem učit se a cítit se bezpečně",
+          "label_pl": "Aby każdy mógł się uczyć i czuć bezpiecznie",
+          "label_fi": "Auttaa kaikkia oppimaan ja tuntemaan olonsa turvalliseksi",
+          "label_sk": "Pomôcť každému učiť sa a cítiť sa bezpečne",
+          "label_da": "At hjælpe alle med at lære og føle sig trygge"
+        },
+        {
+          "id": "fun",
+          "label_en": "To make noise",
+          "label_de": "Lärm machen",
+          "label_it": "Per fare rumore",
+          "label_fr": "Pour faire du bruit",
+          "label_es": "para hacer ruido",
+          "label_hr": "Praviti buku",
+          "label_cs": "Dělat hluk",
+          "label_pl": "Żeby hałasować",
+          "label_fi": "tehdä melua",
+          "label_sk": "Robiť hluk",
+          "label_da": "At lave larm"
+        },
+        {
+          "id": "food",
+          "label_en": "To eat sweets",
+          "label_de": "Süßigkeiten essen",
+          "label_it": "Per mangiare i dolci",
+          "label_fr": "Manger des bonbons",
+          "label_es": "comer dulces",
+          "label_hr": "Jesti slatkiše",
+          "label_cs": "Jíst sladkosti",
+          "label_pl": "Do jedzenia słodyczy",
+          "label_fi": "Syömään makeisia",
+          "label_sk": "Na jedenie sladkostí",
+          "label_da": "At spise slik"
+        }
+      ]
+    }
+  ]
+}

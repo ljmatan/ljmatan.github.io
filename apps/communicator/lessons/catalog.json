@@ -1240,6 +1240,27 @@
       "title_da": "Bøger"
     },
     {
+      "id": "classroom",
+      "category_id": "school",
+      "symbol_id": "classroom",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/classroom/classroom_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/classroom/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2250679,
+      "version": 1,
+      "title_en": "Classrooms",
+      "title_de": "Klassenzimmer",
+      "title_it": "Aule",
+      "title_fr": "Salles de classe",
+      "title_es": "Aulas",
+      "title_hr": "Učionice",
+      "title_cs": "Učebny",
+      "title_pl": "Sale lekcyjne",
+      "title_fi": "Luokkahuoneet",
+      "title_sk": "Učebne",
+      "title_da": "Klasseværelser"
+    },
+    {
       "id": "pencil",
       "category_id": "school",
       "symbol_id": "pencil",
