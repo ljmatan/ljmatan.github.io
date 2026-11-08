@@ -1702,6 +1702,27 @@
       "title_da": "Saturn"
     },
     {
+      "id": "stars",
+      "category_id": "planets",
+      "symbol_id": "stars",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/stars/stars_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/stars/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2302628,
+      "version": 1,
+      "title_en": "Stars",
+      "title_de": "Sterne",
+      "title_it": "Stelle",
+      "title_fr": "Étoiles",
+      "title_es": "estrellas",
+      "title_hr": "Zvijezde",
+      "title_cs": "hvězdy",
+      "title_pl": "Gwiazdy",
+      "title_fi": "Tähdet",
+      "title_sk": "hviezdy",
+      "title_da": "Stjerner"
+    },
+    {
       "id": "sun",
       "category_id": "planets",
       "symbol_id": "sun",
@@ -2225,6 +2246,27 @@
       "title_fi": "Junat",
       "title_sk": "Vlaky",
       "title_da": "Tog"
+    },
+    {
+      "id": "truck",
+      "category_id": "transport",
+      "symbol_id": "truck",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/truck/truck_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/truck/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2403158,
+      "version": 1,
+      "title_en": "Trucks",
+      "title_de": "Lastwagen",
+      "title_it": "Camion",
+      "title_fr": "Camions",
+      "title_es": "Camiones",
+      "title_hr": "Kamioni",
+      "title_cs": "Nákladní auta",
+      "title_pl": "Ciężarówki",
+      "title_fi": "Kuorma-autot",
+      "title_sk": "Nákladné autá",
+      "title_da": "Lastbiler"
     }
   ]
 }

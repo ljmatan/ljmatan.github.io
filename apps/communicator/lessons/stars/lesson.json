@@ -1,0 +1,293 @@
+{
+  "id": "stars",
+  "category_id": "planets",
+  "symbol_id": "stars",
+  "thumbnail": "stars_thumb.webp",
+  "title_en": "Stars",
+  "title_de": "Sterne",
+  "title_it": "Stelle",
+  "title_fr": "Étoiles",
+  "title_es": "estrellas",
+  "title_hr": "Zvijezde",
+  "title_cs": "hvězdy",
+  "title_pl": "Gwiazdy",
+  "title_fi": "Tähdet",
+  "title_sk": "hviezdy",
+  "title_da": "Stjerner",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about stars. Stars are huge balls of hot gas that make their own light. Our Sun is a star, and at night we see many others far away.",
+      "script_de": "Heute lernen wir etwas über Sterne. Sterne sind riesige Kugeln aus heißem Gas, die ihr eigenes Licht erzeugen. Unsere Sonne ist ein Stern, und nachts sehen wir viele andere in der Ferne.",
+      "script_it": "Oggi impareremo a conoscere le stelle. Le stelle sono enormi sfere di gas caldo che producono luce propria. Il nostro Sole è una stella, e di notte ne vediamo molte altre lontane.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur les étoiles. Les étoiles sont d’énormes boules de gaz chaud qui produisent leur propre lumière. Notre Soleil est une étoile, et la nuit nous en voyons bien d’autres au loin.",
+      "script_es": "Hoy vamos a aprender sobre las estrellas. Las estrellas son enormes bolas de gas caliente que producen su propia luz. Nuestro Sol es una estrella y por la noche vemos muchas otras a lo lejos.",
+      "script_hr": "Danas ćemo učiti o zvijezdama. Zvijezde su ogromne kugle vrućeg plina koje stvaraju vlastitu svjetlost. Naše Sunce je zvijezda, a noću vidimo mnoga druga daleko.",
+      "script_cs": "Dnes se budeme učit o hvězdách. Hvězdy jsou obrovské koule horkého plynu, které vytvářejí své vlastní světlo. Naše Slunce je hvězda a v noci vidíme mnoho dalších daleko.",
+      "script_pl": "Dziś będziemy uczyć się o gwiazdach. Gwiazdy to ogromne kule gorącego gazu, które emitują własne światło. Nasze Słońce jest gwiazdą i nocą widzimy wiele innych daleko.",
+      "script_fi": "Tänään opimme tähdistä. Tähdet ovat valtavia kuumakaasupalloja, jotka tekevät oman valonsa. Aurinkomme on tähti, ja yöllä näemme monia muita kaukana.",
+      "script_sk": "Dnes sa budeme učiť o hviezdach. Hviezdy sú obrovské gule horúceho plynu, ktoré vytvárajú vlastné svetlo. Naše Slnko je hviezda a v noci vidíme mnoho ďalších ďaleko.",
+      "script_da": "I dag skal vi lære om stjerner. Stjerner er enorme kugler af varm gas, der laver deres eget lys. Vores sol er en stjerne, og om natten ser vi mange andre langt væk.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "light",
+      "script_en": "Stars shine because they are very hot inside. They come in different colours and sizes. Blue stars are hotter, and red stars are cooler.",
+      "script_de": "Sterne leuchten, weil sie in ihrem Inneren sehr heiß sind. Es gibt sie in verschiedenen Farben und Größen. Blaue Sterne sind heißer und rote Sterne sind kühler.",
+      "script_it": "Le stelle brillano perché sono molto calde all'interno. Sono disponibili in diversi colori e dimensioni. Le stelle blu sono più calde e le stelle rosse sono più fredde.",
+      "script_fr": "Les étoiles brillent parce qu’elles sont très chaudes à l’intérieur. Ils viennent en différentes couleurs et tailles. Les étoiles bleues sont plus chaudes et les étoiles rouges sont plus froides.",
+      "script_es": "Las estrellas brillan porque hacen mucho calor por dentro. Vienen en diferentes colores y tamaños. Las estrellas azules son más calientes y las rojas son más frías.",
+      "script_hr": "Zvijezde sjaje jer su iznutra jako vruće. Dolaze u različitim bojama i veličinama. Plave zvijezde su toplije, a crvene hladnije.",
+      "script_cs": "Hvězdy září, protože jsou uvnitř velmi horké. Jsou v různých barvách a velikostech. Modré hvězdy jsou teplejší a červené hvězdy chladnější.",
+      "script_pl": "Gwiazdy świecą, ponieważ w środku jest bardzo gorąco. Występują w różnych kolorach i rozmiarach. Niebieskie gwiazdy są gorętsze, a czerwone gwiazdy chłodniejsze.",
+      "script_fi": "Tähdet loistavat, koska ne ovat sisällä erittäin kuumia. Niitä on eri värejä ja kokoja. Siniset tähdet ovat kuumempia ja punaiset tähdet kylmempiä.",
+      "script_sk": "Hviezdy svietia, pretože sú vo vnútri veľmi horúce. Prichádzajú v rôznych farbách a veľkostiach. Modré hviezdy sú teplejšie a červené hviezdy chladnejšie.",
+      "script_da": "Stjerner skinner, fordi de er meget varme indeni. De kommer i forskellige farver og størrelser. Blå stjerner er varmere, og røde stjerner er køligere.",
+      "images": [
+        "light.webp",
+        "light_2.webp",
+        "light_3.webp"
+      ]
+    },
+    {
+      "id": "constellations",
+      "script_en": "People have joined stars into pictures called constellations. They help us find our way around the sky. The Big Dipper and Orion are famous examples.",
+      "script_de": "Menschen haben Sterne zu Bildern zusammengefügt, die man Sternbilder nennt. Sie helfen uns, uns am Himmel zurechtzufinden. Der Große Wagen und der Orion sind berühmte Beispiele.",
+      "script_it": "Le persone hanno unito le stelle in immagini chiamate costellazioni. Ci aiutano a orientarci nel cielo. L'Orsa Maggiore e Orione sono esempi famosi.",
+      "script_fr": "Les gens ont réuni les étoiles pour former des images appelées constellations. Ils nous aident à nous repérer dans le ciel. La Grande Ourse et Orion en sont des exemples célèbres.",
+      "script_es": "La gente ha unido estrellas en imágenes llamadas constelaciones. Nos ayudan a encontrar nuestro camino en el cielo. La Osa Mayor y Orión son ejemplos famosos.",
+      "script_hr": "Ljudi su spojili zvijezde u slike koje se nazivaju sazviježđa. Pomažu nam da se snađemo na nebu. Veliki medvjed i Orion poznati su primjeri.",
+      "script_cs": "Lidé spojovali hvězdy do obrázků zvaných souhvězdí. Pomáhají nám orientovat se po obloze. Velký vůz a Orion jsou slavnými příklady.",
+      "script_pl": "Ludzie łączyli gwiazdy w obrazy zwane konstelacjami. Pomagają nam odnaleźć drogę po niebie. Wielki Wóz i Orion są znanymi przykładami.",
+      "script_fi": "Ihmiset ovat yhdistäneet tähdet kuviksi, joita kutsutaan tähtikuviksi. Ne auttavat meitä löytämään tiemme taivaalla. Otava ja Orion ovat kuuluisia esimerkkejä.",
+      "script_sk": "Ľudia spájali hviezdy do obrázkov nazývaných súhvezdia. Pomáhajú nám zorientovať sa na oblohe. Veľký voz a Orion sú známe príklady.",
+      "script_da": "Folk har sat stjerner sammen til billeder kaldet stjernebilleder. De hjælper os med at finde vej rundt i himlen. Big Dipper og Orion er berømte eksempler.",
+      "images": [
+        "constellations.webp",
+        "constellations_2.webp",
+        "constellations_3.webp"
+      ]
+    },
+    {
+      "id": "distance",
+      "script_en": "Stars are extremely far away. Their light can take many years to reach us. When we look at the night sky, we are seeing light that left long ago.",
+      "script_de": "Sterne sind extrem weit entfernt. Es kann viele Jahre dauern, bis ihr Licht uns erreicht. Wenn wir in den Nachthimmel schauen, sehen wir Licht, das vor langer Zeit verschwunden ist.",
+      "script_it": "Le stelle sono estremamente lontane. La loro luce può impiegare molti anni per raggiungerci. Quando guardiamo il cielo notturno, vediamo la luce che se ne è andata molto tempo fa.",
+      "script_fr": "Les étoiles sont extrêmement lointaines. Leur lumière peut mettre de nombreuses années à nous parvenir. Lorsque nous regardons le ciel nocturne, nous voyons une lumière qui a disparu il y a longtemps.",
+      "script_es": "Las estrellas están extremadamente lejos. Su luz puede tardar muchos años en llegar hasta nosotros. Cuando miramos el cielo nocturno, vemos una luz que desapareció hace mucho tiempo.",
+      "script_hr": "Zvijezde su izuzetno daleko. Njihovoj svjetlosti može trebati mnogo godina da dopre do nas. Kada pogledamo noćno nebo, vidimo svjetlost koja je davno nestala.",
+      "script_cs": "Hvězdy jsou velmi daleko. Jejich světlu může trvat mnoho let, než se k nám dostane. Když se podíváme na noční oblohu, vidíme světlo, které dávno odešlo.",
+      "script_pl": "Gwiazdy są bardzo daleko. Ich światło może dotrzeć do nas po wielu latach. Kiedy patrzymy na nocne niebo, widzimy światło, które opuściło dawno temu.",
+      "script_fi": "Tähdet ovat erittäin kaukana. Heidän valonsa saavuttaa meidät voi kestää useita vuosia. Kun katsomme yötaivaalle, näemme valoa, joka lähti kauan sitten.",
+      "script_sk": "Hviezdy sú veľmi ďaleko. Ich svetlu môže trvať mnoho rokov, kým sa k nám dostane. Keď sa pozrieme na nočnú oblohu, vidíme svetlo, ktoré už dávno odišlo.",
+      "script_da": "Stjerner er ekstremt langt væk. Deres lys kan tage mange år at nå os. Når vi ser på nattehimlen, ser vi lys, der forsvandt for længe siden.",
+      "images": [
+        "distance.webp",
+        "distance_2.webp",
+        "distance_3.webp"
+      ]
+    },
+    {
+      "id": "today",
+      "script_en": "Today telescopes and satellites help us study stars. Scientists learn what stars are made of and how they are born. On a clear night, you can stargaze from your own garden.",
+      "script_de": "Heute helfen uns Teleskope und Satelliten bei der Erforschung von Sternen. Wissenschaftler erfahren, woraus Sterne bestehen und wie sie entstehen. In einer klaren Nacht können Sie von Ihrem eigenen Garten aus die Sterne beobachten.",
+      "script_it": "Oggi telescopi e satelliti ci aiutano a studiare le stelle. Gli scienziati imparano di cosa sono fatte le stelle e come nascono. In una notte limpida, puoi osservare le stelle dal tuo giardino.",
+      "script_fr": "Aujourd’hui, les télescopes et les satellites nous aident à étudier les étoiles. Les scientifiques apprennent de quoi sont faites les étoiles et comment elles naissent. Par temps clair, vous pouvez observer les étoiles depuis votre propre jardin.",
+      "script_es": "Hoy en día los telescopios y satélites nos ayudan a estudiar las estrellas. Los científicos aprenden de qué están hechas las estrellas y cómo nacen. En una noche despejada, podrás contemplar las estrellas desde tu propio jardín.",
+      "script_hr": "Danas nam teleskopi i sateliti pomažu u proučavanju zvijezda. Znanstvenici saznaju od čega se zvijezde sastoje i kako nastaju. U vedroj noći možete promatrati zvijezde iz vlastitog vrta.",
+      "script_cs": "Dnes nám dalekohledy a satelity pomáhají studovat hvězdy. Vědci se učí, z čeho se hvězdy skládají a jak se rodí. Za jasné noci můžete z vlastní zahrady pozorovat hvězdy.",
+      "script_pl": "Obecnie teleskopy i satelity pomagają nam badać gwiazdy. Naukowcy dowiadują się, z czego zbudowane są gwiazdy i jak się rodzą. W pogodną noc możesz obserwować gwiazdy z własnego ogrodu.",
+      "script_fi": "Nykyään kaukoputket ja satelliitit auttavat meitä tutkimaan tähtiä. Tutkijat oppivat, mistä tähdet on tehty ja miten ne syntyvät. Kirkkaana yönä voit katsella tähtiä omasta puutarhastasi.",
+      "script_sk": "Dnes nám teleskopy a satelity pomáhajú študovať hviezdy. Vedci sa dozvedia, z čoho sú hviezdy vyrobené a ako sa rodia. Za jasnej noci môžete z vlastnej záhrady pozorovať hviezdy.",
+      "script_da": "I dag hjælper teleskoper og satellitter os med at studere stjerner. Forskere lærer, hvad stjerner er lavet af, og hvordan de er født. På en klar nat kan du se stjernerne fra din egen have.",
+      "images": [
+        "today.webp",
+        "today_2.webp",
+        "today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "what",
+      "correct": "gas",
+      "question_en": "What is a star?",
+      "question_de": "Was ist ein Stern?",
+      "question_it": "Cos'è una stella?",
+      "question_fr": "Qu'est-ce qu'une étoile ?",
+      "question_es": "¿Qué es una estrella?",
+      "question_hr": "Što je zvijezda?",
+      "question_cs": "co je hvězda?",
+      "question_pl": "Co to jest gwiazda?",
+      "question_fi": "Mikä on tähti?",
+      "question_sk": "čo je hviezda?",
+      "question_da": "Hvad er en stjerne?",
+      "options": [
+        {
+          "id": "gas",
+          "label_en": "A huge ball of hot gas",
+          "label_de": "Eine riesige Kugel aus heißem Gas",
+          "label_it": "Un'enorme palla di gas caldo",
+          "label_fr": "Une énorme boule de gaz chaud",
+          "label_es": "Una enorme bola de gas caliente",
+          "label_hr": "Ogromna kugla vrućeg plina",
+          "label_cs": "Obrovská koule horkého plynu",
+          "label_pl": "Ogromna kula gorącego gazu",
+          "label_fi": "Valtava pallo kuumaa kaasua",
+          "label_sk": "Obrovská guľa horúceho plynu",
+          "label_da": "En kæmpe kugle varm gas"
+        },
+        {
+          "id": "rock",
+          "label_en": "A cold rock",
+          "label_de": "Ein kalter Stein",
+          "label_it": "Una roccia fredda",
+          "label_fr": "Un rocher froid",
+          "label_es": "una roca fría",
+          "label_hr": "Hladna stijena",
+          "label_cs": "Studený kámen",
+          "label_pl": "Zimna skała",
+          "label_fi": "Kylmä kivi",
+          "label_sk": "Studený kameň",
+          "label_da": "En kold sten"
+        },
+        {
+          "id": "planet",
+          "label_en": "A planet",
+          "label_de": "Ein Planet",
+          "label_it": "Un pianeta",
+          "label_fr": "Une planète",
+          "label_es": "un planeta",
+          "label_hr": "Planet",
+          "label_cs": "Planeta",
+          "label_pl": "Planeta",
+          "label_fi": "Planeetta",
+          "label_sk": "Planéta",
+          "label_da": "En planet"
+        }
+      ]
+    },
+    {
+      "id": "sun",
+      "correct": "sun",
+      "question_en": "What star is closest to Earth?",
+      "question_de": "Welcher Stern ist der Erde am nächsten?",
+      "question_it": "Quale stella è più vicina alla Terra?",
+      "question_fr": "Quelle étoile est la plus proche de la Terre ?",
+      "question_es": "¿Qué estrella está más cerca de la Tierra?",
+      "question_hr": "Koja je zvijezda najbliža Zemlji?",
+      "question_cs": "Jaká hvězda je nejblíže Zemi?",
+      "question_pl": "Jaka gwiazda jest najbliżej Ziemi?",
+      "question_fi": "Mikä tähti on lähimpänä maata?",
+      "question_sk": "Ktorá hviezda je najbližšie k Zemi?",
+      "question_da": "Hvilken stjerne er tættest på Jorden?",
+      "options": [
+        {
+          "id": "sun",
+          "label_en": "The Sun",
+          "label_de": "Die Sonne",
+          "label_it": "Il sole",
+          "label_fr": "Le Soleil",
+          "label_es": "el sol",
+          "label_hr": "Sunce",
+          "label_cs": "Slunce",
+          "label_pl": "Słońce",
+          "label_fi": "Aurinko",
+          "label_sk": "Slnko",
+          "label_da": "Solen"
+        },
+        {
+          "id": "moon",
+          "label_en": "The Moon",
+          "label_de": "Der Mond",
+          "label_it": "La Luna",
+          "label_fr": "La Lune",
+          "label_es": "la luna",
+          "label_hr": "Mjesec",
+          "label_cs": "Měsíc",
+          "label_pl": "Księżyc",
+          "label_fi": "Kuu",
+          "label_sk": "Mesiac",
+          "label_da": "Månen"
+        },
+        {
+          "id": "mars",
+          "label_en": "Mars",
+          "label_de": "Mars",
+          "label_it": "Marte",
+          "label_fr": "Mars",
+          "label_es": "Marte",
+          "label_hr": "Mars",
+          "label_cs": "Mars",
+          "label_pl": "Mars",
+          "label_fi": "Mars",
+          "label_sk": "Mars",
+          "label_da": "Mars"
+        }
+      ]
+    },
+    {
+      "id": "distance",
+      "correct": "far",
+      "question_en": "Why does starlight take years to reach us?",
+      "question_de": "Warum braucht das Sternenlicht Jahre, um uns zu erreichen?",
+      "question_it": "Perché la luce delle stelle impiega anni per raggiungerci?",
+      "question_fr": "Pourquoi la lumière des étoiles met-elle des années à nous atteindre ?",
+      "question_es": "¿Por qué la luz de las estrellas tarda años en llegar hasta nosotros?",
+      "question_hr": "Zašto svjetlosti zvijezda treba godine da dopre do nas?",
+      "question_cs": "Proč k nám hvězdnému světlu trvá roky?",
+      "question_pl": "Dlaczego światło gwiazd dociera do nas latami?",
+      "question_fi": "Miksi tähtien valo saavuttaa meidät vuosia?",
+      "question_sk": "Prečo svetlu hviezd trvá roky, kým sa k nám dostane?",
+      "question_da": "Hvorfor tager stjernelys år at nå os?",
+      "options": [
+        {
+          "id": "far",
+          "label_en": "Stars are extremely far away",
+          "label_de": "Sterne sind extrem weit entfernt",
+          "label_it": "Le stelle sono estremamente lontane",
+          "label_fr": "Les étoiles sont extrêmement loin",
+          "label_es": "Las estrellas están muy lejos",
+          "label_hr": "Zvijezde su izuzetno daleko",
+          "label_cs": "Hvězdy jsou velmi daleko",
+          "label_pl": "Gwiazdy są bardzo daleko",
+          "label_fi": "Tähdet ovat erittäin kaukana",
+          "label_sk": "Hviezdy sú veľmi ďaleko",
+          "label_da": "Stjerner er ekstremt langt væk"
+        },
+        {
+          "id": "slow",
+          "label_en": "Light is very slow",
+          "label_de": "Licht ist sehr langsam",
+          "label_it": "La luce è molto lenta",
+          "label_fr": "La lumière est très lente",
+          "label_es": "La luz es muy lenta",
+          "label_hr": "Svjetlost je vrlo spora",
+          "label_cs": "Světlo je velmi pomalé",
+          "label_pl": "Światło jest bardzo powolne",
+          "label_fi": "Valo on erittäin hidasta",
+          "label_sk": "Svetlo je veľmi pomalé",
+          "label_da": "Lyset er meget langsomt"
+        },
+        {
+          "id": "dark",
+          "label_en": "Stars are dark",
+          "label_de": "Sterne sind dunkel",
+          "label_it": "Le stelle sono oscure",
+          "label_fr": "Les étoiles sont sombres",
+          "label_es": "las estrellas estan oscuras",
+          "label_hr": "Zvijezde su tamne",
+          "label_cs": "Hvězdy jsou tmavé",
+          "label_pl": "Gwiazdy są ciemne",
+          "label_fi": "Tähdet ovat tummia",
+          "label_sk": "Hviezdy sú tmavé",
+          "label_da": "Stjerner er mørke"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "id": "truck",
+  "category_id": "transport",
+  "symbol_id": "truck",
+  "thumbnail": "truck_thumb.webp",
+  "title_en": "Trucks",
+  "title_de": "Lastwagen",
+  "title_it": "Camion",
+  "title_fr": "Camions",
+  "title_es": "Camiones",
+  "title_hr": "Kamioni",
+  "title_cs": "Nákladní auta",
+  "title_pl": "Ciężarówki",
+  "title_fi": "Kuorma-autot",
+  "title_sk": "Nákladné autá",
+  "title_da": "Lastbiler",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about trucks. A truck is a large vehicle that carries goods from place to place. Trucks bring food, furniture, and many other things to shops and homes.",
+      "script_de": "Heute lernen wir etwas über Lastwagen. Ein Lastwagen ist ein großes Fahrzeug, das Güter von Ort zu Ort bringt. Lastwagen bringen Lebensmittel, Möbel und viele andere Dinge zu Geschäften und Wohnungen.",
+      "script_it": "Oggi impareremo a conoscere i camion. Un camion è un grande veicolo che trasporta merci da un luogo all'altro. I camion portano cibo, mobili e molte altre cose ai negozi e alle case.",
+      "script_fr": "Aujourd'hui, nous allons découvrir les camions. Un camion est un grand véhicule qui transporte des marchandises d'un endroit à un autre. Les camions apportent de la nourriture, des meubles et beaucoup d'autres choses aux magasins et aux maisons.",
+      "script_es": "Hoy vamos a aprender sobre los camiones. Un camión es un vehículo grande que transporta mercancías de un lugar a otro. Los camiones llevan comida, muebles y muchas otras cosas a las tiendas y a las casas.",
+      "script_hr": "Danas ćemo učiti o kamionima. Kamion je veliko vozilo koje prevozi robu s mjesta na mjesto. Kamioni donose hranu, namještaj i mnoge druge stvari u trgovine i domove.",
+      "script_cs": "Dnes se budeme učit o nákladních autech. Nákladní auto je velké vozidlo, které převáží zboží z místa na místo. Nákladní auta vozí jídlo, nábytek a mnoho dalších věcí do obchodů a domovů.",
+      "script_pl": "Dziś dowiemy się czegoś o ciężarówkach. Ciężarówka to duży pojazd, który przewozi towary z miejsca na miejsce. Ciężarówki dostarczają jedzenie, meble i wiele innych rzeczy do sklepów i domów.",
+      "script_fi": "Tänään opimme kuorma-autoista. Kuorma-auto on suuri ajoneuvo, joka kuljettaa tavaroita paikasta toiseen. Kuorma-autot tuovat ruokaa, huonekaluja ja monia muita asioita kauppoihin ja koteihin.",
+      "script_sk": "Dnes sa budeme učiť o nákladných autách. Nákladné auto je veľké vozidlo, ktoré prepravuje tovar z miesta na miesto. Nákladné autá vozia jedlo, nábytok a mnoho ďalších vecí do obchodov a domovov.",
+      "script_da": "I dag skal vi lære om lastbiler. En lastbil er et stort køretøj, der transporterer varer fra sted til sted. Lastbiler bringer mad, møbler og mange andre ting til butikker og hjem.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "parts",
+      "script_en": "A truck usually has a cab where the driver sits and a trailer or cargo box behind it. Big wheels help it carry heavy loads. Some trucks have a crane or a tank instead of a box.",
+      "script_de": "Ein Lastwagen hat meist ein Führerhaus, in dem der Fahrer sitzt, und dahinter einen Anhänger oder eine Ladefläche. Große Räder helfen ihm, schwere Lasten zu tragen. Manche Lastwagen haben einen Kran oder einen Tank statt einer Kiste.",
+      "script_it": "Un camion di solito ha una cabina dove siede il conducente e dietro un rimorchio o un vano di carico. Le ruote grandi lo aiutano a trasportare carichi pesanti. Alcuni camion hanno una gru o una cisterna invece di un vano.",
+      "script_fr": "Un camion a généralement une cabine où s'assoit le conducteur et, derrière, une remorque ou une caisse de chargement. De grandes roues l'aident à porter de lourdes charges. Certains camions ont une grue ou une citerne au lieu d'une caisse.",
+      "script_es": "Un camión suele tener una cabina donde se sienta el conductor y, detrás, un remolque o una caja de carga. Las ruedas grandes le ayudan a llevar cargas pesadas. Algunos camiones tienen una grúa o un tanque en lugar de una caja.",
+      "script_hr": "Kamion obično ima kabinu u kojoj sjedi vozač i iza nje prikolicu ili teretni sanduk. Veliki kotači pomažu mu nositi teške terete. Neki kamioni imaju dizalicu ili spremnik umjesto sanduka.",
+      "script_cs": "Nákladní auto má obvykle kabinu, kde sedí řidič, a za ní přívěs nebo nákladní box. Velká kola mu pomáhají nosit těžké náklady. Některá nákladní auta mají místo boxu jeřáb nebo cisternu.",
+      "script_pl": "Ciężarówka ma zwykle kabinę, w której siedzi kierowca, a za nią przyczepę lub skrzynię ładunkową. Duże koła pomagają jej przewozić ciężkie ładunki. Niektóre ciężarówki mają zamiast skrzyni dźwig lub cysternę.",
+      "script_fi": "Kuorma-autossa on yleensä ohjaamo, jossa kuljettaja istuu, ja sen takana perävaunu tai kuormakori. Suuret pyörät auttavat sitä kantamaan raskaita kuormia. Joissakin kuorma-autoissa on korin sijaan nosturi tai säiliö.",
+      "script_sk": "Nákladné auto má zvyčajne kabínu, v ktorej sedí vodič, a za ňou príves alebo nákladný box. Veľké kolesá mu pomáhajú nosiť ťažké náklady. Niektoré nákladné autá majú namiesto boxu žeriav alebo cisternu.",
+      "script_da": "En lastbil har normalt et førerhus, hvor chaufføren sidder, og bagved en trailer eller en ladkasse. Store hjul hjælper den med at bære tunge læs. Nogle lastbiler har en kran eller en tank i stedet for en kasse.",
+      "images": [
+        "parts.webp",
+        "parts_2.webp",
+        "parts_3.webp"
+      ]
+    },
+    {
+      "id": "delivery",
+      "script_en": "Trucks load and unload at warehouses and shops. Workers use ramps, trolleys, and forklifts to move heavy boxes. Planning routes helps trucks deliver goods on time and use less fuel.",
+      "script_de": "Lastwagen werden an Lagerhäusern und Geschäften be- und entladen. Arbeiter nutzen Rampen, Rollwagen und Gabelstapler, um schwere Kisten zu bewegen. Gut geplante Routen helfen, Waren pünktlich zu liefern und weniger Kraftstoff zu verbrauchen.",
+      "script_it": "I camion caricano e scaricano nei magazzini e nei negozi. I lavoratori usano rampe, carrelli e muletti per spostare scatole pesanti. Pianificare i percorsi aiuta a consegnare in orario e a consumare meno carburante.",
+      "script_fr": "Les camions chargent et déchargent dans les entrepôts et les magasins. Les ouvriers utilisent des rampes, des chariots et des chariots élévateurs pour déplacer les lourdes caisses. Bien planifier les itinéraires aide à livrer à temps et à consommer moins de carburant.",
+      "script_es": "Los camiones cargan y descargan en almacenes y tiendas. Los trabajadores usan rampas, carretillas y montacargas para mover cajas pesadas. Planificar las rutas ayuda a entregar a tiempo y a consumir menos combustible.",
+      "script_hr": "Kamioni utovaruju i istovaruju u skladištima i trgovinama. Radnici koriste rampe, kolica i viljuškare za premještanje teških kutija. Planiranje ruta pomaže dostaviti robu na vrijeme i trošiti manje goriva.",
+      "script_cs": "Nákladní auta nakládají a vykládají ve skladech a obchodech. Pracovníci používají rampy, vozíky a vysokozdvižné vozíky k přesunu těžkých krabic. Plánování tras pomáhá doručit zboží včas a spotřebovat méně paliva.",
+      "script_pl": "Ciężarówki załadowują i rozładowują towary w magazynach i sklepach. Pracownicy używają ramp, wózków i wózków widłowych do przenoszenia ciężkich skrzyń. Planowanie tras pomaga dostarczać towary na czas i zużywać mniej paliwa.",
+      "script_fi": "Kuorma-autot lastaavat ja purkavat varastoissa ja kaupoissa. Työntekijät käyttävät ramppeja, kärryjä ja trukkeja raskaiden laatikoiden siirtämiseen. Reittien suunnittelu auttaa toimittamaan tavarat ajallaan ja käyttämään vähemmän polttoainetta.",
+      "script_sk": "Nákladné autá nakladajú a vykladajú v skladoch a obchodoch. Pracovníci používajú rampy, vozíky a vysokozdvižné vozíky na presun ťažkých krabíc. Plánovanie trás pomáha doručiť tovar načas a spotrebovať menej paliva.",
+      "script_da": "Lastbiler læsser og losser på lagre og i butikker. Arbejderne bruger ramper, vogne og gaffeltrucks til at flytte tunge kasser. Planlægning af ruter hjælper med at levere varer til tiden og bruge mindre brændstof.",
+      "images": [
+        "delivery.webp",
+        "delivery_2.webp",
+        "delivery_3.webp"
+      ]
+    },
+    {
+      "id": "safety",
+      "script_en": "Trucks are much bigger than cars, so drivers need extra space to turn and stop. Other road users should stay out of a truck's blind spots. Safe driving and regular checks keep everyone on the road safer.",
+      "script_de": "Lastwagen sind viel größer als Autos, deshalb brauchen Fahrer mehr Platz zum Abbiegen und Bremsen. Andere Verkehrsteilnehmer sollten sich nicht in den toten Winkeln eines Lastwagens aufhalten. Sicheres Fahren und regelmäßige Kontrollen machen die Straße für alle sicherer.",
+      "script_it": "I camion sono molto più grandi delle auto, quindi i conducenti hanno bisogno di più spazio per girare e fermarsi. Gli altri utenti della strada dovrebbero stare fuori dai punti ciechi di un camion. Guidare con prudenza e fare controlli regolari rende la strada più sicura per tutti.",
+      "script_fr": "Les camions sont beaucoup plus grands que les voitures, donc les conducteurs ont besoin de plus d'espace pour tourner et s'arrêter. Les autres usagers de la route doivent rester hors des angles morts d'un camion. Une conduite prudente et des contrôles réguliers rendent la route plus sûre pour tous.",
+      "script_es": "Los camiones son mucho más grandes que los coches, así que los conductores necesitan más espacio para girar y detenerse. Los demás usuarios de la vía deben mantenerse fuera de los ángulos muertos de un camión. Conducir con seguridad y hacer revisiones periódicas hace la carretera más segura para todos.",
+      "script_hr": "Kamioni su mnogo veći od automobila, pa vozačima treba više prostora za skretanje i zaustavljanje. Ostali sudionici u prometu trebaju ostati izvan mrtvih kutova kamiona. Sigurna vožnja i redovite provjere čine cestu sigurnijom za sve.",
+      "script_cs": "Nákladní auta jsou mnohem větší než osobní auta, a proto řidiči potřebují více prostoru k zatáčení a zastavení. Ostatní účastníci provozu by měli zůstat mimo slepá místa nákladního auta. Bezpečná jízda a pravidelné kontroly dělají silnici bezpečnější pro všechny.",
+      "script_pl": "Ciężarówki są znacznie większe od samochodów, więc kierowcy potrzebują więcej miejsca do skręcania i zatrzymywania się. Inni użytkownicy drogi powinni trzymać się z dala od martwych pól ciężarówki. Bezpieczna jazda i regularne kontrole czynią drogę bezpieczniejszą dla wszystkich.",
+      "script_fi": "Kuorma-autot ovat paljon suurempia kuin henkilöautot, joten kuljettajat tarvitsevat enemmän tilaa kääntymiseen ja pysähtymiseen. Muiden tielläliikkujien pitäisi pysyä poissa kuorma-auton katvealueilta. Turvallinen ajaminen ja säännölliset tarkastukset tekevät tiestä turvallisemman kaikille.",
+      "script_sk": "Nákladné autá sú oveľa väčšie ako osobné autá, preto vodiči potrebujú viac priestoru na odbočovanie a zastavenie. Ostatní účastníci cestnej premávky by mali zostať mimo slepých miest nákladného auta. Bezpečná jazda a pravidelné kontroly robia cestu bezpečnejšou pre všetkých.",
+      "script_da": "Lastbiler er meget større end biler, så chaufførerne har brug for ekstra plads til at dreje og stoppe. Andre trafikanter skal holde sig væk fra en lastbils blinde vinkler. Sikker kørsel og regelmæssige tjek gør vejen sikrere for alle.",
+      "images": [
+        "safety.webp",
+        "safety_2.webp",
+        "safety_3.webp"
+      ]
+    },
+    {
+      "id": "today",
+      "script_en": "Today engineers are building cleaner electric trucks. They are quieter and produce less pollution. Even with new technology, trucks remain an important part of how the world moves goods.",
+      "script_de": "Heute entwickeln Ingenieure sauberere elektrische Lastwagen. Sie sind leiser und verursachen weniger Umweltverschmutzung. Auch mit neuer Technologie bleiben Lastwagen ein wichtiger Teil davon, wie die Welt Güter bewegt.",
+      "script_it": "Oggi gli ingegneri costruiscono camion elettrici più puliti. Sono più silenziosi e producono meno inquinamento. Anche con le nuove tecnologie, i camion restano una parte importante del modo in cui il mondo trasporta le merci.",
+      "script_fr": "Aujourd'hui, les ingénieurs construisent des camions électriques plus propres. Ils sont plus silencieux et polluent moins. Même avec les nouvelles technologies, les camions restent un élément important du transport des marchandises dans le monde.",
+      "script_es": "Hoy los ingenieros construyen camiones eléctricos más limpios. Son más silenciosos y contaminan menos. Incluso con las nuevas tecnologías, los camiones siguen siendo una parte importante de cómo el mundo mueve las mercancías.",
+      "script_hr": "Danas inženjeri grade čišće električne kamione. Tiši su i stvaraju manje zagađenja. Čak i s novom tehnologijom, kamioni ostaju važan dio načina na koji svijet prevozi robu.",
+      "script_cs": "Dnešní inženýři staví čistší elektrická nákladní auta. Jsou tišší a produkují méně znečištění. I s novou technologií zůstávají nákladní auta důležitou součástí toho, jak svět přepravuje zboží.",
+      "script_pl": "Dzisiejsze ciężarówki buduje się tak, aby były czystsze i elektryczne. Są cichsze i powodują mniej zanieczyszczeń. Nawet z nową technologią ciężarówki pozostają ważną częścią światowego transportu towarów.",
+      "script_fi": "Nykyään insinöörit rakentavat puhtaampia sähkökuorma-autoja. Ne ovat hiljaisempia ja tuottavat vähemmän saastetta. Uudesta teknologiasta huolimatta kuorma-autot ovat edelleen tärkeä osa sitä, miten maailma kuljettaa tavaroita.",
+      "script_sk": "Dnešné nákladné autá sa stavajú čistejšie a elektrické. Sú tichšie a produkujú menej znečistenia. Aj s novou technológiou zostávajú nákladné autá dôležitou súčasťou svetovej prepravy tovaru.",
+      "script_da": "I dag bygger ingeniører renere elektriske lastbiler. De er mere stille og forurener mindre. Selv med ny teknologi er lastbiler stadig en vigtig del af, hvordan verden flytter varer.",
+      "images": [
+        "today.webp",
+        "today_2.webp",
+        "today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "what",
+      "correct": "goods",
+      "question_en": "What do trucks mainly carry?",
+      "question_de": "Was befördern Lastwagen hauptsächlich?",
+      "question_it": "Cosa trasportano principalmente i camion?",
+      "question_fr": "Que transportent principalement les camions ?",
+      "question_es": "¿Qué transportan principalmente los camiones?",
+      "question_hr": "Što kamioni uglavnom prevoze?",
+      "question_cs": "Co nákladní auta hlavně převáží?",
+      "question_pl": "Co ciężarówki głównie przewożą?",
+      "question_fi": "Mitä kuorma-autot pääasiassa kuljettavat?",
+      "question_sk": "Čo nákladné autá hlavne prepravujú?",
+      "question_da": "Hvad transporterer lastbiler hovedsageligt?",
+      "options": [
+        {
+          "id": "goods",
+          "label_en": "Goods and cargo",
+          "label_de": "Waren und Fracht",
+          "label_it": "Merci e carichi",
+          "label_fr": "Des marchandises et du fret",
+          "label_es": "Mercancías y carga",
+          "label_hr": "Robu i teret",
+          "label_cs": "Zboží a náklad",
+          "label_pl": "Towary i ładunki",
+          "label_fi": "Tavaroita ja lastia",
+          "label_sk": "Tovar a náklad",
+          "label_da": "Varer og gods"
+        },
+        {
+          "id": "only people",
+          "label_en": "Only people",
+          "label_de": "Nur Menschen",
+          "label_it": "Solo persone",
+          "label_fr": "Seulement des personnes",
+          "label_es": "Solo personas",
+          "label_hr": "Samo ljude",
+          "label_cs": "Jen lidi",
+          "label_pl": "Tylko ludzi",
+          "label_fi": "Vain ihmisiä",
+          "label_sk": "Len ľudí",
+          "label_da": "Kun mennesker"
+        },
+        {
+          "id": "water",
+          "label_en": "Only water",
+          "label_de": "Nur Wasser",
+          "label_it": "Solo acqua",
+          "label_fr": "Seulement de l'eau",
+          "label_es": "Solo agua",
+          "label_hr": "Samo vodu",
+          "label_cs": "Jen vodu",
+          "label_pl": "Tylko wodę",
+          "label_fi": "Vain vettä",
+          "label_sk": "Len vodu",
+          "label_da": "Kun vand"
+        }
+      ]
+    },
+    {
+      "id": "cab",
+      "correct": "cab",
+      "question_en": "Where does the truck driver sit?",
+      "question_de": "Wo sitzt der Lastwagenfahrer?",
+      "question_it": "Dove siede il conducente del camion?",
+      "question_fr": "Où s'assoit le conducteur du camion ?",
+      "question_es": "¿Dónde se sienta el conductor del camión?",
+      "question_hr": "Gdje sjedi vozač kamiona?",
+      "question_cs": "Kde sedí řidič nákladního auta?",
+      "question_pl": "Gdzie siedzi kierowca ciężarówki?",
+      "question_fi": "Missä kuorma-auton kuljettaja istuu?",
+      "question_sk": "Kde sedí vodič nákladného auta?",
+      "question_da": "Hvor sidder lastbilchaufføren?",
+      "options": [
+        {
+          "id": "cab",
+          "label_en": "In the cab",
+          "label_de": "Im Führerhaus",
+          "label_it": "Nella cabina",
+          "label_fr": "Dans la cabine",
+          "label_es": "En la cabina",
+          "label_hr": "U kabini",
+          "label_cs": "V kabině",
+          "label_pl": "W kabinie",
+          "label_fi": "Ohjaamossa",
+          "label_sk": "V kabíne",
+          "label_da": "I førerhuset"
+        },
+        {
+          "id": "trailer",
+          "label_en": "In the trailer",
+          "label_de": "Im Anhänger",
+          "label_it": "Nel rimorchio",
+          "label_fr": "Dans la remorque",
+          "label_es": "En el remolque",
+          "label_hr": "U prikolici",
+          "label_cs": "V přívěsu",
+          "label_pl": "W przyczepie",
+          "label_fi": "Perävaunussa",
+          "label_sk": "V prívese",
+          "label_da": "I traileren"
+        },
+        {
+          "id": "wheel",
+          "label_en": "On the wheel",
+          "label_de": "Auf dem Rad",
+          "label_it": "Sulla ruota",
+          "label_fr": "Sur la roue",
+          "label_es": "En la rueda",
+          "label_hr": "Na kotaču",
+          "label_cs": "Na kole",
+          "label_pl": "Na kole",
+          "label_fi": "Pyörän päällä",
+          "label_sk": "Na kolese",
+          "label_da": "På hjulet"
+        }
+      ]
+    },
+    {
+      "id": "safe",
+      "correct": "big",
+      "question_en": "Why should cars give trucks extra space?",
+      "question_de": "Warum sollten Autos Lastwagen mehr Platz geben?",
+      "question_it": "Perché le auto dovrebbero dare più spazio ai camion?",
+      "question_fr": "Pourquoi les voitures doivent-elles laisser plus d'espace aux camions ?",
+      "question_es": "¿Por qué los coches deben dar más espacio a los camiones?",
+      "question_hr": "Zašto automobili trebaju dati kamionima više prostora?",
+      "question_cs": "Proč by osobní auta měla dát nákladním autům více prostoru?",
+      "question_pl": "Dlaczego samochody powinny dawać ciężarówkom więcej miejsca?",
+      "question_fi": "Miksi autojen pitäisi antaa kuorma-autoille enemmän tilaa?",
+      "question_sk": "Prečo by osobné autá mali dať nákladným autám viac priestoru?",
+      "question_da": "Hvorfor skal biler give lastbiler ekstra plads?",
+      "options": [
+        {
+          "id": "big",
+          "label_en": "Trucks are big and need room to stop",
+          "label_de": "Lastwagen sind groß und brauchen Platz zum Bremsen",
+          "label_it": "I camion sono grandi e hanno bisogno di spazio per fermarsi",
+          "label_fr": "Les camions sont grands et ont besoin d'espace pour s'arrêter",
+          "label_es": "Los camiones son grandes y necesitan espacio para detenerse",
+          "label_hr": "Kamioni su veliki i trebaju prostor za zaustavljanje",
+          "label_cs": "Nákladní auta jsou velká a potřebují prostor k zastavení",
+          "label_pl": "Ciężarówki są duże i potrzebują miejsca do zatrzymania",
+          "label_fi": "Kuorma-autot ovat suuria ja tarvitsevat tilaa pysähtyä",
+          "label_sk": "Nákladné autá sú veľké a potrebujú priestor na zastavenie",
+          "label_da": "Lastbiler er store og har brug for plads til at stoppe"
+        },
+        {
+          "id": "fast",
+          "label_en": "Trucks are always faster",
+          "label_de": "Lastwagen sind immer schneller",
+          "label_it": "I camion sono sempre più veloci",
+          "label_fr": "Les camions sont toujours plus rapides",
+          "label_es": "Los camiones siempre son más rápidos",
+          "label_hr": "Kamioni su uvijek brži",
+          "label_cs": "Nákladní auta jsou vždy rychlejší",
+          "label_pl": "Ciężarówki są zawsze szybsze",
+          "label_fi": "Kuorma-autot ovat aina nopeampia",
+          "label_sk": "Nákladné autá sú vždy rýchlejšie",
+          "label_da": "Lastbiler er altid hurtigere"
+        },
+        {
+          "id": "small",
+          "label_en": "Trucks are very small",
+          "label_de": "Lastwagen sind sehr klein",
+          "label_it": "I camion sono molto piccoli",
+          "label_fr": "Les camions sont très petits",
+          "label_es": "Los camiones son muy pequeños",
+          "label_hr": "Kamioni su vrlo mali",
+          "label_cs": "Nákladní auta jsou velmi malá",
+          "label_pl": "Ciężarówki są bardzo małe",
+          "label_fi": "Kuorma-autot ovat hyvin pieniä",
+          "label_sk": "Nákladné autá sú veľmi malé",
+          "label_da": "Lastbiler er meget små"
+        }
+      ]
+    }
+  ]
+}
