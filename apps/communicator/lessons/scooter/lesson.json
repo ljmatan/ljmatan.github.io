@@ -1,0 +1,293 @@
+{
+  "id": "scooter",
+  "category_id": "transport",
+  "symbol_id": "scooter",
+  "thumbnail": "scooter_thumb.webp",
+  "title_en": "Scooters",
+  "title_de": "Roller",
+  "title_it": "Scooter",
+  "title_fr": "Trottinettes",
+  "title_es": "scooters",
+  "title_hr": "Skuteri",
+  "title_cs": "Skútry",
+  "title_pl": "Skutery",
+  "title_fi": "Skootterit",
+  "title_sk": "Kolobežky",
+  "title_da": "Scootere",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about scooters. A scooter has a deck to stand on, two small wheels, and handlebars. People use scooters to travel short distances and have fun.",
+      "script_de": "Heute lernen wir etwas über Roller. Ein Roller hat ein Deck zum Stehen, zwei kleine Räder und einen Lenker. Menschen nutzen Roller, um kurze Strecken zurückzulegen und Spaß zu haben.",
+      "script_it": "Oggi parleremo degli scooter. Uno scooter ha un ponte su cui stare in piedi, due piccole ruote e un manubrio. Le persone usano gli scooter per percorrere brevi distanze e divertirsi.",
+      "script_fr": "Aujourd'hui, nous allons découvrir les scooters. Un scooter a un plateau sur lequel se tenir debout, deux petites roues et un guidon. Les gens utilisent des scooters pour parcourir de courtes distances et s’amuser.",
+      "script_es": "Hoy vamos a aprender sobre scooters. Un scooter tiene una plataforma para pararse, dos ruedas pequeñas y un manillar. La gente usa scooters para recorrer distancias cortas y divertirse.",
+      "script_hr": "Danas ćemo učiti o skuterima. Skuter ima platformu za stajanje, dva mala kotača i upravljač. Ljudi koriste skutere za kratke udaljenosti i zabavu.",
+      "script_cs": "Dnes se budeme učit o koloběžkách. Koloběžka má plošinu na stání, dvě malá kolečka a řídítka. Lidé používají koloběžky k cestování na krátké vzdálenosti a zábavě.",
+      "script_pl": "Dzisiaj będziemy uczyć się o hulajnogach. Hulajnoga ma podest, na którym można stanąć, dwa małe koła i kierownicę. Ludzie używają hulajnóg do pokonywania krótkich dystansów i zabawy.",
+      "script_fi": "Tänään opimme skoottereista. Skootterissa on kansi seisomaan, kaksi pientä pyörää ja ohjaustanko. Ihmiset käyttävät skoottereita matkustaakseen lyhyitä matkoja ja pitääkseen hauskaa.",
+      "script_sk": "Dnes sa budeme učiť o kolobežkách. Kolobežka má plošinu na státie, dve malé kolesá a riadidlá. Ľudia používajú kolobežky na cestovanie na krátke vzdialenosti a zábavu.",
+      "script_da": "I dag skal vi lære om scootere. En scooter har et dæk at stå på, to små hjul og styr. Folk bruger scootere til at rejse korte afstande og have det sjovt.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "parts",
+      "script_en": "The deck is the flat part you stand on. The handlebars help you steer, and the brake slows you down. A bell or light helps other people notice you.",
+      "script_de": "Das Deck ist der flache Teil, auf dem Sie stehen. Der Lenker hilft Ihnen beim Lenken und die Bremse bremst Sie ab. Eine Glocke oder ein Licht hilft anderen Menschen, auf Sie aufmerksam zu machen.",
+      "script_it": "Il ponte è la parte piatta su cui ti trovi. Il manubrio ti aiuta a sterzare e il freno ti rallenta. Un campanello o una luce aiutano le altre persone a notarti.",
+      "script_fr": "Le pont est la partie plate sur laquelle vous vous tenez. Le guidon vous aide à diriger et le frein vous ralentit. Une cloche ou une lumière aide les autres à vous remarquer.",
+      "script_es": "La plataforma es la parte plana sobre la que estás parado. El manillar te ayuda a conducir y el freno te frena. Una campana o una luz ayuda a que otras personas te noten.",
+      "script_hr": "Paluba je ravni dio na kojem stojite. Upravljač vam pomaže pri upravljanju, a kočnica vas usporava. Zvono ili svjetlo pomaže drugim ljudima da vas primijete.",
+      "script_cs": "Paluba je plochá část, na které stojíte. Řídítka vám pomohou řídit a brzda vás zpomalí. Zvonek nebo světlo pomáhá ostatním, aby si vás všimli.",
+      "script_pl": "Pokład to płaska część, na której stoisz. Kierownica pomaga w kierowaniu, a hamulec spowalnia. Dzwonek lub światło pomaga innym osobom Cię zauważyć.",
+      "script_fi": "Kansi on tasainen osa, jolla seisot. Ohjaustanko auttaa sinua ohjaamaan ja jarru hidastaa sinua. Kello tai valo auttaa muita ihmisiä huomaamaan sinut.",
+      "script_sk": "Paluba je plochá časť, na ktorej stojíte. Riadidlá vám pomôžu pri riadení a brzda vás spomalí. Zvonček alebo svetlo pomáha iným ľuďom, aby si vás všimli.",
+      "script_da": "Dækket er den flade del, du står på. Styret hjælper dig med at styre, og bremsen bremser dig. En klokke eller et lys hjælper andre mennesker med at lægge mærke til dig.",
+      "images": [
+        "parts.webp",
+        "parts_2.webp",
+        "parts_3.webp"
+      ]
+    },
+    {
+      "id": "safety",
+      "script_en": "Always wear a helmet and pads when you ride. Stay away from busy roads and use smooth, open paths. Check the brake and wheels before you set off.",
+      "script_de": "Tragen Sie beim Fahren immer einen Helm und Schoner. Halten Sie sich von stark befahrenen Straßen fern und nutzen Sie glatte, offene Wege. Überprüfen Sie die Bremse und die Räder, bevor Sie losfahren.",
+      "script_it": "Indossa sempre il casco e le imbottiture quando guidi. Stare lontano dalle strade trafficate e utilizzare percorsi lisci e aperti. Controlla il freno e le ruote prima di partire.",
+      "script_fr": "Portez toujours un casque et des protections lorsque vous roulez. Éloignez-vous des routes très fréquentées et empruntez des chemins lisses et ouverts. Vérifiez les freins et les roues avant de partir.",
+      "script_es": "Utilice siempre casco y protecciones cuando conduzca. Manténgase alejado de carreteras muy transitadas y utilice caminos abiertos y lisos. Compruebe los frenos y las ruedas antes de partir.",
+      "script_hr": "Uvijek nosite kacigu i jastučiće kada vozite. Držite se podalje od prometnih cesta i koristite glatke, otvorene staze. Prije polaska provjerite kočnicu i kotače.",
+      "script_cs": "Při jízdě vždy noste helmu a chrániče. Drž se dál od rušných silnic a používejte hladké, otevřené cesty. Než vyrazíte, zkontrolujte brzdu a kola.",
+      "script_pl": "Podczas jazdy zawsze noś kask i ochraniacze. Trzymaj się z dala od ruchliwych dróg i korzystaj z gładkich, otwartych ścieżek. Przed ruszeniem sprawdź hamulce i koła.",
+      "script_fi": "Käytä aina kypärää ja pehmusteita ajaessasi. Pysy kaukana vilkkailta teiltä ja käytä tasaisia, avoimia polkuja. Tarkista jarrut ja pyörät ennen lähtöä.",
+      "script_sk": "Pri jazde vždy noste prilbu a chrániče. Drž sa ďalej od rušných ciest a používajte hladké, otvorené cesty. Pred jazdou skontrolujte brzdu a kolesá.",
+      "script_da": "Bær altid hjelm og puder, når du rider. Hold dig væk fra befærdede veje og brug glatte, åbne stier. Tjek bremse og hjul, før du tager afsted.",
+      "images": [
+        "safety.webp",
+        "safety_2.webp",
+        "safety_3.webp"
+      ]
+    },
+    {
+      "id": "learn",
+      "script_en": "Learning to ride takes practice. Start slowly with both hands on the handlebars. Look ahead, keep one foot ready, and stop often to rest.",
+      "script_de": "Reiten lernen erfordert Übung. Beginnen Sie langsam mit beiden Händen am Lenker. Schauen Sie nach vorne, halten Sie einen Fuß bereit und bleiben Sie oft stehen, um sich auszuruhen.",
+      "script_it": "Imparare a guidare richiede pratica. Inizia lentamente con entrambe le mani sul manubrio. Guarda avanti, tieni un piede pronto e fermati spesso per riposare.",
+      "script_fr": "Apprendre à rouler demande de la pratique. Commencez lentement avec les deux mains sur le guidon. Regardez devant vous, gardez un pied prêt et arrêtez-vous souvent pour vous reposer.",
+      "script_es": "Aprender a montar requiere práctica. Comience lentamente con ambas manos en el manillar. Mire hacia adelante, mantenga un pie preparado y deténgase con frecuencia para descansar.",
+      "script_hr": "Za učenje jahanja potrebna je praksa. Počnite polako s obje ruke na upravljaču. Gledajte naprijed, držite jedno stopalo spremno i često se zaustavljajte radi odmora.",
+      "script_cs": "Naučit se jezdit vyžaduje cvik. Začněte pomalu s oběma rukama na řídítkách. Dívejte se dopředu, mějte jednu nohu připravenou a často se zastavujte, abyste si odpočinuli.",
+      "script_pl": "Nauka jazdy wymaga praktyki. Zacznij powoli, trzymając obie ręce na kierownicy. Patrz przed siebie, trzymaj jedną stopę w gotowości i często zatrzymuj się, aby odpocząć.",
+      "script_fi": "Ajamaan oppiminen vaatii harjoittelua. Aloita hitaasti molemmat kädet ohjaustangolla. Katso eteenpäin, pidä toinen jalka valmiina ja pysähdy usein lepäämään.",
+      "script_sk": "Naučiť sa jazdiť si vyžaduje prax. Začnite pomaly s oboma rukami na riadidlách. Pozerajte sa dopredu, majte jednu nohu pripravenú a často sa zastavujte, aby ste si oddýchli.",
+      "script_da": "At lære at ride kræver øvelse. Start langsomt med begge hænder på styret. Se fremad, hold den ene fod klar, og stop ofte for at hvile.",
+      "images": [
+        "learn.webp",
+        "learn_2.webp",
+        "learn_3.webp"
+      ]
+    },
+    {
+      "id": "today",
+      "script_en": "Today many scooters are electric and can travel faster. Park them neatly so they do not block paths. However you ride, courtesy and safety matter most.",
+      "script_de": "Heutzutage sind viele Roller elektrisch und können schneller fahren. Parken Sie sie ordentlich, damit sie den Weg nicht blockieren. Wie auch immer Sie fahren, Höflichkeit und Sicherheit sind das Wichtigste.",
+      "script_it": "Oggi molti scooter sono elettrici e possono viaggiare più velocemente. Parcheggiateli ordinatamente in modo che non blocchino i percorsi. Comunque guidi, la cortesia e la sicurezza contano di più.",
+      "script_fr": "Aujourd’hui, de nombreux scooters sont électriques et peuvent voyager plus vite. Garez-les soigneusement afin qu’ils ne bloquent pas les chemins. Quelle que soit la manière dont vous conduisez, la courtoisie et la sécurité comptent avant tout.",
+      "script_es": "Hoy en día muchos patinetes son eléctricos y pueden viajar más rápido. Estacione cuidadosamente para que no bloqueen los caminos. Sin importar cómo conduzcas, la cortesía y la seguridad son lo más importante.",
+      "script_hr": "Danas su mnogi skuteri električni i mogu putovati brže. Uredno ih parkirajte kako ne bi blokirali puteve. Kako god da se vozite, ljubaznost i sigurnost su najvažniji.",
+      "script_cs": "Dnes je mnoho skútrů elektrických a mohou cestovat rychleji. Zaparkujte je úhledně, aby neblokovaly cesty. Ať už jezdíte jakkoli, nejvíce záleží na zdvořilosti a bezpečnosti.",
+      "script_pl": "Obecnie wiele hulajnóg jest elektrycznych i może podróżować szybciej. Zaparkuj je starannie, tak aby nie blokowały ścieżek. Niezależnie od tego, czym jeździsz, uprzejmość i bezpieczeństwo są najważniejsze.",
+      "script_fi": "Nykyään monet skootterit ovat sähköisiä ja voivat matkustaa nopeammin. Pysäköi ne siististi, jotta ne eivät peitä polkuja. Ajatko kuitenkin, kohteliaisuus ja turvallisuus ovat tärkeintä.",
+      "script_sk": "Dnes je veľa skútrov elektrických a môžu cestovať rýchlejšie. Zaparkujte ich úhľadne, aby neblokovali cesty. Akokoľvek jazdíte, najviac záleží na zdvorilosti a bezpečnosti.",
+      "script_da": "I dag er mange scootere elektriske og kan køre hurtigere. Parker dem pænt, så de ikke blokerer stier. Uanset hvordan du kører, betyder høflighed og sikkerhed mest.",
+      "images": [
+        "today.webp",
+        "today_2.webp",
+        "today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "wheels",
+      "correct": "two",
+      "question_en": "How many wheels does a scooter have?",
+      "question_de": "Wie viele Räder hat ein Roller?",
+      "question_it": "Quante ruote ha uno scooter?",
+      "question_fr": "Combien de roues possède un scooter ?",
+      "question_es": "¿Cuántas ruedas tiene un scooter?",
+      "question_hr": "Koliko kotača ima romobil?",
+      "question_cs": "Kolik kol má skútr?",
+      "question_pl": "Ile kół ma hulajnoga?",
+      "question_fi": "Kuinka monta pyörää skootterissa on?",
+      "question_sk": "Koľko kolies má kolobežka?",
+      "question_da": "Hvor mange hjul har en scooter?",
+      "options": [
+        {
+          "id": "two",
+          "label_en": "Two",
+          "label_de": "Zwei",
+          "label_it": "Due",
+          "label_fr": "Deux",
+          "label_es": "Dos",
+          "label_hr": "Dva",
+          "label_cs": "Dva",
+          "label_pl": "Dwa",
+          "label_fi": "Kaksi",
+          "label_sk": "Dvaja",
+          "label_da": "To"
+        },
+        {
+          "id": "four",
+          "label_en": "Four",
+          "label_de": "Vier",
+          "label_it": "Quattro",
+          "label_fr": "Quatre",
+          "label_es": "cuatro",
+          "label_hr": "četiri",
+          "label_cs": "Čtyři",
+          "label_pl": "Cztery",
+          "label_fi": "Neljä",
+          "label_sk": "Štyri",
+          "label_da": "Fire"
+        },
+        {
+          "id": "six",
+          "label_en": "Six",
+          "label_de": "Sechs",
+          "label_it": "Sei",
+          "label_fr": "Six",
+          "label_es": "Seis",
+          "label_hr": "Šest",
+          "label_cs": "Šest",
+          "label_pl": "Sześć",
+          "label_fi": "Kuusi",
+          "label_sk": "Šesť",
+          "label_da": "Seks"
+        }
+      ]
+    },
+    {
+      "id": "safety",
+      "correct": "helmet",
+      "question_en": "What protects your head on a scooter?",
+      "question_de": "Was schützt Ihren Kopf auf einem Roller?",
+      "question_it": "Cosa protegge la testa sullo scooter?",
+      "question_fr": "Qu'est-ce qui protège votre tête en scooter ?",
+      "question_es": "¿Qué protege tu cabeza en un scooter?",
+      "question_hr": "Što štiti glavu na skuteru?",
+      "question_cs": "Co chrání vaši hlavu na koloběžce?",
+      "question_pl": "Co chroni głowę na hulajnodze?",
+      "question_fi": "Mikä suojaa päätäsi skootterissa?",
+      "question_sk": "Čo chráni vašu hlavu na kolobežke?",
+      "question_da": "Hvad beskytter dit hoved på en scooter?",
+      "options": [
+        {
+          "id": "helmet",
+          "label_en": "A helmet",
+          "label_de": "Ein Helm",
+          "label_it": "Un casco",
+          "label_fr": "Un casque",
+          "label_es": "un casco",
+          "label_hr": "Kaciga",
+          "label_cs": "Přilba",
+          "label_pl": "Hełm",
+          "label_fi": "Kypärä",
+          "label_sk": "Prilba",
+          "label_da": "En hjelm"
+        },
+        {
+          "id": "scarf",
+          "label_en": "A scarf",
+          "label_de": "Ein Schal",
+          "label_it": "Una sciarpa",
+          "label_fr": "Une écharpe",
+          "label_es": "una bufanda",
+          "label_hr": "šal",
+          "label_cs": "Šátek",
+          "label_pl": "Szalik",
+          "label_fi": "Huivi",
+          "label_sk": "Šál",
+          "label_da": "Et tørklæde"
+        },
+        {
+          "id": "gloves",
+          "label_en": "Gloves",
+          "label_de": "Handschuhe",
+          "label_it": "Guanti",
+          "label_fr": "Gants",
+          "label_es": "Guantes",
+          "label_hr": "Rukavice",
+          "label_cs": "Rukavice",
+          "label_pl": "Rękawice",
+          "label_fi": "Käsineet",
+          "label_sk": "Rukavice",
+          "label_da": "Handsker"
+        }
+      ]
+    },
+    {
+      "id": "brake",
+      "correct": "brake",
+      "question_en": "What slows a scooter down?",
+      "question_de": "Was verlangsamt einen Roller?",
+      "question_it": "Cosa rallenta uno scooter?",
+      "question_fr": "Qu'est-ce qui ralentit un scooter ?",
+      "question_es": "¿Qué frena un scooter?",
+      "question_hr": "Što usporava skuter?",
+      "question_cs": "Co zpomaluje skútr?",
+      "question_pl": "Co spowalnia hulajnogę?",
+      "question_fi": "Mikä hidastaa skootterin toimintaa?",
+      "question_sk": "Čo spomaľuje skúter?",
+      "question_da": "Hvad gør en scooter langsommere?",
+      "options": [
+        {
+          "id": "brake",
+          "label_en": "The brake",
+          "label_de": "Die Bremse",
+          "label_it": "Il freno",
+          "label_fr": "Le frein",
+          "label_es": "el freno",
+          "label_hr": "Kočnica",
+          "label_cs": "Brzda",
+          "label_pl": "Hamulec",
+          "label_fi": "Jarru",
+          "label_sk": "Brzda",
+          "label_da": "Bremsen"
+        },
+        {
+          "id": "bell",
+          "label_en": "The bell",
+          "label_de": "Die Glocke",
+          "label_it": "La campana",
+          "label_fr": "La cloche",
+          "label_es": "la campana",
+          "label_hr": "Zvono",
+          "label_cs": "Zvonek",
+          "label_pl": "Dzwon",
+          "label_fi": "Kello",
+          "label_sk": "Zvonček",
+          "label_da": "Klokken"
+        },
+        {
+          "id": "deck",
+          "label_en": "The deck",
+          "label_de": "Das Deck",
+          "label_it": "Il ponte",
+          "label_fr": "Le pont",
+          "label_es": "la baraja",
+          "label_hr": "Špil",
+          "label_cs": "Paluba",
+          "label_pl": "Pokład",
+          "label_fi": "Kansi",
+          "label_sk": "Paluba",
+          "label_da": "Dækket"
+        }
+      ]
+    }
+  ]
+}

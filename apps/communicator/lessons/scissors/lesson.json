@@ -1,0 +1,293 @@
+{
+  "id": "scissors",
+  "category_id": "school",
+  "symbol_id": "scissors",
+  "thumbnail": "scissors_thumb.webp",
+  "title_en": "Scissors",
+  "title_de": "Scheren",
+  "title_it": "Forbici",
+  "title_fr": "Ciseaux",
+  "title_es": "Tijeras",
+  "title_hr": "Škare",
+  "title_cs": "Nůžky",
+  "title_pl": "Nożyczki",
+  "title_fi": "Sakset",
+  "title_sk": "Nožnice",
+  "title_da": "Sakse",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about scissors. Scissors are a tool with two sharp blades that cut things. People use them to cut paper, string, and fabric.",
+      "script_de": "Heute lernen wir etwas über Scheren. Eine Schere ist ein Werkzeug mit zwei scharfen Klingen, die Dinge schneiden. Menschen benutzen sie, um Papier, Schnur und Stoff zu schneiden.",
+      "script_it": "Oggi impareremo a conoscere le forbici. Le forbici sono un attrezzo con due lame affilate che tagliano le cose. Si usano per tagliare carta, spago e tessuto.",
+      "script_fr": "Aujourd'hui, nous allons découvrir les ciseaux. Les ciseaux sont un outil avec deux lames tranchantes qui coupent. On les utilise pour couper du papier, de la ficelle et du tissu.",
+      "script_es": "Hoy vamos a aprender sobre las tijeras. Las tijeras son una herramienta con dos hojas afiladas que cortan cosas. Se usan para cortar papel, cuerda y tela.",
+      "script_hr": "Danas ćemo učiti o škarama. Škare su alat s dvije oštre oštrice koje režu stvari. Ljudi ih koriste za rezanje papira, uzice i tkanine.",
+      "script_cs": "Dnes se budeme učit o nůžkách. Nůžky jsou nástroj se dvěma ostrými čepelemi, které stříhají. Lidé je používají ke stříhání papíru, provázku a látky.",
+      "script_pl": "Dziś dowiemy się czegoś o nożyczkach. Nożyczki to narzędzie z dwoma ostrymi ostrzami, które tną. Ludzie używają ich do cięcia papieru, sznurka i tkaniny.",
+      "script_fi": "Tänään opimme saksista. Sakset ovat työkalu, jossa on kaksi terävää terää, jotka leikkaavat. Niillä leikataan paperia, narua ja kangasta.",
+      "script_sk": "Dnes sa budeme učiť o nožniciach. Nožnice sú nástroj s dvoma ostrými čepeľami, ktoré strihajú. Ľudia ich používajú na strihanie papiera, šnúrky a látky.",
+      "script_da": "I dag skal vi lære om sakse. En saks er et værktøj med to skarpe blade, der klipper ting. Folk bruger dem til at klippe papir, snor og stof.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "parts",
+      "script_en": "The two blades meet at a pivot screw. When you close the handles, the blades slice together. Sharp blades cut cleanly, while blunt ones tear the paper.",
+      "script_de": "Die beiden Klingen treffen sich an einer Schraube. Wenn du die Griffe schließt, schneiden die Klingen zusammen. Scharfe Klingen schneiden sauber, während stumpfe das Papier reißen.",
+      "script_it": "Le due lame si incontrano su una vite. Quando chiudi le impugnature, le lame tagliano insieme. Le lame affilate tagliano in modo netto, mentre quelle spuntate strappano la carta.",
+      "script_fr": "Les deux lames se rejoignent sur une vis. Quand tu fermes les poignées, les lames coupent ensemble. Des lames affûtées coupent net, tandis que des lames émoussées déchirent le papier.",
+      "script_es": "Las dos hojas se unen en un tornillo. Cuando cierras los mangos, las hojas cortan juntas. Las hojas afiladas cortan limpiamente, mientras que las romas rasgan el papel.",
+      "script_hr": "Dvije oštrice spajaju se na vijku. Kad zatvorite ručke, oštrice režu zajedno. Oštre oštrice režu čisto, a tupe trgaju papir.",
+      "script_cs": "Obě čepele se spojují ve šroubu. Když stisknete rukojeti, čepele stříhají společně. Ostré čepele stříhají čistě, zatímco tupé papír trhají.",
+      "script_pl": "Obie ostrza łączą się na śrubie. Gdy ściskasz uchwyty, ostrza tną razem. Ostre ostrza tną czysto, a tępe drą papier.",
+      "script_fi": "Kaksi terää kohtaavat ruuvissa. Kun puristat kahvoja, terät leikkaavat yhdessä. Terävät terät leikkaavat siististi, kun taas tylsät repivät paperia.",
+      "script_sk": "Obe čepele sa spájajú v skrutke. Keď stlačíte rukoväte, čepele strihajú spoločne. Ostré čepele strihajú čisto, zatiaľ čo tupé papier trhajú.",
+      "script_da": "De to blade mødes ved en skrue. Når du lukker håndtagene, klipper bladene sammen. Skarpe blade klipper rent, mens sløve blade river papiret.",
+      "images": [
+        "parts.webp",
+        "parts_2.webp",
+        "parts_3.webp"
+      ]
+    },
+    {
+      "id": "safety",
+      "script_en": "Scissors need care. Hold them by the handles with the blades closed when carrying them. Never run with scissors, and cut away from your fingers and body.",
+      "script_de": "Scheren brauchen Vorsicht. Trage sie an den Griffen und mit geschlossenen Klingen. Renne niemals mit einer Schere, und schneide von deinen Fingern und deinem Körper weg.",
+      "script_it": "Le forbici richiedono attenzione. Trasportale tenendole per le impugnature e con le lame chiuse. Non correre mai con le forbici e taglia lontano dalle dita e dal corpo.",
+      "script_fr": "Les ciseaux demandent de l'attention. Porte-les par les poignées, lames fermées. Ne cours jamais avec des ciseaux et coupe en éloignant les lames de tes doigts et de ton corps.",
+      "script_es": "Las tijeras requieren cuidado. Llévalas por los mangos y con las hojas cerradas. Nunca corras con tijeras y corta alejando las hojas de tus dedos y de tu cuerpo.",
+      "script_hr": "Škare zahtijevaju pažnju. Nosite ih za ručke sa zatvorenim oštricama. Nikada ne trčite sa škarama i režite dalje od prstiju i tijela.",
+      "script_cs": "Nůžky vyžadují opatrnost. Přenášej je za rukojeti a se zavřenými čepelemi. Nikdy s nůžkami neběhej a stříhej směrem od prstů a těla.",
+      "script_pl": "Nożyczki wymagają ostrożności. Noś je za uchwyty, z zamkniętymi ostrzami. Nigdy nie biegaj z nożyczkami i tnij z dala od palców i ciała.",
+      "script_fi": "Sakset vaativat varovaisuutta. Kanna niitä kahvoista ja terät kiinni. Älä koskaan juokse saksien kanssa ja leikkaa poispäin sormistasi ja kehostasi.",
+      "script_sk": "Nožnice vyžadujú opatrnosť. Prenášaj ich za rukoväte a so zavretými čepeľami. Nikdy s nožnicami nebehaj a strihaj smerom od prstov a tela.",
+      "script_da": "Sakse kræver forsigtighed. Bær dem i håndtagene med bladene lukket. Løb aldrig med sakse, og klip væk fra dine fingre og din krop.",
+      "images": [
+        "safety.webp",
+        "safety_2.webp",
+        "safety_3.webp"
+      ]
+    },
+    {
+      "id": "craft",
+      "script_en": "Scissors are useful for craft projects. You can cut straight lines, curves, and shapes. Draw a line first if you want a neat edge, and cut slowly along it.",
+      "script_de": "Scheren sind nützlich für Bastelprojekte. Du kannst gerade Linien, Kurven und Formen schneiden. Zeichne zuerst eine Linie, wenn du eine saubere Kante möchtest, und schneide langsam daran entlang.",
+      "script_it": "Le forbici sono utili per i lavoretti creativi. Puoi tagliare linee rette, curve e forme. Disegna prima una linea se vuoi un bordo ordinato e taglia lentamente lungo di essa.",
+      "script_fr": "Les ciseaux sont utiles pour les travaux manuels. Tu peux couper des lignes droites, des courbes et des formes. Trace d'abord une ligne si tu veux un bord net, puis coupe lentement le long de celle-ci.",
+      "script_es": "Las tijeras son útiles para los trabajos manuales. Puedes cortar líneas rectas, curvas y formas. Dibuja primero una línea si quieres un borde limpio y corta despacio a lo largo de ella.",
+      "script_hr": "Škare su korisne za kreativne projekte. Možete rezati ravne linije, krivulje i oblike. Prvo nacrtajte liniju ako želite uredan rub, a zatim polako režite duž nje.",
+      "script_cs": "Nůžky jsou užitečné při tvoření. Můžeš stříhat rovné čáry, křivky a tvary. Pokud chceš čistý okraj, nejprve nakresli čáru a pomalu ji stříhej.",
+      "script_pl": "Nożyczki są przydatne w pracach plastycznych. Możesz wycinać proste linie, krzywe i kształty. Jeśli chcesz mieć równy brzeg, najpierw narysuj linię i powoli ją wytnij.",
+      "script_fi": "Sakset ovat hyödyllisiä käsitöissä. Voit leikata suoria viivoja, kaaria ja muotoja. Piirrä ensin viiva, jos haluat siistin reunan, ja leikkaa hitaasti sitä pitkin.",
+      "script_sk": "Nožnice sú užitočné pri tvorení. Môžeš strihať rovné čiary, krivky a tvary. Ak chceš čistý okraj, najprv nakresli čiaru a pomaly ju strihaj.",
+      "script_da": "Sakse er nyttige til kreative projekter. Du kan klippe lige linjer, kurver og former. Tegn først en linje, hvis du vil have en pæn kant, og klip langsomt langs den.",
+      "images": [
+        "craft.webp",
+        "craft_2.webp",
+        "craft_3.webp"
+      ]
+    },
+    {
+      "id": "care",
+      "script_en": "Put scissors away when you are finished. Keep them in a drawer or a safe container. If scissors become blunt or loose, ask an adult to fix or replace them.",
+      "script_de": "Lege die Schere weg, wenn du fertig bist. Bewahre sie in einer Schublade oder einem sicheren Behälter auf. Wenn eine Schere stumpf oder locker wird, bitte einen Erwachsenen, sie zu reparieren oder zu ersetzen.",
+      "script_it": "Metti via le forbici quando hai finito. Conservale in un cassetto o in un contenitore sicuro. Se le forbici diventano spuntate o allentate, chiedi a un adulto di ripararle o sostituirle.",
+      "script_fr": "Range les ciseaux quand tu as fini. Garde-les dans un tiroir ou un contenant sûr. Si les ciseaux deviennent émoussés ou branlants, demande à un adulte de les réparer ou de les remplacer.",
+      "script_es": "Guarda las tijeras cuando termines. Guárdalas en un cajón o en un recipiente seguro. Si las tijeras se desafilan o se aflojan, pide a un adulto que las arregle o las reemplace.",
+      "script_hr": "Odložite škare kad završite. Držite ih u ladici ili sigurnoj posudi. Ako škare postanu tupe ili labave, zamolite odraslu osobu da ih popravi ili zamijeni.",
+      "script_cs": "Až skončíš, nůžky uklid. Uchovávej je v zásuvce nebo v bezpečné nádobě. Pokud nůžky ztupí nebo se uvolní, požádej dospělého, aby je opravil nebo vyměnil.",
+      "script_pl": "Odkładaj nożyczki po skończeniu. Trzymaj je w szufladzie lub bezpiecznym pojemniku. Jeśli nożyczki staną się tępe lub luźne, poproś dorosłego o ich naprawę lub wymianę.",
+      "script_fi": "Laita sakset pois, kun olet valmis. Säilytä niitä laatikossa tai turvallisessa säiliössä. Jos sakset tylsyvät tai löystyvät, pyydä aikuista korjaamaan tai vaihtamaan ne.",
+      "script_sk": "Keď skončíš, nožnice odlož. Uchovávaj ich v zásuvke alebo v bezpečnej nádobe. Ak nožnice otupia alebo sa uvoľnia, požiadaj dospelého, aby ich opravil alebo vymenil.",
+      "script_da": "Læg saksene væk, når du er færdig. Opbevar dem i en skuffe eller en sikker beholder. Hvis saksene bliver sløve eller løse, bed en voksen om at reparere eller udskifte dem.",
+      "images": [
+        "care.webp",
+        "care_2.webp",
+        "care_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "what",
+      "correct": "cut",
+      "question_en": "What do scissors do?",
+      "question_de": "Was machen Scheren?",
+      "question_it": "Cosa fanno le forbici?",
+      "question_fr": "Que font les ciseaux ?",
+      "question_es": "¿Qué hacen las tijeras?",
+      "question_hr": "Što rade škare?",
+      "question_cs": "Co dělají nůžky?",
+      "question_pl": "Co robią nożyczki?",
+      "question_fi": "Mitä sakset tekevät?",
+      "question_sk": "Čo robia nožnice?",
+      "question_da": "Hvad laver sakse?",
+      "options": [
+        {
+          "id": "cut",
+          "label_en": "Cut things",
+          "label_de": "Dinge schneiden",
+          "label_it": "Tagliare le cose",
+          "label_fr": "Couper des choses",
+          "label_es": "Cortar cosas",
+          "label_hr": "Režu stvari",
+          "label_cs": "Stříhají věci",
+          "label_pl": "Tną rzeczy",
+          "label_fi": "Leikkaavat asioita",
+          "label_sk": "Strihajú veci",
+          "label_da": "Klipper ting"
+        },
+        {
+          "id": "glue",
+          "label_en": "Glue things",
+          "label_de": "Dinge kleben",
+          "label_it": "Incollare le cose",
+          "label_fr": "Coller des choses",
+          "label_es": "Pegar cosas",
+          "label_hr": "Lijepe stvari",
+          "label_cs": "Lepí věci",
+          "label_pl": "Kleją rzeczy",
+          "label_fi": "Liimaavat asioita",
+          "label_sk": "Lepia veci",
+          "label_da": "Limer ting"
+        },
+        {
+          "id": "paint",
+          "label_en": "Paint things",
+          "label_de": "Dinge bemalen",
+          "label_it": "Dipingere le cose",
+          "label_fr": "Peindre des choses",
+          "label_es": "Pintar cosas",
+          "label_hr": "Boje stvari",
+          "label_cs": "Malují věci",
+          "label_pl": "Malują rzeczy",
+          "label_fi": "Maalaavat asioita",
+          "label_sk": "Maľujú veci",
+          "label_da": "Maler ting"
+        }
+      ]
+    },
+    {
+      "id": "safe",
+      "correct": "closed",
+      "question_en": "How should you carry scissors?",
+      "question_de": "Wie sollte man eine Schere tragen?",
+      "question_it": "Come si dovrebbero trasportare le forbici?",
+      "question_fr": "Comment faut-il porter des ciseaux ?",
+      "question_es": "¿Cómo debes llevar las tijeras?",
+      "question_hr": "Kako treba nositi škare?",
+      "question_cs": "Jak se mají nůžky nosit?",
+      "question_pl": "Jak powinno się nosić nożyczki?",
+      "question_fi": "Miten saksia pitäisi kantaa?",
+      "question_sk": "Ako sa majú nožnice nosiť?",
+      "question_da": "Hvordan skal man bære sakse?",
+      "options": [
+        {
+          "id": "closed",
+          "label_en": "With the blades closed",
+          "label_de": "Mit geschlossenen Klingen",
+          "label_it": "Con le lame chiuse",
+          "label_fr": "Lames fermées",
+          "label_es": "Con las hojas cerradas",
+          "label_hr": "Sa zatvorenim oštricama",
+          "label_cs": "Se zavřenými čepelemi",
+          "label_pl": "Z zamkniętymi ostrzami",
+          "label_fi": "Terät kiinni",
+          "label_sk": "So zavretými čepeľami",
+          "label_da": "Med bladene lukket"
+        },
+        {
+          "id": "open",
+          "label_en": "With the blades open",
+          "label_de": "Mit offenen Klingen",
+          "label_it": "Con le lame aperte",
+          "label_fr": "Lames ouvertes",
+          "label_es": "Con las hojas abiertas",
+          "label_hr": "Sa otvorenim oštricama",
+          "label_cs": "S otevřenými čepelemi",
+          "label_pl": "Z otwartymi ostrzami",
+          "label_fi": "Terät auki",
+          "label_sk": "S otvorenými čepeľami",
+          "label_da": "Med bladene åbne"
+        },
+        {
+          "id": "run",
+          "label_en": "While running",
+          "label_de": "Während du rennst",
+          "label_it": "Mentre corri",
+          "label_fr": "En courant",
+          "label_es": "Mientras corres",
+          "label_hr": "Dok trčite",
+          "label_cs": "Při běhu",
+          "label_pl": "Podczas biegania",
+          "label_fi": "Juosten",
+          "label_sk": "Pri behu",
+          "label_da": "Mens man løber"
+        }
+      ]
+    },
+    {
+      "id": "part",
+      "correct": "screw",
+      "question_en": "What joins the two blades?",
+      "question_de": "Was verbindet die beiden Klingen?",
+      "question_it": "Cosa unisce le due lame?",
+      "question_fr": "Qu'est-ce qui relie les deux lames ?",
+      "question_es": "¿Qué une las dos hojas?",
+      "question_hr": "Što spaja dvije oštrice?",
+      "question_cs": "Co spojuje obě čepele?",
+      "question_pl": "Co łączy oba ostrza?",
+      "question_fi": "Mikä yhdistää kaksi terää?",
+      "question_sk": "Čo spája obe čepele?",
+      "question_da": "Hvad forbinder de to blade?",
+      "options": [
+        {
+          "id": "screw",
+          "label_en": "A pivot screw",
+          "label_de": "Eine Schraube",
+          "label_it": "Una vite",
+          "label_fr": "Une vis",
+          "label_es": "Un tornillo",
+          "label_hr": "Vijak",
+          "label_cs": "Šroub",
+          "label_pl": "Śruba",
+          "label_fi": "Ruuvit",
+          "label_sk": "Skrutka",
+          "label_da": "En skrue"
+        },
+        {
+          "id": "string",
+          "label_en": "A string",
+          "label_de": "Ein Faden",
+          "label_it": "Uno spago",
+          "label_fr": "Une ficelle",
+          "label_es": "Una cuerda",
+          "label_hr": "Uzica",
+          "label_cs": "Provázek",
+          "label_pl": "Sznurek",
+          "label_fi": "Naru",
+          "label_sk": "Šnúrka",
+          "label_da": "En snor"
+        },
+        {
+          "id": "tape",
+          "label_en": "Tape",
+          "label_de": "Klebeband",
+          "label_it": "Nastro adesivo",
+          "label_fr": "Du ruban adhésif",
+          "label_es": "Cinta adhesiva",
+          "label_hr": "Selotejp",
+          "label_cs": "Páska",
+          "label_pl": "Taśma",
+          "label_fi": "Teippi",
+          "label_sk": "Páska",
+          "label_da": "Tape"
+        }
+      ]
+    }
+  ]
+}
