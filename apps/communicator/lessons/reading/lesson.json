@@ -1,0 +1,293 @@
+{
+  "id": "reading",
+  "category_id": "activities",
+  "symbol_id": "reading",
+  "thumbnail": "reading_thumb.webp",
+  "title_en": "Reading",
+  "title_de": "Lesen",
+  "title_it": "Lettura",
+  "title_fr": "Lecture",
+  "title_es": "Lectura",
+  "title_hr": "Čitanje",
+  "title_cs": "Čtení",
+  "title_pl": "Czytanie",
+  "title_fi": "Lukeminen",
+  "title_sk": "Čítanie",
+  "title_da": "Læsning",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about reading. Reading is looking at letters and words and understanding what they mean. Books, signs, menus, and messages all use reading.",
+      "script_de": "Heute lernen wir etwas über das Lesen. Lesen bedeutet, Buchstaben und Wörter anzuschauen und zu verstehen, was sie bedeuten. Bücher, Schilder, Speisekarten und Nachrichten nutzen alle das Lesen.",
+      "script_it": "Oggi impareremo a conoscere la lettura. Leggere significa guardare lettere e parole e capire cosa significano. Libri, cartelli, menù e messaggi usano tutti la lettura.",
+      "script_fr": "Aujourd'hui, nous allons découvrir la lecture. Lire, c'est regarder des lettres et des mots et comprendre ce qu'ils veulent dire. Les livres, les panneaux, les menus et les messages utilisent tous la lecture.",
+      "script_es": "Hoy vamos a aprender sobre la lectura. Leer es mirar letras y palabras y comprender qué significan. Los libros, las señales, los menús y los mensajes utilizan la lectura.",
+      "script_hr": "Danas ćemo učiti o čitanju. Čitanje znači gledati slova i riječi i razumjeti što znače. Knjige, znakovi, jelovnici i poruke svi koriste čitanje.",
+      "script_cs": "Dnes se budeme učit o čtení. Čtení znamená dívat se na písmena a slova a rozumět tomu, co znamenají. Knihy, značky, jídelní lístky i zprávy používají čtení.",
+      "script_pl": "Dziś dowiemy się czegoś o czytaniu. Czytanie to patrzenie na litery i słowa oraz rozumienie ich znaczenia. Książki, znaki, menu i wiadomości wykorzystują czytanie.",
+      "script_fi": "Tänään opimme lukemisesta. Lukeminen tarkoittaa kirjainten ja sanojen katselemista ja niiden merkityksen ymmärtämistä. Kirjat, kyltit, ruokalistat ja viestit käyttävät kaikki lukemista.",
+      "script_sk": "Dnes sa budeme učiť o čítaní. Čítanie znamená pozerať sa na písmená a slová a rozumieť, čo znamenajú. Knihy, značky, jedálne lístky a správy všetky používajú čítanie.",
+      "script_da": "I dag skal vi lære om at læse. At læse betyder at se på bogstaver og ord og forstå, hvad de betyder. Bøger, skilte, menukort og beskeder bruger alle læsning.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "learn",
+      "script_en": "Learning to read takes practice. Children learn letter sounds, then blend them into words. Pictures can help us guess what a story is about, but the words tell us exactly.",
+      "script_de": "Lesen zu lernen braucht Übung. Kinder lernen Buchstabenlaute und fügen sie dann zu Wörtern zusammen. Bilder helfen uns zu erraten, worum es in einer Geschichte geht, aber die Wörter sagen es uns genau.",
+      "script_it": "Imparare a leggere richiede pratica. I bambini imparano i suoni delle lettere e poi li uniscono in parole. Le immagini aiutano a indovinare di cosa parla una storia, ma le parole ce lo dicono esattamente.",
+      "script_fr": "Apprendre à lire demande de la pratique. Les enfants apprennent le son des lettres, puis les assemblent en mots. Les images aident à deviner le sujet d'une histoire, mais les mots nous le disent exactement.",
+      "script_es": "Aprender a leer requiere práctica. Los niños aprenden los sonidos de las letras y luego los unen para formar palabras. Las imágenes ayudan a adivinar de qué trata una historia, pero las palabras nos lo dicen con exactitud.",
+      "script_hr": "Učenje čitanja zahtijeva vježbu. Djeca uče glasove slova, a zatim ih spajaju u riječi. Slike mogu pomoći da pogodimo o čemu govori priča, ali riječi nam to točno kažu.",
+      "script_cs": "Naučit se číst chce praxi. Děti se učí zvuky písmen a potom je spojují do slov. Obrázky nám pomáhají uhodnout, o čem příběh je, ale slova nám to řeknou přesně.",
+      "script_pl": "Nauka czytania wymaga praktyki. Dzieci uczą się dźwięków liter, a potem łączą je w słowa. Obrazki pomagają zgadnąć, o czym jest historia, ale słowa mówią nam dokładnie.",
+      "script_fi": "Lukemaan oppiminen vaatii harjoitusta. Lapset oppivat kirjainten äänet ja yhdistävät ne sitten sanoiksi. Kuvat voivat auttaa arvaamaan, mistä tarina kertoo, mutta sanat kertovat sen tarkasti.",
+      "script_sk": "Naučiť sa čítať vyžaduje prax. Deti sa učia zvuky písmen a potom ich spájajú do slov. Obrázky nám pomáhajú uhádnuť, o čom príbeh je, ale slová nám to povedia presne.",
+      "script_da": "At lære at læse kræver øvelse. Børn lærer bogstavernes lyde og sætter dem derefter sammen til ord. Billeder kan hjælpe os med at gætte, hvad en historie handler om, men ordene fortæller det præcist.",
+      "images": [
+        "learn.webp",
+        "learn_2.webp",
+        "learn_3.webp"
+      ]
+    },
+    {
+      "id": "stories",
+      "script_en": "Stories take us to new places. Reading helps us learn about people, animals, and ideas we might never meet. It also builds vocabulary and helps us write better.",
+      "script_de": "Geschichten bringen uns an neue Orte. Lesen hilft uns, Menschen, Tiere und Ideen kennenzulernen, die wir vielleicht nie treffen. Es erweitert auch den Wortschatz und hilft uns, besser zu schreiben.",
+      "script_it": "Le storie ci portano in posti nuovi. Leggere ci aiuta a conoscere persone, animali e idee che potremmo non incontrare mai. Arricchisce anche il vocabolario e ci aiuta a scrivere meglio.",
+      "script_fr": "Les histoires nous emmènent dans de nouveaux endroits. La lecture nous aide à découvrir des personnes, des animaux et des idées que nous ne rencontrerons peut-être jamais. Elle enrichit aussi le vocabulaire et aide à mieux écrire.",
+      "script_es": "Las historias nos llevan a lugares nuevos. Leer nos ayuda a conocer personas, animales e ideas que quizá nunca veamos. También amplía el vocabulario y nos ayuda a escribir mejor.",
+      "script_hr": "Priče nas vode na nova mjesta. Čitanje nam pomaže upoznati ljude, životinje i ideje koje možda nikada ne bismo sreli. Također obogaćuje rječnik i pomaže nam bolje pisati.",
+      "script_cs": "Příběhy nás berou na nová místa. Čtení nám pomáhá poznávat lidi, zvířata a myšlenky, se kterými bychom se možná nikdy nesetkali. Také rozšiřuje slovní zásobu a pomáhá nám lépe psát.",
+      "script_pl": "Historie przenoszą nas w nowe miejsca. Czytanie pomaga nam poznawać ludzi, zwierzęta i idee, których może nigdy nie spotkamy. Wzbogaca też słownictwo i pomaga lepiej pisać.",
+      "script_fi": "Tarinat vievät meidät uusiin paikkoihin. Lukeminen auttaa meitä oppimaan ihmisistä, eläimistä ja ajatuksista, joita emme ehkä koskaan kohtaa. Se myös kasvattaa sanavarastoa ja auttaa kirjoittamaan paremmin.",
+      "script_sk": "Príbehy nás berú na nové miesta. Čítanie nám pomáha spoznávať ľudí, zvieratá a myšlienky, s ktorými by sme sa možno nikdy nestretli. Rozširuje aj slovnú zásobu a pomáha nám lepšie písať.",
+      "script_da": "Historier tager os med til nye steder. Læsning hjælper os med at lære om mennesker, dyr og idéer, som vi måske aldrig møder. Det udvider også ordforrådet og hjælper os med at skrive bedre.",
+      "images": [
+        "stories.webp",
+        "stories_2.webp",
+        "stories_3.webp"
+      ]
+    },
+    {
+      "id": "anywhere",
+      "script_en": "You can read almost anywhere. Libraries lend books for free, and audiobooks let you listen to stories. Reading a little every day makes it easier and more enjoyable.",
+      "script_de": "Man kann fast überall lesen. Bibliotheken verleihen Bücher kostenlos, und Hörbücher lassen uns Geschichten anhören. Jeden Tag ein wenig zu lesen macht es leichter und schöner.",
+      "script_it": "Si può leggere quasi ovunque. Le biblioteche prestano libri gratuitamente e gli audiolibri permettono di ascoltare storie. Leggere un po' ogni giorno rende tutto più facile e piacevole.",
+      "script_fr": "On peut lire presque partout. Les bibliothèques prêtent des livres gratuitement, et les livres audio permettent d'écouter des histoires. Lire un peu chaque jour rend la lecture plus facile et plus agréable.",
+      "script_es": "Se puede leer casi en cualquier lugar. Las bibliotecas prestan libros gratis y los audiolibros permiten escuchar historias. Leer un poco cada día lo hace más fácil y agradable.",
+      "script_hr": "Može se čitati gotovo bilo gdje. Knjižnice posuđuju knjige besplatno, a audio knjige omogućuju slušanje priča. Čitanje malo svaki dan čini ga lakšim i ugodnijim.",
+      "script_cs": "Číst se dá téměř kdekoliv. Knihovny půjčují knihy zdarma a audioknihy umožňují poslouchat příběhy. Čtení trochu každý den ho dělá snazším a příjemnějším.",
+      "script_pl": "Czytać można prawie wszędzie. Biblioteki wypożyczają książki za darmo, a audiobooki pozwalają słuchać historii. Codzienne czytanie przez chwilę czyni je łatwiejszym i przyjemniejszym.",
+      "script_fi": "Lähes kaikkialla voi lukea. Kirjastot lainaavat kirjoja ilmaiseksi, ja äänikirjojen avulla voi kuunnella tarinoita. Pieni lukutuokio joka päivä tekee lukemisesta helpompaa ja mukavampaa.",
+      "script_sk": "Čítať sa dá takmer kdekoľvek. Knižnice požičiavajú knihy zadarmo a audioknihy umožňujú počúvať príbehy. Čítanie trochu každý deň ho robí ľahším a príjemnejším.",
+      "script_da": "Man kan læse næsten overalt. Biblioteker låner bøger ud gratis, og lydbøger lader os høre historier. Lidt læsning hver dag gør det lettere og mere fornøjeligt.",
+      "images": [
+        "anywhere.webp",
+        "anywhere_2.webp",
+        "anywhere_3.webp"
+      ]
+    },
+    {
+      "id": "share",
+      "script_en": "Reading together is a lovely way to share time. You can talk about the pictures and guess what happens next. Ask questions and let the child turn the pages.",
+      "script_de": "Gemeinsam zu lesen ist eine schöne Art, Zeit zu teilen. Man kann über die Bilder sprechen und raten, was als Nächstes passiert. Stelle Fragen und lass das Kind die Seiten umblättern.",
+      "script_it": "Leggere insieme è un bel modo per condividere del tempo. Si può parlare delle immagini e indovinare cosa succede dopo. Fai domande e lascia che il bambino giri le pagine.",
+      "script_fr": "Lire ensemble est une belle façon de partager un moment. On peut parler des images et deviner ce qui va se passer. Pose des questions et laisse l'enfant tourner les pages.",
+      "script_es": "Leer juntos es una forma maravillosa de compartir tiempo. Puedes hablar de las imágenes y adivinar qué pasa después. Haz preguntas y deja que el niño pase las páginas.",
+      "script_hr": "Zajedničko čitanje lijep je način da podijelimo vrijeme. Možete razgovarati o slikama i pogađati što se događa sljedeće. Postavljajte pitanja i pustite dijete da okreće stranice.",
+      "script_cs": "Společné čtení je krásný způsob, jak sdílet čas. Můžete mluvit o obrázcích a hádat, co se stane dál. Ptejte se a nechte dítě otáčet stránky.",
+      "script_pl": "Wspólne czytanie to piękny sposób dzielenia czasu. Można rozmawiać o obrazkach i zgadywać, co stanie się dalej. Zadawaj pytania i pozwól dziecku przewracać strony.",
+      "script_fi": "Yhdessä lukeminen on ihana tapa jakaa aikaa. Kuvista voi puhua ja arvailla, mitä seuraavaksi tapahtuu. Kysy kysymyksiä ja anna lapsen kääntää sivuja.",
+      "script_sk": "Spoločné čítanie je krásny spôsob, ako zdieľať čas. Môžete hovoriť o obrázkoch a hádať, čo sa stane ďalej. Pýtajte sa a nechajte dieťa otáčať stránky.",
+      "script_da": "At læse sammen er en dejlig måde at dele tid på. Man kan tale om billederne og gætte, hvad der sker næste gang. Stil spørgsmål, og lad barnet vende siderne.",
+      "images": [
+        "share.webp",
+        "share_2.webp",
+        "share_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "what",
+      "correct": "words",
+      "question_en": "What is reading?",
+      "question_de": "Was ist Lesen?",
+      "question_it": "Che cos'è la lettura?",
+      "question_fr": "Qu'est-ce que la lecture ?",
+      "question_es": "¿Qué es la lectura?",
+      "question_hr": "Što je čitanje?",
+      "question_cs": "Co je čtení?",
+      "question_pl": "Czym jest czytanie?",
+      "question_fi": "Mitä lukeminen on?",
+      "question_sk": "Čo je čítanie?",
+      "question_da": "Hvad er læsning?",
+      "options": [
+        {
+          "id": "words",
+          "label_en": "Understanding written words",
+          "label_de": "Geschriebene Wörter verstehen",
+          "label_it": "Capire le parole scritte",
+          "label_fr": "Comprendre des mots écrits",
+          "label_es": "Comprender palabras escritas",
+          "label_hr": "Razumijevanje napisanih riječi",
+          "label_cs": "Porozumění psaným slovům",
+          "label_pl": "Rozumieniem zapisanych słów",
+          "label_fi": "Kirjoitettujen sanojen ymmärtämistä",
+          "label_sk": "Porozumenie písaným slovám",
+          "label_da": "At forstå skrevne ord"
+        },
+        {
+          "id": "running",
+          "label_en": "Running fast",
+          "label_de": "Schnell rennen",
+          "label_it": "Correre veloce",
+          "label_fr": "Courir vite",
+          "label_es": "Correr rápido",
+          "label_hr": "Brzo trčanje",
+          "label_cs": "Rychlý běh",
+          "label_pl": "Szybkim bieganiem",
+          "label_fi": "Nopeasti juoksemista",
+          "label_sk": "Rýchly beh",
+          "label_da": "At løbe hurtigt"
+        },
+        {
+          "id": "cooking",
+          "label_en": "Cooking food",
+          "label_de": "Essen kochen",
+          "label_it": "Cucinare il cibo",
+          "label_fr": "Cuisiner des aliments",
+          "label_es": "Cocinar comida",
+          "label_hr": "Kuhanje hrane",
+          "label_cs": "Vaření jídla",
+          "label_pl": "Gotowaniem jedzenia",
+          "label_fi": "Ruuan laittamista",
+          "label_sk": "Varenie jedla",
+          "label_da": "At lave mad"
+        }
+      ]
+    },
+    {
+      "id": "place",
+      "correct": "library",
+      "question_en": "Where can you borrow books for free?",
+      "question_de": "Wo kann man Bücher kostenlos ausleihen?",
+      "question_it": "Dove si possono prendere in prestito libri gratis?",
+      "question_fr": "Où peut-on emprunter des livres gratuitement ?",
+      "question_es": "¿Dónde puedes tomar libros prestados gratis?",
+      "question_hr": "Gdje se knjige mogu posuditi besplatno?",
+      "question_cs": "Kde si můžete půjčit knihy zdarma?",
+      "question_pl": "Gdzie można wypożyczyć książki za darmo?",
+      "question_fi": "Mistä voit lainata kirjoja ilmaiseksi?",
+      "question_sk": "Kde si môžete požičať knihy zadarmo?",
+      "question_da": "Hvor kan man låne bøger gratis?",
+      "options": [
+        {
+          "id": "library",
+          "label_en": "A library",
+          "label_de": "In einer Bibliothek",
+          "label_it": "In biblioteca",
+          "label_fr": "Dans une bibliothèque",
+          "label_es": "En una biblioteca",
+          "label_hr": "U knjižnici",
+          "label_cs": "V knihovně",
+          "label_pl": "W bibliotece",
+          "label_fi": "Kirjastosta",
+          "label_sk": "V knižnici",
+          "label_da": "På et bibliotek"
+        },
+        {
+          "id": "bakery",
+          "label_en": "A bakery",
+          "label_de": "In einer Bäckerei",
+          "label_it": "In una panetteria",
+          "label_fr": "Dans une boulangerie",
+          "label_es": "En una panadería",
+          "label_hr": "U pekarnici",
+          "label_cs": "V pekárně",
+          "label_pl": "W piekarni",
+          "label_fi": "Leipomosta",
+          "label_sk": "V pekárni",
+          "label_da": "På et bageri"
+        },
+        {
+          "id": "garage",
+          "label_en": "A garage",
+          "label_de": "In einer Garage",
+          "label_it": "In un garage",
+          "label_fr": "Dans un garage",
+          "label_es": "En un garaje",
+          "label_hr": "U garaži",
+          "label_cs": "V garáži",
+          "label_pl": "W garażu",
+          "label_fi": "Autotallista",
+          "label_sk": "V garáži",
+          "label_da": "I en garage"
+        }
+      ]
+    },
+    {
+      "id": "help",
+      "correct": "help",
+      "question_en": "What can pictures do in a storybook?",
+      "question_de": "Was können Bilder in einem Bilderbuch tun?",
+      "question_it": "Cosa possono fare le immagini in un libro di storie?",
+      "question_fr": "Que peuvent faire les images dans un livre d'histoires ?",
+      "question_es": "¿Qué pueden hacer las imágenes en un libro de cuentos?",
+      "question_hr": "Što slike mogu učiniti u knjizi priča?",
+      "question_cs": "Co mohou obrázky v knize příběhů udělat?",
+      "question_pl": "Co mogą robić obrazki w książce z opowieściami?",
+      "question_fi": "Mitä kuvat voivat tehdä satukirjassa?",
+      "question_sk": "Čo môžu obrázky v knihe príbehov urobiť?",
+      "question_da": "Hvad kan billeder gøre i en historiebog?",
+      "options": [
+        {
+          "id": "help",
+          "label_en": "Help us understand the story",
+          "label_de": "Sie helfen uns, die Geschichte zu verstehen",
+          "label_it": "Ci aiutano a capire la storia",
+          "label_fr": "Ils nous aident à comprendre l'histoire",
+          "label_es": "Nos ayudan a entender la historia",
+          "label_hr": "Pomažu nam razumjeti priču",
+          "label_cs": "Pomáhají nám porozumět příběhu",
+          "label_pl": "Pomagają nam zrozumieć historię",
+          "label_fi": "Ne auttavat ymmärtämään tarinaa",
+          "label_sk": "Pomáhajú nám porozumieť príbehu",
+          "label_da": "De hjælper os med at forstå historien"
+        },
+        {
+          "id": "hide",
+          "label_en": "Hide the words",
+          "label_de": "Sie verstecken die Wörter",
+          "label_it": "Nascondono le parole",
+          "label_fr": "Ils cachent les mots",
+          "label_es": "Esconden las palabras",
+          "label_hr": "Skrivaju riječi",
+          "label_cs": "Skrývají slova",
+          "label_pl": "Ukrywają słowa",
+          "label_fi": "Ne piilottavat sanat",
+          "label_sk": "Skrývajú slová",
+          "label_da": "De skjuler ordene"
+        },
+        {
+          "id": "sing",
+          "label_en": "Sing the story",
+          "label_de": "Sie singen die Geschichte",
+          "label_it": "Cantano la storia",
+          "label_fr": "Ils chantent l'histoire",
+          "label_es": "Cantan la historia",
+          "label_hr": "Pjevaju priču",
+          "label_cs": "Zpívají příběh",
+          "label_pl": "Śpiewają historię",
+          "label_fi": "Ne laulavat tarinan",
+          "label_sk": "Spievajú príbeh",
+          "label_da": "De synger historien"
+        }
+      ]
+    }
+  ]
+}

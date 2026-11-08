@@ -1,0 +1,293 @@
+{
+  "id": "ocean",
+  "category_id": "nature",
+  "symbol_id": "ocean",
+  "thumbnail": "ocean_thumb.webp",
+  "title_en": "The Ocean",
+  "title_de": "Ozean",
+  "title_it": "Oceano",
+  "title_fr": "Océan",
+  "title_es": "Océano",
+  "title_hr": "Ocean",
+  "title_cs": "Oceán",
+  "title_pl": "Ocean",
+  "title_fi": "Valtameri",
+  "title_sk": "Oceán",
+  "title_da": "Hav",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about the ocean. The ocean is a huge body of salt water that covers most of the Earth. It is home to fish, whales, coral reefs, and many other living things.",
+      "script_de": "Heute werden wir etwas über den Ozean lernen. Der Ozean ist ein riesiger Salzwasserkörper, der den größten Teil der Erde bedeckt. Es ist die Heimat von Fischen, Walen, Korallenriffen und vielen anderen Lebewesen.",
+      "script_it": "Oggi impareremo a conoscere l'oceano. L'oceano è un enorme specchio d'acqua salata che copre gran parte della Terra. Ospita pesci, balene, barriere coralline e molti altri esseri viventi.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur l'océan. L’océan est une immense étendue d’eau salée qui recouvre la majeure partie de la Terre. Il abrite des poissons, des baleines, des récifs coralliens et bien d'autres êtres vivants.",
+      "script_es": "Hoy vamos a aprender sobre el océano. El océano es una enorme masa de agua salada que cubre la mayor parte de la Tierra. Es el hogar de peces, ballenas, arrecifes de coral y muchos otros seres vivos.",
+      "script_hr": "Danas ćemo učiti o oceanu. Ocean je ogromno tijelo slane vode koje prekriva veći dio Zemlje. Dom je riba, kitova, koraljnih grebena i mnogih drugih živih bića.",
+      "script_cs": "Dnes se budeme učit o oceánu. Oceán je obrovská plocha slané vody, která pokrývá většinu Země. Je domovem ryb, velryb, korálových útesů a mnoha dalších živých tvorů.",
+      "script_pl": "Dziś będziemy uczyć się o oceanie. Ocean to ogromny zbiornik słonej wody pokrywający większą część Ziemi. Jest domem dla ryb, wielorybów, raf koralowych i wielu innych żywych stworzeń.",
+      "script_fi": "Tänään opimme valtamerestä. Meri on valtava suolavesistö, joka peittää suurimman osan maapallosta. Se on kalojen, valaiden, koralliriuttojen ja monien muiden elävien olentojen koti.",
+      "script_sk": "Dnes sa budeme učiť o oceáne. Oceán je obrovské množstvo slanej vody, ktorá pokrýva väčšinu Zeme. Je domovom rýb, veľrýb, koralových útesov a mnohých ďalších živých vecí.",
+      "script_da": "I dag skal vi lære om havet. Havet er en enorm mængde saltvand, der dækker det meste af Jorden. Det er hjemsted for fisk, hvaler, koralrev og mange andre levende ting.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "five",
+      "script_en": "There are five oceans: the Pacific, Atlantic, Indian, Southern, and Arctic. The Pacific is the largest and deepest. Together they connect and move water all around the planet.",
+      "script_de": "Es gibt fünf Ozeane: den Pazifik, den Atlantik, den Indischen Ozean, den Südlichen und den Arktischen Ozean. Der Pazifik ist der größte und tiefste. Zusammen verbinden und transportieren sie Wasser rund um den Planeten.",
+      "script_it": "Ci sono cinque oceani: Pacifico, Atlantico, Indiano, Meridionale e Artico. Il Pacifico è il più grande e il più profondo. Insieme si collegano e muovono l'acqua in tutto il pianeta.",
+      "script_fr": "Il existe cinq océans : Pacifique, Atlantique, Indien, Austral et Arctique. Le Pacifique est le plus grand et le plus profond. Ensemble, ils connectent et déplacent l’eau partout sur la planète.",
+      "script_es": "Hay cinco océanos: el Pacífico, el Atlántico, el Índico, el Austral y el Ártico. El Pacífico es el más grande y profundo. Juntos conectan y mueven agua por todo el planeta.",
+      "script_hr": "Postoji pet oceana: Tihi, Atlantski, Indijski, Južni i Arktički. Pacifik je najveći i najdublji. Zajedno se povezuju i pomiču vodu diljem planeta.",
+      "script_cs": "Existuje pět oceánů: Tichý, Atlantský, Indický, Jižní a Arktida. Pacifik je největší a nejhlubší. Společně spojují a pohybují vodou po celé planetě.",
+      "script_pl": "Istnieje pięć oceanów: Pacyfik, Atlantyk, Indyjski, Południowy i Arktyczny. Pacyfik jest największy i najgłębszy. Razem łączą i przemieszczają wodę po całej planecie.",
+      "script_fi": "Valtameriä on viisi: Tyynimeri, Atlantin valtameri, Intian valtameri, eteläinen ja arktinen. Tyynimeri on suurin ja syvin. Yhdessä ne yhdistävät ja siirtävät vettä ympäri planeettaa.",
+      "script_sk": "Existuje päť oceánov: Tichý, Atlantický, Indický, Južný a Arktický. Pacifik je najväčší a najhlbší. Spoločne spájajú a presúvajú vodu po celej planéte.",
+      "script_da": "Der er fem oceaner: Stillehavet, Atlanterhavet, Indiske, Sydlige og Arktis. Stillehavet er det største og dybeste. Sammen forbinder de og flytter vand rundt på planeten.",
+      "images": [
+        "five.webp",
+        "five_2.webp",
+        "five_3.webp"
+      ]
+    },
+    {
+      "id": "waves",
+      "script_en": "Ocean water is always moving. Waves are made by wind blowing across the surface. Tides rise and fall because of the Moon's gravity, and currents carry warm and cold water around the world.",
+      "script_de": "Meerwasser ist ständig in Bewegung. Wellen entstehen durch Wind, der über die Oberfläche weht. Aufgrund der Schwerkraft des Mondes steigen und fallen die Gezeiten, und Strömungen transportieren warmes und kaltes Wasser um die Welt.",
+      "script_it": "L'acqua dell'oceano è sempre in movimento. Le onde sono formate dal vento che soffia sulla superficie. Le maree salgono e scendono a causa della gravità della Luna e le correnti trasportano acqua calda e fredda in tutto il mondo.",
+      "script_fr": "L’eau des océans est toujours en mouvement. Les vagues sont créées par le vent qui souffle sur la surface. Les marées montent et descendent en raison de la gravité de la Lune, et les courants transportent de l'eau chaude et froide à travers le monde.",
+      "script_es": "El agua del océano siempre está en movimiento. Las olas se forman cuando el viento sopla sobre la superficie. Las mareas suben y bajan debido a la gravedad de la Luna, y las corrientes transportan agua fría y caliente por todo el mundo.",
+      "script_hr": "Oceanska voda se uvijek kreće. Valove stvara vjetar koji puše po površini. Plima raste i pada zbog Mjesečeve gravitacije, a struje nose toplu i hladnu vodu diljem svijeta.",
+      "script_cs": "Oceánská voda se neustále pohybuje. Vlny jsou vytvářeny větrem vanoucím po povrchu. Přílivy a odlivy stoupají a klesají kvůli gravitaci Měsíce a proudy roznášejí teplou a studenou vodu po celém světě.",
+      "script_pl": "Woda oceaniczna zawsze się porusza. Fale powstają w wyniku wiatru wiejącego po powierzchni. Pływy wznoszą się i opadają pod wpływem grawitacji Księżyca, a prądy niosą ciepłą i zimną wodę po całym świecie.",
+      "script_fi": "Meren vesi liikkuu aina. Aallot syntyvät pinnan poikki puhaltamalla tuulella. Vuorovedet nousevat ja laskevat Kuun painovoiman takia, ja virtaukset kuljettavat lämmintä ja kylmää vettä ympäri maailmaa.",
+      "script_sk": "Voda oceánu sa neustále pohybuje. Vlny sú vytvárané vetrom fúkajúcim po povrchu. Prílivy a odlivy stúpajú a klesajú kvôli gravitácii Mesiaca a prúdy nesú teplú a studenú vodu po celom svete.",
+      "script_da": "Havvandet bevæger sig altid. Bølger dannes af vinden, der blæser hen over overfladen. Tidevand stiger og falder på grund af Månens tyngdekraft, og strømme fører varmt og koldt vand rundt i verden.",
+      "images": [
+        "waves.webp",
+        "waves_2.webp",
+        "waves_3.webp"
+      ]
+    },
+    {
+      "id": "life",
+      "script_en": "The ocean is full of life. Tiny plankton feed small fish, and small fish feed bigger ones. Coral reefs are like underwater cities, sheltering thousands of species.",
+      "script_de": "Der Ozean ist voller Leben. Winziges Plankton ernährt kleine Fische und kleine Fische ernähren sich von größeren. Korallenriffe sind wie Unterwasserstädte, die Tausenden von Arten Schutz bieten.",
+      "script_it": "L'oceano è pieno di vita. Il piccolo plancton nutre i pesci piccoli e i pesci piccoli nutrono quelli più grandi. Le barriere coralline sono come città sottomarine, che danno rifugio a migliaia di specie.",
+      "script_fr": "L'océan est plein de vie. Le petit plancton nourrit les petits poissons et les petits poissons nourrissent les plus gros. Les récifs coralliens sont comme des villes sous-marines abritant des milliers d’espèces.",
+      "script_es": "El océano está lleno de vida. El plancton diminuto alimenta a los peces pequeños, y los peces pequeños alimentan a los más grandes. Los arrecifes de coral son como ciudades submarinas que albergan miles de especies.",
+      "script_hr": "Ocean je pun života. Sitni plankton hrani male ribe, a male ribe hrane veće. Koraljni grebeni su poput podvodnih gradova, skrivajući tisuće vrsta.",
+      "script_cs": "Oceán je plný života. Drobný plankton krmí malé ryby a malé ryby ty větší. Korálové útesy jsou jako podmořská města, která ukrývají tisíce druhů.",
+      "script_pl": "Ocean jest pełen życia. Mały plankton żeruje na małych rybach, a małe ryby na większych. Rafy koralowe są jak podwodne miasta, w których żyją tysiące gatunków.",
+      "script_fi": "Meri on täynnä elämää. Pieni planktoni ruokkii pieniä kaloja ja pienet kalat isompia. Koralliriutat ovat kuin vedenalaisia ​​kaupunkeja, jotka suojaavat tuhansia lajeja.",
+      "script_sk": "Oceán je plný života. Drobný planktón živí malé ryby a malé ryby zase väčšie. Koralové útesy sú ako podmorské mestá, ktoré ukrývajú tisíce druhov.",
+      "script_da": "Havet er fuld af liv. Lille plankton fodrer små fisk, og små fisk fodrer større. Koralrev er som undervandsbyer, der beskytter tusinder af arter.",
+      "images": [
+        "life.webp",
+        "life_2.webp",
+        "life_3.webp"
+      ]
+    },
+    {
+      "id": "care",
+      "script_en": "The ocean needs our care. Plastic rubbish can hurt animals and pollute the water. Using less plastic and keeping beaches clean helps protect the sea for everyone.",
+      "script_de": "Der Ozean braucht unsere Fürsorge. Plastikmüll kann Tieren schaden und das Wasser verschmutzen. Weniger Plastik zu verwenden und die Strände sauber zu halten, trägt dazu bei, das Meer für alle zu schützen.",
+      "script_it": "L’oceano ha bisogno delle nostre cure. I rifiuti di plastica possono ferire gli animali e inquinare l’acqua. Usare meno plastica e mantenere le spiagge pulite aiuta a proteggere il mare per tutti.",
+      "script_fr": "L'océan a besoin de nos soins. Les déchets plastiques peuvent blesser les animaux et polluer l’eau. Utiliser moins de plastique et garder les plages propres contribue à protéger la mer pour tous.",
+      "script_es": "El océano necesita nuestro cuidado. La basura plástica puede dañar a los animales y contaminar el agua. Usar menos plástico y mantener las playas limpias ayuda a proteger el mar para todos.",
+      "script_hr": "Ocean treba našu brigu. Plastično smeće može ozlijediti životinje i zagaditi vodu. Upotreba manje plastike i održavanje plaža čistima pomaže u zaštiti mora za sve.",
+      "script_cs": "Oceán potřebuje naši péči. Plastový odpad může ublížit zvířatům a znečistit vodu. Používání méně plastu a udržování čistoty na plážích pomáhá chránit moře pro každého.",
+      "script_pl": "Ocean potrzebuje naszej opieki. Plastikowe śmieci mogą ranić zwierzęta i zanieczyszczać wodę. Używanie mniejszej ilości plastiku i utrzymywanie plaż w czystości pomaga chronić morze dla wszystkich.",
+      "script_fi": "Meri tarvitsee hoitoamme. Muoviroskat voivat vahingoittaa eläimiä ja saastuttaa vettä. Vähemmän muovin käyttö ja rantojen puhtaana pitäminen suojaavat merta kaikille.",
+      "script_sk": "Oceán potrebuje našu starostlivosť. Plastový odpad môže ublížiť zvieratám a znečistiť vodu. Používanie menšieho množstva plastov a udržiavanie čistých pláží pomáha chrániť more pre každého.",
+      "script_da": "Havet har brug for vores pleje. Plastikaffald kan skade dyr og forurene vandet. At bruge mindre plastik og holde strandene rene hjælper med at beskytte havet for alle.",
+      "images": [
+        "care.webp",
+        "care_2.webp",
+        "care_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "what",
+      "correct": "salt",
+      "question_en": "What is the ocean made of?",
+      "question_de": "Woraus besteht der Ozean?",
+      "question_it": "Di cosa è fatto l'oceano?",
+      "question_fr": "De quoi est fait l’océan ?",
+      "question_es": "¿De qué está hecho el océano?",
+      "question_hr": "Od čega se sastoji ocean?",
+      "question_cs": "Z čeho se skládá oceán?",
+      "question_pl": "Z czego zbudowany jest ocean?",
+      "question_fi": "Mistä valtameri on tehty?",
+      "question_sk": "Z čoho sa skladá oceán?",
+      "question_da": "Hvad er havet lavet af?",
+      "options": [
+        {
+          "id": "salt",
+          "label_en": "Salt water",
+          "label_de": "Salzwasser",
+          "label_it": "Acqua salata",
+          "label_fr": "Eau salée",
+          "label_es": "agua salada",
+          "label_hr": "Slana voda",
+          "label_cs": "Slaná voda",
+          "label_pl": "Słona woda",
+          "label_fi": "Suolavesi",
+          "label_sk": "Slaná voda",
+          "label_da": "Saltvand"
+        },
+        {
+          "id": "milk",
+          "label_en": "Milk",
+          "label_de": "Milch",
+          "label_it": "Latte",
+          "label_fr": "Lait",
+          "label_es": "Leche",
+          "label_hr": "Mlijeko",
+          "label_cs": "Mléko",
+          "label_pl": "Mleko",
+          "label_fi": "Maito",
+          "label_sk": "Mlieko",
+          "label_da": "Mælk"
+        },
+        {
+          "id": "sand",
+          "label_en": "Sand",
+          "label_de": "Sand",
+          "label_it": "Sabbia",
+          "label_fr": "Sable",
+          "label_es": "Arena",
+          "label_hr": "Pijesak",
+          "label_cs": "Písek",
+          "label_pl": "Piasek",
+          "label_fi": "Hiekka",
+          "label_sk": "Piesok",
+          "label_da": "Sand"
+        }
+      ]
+    },
+    {
+      "id": "largest",
+      "correct": "pacific",
+      "question_en": "Which ocean is the largest?",
+      "question_de": "Welcher Ozean ist der größte?",
+      "question_it": "Quale oceano è il più grande?",
+      "question_fr": "Quel océan est le plus grand ?",
+      "question_es": "¿Qué océano es el más grande?",
+      "question_hr": "Koji je ocean najveći?",
+      "question_cs": "Který oceán je největší?",
+      "question_pl": "Który ocean jest największy?",
+      "question_fi": "Mikä valtameri on suurin?",
+      "question_sk": "Ktorý oceán je najväčší?",
+      "question_da": "Hvilket hav er det største?",
+      "options": [
+        {
+          "id": "pacific",
+          "label_en": "The Pacific",
+          "label_de": "Der Pazifik",
+          "label_it": "Il Pacifico",
+          "label_fr": "Le Pacifique",
+          "label_es": "El Pacífico",
+          "label_hr": "Pacifik",
+          "label_cs": "Pacifik",
+          "label_pl": "Pacyfik",
+          "label_fi": "Tyynenmeren",
+          "label_sk": "Pacifik",
+          "label_da": "Stillehavet"
+        },
+        {
+          "id": "arctic",
+          "label_en": "The Arctic",
+          "label_de": "Die Arktis",
+          "label_it": "L'Artico",
+          "label_fr": "L'Arctique",
+          "label_es": "El Ártico",
+          "label_hr": "Arktik",
+          "label_cs": "Arktida",
+          "label_pl": "Arktyka",
+          "label_fi": "Arktinen alue",
+          "label_sk": "Arktída",
+          "label_da": "Arktis"
+        },
+        {
+          "id": "indian",
+          "label_en": "The Indian",
+          "label_de": "Der Inder",
+          "label_it": "L'indiano",
+          "label_fr": "L'Indien",
+          "label_es": "el indio",
+          "label_hr": "Indijanac",
+          "label_cs": "Indián",
+          "label_pl": "Indianin",
+          "label_fi": "Intiaani",
+          "label_sk": "Indián",
+          "label_da": "Inderen"
+        }
+      ]
+    },
+    {
+      "id": "tides",
+      "correct": "moon",
+      "question_en": "What helps create ocean tides?",
+      "question_de": "Was trägt zur Entstehung von Meeresgezeiten bei?",
+      "question_it": "Cosa contribuisce a creare le maree oceaniche?",
+      "question_fr": "Qu’est-ce qui contribue à créer les marées océaniques ?",
+      "question_es": "¿Qué ayuda a crear mareas oceánicas?",
+      "question_hr": "Što pomaže stvaranju oceanskih plima i oseka?",
+      "question_cs": "Co pomáhá vytvářet mořské přílivy?",
+      "question_pl": "Co pomaga tworzyć pływy oceaniczne?",
+      "question_fi": "Mikä auttaa valtamerten vuoroveden luomisessa?",
+      "question_sk": "Čo pomáha vytvárať oceánske prílivy?",
+      "question_da": "Hvad hjælper med at skabe havvande?",
+      "options": [
+        {
+          "id": "moon",
+          "label_en": "The Moon's gravity",
+          "label_de": "Die Schwerkraft des Mondes",
+          "label_it": "La gravità della Luna",
+          "label_fr": "La gravité de la Lune",
+          "label_es": "La gravedad de la Luna",
+          "label_hr": "Mjesečeva gravitacija",
+          "label_cs": "Gravitace Měsíce",
+          "label_pl": "Grawitacja Księżyca",
+          "label_fi": "Kuun painovoima",
+          "label_sk": "Gravitácia Mesiaca",
+          "label_da": "Månens tyngdekraft"
+        },
+        {
+          "id": "wind",
+          "label_en": "Wind only",
+          "label_de": "Nur Wind",
+          "label_it": "Solo vento",
+          "label_fr": "Vent uniquement",
+          "label_es": "Solo viento",
+          "label_hr": "Samo vjetar",
+          "label_cs": "Pouze vítr",
+          "label_pl": "Tylko wiatr",
+          "label_fi": "Vain tuuli",
+          "label_sk": "Iba vietor",
+          "label_da": "Kun vind"
+        },
+        {
+          "id": "fish",
+          "label_en": "Fish",
+          "label_de": "Fisch",
+          "label_it": "Pescare",
+          "label_fr": "Poisson",
+          "label_es": "Pez",
+          "label_hr": "Riba",
+          "label_cs": "Ryba",
+          "label_pl": "Ryba",
+          "label_fi": "Kalastaa",
+          "label_sk": "Ryby",
+          "label_da": "Fisk"
+        }
+      ]
+    }
+  ]
+}
