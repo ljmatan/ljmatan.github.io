@@ -1,0 +1,293 @@
+{
+  "id": "tractor",
+  "category_id": "transport",
+  "symbol_id": "tractor",
+  "thumbnail": "tractor_thumb.webp",
+  "title_en": "Tractors",
+  "title_de": "Traktoren",
+  "title_it": "Trattori",
+  "title_fr": "Tracteurs",
+  "title_es": "Tractores",
+  "title_hr": "Traktori",
+  "title_cs": "Traktory",
+  "title_pl": "Traktory",
+  "title_fi": "Traktorit",
+  "title_sk": "Traktory",
+  "title_da": "Traktorer",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about tractors. A tractor is a strong farm machine with big wheels and a powerful engine. Farmers use tractors to pull tools and do heavy work.",
+      "script_de": "Heute lernen wir etwas über Traktoren. Ein Traktor ist eine starke Landmaschine mit großen Rädern und einem kräftigen Motor. Bauern nutzen Traktoren, um Geräte zu ziehen und schwere Arbeit zu erledigen.",
+      "script_it": "Oggi impareremo a conoscere i trattori. Un trattore è una macchina agricola robusta con ruote grandi e un motore potente. Gli agricoltori usano i trattori per trainare attrezzi e fare lavori pesanti.",
+      "script_fr": "Aujourd'hui, nous allons découvrir les tracteurs. Un tracteur est une machine agricole puissante avec de grandes roues et un moteur robuste. Les agriculteurs l'utilisent pour tirer des outils et faire des travaux lourds.",
+      "script_es": "Hoy vamos a aprender sobre los tractores. Un tractor es una máquina agrícola fuerte con ruedas grandes y un motor potente. Los agricultores usan tractores para arrastrar herramientas y hacer trabajos pesados.",
+      "script_hr": "Danas ćemo učiti o traktorima. Traktor je snažan poljoprivredni stroj s velikim kotačima i moćnim motorom. Poljoprivrednici koriste traktore za vuču alata i teške poslove.",
+      "script_cs": "Dnes se budeme učit o traktorech. Traktor je silný zemědělský stroj s velkými koly a výkonným motorem. Zemědělci traktory používají k tahání nářadí a těžké práci.",
+      "script_pl": "Dziś dowiemy się czegoś o traktorach. Traktor to mocna maszyna rolnicza z dużymi kołami i silnym silnikiem. Rolnicy używają traktorów do ciągnięcia narzędzi i ciężkiej pracy.",
+      "script_fi": "Tänään opimme traktoreista. Traktori on vahva maatalouskone, jossa on suuret pyörät ja tehokas moottori. Viljelijät käyttävät traktoreita työkalujen vetämiseen ja raskaisiin töihin.",
+      "script_sk": "Dnes sa budeme učiť o traktoroch. Traktor je silný poľnohospodársky stroj s veľkými kolesami a výkonným motorom. Poľnohospodári používajú traktory na ťahanie náradia a ťažkú prácu.",
+      "script_da": "I dag skal vi lære om traktorer. En traktor er en stærk landbrugsmaskine med store hjul og en kraftig motor. Landmænd bruger traktorer til at trække redskaber og udføre tungt arbejde.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "wheels",
+      "script_en": "Tractors have large back wheels that grip soft soil and smaller front wheels for steering. The big wheels help the tractor move slowly but with great force. This makes it perfect for pulling ploughs and trailers.",
+      "script_de": "Traktoren haben große Hinterräder, die weichen Boden greifen, und kleinere Vorderräder zum Lenken. Die großen Räder helfen dem Traktor, langsam, aber mit großer Kraft zu fahren. Dadurch eignet er sich perfekt zum Ziehen von Pflügen und Anhängern.",
+      "script_it": "I trattori hanno grandi ruote posteriori che fanno presa sul terreno morbido e ruote anteriori più piccole per sterzare. Le ruote grandi aiutano il trattore a muoversi lentamente ma con grande forza. Questo lo rende perfetto per trainare aratri e rimorchi.",
+      "script_fr": "Les tracteurs ont de grandes roues arrière qui adhèrent au sol meuble et des roues avant plus petites pour diriger. Les grandes roues aident le tracteur à avancer lentement mais avec beaucoup de force. C'est parfait pour tirer des charrues et des remorques.",
+      "script_es": "Los tractores tienen ruedas traseras grandes que se agarran al suelo blando y ruedas delanteras más pequeñas para dirigir. Las ruedas grandes ayudan al tractor a avanzar despacio pero con mucha fuerza. Eso lo hace perfecto para arrastrar arados y remolques.",
+      "script_hr": "Traktori imaju velike stražnje kotače koji prianjaju na mekano tlo i manje prednje kotače za upravljanje. Veliki kotači pomažu traktoru da se kreće polako, ali velikom snagom. Zato je idealan za vuču plugova i prikolica.",
+      "script_cs": "Traktory mají velká zadní kola, která se drží měkké půdy, a menší přední kola pro řízení. Velká kola pomáhají traktoru pohybovat se pomalu, ale s velkou silou. Proto se hodí k tahání pluhů a přívěsů.",
+      "script_pl": "Traktory mają duże tylne koła, które trzymają się miękkiej gleby, i mniejsze przednie koła do kierowania. Duże koła pomagają traktorowi poruszać się powoli, ale z wielką siłą. Dzięki temu świetnie nadaje się do ciągnięcia pługów i przyczep.",
+      "script_fi": "Traktoreissa on suuret takapyörät, jotka pitävät pehmeässä maassa, ja pienemmät etupyörät ohjaamiseen. Suuret pyörät auttavat traktoria liikkumaan hitaasti mutta suurella voimalla. Siksi se sopii täydellisesti aurien ja perävaunujen vetämiseen.",
+      "script_sk": "Traktory majú veľké zadné kolesá, ktoré sa držia mäkkej pôdy, a menšie predné kolesá na riadenie. Veľké kolesá pomáhajú traktoru pohybovať sa pomaly, ale s veľkou silou. Preto sa hodí na ťahanie pluhov a prívesov.",
+      "script_da": "Traktorer har store baghjul, der griber fat i blød jord, og mindre forhjul til at styre med. De store hjul hjælper traktoren med at køre langsomt, men med stor kraft. Det gør den perfekt til at trække plove og trailere.",
+      "images": [
+        "wheels.webp",
+        "wheels_2.webp",
+        "wheels_3.webp"
+      ]
+    },
+    {
+      "id": "work",
+      "script_en": "Farmers attach different machines to a tractor. A plough turns the soil, a seed drill plants seeds, and a trailer carries crops. One tractor can do many jobs by changing its tools.",
+      "script_de": "Bauern befestigen verschiedene Maschinen an einem Traktor. Ein Pflug wendet den Boden, eine Sämaschine sät Körner, und ein Anhänger transportiert die Ernte. Ein Traktor kann viele Aufgaben erledigen, indem man seine Geräte wechselt.",
+      "script_it": "Gli agricoltori collegano macchine diverse al trattore. Un aratro rivolta il terreno, una seminatrice pianta i semi e un rimorchio trasporta il raccolto. Un trattore può fare molti lavori cambiando i suoi attrezzi.",
+      "script_fr": "Les agriculteurs attachent différentes machines au tracteur. Une charrue retourne la terre, un semoir plante les graines et une remorque transporte les récoltes. Un tracteur peut faire beaucoup de travaux en changeant d'outils.",
+      "script_es": "Los agricultores acoplan distintas máquinas al tractor. Un arado remueve la tierra, una sembradora planta las semillas y un remolque transporta la cosecha. Un tractor puede hacer muchos trabajos cambiando sus herramientas.",
+      "script_hr": "Poljoprivrednici priključuju različite strojeve na traktor. Plug okreće zemlju, sijačica sadi sjeme, a prikolica prevozi usjeve. Jedan traktor može obaviti mnoge poslove mijenjanjem alata.",
+      "script_cs": "Zemědělci připojují k traktoru různé stroje. Pluh obrací půdu, secí stroj sází semena a přívěs převáží úrodu. Jeden traktor zvládne mnoho prací díky výměně nářadí.",
+      "script_pl": "Rolnicy mocują do traktora różne maszyny. Pług odwraca ziemię, siewnik sieje nasiona, a przyczepa przewozi plony. Jeden traktor może wykonywać wiele prac, zmieniając narzędzia.",
+      "script_fi": "Viljelijät kiinnittävät traktoriin erilaisia koneita. Aura kääntää maata, kylvökone kylvää siemenet ja perävaunu kuljettaa sadon. Yksi traktori voi tehdä monia töitä vaihtamalla työkaluja.",
+      "script_sk": "Poľnohospodári pripájajú k traktoru rôzne stroje. Pluh obracia pôdu, sejačka seje semienka a príves prepravuje úrodu. Jeden traktor zvládne mnoho prác vďaka výmene náradia.",
+      "script_da": "Landmænd sætter forskellige maskiner på traktoren. En plov vender jorden, en såmaskine sår korn, og en trailer transporterer afgrøderne. En traktor kan udføre mange opgaver ved at skifte redskaber.",
+      "images": [
+        "work.webp",
+        "work_2.webp",
+        "work_3.webp"
+      ]
+    },
+    {
+      "id": "safety",
+      "script_en": "Tractors are heavy and can tip over on steep ground. Farmers drive them slowly and carefully. Children should watch from a safe distance and never climb on a tractor without an adult.",
+      "script_de": "Traktoren sind schwer und können auf steilem Gelände umkippen. Bauern fahren sie langsam und vorsichtig. Kinder sollten aus sicherer Entfernung zusehen und niemals ohne Erwachsenen auf einen Traktor klettern.",
+      "script_it": "I trattori sono pesanti e possono ribaltarsi su terreni ripidi. Gli agricoltori li guidano lentamente e con attenzione. I bambini dovrebbero guardare da una distanza sicura e non salire mai su un trattore senza un adulto.",
+      "script_fr": "Les tracteurs sont lourds et peuvent se renverser sur un terrain escarpé. Les agriculteurs les conduisent lentement et prudemment. Les enfants doivent regarder à une distance sûre et ne jamais monter sur un tracteur sans un adulte.",
+      "script_es": "Los tractores son pesados y pueden volcar en terrenos inclinados. Los agricultores los conducen despacio y con cuidado. Los niños deben mirar desde una distancia segura y nunca subir a un tractor sin un adulto.",
+      "script_hr": "Traktori su teški i mogu se prevrnuti na strmom terenu. Poljoprivrednici ih voze polako i pažljivo. Djeca trebaju gledati sa sigurne udaljenosti i nikada se ne penjati na traktor bez odrasle osobe.",
+      "script_cs": "Traktory jsou těžké a na strmém terénu se mohou převrátit. Zemědělci je řídí pomalu a opatrně. Děti by se měly dívat z bezpečné vzdálenosti a nikdy na traktor nelézt bez dospělého.",
+      "script_pl": "Traktory są ciężkie i mogą się przewrócić na stromym terenie. Rolnicy prowadzą je powoli i ostrożnie. Dzieci powinny patrzeć z bezpiecznej odległości i nigdy nie wspinać się na traktor bez dorosłego.",
+      "script_fi": "Traktorit ovat raskaita ja voivat kaatua jyrkässä maastossa. Viljelijät ajavat niitä hitaasti ja varovasti. Lasten pitäisi katsella turvallisen matkan päästä eikä koskaan kiivetä traktoriin ilman aikuista.",
+      "script_sk": "Traktory sú ťažké a na strmom teréne sa môžu prevrátiť. Poľnohospodári ich riadia pomaly a opatrne. Deti by sa mali pozerať z bezpečnej vzdialenosti a nikdy neliezť na traktor bez dospelého.",
+      "script_da": "Traktorer er tunge og kan vælte på skrå terræn. Landmænd kører dem langsomt og forsigtigt. Børn skal se på fra sikker afstand og aldrig klatre op på en traktor uden en voksen.",
+      "images": [
+        "safety.webp",
+        "safety_2.webp",
+        "safety_3.webp"
+      ]
+    },
+    {
+      "id": "today",
+      "script_en": "Today many tractors use computers and satellite guidance to plant and harvest more precisely. Some can even drive themselves along rows. These improvements help farmers grow food with less waste.",
+      "script_de": "Heute nutzen viele Traktoren Computer und Satellitenlenkung, um genauer zu säen und zu ernten. Manche können sogar selbstständig entlang der Reihen fahren. Diese Verbesserungen helfen Bauern, Lebensmittel mit weniger Verschwendung anzubauen.",
+      "script_it": "Oggi molti trattori usano computer e guida satellitare per seminare e raccogliere con maggiore precisione. Alcuni possono perfino guidarsi da soli lungo i filari. Questi miglioramenti aiutano gli agricoltori a produrre cibo con meno sprechi.",
+      "script_fr": "Aujourd'hui, de nombreux tracteurs utilisent des ordinateurs et un guidage par satellite pour semer et récolter plus précisément. Certains peuvent même se déplacer seuls le long des rangs. Ces améliorations aident les agriculteurs à produire de la nourriture avec moins de gaspillage.",
+      "script_es": "Hoy muchos tractores usan computadoras y guía por satélite para sembrar y cosechar con más precisión. Algunos incluso pueden avanzar solos por los surcos. Estas mejoras ayudan a los agricultores a producir alimentos con menos desperdicio.",
+      "script_hr": "Danas mnogi traktori koriste računala i satelitsko navođenje za precizniju sjetvu i žetvu. Neki se čak mogu sami kretati duž redova. Ta poboljšanja pomažu poljoprivrednicima uzgajati hranu uz manje otpada.",
+      "script_cs": "Dnešní traktory často používají počítače a satelitní navigaci k přesnějšímu setí a sklizni. Některé dokážou jet samy podél řádků. Tato vylepšení pomáhají zemědělcům pěstovat potraviny s menším plýtváním.",
+      "script_pl": "Dzisiejsze traktory często używają komputerów i nawigacji satelitarnej, aby precyzyjniej siać i zbierać plony. Niektóre potrafią nawet same jechać wzdłuż rzędów. Te ulepszenia pomagają rolnikom uprawiać żywność z mniejszym marnotrawstwem.",
+      "script_fi": "Nykyään monet traktorit käyttävät tietokoneita ja satelliittiohjausta kylvämiseen ja sadonkorjuuseen tarkemmin. Jotkut voivat jopa kulkea itsestään rivien suuntaisesti. Nämä parannukset auttavat viljelijöitä tuottamaan ruokaa vähemmällä hukalla.",
+      "script_sk": "Dnešné traktory často používajú počítače a satelitné navádzanie na presnejšie siatie a zber. Niektoré dokážu dokonca jazdiť samy pozdĺž riadkov. Tieto vylepšenia pomáhajú poľnohospodárom pestovať potraviny s menším plytvaním.",
+      "script_da": "I dag bruger mange traktorer computere og satellitnavigation til at så og høste mere præcist. Nogle kan endda køre selv langs rækkerne. Disse forbedringer hjælper landmænd med at dyrke mad med mindre spild.",
+      "images": [
+        "today.webp",
+        "today_2.webp",
+        "today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "work",
+      "correct": "farm",
+      "question_en": "What is a tractor mainly used for?",
+      "question_de": "Wofür wird ein Traktor hauptsächlich verwendet?",
+      "question_it": "A cosa serve principalmente un trattore?",
+      "question_fr": "À quoi sert principalement un tracteur ?",
+      "question_es": "¿Para qué se usa principalmente un tractor?",
+      "question_hr": "Za što se traktor uglavnom koristi?",
+      "question_cs": "K čemu se traktor hlavně používá?",
+      "question_pl": "Do czego głównie służy traktor?",
+      "question_fi": "Mihin traktoria pääasiassa käytetään?",
+      "question_sk": "Na čo sa traktor hlavne používa?",
+      "question_da": "Hvad bruges en traktor hovedsageligt til?",
+      "options": [
+        {
+          "id": "farm",
+          "label_en": "Farm work",
+          "label_de": "Für die Landwirtschaft",
+          "label_it": "Per i lavori agricoli",
+          "label_fr": "Pour les travaux agricoles",
+          "label_es": "Para el trabajo agrícola",
+          "label_hr": "Za poljoprivredne poslove",
+          "label_cs": "Pro zemědělskou práci",
+          "label_pl": "Do prac rolniczych",
+          "label_fi": "Maataloustöihin",
+          "label_sk": "Pre poľnohospodárske práce",
+          "label_da": "Til landbrugsarbejde"
+        },
+        {
+          "id": "flying",
+          "label_en": "Flying",
+          "label_de": "Zum Fliegen",
+          "label_it": "Per volare",
+          "label_fr": "Pour voler",
+          "label_es": "Para volar",
+          "label_hr": "Za letenje",
+          "label_cs": "Pro létání",
+          "label_pl": "Do latania",
+          "label_fi": "Lentämiseen",
+          "label_sk": "Na lietanie",
+          "label_da": "Til at flyve"
+        },
+        {
+          "id": "swimming",
+          "label_en": "Swimming",
+          "label_de": "Zum Schwimmen",
+          "label_it": "Per nuotare",
+          "label_fr": "Pour nager",
+          "label_es": "Para nadar",
+          "label_hr": "Za plivanje",
+          "label_cs": "Pro plavání",
+          "label_pl": "Do pływania",
+          "label_fi": "Uimiseen",
+          "label_sk": "Na plávanie",
+          "label_da": "Til at svømme"
+        }
+      ]
+    },
+    {
+      "id": "wheels",
+      "correct": "grip",
+      "question_en": "Why are tractor rear wheels so big?",
+      "question_de": "Warum sind die Hinterräder eines Traktors so groß?",
+      "question_it": "Perché le ruote posteriori del trattore sono così grandi?",
+      "question_fr": "Pourquoi les roues arrière d'un tracteur sont-elles si grandes ?",
+      "question_es": "¿Por qué son tan grandes las ruedas traseras del tractor?",
+      "question_hr": "Zašto su stražnji kotači traktora tako veliki?",
+      "question_cs": "Proč jsou zadní kola traktoru tak velká?",
+      "question_pl": "Dlaczego tylne koła traktora są tak duże?",
+      "question_fi": "Miksi traktorin takapyörät ovat niin suuret?",
+      "question_sk": "Prečo sú zadné kolesá traktora také veľké?",
+      "question_da": "Hvorfor er en traktors baghjul så store?",
+      "options": [
+        {
+          "id": "grip",
+          "label_en": "To grip the soil and pull heavy tools",
+          "label_de": "Um den Boden zu greifen und schwere Geräte zu ziehen",
+          "label_it": "Per fare presa sul terreno e trainare attrezzi pesanti",
+          "label_fr": "Pour adhérer au sol et tirer des outils lourds",
+          "label_es": "Para agarrarse al suelo y arrastrar herramientas pesadas",
+          "label_hr": "Da prianjaju na tlo i vuku teške alate",
+          "label_cs": "Aby se držela půdy a tahala těžké nářadí",
+          "label_pl": "Aby trzymać się gleby i ciągnąć ciężkie narzędzia",
+          "label_fi": "Jotta ne pitävät maassa ja vetävät raskaita työkaluja",
+          "label_sk": "Aby sa držali pôdy a ťahali ťažké náradie",
+          "label_da": "For at gribe fat i jorden og trække tunge redskaber"
+        },
+        {
+          "id": "fast",
+          "label_en": "To go very fast",
+          "label_de": "Um sehr schnell zu fahren",
+          "label_it": "Per andare molto veloci",
+          "label_fr": "Pour aller très vite",
+          "label_es": "Para ir muy rápido",
+          "label_hr": "Da idu vrlo brzo",
+          "label_cs": "Aby jela velmi rychle",
+          "label_pl": "Aby jechać bardzo szybko",
+          "label_fi": "Jotta ne kulkevat hyvin nopeasti",
+          "label_sk": "Aby išli veľmi rýchlo",
+          "label_da": "For at køre meget hurtigt"
+        },
+        {
+          "id": "float",
+          "label_en": "To float on water",
+          "label_de": "Um auf Wasser zu schwimmen",
+          "label_it": "Per galleggiare sull'acqua",
+          "label_fr": "Pour flotter sur l'eau",
+          "label_es": "Para flotar en el agua",
+          "label_hr": "Da plivaju na vodi",
+          "label_cs": "Aby plavala na vodě",
+          "label_pl": "Aby unosić się na wodzie",
+          "label_fi": "Jotta ne kelluvat vedessä",
+          "label_sk": "Aby sa vznášali na vode",
+          "label_da": "For at flyde på vand"
+        }
+      ]
+    },
+    {
+      "id": "safe",
+      "correct": "away",
+      "question_en": "Where should children stand near a working tractor?",
+      "question_de": "Wo sollten Kinder in der Nähe eines arbeitenden Traktors stehen?",
+      "question_it": "Dove dovrebbero stare i bambini vicino a un trattore in funzione?",
+      "question_fr": "Où les enfants doivent-ils se tenir près d'un tracteur en marche ?",
+      "question_es": "¿Dónde deben estar los niños cerca de un tractor en marcha?",
+      "question_hr": "Gdje trebaju stajati djeca blizu traktora koji radi?",
+      "question_cs": "Kde by děti měly stát u pracujícího traktoru?",
+      "question_pl": "Gdzie powinny stać dzieci w pobliżu pracującego traktora?",
+      "question_fi": "Missä lasten pitäisi seisoa työskentelevän traktorin lähellä?",
+      "question_sk": "Kde by deti mali stáť pri pracujúcom traktore?",
+      "question_da": "Hvor skal børn stå nær en arbejdende traktor?",
+      "options": [
+        {
+          "id": "away",
+          "label_en": "At a safe distance",
+          "label_de": "In sicherer Entfernung",
+          "label_it": "A una distanza sicura",
+          "label_fr": "À une distance sûre",
+          "label_es": "A una distancia segura",
+          "label_hr": "Na sigurnoj udaljenosti",
+          "label_cs": "V bezpečné vzdálenosti",
+          "label_pl": "W bezpiecznej odległości",
+          "label_fi": "Turvallisella etäisyydellä",
+          "label_sk": "V bezpečnej vzdialenosti",
+          "label_da": "I sikker afstand"
+        },
+        {
+          "id": "front",
+          "label_en": "Right in front",
+          "label_de": "Direkt davor",
+          "label_it": "Proprio davanti",
+          "label_fr": "Juste devant",
+          "label_es": "Justo delante",
+          "label_hr": "Točno ispred",
+          "label_cs": "Přímo před ním",
+          "label_pl": "Tuż przed nim",
+          "label_fi": "Aivan sen edessä",
+          "label_sk": "Priamo pred ním",
+          "label_da": "Lige foran"
+        },
+        {
+          "id": "wheel",
+          "label_en": "On the wheel",
+          "label_de": "Auf dem Rad",
+          "label_it": "Sulla ruota",
+          "label_fr": "Sur la roue",
+          "label_es": "En la rueda",
+          "label_hr": "Na kotaču",
+          "label_cs": "Na kole",
+          "label_pl": "Na kole",
+          "label_fi": "Pyörän päällä",
+          "label_sk": "Na kolese",
+          "label_da": "På hjulet"
+        }
+      ]
+    }
+  ]
+}

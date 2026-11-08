@@ -2143,6 +2143,27 @@
       "title_da": "Ubåde"
     },
     {
+      "id": "tractor",
+      "category_id": "transport",
+      "symbol_id": "tractor",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/tractor/tractor_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/tractor/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2482848,
+      "version": 1,
+      "title_en": "Tractors",
+      "title_de": "Traktoren",
+      "title_it": "Trattori",
+      "title_fr": "Tracteurs",
+      "title_es": "Tractores",
+      "title_hr": "Traktori",
+      "title_cs": "Traktory",
+      "title_pl": "Traktory",
+      "title_fi": "Traktorit",
+      "title_sk": "Traktory",
+      "title_da": "Traktorer"
+    },
+    {
       "id": "train",
       "category_id": "transport",
       "symbol_id": "train",
