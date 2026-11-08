@@ -1,0 +1,293 @@
+{
+  "id": "desert",
+  "category_id": "nature",
+  "symbol_id": "desert",
+  "thumbnail": "desert_thumb.webp",
+  "title_en": "Deserts",
+  "title_de": "Wüsten",
+  "title_it": "Deserti",
+  "title_fr": "Déserts",
+  "title_es": "Desiertos",
+  "title_hr": "Pustinje",
+  "title_cs": "Pouště",
+  "title_pl": "Pustynie",
+  "title_fi": "Aavikot",
+  "title_sk": "Púšte",
+  "title_da": "Ørkener",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about deserts. A desert is a very dry place that gets little rain. Deserts can be hot or cold, sandy or rocky.",
+      "script_de": "Heute lernen wir etwas über Wüsten. Eine Wüste ist ein sehr trockener Ort, an dem es wenig regnet. Wüsten können heiß oder kalt, sandig oder felsig sein.",
+      "script_it": "Oggi impareremo a conoscere i deserti. Un deserto è un luogo molto secco dove piove poco. I deserti possono essere caldi o freddi, sabbiosi o rocciosi.",
+      "script_fr": "Aujourd'hui, nous allons découvrir les déserts. Un désert est un endroit très sec qui reçoit peu de pluie. Les déserts peuvent être chauds ou froids, sableux ou rocheux.",
+      "script_es": "Hoy vamos a aprender sobre los desiertos. Un desierto es un lugar muy seco donde llueve poco. Los desiertos pueden ser fríos o calientes, arenosos o rocosos.",
+      "script_hr": "Danas ćemo učiti o pustinjama. Pustinja je vrlo suho mjesto koje ima malo kiše. Pustinje mogu biti tople ili hladne, pješčane ili stjenovite.",
+      "script_cs": "Dnes se budeme učit o pouštích. Poušť je velmi suché místo, kde prší málo. Pouště mohou být horké nebo studené, písečné nebo kamenité.",
+      "script_pl": "Dzisiaj będziemy uczyć się o pustyniach. Pustynia to bardzo suche miejsce, w którym opady deszczu są niewielkie. Pustynie mogą być gorące lub zimne, piaszczyste lub skaliste.",
+      "script_fi": "Tänään opimme aavikoista. Aavikko on erittäin kuiva paikka, jossa sataa vähän. Aavikot voivat olla kuumia tai kylmiä, hiekkaisia ​​tai kivisiä.",
+      "script_sk": "Dnes sa budeme učiť o púšti. Púšť je veľmi suché miesto, kde prší málo. Púšte môžu byť horúce alebo studené, piesočnaté alebo skalnaté.",
+      "script_da": "I dag skal vi lære om ørkener. En ørken er et meget tørt sted, der får lidt regn. Ørkener kan være varme eller kolde, sandede eller stenede.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "weather",
+      "script_en": "Deserts often have hot days and cold nights. The air is dry, so there are few clouds. Some deserts are covered in sand, while others are made of stone and gravel.",
+      "script_de": "Wüsten haben oft heiße Tage und kalte Nächte. Die Luft ist trocken, daher gibt es nur wenige Wolken. Manche Wüsten sind mit Sand bedeckt, andere bestehen aus Stein und Kies.",
+      "script_it": "I deserti hanno spesso giornate calde e notti fredde. L'aria è secca, quindi ci sono poche nuvole. Alcuni deserti sono ricoperti di sabbia, mentre altri sono fatti di pietra e ghiaia.",
+      "script_fr": "Les déserts ont souvent des journées chaudes et des nuits froides. L'air est sec, donc il y a peu de nuages. Certains déserts sont recouverts de sable, tandis que d'autres sont constitués de pierres et de graviers.",
+      "script_es": "Los desiertos suelen tener días calurosos y noches frías. El aire es seco, por lo que hay pocas nubes. Algunos desiertos están cubiertos de arena, mientras que otros están hechos de piedra y grava.",
+      "script_hr": "Pustinje često imaju vruće dane i hladne noći. Zrak je suh pa ima malo oblaka. Neke su pustinje prekrivene pijeskom, dok su druge napravljene od kamena i šljunka.",
+      "script_cs": "Pouště mají často horké dny a chladné noci. Vzduch je suchý, takže je málo mraků. Některé pouště jsou pokryty pískem, zatímco jiné jsou z kamene a štěrku.",
+      "script_pl": "Na pustyniach często są gorące dni i zimne noce. Powietrze jest suche, więc chmur jest niewiele. Niektóre pustynie pokryte są piaskiem, inne zaś są zbudowane z kamienia i żwiru.",
+      "script_fi": "Aavikoilla on usein kuumia päiviä ja kylmiä öitä. Ilma on kuivaa, joten pilviä on vähän. Jotkut aavikot ovat hiekan peitossa, kun taas toiset on tehty kivestä ja sorasta.",
+      "script_sk": "Na púšti sú často horúce dni a chladné noci. Vzduch je suchý, takže oblačnosti je málo. Niektoré púšte sú pokryté pieskom, zatiaľ čo iné sú vyrobené z kameňa a štrku.",
+      "script_da": "Ørkener har ofte varme dage og kolde nætter. Luften er tør, så der er få skyer. Nogle ørkener er dækket af sand, mens andre er lavet af sten og grus.",
+      "images": [
+        "weather.webp",
+        "weather_2.webp",
+        "weather_3.webp"
+      ]
+    },
+    {
+      "id": "life",
+      "script_en": "Desert plants and animals have special ways to survive. Cacti store water, camels can travel far without drinking, and many animals rest during the hottest part of the day.",
+      "script_de": "Wüstenpflanzen und -tiere haben besondere Überlebensstrategien. Kakteen speichern Wasser, Kamele können weite Strecken zurücklegen, ohne zu trinken, und viele Tiere ruhen in der heißesten Zeit des Tages.",
+      "script_it": "Le piante e gli animali del deserto hanno modi speciali per sopravvivere. I cactus immagazzinano acqua, i cammelli possono viaggiare lontano senza bere e molti animali riposano durante le ore più calde della giornata.",
+      "script_fr": "Les plantes et les animaux du désert ont des moyens particuliers de survivre. Les cactus stockent de l'eau, les chameaux peuvent voyager loin sans boire et de nombreux animaux se reposent pendant les heures les plus chaudes de la journée.",
+      "script_es": "Las plantas y los animales del desierto tienen formas especiales de sobrevivir. Los cactus almacenan agua, los camellos pueden viajar grandes distancias sin beber y muchos animales descansan durante las horas más calurosas del día.",
+      "script_hr": "Pustinjske biljke i životinje imaju posebne načine preživljavanja. Kaktusi skladište vodu, deve mogu putovati daleko bez da piju, a mnoge se životinje odmaraju tijekom najtoplijeg dijela dana.",
+      "script_cs": "Pouštní rostliny a zvířata mají zvláštní způsoby, jak přežít. Kaktusy ukládají vodu, velbloudi mohou cestovat daleko bez pití a mnoho zvířat odpočívá během nejteplejších částí dne.",
+      "script_pl": "Rośliny i zwierzęta pustynne mają specjalne sposoby na przetrwanie. Kaktusy magazynują wodę, wielbłądy mogą podróżować daleko bez picia, a wiele zwierząt odpoczywa w najgorętszej części dnia.",
+      "script_fi": "Aavikon kasveilla ja eläimillä on erityisiä tapoja selviytyä. Kaktukset varastoivat vettä, kamelit voivat matkustaa kauas juomatta, ja monet eläimet lepäävät päivän kuumimpana aikana.",
+      "script_sk": "Púštne rastliny a zvieratá majú špeciálne spôsoby, ako prežiť. Kaktusy uchovávajú vodu, ťavy môžu cestovať ďaleko bez pitia a mnohé zvieratá odpočívajú počas najteplejších častí dňa.",
+      "script_da": "Ørkenplanter og dyr har særlige måder at overleve på. Kaktusser opbevarer vand, kameler kan rejse langt uden at drikke, og mange dyr hviler sig på den varmeste del af dagen.",
+      "images": [
+        "life.webp",
+        "life_2.webp",
+        "life_3.webp"
+      ]
+    },
+    {
+      "id": "people",
+      "script_en": "People have lived in deserts for thousands of years. They wear loose clothes for shade, travel at cooler times, and find water in springs and oases. Some deserts have towns with wells and gardens.",
+      "script_de": "Seit Jahrtausenden leben Menschen in Wüsten. Sie tragen lockere Kleidung, um Schatten zu spenden, reisen in kühleren Zeiten und finden Wasser in Quellen und Oasen. In einigen Wüsten gibt es Städte mit Brunnen und Gärten.",
+      "script_it": "Le persone vivono nei deserti da migliaia di anni. Indossano abiti larghi per ripararsi dall'ombra, viaggiano nei periodi più freschi e trovano acqua nelle sorgenti e nelle oasi. Alcuni deserti hanno città con pozzi e giardini.",
+      "script_fr": "Les gens vivent dans les déserts depuis des milliers d’années. Ils portent des vêtements amples pour se protéger de l’ombre, voyagent à des heures plus fraîches et trouvent de l’eau dans les sources et les oasis. Certains déserts abritent des villes dotées de puits et de jardins.",
+      "script_es": "La gente ha vivido en desiertos durante miles de años. Usan ropa holgada para protegerse de la sombra, viajan en épocas más frescas y encuentran agua en manantiales y oasis. Algunos desiertos tienen pueblos con pozos y jardines.",
+      "script_hr": "Ljudi žive u pustinjama tisućama godina. Nose široku odjeću radi hlada, putuju u hladnije vrijeme i nalaze vodu u izvorima i oazama. Neke pustinje imaju gradove s bunarima i vrtovima.",
+      "script_cs": "Lidé žili v pouštích tisíce let. Nosí volné oblečení do stínu, cestují v chladnějších časech a nacházejí vodu v pramenech a oázách. Některé pouště mají města se studnami a zahradami.",
+      "script_pl": "Ludzie żyli na pustyniach od tysięcy lat. Noszą luźne ubrania, by zapewnić sobie cień, podróżują w chłodniejszych porach roku i szukają wody w źródłach i oazach. Na niektórych pustyniach znajdują się miasta ze studniami i ogrodami.",
+      "script_fi": "Ihmiset ovat asuneet autiomaassa tuhansia vuosia. He käyttävät väljiä vaatteita varjossa, matkustavat viileämpinä aikoina ja löytävät vettä lähteistä ja keitaista. Joillakin aavikoilla on kaupunkeja, joissa on kaivoja ja puutarhoja.",
+      "script_sk": "Ľudia žili v púšti už tisíce rokov. Nosia voľné oblečenie do tieňa, cestujú v chladnejších časoch a nachádzajú vodu v prameňoch a oázach. Niektoré púšte majú mestá so studňami a záhradami.",
+      "script_da": "Mennesker har levet i ørkener i tusinder af år. De bærer løst tøj til skygge, rejser på køligere tider og finder vand i kilder og oaser. Nogle ørkener har byer med brønde og haver.",
+      "images": [
+        "people.webp",
+        "people_2.webp",
+        "people_3.webp"
+      ]
+    },
+    {
+      "id": "care",
+      "script_en": "Deserts are fragile places. Too much grazing or careless driving can damage the land. Planting native trees and saving water helps deserts and the people who live there.",
+      "script_de": "Wüsten sind fragile Orte. Zu viel Beweidung oder unachtsames Fahren können dem Land schaden. Das Pflanzen einheimischer Bäume und das Sparen von Wasser hilft den Wüsten und den Menschen, die dort leben.",
+      "script_it": "I deserti sono luoghi fragili. Troppo pascolo o una guida imprudente possono danneggiare il terreno. Piantare alberi autoctoni e risparmiare acqua aiuta i deserti e le persone che vivono lì.",
+      "script_fr": "Les déserts sont des endroits fragiles. Trop de pâturage ou une conduite imprudente peuvent endommager la terre. Planter des arbres indigènes et économiser l’eau aide les déserts et les gens qui y vivent.",
+      "script_es": "Los desiertos son lugares frágiles. Demasiado pastoreo o una conducción descuidada pueden dañar la tierra. Plantar árboles nativos y ahorrar agua ayuda a los desiertos y a las personas que viven allí.",
+      "script_hr": "Pustinje su osjetljiva mjesta. Previše ispaše ili nemarna vožnja mogu oštetiti zemlju. Sadnja autohtonog drveća i štednja vode pomaže pustinjama i ljudima koji tamo žive.",
+      "script_cs": "Pouště jsou křehká místa. Přílišná pastva nebo neopatrná jízda mohou půdu poškodit. Vysazování původních stromů a šetření vodou pomáhá pouštím a lidem, kteří tam žijí.",
+      "script_pl": "Pustynie to miejsca wrażliwe. Nadmierny wypas lub nieostrożna jazda mogą uszkodzić glebę. Sadzenie rodzimych drzew i oszczędzanie wody pomaga pustyniom i ludziom, którzy tam mieszkają.",
+      "script_fi": "Aavikot ovat hauraita paikkoja. Liiallinen laiduntaminen tai huolimaton ajo voi vahingoittaa maata. Alkuperäisten puiden istuttaminen ja veden säästäminen auttaa aavikoita ja siellä asuvia ihmisiä.",
+      "script_sk": "Púšte sú krehké miesta. Príliš veľa pastvy alebo neopatrná jazda môžu poškodiť pozemok. Výsadba pôvodných stromov a šetrenie vodou pomáha púšti a ľuďom, ktorí tam žijú.",
+      "script_da": "Ørkener er skrøbelige steder. For meget græsning eller skødesløs kørsel kan skade jorden. At plante indfødte træer og spare på vandet hjælper ørkener og de mennesker, der bor der.",
+      "images": [
+        "care.webp",
+        "care_2.webp",
+        "care_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "what",
+      "correct": "dry",
+      "question_en": "What is a desert?",
+      "question_de": "Was ist eine Wüste?",
+      "question_it": "Cos'è un deserto?",
+      "question_fr": "Qu'est-ce qu'un désert ?",
+      "question_es": "¿Qué es un desierto?",
+      "question_hr": "Što je pustinja?",
+      "question_cs": "co je to poušť?",
+      "question_pl": "Co to jest pustynia?",
+      "question_fi": "Mikä on aavikko?",
+      "question_sk": "čo je púšť?",
+      "question_da": "Hvad er en ørken?",
+      "options": [
+        {
+          "id": "dry",
+          "label_en": "A very dry place",
+          "label_de": "Ein sehr trockener Ort",
+          "label_it": "Un posto molto secco",
+          "label_fr": "Un endroit très sec",
+          "label_es": "Un lugar muy seco",
+          "label_hr": "Vrlo suho mjesto",
+          "label_cs": "Velmi suché místo",
+          "label_pl": "Bardzo suche miejsce",
+          "label_fi": "Erittäin kuiva paikka",
+          "label_sk": "Veľmi suché miesto",
+          "label_da": "Et meget tørt sted"
+        },
+        {
+          "id": "wet",
+          "label_en": "A very wet place",
+          "label_de": "Ein sehr nasser Ort",
+          "label_it": "Un posto molto umido",
+          "label_fr": "Un endroit très humide",
+          "label_es": "un lugar muy humedo",
+          "label_hr": "Vrlo mokro mjesto",
+          "label_cs": "Velmi vlhké místo",
+          "label_pl": "Bardzo mokre miejsce",
+          "label_fi": "Todella märkä paikka",
+          "label_sk": "Veľmi vlhké miesto",
+          "label_da": "Et meget vådt sted"
+        },
+        {
+          "id": "cold",
+          "label_en": "A frozen ocean",
+          "label_de": "Ein gefrorener Ozean",
+          "label_it": "Un oceano ghiacciato",
+          "label_fr": "Un océan gelé",
+          "label_es": "Un océano helado",
+          "label_hr": "Smrznuti ocean",
+          "label_cs": "Zamrzlý oceán",
+          "label_pl": "Zamarznięty ocean",
+          "label_fi": "Jäätynyt valtameri",
+          "label_sk": "Zamrznutý oceán",
+          "label_da": "Et frosset hav"
+        }
+      ]
+    },
+    {
+      "id": "life",
+      "correct": "water",
+      "question_en": "How do cacti survive in the desert?",
+      "question_de": "Wie überleben Kakteen in der Wüste?",
+      "question_it": "Come sopravvivono i cactus nel deserto?",
+      "question_fr": "Comment les cactus survivent-ils dans le désert ?",
+      "question_es": "¿Cómo sobreviven los cactus en el desierto?",
+      "question_hr": "Kako kaktusi preživljavaju u pustinji?",
+      "question_cs": "Jak přežívají kaktusy v poušti?",
+      "question_pl": "Jak kaktusy radzą sobie na pustyni?",
+      "question_fi": "Miten kaktukset selviävät autiomaassa?",
+      "question_sk": "Ako prežijú kaktusy v púšti?",
+      "question_da": "Hvordan overlever kaktusser i ørkenen?",
+      "options": [
+        {
+          "id": "water",
+          "label_en": "They store water",
+          "label_de": "Sie speichern Wasser",
+          "label_it": "Conservano l'acqua",
+          "label_fr": "Ils stockent l'eau",
+          "label_es": "almacenan agua",
+          "label_hr": "Čuvaju vodu",
+          "label_cs": "Ukládají vodu",
+          "label_pl": "Magazynują wodę",
+          "label_fi": "Ne varastoivat vettä",
+          "label_sk": "Ukladajú vodu",
+          "label_da": "De opbevarer vand"
+        },
+        {
+          "id": "snow",
+          "label_en": "They make snow",
+          "label_de": "Sie machen Schnee",
+          "label_it": "Fanno la neve",
+          "label_fr": "Ils font de la neige",
+          "label_es": "hacen nieve",
+          "label_hr": "Oni prave snijeg",
+          "label_cs": "Dělají sníh",
+          "label_pl": "Robią śnieg",
+          "label_fi": "Ne tekevät lunta",
+          "label_sk": "Robia sneh",
+          "label_da": "De laver sne"
+        },
+        {
+          "id": "fish",
+          "label_en": "They catch fish",
+          "label_de": "Sie fangen Fische",
+          "label_it": "Catturano pesci",
+          "label_fr": "Ils attrapent du poisson",
+          "label_es": "ellos pescan",
+          "label_hr": "Oni love ribu",
+          "label_cs": "Chytají ryby",
+          "label_pl": "Łowią ryby",
+          "label_fi": "He pyytävät kalaa",
+          "label_sk": "Chytajú ryby",
+          "label_da": "De fanger fisk"
+        }
+      ]
+    },
+    {
+      "id": "care",
+      "correct": "water",
+      "question_en": "How can people help deserts?",
+      "question_de": "Wie können Menschen Wüsten helfen?",
+      "question_it": "Come possono le persone aiutare i deserti?",
+      "question_fr": "Comment les gens peuvent-ils aider les déserts ?",
+      "question_es": "¿Cómo puede la gente ayudar a los desiertos?",
+      "question_hr": "Kako ljudi mogu pomoći pustinjama?",
+      "question_cs": "Jak mohou lidé pomoci pouštím?",
+      "question_pl": "Jak ludzie mogą pomóc pustyniom?",
+      "question_fi": "Miten ihmiset voivat auttaa erämaata?",
+      "question_sk": "Ako môžu ľudia pomôcť púšti?",
+      "question_da": "Hvordan kan folk hjælpe ørkener?",
+      "options": [
+        {
+          "id": "water",
+          "label_en": "Save water and plant native trees",
+          "label_de": "Sparen Sie Wasser und pflanzen Sie einheimische Bäume",
+          "label_it": "Risparmia acqua e pianta alberi autoctoni",
+          "label_fr": "Économisez l’eau et plantez des arbres indigènes",
+          "label_es": "Ahorre agua y plante árboles nativos",
+          "label_hr": "Štedite vodu i sadite autohtono drveće",
+          "label_cs": "Šetřete vodou a sázejte původní stromy",
+          "label_pl": "Oszczędzaj wodę i sadź rodzime drzewa",
+          "label_fi": "Säästä vettä ja istuta alkuperäisiä puita",
+          "label_sk": "Šetrite vodou a vysádzajte pôvodné stromy",
+          "label_da": "Spar på vandet og plant indfødte træer"
+        },
+        {
+          "id": "litter",
+          "label_en": "Leave litter",
+          "label_de": "Hinterlassen Sie Müll",
+          "label_it": "Lascia i rifiuti",
+          "label_fr": "Laisser les détritus",
+          "label_es": "dejar basura",
+          "label_hr": "Ostavite stelju",
+          "label_cs": "Nechte podestýlku",
+          "label_pl": "Zostaw śmieci",
+          "label_fi": "Jätä pentue",
+          "label_sk": "Nechajte podstielku",
+          "label_da": "Efterlad affald"
+        },
+        {
+          "id": "burn",
+          "label_en": "Burn the plants",
+          "label_de": "Verbrenne die Pflanzen",
+          "label_it": "Brucia le piante",
+          "label_fr": "Brûlez les plantes",
+          "label_es": "quemar las plantas",
+          "label_hr": "Spaliti biljke",
+          "label_cs": "Spalte rostliny",
+          "label_pl": "Spalić rośliny",
+          "label_fi": "Polta kasvit",
+          "label_sk": "Spáliť rastliny",
+          "label_da": "Brænd planterne"
+        }
+      ]
+    }
+  ]
+}
