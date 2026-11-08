@@ -1,0 +1,293 @@
+{
+  "id": "sofa",
+  "category_id": "household",
+  "symbol_id": "sofa",
+  "thumbnail": "sofa_thumb.webp",
+  "title_en": "Sofas",
+  "title_de": "Sofas",
+  "title_it": "Divani",
+  "title_fr": "Canapés",
+  "title_es": "Sofás",
+  "title_hr": "Sofe",
+  "title_cs": "Pohovky",
+  "title_pl": "Sofy",
+  "title_fi": "Sohvat",
+  "title_sk": "Pohovky",
+  "title_da": "Sofaer",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about sofas. A sofa is a long, soft seat for two or more people. Families use sofas to relax, read, talk, and watch films together.",
+      "script_de": "Heute lernen wir etwas über Sofas. Ein Sofa ist ein langer, weicher Sitz für zwei oder mehr Personen. Familien nutzen Sofas zum Entspannen, Lesen, Reden und gemeinsamen Filmeschauen.",
+      "script_it": "Oggi impareremo a conoscere i divani. Un divano è un sedile lungo e morbido per due o più persone. Le famiglie usano i divani per rilassarsi, leggere, parlare e guardare film insieme.",
+      "script_fr": "Aujourd'hui, nous allons découvrir les canapés. Un canapé est un siège long et moelleux pour deux personnes ou plus. Les familles l'utilisent pour se détendre, lire, discuter et regarder des films ensemble.",
+      "script_es": "Hoy vamos a aprender sobre los sofás. Un sofá es un asiento largo y blando para dos o más personas. Las familias usan los sofás para relajarse, leer, hablar y ver películas juntas.",
+      "script_hr": "Danas ćemo učiti o sofama. Sofa je dugačka, mekana sjedalica za dvije ili više osoba. Obitelji koriste sofe za opuštanje, čitanje, razgovor i zajedničko gledanje filmova.",
+      "script_cs": "Dnes se budeme učit o pohovkách. Pohovka je dlouhé, měkké sedadlo pro dvě nebo více osob. Rodiny pohovky používají k odpočinku, čtení, povídání a společnému sledování filmů.",
+      "script_pl": "Dziś dowiemy się czegoś o sofach. Sofa to długie, miękkie siedzenie dla dwóch lub więcej osób. Rodziny używają sof do odpoczynku, czytania, rozmów i wspólnego oglądania filmów.",
+      "script_fi": "Tänään opimme sohvista. Sohva on pitkä, pehmeä istuin kahdelle tai useammalle henkilölle. Perheet käyttävät sohvia rentoutumiseen, lukemiseen, keskustelemiseen ja yhdessä elokuvien katseluun.",
+      "script_sk": "Dnes sa budeme učiť o pohovkách. Pohovka je dlhé, mäkké sedadlo pre dve alebo viac osôb. Rodiny pohovky používajú na oddych, čítanie, rozprávanie a spoločné sledovanie filmov.",
+      "script_da": "I dag skal vi lære om sofaer. En sofa er et langt, blødt sæde til to eller flere personer. Familier bruger sofaer til at slappe af, læse, tale sammen og se film sammen.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "parts",
+      "script_en": "A sofa has a strong frame, thick cushions, and a back to lean on. Some sofas fold out into beds, and some have storage space underneath. Armrests give your arms a comfortable place to rest.",
+      "script_de": "Ein Sofa hat einen stabilen Rahmen, dicke Polster und eine Rückenlehne zum Anlehnen. Manche Sofas lassen sich zu Betten ausklappen, und einige haben Stauraum darunter. Armlehnen geben den Armen einen bequemen Platz.",
+      "script_it": "Un divano ha una struttura robusta, cuscini spessi e uno schienale su cui appoggiarsi. Alcuni divani si aprono in letti e altri hanno spazio per riporre cose sotto. I braccioli offrono un appoggio comodo per le braccia.",
+      "script_fr": "Un canapé a une structure solide, des coussins épais et un dossier sur lequel s'appuyer. Certains canapés se déplient en lit, et d'autres ont un espace de rangement dessous. Les accoudoirs offrent un endroit confortable pour poser les bras.",
+      "script_es": "Un sofá tiene una estructura resistente, cojines gruesos y un respaldo en el que apoyarse. Algunos sofás se convierten en cama y otros tienen espacio de almacenamiento debajo. Los reposabrazos ofrecen un lugar cómodo para los brazos.",
+      "script_hr": "Sofa ima čvrst okvir, debele jastuke i naslon za oslanjanje. Neke se sofe rasklope u krevet, a neke imaju spremište ispod. Nasloni za ruke daju rukama udobno mjesto za odmor.",
+      "script_cs": "Pohovka má pevný rám, silné polštáře a opěradlo, o které se lze opřít. Některé pohovky se rozkládají na postel a některé mají úložný prostor pod sebou. Opěrky rukou nabízejí pohodlné místo pro ruce.",
+      "script_pl": "Sofa ma mocną ramę, grube poduszki i oparcie, o które można się oprzeć. Niektóre sofy rozkładają się do łóżka, a inne mają schowek pod spodem. Podłokietniki dają wygodne miejsce na ręce.",
+      "script_fi": "Sohvassa on tukeva runko, paksut tyynyt ja nojattava selkänoja. Jotkin sohvat avautuvat vuoteeksi, ja joissakin on säilytystilaa alla. Käsinojat tarjoavat mukavan paikan käsille.",
+      "script_sk": "Pohovka má pevný rám, hrubé vankúše a operadlo, o ktoré sa dá oprieť. Niektoré pohovky sa rozkladajú na posteľ a niektoré majú úložný priestor pod sebou. Operadlá na ruky ponúkajú pohodlné miesto pre ruky.",
+      "script_da": "En sofa har en solid ramme, tykke puder og en ryg at læne sig op ad. Nogle sofaer kan foldes ud til seng, og nogle har opbevaringsplads under. Armlæn giver armene et behageligt sted at hvile.",
+      "images": [
+        "parts.webp",
+        "parts_2.webp",
+        "parts_3.webp"
+      ]
+    },
+    {
+      "id": "living",
+      "script_en": "The sofa is often the centre of the living room. It is a place for quiet time and for sharing stories. Keeping drinks on a table instead of the sofa helps keep it clean.",
+      "script_de": "Das Sofa ist oft der Mittelpunkt des Wohnzimmers. Es ist ein Ort für ruhige Stunden und zum Geschichtenerzählen. Getränke auf einem Tisch statt auf dem Sofa zu stellen, hilft, es sauber zu halten.",
+      "script_it": "Il divano è spesso il centro del soggiorno. È un luogo per i momenti tranquilli e per raccontare storie. Tenere le bevande su un tavolo invece che sul divano aiuta a mantenerlo pulito.",
+      "script_fr": "Le canapé est souvent le centre du salon. C'est un endroit pour les moments calmes et pour raconter des histoires. Poser les boissons sur une table plutôt que sur le canapé aide à le garder propre.",
+      "script_es": "El sofá suele ser el centro del salón. Es un lugar para los momentos tranquilos y para compartir historias. Poner las bebidas en una mesa en lugar del sofá ayuda a mantenerlo limpio.",
+      "script_hr": "Sofa je često središte dnevne sobe. To je mjesto za mirne trenutke i zajedničko pričanje priča. Ako piće držite na stolu, a ne na sofi, pomoći ćete da ostane čista.",
+      "script_cs": "Pohovka je často středem obývacího pokoje. Je to místo pro klidné chvíle a společné vyprávění příběhů. Když držíte nápoje na stole místo na pohovce, pomáháte ji udržet čistou.",
+      "script_pl": "Sofa jest często centrum salonu. To miejsce na spokojne chwile i wspólne opowiadanie historii. Trzymanie napojów na stole, a nie na sofie, pomaga utrzymać ją w czystości.",
+      "script_fi": "Sohva on usein olohuoneen keskus. Se on paikka rauhallisille hetkille ja yhteisille tarinoille. Juomien pitäminen pöydällä sohvan sijaan auttaa pitämään sen puhtaana.",
+      "script_sk": "Pohovka je často stredom obývacej izby. Je to miesto na pokojné chvíle a spoločné rozprávanie príbehov. Keď držíte nápoje na stole namiesto pohovky, pomáhate ju udržať čistú.",
+      "script_da": "Sofaen er ofte midten af stuen. Det er et sted til rolige stunder og fælles historier. At stille drikkevarer på et bord i stedet for på sofaen hjælper med at holde den ren.",
+      "images": [
+        "living.webp",
+        "living_2.webp",
+        "living_3.webp"
+      ]
+    },
+    {
+      "id": "types",
+      "script_en": "Sofas come in many shapes. A corner sofa fits into a corner, a two-seater is small, and a sofa bed gives guests somewhere to sleep. Choose one that fits the room and feels comfortable.",
+      "script_de": "Sofas gibt es in vielen Formen. Ein Ecksofa passt in eine Ecke, ein Zweisitzer ist klein, und ein Schlafsofa bietet Gästen einen Schlafplatz. Wähle eines, das in den Raum passt und sich bequem anfühlt.",
+      "script_it": "I divani hanno molte forme. Un divano angolare si adatta a un angolo, un divano a due posti è piccolo e un divano letto offre agli ospiti un posto dove dormire. Scegline uno che si adatti alla stanza e sia comodo.",
+      "script_fr": "Les canapés existent en beaucoup de formes. Un canapé d'angle se glisse dans un coin, un canapé deux places est petit, et un canapé lit offre aux invités un endroit pour dormir. Choisis-en un qui convient à la pièce et qui est confortable.",
+      "script_es": "Los sofás tienen muchas formas. Un sofá de esquina encaja en una esquina, un sofá de dos plazas es pequeño y un sofá cama ofrece a los invitados un lugar para dormir. Elige uno que encaje en la habitación y sea cómodo.",
+      "script_hr": "Sofe dolaze u mnogim oblicima. Kutna sofa stane u kut, dvosjed je malen, a sofa na razvlačenje gostima daje mjesto za spavanje. Odaberite onu koja pristaje sobi i udobna je.",
+      "script_cs": "Pohovky mají mnoho tvarů. Rohová pohovka se vejde do rohu, dvoumístná je malá a rozkládací pohovka nabízí hostům místo na spaní. Vyber si takovou, která se hodí do místnosti a je pohodlná.",
+      "script_pl": "Sofy mają wiele kształtów. Sofa narożna pasuje do rogu, dwuosobowa jest mała, a sofa rozkładana daje gościom miejsce do spania. Wybierz taką, która pasuje do pokoju i jest wygodna.",
+      "script_fi": "Sohvia on monen muotoisia. Kulmasohva sopii nurkkaan, kaksipaikkainen on pieni ja vuodesohva antaa vieraille paikan nukkua. Valitse sellainen, joka sopii huoneeseen ja tuntuu mukavalta.",
+      "script_sk": "Pohovky majú mnoho tvarov. Rohová pohovka sa vmestí do rohu, dvojsedadlová je malá a rozkladacia pohovka ponúka hosťom miesto na spanie. Vyber si takú, ktorá sa hodí do miestnosti a je pohodlná.",
+      "script_da": "Sofaer findes i mange former. En hjørnesofa passer ind i et hjørne, en to-personers sofa er lille, og en sovesofa giver gæsterne et sted at sove. Vælg en, der passer til rummet og føles behagelig.",
+      "images": [
+        "types.webp",
+        "types_2.webp",
+        "types_3.webp"
+      ]
+    },
+    {
+      "id": "care",
+      "script_en": "Sofas last longer when they are cared for. Vacuuming crumbs and fluffing cushions keeps them fresh. If something spills, wipe it up quickly so it does not leave a stain.",
+      "script_de": "Sofas halten länger, wenn man sie pflegt. Krümel absaugen und Kissen aufschütteln hält sie frisch. Wenn etwas verschüttet wird, wische es schnell auf, damit kein Fleck entsteht.",
+      "script_it": "I divani durano più a lungo se vengono curati. Aspirare le briciole e gonfiare i cuscini li mantiene freschi. Se qualcosa si rovescia, puliscilo subito per non lasciare una macchia.",
+      "script_fr": "Les canapés durent plus longtemps quand on en prend soin. Passer l'aspirateur sur les miettes et tapoter les coussins les garde frais. Si quelque chose se renverse, essuie-le vite pour éviter une tache.",
+      "script_es": "Los sofás duran más cuando se cuidan. Aspirar las migas y ahuecar los cojines los mantiene frescos. Si algo se derrama, límpialo rápido para que no quede una mancha.",
+      "script_hr": "Sofe traju dulje kad se o njima brinete. Usisavanje mrvica i protresanje jastuka održava ih svježima. Ako se nešto prolije, obrišite odmah da ne ostane mrlja.",
+      "script_cs": "Pohovky vydrží déle, když se o ně staráte. Vysávání drobků a načechrání polštářů je udržuje svěží. Pokud se něco vylije, hned to utřete, aby nezůstala skvrna.",
+      "script_pl": "Sofy służą dłużej, gdy się o nie dba. Odkurzanie okruchów i strzepywanie poduszek utrzymuje je w świeżości. Jeśli coś się rozleje, wytrzyj szybko, aby nie powstała plama.",
+      "script_fi": "Sohvat kestävät pidempään, kun niistä huolehditaan. Murujen imurointi ja tyynyjen pöyhiminen pitävät ne raikkaina. Jos jotain läikkyy, pyyhi se nopeasti, ettei jää tahraa.",
+      "script_sk": "Pohovky vydržia dlhšie, keď sa o ne staráte. Vysávanie omrviniek a načechranie vankúšov ich udržiava svieže. Ak sa niečo vyleje, hneď to utrite, aby nezostala škvrna.",
+      "script_da": "Sofaer holder længere, når man passer dem. Støvsugning af krummer og puffing af puder holder dem friske. Hvis noget spildes, tør det hurtigt op, så det ikke giver en plet.",
+      "images": [
+        "care.webp",
+        "care_2.webp",
+        "care_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "what",
+      "correct": "seat",
+      "question_en": "What is a sofa?",
+      "question_de": "Was ist ein Sofa?",
+      "question_it": "Che cos'è un divano?",
+      "question_fr": "Qu'est-ce qu'un canapé ?",
+      "question_es": "¿Qué es un sofá?",
+      "question_hr": "Što je sofa?",
+      "question_cs": "Co je pohovka?",
+      "question_pl": "Czym jest sofa?",
+      "question_fi": "Mikä on sohva?",
+      "question_sk": "Čo je pohovka?",
+      "question_da": "Hvad er en sofa?",
+      "options": [
+        {
+          "id": "seat",
+          "label_en": "A long soft seat",
+          "label_de": "Ein langer, weicher Sitz",
+          "label_it": "Un sedile lungo e morbido",
+          "label_fr": "Un siège long et moelleux",
+          "label_es": "Un asiento largo y blando",
+          "label_hr": "Dugačka, mekana sjedalica",
+          "label_cs": "Dlouhé měkké sedadlo",
+          "label_pl": "Długim, miękkim siedzeniem",
+          "label_fi": "Pitkä, pehmeä istuin",
+          "label_sk": "Dlhé, mäkké sedadlo",
+          "label_da": "Et langt, blødt sæde"
+        },
+        {
+          "id": "bed",
+          "label_en": "A cooking pot",
+          "label_de": "Ein Kochtopf",
+          "label_it": "Una pentola",
+          "label_fr": "Une casserole",
+          "label_es": "Una olla",
+          "label_hr": "Lonac",
+          "label_cs": "Hrnec",
+          "label_pl": "Garnkiem",
+          "label_fi": "Kattila",
+          "label_sk": "Hrniec",
+          "label_da": "En gryde"
+        },
+        {
+          "id": "car",
+          "label_en": "A car",
+          "label_de": "Ein Auto",
+          "label_it": "Un'auto",
+          "label_fr": "Une voiture",
+          "label_es": "Un coche",
+          "label_hr": "Automobil",
+          "label_cs": "Auto",
+          "label_pl": "Samochodem",
+          "label_fi": "Auto",
+          "label_sk": "Auto",
+          "label_da": "En bil"
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "correct": "two",
+      "question_en": "How many people can sit on a sofa?",
+      "question_de": "Wie viele Personen können auf einem Sofa sitzen?",
+      "question_it": "Quante persone possono sedersi su un divano?",
+      "question_fr": "Combien de personnes peuvent s'asseoir sur un canapé ?",
+      "question_es": "¿Cuántas personas pueden sentarse en un sofá?",
+      "question_hr": "Koliko osoba može sjediti na sofi?",
+      "question_cs": "Kolik lidí může sedět na pohovce?",
+      "question_pl": "Ile osób może siedzieć na sofie?",
+      "question_fi": "Kuinka moni voi istua sohvalla?",
+      "question_sk": "Koľko ľudí môže sedieť na pohovke?",
+      "question_da": "Hvor mange personer kan sidde på en sofa?",
+      "options": [
+        {
+          "id": "two",
+          "label_en": "Two or more",
+          "label_de": "Zwei oder mehr",
+          "label_it": "Due o più",
+          "label_fr": "Deux ou plus",
+          "label_es": "Dos o más",
+          "label_hr": "Dvije ili više",
+          "label_cs": "Dvě nebo více",
+          "label_pl": "Dwie lub więcej",
+          "label_fi": "Kaksi tai useampi",
+          "label_sk": "Dve alebo viac",
+          "label_da": "To eller flere"
+        },
+        {
+          "id": "one",
+          "label_en": "Only one",
+          "label_de": "Nur eine",
+          "label_it": "Solo una",
+          "label_fr": "Une seule",
+          "label_es": "Solo una",
+          "label_hr": "Samo jedna",
+          "label_cs": "Jen jedna",
+          "label_pl": "Tylko jedna",
+          "label_fi": "Vain yksi",
+          "label_sk": "Len jedna",
+          "label_da": "Kun én"
+        },
+        {
+          "id": "ten",
+          "label_en": "Exactly ten",
+          "label_de": "Genau zehn",
+          "label_it": "Esattamente dieci",
+          "label_fr": "Exactement dix",
+          "label_es": "Exactamente diez",
+          "label_hr": "Točno deset",
+          "label_cs": "Přesně deset",
+          "label_pl": "Dokładnie dziesięć",
+          "label_fi": "Täsmälleen kymmenen",
+          "label_sk": "Presne desať",
+          "label_da": "Præcis ti"
+        }
+      ]
+    },
+    {
+      "id": "care",
+      "correct": "clean",
+      "question_en": "How can you help care for a sofa?",
+      "question_de": "Wie kannst du helfen, ein Sofa zu pflegen?",
+      "question_it": "Come puoi aiutare a prenderti cura di un divano?",
+      "question_fr": "Comment peux-tu aider à entretenir un canapé ?",
+      "question_es": "¿Cómo puedes ayudar a cuidar un sofá?",
+      "question_hr": "Kako možete pomoći održavati sofu?",
+      "question_cs": "Jak můžeš pomoci pečovat o pohovku?",
+      "question_pl": "Jak możesz pomóc dbać o sofę?",
+      "question_fi": "Miten voit auttaa sohvan hoitamisessa?",
+      "question_sk": "Ako môžeš pomôcť starať sa o pohovku?",
+      "question_da": "Hvordan kan du hjælpe med at passe en sofa?",
+      "options": [
+        {
+          "id": "clean",
+          "label_en": "Keep it clean and vacuum it",
+          "label_de": "Sauber halten und absaugen",
+          "label_it": "Tenerlo pulito e aspirarlo",
+          "label_fr": "Le garder propre et passer l'aspirateur",
+          "label_es": "Mantenerlo limpio y aspirarlo",
+          "label_hr": "Održavati je čistom i usisavati",
+          "label_cs": "Udržovat ji čistou a vysávat",
+          "label_pl": "Utrzymywać ją w czystości i odkurzać",
+          "label_fi": "Pitää se puhtaana ja imuroida",
+          "label_sk": "Udržiavať ju čistú a vysávať",
+          "label_da": "Holde den ren og støvsuge den"
+        },
+        {
+          "id": "jump",
+          "label_en": "Jump on it with shoes",
+          "label_de": "Mit Schuhen darauf springen",
+          "label_it": "Saltarci sopra con le scarpe",
+          "label_fr": "Sauter dessus avec des chaussures",
+          "label_es": "Saltar encima con zapatos",
+          "label_hr": "Skakati po njoj u cipelama",
+          "label_cs": "Skákat po ní v botách",
+          "label_pl": "Skakać po niej w butach",
+          "label_fi": "Hypätä sen päällä kengät jalassa",
+          "label_sk": "Skákať po nej v topánkach",
+          "label_da": "Hoppe på den med sko"
+        },
+        {
+          "id": "wet",
+          "label_en": "Spill drinks on it",
+          "label_de": "Getränke darauf verschütten",
+          "label_it": "Rovesciarci sopra delle bevande",
+          "label_fr": "Renverser des boissons dessus",
+          "label_es": "Derramar bebidas encima",
+          "label_hr": "Prolijevati piće po njoj",
+          "label_cs": "Vylévat na ni nápoje",
+          "label_pl": "Rozlewać na nią napoje",
+          "label_fi": "Läikyttää juomia sen päälle",
+          "label_sk": "Vylievať na ňu nápoje",
+          "label_da": "Spilde drikkevarer på den"
+        }
+      ]
+    }
+  ]
+}

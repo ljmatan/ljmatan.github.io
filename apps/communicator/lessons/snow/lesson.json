@@ -1,0 +1,293 @@
+{
+  "id": "snow",
+  "category_id": "nature",
+  "symbol_id": "snow",
+  "thumbnail": "snow_thumb.webp",
+  "title_en": "Snow",
+  "title_de": "Schnee",
+  "title_it": "Neve",
+  "title_fr": "Neige",
+  "title_es": "Nieve",
+  "title_hr": "Snijeg",
+  "title_cs": "Sníh",
+  "title_pl": "Śnieg",
+  "title_fi": "Lumi",
+  "title_sk": "Sneh",
+  "title_da": "Sne",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about snow. Snow is frozen water that falls from clouds as tiny ice crystals. It covers the ground in cold winter weather.",
+      "script_de": "Heute lernen wir etwas über Schnee. Schnee ist gefrorenes Wasser, das in kleinen Eiskristallen aus Wolken fällt. Er bedeckt im kalten Winterwetter den Boden.",
+      "script_it": "Oggi impareremo a conoscere la neve. La neve è acqua ghiacciata che cade dalle nuvole sotto forma di minuscoli cristalli di ghiaccio. Copre il terreno quando fa freddo in inverno.",
+      "script_fr": "Aujourd'hui, nous allons découvrir la neige. La neige est de l'eau gelée qui tombe des nuages en minuscules cristaux de glace. Elle couvre le sol par temps froid en hiver.",
+      "script_es": "Hoy vamos a aprender sobre la nieve. La nieve es agua congelada que cae de las nubes en diminutos cristales de hielo. Cubre el suelo en el frío clima invernal.",
+      "script_hr": "Danas ćemo učiti o snijegu. Snijeg je smrznuta voda koja pada iz oblaka u obliku sitnih ledenih kristala. Zimi prekriva tlo kad je hladno.",
+      "script_cs": "Dnes se budeme učit o sněhu. Sníh je zmrzlá voda, která padá z mraků jako drobné ledové krystalky. V chladném zimním počasí pokrývá zem.",
+      "script_pl": "Dziś dowiemy się czegoś o śniegu. Śnieg to zamarznięta woda, która spada z chmur w postaci drobnych kryształków lodu. W zimną zimową pogodę pokrywa ziemię.",
+      "script_fi": "Tänään opimme lumesta. Lumi on jäätynyttä vettä, joka putoaa pilvistä pieninä jääkiteinä. Kylmällä talvisäällä se peittää maan.",
+      "script_sk": "Dnes sa budeme učiť o snehu. Sneh je zamrznutá voda, ktorá padá z mrakov ako drobné ľadové kryštáliky. V chladnom zimnom počasí pokrýva zem.",
+      "script_da": "I dag skal vi lære om sne. Sne er frosset vand, der falder fra skyerne som bittesmå iskrystaller. Det dækker jorden i koldt vintervejr.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "crystals",
+      "script_en": "Every snowflake is made of ice crystals. Most have six sides or arms. They form different shapes depending on how cold and wet the air is. No two snowflakes are exactly alike.",
+      "script_de": "Jede Schneeflocke besteht aus Eiskristallen. Die meisten haben sechs Seiten oder Arme. Je nachdem, wie kalt und feucht die Luft ist, bilden sie unterschiedliche Formen. Keine zwei Schneeflocken sind genau gleich.",
+      "script_it": "Ogni fiocco di neve è fatto di cristalli di ghiaccio. La maggior parte ha sei lati o bracci. Prendono forme diverse a seconda di quanto è fredda e umida l'aria. Non esistono due fiocchi di neve identici.",
+      "script_fr": "Chaque flocon de neige est fait de cristaux de glace. La plupart ont six côtés ou branches. Ils prennent des formes différentes selon la température et l'humidité de l'air. Deux flocons ne sont jamais exactement identiques.",
+      "script_es": "Cada copo de nieve está hecho de cristales de hielo. La mayoría tiene seis lados o brazos. Adoptan formas distintas según lo frío y húmedo que esté el aire. No hay dos copos de nieve exactamente iguales.",
+      "script_hr": "Svaka snježna pahulja sastoji se od ledenih kristala. Većina ih ima šest strana ili krakova. Poprimaju različite oblike ovisno o tome koliko je zrak hladan i vlažan. Nema dvije posve jednake pahulje.",
+      "script_cs": "Každá sněhová vločka je tvořena ledovými krystalky. Většina má šest stran nebo ramen. Tvoří různé tvary podle toho, jak je vzduch studený a vlhký. Žádné dvě vločky nejsou úplně stejné.",
+      "script_pl": "Każdy płatek śniegu składa się z kryształków lodu. Większość ma sześć boków lub ramion. Przybierają różne kształty w zależności od tego, jak zimne i wilgotne jest powietrze. Nie ma dwóch identycznych płatków śniegu.",
+      "script_fi": "Jokainen lumihiutale koostuu jääkiteistä. Useimmilla on kuusi sivua tai haaraa. Ne saavat erilaisia muotoja sen mukaan, miten kylmä ja kostea ilma on. Kahta täysin samanlaista hiutaletta ei ole.",
+      "script_sk": "Každá snehová vločka sa skladá z ľadových kryštálikov. Väčšina má šesť strán alebo ramien. Tvoria rôzne tvary podľa toho, aký studený a vlhký je vzduch. Žiadne dve vločky nie sú úplne rovnaké.",
+      "script_da": "Hvert snefnug består af iskrystaller. De fleste har seks sider eller arme. De danner forskellige former alt efter, hvor koldt og fugtigt luften er. Der findes ikke to ens snefnug.",
+      "images": [
+        "crystals.webp",
+        "crystals_2.webp",
+        "crystals_3.webp"
+      ]
+    },
+    {
+      "id": "cold",
+      "script_en": "Snow forms when water vapour freezes high in cold clouds. It can fall as light flakes or heavy snowstorms. Deep snow makes it hard for animals to find food, so some sleep through winter.",
+      "script_de": "Schnee entsteht, wenn Wasserdampf hoch in kalten Wolken gefriert. Er kann als leichte Flocken oder als schwerer Schneesturm fallen. Tiefer Schnee macht es Tieren schwer, Nahrung zu finden, deshalb verschlafen manche den Winter.",
+      "script_it": "La neve si forma quando il vapore acqueo gela in alto nelle nuvole fredde. Può cadere come fiocchi leggeri o come una forte tempesta di neve. La neve profonda rende difficile agli animali trovare cibo, così alcuni dormono per tutto l'inverno.",
+      "script_fr": "La neige se forme lorsque la vapeur d'eau gèle haut dans les nuages froids. Elle peut tomber en flocons légers ou en grosses tempêtes de neige. La neige profonde rend difficile la recherche de nourriture pour les animaux, alors certains dorment tout l'hiver.",
+      "script_es": "La nieve se forma cuando el vapor de agua se congela en lo alto de las nubes frías. Puede caer como copos ligeros o como fuertes tormentas de nieve. La nieve profunda dificulta que los animales encuentren comida, así que algunos duermen todo el invierno.",
+      "script_hr": "Snijeg nastaje kada se vodena para smrzne visoko u hladnim oblacima. Može padati kao lagane pahulje ili kao jaka snježna oluja. Dubok snijeg otežava životinjama pronalaženje hrane, pa neke prespavaju zimu.",
+      "script_cs": "Sníh vzniká, když vodní pára vysoko v chladných mracích zamrzne. Může padat jako lehké vločky nebo jako silná sněhová bouře. Hluboký sníh ztěžuje zvířatům hledání potravy, a tak některá prospí celou zimu.",
+      "script_pl": "Śnieg powstaje, gdy para wodna zamarza wysoko w zimnych chmurach. Może padać jako lekkie płatki lub jako silna śnieżyca. Głęboki śnieg utrudnia zwierzętom znalezienie pożywienia, więc niektóre przesypiają zimę.",
+      "script_fi": "Lumi syntyy, kun vesihöyry jäätyy korkealla kylmissä pilvissä. Sitä voi sataa kevyinä hiutaleina tai rankkana lumimyrskynä. Syvä lumi vaikeuttaa eläinten ruuan löytämistä, joten jotkut nukkuvat talven yli.",
+      "script_sk": "Sneh vzniká, keď vodná para zamrzne vysoko v studených mrakoch. Môže padať ako ľahké vločky alebo ako silná snehová búrka. Hlboký sneh sťažuje zvieratám hľadanie potravy, a tak niektoré prespia celú zimu.",
+      "script_da": "Sne dannes, når vanddamp fryser højt oppe i kolde skyer. Det kan falde som lette fnug eller som en kraftig snestorm. Dyb sne gør det svært for dyr at finde mad, så nogle sover hele vinteren.",
+      "images": [
+        "cold.webp",
+        "cold_2.webp",
+        "cold_3.webp"
+      ]
+    },
+    {
+      "id": "play",
+      "script_en": "Snow is fun to play in. You can build snowmen, make snow angels, or go sledding. Wear warm, waterproof clothes and come inside if your fingers or toes feel numb.",
+      "script_de": "Schnee macht Spaß beim Spielen. Du kannst Schneemänner bauen, Schneeengel machen oder Schlitten fahren. Trage warme, wasserdichte Kleidung und komm herein, wenn sich deine Finger oder Zehen taub anfühlen.",
+      "script_it": "La neve è divertente per giocare. Puoi costruire pupazzi di neve, fare angeli nella neve o andare sullo slittino. Indossa vestiti caldi e impermeabili e rientra se le dita delle mani o dei piedi diventano insensibili.",
+      "script_fr": "La neige est amusante pour jouer. Tu peux construire des bonhommes de neige, faire des anges dans la neige ou faire de la luge. Porte des vêtements chauds et imperméables et rentre si tes doigts ou tes orteils s'engourdissent.",
+      "script_es": "La nieve es divertida para jugar. Puedes hacer muñecos de nieve, ángeles en la nieve o ir en trineo. Usa ropa cálida e impermeable y entra si se te adormecen los dedos de las manos o de los pies.",
+      "script_hr": "Snijeg je zabavan za igru. Možete graditi snjegoviće, praviti snježne anđele ili se sanjkati. Nosite toplu, nepromočivu odjeću i uđite unutra ako vam prsti utrnu.",
+      "script_cs": "Sníh je zábava na hraní. Můžeš stavět sněhuláky, dělat andělíčky ve sněhu nebo sáňkovat. Nosit teplé a nepromokavé oblečení a jdi dovnitř, pokud ti znecitliví prsty na rukou nebo na nohou.",
+      "script_pl": "Śnieg to świetna zabawa. Możesz lepić bałwany, robić aniołki na śniegu albo jeździć na sankach. Noś ciepłe, nieprzemakalne ubrania i wejdź do środka, jeśli zdrętwieją ci palce u rąk lub stóp.",
+      "script_fi": "Lumessa on hauska leikkiä. Voit rakentaa lumiukkoja, tehdä lumienkeleitä tai laskea kelkalla. Käytä lämpimiä, vedenpitäviä vaatteita ja mene sisään, jos sormesi tai varpaasi puutuvat.",
+      "script_sk": "Sneh je zábava na hranie. Môžeš stavať snehuliakov, robiť anjelikov v snehu alebo sa sánkovať. Nosti teplé a nepremokavé oblečenie a choď dnu, ak ti znecitlivia prsty na rukách alebo na nohách.",
+      "script_da": "Sne er sjovt at lege i. Du kan bygge snemænd, lave sneengle eller stå på kælk. Tag varmt, vandtæt tøj på, og gå indenfor, hvis dine fingre eller tæer bliver følelsesløse.",
+      "images": [
+        "play.webp",
+        "play_2.webp",
+        "play_3.webp"
+      ]
+    },
+    {
+      "id": "water",
+      "script_en": "When the weather warms, snow melts and becomes water. This water fills rivers and helps plants grow in spring. Snow is an important part of the water cycle.",
+      "script_de": "Wenn es wärmer wird, schmilzt der Schnee und wird zu Wasser. Dieses Wasser füllt Flüsse und hilft Pflanzen im Frühling zu wachsen. Schnee ist ein wichtiger Teil des Wasserkreislaufs.",
+      "script_it": "Quando il tempo si scalda, la neve si scioglie e diventa acqua. Quest'acqua riempie i fiumi e aiuta le piante a crescere in primavera. La neve è una parte importante del ciclo dell'acqua.",
+      "script_fr": "Quand le temps se réchauffe, la neige fond et devient de l'eau. Cette eau remplit les rivières et aide les plantes à pousser au printemps. La neige fait partie du cycle de l'eau.",
+      "script_es": "Cuando el tiempo se calienta, la nieve se derrite y se convierte en agua. Esta agua llena los ríos y ayuda a las plantas a crecer en primavera. La nieve es una parte importante del ciclo del agua.",
+      "script_hr": "Kad se vrijeme zagrije, snijeg se topi i postaje voda. Ta voda puni rijeke i pomaže biljkama rasti u proljeće. Snijeg je važan dio kruženja vode.",
+      "script_cs": "Když se oteplí, sníh roztaje a změní se na vodu. Tato voda naplňuje řeky a pomáhá rostlinám na jaře růst. Sníh je důležitou součástí koloběhu vody.",
+      "script_pl": "Gdy robi się cieplej, śnieg topi się i zamienia w wodę. Ta woda wypełnia rzeki i pomaga roślinom rosnąć wiosną. Śnieg jest ważną częścią obiegu wody.",
+      "script_fi": "Kun sää lämpenee, lumi sulaa ja muuttuu vedeksi. Tämä vesi täyttää joet ja auttaa kasveja kasvamaan keväällä. Lumi on tärkeä osa veden kiertokulkua.",
+      "script_sk": "Keď sa oteplí, sneh sa roztopí a zmení sa na vodu. Táto voda napĺňa rieky a pomáha rastlinám na jar rásť. Sneh je dôležitou súčasťou kolobehu vody.",
+      "script_da": "Når vejret bliver varmere, smelter sneen og bliver til vand. Dette vand fylder floderne og hjælper planterne med at vokse om foråret. Sne er en vigtig del af vandets kredsløb.",
+      "images": [
+        "water.webp",
+        "water_2.webp",
+        "water_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "what",
+      "correct": "ice",
+      "question_en": "What is snow made of?",
+      "question_de": "Woraus besteht Schnee?",
+      "question_it": "Di cosa è fatta la neve?",
+      "question_fr": "De quoi est faite la neige ?",
+      "question_es": "¿De qué está hecha la nieve?",
+      "question_hr": "Od čega je snijeg napravljen?",
+      "question_cs": "Z čeho je sníh?",
+      "question_pl": "Z czego składa się śnieg?",
+      "question_fi": "Mistä lumi koostuu?",
+      "question_sk": "Z čoho je sneh?",
+      "question_da": "Hvad er sne lavet af?",
+      "options": [
+        {
+          "id": "ice",
+          "label_en": "Tiny ice crystals",
+          "label_de": "Aus kleinen Eiskristallen",
+          "label_it": "Minuscoli cristalli di ghiaccio",
+          "label_fr": "De minuscules cristaux de glace",
+          "label_es": "Diminutos cristales de hielo",
+          "label_hr": "Od sitnih ledenih kristala",
+          "label_cs": "Z drobných ledových krystalků",
+          "label_pl": "Z drobnych kryształków lodu",
+          "label_fi": "Pienistä jääkiteistä",
+          "label_sk": "Z drobných ľadových kryštálikov",
+          "label_da": "Bittesmå iskrystaller"
+        },
+        {
+          "id": "sand",
+          "label_en": "Sand",
+          "label_de": "Aus Sand",
+          "label_it": "Sabbia",
+          "label_fr": "Du sable",
+          "label_es": "Arena",
+          "label_hr": "Od pijeska",
+          "label_cs": "Z písku",
+          "label_pl": "Z piasku",
+          "label_fi": "Hiekasta",
+          "label_sk": "Z piesku",
+          "label_da": "Sand"
+        },
+        {
+          "id": "wool",
+          "label_en": "Wool",
+          "label_de": "Aus Wolle",
+          "label_it": "Lana",
+          "label_fr": "De la laine",
+          "label_es": "Lana",
+          "label_hr": "Od vune",
+          "label_cs": "Z vlny",
+          "label_pl": "Z wełny",
+          "label_fi": "Villasta",
+          "label_sk": "Z vlny",
+          "label_da": "Uld"
+        }
+      ]
+    },
+    {
+      "id": "shape",
+      "correct": "six",
+      "question_en": "How many sides do most snowflakes have?",
+      "question_de": "Wie viele Seiten haben die meisten Schneeflocken?",
+      "question_it": "Quanti lati hanno la maggior parte dei fiocchi di neve?",
+      "question_fr": "Combien de côtés ont la plupart des flocons ?",
+      "question_es": "¿Cuántos lados tienen la mayoría de los copos de nieve?",
+      "question_hr": "Koliko strana ima većina snježnih pahulja?",
+      "question_cs": "Kolik stran má většina sněhových vloček?",
+      "question_pl": "Ile boków ma większość płatków śniegu?",
+      "question_fi": "Kuinka monta sivua useimmilla lumihiutaleilla on?",
+      "question_sk": "Koľko strán má väčšina snehových vločiek?",
+      "question_da": "Hvor mange sider har de fleste snefnug?",
+      "options": [
+        {
+          "id": "six",
+          "label_en": "Six",
+          "label_de": "Sechs",
+          "label_it": "Sei",
+          "label_fr": "Six",
+          "label_es": "Seis",
+          "label_hr": "Šest",
+          "label_cs": "Šest",
+          "label_pl": "Sześć",
+          "label_fi": "Kuusi",
+          "label_sk": "Šesť",
+          "label_da": "Seks"
+        },
+        {
+          "id": "three",
+          "label_en": "Three",
+          "label_de": "Drei",
+          "label_it": "Tre",
+          "label_fr": "Trois",
+          "label_es": "Tres",
+          "label_hr": "Tri",
+          "label_cs": "Tři",
+          "label_pl": "Trzy",
+          "label_fi": "Kolme",
+          "label_sk": "Tri",
+          "label_da": "Tre"
+        },
+        {
+          "id": "ten",
+          "label_en": "Ten",
+          "label_de": "Zehn",
+          "label_it": "Dieci",
+          "label_fr": "Dix",
+          "label_es": "Diez",
+          "label_hr": "Deset",
+          "label_cs": "Deset",
+          "label_pl": "Dziesięć",
+          "label_fi": "Kymmenen",
+          "label_sk": "Desať",
+          "label_da": "Ti"
+        }
+      ]
+    },
+    {
+      "id": "play",
+      "correct": "warm",
+      "question_en": "What should you wear in the snow?",
+      "question_de": "Was sollte man im Schnee tragen?",
+      "question_it": "Cosa dovresti indossare nella neve?",
+      "question_fr": "Que faut-il porter dans la neige ?",
+      "question_es": "¿Qué debes llevar en la nieve?",
+      "question_hr": "Što treba nositi na snijegu?",
+      "question_cs": "Co bys měl nosit ve sněhu?",
+      "question_pl": "Co powinno się nosić na śniegu?",
+      "question_fi": "Mitä lumessa pitäisi pukea päälle?",
+      "question_sk": "Čo by si mal nosiť v snehu?",
+      "question_da": "Hvad skal man have på i sneen?",
+      "options": [
+        {
+          "id": "warm",
+          "label_en": "Warm waterproof clothes",
+          "label_de": "Warme, wasserdichte Kleidung",
+          "label_it": "Vestiti caldi e impermeabili",
+          "label_fr": "Des vêtements chauds et imperméables",
+          "label_es": "Ropa cálida e impermeable",
+          "label_hr": "Toplu, nepromočivu odjeću",
+          "label_cs": "Teplé a nepromokavé oblečení",
+          "label_pl": "Ciepłe, nieprzemakalne ubrania",
+          "label_fi": "Lämpimiä, vedenpitäviä vaatteita",
+          "label_sk": "Teplé a nepremokavé oblečenie",
+          "label_da": "Varmt, vandtæt tøj"
+        },
+        {
+          "id": "shorts",
+          "label_en": "Shorts",
+          "label_de": "Shorts",
+          "label_it": "Pantaloncini corti",
+          "label_fr": "Un short",
+          "label_es": "Pantalones cortos",
+          "label_hr": "Kratke hlače",
+          "label_cs": "Šortky",
+          "label_pl": "Szorty",
+          "label_fi": "Shortsit",
+          "label_sk": "Šortky",
+          "label_da": "Shorts"
+        },
+        {
+          "id": "sandals",
+          "label_en": "Sandals",
+          "label_de": "Sandalen",
+          "label_it": "Sandali",
+          "label_fr": "Des sandales",
+          "label_es": "Sandalias",
+          "label_hr": "Sandale",
+          "label_cs": "Sandály",
+          "label_pl": "Sandały",
+          "label_fi": "Sandaalit",
+          "label_sk": "Sandále",
+          "label_da": "Sandaler"
+        }
+      ]
+    }
+  ]
+}
