@@ -1261,6 +1261,27 @@
       "title_da": "Skove"
     },
     {
+      "id": "mountains",
+      "category_id": "nature",
+      "symbol_id": "mountains",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/mountains/mountains_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/mountains/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2641735,
+      "version": 1,
+      "title_en": "Mountains",
+      "title_de": "Gebirge",
+      "title_it": "Montagne",
+      "title_fr": "Montagnes",
+      "title_es": "Montañas",
+      "title_hr": "Planine",
+      "title_cs": "Hory",
+      "title_pl": "Góry",
+      "title_fi": "Vuoret",
+      "title_sk": "Hory",
+      "title_da": "Bjerge"
+    },
+    {
       "id": "rain",
       "category_id": "nature",
       "symbol_id": "rain",
