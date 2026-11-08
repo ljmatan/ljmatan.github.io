@@ -1,0 +1,293 @@
+{
+  "id": "washing_machine",
+  "category_id": "household",
+  "symbol_id": "washing_machine",
+  "thumbnail": "washing_machine_thumb.webp",
+  "title_en": "Washing machines",
+  "title_de": "Waschmaschinen",
+  "title_it": "Lavatrici",
+  "title_fr": "Machines à laver",
+  "title_es": "Lavadoras",
+  "title_hr": "Perilice rublja",
+  "title_cs": "Pračky",
+  "title_pl": "Pralki",
+  "title_fi": "Pesukoneet",
+  "title_sk": "Práčky",
+  "title_da": "Vaskemaskiner",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about washing machines. A washing machine cleans clothes with water, soap, and spinning. It saves people a lot of time and hard work.",
+      "script_de": "Heute lernen wir etwas über Waschmaschinen. Eine Waschmaschine reinigt Kleidung mit Wasser, Seife und Schleudern. Sie spart Menschen viel Zeit und harte Arbeit.",
+      "script_it": "Oggi impareremo a conoscere le lavatrici. Una lavatrice lava i vestiti con acqua, sapone e rotazione. Fa risparmiare alle persone molto tempo e fatica.",
+      "script_fr": "Aujourd'hui, nous allons découvrir les machines à laver. Une machine à laver nettoie les vêtements avec de l'eau, du savon et la rotation. Elle fait gagner beaucoup de temps et de travail aux gens.",
+      "script_es": "Hoy vamos a aprender sobre las lavadoras. Una lavadora limpia la ropa con agua, jabón y giros. Ahorra a las personas mucho tiempo y trabajo duro.",
+      "script_hr": "Danas ćemo učiti o perilica rublja. Perilica rublja čisti odjeću vodom, sapunom i okretanjem. Ljudi štedi mnogo vremena i teškog rada.",
+      "script_cs": "Dnes se budeme učit o pračkách. Pračka čistí prádlo vodou, mýdlem a otáčením. Lidem šetří spoustu času a těžké práce.",
+      "script_pl": "Dziś dowiemy się czegoś o pralkach. Pralka czyści ubrania wodą, mydłem i obracaniem. Oszczędza ludziom mnóstwo czasu i ciężkiej pracy.",
+      "script_fi": "Tänään opimme pesukoneista. Pesukone pesee vaatteet vedellä, saippualla ja pyörittämällä. Se säästää ihmisiltä paljon aikaa ja raskasta työtä.",
+      "script_sk": "Dnes sa budeme učiť o práčkach. Práčka čistí prádlo vodou, mydlom a otáčaním. Ľuďom šetrí veľa času a ťažkej práce.",
+      "script_da": "I dag skal vi lære om vaskemaskiner. En vaskemaskine renser tøj med vand, sæbe og centrifugering. Den sparer folk for meget tid og hårdt arbejde.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "parts",
+      "script_en": "Clothes go into a round drum. The machine fills with water and detergent, then turns the drum to loosen dirt. At the end, it spins fast to squeeze out the water.",
+      "script_de": "Die Kleidung kommt in eine runde Trommel. Die Maschine füllt sich mit Wasser und Waschmittel und dreht dann die Trommel, um Schmutz zu lösen. Am Ende schleudert sie schnell, um das Wasser herauszudrücken.",
+      "script_it": "I vestiti vanno in un cestello rotondo. La macchina si riempie d'acqua e detersivo, poi gira il cestello per sciogliere lo sporco. Alla fine gira velocemente per spremere l'acqua.",
+      "script_fr": "Les vêtements vont dans un tambour rond. La machine se remplit d'eau et de lessive, puis fait tourner le tambour pour décoller la saleté. À la fin, elle essore rapidement pour extraire l'eau.",
+      "script_es": "La ropa entra en un tambor redondo. La máquina se llena de agua y detergente y luego gira el tambor para soltar la suciedad. Al final, gira rápido para escurrir el agua.",
+      "script_hr": "Odjeća ide u okrugli bubanj. Stroj se napuni vodom i deterdžentom, a zatim okreće bubanj kako bi otpustio prljavštinu. Na kraju se brzo vrti kako bi iscijedio vodu.",
+      "script_cs": "Prádlo jde do kulatého bubnu. Stroj se naplní vodou a pracím prostředkem a poté otáčí bubnem, aby uvolnil špínu. Na konci rychle odstředí vodu.",
+      "script_pl": "Ubrania trafiają do okrągłego bębna. Pralka napełnia się wodą i detergentem, a następnie obraca bęben, aby poluzować brud. Na końcu szybko wiruje, aby odcisnąć wodę.",
+      "script_fi": "Vaatteet menevät pyöreään rumpuun. Kone täyttyy vedellä ja pesuaineella ja pyörittää sitten rumpua irrottaakseen lian. Lopussa se linkoaa nopeasti puristaakseen veden pois.",
+      "script_sk": "Prádlo ide do okrúhleho bubna. Stroj sa naplní vodou a pracím prostriedkom a potom otáča bubnom, aby uvoľnil špinu. Na konci rýchlo odstredí vodu.",
+      "script_da": "Tøjet kommer i en rund tromle. Maskinen fyldes med vand og vaskemiddel og drejer derefter tromlen for at løsne snavs. Til sidst centrifugerer den hurtigt for at presse vandet ud.",
+      "images": [
+        "parts.webp",
+        "parts_2.webp",
+        "parts_3.webp"
+      ]
+    },
+    {
+      "id": "history",
+      "script_en": "Long ago, people washed clothes by hand in rivers or tubs. It took many hours. Washing machines made laundry much easier and helped keep homes cleaner.",
+      "script_de": "Vor langer Zeit wuschen die Menschen Kleidung mit der Hand in Flüssen oder Wannen. Das dauerte viele Stunden. Waschmaschinen machten die Wäsche viel einfacher und halfen, Häuser sauberer zu halten.",
+      "script_it": "Molto tempo fa, le persone lavavano i vestiti a mano nei fiumi o nelle tinozze. Ci volevano molte ore. Le lavatrici resero il bucato molto più facile e aiutarono a tenere le case più pulite.",
+      "script_fr": "Il y a longtemps, on lavait les vêtements à la main dans les rivières ou les cuves. Cela prenait de nombreuses heures. Les machines à laver ont rendu la lessive beaucoup plus facile et ont aidé à garder les maisons plus propres.",
+      "script_es": "Hace mucho tiempo, la gente lavaba la ropa a mano en ríos o barreños. Tardaba muchas horas. Las lavadoras hicieron la colada mucho más fácil y ayudaron a mantener las casas más limpias.",
+      "script_hr": "Davno su ljudi prali odjeću rukama u rijekama ili kadama. Trajalo je mnogo sati. Perilice rublja učinile su pranje mnogo lakšim i pomogle da domovi budu čišći.",
+      "script_cs": "Kdysi lidé prali prádlo ručně v řekách nebo vanách. Trvalo to mnoho hodin. Pračky udělaly praní mnohem snazší a pomohly udržet domovy čistší.",
+      "script_pl": "Dawno temu ludzie prali ubrania ręcznie w rzekach lub baliach. Zajmowało to wiele godzin. Pralki sprawiły, że pranie stało się znacznie łatwiejsze, i pomogły utrzymać domy w czystości.",
+      "script_fi": "Kauan sitten ihmiset pesivät vaatteita käsin joissa tai paljuissa. Siihen meni monta tuntia. Pesukoneet tekivät pyykinpesusta paljon helpompaa ja auttoivat pitämään kodit puhtaampina.",
+      "script_sk": "Kedysi ľudia prali prádlo ručne v riekach alebo vaniach. Trvalo to mnoho hodín. Práčky urobili pranie oveľa jednoduchším a pomohli udržať domovy čistejšie.",
+      "script_da": "For længe siden vaskede folk tøj i hånden i floder eller baljer. Det tog mange timer. Vaskemaskiner gjorde vasketøjet meget lettere og hjalp med at holde hjemmene renere.",
+      "images": [
+        "history.webp",
+        "history_2.webp",
+        "history_3.webp"
+      ]
+    },
+    {
+      "id": "sort",
+      "script_en": "Sort clothes by colour and fabric before washing. Check pockets for tissues and coins. Use the right amount of detergent, and ask an adult before washing something special.",
+      "script_de": "Sortiere die Kleidung vor dem Waschen nach Farbe und Stoff. Prüfe die Taschen auf Taschentücher und Münzen. Verwende die richtige Menge Waschmittel und frage einen Erwachsenen, bevor du etwas Besonderes wäschst.",
+      "script_it": "Ordina i vestiti per colore e tessuto prima di lavarli. Controlla le tasche per fazzoletti e monete. Usa la giusta quantità di detersivo e chiedi a un adulto prima di lavare qualcosa di speciale.",
+      "script_fr": "Trie les vêtements par couleur et par tissu avant de les laver. Vérifie les poches pour les mouchoirs et les pièces. Utilise la bonne quantité de lessive et demande à un adulte avant de laver quelque chose de spécial.",
+      "script_es": "Clasifica la ropa por color y tela antes de lavarla. Revisa los bolsillos por pañuelos y monedas. Usa la cantidad correcta de detergente y pide a un adulto antes de lavar algo especial.",
+      "script_hr": "Razvrstite odjeću po boji i materijalu prije pranja. Provjerite džepove za maramice i kovanice. Koristite pravu količinu deterdženta i pitajte odraslu osobu prije pranja nečega posebnog.",
+      "script_cs": "Před praním roztřiď prádlo podle barvy a látky. Zkontroluj kapsy kvůli kapesníkům a mincím. Použij správné množství pracího prostředku a před praním něčeho speciálního se zeptej dospělého.",
+      "script_pl": "Posortuj ubrania według koloru i materiału przed praniem. Sprawdź kieszenie pod kątem chusteczek i monet. Użyj odpowiedniej ilości detergentu i zapytaj dorosłego przed praniem czegoś wyjątkowego.",
+      "script_fi": "Lajittele vaatteet värin ja kankaan mukaan ennen pesua. Tarkista taskut nenäliinojen ja kolikoiden varalta. Käytä oikea määrä pesuainetta ja kysy aikuiselta ennen erityisen vaatteen pesemistä.",
+      "script_sk": "Pred praním roztrieď prádlo podľa farby a látky. Skontroluj vrecká kvôli vreckovkám a minciam. Použi správne množstvo pracieho prostriedku a pred praním niečoho špeciálneho sa opýtaj dospelého.",
+      "script_da": "Sorter tøjet efter farve og stof før vask. Tjek lommerne for papirlommetørklæder og mønter. Brug den rigtige mængde vaskemiddel, og spørg en voksen, før du vasker noget særligt.",
+      "images": [
+        "sort.webp",
+        "sort_2.webp",
+        "sort_3.webp"
+      ]
+    },
+    {
+      "id": "today",
+      "script_en": "Today many washing machines use less water and electricity. Drying clothes on a line saves even more energy. Taking care of clothes helps them last longer and reduces waste.",
+      "script_de": "Heute verbrauchen viele Waschmaschinen weniger Wasser und Strom. Kleidung auf einer Leine zu trocknen spart noch mehr Energie. Kleidung gut zu pflegen hilft, dass sie länger hält, und reduziert Abfall.",
+      "script_it": "Oggi molte lavatrici usano meno acqua ed elettricità. Asciugare i vestiti su uno stendino fa risparmiare ancora più energia. Prendersi cura dei vestiti li fa durare più a lungo e riduce gli sprechi.",
+      "script_fr": "Aujourd'hui, de nombreuses machines à laver utilisent moins d'eau et d'électricité. Faire sécher le linge sur une corde économise encore plus d'énergie. Prendre soin des vêtements les fait durer plus longtemps et réduit les déchets.",
+      "script_es": "Hoy muchas lavadoras usan menos agua y electricidad. Secar la ropa en un tendedero ahorra aún más energía. Cuidar la ropa ayuda a que dure más y reduce los residuos.",
+      "script_hr": "Danas mnoge perilice rublja troše manje vode i struje. Sušenje odjeće na užetu štedi još više energije. Briga o odjeći pomaže da dulje traje i smanjuje otpad.",
+      "script_cs": "Dnešní pračky často spotřebují méně vody a elektřiny. Sušení prádla na šňůře šetří ještě více energie. Péče o oblečení pomáhá, aby vydrželo déle, a snižuje odpad.",
+      "script_pl": "Dzisiejsze pralki często zużywają mniej wody i prądu. Suszenie ubrań na sznurku oszczędza jeszcze więcej energii. Dbanie o ubrania pomaga im dłużej służyć i zmniejsza ilość odpadów.",
+      "script_fi": "Nykyiset pesukoneet käyttävät usein vähemmän vettä ja sähköä. Vaatteiden kuivaaminen narulla säästää vielä enemmän energiaa. Vaatteista huolehtiminen auttaa niitä kestämään pidempään ja vähentää jätettä.",
+      "script_sk": "Dnešné práčky často spotrebujú menej vody a elektriny. Sušenie prádla na šnúre šetrí ešte viac energie. Starostlivosť o oblečenie pomáha, aby vydržalo dlhšie, a znižuje odpad.",
+      "script_da": "I dag bruger mange vaskemaskiner mindre vand og elektricitet. At tørre tøj på en snor sparer endnu mere energi. At passe på tøjet hjælper det med at holde længere og reducerer affald.",
+      "images": [
+        "today.webp",
+        "today_2.webp",
+        "today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "what",
+      "correct": "clothes",
+      "question_en": "What does a washing machine clean?",
+      "question_de": "Was reinigt eine Waschmaschine?",
+      "question_it": "Cosa lava una lavatrice?",
+      "question_fr": "Que nettoie une machine à laver ?",
+      "question_es": "¿Qué limpia una lavadora?",
+      "question_hr": "Što čisti perilica rublja?",
+      "question_cs": "Co čistí pračka?",
+      "question_pl": "Co czyści pralka?",
+      "question_fi": "Mitä pesukone pesee?",
+      "question_sk": "Čo čistí práčka?",
+      "question_da": "Hvad renser en vaskemaskine?",
+      "options": [
+        {
+          "id": "clothes",
+          "label_en": "Clothes",
+          "label_de": "Kleidung",
+          "label_it": "I vestiti",
+          "label_fr": "Les vêtements",
+          "label_es": "La ropa",
+          "label_hr": "Odjeću",
+          "label_cs": "Prádlo",
+          "label_pl": "Ubrania",
+          "label_fi": "Vaatteet",
+          "label_sk": "Prádlo",
+          "label_da": "Tøj"
+        },
+        {
+          "id": "dishes",
+          "label_en": "Dishes",
+          "label_de": "Geschirr",
+          "label_it": "I piatti",
+          "label_fr": "La vaisselle",
+          "label_es": "Los platos",
+          "label_hr": "Suđe",
+          "label_cs": "Nádobí",
+          "label_pl": "Naczynia",
+          "label_fi": "Astiat",
+          "label_sk": "Riad",
+          "label_da": "Opvask"
+        },
+        {
+          "id": "cars",
+          "label_en": "Cars",
+          "label_de": "Autos",
+          "label_it": "Le auto",
+          "label_fr": "Les voitures",
+          "label_es": "Los coches",
+          "label_hr": "Automobile",
+          "label_cs": "Auta",
+          "label_pl": "Samochody",
+          "label_fi": "Autot",
+          "label_sk": "Autá",
+          "label_da": "Biler"
+        }
+      ]
+    },
+    {
+      "id": "drum",
+      "correct": "drum",
+      "question_en": "Where do clothes go inside the machine?",
+      "question_de": "Wohin kommt die Kleidung in der Maschine?",
+      "question_it": "Dove vanno i vestiti dentro la macchina?",
+      "question_fr": "Où vont les vêtements dans la machine ?",
+      "question_es": "¿Dónde entra la ropa dentro de la máquina?",
+      "question_hr": "Gdje odjeća ide u stroj?",
+      "question_cs": "Kam jde prádlo uvnitř stroje?",
+      "question_pl": "Gdzie trafiają ubrania do pralki?",
+      "question_fi": "Mihin vaatteet menevät koneen sisällä?",
+      "question_sk": "Kam ide prádlo vnútri stroja?",
+      "question_da": "Hvor kommer tøjet ind i maskinen?",
+      "options": [
+        {
+          "id": "drum",
+          "label_en": "The drum",
+          "label_de": "In die Trommel",
+          "label_it": "Nel cestello",
+          "label_fr": "Dans le tambour",
+          "label_es": "En el tambor",
+          "label_hr": "U bubanj",
+          "label_cs": "Do bubnu",
+          "label_pl": "Do bębna",
+          "label_fi": "Rumpuun",
+          "label_sk": "Do bubna",
+          "label_da": "I tromlen"
+        },
+        {
+          "id": "drawer",
+          "label_en": "The detergent drawer",
+          "label_de": "In die Waschmittelschublade",
+          "label_it": "Nel cassetto del detersivo",
+          "label_fr": "Dans le tiroir à lessive",
+          "label_es": "En el cajón del detergente",
+          "label_hr": "U ladicu za deterdžent",
+          "label_cs": "Do zásuvky na prací prostředek",
+          "label_pl": "Do szuflady na detergent",
+          "label_fi": "Pesuainelokeroon",
+          "label_sk": "Do zásuvky na prací prostriedok",
+          "label_da": "I vaskemiddelskuffen"
+        },
+        {
+          "id": "cable",
+          "label_en": "The cable",
+          "label_de": "In das Kabel",
+          "label_it": "Nel cavo",
+          "label_fr": "Dans le câble",
+          "label_es": "En el cable",
+          "label_hr": "U kabel",
+          "label_cs": "Do kabelu",
+          "label_pl": "Do kabla",
+          "label_fi": "Johtoon",
+          "label_sk": "Do kábla",
+          "label_da": "I kablet"
+        }
+      ]
+    },
+    {
+      "id": "sort",
+      "correct": "colour",
+      "question_en": "Why should you sort clothes before washing?",
+      "question_de": "Warum sollte man Kleidung vor dem Waschen sortieren?",
+      "question_it": "Perché dovresti ordinare i vestiti prima di lavarli?",
+      "question_fr": "Pourquoi faut-il trier les vêtements avant de les laver ?",
+      "question_es": "¿Por qué debes clasificar la ropa antes de lavarla?",
+      "question_hr": "Zašto treba razvrstati odjeću prije pranja?",
+      "question_cs": "Proč bys měl prádlo před praním roztřídit?",
+      "question_pl": "Dlaczego powinieneś posortować ubrania przed praniem?",
+      "question_fi": "Miksi vaatteet pitäisi lajitella ennen pesua?",
+      "question_sk": "Prečo by si mal prádlo pred praním roztriediť?",
+      "question_da": "Hvorfor skal du sortere tøjet før vask?",
+      "options": [
+        {
+          "id": "colour",
+          "label_en": "To keep colours from running",
+          "label_de": "Damit die Farben nicht ausbluten",
+          "label_it": "Per evitare che i colori stingano",
+          "label_fr": "Pour éviter que les couleurs déteignent",
+          "label_es": "Para evitar que los colores destiñan",
+          "label_hr": "Da se boje ne ispuste",
+          "label_cs": "Aby barvy nepouštěly",
+          "label_pl": "Aby kolory nie farbowały",
+          "label_fi": "Jotta värit eivät päästä väriä",
+          "label_sk": "Aby farby nepúšťali",
+          "label_da": "For at farverne ikke skal smitte af"
+        },
+        {
+          "id": "fun",
+          "label_en": "To make noise",
+          "label_de": "Um Lärm zu machen",
+          "label_it": "Per fare rumore",
+          "label_fr": "Pour faire du bruit",
+          "label_es": "Para hacer ruido",
+          "label_hr": "Da stvaraju buku",
+          "label_cs": "Aby dělalo hluk",
+          "label_pl": "Aby robić hałas",
+          "label_fi": "Jotta syntyy melua",
+          "label_sk": "Aby robilo hluk",
+          "label_da": "For at lave larm"
+        },
+        {
+          "id": "dry",
+          "label_en": "To dry them faster",
+          "label_de": "Damit sie schneller trocknen",
+          "label_it": "Per asciugarli più in fretta",
+          "label_fr": "Pour les sécher plus vite",
+          "label_es": "Para secarla más rápido",
+          "label_hr": "Da se brže osuše",
+          "label_cs": "Aby rychleji uschlo",
+          "label_pl": "Aby szybciej wyschły",
+          "label_fi": "Jotta ne kuivuvat nopeammin",
+          "label_sk": "Aby rýchlejšie uschlo",
+          "label_da": "For at de tørrer hurtigere"
+        }
+      ]
+    }
+  ]
+}

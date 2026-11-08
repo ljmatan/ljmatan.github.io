@@ -1,0 +1,293 @@
+{
+  "id": "waterfall",
+  "category_id": "nature",
+  "symbol_id": "waterfall",
+  "thumbnail": "waterfall_thumb.webp",
+  "title_en": "Waterfalls",
+  "title_de": "Wasserfälle",
+  "title_it": "Cascate",
+  "title_fr": "Cascades",
+  "title_es": "Cascadas",
+  "title_hr": "Slapovi",
+  "title_cs": "Vodopády",
+  "title_pl": "Wodospady",
+  "title_fi": "Vesiputouksia",
+  "title_sk": "Vodopády",
+  "title_da": "Vandfald",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about waterfalls. A waterfall is a river that drops over a cliff or steep rock. The falling water makes mist, spray, and sometimes a rainbow.",
+      "script_de": "Heute lernen wir etwas über Wasserfälle. Ein Wasserfall ist ein Fluss, der über eine Klippe oder einen steilen Felsen fällt. Das fallende Wasser erzeugt Nebel, Gischt und manchmal einen Regenbogen.",
+      "script_it": "Oggi impareremo a conoscere le cascate. Una cascata è un fiume che precipita da una scogliera o da una roccia ripida. L'acqua che cade crea nebbia, spruzzi e talvolta un arcobaleno.",
+      "script_fr": "Aujourd'hui, nous allons découvrir les cascades. Une cascade est une rivière qui tombe au-dessus d’une falaise ou d’un rocher abrupt. L'eau qui tombe produit de la brume, des embruns et parfois un arc-en-ciel.",
+      "script_es": "Hoy vamos a aprender sobre las cascadas. Una cascada es un río que cae por un acantilado o una roca escarpada. El agua que cae forma niebla, rocío y, a veces, un arco iris.",
+      "script_hr": "Danas ćemo učiti o vodopadima. Vodopad je rijeka koja pada preko litice ili strme stijene. Voda koja pada stvara maglu, prskanje, a ponekad i dugu.",
+      "script_cs": "Dnes se budeme učit o vodopádech. Vodopád je řeka, která klesá přes útes nebo strmou skálu. Padající voda vytváří mlhu, spršku a někdy i duhu.",
+      "script_pl": "Dziś będziemy uczyć się o wodospadach. Wodospad to rzeka spadająca z urwiska lub stromej skały. Spadająca woda tworzy mgłę, rozpryski, a czasem tęczę.",
+      "script_fi": "Tänään opimme vesiputouksista. Vesiputous on joki, joka putoaa kallion tai jyrkän kallion yli. Putoava vesi muodostaa sumua, suihketta ja joskus sateenkaaren.",
+      "script_sk": "Dnes sa dozvieme niečo o vodopádoch. Vodopád je rieka, ktorá padá cez útes alebo strmú skalu. Padajúca voda vytvára hmlu, spŕšku a niekedy aj dúhu.",
+      "script_da": "I dag skal vi lære om vandfald. Et vandfald er en flod, der falder over en klippe eller en stejl klippe. Det faldende vand danner tåge, sprøjt og nogle gange en regnbue.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "how",
+      "script_en": "Waterfalls form when a river flows over rock that wears away at different speeds. Soft rock washes away first, leaving a step. The water then falls over the hard rock edge.",
+      "script_de": "Wasserfälle entstehen, wenn ein Fluss über Gestein fließt, das sich mit unterschiedlicher Geschwindigkeit abnutzt. Weiches Gestein wird zuerst weggespült und hinterlässt eine Stufe. Das Wasser fällt dann über die harte Felskante.",
+      "script_it": "Le cascate si formano quando un fiume scorre su rocce che si consumano a velocità diverse. La roccia morbida viene lavata via per prima, lasciando un gradino. L'acqua poi cade oltre il bordo della roccia dura.",
+      "script_fr": "Les cascades se forment lorsqu'une rivière coule sur des roches qui s'usent à différentes vitesses. La roche tendre est lavée en premier, laissant une marche. L'eau tombe ensuite sur le bord de la roche dure.",
+      "script_es": "Las cascadas se forman cuando un río fluye sobre rocas que se desgastan a diferentes velocidades. La roca blanda se desvanece primero, dejando un escalón. Luego el agua cae por el borde de la roca dura.",
+      "script_hr": "Slapovi nastaju kada rijeka teče preko stijena koje se troše različitim brzinama. Meka stijena se prvo ispire, ostavljajući korak. Voda tada pada preko ruba tvrde stijene.",
+      "script_cs": "Vodopády vznikají, když řeka teče přes skálu, která se opotřebovává různou rychlostí. Měkká skála se odplaví jako první a zanechá krok. Voda pak padá přes okraj tvrdé skály.",
+      "script_pl": "Wodospady powstają, gdy rzeka przepływa przez skały, które zużywają się z różną prędkością. Najpierw zmywa się miękka skała, pozostawiając krok. Następnie woda spada na krawędź twardej skały.",
+      "script_fi": "Vesiputouksia syntyy, kun joki virtaa eri nopeuksilla kuluvan kiven yli. Pehmeä kivi huuhtoutuu ensin pois jättäen askeleen. Sitten vesi putoaa kovan kiven reunan yli.",
+      "script_sk": "Vodopády vznikajú, keď rieka preteká cez skalu, ktorá sa opotrebováva rôznou rýchlosťou. Mäkká skala sa odplaví ako prvá a zanechá krok. Voda potom padá cez okraj tvrdej skaly.",
+      "script_da": "Vandfald dannes, når en flod flyder over sten, der slides med forskellig hastighed. Blød sten skylles væk først og efterlader et skridt. Vandet falder så ud over den hårde klippekant.",
+      "images": [
+        "how.webp",
+        "how_2.webp",
+        "how_3.webp"
+      ]
+    },
+    {
+      "id": "types",
+      "script_en": "Waterfalls come in many shapes. Some fall in a wide curtain, some plunge straight down, and some tumble over rocks in a cascade. Each one sounds different.",
+      "script_de": "Wasserfälle gibt es in vielen Formen. Einige fallen in einem breiten Vorhang, andere fallen direkt nach unten und einige stürzen in einer Kaskade über Felsen. Jeder klingt anders.",
+      "script_it": "Le cascate hanno molte forme. Alcuni cadono in un'ampia cortina, altri precipitano verso il basso e altri cadono sulle rocce in una cascata. Ognuno suona diverso.",
+      "script_fr": "Les cascades se présentent sous de nombreuses formes. Certains tombent en un large rideau, d’autres plongent tout droit et d’autres encore tombent en cascade sur les rochers. Chacun semble différent.",
+      "script_es": "Las cascadas tienen muchas formas. Algunos caen formando una amplia cortina, otros se precipitan hacia abajo y otros caen sobre rocas en forma de cascada. Cada uno suena diferente.",
+      "script_hr": "Vodopadi dolaze u mnogo oblika. Neki padaju u širokom zastoru, neki strmoglavljuju, a neki se prevrću preko kamenja u slapu. Svaki zvuči drugačije.",
+      "script_cs": "Vodopády mají mnoho podob. Někteří padají v širokém závěsu, někteří se vrhají přímo dolů a někteří se vrhají přes kameny v kaskádě. Každý zní jinak.",
+      "script_pl": "Wodospady mają wiele kształtów. Niektóre spadają w szeroką kurtynę, inne spadają prosto w dół, a jeszcze inne spadają kaskadą po skałach. Każdy brzmi inaczej.",
+      "script_fi": "Vesiputouksia on monenlaisia. Jotkut putoavat leveässä verhossa, jotkut syöksyvät suoraan alas ja jotkut kaatuu kivien yli kaskadissa. Jokainen kuulostaa erilaiselta.",
+      "script_sk": "Vodopády majú mnoho tvarov. Niektorí spadnú do širokého závesu, iní sa vrhnú priamo dole a iní sa zrútia cez kamene v kaskáde. Každá znie inak.",
+      "script_da": "Vandfald kommer i mange former. Nogle falder i et bredt gardin, nogle styrter lige ned, og nogle vælter over sten i en kaskade. Hver enkelt lyder forskellig.",
+      "images": [
+        "types.webp",
+        "types_2.webp",
+        "types_3.webp"
+      ]
+    },
+    {
+      "id": "power",
+      "script_en": "Falling water holds a lot of energy. People use it to turn wheels and make electricity. The mist also supports mosses, ferns, and rare plants.",
+      "script_de": "Fallendes Wasser enthält viel Energie. Menschen nutzen es, um Räder zu drehen und Strom zu erzeugen. Der Nebel unterstützt auch Moose, Farne und seltene Pflanzen.",
+      "script_it": "L’acqua che cade contiene molta energia. Le persone lo usano per girare le ruote e produrre elettricità. La nebbia sostiene anche muschi, felci e piante rare.",
+      "script_fr": "L'eau qui tombe contient beaucoup d'énergie. Les gens l’utilisent pour faire tourner des roues et produire de l’électricité. La brume soutient également les mousses, les fougères et les plantes rares.",
+      "script_es": "El agua que cae contiene mucha energía. La gente lo usa para hacer girar ruedas y generar electricidad. La niebla también sustenta musgos, helechos y plantas raras.",
+      "script_hr": "Padajuća voda sadrži mnogo energije. Ljudi ga koriste za okretanje kotača i proizvodnju struje. Magla također podržava mahovine, paprati i rijetke biljke.",
+      "script_cs": "Padající voda pojme hodně energie. Lidé ji používají k otáčení kol a výrobě elektřiny. Mlha také podporuje mechy, kapradiny a vzácné rostliny.",
+      "script_pl": "Spadająca woda niesie ze sobą mnóstwo energii. Ludzie używają go do obracania kół i wytwarzania prądu. Mgła wspiera także mchy, paprocie i rzadkie rośliny.",
+      "script_fi": "Putoava vesi sisältää paljon energiaa. Ihmiset käyttävät sitä pyörien kääntämiseen ja sähkön tuottamiseen. Sumu tukee myös sammaleita, saniaisia ​​ja harvinaisia ​​kasveja.",
+      "script_sk": "Padajúca voda obsahuje veľa energie. Ľudia ho používajú na otáčanie kolies a výrobu elektriny. Hmla tiež podporuje machy, paprade a vzácne rastliny.",
+      "script_da": "Faldende vand rummer meget energi. Folk bruger det til at dreje hjul og lave elektricitet. Tågen understøtter også mosser, bregner og sjældne planter.",
+      "images": [
+        "power.webp",
+        "power_2.webp",
+        "power_3.webp"
+      ]
+    },
+    {
+      "id": "safety",
+      "script_en": "Waterfall rocks are wet and slippery. Stay on the trail and never swim above a fall. Cold, fast water is dangerous even when it looks calm.",
+      "script_de": "Wasserfallfelsen sind nass und rutschig. Bleiben Sie auf dem Weg und schwimmen Sie niemals über einen Wasserfall hinweg. Kaltes, schnelles Wasser ist gefährlich, auch wenn es ruhig aussieht.",
+      "script_it": "Le rocce della cascata sono bagnate e scivolose. Rimani sul sentiero e non nuotare mai al di sopra di una caduta. L'acqua fredda e veloce è pericolosa anche quando sembra calma.",
+      "script_fr": "Les rochers des cascades sont humides et glissants. Restez sur le sentier et ne nagez jamais au-dessus d'une chute. L’eau froide et rapide est dangereuse même si elle semble calme.",
+      "script_es": "Las rocas de la cascada están mojadas y resbaladizas. Manténgase en el sendero y nunca nade por encima de una caída. El agua fría y rápida es peligrosa incluso cuando parece tranquila.",
+      "script_hr": "Stijene vodopada su mokre i skliske. Ostanite na stazi i nikada ne plivajte iznad vodopada. Hladna, brza voda opasna je čak i kad izgleda mirno.",
+      "script_cs": "Skály vodopádu jsou mokré a kluzké. Zůstaňte na stezce a nikdy nepřeplavejte nad pádem. Studená, rychlá voda je nebezpečná, i když vypadá klidně.",
+      "script_pl": "Skały wodospadu są mokre i śliskie. Pozostań na szlaku i nigdy nie pływaj powyżej upadku. Zimna, szybka woda jest niebezpieczna, nawet jeśli wygląda na spokojną.",
+      "script_fi": "Vesiputouksen kivet ovat märkiä ja liukkaita. Pysy polulla äläkä koskaan ui putoamisen yläpuolelle. Kylmä, nopea vesi on vaarallista, vaikka se näyttää rauhalliselta.",
+      "script_sk": "Skaly vodopádu sú mokré a klzké. Zostaňte na ceste a nikdy neplávajte nad pádom. Studená, rýchla voda je nebezpečná, aj keď vyzerá pokojne.",
+      "script_da": "Vandfaldsklipperne er våde og glatte. Bliv på stien og svøm aldrig over et fald. Koldt, hurtigt vand er farligt, selv når det ser roligt ud.",
+      "images": [
+        "safety.webp",
+        "safety_2.webp",
+        "safety_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "what",
+      "correct": "drop",
+      "question_en": "What is a waterfall?",
+      "question_de": "Was ist ein Wasserfall?",
+      "question_it": "Cos'è una cascata?",
+      "question_fr": "Qu'est-ce qu'une cascade ?",
+      "question_es": "¿Qué es una cascada?",
+      "question_hr": "Što je vodopad?",
+      "question_cs": "Co je to vodopád?",
+      "question_pl": "Co to jest wodospad?",
+      "question_fi": "Mikä on vesiputous?",
+      "question_sk": "Čo je to vodopád?",
+      "question_da": "Hvad er et vandfald?",
+      "options": [
+        {
+          "id": "drop",
+          "label_en": "A river dropping over a cliff",
+          "label_de": "Ein Fluss, der über eine Klippe fällt",
+          "label_it": "Un fiume che precipita da una scogliera",
+          "label_fr": "Une rivière tombant d'une falaise",
+          "label_es": "Un río cayendo por un acantilado",
+          "label_hr": "Rijeka koja pada preko litice",
+          "label_cs": "Řeka padající přes útes",
+          "label_pl": "Rzeka spadająca z klifu",
+          "label_fi": "Joki putoaa kallion yli",
+          "label_sk": "Rieka padajúca cez útes",
+          "label_da": "En flod, der falder over en klippe"
+        },
+        {
+          "id": "lake",
+          "label_en": "A still lake",
+          "label_de": "Ein stiller See",
+          "label_it": "Un lago immobile",
+          "label_fr": "Un lac immobile",
+          "label_es": "un lago tranquilo",
+          "label_hr": "Mirno jezero",
+          "label_cs": "Tiché jezero",
+          "label_pl": "Ciche jezioro",
+          "label_fi": "Hiljainen järvi",
+          "label_sk": "Tiché jazero",
+          "label_da": "En stille sø"
+        },
+        {
+          "id": "cloud",
+          "label_en": "A cloud",
+          "label_de": "Eine Wolke",
+          "label_it": "Una nuvola",
+          "label_fr": "Un nuage",
+          "label_es": "una nube",
+          "label_hr": "oblak",
+          "label_cs": "Oblak",
+          "label_pl": "Chmura",
+          "label_fi": "Pilvi",
+          "label_sk": "Oblak",
+          "label_da": "En sky"
+        }
+      ]
+    },
+    {
+      "id": "form",
+      "correct": "rock",
+      "question_en": "What wears away to help form a waterfall?",
+      "question_de": "Was trägt sich ab, um einen Wasserfall zu bilden?",
+      "question_it": "Cosa si consuma per contribuire a formare una cascata?",
+      "question_fr": "Qu’est-ce qui s’use pour aider à former une cascade ?",
+      "question_es": "¿Qué se desgasta para ayudar a formar una cascada?",
+      "question_hr": "Što se troši kako bi se stvorio vodopad?",
+      "question_cs": "Co se opotřebovává, aby pomohlo vytvořit vodopád?",
+      "question_pl": "Co zanika, pomagając w utworzeniu wodospadu?",
+      "question_fi": "Mikä kuluu ja auttaa muodostamaan vesiputouksen?",
+      "question_sk": "Čo sa opotrebuje, aby pomohlo vytvoriť vodopád?",
+      "question_da": "Hvad slides for at hjælpe med at danne et vandfald?",
+      "options": [
+        {
+          "id": "rock",
+          "label_en": "Rock",
+          "label_de": "Felsen",
+          "label_it": "Roccia",
+          "label_fr": "Rocher",
+          "label_es": "Roca",
+          "label_hr": "Rock",
+          "label_cs": "Rock",
+          "label_pl": "Głaz",
+          "label_fi": "Rock",
+          "label_sk": "Rock",
+          "label_da": "Klippe"
+        },
+        {
+          "id": "sand",
+          "label_en": "Sand only",
+          "label_de": "Nur Sand",
+          "label_it": "Solo sabbia",
+          "label_fr": "Sable uniquement",
+          "label_es": "Solo arena",
+          "label_hr": "Samo pijesak",
+          "label_cs": "Pouze písek",
+          "label_pl": "Tylko piasek",
+          "label_fi": "Vain hiekkaa",
+          "label_sk": "Iba piesok",
+          "label_da": "Kun sand"
+        },
+        {
+          "id": "wood",
+          "label_en": "Wood",
+          "label_de": "Holz",
+          "label_it": "Legna",
+          "label_fr": "Bois",
+          "label_es": "Madera",
+          "label_hr": "Drvo",
+          "label_cs": "Dřevo",
+          "label_pl": "Drewno",
+          "label_fi": "Puu",
+          "label_sk": "Drevo",
+          "label_da": "Træ"
+        }
+      ]
+    },
+    {
+      "id": "safe",
+      "correct": "trail",
+      "question_en": "Where should you watch a waterfall?",
+      "question_de": "Wo sollte man einen Wasserfall beobachten?",
+      "question_it": "Dove dovresti guardare una cascata?",
+      "question_fr": "Où faut-il observer une cascade ?",
+      "question_es": "¿Dónde deberías observar una cascada?",
+      "question_hr": "Gdje biste trebali gledati vodopad?",
+      "question_cs": "Kde byste měli sledovat vodopád?",
+      "question_pl": "Gdzie warto obejrzeć wodospad?",
+      "question_fi": "Missä vesiputousta kannattaa katsella?",
+      "question_sk": "Kde by ste mali sledovať vodopád?",
+      "question_da": "Hvor skal du se et vandfald?",
+      "options": [
+        {
+          "id": "trail",
+          "label_en": "From a marked trail",
+          "label_de": "Von einem markierten Weg",
+          "label_it": "Da un sentiero segnalato",
+          "label_fr": "Depuis un sentier balisé",
+          "label_es": "Desde un sendero marcado",
+          "label_hr": "Sa markirane staze",
+          "label_cs": "Ze značené cesty",
+          "label_pl": "Z oznakowanego szlaku",
+          "label_fi": "merkityltä polulta",
+          "label_sk": "Zo značeného chodníka",
+          "label_da": "Fra en afmærket sti"
+        },
+        {
+          "id": "edge",
+          "label_en": "From the slippery edge",
+          "label_de": "Von der rutschigen Kante",
+          "label_it": "Dal bordo scivoloso",
+          "label_fr": "Du bord glissant",
+          "label_es": "Desde el borde resbaladizo",
+          "label_hr": "Sa skliskog ruba",
+          "label_cs": "Z kluzké hrany",
+          "label_pl": "Od śliskiej krawędzi",
+          "label_fi": "Liukaselta reunalta",
+          "label_sk": "Z klzkej hrany",
+          "label_da": "Fra den glatte kant"
+        },
+        {
+          "id": "pool",
+          "label_en": "From inside the pool",
+          "label_de": "Aus dem Pool",
+          "label_it": "Dall'interno della piscina",
+          "label_fr": "De l'intérieur de la piscine",
+          "label_es": "Desde dentro de la piscina",
+          "label_hr": "Iz unutrašnjosti bazena",
+          "label_cs": "Zevnitř bazénu",
+          "label_pl": "Z wnętrza basenu",
+          "label_fi": "Altaan sisältä",
+          "label_sk": "Z vnútra bazéna",
+          "label_da": "Inde fra poolen"
+        }
+      ]
+    }
+  ]
+}
