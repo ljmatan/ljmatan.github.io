@@ -1,0 +1,293 @@
+{
+  "id": "river",
+  "category_id": "nature",
+  "symbol_id": "river",
+  "thumbnail": "river_thumb.webp",
+  "title_en": "Rivers",
+  "title_de": "Flüsse",
+  "title_it": "Fiumi",
+  "title_fr": "Rivières",
+  "title_es": "ríos",
+  "title_hr": "Rijeke",
+  "title_cs": "Řeky",
+  "title_pl": "Rzeki",
+  "title_fi": "Joet",
+  "title_sk": "Rieky",
+  "title_da": "Floder",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about rivers. A river is a long stream of fresh water that flows across the land. Rivers carry water from hills and mountains down to lakes and the sea.",
+      "script_de": "Heute lernen wir etwas über Flüsse. Ein Fluss ist ein langer Süßwasserstrom, der über das Land fließt. Flüsse transportieren Wasser von Hügeln und Bergen hinunter zu Seen und zum Meer.",
+      "script_it": "Oggi impareremo a conoscere i fiumi. Un fiume è un lungo corso d'acqua dolce che scorre attraverso la terra. I fiumi trasportano l'acqua dalle colline e dalle montagne fino ai laghi e al mare.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur les rivières. Une rivière est un long cours d’eau douce qui traverse le territoire. Les rivières transportent l’eau des collines et des montagnes jusqu’aux lacs et à la mer.",
+      "script_es": "Hoy vamos a aprender sobre los ríos. Un río es una larga corriente de agua dulce que fluye a través de la tierra. Los ríos transportan agua desde colinas y montañas hasta los lagos y el mar.",
+      "script_hr": "Danas ćemo učiti o rijekama. Rijeka je dugačak tok slatke vode koji teče kopnom. Rijeke nose vodu s brda i planina dolje u jezera i mora.",
+      "script_cs": "Dnes se budeme učit o řekách. Řeka je dlouhý proud sladké vody, který teče přes zemi. Řeky přivádějí vodu z kopců a hor dolů do jezer a moře.",
+      "script_pl": "Dziś będziemy uczyć się o rzekach. Rzeka to długi strumień słodkiej wody przepływający przez ląd. Rzeki niosą wodę ze wzgórz i gór do jezior i morza.",
+      "script_fi": "Tänään opimme joista. Joki on pitkä makean veden virta, joka virtaa maan poikki. Joet kuljettavat vettä kukkuloilta ja vuorilta alas järviin ja mereen.",
+      "script_sk": "Dnes sa budeme učiť o riekach. Rieka je dlhý prúd sladkej vody, ktorý preteká krajinou. Rieky odvádzajú vodu z kopcov a hôr dole do jazier a mora.",
+      "script_da": "I dag skal vi lære om floder. En flod er en lang strøm af ferskvand, der flyder hen over landet. Floder fører vand fra bakker og bjerge ned til søer og havet.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "source",
+      "script_en": "Many rivers begin as springs, rain, or melting snow high in the hills. Small streams join together to make a bigger river. The water always flows downhill.",
+      "script_de": "Viele Flüsse beginnen als Quellen, Regen oder schmelzender Schnee hoch in den Hügeln. Kleine Bäche vereinen sich zu einem größeren Fluss. Das Wasser fließt immer bergab.",
+      "script_it": "Molti fiumi nascono come sorgenti, piogge o scioglimento della neve sulle colline. Piccoli ruscelli si uniscono per formare un fiume più grande. L'acqua scorre sempre in discesa.",
+      "script_fr": "De nombreuses rivières naissent sous forme de sources, de pluie ou de fonte des neiges en hauteur dans les collines. Les petits ruisseaux se rejoignent pour former une plus grande rivière. L'eau coule toujours vers le bas.",
+      "script_es": "Muchos ríos nacen como manantiales, lluvia o nieve derretida en lo alto de las colinas. Pequeños arroyos se unen para formar un río más grande. El agua siempre corre cuesta abajo.",
+      "script_hr": "Mnoge rijeke počinju kao izvori, kiša ili topljenje snijega visoko u brdima. Mali potoci se spajaju i čine veću rijeku. Voda uvijek teče nizbrdo.",
+      "script_cs": "Mnoho řek začíná jako prameny, déšť nebo tající sníh vysoko v kopcích. Malé potoky se spojují a vytvářejí větší řeku. Voda vždy teče z kopce.",
+      "script_pl": "Wiele rzek ma swój początek jako źródła, deszcz lub topniejący śnieg wysoko na wzgórzach. Małe strumienie łączą się, tworząc większą rzekę. Woda zawsze spływa w dół.",
+      "script_fi": "Monet joet alkavat keväänä, sateena tai lumen sulamisena korkealla kukkuloilla. Pienet purot yhdistyvät yhteen suureksi joeksi. Vesi valuu aina alamäkeen.",
+      "script_sk": "Mnohé rieky začínajú ako pramene, dážď alebo topiaci sa sneh vysoko v kopcoch. Malé potoky sa spájajú a vytvárajú väčšiu rieku. Voda vždy tečie z kopca.",
+      "script_da": "Mange floder begynder som kilder, regn eller smeltende sne højt oppe i bakkerne. Små vandløb går sammen for at skabe en større flod. Vandet løber altid ned ad bakke.",
+      "images": [
+        "source.webp",
+        "source_2.webp",
+        "source_3.webp"
+      ]
+    },
+    {
+      "id": "life",
+      "script_en": "Rivers are full of life. Fish swim in the water, insects hover above it, and birds nest along the banks. Plants and trees help keep the water clean and cool.",
+      "script_de": "Flüsse sind voller Leben. Fische schwimmen im Wasser, Insekten schweben darüber und Vögel nisten an den Ufern. Pflanzen und Bäume tragen dazu bei, das Wasser sauber und kühl zu halten.",
+      "script_it": "I fiumi sono pieni di vita. I pesci nuotano nell'acqua, gli insetti volteggiano sopra di essa e gli uccelli nidificano lungo le rive. Piante e alberi aiutano a mantenere l'acqua pulita e fresca.",
+      "script_fr": "Les rivières sont pleines de vie. Les poissons nagent dans l’eau, les insectes planent au-dessus et les oiseaux nichent le long des berges. Les plantes et les arbres aident à garder l’eau propre et fraîche.",
+      "script_es": "Los ríos están llenos de vida. Los peces nadan en el agua, los insectos revolotean sobre ella y los pájaros anidan en las orillas. Las plantas y los árboles ayudan a mantener el agua limpia y fresca.",
+      "script_hr": "Rijeke su pune života. Ribe plivaju u vodi, kukci lebde iznad nje, a ptice se gnijezde duž obala. Biljke i drveće pomažu održavati vodu čistom i hladnom.",
+      "script_cs": "Řeky jsou plné života. Ve vodě plavou ryby, nad ní se vznáší hmyz a na březích hnízdí ptáci. Rostliny a stromy pomáhají udržovat vodu čistou a chladnou.",
+      "script_pl": "Rzeki są pełne życia. W wodzie pływają ryby, nad nią unoszą się owady, a na brzegach gniazdują ptaki. Rośliny i drzewa pomagają utrzymać wodę w czystości i chłodzie.",
+      "script_fi": "Joet ovat täynnä elämää. Kalat uivat vedessä, hyönteiset leijuvat sen yläpuolella ja linnut pesivät rannoilla. Kasvit ja puut auttavat pitämään veden puhtaana ja viileänä.",
+      "script_sk": "Rieky sú plné života. Vo vode plávajú ryby, nad ňou sa vznáša hmyz a pozdĺž brehov hniezdia vtáky. Rastliny a stromy pomáhajú udržiavať vodu čistú a chladnú.",
+      "script_da": "Floder er fulde af liv. Fisk svømmer i vandet, insekter svæver over det, og fugle yngler langs bredderne. Planter og træer hjælper med at holde vandet rent og køligt.",
+      "images": [
+        "life.webp",
+        "life_2.webp",
+        "life_3.webp"
+      ]
+    },
+    {
+      "id": "people",
+      "script_en": "People use rivers for drinking water, farming, travel, and energy. Towns often grow beside rivers. Too much rain can make rivers flood, so banks need care.",
+      "script_de": "Menschen nutzen Flüsse für Trinkwasser, Landwirtschaft, Reisen und Energie. Städte wachsen oft an Flüssen. Zu viel Regen kann Flüsse überschwemmen lassen, daher müssen die Ufer gepflegt werden.",
+      "script_it": "Le persone usano i fiumi per l'acqua potabile, l'agricoltura, i viaggi e l'energia. Le città spesso crescono lungo i fiumi. Troppa pioggia può far straripare i fiumi, quindi le banche hanno bisogno di cure.",
+      "script_fr": "Les gens utilisent les rivières pour l’eau potable, l’agriculture, les déplacements et l’énergie. Les villes se développent souvent au bord des rivières. Trop de pluie peut provoquer des inondations dans les rivières, les berges doivent donc être entretenues.",
+      "script_es": "La gente usa los ríos para beber agua, cultivar, viajar y obtener energía. Las ciudades suelen crecer junto a los ríos. Demasiada lluvia puede provocar que los ríos se desborden, por lo que es necesario cuidar los bancos.",
+      "script_hr": "Ljudi koriste rijeke za pitku vodu, poljoprivredu, putovanja i energiju. Gradovi često rastu uz rijeke. Previše kiše može uzrokovati poplave rijeka, pa je obalama potrebna njega.",
+      "script_cs": "Lidé využívají řeky k pití vody, zemědělství, cestování a energii. Města často rostou u řek. Příliš mnoho deště může způsobit rozvodnění řek, takže břehy potřebují péči.",
+      "script_pl": "Ludzie wykorzystują rzeki do picia wody, rolnictwa, podróży i energii. Miasta często rosną nad rzekami. Zbyt duże opady deszczu mogą spowodować wylewy rzek, dlatego należy zachować ostrożność nad brzegami.",
+      "script_fi": "Ihmiset käyttävät jokia juomaveteen, maanviljelyyn, matkustamiseen ja energiaan. Kaupungit kasvavat usein jokien varrella. Liian runsas sade voi saada joet tulvimaan, joten rannat tarvitsevat hoitoa.",
+      "script_sk": "Ľudia využívajú rieky na pitnú vodu, poľnohospodárstvo, cestovanie a energiu. Mestá často rastú pri riekach. Príliš veľa dažďa môže spôsobiť rozvodnenie riek, takže banky potrebujú starostlivosť.",
+      "script_da": "Folk bruger floder til drikkevand, landbrug, rejser og energi. Byer vokser ofte ved siden af ​​floder. For meget regn kan få floder til at oversvømme, så banker har brug for pleje.",
+      "images": [
+        "people.webp",
+        "people_2.webp",
+        "people_3.webp"
+      ]
+    },
+    {
+      "id": "care",
+      "script_en": "Rivers need our help. Litter and chemicals can harm fish and plants. Saving water and disposing of rubbish properly keeps rivers healthy for everyone.",
+      "script_de": "Flüsse brauchen unsere Hilfe. Abfall und Chemikalien können Fischen und Pflanzen schaden. Wassersparen und ordnungsgemäße Müllentsorgung sorgen dafür, dass Flüsse für alle gesund bleiben.",
+      "script_it": "I fiumi hanno bisogno del nostro aiuto. I rifiuti e i prodotti chimici possono danneggiare i pesci e le piante. Risparmiare acqua e smaltire adeguatamente i rifiuti mantiene i fiumi sani per tutti.",
+      "script_fr": "Les rivières ont besoin de notre aide. Les déchets et les produits chimiques peuvent nuire aux poissons et aux plantes. Économiser l’eau et éliminer correctement les déchets préserve la santé des rivières pour tous.",
+      "script_es": "Los ríos necesitan nuestra ayuda. La basura y los productos químicos pueden dañar a los peces y las plantas. Ahorrar agua y eliminar adecuadamente la basura mantiene los ríos sanos para todos.",
+      "script_hr": "Rijeke trebaju našu pomoć. Otpad i kemikalije mogu naškoditi ribama i biljkama. Štednja vode i pravilno odlaganje smeća održava rijeke zdravima za sve.",
+      "script_cs": "Řeky potřebují naši pomoc. Stelivo a chemikálie mohou poškodit ryby a rostliny. Úspora vody a správná likvidace odpadků udržuje řeky zdravé pro všechny.",
+      "script_pl": "Rzeki potrzebują naszej pomocy. Śmieci i chemikalia mogą zaszkodzić rybom i roślinom. Oszczędzanie wody i prawidłowe usuwanie śmieci zapewnia wszystkim zdrowie rzek.",
+      "script_fi": "Rivers tarvitsee apuamme. Kuivikkeet ja kemikaalit voivat vahingoittaa kaloja ja kasveja. Veden säästäminen ja roskien oikea hävittäminen pitävät joet terveinä kaikille.",
+      "script_sk": "Rieky potrebujú našu pomoc. Podstielka a chemikálie môžu poškodiť ryby a rastliny. Šetrenie vodou a správna likvidácia odpadu udržuje rieky zdravé pre všetkých.",
+      "script_da": "Floder har brug for vores hjælp. Affald og kemikalier kan skade fisk og planter. Vandbesparelse og korrekt bortskaffelse af affald holder floder sunde for alle.",
+      "images": [
+        "care.webp",
+        "care_2.webp",
+        "care_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "what",
+      "correct": "fresh",
+      "question_en": "What kind of water is in a river?",
+      "question_de": "Was für ein Wasser gibt es in einem Fluss?",
+      "question_it": "Che tipo di acqua c'è in un fiume?",
+      "question_fr": "Quel type d'eau y a-t-il dans une rivière ?",
+      "question_es": "¿Qué tipo de agua hay en un río?",
+      "question_hr": "Kakva je voda u rijeci?",
+      "question_cs": "Jaká voda je v řece?",
+      "question_pl": "Jaka woda jest w rzece?",
+      "question_fi": "Millaista vettä joessa on?",
+      "question_sk": "Aký druh vody je v rieke?",
+      "question_da": "Hvilken slags vand er der i en flod?",
+      "options": [
+        {
+          "id": "fresh",
+          "label_en": "Fresh water",
+          "label_de": "Frisches Wasser",
+          "label_it": "Acqua dolce",
+          "label_fr": "Eau douce",
+          "label_es": "Agua dulce",
+          "label_hr": "Svježa voda",
+          "label_cs": "Sladká voda",
+          "label_pl": "Świeża woda",
+          "label_fi": "Tuore vesi",
+          "label_sk": "Čerstvá voda",
+          "label_da": "Frisk vand"
+        },
+        {
+          "id": "salt",
+          "label_en": "Salt water",
+          "label_de": "Salzwasser",
+          "label_it": "Acqua salata",
+          "label_fr": "Eau salée",
+          "label_es": "agua salada",
+          "label_hr": "Slana voda",
+          "label_cs": "Slaná voda",
+          "label_pl": "Słona woda",
+          "label_fi": "Suolavesi",
+          "label_sk": "Slaná voda",
+          "label_da": "Saltvand"
+        },
+        {
+          "id": "ice",
+          "label_en": "Ice only",
+          "label_de": "Nur Eis",
+          "label_it": "Solo ghiaccio",
+          "label_fr": "Glace seulement",
+          "label_es": "solo hielo",
+          "label_hr": "Samo led",
+          "label_cs": "Pouze led",
+          "label_pl": "Tylko lód",
+          "label_fi": "Vain jäätä",
+          "label_sk": "Iba ľad",
+          "label_da": "Kun is"
+        }
+      ]
+    },
+    {
+      "id": "flow",
+      "correct": "down",
+      "question_en": "Which way does a river flow?",
+      "question_de": "In welche Richtung fließt ein Fluss?",
+      "question_it": "In che direzione scorre un fiume?",
+      "question_fr": "Dans quel sens coule une rivière ?",
+      "question_es": "¿Hacia dónde fluye un río?",
+      "question_hr": "Kojim putem teče rijeka?",
+      "question_cs": "Kudy teče řeka?",
+      "question_pl": "Którędy płynie rzeka?",
+      "question_fi": "Mihin suuntaan joki virtaa?",
+      "question_sk": "Ktorým smerom tečie rieka?",
+      "question_da": "Hvilken vej flyder en flod?",
+      "options": [
+        {
+          "id": "down",
+          "label_en": "Downhill",
+          "label_de": "Bergab",
+          "label_it": "Discesa",
+          "label_fr": "Descente",
+          "label_es": "Cuesta abajo",
+          "label_hr": "Nizbrdo",
+          "label_cs": "Z kopce",
+          "label_pl": "Spadek",
+          "label_fi": "Alamäkeen",
+          "label_sk": "Z kopca",
+          "label_da": "Ned ad bakke"
+        },
+        {
+          "id": "up",
+          "label_en": "Uphill",
+          "label_de": "Bergauf",
+          "label_it": "Salita",
+          "label_fr": "Montée",
+          "label_es": "Cuesta arriba",
+          "label_hr": "Uzbrdo",
+          "label_cs": "Do kopce",
+          "label_pl": "Pod górę",
+          "label_fi": "Ylösmäkeen",
+          "label_sk": "Do kopca",
+          "label_da": "Op ad bakke"
+        },
+        {
+          "id": "sideways",
+          "label_en": "Sideways only",
+          "label_de": "Nur seitwärts",
+          "label_it": "Solo lateralmente",
+          "label_fr": "Sur le côté uniquement",
+          "label_es": "Solo de lado",
+          "label_hr": "Samo bočno",
+          "label_cs": "Pouze bokem",
+          "label_pl": "Tylko na boki",
+          "label_fi": "Vain sivuttain",
+          "label_sk": "Iba zboku",
+          "label_da": "Kun sidelæns"
+        }
+      ]
+    },
+    {
+      "id": "care",
+      "correct": "litter",
+      "question_en": "How can you help a river?",
+      "question_de": "Wie kann man einem Fluss helfen?",
+      "question_it": "Come puoi aiutare un fiume?",
+      "question_fr": "Comment aider une rivière ?",
+      "question_es": "¿Cómo puedes ayudar a un río?",
+      "question_hr": "Kako možete pomoći rijeci?",
+      "question_cs": "Jak můžete pomoci řece?",
+      "question_pl": "Jak można pomóc rzece?",
+      "question_fi": "Kuinka voit auttaa jokea?",
+      "question_sk": "Ako môžete pomôcť rieke?",
+      "question_da": "Hvordan kan du hjælpe en flod?",
+      "options": [
+        {
+          "id": "litter",
+          "label_en": "Pick up litter and save water",
+          "label_de": "Sammeln Sie Müll und sparen Sie Wasser",
+          "label_it": "Raccogli i rifiuti e risparmia acqua",
+          "label_fr": "Ramasser les déchets et économiser l'eau",
+          "label_es": "Recoge la basura y ahorra agua.",
+          "label_hr": "Pokupite smeće i štedite vodu",
+          "label_cs": "Sbírejte stelivo a šetřete vodou",
+          "label_pl": "Zbieraj śmieci i oszczędzaj wodę",
+          "label_fi": "Kerää roskia ja säästä vettä",
+          "label_sk": "Zbierajte odpadky a šetrite vodou",
+          "label_da": "Saml affald op og spar vandet"
+        },
+        {
+          "id": "pollute",
+          "label_en": "Pour chemicals into it",
+          "label_de": "Gießen Sie Chemikalien hinein",
+          "label_it": "Versaci dei prodotti chimici",
+          "label_fr": "Versez-y des produits chimiques",
+          "label_es": "Vierta químicos en él",
+          "label_hr": "Ulijte kemikalije u njega",
+          "label_cs": "Nalijte do něj chemikálie",
+          "label_pl": "Wlej do niego środki chemiczne",
+          "label_fi": "Kaada siihen kemikaaleja",
+          "label_sk": "Nalejte do nej chemikálie",
+          "label_da": "Hæld kemikalier i det"
+        },
+        {
+          "id": "fill",
+          "label_en": "Fill it with rocks",
+          "label_de": "Füllen Sie es mit Steinen",
+          "label_it": "Riempilo con le rocce",
+          "label_fr": "Remplissez-le de pierres",
+          "label_es": "Llénalo con piedras",
+          "label_hr": "Napunite ga kamenjem",
+          "label_cs": "Naplňte ji kameny",
+          "label_pl": "Wypełnij go kamieniami",
+          "label_fi": "Täytä se kivillä",
+          "label_sk": "Naplňte ju kameňmi",
+          "label_da": "Fyld den med sten"
+        }
+      ]
+    }
+  ]
+}

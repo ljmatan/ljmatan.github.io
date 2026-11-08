@@ -1,0 +1,293 @@
+{
+  "id": "refrigerator",
+  "category_id": "household",
+  "symbol_id": "refrigerator",
+  "thumbnail": "refrigerator_thumb.webp",
+  "title_en": "Refrigerators",
+  "title_de": "Kühlschränke",
+  "title_it": "Frigoriferi",
+  "title_fr": "Réfrigérateurs",
+  "title_es": "Refrigeradores",
+  "title_hr": "Hladnjaci",
+  "title_cs": "Ledničky",
+  "title_pl": "Lodówki",
+  "title_fi": "Jääkaapit",
+  "title_sk": "Chladničky",
+  "title_da": "Køleskabe",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about refrigerators. A refrigerator is a machine that keeps food cold. Cold temperatures slow down germs and help food stay fresh for longer.",
+      "script_de": "Heute lernen wir etwas über Kühlschränke. Ein Kühlschrank ist ein Gerät, das Lebensmittel kalt hält. Kalte Temperaturen verlangsamen Keime und helfen, Lebensmittel länger frisch zu halten.",
+      "script_it": "Oggi impareremo a conoscere i frigoriferi. Un frigorifero è una macchina che mantiene il cibo freddo. Le temperature basse rallentano i germi e aiutano il cibo a restare fresco più a lungo.",
+      "script_fr": "Aujourd'hui, nous allons découvrir les réfrigérateurs. Un réfrigérateur est une machine qui garde les aliments au froid. Le froid ralentit les germes et aide les aliments à rester frais plus longtemps.",
+      "script_es": "Hoy vamos a aprender sobre los refrigeradores. Un refrigerador es una máquina que mantiene la comida fría. Las temperaturas frías frenan los gérmenes y ayudan a que la comida se conserve más tiempo.",
+      "script_hr": "Danas ćemo učiti o hladnjacima. Hladnjak je stroj koji održava hranu hladnom. Niske temperature usporavaju klice i pomažu da hrana dulje ostane svježa.",
+      "script_cs": "Dnes se budeme učit o ledničkách. Lednička je stroj, který udržuje jídlo chladné. Nízké teploty zpomalují bakterie a pomáhají, aby jídlo zůstalo déle čerstvé.",
+      "script_pl": "Dziś dowiemy się czegoś o lodówkach. Lodówka to urządzenie, które utrzymuje jedzenie w chłodzie. Niskie temperatury spowalniają drobnoustroje i pomagają żywności dłużej pozostać świeżą.",
+      "script_fi": "Tänään opimme jääkaapeista. Jääkaappi on laite, joka pitää ruuan kylmänä. Kylmät lämpötilat hidastavat bakteereja ja auttavat ruokaa pysymään tuoreena pidempään.",
+      "script_sk": "Dnes sa budeme učiť o chladničkách. Chladnička je stroj, ktorý udržiava jedlo chladné. Nízke teploty spomaľujú baktérie a pomáhajú, aby jedlo zostalo dlhšie čerstvé.",
+      "script_da": "I dag skal vi lære om køleskabe. Et køleskab er en maskine, der holder maden kold. Kolde temperaturer bremser bakterier og hjælper maden med at holde sig frisk længere.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "parts",
+      "script_en": "A refrigerator has shelves, drawers for fruit and vegetables, and a door with space for bottles. The freezer at the top or bottom keeps food frozen. A seal around the door keeps the cold air inside.",
+      "script_de": "Ein Kühlschrank hat Regale, Schubladen für Obst und Gemüse und eine Tür mit Platz für Flaschen. Das Gefrierfach oben oder unten hält Lebensmittel gefroren. Eine Dichtung an der Tür hält die kalte Luft im Inneren.",
+      "script_it": "Un frigorifero ha ripiani, cassetti per frutta e verdura e uno sportello con spazio per le bottiglie. Il congelatore in alto o in basso mantiene il cibo surgelato. Una guarnizione intorno allo sportello trattiene l'aria fredda all'interno.",
+      "script_fr": "Un réfrigérateur a des étagères, des bacs pour les fruits et légumes et une porte avec de la place pour les bouteilles. Le congélateur en haut ou en bas garde les aliments surgelés. Un joint autour de la porte retient l'air froid à l'intérieur.",
+      "script_es": "Un refrigerador tiene estantes, cajones para frutas y verduras, y una puerta con espacio para botellas. El congelador, arriba o abajo, mantiene los alimentos congelados. Una junta alrededor de la puerta mantiene el aire frío dentro.",
+      "script_hr": "Hladnjak ima police, ladice za voće i povrće te vrata s prostorom za boce. Zamrzivač na vrhu ili dnu drži hranu smrznutom. Brtva oko vrata zadržava hladan zrak unutra.",
+      "script_cs": "Lednička má police, zásuvky na ovoce a zeleninu a dveře s místem na lahve. Mraznička nahoře nebo dole udržuje jídlo zmrazené. Těsnění kolem dveří zadržuje studený vzduch uvnitř.",
+      "script_pl": "Lodówka ma półki, szuflady na owoce i warzywa oraz drzwi z miejscem na butelki. Zamrażalnik u góry lub u dołu utrzymuje żywność w stanie zamrożonym. Uszczelka wokół drzwi zatrzymuje zimne powietrze w środku.",
+      "script_fi": "Jääkaapissa on hyllyt, hedelmille ja vihanneksille tarkoitetut laatikot sekä ovi, jossa on tilaa pulloille. Ylhäällä tai alhaalla oleva pakastin pitää ruuan pakastettuna. Oven tiiviste pitää kylmän ilman sisällä.",
+      "script_sk": "Chladnička má police, zásuvky na ovocie a zeleninu a dvere s priestorom na fľaše. Mraznička hore alebo dole udržiava jedlo zmrazené. Tesnenie okolo dverí zadržiava studený vzduch vnútri.",
+      "script_da": "Et køleskab har hylder, skuffer til frugt og grøntsager og en dør med plads til flasker. Fryseren øverst eller nederst holder maden frossen. En tætning rundt om døren holder den kolde luft inde.",
+      "images": [
+        "parts.webp",
+        "parts_2.webp",
+        "parts_3.webp"
+      ]
+    },
+    {
+      "id": "history",
+      "script_en": "Before refrigerators, people used iceboxes and blocks of ice to keep food cool. Electric refrigerators became common in homes during the twentieth century. They changed how families shopped and cooked.",
+      "script_de": "Vor den Kühlschränken benutzten die Menschen Eiskästen und Eisblöcke, um Lebensmittel kühl zu halten. Elektrische Kühlschränke wurden im zwanzigsten Jahrhundert in Haushalten üblich. Sie veränderten, wie Familien einkauften und kochten.",
+      "script_it": "Prima dei frigoriferi, le persone usavano ghiacciaie e blocchi di ghiaccio per mantenere il cibo fresco. I frigoriferi elettrici divennero comuni nelle case nel Novecento. Cambiarono il modo in cui le famiglie facevano la spesa e cucinavano.",
+      "script_fr": "Avant les réfrigérateurs, on utilisait des glacières et des blocs de glace pour garder les aliments au frais. Les réfrigérateurs électriques se sont répandus dans les foyers au vingtième siècle. Ils ont changé la façon dont les familles faisaient leurs courses et cuisinaient.",
+      "script_es": "Antes de los refrigeradores, la gente usaba neveras de hielo y bloques de hielo para mantener la comida fría. Los refrigeradores eléctricos se hicieron comunes en los hogares durante el siglo veinte. Cambiaron la forma en que las familias compraban y cocinaban.",
+      "script_hr": "Prije hladnjaka ljudi su koristili ledenice i blokove leda kako bi hranu održali hladnom. Električni hladnjaci postali su uobičajeni u domovima tijekom dvadesetog stoljeća. Promijenili su način na koji su obitelji kupovale i kuhale.",
+      "script_cs": "Před ledničkami lidé používali lednice na led a bloky ledu, aby udrželi jídlo chladné. Elektrické ledničky se ve dvacátém století staly běžnými v domácnostech. Změnily způsob, jakým rodiny nakupovaly a vařily.",
+      "script_pl": "Przed lodówkami ludzie używali skrzyń lodowych i bloków lodu, aby utrzymać jedzenie w chłodzie. Lodówki elektryczne stały się powszechne w domach w dwudziestym wieku. Zmieniły sposób, w jaki rodziny robiły zakupy i gotowały.",
+      "script_fi": "Ennen jääkaappeja ihmiset käyttivät jäälaatikoita ja jääpaloja ruuan viilentämiseen. Sähköjääkaapit yleistyivät kodeissa 1900-luvulla. Ne muuttivat tapaa, jolla perheet ostivat ruokaa ja laittoivat sitä.",
+      "script_sk": "Pred chladničkami ľudia používali ľadové skrine a bloky ľadu, aby udržali jedlo chladné. Elektrické chladničky sa v dvadsiatom storočí stali bežnými v domácnostiach. Zmenili spôsob, akým rodiny nakupovali a varili.",
+      "script_da": "Før køleskabe brugte folk iskister og isblokke til at holde maden kold. Elektriske køleskabe blev almindelige i hjemmene i det tyvende århundrede. De ændrede den måde, familier handlede og lavede mad på.",
+      "images": [
+        "history.webp",
+        "history_2.webp",
+        "history_3.webp"
+      ]
+    },
+    {
+      "id": "food",
+      "script_en": "Put milk, meat, and other fresh food in the fridge soon after shopping. Keep raw meat away from ready-to-eat food. Check dates and throw away food that smells or looks bad.",
+      "script_de": "Stelle Milch, Fleisch und andere frische Lebensmittel kurz nach dem Einkaufen in den Kühlschrank. Halte rohes Fleisch von verzehrfertigen Lebensmitteln fern. Prüfe die Haltbarkeitsdaten und wirf Lebensmittel weg, die riechen oder schlecht aussehen.",
+      "script_it": "Metti il latte, la carne e gli altri alimenti freschi in frigorifero subito dopo la spesa. Tieni la carne cruda lontana dai cibi pronti da mangiare. Controlla le date e getta il cibo che ha un odore strano o un aspetto cattivo.",
+      "script_fr": "Mets le lait, la viande et les autres aliments frais au réfrigérateur peu après les courses. Garde la viande crue à l'écart des aliments prêts à manger. Vérifie les dates et jette les aliments qui sentent mauvais ou semblent abîmés.",
+      "script_es": "Guarda la leche, la carne y otros alimentos frescos en el refrigerador poco después de comprar. Mantén la carne cruda lejos de los alimentos listos para comer. Revisa las fechas y tira la comida que huela mal o se vea en mal estado.",
+      "script_hr": "Stavi mlijeko, meso i drugu svježu hranu u hladnjak ubrzo nakon kupnje. Drži sirovo meso dalje od hrane spremne za jelo. Provjeri datume i baci hranu koja neugodno miriše ili izgleda loše.",
+      "script_cs": "Po nákupu dej mléko, maso a další čerstvé potraviny brzy do ledničky. Uchovávej syrové maso odděleně od potravin určených k přímé konzumaci. Kontroluj data a vyhoď jídlo, které páchne nebo vypadá špatně.",
+      "script_pl": "Wkładaj mleko, mięso i inne świeże produkty do lodówki wkrótce po zakupach. Trzymaj surowe mięso z dala od jedzenia gotowego do spożycia. Sprawdzaj daty i wyrzucaj jedzenie, które brzydko pachnie lub źle wygląda.",
+      "script_fi": "Laita maito, liha ja muut tuoreet ruuat jääkaappiin pian ostamisen jälkeen. Pidä raaka liha erillään valmiiksi syötävistä ruuista. Tarkista päivämäärät ja heitä pois ruoka, joka haisee tai näyttää huonolta.",
+      "script_sk": "Po nákupe daj mlieko, mäso a ďalšie čerstvé potraviny čoskoro do chladničky. Uchovávaj surové mäso oddelene od potravín určených na priamu konzumáciu. Kontroluj dátumy a vyhoď jedlo, ktoré zapácha alebo vyzerá zle.",
+      "script_da": "Sæt mælk, kød og andre friske fødevarer i køleskabet kort efter indkøb. Hold rå kød væk fra mad, der er klar til at spise. Tjek datoerne, og smid mad ud, der lugter eller ser dårligt ud.",
+      "images": [
+        "food.webp",
+        "food_2.webp",
+        "food_3.webp"
+      ]
+    },
+    {
+      "id": "energy",
+      "script_en": "Today refrigerators use less energy than older models. Closing the door quickly and keeping the coils clean helps them run efficiently. A well-stocked fridge makes healthy meals easier.",
+      "script_de": "Heute verbrauchen Kühlschränke weniger Energie als ältere Modelle. Die Tür schnell zu schließen und die Spulen sauber zu halten hilft ihnen, effizient zu laufen. Ein gut gefüllter Kühlschrank macht gesunde Mahlzeiten einfacher.",
+      "script_it": "Oggi i frigoriferi consumano meno energia dei modelli più vecchi. Chiudere lo sportello rapidamente e mantenere pulite le serpentine li aiuta a funzionare in modo efficiente. Un frigorifero ben fornito rende più facili i pasti sani.",
+      "script_fr": "Aujourd'hui, les réfrigérateurs consomment moins d'énergie que les anciens modèles. Fermer la porte rapidement et garder les serpentins propres les aide à fonctionner efficacement. Un réfrigérateur bien rempli facilite les repas sains.",
+      "script_es": "Hoy los refrigeradores consumen menos energía que los modelos antiguos. Cerrar la puerta rápidamente y mantener limpias las bobinas les ayuda a funcionar de forma eficiente. Un refrigerador bien surtido facilita las comidas saludables.",
+      "script_hr": "Današnji hladnjaci troše manje energije od starijih modela. Brzo zatvaranje vrata i čišćenje zavojnica pomažu im da rade učinkovito. Dobro opskrbljen hladnjak olakšava pripremu zdravih obroka.",
+      "script_cs": "Dnešní ledničky spotřebují méně energie než starší modely. Rychlé zavírání dveří a čisté cívky jim pomáhají pracovat efektivně. Dobře zásobená lednička usnadňuje přípravu zdravých jídel.",
+      "script_pl": "Dzisiejsze lodówki zużywają mniej energii niż starsze modele. Szybkie zamykanie drzwi i czyste cewki pomagają im działać wydajnie. Dobrze zaopatrzona lodówka ułatwia przygotowanie zdrowych posiłków.",
+      "script_fi": "Nykyiset jääkaapit käyttävät vähemmän energiaa kuin vanhat mallit. Oven nopea sulkeminen ja käämien puhtaana pitäminen auttavat niitä toimimaan tehokkaasti. Hyvin täytetty jääkaappi helpottaa terveellisten aterioiden valmistusta.",
+      "script_sk": "Dnešné chladničky spotrebúvajú menej energie ako staršie modely. Rýchle zatváranie dverí a čisté cievky im pomáhajú pracovať efektívne. Dobre zásobená chladnička uľahčuje prípravu zdravých jedál.",
+      "script_da": "Nutidens køleskabe bruger mindre energi end ældre modeller. At lukke døren hurtigt og holde spolerne rene hjælper dem med at køre effektivt. Et godt fyldt køleskab gør sunde måltider lettere.",
+      "images": [
+        "energy.webp",
+        "energy_2.webp",
+        "energy_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "what",
+      "correct": "cold",
+      "question_en": "What does a refrigerator do?",
+      "question_de": "Was macht ein Kühlschrank?",
+      "question_it": "Cosa fa un frigorifero?",
+      "question_fr": "Que fait un réfrigérateur ?",
+      "question_es": "¿Qué hace un refrigerador?",
+      "question_hr": "Što radi hladnjak?",
+      "question_cs": "Co dělá lednička?",
+      "question_pl": "Co robi lodówka?",
+      "question_fi": "Mitä jääkaappi tekee?",
+      "question_sk": "Čo robí chladnička?",
+      "question_da": "Hvad gør et køleskab?",
+      "options": [
+        {
+          "id": "cold",
+          "label_en": "Keeps food cold",
+          "label_de": "Er hält Lebensmittel kalt",
+          "label_it": "Mantiene il cibo freddo",
+          "label_fr": "Il garde les aliments au froid",
+          "label_es": "Mantiene la comida fría",
+          "label_hr": "Održava hranu hladnom",
+          "label_cs": "Udržuje jídlo chladné",
+          "label_pl": "Utrzymuje jedzenie w chłodzie",
+          "label_fi": "Pitää ruuan kylmänä",
+          "label_sk": "Udržiava jedlo chladné",
+          "label_da": "Det holder maden kold"
+        },
+        {
+          "id": "hot",
+          "label_en": "Cooks food",
+          "label_de": "Er kocht Lebensmittel",
+          "label_it": "Cucina il cibo",
+          "label_fr": "Il cuisine les aliments",
+          "label_es": "Cocina la comida",
+          "label_hr": "Kuha hranu",
+          "label_cs": "Vaří jídlo",
+          "label_pl": "Gotuje jedzenie",
+          "label_fi": "Laittaa ruokaa",
+          "label_sk": "Varí jedlo",
+          "label_da": "Det laver mad"
+        },
+        {
+          "id": "wash",
+          "label_en": "Washes clothes",
+          "label_de": "Er wäscht Kleidung",
+          "label_it": "Lava i vestiti",
+          "label_fr": "Il lave les vêtements",
+          "label_es": "Lava la ropa",
+          "label_hr": "Peri rublje",
+          "label_cs": "Pere prádlo",
+          "label_pl": "Pierze ubrania",
+          "label_fi": "Pesee vaatteet",
+          "label_sk": "Perie prádlo",
+          "label_da": "Det vasker tøj"
+        }
+      ]
+    },
+    {
+      "id": "freezer",
+      "correct": "freezer",
+      "question_en": "Which part freezes food?",
+      "question_de": "Welcher Teil friert Lebensmittel ein?",
+      "question_it": "Quale parte congela il cibo?",
+      "question_fr": "Quelle partie congèle les aliments ?",
+      "question_es": "¿Qué parte congela la comida?",
+      "question_hr": "Koji dio zamrzava hranu?",
+      "question_cs": "Která část zmrazuje jídlo?",
+      "question_pl": "Która część zamraża jedzenie?",
+      "question_fi": "Mikä osa pakastaa ruuan?",
+      "question_sk": "Ktorá časť zmrazuje jedlo?",
+      "question_da": "Hvilken del fryser maden?",
+      "options": [
+        {
+          "id": "freezer",
+          "label_en": "The freezer",
+          "label_de": "Das Gefrierfach",
+          "label_it": "Il congelatore",
+          "label_fr": "Le congélateur",
+          "label_es": "El congelador",
+          "label_hr": "Zamrzivač",
+          "label_cs": "Mraznička",
+          "label_pl": "Zamrażalnik",
+          "label_fi": "Pakastin",
+          "label_sk": "Mraznička",
+          "label_da": "Fryseren"
+        },
+        {
+          "id": "shelf",
+          "label_en": "The shelf",
+          "label_de": "Das Regal",
+          "label_it": "Il ripiano",
+          "label_fr": "L'étagère",
+          "label_es": "El estante",
+          "label_hr": "Polica",
+          "label_cs": "Police",
+          "label_pl": "Półka",
+          "label_fi": "Hylly",
+          "label_sk": "Polica",
+          "label_da": "Hylden"
+        },
+        {
+          "id": "door",
+          "label_en": "The door",
+          "label_de": "Die Tür",
+          "label_it": "Lo sportello",
+          "label_fr": "La porte",
+          "label_es": "La puerta",
+          "label_hr": "Vrata",
+          "label_cs": "Dveře",
+          "label_pl": "Drzwi",
+          "label_fi": "Ovi",
+          "label_sk": "Dvere",
+          "label_da": "Døren"
+        }
+      ]
+    },
+    {
+      "id": "safe",
+      "correct": "away",
+      "question_en": "Where should raw meat be stored?",
+      "question_de": "Wo sollte rohes Fleisch aufbewahrt werden?",
+      "question_it": "Dove va conservata la carne cruda?",
+      "question_fr": "Où faut-il conserver la viande crue ?",
+      "question_es": "¿Dónde se debe guardar la carne cruda?",
+      "question_hr": "Gdje treba čuvati sirovo meso?",
+      "question_cs": "Kde má být uloženo syrové maso?",
+      "question_pl": "Gdzie powinno się przechowywać surowe mięso?",
+      "question_fi": "Missä raaka liha pitäisi säilyttää?",
+      "question_sk": "Kde sa má uchovávať surové mäso?",
+      "question_da": "Hvor skal rå kød opbevares?",
+      "options": [
+        {
+          "id": "away",
+          "label_en": "Away from ready-to-eat food",
+          "label_de": "Getrennt von verzehrfertigen Lebensmitteln",
+          "label_it": "Lontano dai cibi pronti da mangiare",
+          "label_fr": "À l'écart des aliments prêts à manger",
+          "label_es": "Lejos de los alimentos listos para comer",
+          "label_hr": "Dalje od hrane spremne za jelo",
+          "label_cs": "Odděleně od potravin k přímé konzumaci",
+          "label_pl": "Z dala od jedzenia gotowego do spożycia",
+          "label_fi": "Erillään valmiiksi syötävistä ruuista",
+          "label_sk": "Oddelene od potravín na priamu konzumáciu",
+          "label_da": "Væk fra mad, der er klar til at spise"
+        },
+        {
+          "id": "top",
+          "label_en": "On top of salad",
+          "label_de": "Auf dem Salat",
+          "label_it": "Sopra l'insalata",
+          "label_fr": "Sur la salade",
+          "label_es": "Encima de la ensalada",
+          "label_hr": "Na salati",
+          "label_cs": "Na salátu",
+          "label_pl": "Na sałatce",
+          "label_fi": "Salaatin päällä",
+          "label_sk": "Na šaláte",
+          "label_da": "Oven på salaten"
+        },
+        {
+          "id": "floor",
+          "label_en": "On the floor",
+          "label_de": "Auf dem Boden",
+          "label_it": "Sul pavimento",
+          "label_fr": "Par terre",
+          "label_es": "En el suelo",
+          "label_hr": "Na podu",
+          "label_cs": "Na podlaze",
+          "label_pl": "Na podłodze",
+          "label_fi": "Lattialla",
+          "label_sk": "Na podlahe",
+          "label_da": "På gulvet"
+        }
+      ]
+    }
+  ]
+}
