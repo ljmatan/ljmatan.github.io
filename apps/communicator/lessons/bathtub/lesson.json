@@ -1,0 +1,293 @@
+{
+  "id": "bathtub",
+  "category_id": "household",
+  "symbol_id": "bathtub",
+  "thumbnail": "bathtub_thumb.webp",
+  "title_en": "Bathtubs",
+  "title_de": "Badewannen",
+  "title_it": "Vasche da bagno",
+  "title_fr": "Baignoires",
+  "title_es": "Bañeras",
+  "title_hr": "Kade za kupanje",
+  "title_cs": "Vany",
+  "title_pl": "Wanny",
+  "title_fi": "Kylpyammeet",
+  "title_sk": "Vane",
+  "title_da": "Badekar",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about bathtubs. A bathtub is a large container for washing in water. People use bathtubs to bathe, relax, and wash children and pets.",
+      "script_de": "Heute lernen wir etwas über Badewannen. Eine Badewanne ist ein großer Behälter zum Waschen im Wasser. Menschen nutzen Badewannen zum Baden, Entspannen und zum Waschen von Kindern und Haustieren.",
+      "script_it": "Oggi parleremo delle vasche da bagno. Una vasca da bagno è un grande contenitore per lavarsi in acqua. Le persone usano le vasche da bagno per fare il bagno, rilassarsi e lavare i bambini e gli animali domestici.",
+      "script_fr": "Aujourd'hui, nous allons découvrir les baignoires. Une baignoire est un grand récipient pour se laver à l’eau. Les gens utilisent les baignoires pour se baigner, se détendre et laver les enfants et les animaux domestiques.",
+      "script_es": "Hoy vamos a aprender sobre las bañeras. Una bañera es un recipiente grande para lavarse en agua. La gente usa las bañeras para bañar, relajarse y lavar a niños y mascotas.",
+      "script_hr": "Danas ćemo učiti o kadama. Kada je velika posuda za pranje u vodi. Ljudi koriste kade za kupanje, opuštanje i pranje djece i kućnih ljubimaca.",
+      "script_cs": "Dnes se seznámíme s vanami. Vana je velká nádoba na mytí ve vodě. Lidé používají vany ke koupání, relaxaci a mytí dětí a domácích zvířat.",
+      "script_pl": "Dzisiaj będziemy uczyć się o wannach. Wanna to duży pojemnik do mycia w wodzie. Ludzie korzystają z wanien do kąpieli, relaksu i mycia dzieci i zwierząt domowych.",
+      "script_fi": "Tänään opimme kylpyammeista. Kylpyamme on suuri astia vedessä pesemiseen. Ihmiset käyttävät kylpyammeita lasten ja lemmikkien kylpemiseen, rentoutumiseen ja pesemiseen.",
+      "script_sk": "Dnes sa dozvieme o vani. Vaňa je veľká nádoba na umývanie vo vode. Ľudia používajú vane na kúpanie, relaxáciu a umývanie detí a domácich zvierat.",
+      "script_da": "I dag skal vi lære om badekar. Et badekar er en stor beholder til vask i vand. Folk bruger badekar til at bade, slappe af og vaske børn og kæledyr.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "parts",
+      "script_en": "A bathtub has a faucet for hot and cold water and a drain at the bottom. The overflow hole stops water from running over the edge. A plug keeps the water in until bath time is over.",
+      "script_de": "Eine Badewanne verfügt über einen Wasserhahn für heißes und kaltes Wasser und einen Abfluss am Boden. Das Überlaufloch verhindert, dass Wasser über den Rand läuft. Ein Stöpsel hält das Wasser bis zum Ende der Badezeit im Bad.",
+      "script_it": "La vasca da bagno è dotata di rubinetto per l'acqua calda e fredda e di scarico sul fondo. Il foro per il troppopieno impedisce all'acqua di scorrere oltre il bordo. Un tappo mantiene l'acqua dentro fino al termine del bagno.",
+      "script_fr": "Une baignoire a un robinet pour l'eau chaude et froide et un drain au fond. Le trou de trop-plein empêche l'eau de déborder. Un bouchon retient l'eau jusqu'à la fin de l'heure du bain.",
+      "script_es": "Una bañera tiene un grifo para agua fría y caliente y un desagüe en la parte inferior. El orificio de rebosadero evita que el agua corra por el borde. Un tapón mantiene el agua dentro hasta que termina la hora del baño.",
+      "script_hr": "Kada ima slavinu za toplu i hladnu vodu i odvod na dnu. Preljevni otvor sprječava prelazak vode preko ruba. Čep zadržava vodu dok vrijeme za kupanje ne završi.",
+      "script_cs": "Vana má baterii na teplou a studenou vodu a odtok na dně. Přepadový otvor zabraňuje přetékání vody přes okraj. Zástrčka udržuje vodu uvnitř, dokud doba koupele neskončí.",
+      "script_pl": "Wanna posiada kran na ciepłą i zimną wodę oraz odpływ na dole. Otwór przelewowy zapobiega spływaniu wody po krawędzi. Korek utrzymuje wodę do końca kąpieli.",
+      "script_fi": "Kylpyammeessa on hana kuumalle ja kylmälle vedelle sekä viemäri pohjassa. Ylivuotoaukko estää vettä valumasta reunan yli. Tulppa pitää veden sisällä, kunnes kylpyaika on ohi.",
+      "script_sk": "Vaňa má batériu na teplú a studenú vodu a odtok na dne. Prepadový otvor zabraňuje pretekaniu vody cez okraj. Zástrčka udrží vodu dnu, kým sa neskončí kúpeľ.",
+      "script_da": "Et badekar har en vandhane til varmt og koldt vand og et afløb i bunden. Overløbshullet forhindrer vand i at løbe ud over kanten. En prop holder vandet i, indtil badetiden er forbi.",
+      "images": [
+        "parts.webp",
+        "parts_2.webp",
+        "parts_3.webp"
+      ]
+    },
+    {
+      "id": "safety",
+      "script_en": "Never leave a young child alone in the bath, even for a moment. Test the water with your elbow before getting in. A non-slip mat helps stop slips.",
+      "script_de": "Lassen Sie ein kleines Kind niemals allein in der Badewanne, auch nicht für einen Moment. Testen Sie das Wasser mit Ihrem Ellenbogen, bevor Sie einsteigen. Eine rutschfeste Matte verhindert ein Ausrutschen.",
+      "script_it": "Non lasciare mai un bambino da solo nella vasca da bagno, nemmeno per un momento. Testare l'acqua con il gomito prima di salire. Un tappetino antiscivolo aiuta a evitare gli scivolamenti.",
+      "script_fr": "Ne laissez jamais un jeune enfant seul dans le bain, même un instant. Testez l'eau avec votre coude avant d'y entrer. Un tapis antidérapant aide à arrêter les glissades.",
+      "script_es": "Nunca dejes a un niño pequeño solo en el baño, ni siquiera por un momento. Pruebe el agua con el codo antes de entrar. Una alfombra antideslizante ayuda a evitar resbalones.",
+      "script_hr": "Nikada ne ostavljajte malo dijete samo u kadi, čak ni na trenutak. Isprobajte vodu laktom prije nego što uđete. Neklizajuća prostirka sprječava klizanje.",
+      "script_cs": "Nikdy nenechávejte malé dítě samotné ve vaně, ani na okamžik. Než se dostanete dovnitř, vyzkoušejte vodu loktem. Protiskluzová podložka pomáhá zastavit uklouznutí.",
+      "script_pl": "Nigdy nie zostawiaj małego dziecka samego w wannie, nawet na chwilę. Zanim wejdziesz do środka, sprawdź wodę łokciem. Mata antypoślizgowa pomaga zapobiegać poślizgom.",
+      "script_fi": "Älä koskaan jätä pientä lasta yksin kylpyyn, edes hetkeksi. Testaa vettä kyynärpäällä ennen kuin astut sisään. Liukumaton matto auttaa estämään liukastumisen.",
+      "script_sk": "Nikdy nenechávajte malé dieťa samé vo ​​vani, ani na chvíľu. Pred vstupom si vyskúšajte vodu lakťom. Protišmyková podložka pomáha zastaviť pošmyknutie.",
+      "script_da": "Efterlad aldrig et lille barn alene i badet, heller ikke et øjeblik. Test vandet med albuen, før du stiger ind. En skridsikker måtte hjælper med at stoppe udskridning.",
+      "images": [
+        "safety.webp",
+        "safety_2.webp",
+        "safety_3.webp"
+      ]
+    },
+    {
+      "id": "history",
+      "script_en": "People have bathed for thousands of years. Ancient baths were shared public places. Modern homes have piped hot water, making a warm bath easy and private.",
+      "script_de": "Seit Tausenden von Jahren baden Menschen. Antike Bäder waren gemeinschaftlich genutzte öffentliche Orte. Moderne Häuser verfügen über Warmwasserleitungen, sodass ein warmes Bad einfach und privat ist.",
+      "script_it": "Le persone fanno il bagno da migliaia di anni. Gli antichi bagni erano luoghi pubblici condivisi. Le case moderne dispongono di acqua calda convogliata, rendendo un bagno caldo facile e privato.",
+      "script_fr": "Les gens se baignent depuis des milliers d’années. Les anciens bains étaient des lieux publics partagés. Les maisons modernes disposent d'eau chaude courante, ce qui rend un bain chaud facile et privé.",
+      "script_es": "La gente se ha bañado durante miles de años. Los antiguos baños eran lugares públicos compartidos. Las casas modernas tienen agua caliente por tubería, lo que hace que un baño caliente sea fácil y privado.",
+      "script_hr": "Ljudi su se kupali tisućama godina. Drevne kupke bile su zajednička javna mjesta. Moderni domovi imaju toplu vodu u cijevima, što toplu kupku čini jednostavnom i privatnom.",
+      "script_cs": "Lidé se koupali po tisíce let. Starověké lázně byly sdílenými veřejnými místy. Moderní domy mají teplou vodu, takže teplá koupel je snadná a soukromá.",
+      "script_pl": "Ludzie kąpali się od tysięcy lat. Starożytne łaźnie były współdzielonymi miejscami publicznymi. Nowoczesne domy są wyposażone w instalację ciepłej wody, dzięki czemu ciepła kąpiel jest łatwa i prywatna.",
+      "script_fi": "Ihmiset ovat kylpeneet tuhansia vuosia. Muinaiset kylpylät olivat yhteisiä julkisia paikkoja. Nykyaikaisissa kodeissa on putkitettu kuuma vesi, joten lämmin kylpy on helppoa ja yksityistä.",
+      "script_sk": "Ľudia sa kúpali už tisíce rokov. Staroveké kúpele boli spoločné verejné miesta. Moderné domy majú teplú vodu, vďaka čomu je teplý kúpeľ jednoduchý a súkromný.",
+      "script_da": "Folk har badet i tusinder af år. Gamle bade var fælles offentlige steder. Moderne hjem har varmt vand i rør, hvilket gør et varmt bad nemt og privat.",
+      "images": [
+        "history.webp",
+        "history_2.webp",
+        "history_3.webp"
+      ]
+    },
+    {
+      "id": "care",
+      "script_en": "Clean the bathtub after use and let it dry. Turn off the tap tightly and use only as much water as you need. A short shower can save even more water.",
+      "script_de": "Reinigen Sie die Badewanne nach Gebrauch und lassen Sie sie trocknen. Drehen Sie den Wasserhahn fest zu und verwenden Sie nur so viel Wasser, wie Sie benötigen. Eine kurze Dusche kann noch mehr Wasser sparen.",
+      "script_it": "Pulisci la vasca dopo l'uso e lasciala asciugare. Chiudi bene il rubinetto e usa solo la quantità di acqua necessaria. Una doccia breve può far risparmiare ancora più acqua.",
+      "script_fr": "Nettoyez la baignoire après utilisation et laissez-la sécher. Fermez bien le robinet et utilisez uniquement la quantité d’eau dont vous avez besoin. Une courte douche peut économiser encore plus d’eau.",
+      "script_es": "Limpiar la bañera después de su uso y dejar secar. Cierra bien el grifo y utiliza sólo la cantidad de agua que necesites. Una ducha breve puede ahorrar aún más agua.",
+      "script_hr": "Očistite kadu nakon upotrebe i pustite da se osuši. Čvrsto zatvorite slavinu i koristite samo onoliko vode koliko vam je potrebno. Kratko tuširanje može uštedjeti još više vode.",
+      "script_cs": "Po použití vanu vyčistěte a nechte vyschnout. Pevně ​​uzavřete kohoutek a použijte pouze tolik vody, kolik potřebujete. Krátká sprcha může ušetřit ještě více vody.",
+      "script_pl": "Po użyciu wyczyść wannę i pozostaw ją do wyschnięcia. Zakręć szczelnie kran i używaj tylko takiej ilości wody, jaką potrzebujesz. Krótki prysznic może zaoszczędzić jeszcze więcej wody.",
+      "script_fi": "Puhdista kylpyamme käytön jälkeen ja anna sen kuivua. Sulje hana tiukasti ja käytä vain niin paljon vettä kuin tarvitset. Lyhyt suihku voi säästää vielä enemmän vettä.",
+      "script_sk": "Po použití vaňu očistite a nechajte vyschnúť. Pevne zatvorte kohútik a použite len toľko vody, koľko potrebujete. Krátka sprcha môže ušetriť ešte viac vody.",
+      "script_da": "Rengør badekarret efter brug og lad det tørre. Luk for hanen tæt og brug kun så meget vand, som du har brug for. Et kort brusebad kan spare endnu mere vand.",
+      "images": [
+        "care.webp",
+        "care_2.webp",
+        "care_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "what",
+      "correct": "washing",
+      "question_en": "What is a bathtub used for?",
+      "question_de": "Wozu dient eine Badewanne?",
+      "question_it": "A cosa serve la vasca da bagno?",
+      "question_fr": "A quoi sert une baignoire ?",
+      "question_es": "¿Para qué se utiliza una bañera?",
+      "question_hr": "Čemu služi kada?",
+      "question_cs": "K čemu vana slouží?",
+      "question_pl": "Do czego służy wanna?",
+      "question_fi": "Mihin kylpyammetta käytetään?",
+      "question_sk": "Na čo slúži vaňa?",
+      "question_da": "Hvad bruges et badekar til?",
+      "options": [
+        {
+          "id": "washing",
+          "label_en": "Washing and bathing",
+          "label_de": "Waschen und Baden",
+          "label_it": "Lavarsi e fare il bagno",
+          "label_fr": "Se laver et se baigner",
+          "label_es": "lavarse y bañarse",
+          "label_hr": "Pranje i kupanje",
+          "label_cs": "Mytí a koupání",
+          "label_pl": "Mycie i kąpiel",
+          "label_fi": "Pesu ja kylpeminen",
+          "label_sk": "Umývanie a kúpanie",
+          "label_da": "Vask og bad"
+        },
+        {
+          "id": "cooking",
+          "label_en": "Cooking",
+          "label_de": "Kochen",
+          "label_it": "Cucina",
+          "label_fr": "Cuisson",
+          "label_es": "Cocinando",
+          "label_hr": "Kuhanje",
+          "label_cs": "Vaření",
+          "label_pl": "Gotowanie",
+          "label_fi": "Ruoanlaitto",
+          "label_sk": "Varenie",
+          "label_da": "Madlavning"
+        },
+        {
+          "id": "sleeping",
+          "label_en": "Sleeping",
+          "label_de": "Schlafen",
+          "label_it": "Dormire",
+          "label_fr": "Dormir",
+          "label_es": "Durmiendo",
+          "label_hr": "Spavanje",
+          "label_cs": "Spací",
+          "label_pl": "Spanie",
+          "label_fi": "Nukkuminen",
+          "label_sk": "Spanie",
+          "label_da": "Sovende"
+        }
+      ]
+    },
+    {
+      "id": "safe",
+      "correct": "adult",
+      "question_en": "Who should stay with a young child in the bath?",
+      "question_de": "Wer sollte mit einem kleinen Kind im Bad bleiben?",
+      "question_it": "Chi dovrebbe stare con un bambino piccolo nella vasca da bagno?",
+      "question_fr": "Qui doit rester avec un jeune enfant dans le bain ?",
+      "question_es": "¿Quién debería quedarse con un niño pequeño en el baño?",
+      "question_hr": "Tko bi trebao ostati s malim djetetom u kadi?",
+      "question_cs": "Kdo by měl zůstat s malým dítětem ve vaně?",
+      "question_pl": "Kto powinien przebywać z małym dzieckiem w wannie?",
+      "question_fi": "Kenen tulisi jäädä pienen lapsen kanssa kylpyyn?",
+      "question_sk": "Kto by mal zostať s malým dieťaťom vo vani?",
+      "question_da": "Hvem skal bo med et lille barn i badet?",
+      "options": [
+        {
+          "id": "adult",
+          "label_en": "An adult",
+          "label_de": "Ein Erwachsener",
+          "label_it": "Un adulto",
+          "label_fr": "Un adulte",
+          "label_es": "un adulto",
+          "label_hr": "Odrasla osoba",
+          "label_cs": "Dospělý",
+          "label_pl": "Osoba dorosła",
+          "label_fi": "Aikuinen",
+          "label_sk": "Dospelý",
+          "label_da": "En voksen"
+        },
+        {
+          "id": "nobody",
+          "label_en": "Nobody",
+          "label_de": "Niemand",
+          "label_it": "Nessuno",
+          "label_fr": "Personne",
+          "label_es": "Nadie",
+          "label_hr": "Nitko",
+          "label_cs": "Nikdo",
+          "label_pl": "Nikt",
+          "label_fi": "Ei kukaan",
+          "label_sk": "Nikto",
+          "label_da": "Ingen"
+        },
+        {
+          "id": "pet",
+          "label_en": "A pet",
+          "label_de": "Ein Haustier",
+          "label_it": "Un animale domestico",
+          "label_fr": "Un animal de compagnie",
+          "label_es": "una mascota",
+          "label_hr": "Kućni ljubimac",
+          "label_cs": "Domácí mazlíček",
+          "label_pl": "Zwierzę",
+          "label_fi": "Lemmikki",
+          "label_sk": "Domáce zvieratko",
+          "label_da": "Et kæledyr"
+        }
+      ]
+    },
+    {
+      "id": "drain",
+      "correct": "drain",
+      "question_en": "What lets the water out of a bathtub?",
+      "question_de": "Was lässt das Wasser aus einer Badewanne ab?",
+      "question_it": "Cosa fa uscire l'acqua da una vasca da bagno?",
+      "question_fr": "Qu'est-ce qui laisse sortir l'eau d'une baignoire ?",
+      "question_es": "¿Qué deja salir el agua de una bañera?",
+      "question_hr": "Što propušta vodu iz kade?",
+      "question_cs": "Co vypouští vodu z vany?",
+      "question_pl": "Co wypuszcza wodę z wanny?",
+      "question_fi": "Mikä päästää veden pois kylpyammeesta?",
+      "question_sk": "Čo vypúšťa vodu z vane?",
+      "question_da": "Hvad slipper vandet ud af et badekar?",
+      "options": [
+        {
+          "id": "drain",
+          "label_en": "The drain",
+          "label_de": "Der Abfluss",
+          "label_it": "Lo scarico",
+          "label_fr": "La vidange",
+          "label_es": "el drenaje",
+          "label_hr": "Odvod",
+          "label_cs": "Odtok",
+          "label_pl": "Odpływ",
+          "label_fi": "Viemäri",
+          "label_sk": "Odtok",
+          "label_da": "Afløbet"
+        },
+        {
+          "id": "faucet",
+          "label_en": "The faucet",
+          "label_de": "Der Wasserhahn",
+          "label_it": "Il rubinetto",
+          "label_fr": "Le robinet",
+          "label_es": "el grifo",
+          "label_hr": "Slavina",
+          "label_cs": "Kohoutek",
+          "label_pl": "Kran",
+          "label_fi": "Hana",
+          "label_sk": "Kohútik",
+          "label_da": "Vandhanen"
+        },
+        {
+          "id": "plug",
+          "label_en": "The plug",
+          "label_de": "Der Stecker",
+          "label_it": "La spina",
+          "label_fr": "La fiche",
+          "label_es": "el enchufe",
+          "label_hr": "Utikač",
+          "label_cs": "Zástrčka",
+          "label_pl": "Wtyczka",
+          "label_fi": "Pistoke",
+          "label_sk": "Zástrčka",
+          "label_da": "Stikket"
+        }
+      ]
+    }
+  ]
+}

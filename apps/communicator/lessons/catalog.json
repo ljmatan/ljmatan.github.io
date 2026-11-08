@@ -1072,6 +1072,27 @@
       "title_da": "Vandmelon"
     },
     {
+      "id": "bathtub",
+      "category_id": "household",
+      "symbol_id": "bathtub",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/bathtub/bathtub_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/bathtub/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2060218,
+      "version": 1,
+      "title_en": "Bathtubs",
+      "title_de": "Badewannen",
+      "title_it": "Vasche da bagno",
+      "title_fr": "Baignoires",
+      "title_es": "Bañeras",
+      "title_hr": "Kade za kupanje",
+      "title_cs": "Vany",
+      "title_pl": "Wanny",
+      "title_fi": "Kylpyammeet",
+      "title_sk": "Vane",
+      "title_da": "Badekar"
+    },
+    {
       "id": "bed",
       "category_id": "household",
       "symbol_id": "bed",
