@@ -1,0 +1,293 @@
+{
+  "id": "sun",
+  "category_id": "planets",
+  "symbol_id": "sun",
+  "thumbnail": "sun_thumb.webp",
+  "title_en": "The Sun",
+  "title_de": "Die Sonne",
+  "title_it": "Il Sole",
+  "title_fr": "Le Soleil",
+  "title_es": "El Sol",
+  "title_hr": "Sunce",
+  "title_cs": "Slunce",
+  "title_pl": "Słońce",
+  "title_fi": "Aurinko",
+  "title_sk": "Slnko",
+  "title_da": "Solen",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about the Sun. The Sun is the star at the centre of our solar system. It gives Earth the light and heat that plants, animals, and people need to live.",
+      "script_de": "Heute lernen wir etwas über die Sonne. Die Sonne ist der Stern im Zentrum unseres Sonnensystems. Sie gibt der Erde das Licht und die Wärme, die Pflanzen, Tiere und Menschen zum Leben brauchen.",
+      "script_it": "Oggi impareremo a conoscere il Sole. Il Sole è la stella al centro del nostro sistema solare. Dà alla Terra la luce e il calore di cui piante, animali e persone hanno bisogno per vivere.",
+      "script_fr": "Aujourd'hui, nous allons découvrir le Soleil. Le Soleil est l'étoile au centre de notre système solaire. Il donne à la Terre la lumière et la chaleur dont les plantes, les animaux et les personnes ont besoin pour vivre.",
+      "script_es": "Hoy vamos a aprender sobre el Sol. El Sol es la estrella en el centro de nuestro sistema solar. Da a la Tierra la luz y el calor que las plantas, los animales y las personas necesitan para vivir.",
+      "script_hr": "Danas ćemo učiti o Suncu. Sunce je zvijezda u središtu našeg Sunčevog sustava. Daje Zemlji svjetlost i toplinu koje biljke, životinje i ljudi trebaju za život.",
+      "script_cs": "Dnes se budeme učit o Slunci. Slunce je hvězda ve středu naší sluneční soustavy. Dává Zemi světlo a teplo, které rostliny, zvířata a lidé potřebují k životu.",
+      "script_pl": "Dziś dowiemy się czegoś o Słońcu. Słońce to gwiazda w centrum naszego Układu Słonecznego. Daje Ziemi światło i ciepło, których rośliny, zwierzęta i ludzie potrzebują do życia.",
+      "script_fi": "Tänään opimme Auringosta. Aurinko on tähti aurinkokuntamme keskellä. Se antaa Maalle valon ja lämmön, joita kasvit, eläimet ja ihmiset tarvitsevat elääkseen.",
+      "script_sk": "Dnes sa budeme učiť o Slnku. Slnko je hviezda v strede našej slnečnej sústavy. Dáva Zemi svetlo a teplo, ktoré rastliny, zvieratá a ľudia potrebujú na život.",
+      "script_da": "I dag skal vi lære om Solen. Solen er stjernen i midten af vores solsystem. Den giver Jorden det lys og den varme, som planter, dyr og mennesker har brug for at leve.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "star",
+      "script_en": "The Sun is a huge ball of hot gas, mostly hydrogen and helium. It is so large that more than a million Earths could fit inside it. It looks small only because it is very far away.",
+      "script_de": "Die Sonne ist eine riesige Kugel aus heißem Gas, hauptsächlich Wasserstoff und Helium. Sie ist so groß, dass mehr als eine Million Erden hineinpassen würden. Sie wirkt nur klein, weil sie sehr weit entfernt ist.",
+      "script_it": "Il Sole è un'enorme palla di gas caldo, soprattutto idrogeno ed elio. È così grande che più di un milione di Terre potrebbero entrarci dentro. Sembra piccolo solo perché è molto lontano.",
+      "script_fr": "Le Soleil est une énorme boule de gaz chaud, principalement de l'hydrogène et de l'hélium. Il est si grand que plus d'un million de Terres pourraient y tenir. Il paraît petit seulement parce qu'il est très loin.",
+      "script_es": "El Sol es una enorme bola de gas caliente, sobre todo hidrógeno y helio. Es tan grande que más de un millón de Tierras cabrían dentro. Parece pequeño solo porque está muy lejos.",
+      "script_hr": "Sunce je golema lopta vrućeg plina, uglavnom vodika i helija. Toliko je veliko da bi unutar njega stalo više od milijun Zemalja. Izgleda malo samo zato što je vrlo daleko.",
+      "script_cs": "Slunce je obrovská koule horkého plynu, především vodíku a helia. Je tak velké, že by se do něj vešlo více než milion Zemí. Zdá se malé jen proto, že je velmi daleko.",
+      "script_pl": "Słońce to ogromna kula gorącego gazu, głównie wodoru i helu. Jest tak duże, że zmieściłoby się w nim ponad milion Ziem. Wydaje się małe tylko dlatego, że jest bardzo daleko.",
+      "script_fi": "Aurinko on valtava kuuma kaasupallo, pääasiassa vetyä ja heliumia. Se on niin suuri, että sen sisään mahtuisi yli miljoona Maata. Se näyttää pieneltä vain siksi, että on hyvin kaukana.",
+      "script_sk": "Slnko je obrovská guľa horúceho plynu, najmä vodíka a hélia. Je také veľké, že by sa doň zmestilo viac ako milión Zemí. Zdá sa malé len preto, že je veľmi ďaleko.",
+      "script_da": "Solen er en kæmpe kugle af varm gas, mest brint og helium. Den er så stor, at mere end en million Jorde kunne være indeni. Den ser kun lille ud, fordi den er meget langt væk.",
+      "images": [
+        "star.webp",
+        "star_2.webp",
+        "star_3.webp"
+      ]
+    },
+    {
+      "id": "energy",
+      "script_en": "The Sun's energy powers the water cycle and helps plants grow. People also collect sunlight with solar panels to make electricity. Without the Sun, Earth would be cold and dark.",
+      "script_de": "Die Energie der Sonne treibt den Wasserkreislauf an und hilft Pflanzen zu wachsen. Menschen sammeln Sonnenlicht auch mit Solarzellen, um Strom zu erzeugen. Ohne die Sonne wäre die Erde kalt und dunkel.",
+      "script_it": "L'energia del Sole alimenta il ciclo dell'acqua e aiuta le piante a crescere. Le persone raccolgono anche la luce solare con i pannelli solari per produrre elettricità. Senza il Sole, la Terra sarebbe fredda e buia.",
+      "script_fr": "L'énergie du Soleil alimente le cycle de l'eau et aide les plantes à pousser. Les gens captent aussi la lumière du soleil avec des panneaux solaires pour produire de l'électricité. Sans le Soleil, la Terre serait froide et sombre.",
+      "script_es": "La energía del Sol impulsa el ciclo del agua y ayuda a crecer a las plantas. Las personas también recogen la luz solar con paneles solares para producir electricidad. Sin el Sol, la Tierra sería fría y oscura.",
+      "script_hr": "Sunčeva energija pokreće kruženje vode i pomaže biljkama rasti. Ljudi također skupljaju sunčevu svjetlost solarnim pločama kako bi proizveli struju. Bez Sunca bi Zemlja bila hladna i mračna.",
+      "script_cs": "Sluneční energie pohání koloběh vody a pomáhá rostlinám růst. Lidé také zachycují sluneční světlo solárními panely a vyrábějí elektřinu. Bez Slunce by byla Země studená a temná.",
+      "script_pl": "Energia Słońca napędza obieg wody i pomaga roślinom rosnąć. Ludzie zbierają też światło słoneczne za pomocą paneli słonecznych, aby wytwarzać prąd. Bez Słońca Ziemia byłaby zimna i ciemna.",
+      "script_fi": "Auringon energia pyörittää veden kiertokulkua ja auttaa kasveja kasvamaan. Ihmiset keräävät auringonvaloa myös aurinkopaneeleilla sähkön tuottamiseen. Ilman Aurinkoa Maa olisi kylmä ja pimeä.",
+      "script_sk": "Slnečná energia poháňa kolobeh vody a pomáha rastlinám rásť. Ľudia tiež zachytávajú slnečné svetlo solárnymi panelmi a vyrábajú elektrinu. Bez Slnka by bola Zem studená a tmavá.",
+      "script_da": "Solens energi driver vandets kredsløb og hjælper planterne med at vokse. Folk opsamler også sollys med solpaneler for at lave elektricitet. Uden Solen ville Jorden være kold og mørk.",
+      "images": [
+        "energy.webp",
+        "energy_2.webp",
+        "energy_3.webp"
+      ]
+    },
+    {
+      "id": "space_weather",
+      "script_en": "Sometimes the Sun sends out bursts of energy called solar flares. They can create beautiful auroras near Earth's poles. They can also disturb satellites and radio signals, so scientists watch the Sun closely.",
+      "script_de": "Manchmal sendet die Sonne Energiestöße aus, die Sonneneruptionen genannt werden. Sie können wunderschöne Polarlichter in der Nähe der Erdpole erzeugen. Sie können auch Satelliten und Funksignale stören, deshalb beobachten Wissenschaftler die Sonne genau.",
+      "script_it": "A volte il Sole emette impulsi di energia chiamati brillamenti solari. Possono creare bellissime aurore vicino ai poli terrestri. Possono anche disturbare satelliti e segnali radio, perciò gli scienziati osservano il Sole da vicino.",
+      "script_fr": "Parfois, le Soleil émet des bouffées d'énergie appelées éruptions solaires. Elles peuvent créer de magnifiques aurores près des pôles terrestres. Elles peuvent aussi perturber les satellites et les signaux radio, c'est pourquoi les scientifiques surveillent le Soleil de près.",
+      "script_es": "A veces el Sol emite ráfagas de energía llamadas erupciones solares. Pueden crear hermosas auroras cerca de los polos de la Tierra. También pueden alterar satélites y señales de radio, por eso los científicos observan el Sol de cerca.",
+      "script_hr": "Ponekad Sunce šalje izboje energije zvane sunčeve erupcije. Mogu stvoriti prekrasne polarne svjetlosti blizu Zemljinih polova. Mogu i ometati satelite i radijske signale, pa znanstvenici pažljivo promatraju Sunce.",
+      "script_cs": "Někdy Slunce vysílá záblesky energie zvané sluneční erupce. Mohou vytvářet krásné polární záře poblíž zemských pólů. Mohou také rušit satelity a rádiové signály, a proto vědci Slunce pečlivě sledují.",
+      "script_pl": "Czasami Słońce wysyła wybuchy energii zwane rozbłyskami słonecznymi. Mogą tworzyć piękne zorze polarne w pobliżu biegunów Ziemi. Mogą też zakłócać satelity i sygnały radiowe, dlatego naukowcy uważnie obserwują Słońce.",
+      "script_fi": "Joskus Aurinko lähettää energiapurkauksia, joita kutsutaan auringonpurkauksiksi. Ne voivat luoda kauniita revontulia lähelle Maan napoja. Ne voivat myös häiritä satelliitteja ja radiosignaaleja, joten tutkijat seuraavat Aurinkoa tarkasti.",
+      "script_sk": "Niekedy Slnko vysiela záblesky energie nazývané slnečné erupcie. Môžu vytvárať krásne polárne žiary blízko zemských pólov. Môžu tiež rušiť satelity a rádiové signály, a preto vedci Slnko pozorne sledujú.",
+      "script_da": "Nogle gange sender Solen energistød ud, som kaldes soludbrud. De kan skabe smukke nordlys nær Jordens poler. De kan også forstyrre satellitter og radiosignaler, så forskerne holder nøje øje med Solen.",
+      "images": [
+        "space_weather.webp",
+        "space_weather_2.webp",
+        "space_weather_3.webp"
+      ]
+    },
+    {
+      "id": "safe",
+      "script_en": "The Sun is powerful, so we need to be careful. Sunscreen, a hat, and shade protect our skin on bright days. Never look directly at the Sun, because it can hurt your eyes.",
+      "script_de": "Die Sonne ist stark, deshalb müssen wir vorsichtig sein. Sonnencreme, ein Hut und Schatten schützen unsere Haut an hellen Tagen. Schau niemals direkt in die Sonne, denn das kann deinen Augen schaden.",
+      "script_it": "Il Sole è potente, quindi dobbiamo stare attenti. La crema solare, un cappello e l'ombra proteggono la pelle nelle giornate luminose. Non guardare mai direttamente il Sole, perché può danneggiare gli occhi.",
+      "script_fr": "Le Soleil est puissant, alors il faut être prudent. La crème solaire, un chapeau et l'ombre protègent notre peau les jours ensoleillés. Ne regarde jamais directement le Soleil, car cela peut abîmer tes yeux.",
+      "script_es": "El Sol es potente, así que debemos tener cuidado. La crema solar, un sombrero y la sombra protegen nuestra piel en los días luminosos. Nunca mires directamente al Sol, porque puede dañar tus ojos.",
+      "script_hr": "Sunce je snažno, pa moramo biti oprezni. Krema za sunčanje, šešir i sjena štite našu kožu u svijetlim danima. Nikada ne gledajte izravno u Sunce jer može ozlijediti oči.",
+      "script_cs": "Slunce je silné, takže musíme být opatrní. Opalovací krém, klobouk a stín chrání naši kůži ve slunečných dnech. Nikdy se nedívej přímo do Slunce, protože by ti mohlo poškodit oči.",
+      "script_pl": "Słońce jest potężne, więc musimy być ostrożni. Krem z filtrem, kapelusz i cień chronią naszą skórę w słoneczne dni. Nigdy nie patrz bezpośrednio na Słońce, bo może uszkodzić wzrok.",
+      "script_fi": "Aurinko on voimakas, joten meidän on oltava varovaisia. Aurinkovoide, hattu ja varjo suojaavat ihoamme aurinkoisina päivinä. Älä koskaan katso suoraan Aurinkoon, sillä se voi vahingoittaa silmiäsi.",
+      "script_sk": "Slnko je silné, takže musíme byť opatrní. Opakový krém, klobúk a tieň chránia našu kožu v slnečných dňoch. Nikdy sa nepozeraj priamo do Slnka, pretože by ti mohlo poškodiť oči.",
+      "script_da": "Solen er stærk, så vi skal være forsigtige. Solcreme, en hat og skygge beskytter vores hud på lyse dage. Se aldrig direkte på Solen, for det kan skade dine øjne.",
+      "images": [
+        "safe.webp",
+        "safe_2.webp",
+        "safe_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "what",
+      "correct": "star",
+      "question_en": "What is the Sun?",
+      "question_de": "Was ist die Sonne?",
+      "question_it": "Che cos'è il Sole?",
+      "question_fr": "Qu'est-ce que le Soleil ?",
+      "question_es": "¿Qué es el Sol?",
+      "question_hr": "Što je Sunce?",
+      "question_cs": "Co je Slunce?",
+      "question_pl": "Czym jest Słońce?",
+      "question_fi": "Mikä Aurinko on?",
+      "question_sk": "Čo je Slnko?",
+      "question_da": "Hvad er Solen?",
+      "options": [
+        {
+          "id": "star",
+          "label_en": "A star",
+          "label_de": "Ein Stern",
+          "label_it": "Una stella",
+          "label_fr": "Une étoile",
+          "label_es": "Una estrella",
+          "label_hr": "Zvijezda",
+          "label_cs": "Hvězda",
+          "label_pl": "Gwiazdą",
+          "label_fi": "Tähti",
+          "label_sk": "Hviezda",
+          "label_da": "En stjerne"
+        },
+        {
+          "id": "planet",
+          "label_en": "A planet",
+          "label_de": "Ein Planet",
+          "label_it": "Un pianeta",
+          "label_fr": "Une planète",
+          "label_es": "Un planeta",
+          "label_hr": "Planet",
+          "label_cs": "Planeta",
+          "label_pl": "Planetą",
+          "label_fi": "Planeetta",
+          "label_sk": "Planéta",
+          "label_da": "En planet"
+        },
+        {
+          "id": "moon",
+          "label_en": "A moon",
+          "label_de": "Ein Mond",
+          "label_it": "Una luna",
+          "label_fr": "Une lune",
+          "label_es": "Una luna",
+          "label_hr": "Mjesec",
+          "label_cs": "Měsíc",
+          "label_pl": "Księżycem",
+          "label_fi": "Kuu",
+          "label_sk": "Mesiac",
+          "label_da": "En måne"
+        }
+      ]
+    },
+    {
+      "id": "energy",
+      "correct": "light",
+      "question_en": "What does the Sun give Earth?",
+      "question_de": "Was gibt die Sonne der Erde?",
+      "question_it": "Cosa dà il Sole alla Terra?",
+      "question_fr": "Que donne le Soleil à la Terre ?",
+      "question_es": "¿Qué da el Sol a la Tierra?",
+      "question_hr": "Što Sunce daje Zemlji?",
+      "question_cs": "Co dává Slunce Zemi?",
+      "question_pl": "Co Słońce daje Ziemi?",
+      "question_fi": "Mitä Aurinko antaa Maalle?",
+      "question_sk": "Čo dáva Slnko Zemi?",
+      "question_da": "Hvad giver Solen Jorden?",
+      "options": [
+        {
+          "id": "light",
+          "label_en": "Light and heat",
+          "label_de": "Licht und Wärme",
+          "label_it": "Luce e calore",
+          "label_fr": "De la lumière et de la chaleur",
+          "label_es": "Luz y calor",
+          "label_hr": "Svjetlost i toplinu",
+          "label_cs": "Světlo a teplo",
+          "label_pl": "Światło i ciepło",
+          "label_fi": "Valoa ja lämpöä",
+          "label_sk": "Svetlo a teplo",
+          "label_da": "Lys og varme"
+        },
+        {
+          "id": "water",
+          "label_en": "Water only",
+          "label_de": "Nur Wasser",
+          "label_it": "Solo acqua",
+          "label_fr": "Seulement de l'eau",
+          "label_es": "Solo agua",
+          "label_hr": "Samo vodu",
+          "label_cs": "Jen vodu",
+          "label_pl": "Tylko wodę",
+          "label_fi": "Vain vettä",
+          "label_sk": "Len vodu",
+          "label_da": "Kun vand"
+        },
+        {
+          "id": "rock",
+          "label_en": "Rocks",
+          "label_de": "Steine",
+          "label_it": "Rocce",
+          "label_fr": "Des roches",
+          "label_es": "Rocas",
+          "label_hr": "Kamenje",
+          "label_cs": "Kameny",
+          "label_pl": "Skały",
+          "label_fi": "Kiviä",
+          "label_sk": "Kamene",
+          "label_da": "Sten"
+        }
+      ]
+    },
+    {
+      "id": "safe",
+      "correct": "sunscreen",
+      "question_en": "How can you protect your skin in the Sun?",
+      "question_de": "Wie kannst du deine Haut in der Sonne schützen?",
+      "question_it": "Come puoi proteggere la pelle dal Sole?",
+      "question_fr": "Comment protéger ta peau du Soleil ?",
+      "question_es": "¿Cómo puedes proteger tu piel del Sol?",
+      "question_hr": "Kako možete zaštititi kožu na suncu?",
+      "question_cs": "Jak můžeš chránit kůži před Sluncem?",
+      "question_pl": "Jak możesz chronić skórę przed Słońcem?",
+      "question_fi": "Miten voit suojata ihoasi auringolta?",
+      "question_sk": "Ako môžeš chrániť kožu pred Slnkom?",
+      "question_da": "Hvordan kan du beskytte din hud i Solen?",
+      "options": [
+        {
+          "id": "sunscreen",
+          "label_en": "Wear sunscreen and a hat",
+          "label_de": "Sonnencreme und einen Hut tragen",
+          "label_it": "Usare la crema solare e un cappello",
+          "label_fr": "Mettre de la crème solaire et un chapeau",
+          "label_es": "Usar crema solar y un sombrero",
+          "label_hr": "Nosite kremu za sunčanje i šešir",
+          "label_cs": "Nosit opalovací krém a klobouk",
+          "label_pl": "Nosić krem z filtrem i kapelusz",
+          "label_fi": "Käytä aurinkovoidetta ja hattua",
+          "label_sk": "Nosiť opakový krém a klobúk",
+          "label_da": "Bruge solcreme og en hat"
+        },
+        {
+          "id": "coat",
+          "label_en": "Wear a winter coat",
+          "label_de": "Einen Wintermantel tragen",
+          "label_it": "Indossare un cappotto invernale",
+          "label_fr": "Mettre un manteau d'hiver",
+          "label_es": "Usar un abrigo de invierno",
+          "label_hr": "Nosite zimski kaput",
+          "label_cs": "Nosit zimní kabát",
+          "label_pl": "Nosić zimowy płaszcz",
+          "label_fi": "Käytä talvitakkia",
+          "label_sk": "Nosiť zimný kabát",
+          "label_da": "Tage en vinterfrakke på"
+        },
+        {
+          "id": "run",
+          "label_en": "Run very fast",
+          "label_de": "Sehr schnell rennen",
+          "label_it": "Correre molto veloce",
+          "label_fr": "Courir très vite",
+          "label_es": "Correr muy rápido",
+          "label_hr": "Trčite vrlo brzo",
+          "label_cs": "Běhat velmi rychle",
+          "label_pl": "Biegać bardzo szybko",
+          "label_fi": "Juokse hyvin nopeasti",
+          "label_sk": "Bežať veľmi rýchlo",
+          "label_da": "Løbe meget hurtigt"
+        }
+      ]
+    }
+  ]
+}

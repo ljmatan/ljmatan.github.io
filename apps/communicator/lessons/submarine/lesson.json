@@ -1,0 +1,293 @@
+{
+  "id": "submarine",
+  "category_id": "transport",
+  "symbol_id": "submarine",
+  "thumbnail": "submarine_thumb.webp",
+  "title_en": "Submarines",
+  "title_de": "U-Boote",
+  "title_it": "Sottomarini",
+  "title_fr": "Sous-marins",
+  "title_es": "submarinos",
+  "title_hr": "Podmornice",
+  "title_cs": "ponorky",
+  "title_pl": "Okręty podwodne",
+  "title_fi": "Sukellusveneet",
+  "title_sk": "ponorky",
+  "title_da": "Ubåde",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about submarines. A submarine is a boat that can travel underwater. People use submarines to explore the ocean, study sea life, and rescue ships in trouble.",
+      "script_de": "Heute lernen wir etwas über U-Boote. Ein U-Boot ist ein Boot, das unter Wasser fahren kann. Menschen nutzen U-Boote, um den Ozean zu erkunden, das Leben im Meer zu studieren und in Schwierigkeiten geratene Schiffe zu retten.",
+      "script_it": "Oggi parleremo dei sottomarini. Un sottomarino è una barca che può viaggiare sott'acqua. Le persone usano i sottomarini per esplorare l'oceano, studiare la vita marina e salvare le navi in ​​difficoltà.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur les sous-marins. Un sous-marin est un bateau qui peut voyager sous l'eau. Les gens utilisent des sous-marins pour explorer l’océan, étudier la vie marine et sauver les navires en difficulté.",
+      "script_es": "Hoy vamos a aprender sobre los submarinos. Un submarino es un barco que puede viajar bajo el agua. La gente usa submarinos para explorar el océano, estudiar la vida marina y rescatar barcos en problemas.",
+      "script_hr": "Danas ćemo učiti o podmornicama. Podmornica je čamac koji može putovati pod vodom. Ljudi koriste podmornice za istraživanje oceana, proučavanje morskog života i spašavanje brodova u nevolji.",
+      "script_cs": "Dnes se budeme učit o ponorkách. Ponorka je loď, která může cestovat pod vodou. Lidé používají ponorky k průzkumu oceánu, studiu mořského života a záchraně lodí v nesnázích.",
+      "script_pl": "Dziś będziemy uczyć się o łodziach podwodnych. Łódź podwodna to łódź, która może pływać pod wodą. Ludzie używają łodzi podwodnych do eksploracji oceanów, badania życia morskiego i ratowania statków znajdujących się w tarapatach.",
+      "script_fi": "Tänään opimme sukellusveneistä. Sukellusvene on vene, joka voi matkustaa veden alla. Ihmiset käyttävät sukellusveneitä tutkiakseen merta, tutkiakseen meren elämää ja pelastaakseen vaikeuksissa olevia aluksia.",
+      "script_sk": "Dnes sa budeme učiť o ponorkách. Ponorka je loď, ktorá môže cestovať pod vodou. Ľudia používajú ponorky na prieskum oceánov, štúdium morského života a záchranu lodí v problémoch.",
+      "script_da": "I dag skal vi lære om ubåde. En ubåd er en båd, der kan sejle under vandet. Folk bruger ubåde til at udforske havet, studere livet i havet og redde skibe i problemer.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "dive",
+      "script_en": "A submarine dives by filling special tanks with water, which makes it heavy. To rise again, it pushes the water out with air. Strong windows and cameras let the crew see the world below.",
+      "script_de": "Ein U-Boot taucht, indem es spezielle Tanks mit Wasser füllt, wodurch es schwer wird. Um wieder aufzusteigen, drückt es das Wasser mit Luft heraus. Starke Fenster und Kameras ermöglichen es der Crew, die Welt unter sich zu sehen.",
+      "script_it": "Un sottomarino si immerge riempiendo speciali serbatoi d'acqua, il che lo rende pesante. Per risalire spinge fuori l'acqua con l'aria. Finestre e telecamere robuste consentono all'equipaggio di vedere il mondo sottostante.",
+      "script_fr": "Un sous-marin plonge en remplissant des réservoirs spéciaux d’eau, ce qui le rend lourd. Pour remonter, il repousse l'eau avec de l'air. Des fenêtres solides et des caméras permettent à l'équipage de voir le monde ci-dessous.",
+      "script_es": "Un submarino se sumerge llenando tanques especiales con agua, lo que lo hace pesado. Para volver a subir, empuja el agua con aire. Las fuertes ventanas y las cámaras permitieron a la tripulación ver el mundo que había debajo.",
+      "script_hr": "Podmornica roni tako da puni posebne spremnike vodom, što je čini teškom. Da bi se ponovno dignuo, gura vodu van zajedno sa zrakom. Snažni prozori i kamere omogućuju ekipi da vidi svijet ispod.",
+      "script_cs": "Ponorka se potápí naplněním speciálních nádrží vodou, díky čemuž je těžká. Aby se znovu zvedla, vytlačí vodu vzduchem. Silná okna a kamery umožňují posádce vidět svět pod sebou.",
+      "script_pl": "Łódź podwodna nurkuje napełniając wodą specjalne zbiorniki, przez co jest ciężka. Aby ponownie się podnieść, wypycha wodę wraz z powietrzem. Mocne okna i kamery pozwalają załodze zobaczyć świat poniżej.",
+      "script_fi": "Sukellusvene sukeltaa täyttämällä erityisiä säiliöitä vedellä, mikä tekee siitä raskaan. Noustakseen uudelleen se työntää veden ulos ilmalla. Vahvat ikkunat ja kamerat antavat miehistön nähdä alla olevan maailman.",
+      "script_sk": "Ponorka sa potápa naplnením špeciálnych nádrží vodou, vďaka čomu je ťažká. Aby sa opäť zdvihla, vytlačí vodu vzduchom. Silné okná a kamery umožňujú posádke vidieť svet pod sebou.",
+      "script_da": "En ubåd dykker ved at fylde specielle tanke med vand, hvilket gør den tung. For at stige igen skubber den vandet ud med luft. Stærke vinduer og kameraer lader besætningen se verden nedenfor.",
+      "images": [
+        "dive.webp",
+        "dive_2.webp",
+        "dive_3.webp"
+      ]
+    },
+    {
+      "id": "life",
+      "script_en": "Crews can live inside a submarine for weeks. They breathe cleaned air and carry food, water, and fuel. Everyone shares jobs and stays in touch with the surface by radio.",
+      "script_de": "Besatzungen können wochenlang in einem U-Boot leben. Sie atmen gereinigte Luft und transportieren Nahrung, Wasser und Treibstoff. Alle teilen sich ihre Jobs und bleiben per Funk mit der Oberfläche in Kontakt.",
+      "script_it": "Gli equipaggi possono vivere all'interno di un sottomarino per settimane. Respirano aria pulita e trasportano cibo, acqua e carburante. Tutti condividono il lavoro e restano in contatto con la superficie via radio.",
+      "script_fr": "Les équipages peuvent vivre à l’intérieur d’un sous-marin pendant des semaines. Ils respirent de l’air purifié et transportent de la nourriture, de l’eau et du carburant. Tout le monde partage son travail et reste en contact avec la surface par radio.",
+      "script_es": "Las tripulaciones pueden vivir dentro de un submarino durante semanas. Respiran aire limpio y transportan alimentos, agua y combustible. Todos comparten trabajos y se mantienen en contacto con la superficie por radio.",
+      "script_hr": "Posada može živjeti unutar podmornice tjednima. Udišu čisti zrak i nose hranu, vodu i gorivo. Svi dijele poslove i ostaju u vezi s površinom putem radija.",
+      "script_cs": "Posádky mohou žít uvnitř ponorky týdny. Dýchají čistý vzduch a nosí jídlo, vodu a palivo. Každý sdílí práci a zůstává v kontaktu s povrchem prostřednictvím rádia.",
+      "script_pl": "Załoga może spędzić kilka tygodni w łodzi podwodnej. Oddychają oczyszczonym powietrzem i niosą żywność, wodę i paliwo. Wszyscy dzielą się pracą i pozostają w kontakcie z powierzchnią drogą radiową.",
+      "script_fi": "Miehistö voi asua sukellusveneessä viikkoja. He hengittävät puhdasta ilmaa ja kuljettavat ruokaa, vettä ja polttoainetta. Kaikki jakavat työt ja pitävät yhteyttä pintaan radion välityksellä.",
+      "script_sk": "Posádky môžu žiť vo vnútri ponorky celé týždne. Dýchajú čistý vzduch a nosia jedlo, vodu a palivo. Každý zdieľa prácu a zostáva v kontakte s povrchom prostredníctvom rádia.",
+      "script_da": "Besætninger kan bo i en ubåd i ugevis. De indånder renset luft og bærer mad, vand og brændstof. Alle deler job og holder kontakten med overfladen via radio.",
+      "images": [
+        "life.webp",
+        "life_2.webp",
+        "life_3.webp"
+      ]
+    },
+    {
+      "id": "explore",
+      "script_en": "Scientists use submarines to map the seafloor and discover shipwrecks. Small robot submarines can go deeper than people safely can. They send back pictures of strange fish and underwater mountains.",
+      "script_de": "Wissenschaftler nutzen U-Boote, um den Meeresboden zu kartieren und Schiffswracks zu entdecken. Kleine Roboter-U-Boote können tiefer vordringen, als Menschen sicher können. Sie schicken Bilder von seltsamen Fischen und Unterwasserbergen zurück.",
+      "script_it": "Gli scienziati utilizzano i sottomarini per mappare il fondale marino e scoprire i relitti. Piccoli sottomarini robot possono andare più in profondità di quanto possano fare le persone in sicurezza. Rimandano immagini di strani pesci e montagne sottomarine.",
+      "script_fr": "Les scientifiques utilisent des sous-marins pour cartographier les fonds marins et découvrir des épaves. Les petits sous-marins robots peuvent aller plus profondément que les humains ne le peuvent en toute sécurité. Ils renvoient des photos de poissons étranges et de montagnes sous-marines.",
+      "script_es": "Los científicos utilizan submarinos para mapear el fondo marino y descubrir naufragios. Los pequeños robots submarinos pueden profundizar más de lo que pueden llegar las personas con seguridad. Envían fotografías de peces extraños y montañas submarinas.",
+      "script_hr": "Znanstvenici koriste podmornice za mapiranje morskog dna i otkrivanje olupina brodova. Male robotske podmornice mogu ići dublje nego što ljudi mogu sigurno. Šalju slike čudnih riba i podvodnih planina.",
+      "script_cs": "Vědci pomocí ponorek mapují mořské dno a objevují vraky lodí. Malé robotické ponorky mohou jít hlouběji než lidé bezpečně. Posílají zpět obrázky podivných ryb a podvodních hor.",
+      "script_pl": "Naukowcy wykorzystują łodzie podwodne do mapowania dna morskiego i odkrywania wraków statków. Małe łodzie podwodne-roboty mogą zejść głębiej niż ludzie. Przesyłają zdjęcia dziwnych ryb i podwodnych gór.",
+      "script_fi": "Tutkijat käyttävät sukellusveneitä kartoittaakseen merenpohjaa ja löytääkseen haaksirikkoja. Pienet robottisukellusveneet voivat mennä syvemmälle kuin ihmiset turvallisesti. He lähettävät takaisin kuvia oudoista kaloista ja vedenalaisista vuorista.",
+      "script_sk": "Vedci používajú ponorky na mapovanie morského dna a objavovanie vrakov lodí. Malé robotické ponorky môžu ísť hlbšie ako ľudia bezpečne. Posielajú späť obrázky zvláštnych rýb a podmorských hôr.",
+      "script_da": "Forskere bruger ubåde til at kortlægge havbunden og opdage skibsvrag. Små robotubåde kan gå dybere, end folk sikkert kan. De sender billeder tilbage af mærkelige fisk og undersøiske bjerge.",
+      "images": [
+        "explore.webp",
+        "explore_2.webp",
+        "explore_3.webp"
+      ]
+    },
+    {
+      "id": "today",
+      "script_en": "Today submarines help us understand the ocean and protect it. They are quiet, strong, and built to travel far. The deep sea is still one of the least explored places on Earth.",
+      "script_de": "Heute helfen uns U-Boote, den Ozean zu verstehen und ihn zu schützen. Sie sind leise, stark und für weite Reisen gebaut. Die Tiefsee ist immer noch einer der am wenigsten erforschten Orte der Erde.",
+      "script_it": "Oggi i sottomarini ci aiutano a comprendere l’oceano e a proteggerlo. Sono silenziosi, forti e costruiti per viaggiare lontano. Il mare profondo è ancora uno dei luoghi meno esplorati della Terra.",
+      "script_fr": "Aujourd’hui, les sous-marins nous aident à comprendre l’océan et à le protéger. Ils sont silencieux, solides et construits pour voyager loin. Les fonds marins restent l’un des endroits les moins explorés de la planète.",
+      "script_es": "Hoy los submarinos nos ayudan a comprender el océano y protegerlo. Son silenciosos, fuertes y están hechos para viajar lejos. Las profundidades marinas siguen siendo uno de los lugares menos explorados de la Tierra.",
+      "script_hr": "Danas nam podmornice pomažu razumjeti ocean i zaštititi ga. Oni su tihi, snažni i izgrađeni da putuju daleko. Duboka mora još uvijek su jedno od najmanje istraženih mjesta na Zemlji.",
+      "script_cs": "Dnes nám ponorky pomáhají porozumět oceánu a chránit ho. Jsou tiché, silné a stavěné na cesty daleko. Hluboké moře je stále jedním z nejméně prozkoumaných míst na Zemi.",
+      "script_pl": "Dziś łodzie podwodne pomagają nam zrozumieć ocean i chronić go. Są ciche, mocne i zbudowane tak, aby mogły podróżować na duże odległości. Głębiny morskie są nadal jednym z najmniej zbadanych miejsc na Ziemi.",
+      "script_fi": "Nykyään sukellusveneet auttavat meitä ymmärtämään merta ja suojelemaan sitä. Ne ovat hiljaisia, vahvoja ja suunniteltu matkustamaan kauas. Syvämeri on edelleen yksi vähiten tutkituista paikoista maapallolla.",
+      "script_sk": "Dnes nám ponorky pomáhajú pochopiť oceán a chrániť ho. Sú tiché, silné a postavené na cestovanie ďaleko. Hlboké more je stále jedným z najmenej preskúmaných miest na Zemi.",
+      "script_da": "I dag hjælper ubåde os med at forstå havet og beskytte det. De er stille, stærke og bygget til at rejse langt. Det dybe hav er stadig et af de mindst udforskede steder på Jorden.",
+      "images": [
+        "today.webp",
+        "today_2.webp",
+        "today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "where",
+      "correct": "underwater",
+      "question_en": "Where does a submarine travel?",
+      "question_de": "Wohin reist ein U-Boot?",
+      "question_it": "Dove viaggia un sottomarino?",
+      "question_fr": "Où voyage un sous-marin ?",
+      "question_es": "¿Adónde viaja un submarino?",
+      "question_hr": "Kamo putuje podmornica?",
+      "question_cs": "Kam se plaví ponorka?",
+      "question_pl": "Gdzie płynie łódź podwodna?",
+      "question_fi": "Minne sukellusvene matkustaa?",
+      "question_sk": "Kam sa plaví ponorka?",
+      "question_da": "Hvor rejser en ubåd hen?",
+      "options": [
+        {
+          "id": "underwater",
+          "label_en": "Underwater",
+          "label_de": "Unterwasser",
+          "label_it": "Sott'acqua",
+          "label_fr": "Sous l'eau",
+          "label_es": "Submarino",
+          "label_hr": "Pod vodom",
+          "label_cs": "Pod vodou",
+          "label_pl": "Podwodny",
+          "label_fi": "Vedenalainen",
+          "label_sk": "Pod vodou",
+          "label_da": "Undervands"
+        },
+        {
+          "id": "sky",
+          "label_en": "In the sky",
+          "label_de": "Am Himmel",
+          "label_it": "Nel cielo",
+          "label_fr": "Dans le ciel",
+          "label_es": "en el cielo",
+          "label_hr": "Na nebu",
+          "label_cs": "Na obloze",
+          "label_pl": "Na niebie",
+          "label_fi": "Taivaalla",
+          "label_sk": "Na oblohe",
+          "label_da": "I himlen"
+        },
+        {
+          "id": "road",
+          "label_en": "On a road",
+          "label_de": "Auf einer Straße",
+          "label_it": "Su una strada",
+          "label_fr": "Sur une route",
+          "label_es": "en un camino",
+          "label_hr": "Na cesti",
+          "label_cs": "Na silnici",
+          "label_pl": "Na drodze",
+          "label_fi": "Tiellä",
+          "label_sk": "Na ceste",
+          "label_da": "På en vej"
+        }
+      ]
+    },
+    {
+      "id": "dive",
+      "correct": "water",
+      "question_en": "What fills the tanks to make a submarine dive?",
+      "question_de": "Was füllt die Tanks, um einen U-Boot-Tauchgang zu machen?",
+      "question_it": "Cosa riempie le bombole per fare un'immersione in sottomarino?",
+      "question_fr": "Qu'est-ce qui remplit les réservoirs pour faire une plongée sous-marine ?",
+      "question_es": "¿Qué se llenan los tanques para realizar una inmersión submarina?",
+      "question_hr": "Čime se pune spremnici za ronjenje podmornice?",
+      "question_cs": "Čím se plní nádrže, aby se ponorka mohla ponořit?",
+      "question_pl": "Co napełnia zbiorniki, aby nurkować w łodzi podwodnej?",
+      "question_fi": "Mikä täyttää säiliöt sukellusveneen sukellusta varten?",
+      "question_sk": "Čo napĺňa nádrže na ponorenie ponorky?",
+      "question_da": "Hvad fylder tankene for at lave et ubådsdyk?",
+      "options": [
+        {
+          "id": "water",
+          "label_en": "Water",
+          "label_de": "Wasser",
+          "label_it": "Acqua",
+          "label_fr": "Eau",
+          "label_es": "Agua",
+          "label_hr": "Voda",
+          "label_cs": "Voda",
+          "label_pl": "Woda",
+          "label_fi": "Vesi",
+          "label_sk": "Voda",
+          "label_da": "Vand"
+        },
+        {
+          "id": "air",
+          "label_en": "Air",
+          "label_de": "Luft",
+          "label_it": "Aria",
+          "label_fr": "Air",
+          "label_es": "Aire",
+          "label_hr": "Zrak",
+          "label_cs": "Vzduch",
+          "label_pl": "Powietrze",
+          "label_fi": "ilmaa",
+          "label_sk": "Vzduch",
+          "label_da": "Luft"
+        },
+        {
+          "id": "sand",
+          "label_en": "Sand",
+          "label_de": "Sand",
+          "label_it": "Sabbia",
+          "label_fr": "Sable",
+          "label_es": "Arena",
+          "label_hr": "Pijesak",
+          "label_cs": "Písek",
+          "label_pl": "Piasek",
+          "label_fi": "Hiekka",
+          "label_sk": "Piesok",
+          "label_da": "Sand"
+        }
+      ]
+    },
+    {
+      "id": "use",
+      "correct": "explore",
+      "question_en": "What do scientists use submarines for?",
+      "question_de": "Wofür nutzen Wissenschaftler U-Boote?",
+      "question_it": "Per cosa gli scienziati usano i sottomarini?",
+      "question_fr": "Pourquoi les scientifiques utilisent-ils les sous-marins ?",
+      "question_es": "¿Para qué utilizan los científicos los submarinos?",
+      "question_hr": "Za što znanstvenici koriste podmornice?",
+      "question_cs": "K čemu vědci používají ponorky?",
+      "question_pl": "Do czego naukowcy wykorzystują łodzie podwodne?",
+      "question_fi": "Mihin tutkijat käyttävät sukellusveneitä?",
+      "question_sk": "Na čo vedci používajú ponorky?",
+      "question_da": "Hvad bruger videnskabsmænd ubåde til?",
+      "options": [
+        {
+          "id": "explore",
+          "label_en": "Exploring the ocean",
+          "label_de": "Den Ozean erkunden",
+          "label_it": "Esplorare l'oceano",
+          "label_fr": "Explorer l'océan",
+          "label_es": "Explorando el océano",
+          "label_hr": "Istraživanje oceana",
+          "label_cs": "Zkoumání oceánu",
+          "label_pl": "Eksploracja oceanu",
+          "label_fi": "Valtameren tutkiminen",
+          "label_sk": "Skúmanie oceánu",
+          "label_da": "At udforske havet"
+        },
+        {
+          "id": "cooking",
+          "label_en": "Cooking food",
+          "label_de": "Essen kochen",
+          "label_it": "Cucinare il cibo",
+          "label_fr": "Cuisiner des aliments",
+          "label_es": "cocinar comida",
+          "label_hr": "Kuhanje hrane",
+          "label_cs": "Vaření jídla",
+          "label_pl": "Gotowanie jedzenia",
+          "label_fi": "Ruoan keittäminen",
+          "label_sk": "Varenie jedla",
+          "label_da": "At lave mad"
+        },
+        {
+          "id": "farming",
+          "label_en": "Growing crops",
+          "label_de": "Anbau von Pflanzen",
+          "label_it": "Coltivazioni in crescita",
+          "label_fr": "Cultiver des cultures",
+          "label_es": "Cultivos en crecimiento",
+          "label_hr": "Uzgoj usjeva",
+          "label_cs": "Pěstování plodin",
+          "label_pl": "Uprawa roślin",
+          "label_fi": "Kasvien viljely",
+          "label_sk": "Pestovanie plodín",
+          "label_da": "Dyrkning af afgrøder"
+        }
+      ]
+    }
+  ]
+}
