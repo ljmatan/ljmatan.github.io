@@ -1,0 +1,293 @@
+{
+  "id": "neptune",
+  "category_id": "planets",
+  "symbol_id": "neptune",
+  "thumbnail": "neptune_thumb.webp",
+  "title_en": "Neptune",
+  "title_de": "Neptun",
+  "title_it": "Nettuno",
+  "title_fr": "Neptune",
+  "title_es": "Neptuno",
+  "title_hr": "Neptun",
+  "title_cs": "Neptune",
+  "title_pl": "Neptun",
+  "title_fi": "Neptunus",
+  "title_sk": "Neptún",
+  "title_da": "Neptun",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about Neptune. Neptune is the eighth planet from the Sun and the farthest planet from our star. It is a deep blue ice giant with powerful winds.",
+      "script_de": "Heute werden wir etwas über Neptun erfahren. Neptun ist der achte Planet von der Sonne und der am weitesten von unserem Stern entfernte Planet. Es ist ein tiefblauer Eisriese mit starken Winden.",
+      "script_it": "Oggi conosceremo Nettuno. Nettuno è l'ottavo pianeta dal Sole e il pianeta più lontano dalla nostra stella. È un gigante di ghiaccio blu profondo con venti potenti.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur Neptune. Neptune est la huitième planète du Soleil et la planète la plus éloignée de notre étoile. C'est une géante de glace d'un bleu profond avec des vents puissants.",
+      "script_es": "Hoy vamos a aprender sobre Neptuno. Neptuno es el octavo planeta desde el Sol y el planeta más alejado de nuestra estrella. Es un gigante de hielo de color azul intenso con vientos poderosos.",
+      "script_hr": "Danas ćemo učiti o Neptunu. Neptun je osmi planet od Sunca i najudaljeniji planet od naše zvijezde. To je tamnoplavi ledeni div sa snažnim vjetrovima.",
+      "script_cs": "Dnes se budeme učit o Neptunu. Neptun je osmá planeta od Slunce a nejvzdálenější planeta od naší hvězdy. Je to sytě modrý ledový obr se silnými větry.",
+      "script_pl": "Dziś dowiemy się więcej o Neptunie. Neptun jest ósmą planetą od Słońca i najdalszą planetą od naszej gwiazdy. Jest to ciemnoniebieski lodowy olbrzym, któremu towarzyszą silne wiatry.",
+      "script_fi": "Tänään opimme Neptunuksesta. Neptunus on kahdeksas planeetta Auringosta ja kauimpana tähdestämme. Se on syvän sininen jääjättiläinen, jolla on voimakkaat tuulet.",
+      "script_sk": "Dnes sa budeme učiť o Neptúne. Neptún je ôsma planéta od Slnka a najvzdialenejšia planéta od našej hviezdy. Je to tmavomodrý ľadový gigant so silným vetrom.",
+      "script_da": "I dag skal vi lære om Neptun. Neptun er den ottende planet fra Solen og den fjerneste planet fra vores stjerne. Det er en dybblå iskæmpe med kraftige vinde.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "winds",
+      "script_en": "Neptune has the strongest winds in the solar system. They can blow faster than a thousand kilometres per hour. Storms appear and disappear in its blue atmosphere.",
+      "script_de": "Neptun hat die stärksten Winde im Sonnensystem. Sie können schneller als tausend Kilometer pro Stunde explodieren. In seiner blauen Atmosphäre erscheinen und verschwinden Stürme.",
+      "script_it": "Nettuno ha i venti più forti del sistema solare. Possono soffiare più velocemente di mille chilometri all'ora. Le tempeste appaiono e scompaiono nella sua atmosfera blu.",
+      "script_fr": "Neptune possède les vents les plus forts du système solaire. Ils peuvent souffler à une vitesse supérieure à mille kilomètres par heure. Les tempêtes apparaissent et disparaissent dans son atmosphère bleue.",
+      "script_es": "Neptuno tiene los vientos más fuertes del sistema solar. Pueden volar a más de mil kilómetros por hora. Las tormentas aparecen y desaparecen en su atmósfera azul.",
+      "script_hr": "Neptun ima najjače vjetrove u Sunčevom sustavu. Mogu puhati brže od tisuću kilometara na sat. Oluje se pojavljuju i nestaju u njegovoj plavoj atmosferi.",
+      "script_cs": "Neptun má nejsilnější větry ve sluneční soustavě. Mohou foukat rychleji než tisíc kilometrů za hodinu. V jeho modré atmosféře se objevují a mizí bouře.",
+      "script_pl": "Neptun ma najsilniejsze wiatry w Układzie Słonecznym. Potrafią wiać z prędkością ponad tysiąca kilometrów na godzinę. Burze pojawiają się i znikają w jej błękitnej atmosferze.",
+      "script_fi": "Neptunuksella on aurinkokunnan voimakkaimmat tuulet. Ne voivat puhaltaa nopeammin kuin tuhat kilometriä tunnissa. Myrskyt ilmestyvät ja katoavat sen sinisessä ilmapiirissä.",
+      "script_sk": "Neptún má najsilnejší vietor v slnečnej sústave. Dokážu fúkať rýchlejšie ako tisíc kilometrov za hodinu. V jeho modrej atmosfére sa objavujú a miznú búrky.",
+      "script_da": "Neptun har de stærkeste vinde i solsystemet. De kan blæse hurtigere end tusinde kilometer i timen. Storme dukker op og forsvinder i dens blå atmosfære.",
+      "images": [
+        "winds.webp",
+        "winds_2.webp",
+        "winds_3.webp"
+      ]
+    },
+    {
+      "id": "discovery",
+      "script_en": "Neptune was the first planet found with mathematics before it was seen. Astronomers noticed that Uranus moved slightly strangely and predicted another planet was pulling it. Soon they found Neptune in the sky.",
+      "script_de": "Neptun war der erste Planet, der mit Hilfe der Mathematik entdeckt wurde, bevor er gesehen wurde. Astronomen bemerkten, dass sich Uranus etwas seltsam bewegte, und sagten voraus, dass ein anderer Planet ihn anziehen würde. Bald fanden sie Neptun am Himmel.",
+      "script_it": "Nettuno è stato il primo pianeta trovato con la matematica prima che fosse visto. Gli astronomi notarono che Urano si muoveva in modo leggermente strano e predissero che un altro pianeta lo stesse trascinando. Presto trovarono Nettuno nel cielo.",
+      "script_fr": "Neptune a été la première planète découverte mathématiquement avant d'être observée. Les astronomes ont remarqué qu'Uranus se déplaçait de manière légèrement étrange et ont prédit qu'une autre planète l'entraînerait. Bientôt, ils trouvèrent Neptune dans le ciel.",
+      "script_es": "Neptuno fue el primer planeta encontrado con matemáticas antes de ser visto. Los astrónomos notaron que Urano se movía de manera un poco extraña y predijeron que otro planeta lo estaba arrastrando. Pronto encontraron a Neptuno en el cielo.",
+      "script_hr": "Neptun je bio prvi planet koji je matematički pronađen prije nego što je viđen. Astronomi su primijetili da se Uran pomalo čudno kreće i predvidjeli da ga vuče drugi planet. Ubrzo su pronašli Neptun na nebu.",
+      "script_cs": "Neptun byl první planetou objevenou pomocí matematiky, než byla spatřena. Astronomové si všimli, že se Uran pohybuje trochu podivně, a předpověděli, že ho táhne jiná planeta. Brzy našli na obloze Neptun.",
+      "script_pl": "Neptun był pierwszą planetą odkrytą dzięki matematyce, zanim ją zauważono. Astronomowie zauważyli, że Uran porusza się nieco dziwnie i przewidzieli, że ciągnie go inna planeta. Wkrótce znaleźli Neptuna na niebie.",
+      "script_fi": "Neptunus oli ensimmäinen matematiikan avulla löydetty planeetta ennen kuin se nähtiin. Tähtitieteilijät huomasivat Uranuksen liikkuvan hieman oudosti ja ennustivat toisen planeetan vetävän sitä. Pian he löysivät Neptunuksen taivaalta.",
+      "script_sk": "Neptún bol prvou planétou, ktorá bola objavená pomocou matematiky predtým, ako bola videná. Astronómovia si všimli, že sa Urán pohybuje trochu zvláštne a predpovedali, že ho ťahá iná planéta. Čoskoro našli na oblohe Neptún.",
+      "script_da": "Neptun var den første planet fundet med matematik, før den blev set. Astronomer bemærkede, at Uranus bevægede sig lidt mærkeligt og forudsagde, at en anden planet trak den. Snart fandt de Neptun på himlen.",
+      "images": [
+        "discovery.webp",
+        "discovery_2.webp",
+        "discovery_3.webp"
+      ]
+    },
+    {
+      "id": "moon",
+      "script_en": "Neptune has many moons. Its largest moon, Triton, is icy and has geysers that spray material into space. Triton orbits Neptune in the opposite direction to most moons, which puzzles scientists.",
+      "script_de": "Neptun hat viele Monde. Sein größter Mond, Triton, ist eisig und verfügt über Geysire, die Material in den Weltraum spritzen. Triton umkreist Neptun in der entgegengesetzten Richtung wie die meisten Monde, was Wissenschaftler verwirrt.",
+      "script_it": "Nettuno ha molte lune. La sua luna più grande, Tritone, è ghiacciata e ha geyser che spruzzano materiale nello spazio. Tritone orbita attorno a Nettuno nella direzione opposta alla maggior parte delle lune, il che lascia perplessi gli scienziati.",
+      "script_fr": "Neptune a plusieurs lunes. Sa plus grande lune, Triton, est glacée et possède des geysers qui projettent de la matière dans l'espace. Triton orbite autour de Neptune dans la direction opposée à celle de la plupart des lunes, ce qui laisse perplexe les scientifiques.",
+      "script_es": "Neptuno tiene muchas lunas. Su luna más grande, Tritón, está helada y tiene géiseres que arrojan material al espacio. Tritón orbita a Neptuno en dirección opuesta a la mayoría de las lunas, lo que desconcierta a los científicos.",
+      "script_hr": "Neptun ima mnogo mjeseca. Njegov najveći mjesec, Triton, je leden i ima gejzire koji raspršuju materijal u svemir. Triton kruži oko Neptuna u suprotnom smjeru od većine mjeseca, što zbunjuje znanstvenike.",
+      "script_cs": "Neptun má mnoho měsíců. Jeho největší měsíc Triton je ledový a má gejzíry, které rozprašují materiál do vesmíru. Triton obíhá kolem Neptunu v opačném směru než většina měsíců, což vědce mate.",
+      "script_pl": "Neptun ma wiele księżyców. Jego największy księżyc, Tryton, jest lodowy i ma gejzery wyrzucające materię w przestrzeń kosmiczną. Tryton okrąża Neptuna w kierunku przeciwnym do większości księżyców, co stanowi zagadkę dla naukowców.",
+      "script_fi": "Neptunuksella on monia kuita. Sen suurin kuu, Triton, on jäinen ja siinä on geysirit, jotka suihkuttavat materiaalia avaruuteen. Triton orbits Neptune in the opposite direction to most moons, which puzzles scientists.",
+      "script_sk": "Neptún má veľa mesiacov. Jeho najväčší mesiac Triton je ľadový a má gejzíry, ktoré rozprašujú materiál do vesmíru. Triton obieha okolo Neptúna v opačnom smere ako väčšina mesiacov, čo vedcov mätie.",
+      "script_da": "Neptun har mange måner. Dens største måne, Triton, er iset og har gejsere, der sprøjter materiale ud i rummet. Triton kredser om Neptun i den modsatte retning af de fleste måner, hvilket undrer videnskabsmænd.",
+      "images": [
+        "moon.webp",
+        "moon_2.webp",
+        "moon_3.webp"
+      ]
+    },
+    {
+      "id": "explore",
+      "script_en": "Voyager 2 is the only spacecraft that has visited Neptune. It flew past in 1989 and sent back our first close pictures. New missions may one day explore this windy blue world again.",
+      "script_de": "Voyager 2 ist die einzige Raumsonde, die Neptun besucht hat. Es flog 1989 vorbei und schickte unsere ersten Nahaufnahmen zurück. Neue Missionen könnten diese windige blaue Welt eines Tages erneut erkunden.",
+      "script_it": "La Voyager 2 è l'unica navicella spaziale che ha visitato Nettuno. È volato oltre nel 1989 e ci ha inviato le nostre prime foto ravvicinate. Nuove missioni potrebbero un giorno esplorare di nuovo questo ventoso mondo blu.",
+      "script_fr": "Voyager 2 est le seul vaisseau spatial à avoir visité Neptune. Il est passé en 1989 et nous a renvoyé nos premières photos rapprochées. De nouvelles missions pourraient un jour explorer à nouveau ce monde bleu et venteux.",
+      "script_es": "La Voyager 2 es la única nave espacial que ha visitado Neptuno. Pasó volando en 1989 y nos envió nuestras primeras fotografías cercanas. Es posible que algún día nuevas misiones exploren nuevamente este ventoso mundo azul.",
+      "script_hr": "Voyager 2 je jedina letjelica koja je posjetila Neptun. Proletio je 1989. i poslao naše prve slike izbliza. Nove misije možda će jednog dana ponovno istražiti ovaj vjetrovito plavi svijet.",
+      "script_cs": "Voyager 2 je jedinou kosmickou lodí, která navštívila Neptun. Proletěl kolem v roce 1989 a poslal zpět naše první blízké snímky. Nové mise mohou jednoho dne znovu prozkoumat tento větrně modrý svět.",
+      "script_pl": "Voyager 2 to jedyny statek kosmiczny, który odwiedził Neptuna. Przeleciał obok w 1989 roku i przesłał nam pierwsze zdjęcia z bliska. Nowe misje mogą pewnego dnia ponownie odkryć ten wietrzny, niebieski świat.",
+      "script_fi": "Voyager 2 on ainoa avaruusalus, joka on käynyt Neptunuksessa. Se lensi ohi vuonna 1989 ja lähetti takaisin ensimmäiset lähikuvamme. Uudet tehtävät voivat jonain päivänä tutkia tätä tuulisen sinistä maailmaa uudelleen.",
+      "script_sk": "Voyager 2 je jediná kozmická loď, ktorá navštívila Neptún. Preletel okolo v roku 1989 a poslal späť naše prvé blízke snímky. Nové misie môžu jedného dňa opäť preskúmať tento veterný modrý svet.",
+      "script_da": "Voyager 2 er det eneste rumfartøj, der har besøgt Neptun. Den fløj forbi i 1989 og sendte vores første tætte billeder tilbage. Nye missioner kan en dag udforske denne blæsende blå verden igen.",
+      "images": [
+        "explore.webp",
+        "explore_2.webp",
+        "explore_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "order",
+      "correct": "eighth",
+      "question_en": "Which planet is Neptune from the Sun?",
+      "question_de": "Welcher Planet ist Neptun von der Sonne aus?",
+      "question_it": "Quale pianeta è Nettuno dal Sole?",
+      "question_fr": "Quelle planète est Neptune par rapport au Soleil ?",
+      "question_es": "¿Qué planeta es Neptuno desde el Sol?",
+      "question_hr": "Koji je planet Neptun od Sunca?",
+      "question_cs": "Která planeta je Neptun od Slunce?",
+      "question_pl": "Którą planetą jest Neptun od Słońca?",
+      "question_fi": "Mikä planeetta on Neptunus auringosta?",
+      "question_sk": "Ktorá planéta je Neptún zo Slnka?",
+      "question_da": "Hvilken planet er Neptun fra Solen?",
+      "options": [
+        {
+          "id": "eighth",
+          "label_en": "The eighth planet",
+          "label_de": "Der achte Planet",
+          "label_it": "L'ottavo pianeta",
+          "label_fr": "La huitième planète",
+          "label_es": "El octavo planeta",
+          "label_hr": "Osmi planet",
+          "label_cs": "Osmá planeta",
+          "label_pl": "Ósma planeta",
+          "label_fi": "Kahdeksas planeetta",
+          "label_sk": "Ôsma planéta",
+          "label_da": "Den ottende planet"
+        },
+        {
+          "id": "sixth",
+          "label_en": "The sixth planet",
+          "label_de": "Der sechste Planet",
+          "label_it": "Il sesto pianeta",
+          "label_fr": "La sixième planète",
+          "label_es": "El sexto planeta",
+          "label_hr": "Šesti planet",
+          "label_cs": "Šestá planeta",
+          "label_pl": "Szósta planeta",
+          "label_fi": "Kuudes planeetta",
+          "label_sk": "Šiesta planéta",
+          "label_da": "Den sjette planet"
+        },
+        {
+          "id": "first",
+          "label_en": "The first planet",
+          "label_de": "Der erste Planet",
+          "label_it": "Il primo pianeta",
+          "label_fr": "La première planète",
+          "label_es": "el primer planeta",
+          "label_hr": "Prvi planet",
+          "label_cs": "První planeta",
+          "label_pl": "Pierwsza planeta",
+          "label_fi": "Ensimmäinen planeetta",
+          "label_sk": "Prvá planéta",
+          "label_da": "Den første planet"
+        }
+      ]
+    },
+    {
+      "id": "wind",
+      "correct": "winds",
+      "question_en": "What is Neptune famous for?",
+      "question_de": "Wofür ist Neptun berühmt?",
+      "question_it": "Per cosa è famoso Nettuno?",
+      "question_fr": "Pourquoi Neptune est-il célèbre ?",
+      "question_es": "¿Por qué es famoso Neptuno?",
+      "question_hr": "Po čemu je Neptun poznat?",
+      "question_cs": "Čím je Neptun známý?",
+      "question_pl": "Z czego słynie Neptun?",
+      "question_fi": "Mistä Neptunus on kuuluisa?",
+      "question_sk": "Čím je Neptún známy?",
+      "question_da": "Hvad er Neptun berømt for?",
+      "options": [
+        {
+          "id": "winds",
+          "label_en": "Very strong winds",
+          "label_de": "Sehr starker Wind",
+          "label_it": "Venti molto forti",
+          "label_fr": "Des vents très forts",
+          "label_es": "Vientos muy fuertes",
+          "label_hr": "Vrlo jaki vjetrovi",
+          "label_cs": "Velmi silný vítr",
+          "label_pl": "Bardzo silne wiatry",
+          "label_fi": "Erittäin kovat tuulet",
+          "label_sk": "Veľmi silný vietor",
+          "label_da": "Meget kraftig vind"
+        },
+        {
+          "id": "fire",
+          "label_en": "Rivers of fire",
+          "label_de": "Flüsse aus Feuer",
+          "label_it": "Fiumi di fuoco",
+          "label_fr": "Des rivières de feu",
+          "label_es": "ríos de fuego",
+          "label_hr": "Vatrene rijeke",
+          "label_cs": "Ohnivé řeky",
+          "label_pl": "Rzeki ognia",
+          "label_fi": "Tulijoet",
+          "label_sk": "Rieky ohňa",
+          "label_da": "Floder af ild"
+        },
+        {
+          "id": "trees",
+          "label_en": "Huge forests",
+          "label_de": "Riesige Wälder",
+          "label_it": "Enormi foreste",
+          "label_fr": "D'immenses forêts",
+          "label_es": "Bosques enormes",
+          "label_hr": "Ogromne šume",
+          "label_cs": "Obrovské lesy",
+          "label_pl": "Ogromne lasy",
+          "label_fi": "Valtavia metsiä",
+          "label_sk": "Obrovské lesy",
+          "label_da": "Kæmpe skove"
+        }
+      ]
+    },
+    {
+      "id": "found",
+      "correct": "maths",
+      "question_en": "How was Neptune first discovered?",
+      "question_de": "Wie wurde Neptun erstmals entdeckt?",
+      "question_it": "Come è stato scoperto Nettuno?",
+      "question_fr": "Comment Neptune a-t-elle été découverte pour la première fois ?",
+      "question_es": "¿Cómo se descubrió Neptuno por primera vez?",
+      "question_hr": "Kako je prvi put otkriven Neptun?",
+      "question_cs": "Jak byl Neptun poprvé objeven?",
+      "question_pl": "Jak po raz pierwszy odkryto Neptuna?",
+      "question_fi": "Miten Neptunus löydettiin ensimmäisen kerran?",
+      "question_sk": "Ako bol prvýkrát objavený Neptún?",
+      "question_da": "Hvordan blev Neptun først opdaget?",
+      "options": [
+        {
+          "id": "maths",
+          "label_en": "By mathematics and then a telescope",
+          "label_de": "Durch Mathematik und dann ein Teleskop",
+          "label_it": "Con la matematica e poi con il telescopio",
+          "label_fr": "Par les mathématiques puis un télescope",
+          "label_es": "Por matemáticas y luego un telescopio.",
+          "label_hr": "Matematikom pa teleskopom",
+          "label_cs": "Matematikou a pak dalekohledem",
+          "label_pl": "Przez matematykę, a potem przez teleskop",
+          "label_fi": "Matematiikalla ja sitten kaukoputkella",
+          "label_sk": "Matematikou a potom ďalekohľadom",
+          "label_da": "Ved matematik og derefter et teleskop"
+        },
+        {
+          "id": "photo",
+          "label_en": "By a photograph from a phone",
+          "label_de": "Durch ein Foto von einem Telefon",
+          "label_it": "Da una fotografia da un telefono",
+          "label_fr": "Par une photo d'un téléphone",
+          "label_es": "Por una fotografía desde un teléfono",
+          "label_hr": "Fotografijom sa telefona",
+          "label_cs": "Podle fotografie z telefonu",
+          "label_pl": "Według zdjęcia z telefonu",
+          "label_fi": "Puhelimesta otettu valokuva",
+          "label_sk": "Podľa fotografie z telefónu",
+          "label_da": "Ved et fotografi fra en telefon"
+        },
+        {
+          "id": "swim",
+          "label_en": "By swimming to it",
+          "label_de": "Indem man dorthin schwimmt",
+          "label_it": "Nuotando verso di esso",
+          "label_fr": "En nageant vers lui",
+          "label_es": "Nadando hacia él",
+          "label_hr": "Doplivajući do njega",
+          "label_cs": "Plaváním k tomu",
+          "label_pl": "Płynąc do tego",
+          "label_fi": "Uimalla siihen",
+          "label_sk": "Plávaním k nemu",
+          "label_da": "Ved at svømme til det"
+        }
+      ]
+    }
+  ]
+}

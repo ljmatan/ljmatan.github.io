@@ -1,0 +1,293 @@
+{
+  "id": "numbers",
+  "category_id": "school",
+  "symbol_id": "numbers",
+  "thumbnail": "numbers_thumb.webp",
+  "title_en": "Numbers",
+  "title_de": "Zahlen",
+  "title_it": "Numeri",
+  "title_fr": "Nombres",
+  "title_es": "Números",
+  "title_hr": "Brojke",
+  "title_cs": "Čísla",
+  "title_pl": "Takty muzyczne",
+  "title_fi": "Numerot",
+  "title_sk": "čísla",
+  "title_da": "Tal",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about numbers. Numbers tell us how many things there are, what order they come in, and how much something measures.",
+      "script_de": "Heute lernen wir etwas über Zahlen. Zahlen sagen uns, wie viele Dinge es gibt, in welcher Reihenfolge sie angeordnet sind und wie viel etwas misst.",
+      "script_it": "Oggi impareremo a conoscere i numeri. I numeri ci dicono quante cose ci sono, in quale ordine vengono e quanto misura qualcosa.",
+      "script_fr": "Aujourd'hui, nous allons en apprendre davantage sur les chiffres. Les nombres nous disent combien il y a de choses, dans quel ordre elles entrent et combien quelque chose mesure.",
+      "script_es": "Hoy vamos a aprender sobre los números. Los números nos dicen cuántas cosas hay, en qué orden vienen y cuánto mide algo.",
+      "script_hr": "Danas ćemo učiti o brojevima. Brojevi nam govore koliko stvari postoji, kojim redom dolaze i koliko nešto mjeri.",
+      "script_cs": "Dnes se budeme učit o číslech. Čísla nám říkají, kolik věcí je, v jakém pořadí přicházejí a kolik něco měří.",
+      "script_pl": "Dziś będziemy uczyć się o liczbach. Liczby mówią nam, ile jest rzeczy, w jakiej kolejności występują i ile coś mierzy.",
+      "script_fi": "Tänään opimme numeroista. Numerot kertovat meille, kuinka monta asiaa on, missä järjestyksessä ne tulevat ja kuinka paljon jokin mittaa.",
+      "script_sk": "Dnes sa naučíme o číslach. Čísla nám hovoria, koľko vecí je, v akom poradí prichádzajú a koľko niečo meria.",
+      "script_da": "I dag skal vi lære om tal. Tal fortæller os, hvor mange ting der er, hvilken rækkefølge de kommer i, og hvor meget noget måler.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "digits",
+      "script_en": "There are ten digits: 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9. We combine them to make bigger numbers. The place of a digit changes its value.",
+      "script_de": "Es gibt zehn Ziffern: 0, 1, 2, 3, 4, 5, 6, 7, 8 und 9. Wir kombinieren sie zu größeren Zahlen. Die Stelle einer Ziffer ändert ihren Wert.",
+      "script_it": "Ci sono dieci cifre: 0, 1, 2, 3, 4, 5, 6, 7, 8 e 9. Le combiniamo per creare numeri più grandi. La posizione di una cifra cambia il suo valore.",
+      "script_fr": "Il y a dix chiffres : 0, 1, 2, 3, 4, 5, 6, 7, 8 et 9. Nous les combinons pour obtenir des nombres plus grands. La place d'un chiffre change sa valeur.",
+      "script_es": "Hay diez dígitos: 0, 1, 2, 3, 4, 5, 6, 7, 8 y 9. Los combinamos para formar números más grandes. El lugar de un dígito cambia su valor.",
+      "script_hr": "Ima deset znamenki: 0, 1, 2, 3, 4, 5, 6, 7, 8 i 9. Kombiniramo ih da bismo dobili veće brojeve. Mjesto znamenke mijenja njezinu vrijednost.",
+      "script_cs": "Existuje deset číslic: 0, 1, 2, 3, 4, 5, 6, 7, 8 a 9. Kombinujeme je, abychom vytvořili větší čísla. Místo číslice mění její hodnotu.",
+      "script_pl": "Jest dziesięć cyfr: 0, 1, 2, 3, 4, 5, 6, 7, 8 i 9. Łączymy je, aby uzyskać większe liczby. Miejsce cyfry zmienia jej wartość.",
+      "script_fi": "Numeroita on kymmenen: 0, 1, 2, 3, 4, 5, 6, 7, 8 ja 9. Yhdistämme ne suuremmiksi numeroiksi. Numeron paikka muuttaa sen arvoa.",
+      "script_sk": "Existuje desať číslic: 0, 1, 2, 3, 4, 5, 6, 7, 8 a 9. Kombinujeme ich, aby sme vytvorili väčšie čísla. Miesto číslice mení jej hodnotu.",
+      "script_da": "Der er ti cifre: 0, 1, 2, 3, 4, 5, 6, 7, 8 og 9. Vi kombinerer dem for at lave større tal. Stedet for et ciffer ændrer dets værdi.",
+      "images": [
+        "digits.webp",
+        "digits_2.webp",
+        "digits_3.webp"
+      ]
+    },
+    {
+      "id": "uses",
+      "script_en": "We use numbers all day. We count toys, tell the time, pay for food, and follow recipes. Numbers help us compare sizes and amounts.",
+      "script_de": "Wir verwenden den ganzen Tag Zahlen. Wir zählen Spielzeug, zeigen die Uhrzeit an, bezahlen Essen und befolgen Rezepte. Zahlen helfen uns, Größen und Mengen zu vergleichen.",
+      "script_it": "Usiamo i numeri tutto il giorno. Contiamo i giocattoli, diciamo l'ora, paghiamo il cibo e seguiamo le ricette. I numeri ci aiutano a confrontare dimensioni e quantità.",
+      "script_fr": "Nous utilisons des chiffres toute la journée. Nous comptons les jouets, donnons l’heure, payons la nourriture et suivons des recettes. Les chiffres nous aident à comparer les tailles et les montants.",
+      "script_es": "Usamos números todo el día. Contamos juguetes, decimos la hora, pagamos la comida y seguimos recetas. Los números nos ayudan a comparar tamaños y cantidades.",
+      "script_hr": "Cijeli dan koristimo brojeve. Brojimo igračke, kažemo vrijeme, plaćamo hranu i pratimo recepte. Brojevi nam pomažu usporediti veličine i količine.",
+      "script_cs": "Čísla používáme celý den. Počítáme hračky, říkáme čas, platíme za jídlo a řídíme se recepty. Čísla nám pomáhají porovnávat velikosti a množství.",
+      "script_pl": "Używamy liczb przez cały dzień. Liczymy zabawki, wskazujemy godzinę, płacimy za jedzenie i stosujemy się do przepisów. Liczby pomagają nam porównywać rozmiary i ilości.",
+      "script_fi": "Käytämme numeroita koko päivän. Laskemme leluja, kerromme ajan, maksamme ruoasta ja seuraamme reseptejä. Numerot auttavat meitä vertailemaan kokoja ja määriä.",
+      "script_sk": "Čísla používame celý deň. Počítame hračky, hovoríme čas, platíme za jedlo a riadime sa receptami. Čísla nám pomáhajú porovnávať veľkosti a množstvá.",
+      "script_da": "Vi bruger tal hele dagen. Vi tæller legetøj, fortæller tiden, betaler for mad og følger opskrifter. Tal hjælper os med at sammenligne størrelser og mængder.",
+      "images": [
+        "uses.webp",
+        "uses_2.webp",
+        "uses_3.webp"
+      ]
+    },
+    {
+      "id": "learn",
+      "script_en": "Counting objects is a good way to learn numbers. A number line shows which numbers are bigger or smaller. Games make practice fun.",
+      "script_de": "Das Zählen von Gegenständen ist eine gute Möglichkeit, Zahlen zu lernen. Ein Zahlenstrahl zeigt, welche Zahlen größer oder kleiner sind. Mit Spielen macht das Üben Spaß.",
+      "script_it": "Contare gli oggetti è un buon modo per imparare i numeri. Una linea numerica mostra quali numeri sono più grandi o più piccoli. I giochi rendono la pratica divertente.",
+      "script_fr": "Compter des objets est un bon moyen d'apprendre les nombres. Une droite numérique montre quels nombres sont plus grands ou plus petits. Les jeux rendent la pratique amusante.",
+      "script_es": "Contar objetos es una buena forma de aprender los números. Una recta numérica muestra qué números son mayores o menores. Los juegos hacen que la práctica sea divertida.",
+      "script_hr": "Brojanje predmeta dobar je način učenja brojeva. Brojevna linija pokazuje koji su brojevi veći ili manji. Igre čine vježbanje zabavnim.",
+      "script_cs": "Počítání předmětů je dobrý způsob, jak se naučit čísla. Číselná osa ukazuje, která čísla jsou větší nebo menší. Hry dělají z cvičení zábavu.",
+      "script_pl": "Liczenie obiektów to dobry sposób na naukę liczb. Oś liczbowa pokazuje, które liczby są większe, a które mniejsze. Gry sprawiają, że ćwiczenia stają się przyjemnością.",
+      "script_fi": "Esineiden laskeminen on hyvä tapa oppia numeroita. Numerorivi näyttää, mitkä luvut ovat suurempia tai pienempiä. Pelit tekevät harjoittelusta hauskaa.",
+      "script_sk": "Počítanie predmetov je dobrý spôsob, ako sa naučiť čísla. Číselná os ukazuje, ktoré čísla sú väčšie alebo menšie. Hry robia z cvičenia zábavu.",
+      "script_da": "At tælle objekter er en god måde at lære tal på. En tallinje viser, hvilke tal der er større eller mindre. Spil gør træning sjovt.",
+      "images": [
+        "learn.webp",
+        "learn_2.webp",
+        "learn_3.webp"
+      ]
+    },
+    {
+      "id": "compare",
+      "script_en": "We can add numbers together or take them away. Comparing shows which group has more or fewer. Learning numbers helps us solve everyday problems.",
+      "script_de": "Wir können Zahlen addieren oder wegnehmen. Der Vergleich zeigt, welche Gruppe mehr oder weniger hat. Das Erlernen von Zahlen hilft uns, alltägliche Probleme zu lösen.",
+      "script_it": "Possiamo sommare i numeri o toglierli. Il confronto mostra quale gruppo ne ha più o meno. Imparare i numeri ci aiuta a risolvere i problemi quotidiani.",
+      "script_fr": "Nous pouvons additionner des nombres ou les supprimer. La comparaison montre quel groupe en a plus ou moins. Apprendre les nombres nous aide à résoudre les problèmes quotidiens.",
+      "script_es": "Podemos sumar números o restarlos. La comparación muestra qué grupo tiene más o menos. Aprender los números nos ayuda a resolver problemas cotidianos.",
+      "script_hr": "Brojeve možemo zbrajati ili oduzimati. Usporedba pokazuje koja skupina ima više ili manje. Učenje brojeva pomaže nam u rješavanju svakodnevnih problema.",
+      "script_cs": "Čísla můžeme sčítat nebo odebírat. Porovnání ukazuje, která skupina jich má více nebo méně. Učení čísel nám pomáhá řešit každodenní problémy.",
+      "script_pl": "Możemy dodawać liczby do siebie lub je odejmować. Porównanie pokazuje, która grupa ma więcej, a która mniej. Nauka liczb pomaga nam rozwiązywać codzienne problemy.",
+      "script_fi": "Voimme lisätä numeroita yhteen tai ottaa ne pois. Vertailu osoittaa, missä ryhmässä on enemmän tai vähemmän. Numeroiden oppiminen auttaa ratkaisemaan jokapäiväisiä ongelmia.",
+      "script_sk": "Čísla môžeme sčítať alebo odobrať. Porovnanie ukazuje, ktorá skupina má viac alebo menej. Učenie sa čísel nám pomáha riešiť každodenné problémy.",
+      "script_da": "Vi kan lægge tal sammen eller tage dem væk. Sammenligning viser, hvilken gruppe der har flere eller færre. At lære tal hjælper os med at løse hverdagens problemer.",
+      "images": [
+        "compare.webp",
+        "compare_2.webp",
+        "compare_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "digits",
+      "correct": "ten",
+      "question_en": "How many digits are there?",
+      "question_de": "Wie viele Ziffern gibt es?",
+      "question_it": "Quante cifre ci sono?",
+      "question_fr": "Combien y a-t-il de chiffres ?",
+      "question_es": "¿Cuántos dígitos hay?",
+      "question_hr": "Koliko znamenki ima?",
+      "question_cs": "Kolik je tam číslic?",
+      "question_pl": "Ile jest cyfr?",
+      "question_fi": "Kuinka monta numeroa siinä on?",
+      "question_sk": "Koľko je tam číslic?",
+      "question_da": "Hvor mange cifre er der?",
+      "options": [
+        {
+          "id": "ten",
+          "label_en": "Ten (0–9)",
+          "label_de": "Zehn (0–9)",
+          "label_it": "Dieci (0–9)",
+          "label_fr": "Dix (0-9)",
+          "label_es": "Diez (0–9)",
+          "label_hr": "Deset (0–9)",
+          "label_cs": "Deset (0–9)",
+          "label_pl": "Dziesięć (0–9)",
+          "label_fi": "Kymmenen (0-9)",
+          "label_sk": "Desať (0 – 9)",
+          "label_da": "Ti (0-9)"
+        },
+        {
+          "id": "five",
+          "label_en": "Five",
+          "label_de": "Fünf",
+          "label_it": "Cinque",
+          "label_fr": "Cinq",
+          "label_es": "Cinco",
+          "label_hr": "Pet",
+          "label_cs": "Pět",
+          "label_pl": "Pięć",
+          "label_fi": "Viisi",
+          "label_sk": "Päť",
+          "label_da": "Fem"
+        },
+        {
+          "id": "twenty",
+          "label_en": "Twenty",
+          "label_de": "Zwanzig",
+          "label_it": "Venti",
+          "label_fr": "Vingt",
+          "label_es": "Veinte",
+          "label_hr": "Dvadeset",
+          "label_cs": "Dvacet",
+          "label_pl": "Dwadzieścia",
+          "label_fi": "Kaksikymmentä",
+          "label_sk": "dvadsať",
+          "label_da": "Tyve"
+        }
+      ]
+    },
+    {
+      "id": "count",
+      "correct": "count",
+      "question_en": "What do numbers help us do?",
+      "question_de": "Wozu helfen uns Zahlen?",
+      "question_it": "Cosa ci aiutano a fare i numeri?",
+      "question_fr": "Qu’est-ce que les chiffres nous aident à faire ?",
+      "question_es": "¿Qué nos ayudan a hacer los números?",
+      "question_hr": "U čemu nam pomažu brojke?",
+      "question_cs": "K čemu nám čísla pomáhají?",
+      "question_pl": "W czym pomagają nam liczby?",
+      "question_fi": "Mitä numerot auttavat meitä tekemään?",
+      "question_sk": "V čom nám čísla pomáhajú?",
+      "question_da": "Hvad hjælper tal os med?",
+      "options": [
+        {
+          "id": "count",
+          "label_en": "Count and measure",
+          "label_de": "Zählen und messen",
+          "label_it": "Contare e misurare",
+          "label_fr": "Compter et mesurer",
+          "label_es": "contar y medir",
+          "label_hr": "Broji i mjeri",
+          "label_cs": "Počítejte a měřte",
+          "label_pl": "Licz i mierz",
+          "label_fi": "Laske ja mittaa",
+          "label_sk": "Počítajte a merajte",
+          "label_da": "Tæl og mål"
+        },
+        {
+          "id": "sing",
+          "label_en": "Sing only",
+          "label_de": "Nur singen",
+          "label_it": "Canta solo",
+          "label_fr": "Chanter seulement",
+          "label_es": "cantar solo",
+          "label_hr": "Samo pjevaj",
+          "label_cs": "Pouze zpívat",
+          "label_pl": "Tylko śpiewaj",
+          "label_fi": "Laula vain",
+          "label_sk": "Len spievaj",
+          "label_da": "Syng kun"
+        },
+        {
+          "id": "sleep",
+          "label_en": "Sleep",
+          "label_de": "Schlafen",
+          "label_it": "Sonno",
+          "label_fr": "Dormir",
+          "label_es": "Dormir",
+          "label_hr": "Spavati",
+          "label_cs": "Spát",
+          "label_pl": "Spać",
+          "label_fi": "Nukkua",
+          "label_sk": "Spánok",
+          "label_da": "Sove"
+        }
+      ]
+    },
+    {
+      "id": "place",
+      "correct": "value",
+      "question_en": "What changes when a digit moves place?",
+      "question_de": "Was ändert sich, wenn eine Ziffer verschoben wird?",
+      "question_it": "Cosa cambia quando una cifra si sposta?",
+      "question_fr": "Qu'est-ce qui change lorsqu'un chiffre bouge ?",
+      "question_es": "¿Qué cambia cuando un dígito se mueve?",
+      "question_hr": "Što se mijenja kada se znamenka pomakne s mjesta?",
+      "question_cs": "Co se změní, když se číslice posune o místo?",
+      "question_pl": "Co się zmienia, gdy cyfra zmienia miejsce?",
+      "question_fi": "Mikä muuttuu, kun numero siirtyy?",
+      "question_sk": "Čo sa zmení, keď sa číslica posunie o miesto?",
+      "question_da": "Hvad ændrer sig, når et ciffer flytter sig?",
+      "options": [
+        {
+          "id": "value",
+          "label_en": "Its value",
+          "label_de": "Sein Wert",
+          "label_it": "Il suo valore",
+          "label_fr": "Sa valeur",
+          "label_es": "Su valor",
+          "label_hr": "Njegova vrijednost",
+          "label_cs": "Jeho hodnota",
+          "label_pl": "Jego wartość",
+          "label_fi": "Sen arvo",
+          "label_sk": "Jeho hodnota",
+          "label_da": "Dens værdi"
+        },
+        {
+          "id": "colour",
+          "label_en": "Its colour",
+          "label_de": "Seine Farbe",
+          "label_it": "Il suo colore",
+          "label_fr": "Sa couleur",
+          "label_es": "su color",
+          "label_hr": "Njegova boja",
+          "label_cs": "Jeho barva",
+          "label_pl": "Jego kolor",
+          "label_fi": "Sen väri",
+          "label_sk": "Jeho farba",
+          "label_da": "Dens farve"
+        },
+        {
+          "id": "name",
+          "label_en": "Its name",
+          "label_de": "Sein Name",
+          "label_it": "Il suo nome",
+          "label_fr": "Son nom",
+          "label_es": "su nombre",
+          "label_hr": "Njegovo ime",
+          "label_cs": "Jeho jméno",
+          "label_pl": "Jego nazwa",
+          "label_fi": "Sen nimi",
+          "label_sk": "Jeho názov",
+          "label_da": "Dens navn"
+        }
+      ]
+    }
+  ]
+}
