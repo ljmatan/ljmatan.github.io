@@ -1576,6 +1576,27 @@
       "title_da": "Vandfald"
     },
     {
+      "id": "wind",
+      "category_id": "nature",
+      "symbol_id": "wind",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/wind/wind_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/wind/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2266294,
+      "version": 1,
+      "title_en": "Wind",
+      "title_de": "Wind",
+      "title_it": "Vento",
+      "title_fr": "Vent",
+      "title_es": "Viento",
+      "title_hr": "Vjetar",
+      "title_cs": "Vítr",
+      "title_pl": "Wiatr",
+      "title_fi": "Tuuli",
+      "title_sk": "Vietor",
+      "title_da": "Vind"
+    },
+    {
       "id": "comet",
       "category_id": "planets",
       "symbol_id": "comet",

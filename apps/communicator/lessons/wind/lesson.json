@@ -1,0 +1,293 @@
+{
+  "id": "wind",
+  "category_id": "nature",
+  "symbol_id": "wind",
+  "thumbnail": "wind_thumb.webp",
+  "title_en": "Wind",
+  "title_de": "Wind",
+  "title_it": "Vento",
+  "title_fr": "Vent",
+  "title_es": "Viento",
+  "title_hr": "Vjetar",
+  "title_cs": "Vítr",
+  "title_pl": "Wiatr",
+  "title_fi": "Tuuli",
+  "title_sk": "Vietor",
+  "title_da": "Vind",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about wind. Wind is air moving from one place to another. A gentle breeze cools us, and a strong gale can bend trees and stir up waves.",
+      "script_de": "Heute lernen wir etwas über Wind. Wind ist Luft, die sich von einem Ort zum anderen bewegt. Eine sanfte Brise kühlt uns, und ein starker Sturm kann Bäume biegen und Wellen aufwühlen.",
+      "script_it": "Oggi impareremo a conoscere il vento. Il vento è aria che si sposta da un luogo all'altro. Una brezza leggera ci rinfresca, e una forte burrasca può piegare gli alberi e sollevare le onde.",
+      "script_fr": "Aujourd'hui, nous allons découvrir le vent. Le vent est de l'air qui se déplace d'un endroit à un autre. Une brise légère nous rafraîchit, et un fort coup de vent peut courber les arbres et soulever les vagues.",
+      "script_es": "Hoy vamos a aprender sobre el viento. El viento es aire que se mueve de un lugar a otro. Una brisa suave nos refresca, y un vendaval fuerte puede doblar árboles y levantar olas.",
+      "script_hr": "Danas ćemo učiti o vjetru. Vjetar je zrak koji se kreće s jednog mjesta na drugo. Lagani povjetarac nas hladi, a jak vjetar može savijati drveće i podizati valove.",
+      "script_cs": "Dnes se budeme učit o větru. Vítr je vzduch, který se pohybuje z jednoho místa na druhé. Jemný vánek nás ochlazuje a silný vítr může ohýbat stromy a zvedat vlny.",
+      "script_pl": "Dziś dowiemy się czegoś o wietrze. Wiatr to powietrze przemieszczające się z jednego miejsca w drugie. Lekki wietrzyk nas chłodzi, a silny wiatr może zginać drzewa i wzburzać fale.",
+      "script_fi": "Tänään opimme tuulesta. Tuuli on ilmaa, joka liikkuu paikasta toiseen. Lempeä tuulenvire viilentää meitä, ja kova myrskytuuli voi taivuttaa puita ja nostattaa aaltoja.",
+      "script_sk": "Dnes sa budeme učiť o vetre. Vietor je vzduch, ktorý sa pohybuje z jedného miesta na druhé. Jemný vánok nás ochladzuje a silný vietor môže ohýbať stromy a dvíhať vlny.",
+      "script_da": "I dag skal vi lære om vind. Vind er luft, der bevæger sig fra et sted til et andet. En let brise køler os, og en stærk storm kan bøje træer og piske bølger op.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "how",
+      "script_en": "Wind happens because the Sun heats the land and sea unevenly. Warm air rises, and cooler air moves in to fill the space. This movement is what we feel as wind.",
+      "script_de": "Wind entsteht, weil die Sonne Land und Meer unterschiedlich erwärmt. Warme Luft steigt auf, und kühlere Luft strömt nach, um den Platz zu füllen. Diese Bewegung spüren wir als Wind.",
+      "script_it": "Il vento nasce perché il Sole riscalda la terra e il mare in modo irregolare. L'aria calda sale e l'aria più fresca si muove per riempire lo spazio. Questo movimento è ciò che sentiamo come vento.",
+      "script_fr": "Le vent se forme parce que le Soleil chauffe la terre et la mer de façon inégale. L'air chaud monte et l'air plus frais se déplace pour remplir l'espace. C'est ce mouvement que nous ressentons comme le vent.",
+      "script_es": "El viento se produce porque el Sol calienta la tierra y el mar de forma desigual. El aire caliente sube y el aire más fresco se mueve para ocupar el espacio. Ese movimiento es lo que sentimos como viento.",
+      "script_hr": "Vjetar nastaje jer Sunce neravnomjerno grije kopno i more. Topli zrak se diže, a hladniji se kreće kako bi ispunio prostor. To kretanje osjećamo kao vjetar.",
+      "script_cs": "Vítr vzniká proto, že Slunce zahřívá pevninu a moře nerovnoměrně. Teplý vzduch stoupá a chladnější vzduch se pohybuje, aby vyplnil prostor. Tento pohyb cítíme jako vítr.",
+      "script_pl": "Wiatr powstaje, ponieważ Słońce nierównomiernie ogrzewa ląd i morze. Ciepłe powietrze unosi się, a chłodniejsze przemieszcza się, aby wypełnić przestrzeń. Ten ruch odczuwamy jako wiatr.",
+      "script_fi": "Tuuli syntyy, koska Aurinko lämmittää maata ja merta epätasaisesti. Lämmin ilma nousee ja viileämpi ilma virtaa täyttämään tilan. Tämän liikkeen tunnemme tuulena.",
+      "script_sk": "Vietor vzniká preto, že Slnko ohrieva pevninu a more nerovnomerne. Teplý vzduch stúpa a chladnejší vzduch sa pohybuje, aby vyplnil priestor. Tento pohyb cítime ako vietor.",
+      "script_da": "Vind opstår, fordi Solen opvarmer land og hav ujævnt. Varm luft stiger op, og køligere luft bevæger sig ind for at fylde pladsen. Denne bevægelse mærker vi som vind.",
+      "images": [
+        "how.webp",
+        "how_2.webp",
+        "how_3.webp"
+      ]
+    },
+    {
+      "id": "power",
+      "script_en": "People use wind to make electricity. Wind turbines have long blades that spin when the wind blows. The spinning turns a generator and makes power for homes and schools.",
+      "script_de": "Menschen nutzen Wind, um Strom zu erzeugen. Windturbinen haben lange Blätter, die sich drehen, wenn der Wind weht. Die Drehung treibt einen Generator an und erzeugt Strom für Häuser und Schulen.",
+      "script_it": "Le persone usano il vento per produrre elettricità. Le turbine eoliche hanno lunghe pale che girano quando soffia il vento. La rotazione aziona un generatore e produce energia per case e scuole.",
+      "script_fr": "Les gens utilisent le vent pour produire de l'électricité. Les éoliennes ont de longues pales qui tournent quand le vent souffle. La rotation entraîne un générateur et produit de l'énergie pour les maisons et les écoles.",
+      "script_es": "Las personas usan el viento para producir electricidad. Los aerogeneradores tienen palas largas que giran cuando sopla el viento. El giro acciona un generador y produce energía para casas y escuelas.",
+      "script_hr": "Ljudi koriste vjetar za proizvodnju struje. Vjetroturbine imaju dugačke lopatice koje se okreću kad vjetar puše. Okretanje pokreće generator i proizvodi struju za domove i škole.",
+      "script_cs": "Lidé používají vítr k výrobě elektřiny. Větrné turbíny mají dlouhé lopatky, které se otáčejí, když fouká vítr. Otáčení pohání generátor a vyrábí energii pro domovy a školy.",
+      "script_pl": "Ludzie używają wiatru do wytwarzania prądu. Turbiny wiatrowe mają długie łopaty, które obracają się, gdy wieje wiatr. Obrót napędza generator i wytwarza energię dla domów i szkół.",
+      "script_fi": "Ihmiset käyttävät tuulta sähkön tuottamiseen. Tuuliturbiineissa on pitkät lavat, jotka pyörivät tuulen puhaltaessa. Pyöriminen pyörittää generaattoria ja tuottaa sähköä koteihin ja kouluihin.",
+      "script_sk": "Ľudia používajú vietor na výrobu elektriny. Veterné turbíny majú dlhé lopatky, ktoré sa otáčajú, keď fúka vietor. Otáčanie poháňa generátor a vyrába energiu pre domovy a školy.",
+      "script_da": "Folk bruger vind til at lave elektricitet. Vindmøller har lange blade, der drejer, når det blæser. Rotationen driver en generator og laver strøm til hjem og skoler.",
+      "images": [
+        "power.webp",
+        "power_2.webp",
+        "power_3.webp"
+      ]
+    },
+    {
+      "id": "nature",
+      "script_en": "Wind helps plants spread their seeds. It carries pollen between flowers and shapes coastlines by moving sand. Birds and insects also use the wind to travel.",
+      "script_de": "Wind hilft Pflanzen, ihre Samen zu verbreiten. Er trägt Pollen zwischen Blüten und formt Küsten, indem er Sand bewegt. Auch Vögel und Insekten nutzen den Wind zum Reisen.",
+      "script_it": "Il vento aiuta le piante a spargere i semi. Trasporta il polline tra i fiori e modella le coste spostando la sabbia. Anche uccelli e insetti usano il vento per viaggiare.",
+      "script_fr": "Le vent aide les plantes à disperser leurs graines. Il transporte le pollen entre les fleurs et façonne les côtes en déplaçant le sable. Les oiseaux et les insectes utilisent aussi le vent pour voyager.",
+      "script_es": "El viento ayuda a las plantas a dispersar sus semillas. Transporta el polen entre las flores y da forma a las costas moviendo la arena. Las aves y los insectos también usan el viento para viajar.",
+      "script_hr": "Vjetar pomaže biljkama širiti sjeme. Prenosi pelud između cvjetova i oblikuje obale pomičući pijesak. Ptice i kukci također koriste vjetar za putovanje.",
+      "script_cs": "Vítr pomáhá rostlinám šířit semena. Přenáší pyl mezi květy a přemisťováním písku formuje pobřeží. Ptáci a hmyz také využívají vítr k cestování.",
+      "script_pl": "Wiatr pomaga roślinom rozprzestrzeniać nasiona. Przenosi pyłek między kwiatami i kształtuje wybrzeża, przesuwając piasek. Ptaki i owady również wykorzystują wiatr do podróżowania.",
+      "script_fi": "Tuuli auttaa kasveja levittämään siemeniä. Se kuljettaa siitepölyä kukkien välillä ja muovaa rannikoita siirtämällä hiekkaa. Myös linnut ja hyönteiset käyttävät tuulta matkustamiseen.",
+      "script_sk": "Vietor pomáha rastlinám šíriť semená. Prenáša peľ medzi kvetmi a presúvaním piesku formuje pobrežie. Vtáky a hmyz tiež využívajú vietor na cestovanie.",
+      "script_da": "Vind hjælper planter med at sprede deres frø. Den bærer pollen mellem blomster og former kyster ved at flytte sand. Fugle og insekter bruger også vinden til at rejse.",
+      "images": [
+        "nature.webp",
+        "nature_2.webp",
+        "nature_3.webp"
+      ]
+    },
+    {
+      "id": "safe",
+      "script_en": "Wind can be fun, but strong winds can be dangerous. Fly kites in open spaces away from power lines. Stay indoors during a storm and hold onto hats and loose items.",
+      "script_de": "Wind kann Spaß machen, aber starke Winde können gefährlich sein. Lass Drachen an offenen Orten fern von Stromleitungen steigen. Bleib während eines Sturms drinnen und halte Hüte und lose Gegenstände fest.",
+      "script_it": "Il vento può essere divertente, ma i venti forti possono essere pericolosi. Fai volare gli aquiloni in spazi aperti lontano dai cavi elettrici. Resta in casa durante una tempesta e tieni fermo cappelli e oggetti leggeri.",
+      "script_fr": "Le vent peut être amusant, mais les vents forts peuvent être dangereux. Fais voler les cerfs-volants dans des espaces ouverts, loin des lignes électriques. Reste à l'intérieur pendant une tempête et tiens bien les chapeaux et les objets légers.",
+      "script_es": "El viento puede ser divertido, pero los vientos fuertes pueden ser peligrosos. Vuela cometas en espacios abiertos lejos de los cables eléctricos. Quédate dentro durante una tormenta y sujeta los sombreros y objetos sueltos.",
+      "script_hr": "Vjetar može biti zabavan, ali jaki vjetrovi mogu biti opasni. Puštajte zmajeve na otvorenim prostorima daleko od dalekovoda. Ostanite unutra tijekom oluje i držite šešire i labave predmete.",
+      "script_cs": "Vítr může být zábavný, ale silný vítr může být nebezpečný. Pouštěj draky na otevřených prostranstvích daleko od elektrického vedení. Během bouřky zůstaň uvnitř a drž klobouky a volné předměty.",
+      "script_pl": "Wiatr może być zabawny, ale silne wiatry mogą być niebezpieczne. Puszczaj latawce na otwartych przestrzeniach z dala od linii energetycznych. Podczas burzy zostań w domu i przytrzymuj czapki oraz luźne przedmioty.",
+      "script_fi": "Tuuli voi olla hauskaa, mutta voimakas tuuli voi olla vaarallista. Lennätä leijoja avoimilla alueilla kaukana voimalinjoista. Pysy sisällä myrskyn aikana ja pidä kiinni hatuista ja irtonaisista esineistä.",
+      "script_sk": "Vietor môže byť zábavný, ale silný vietor môže byť nebezpečný. Púšťaj šarkany na otvorených priestranstvách ďaleko od elektrického vedenia. Počas búrky zostaň vnútri a drž klobúky a voľné predmety.",
+      "script_da": "Vind kan være sjovt, men stærk vind kan være farlig. Flyv drager på åbne steder væk fra elledninger. Bliv indenfor under en storm, og hold godt fast i hatte og løse ting.",
+      "images": [
+        "safe.webp",
+        "safe_2.webp",
+        "safe_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "what",
+      "correct": "air",
+      "question_en": "What is wind?",
+      "question_de": "Was ist Wind?",
+      "question_it": "Che cos'è il vento?",
+      "question_fr": "Qu'est-ce que le vent ?",
+      "question_es": "¿Qué es el viento?",
+      "question_hr": "Što je vjetar?",
+      "question_cs": "Co je vítr?",
+      "question_pl": "Czym jest wiatr?",
+      "question_fi": "Mikä tuuli on?",
+      "question_sk": "Čo je vietor?",
+      "question_da": "Hvad er vind?",
+      "options": [
+        {
+          "id": "air",
+          "label_en": "Moving air",
+          "label_de": "Bewegte Luft",
+          "label_it": "Aria in movimento",
+          "label_fr": "De l'air en mouvement",
+          "label_es": "Aire en movimiento",
+          "label_hr": "Zrak koji se kreće",
+          "label_cs": "Pohybující se vzduch",
+          "label_pl": "Poruszające się powietrze",
+          "label_fi": "Liikkuva ilma",
+          "label_sk": "Pohybujúci sa vzduch",
+          "label_da": "Luft i bevægelse"
+        },
+        {
+          "id": "water",
+          "label_en": "Moving water",
+          "label_de": "Bewegtes Wasser",
+          "label_it": "Acqua in movimento",
+          "label_fr": "De l'eau en mouvement",
+          "label_es": "Agua en movimiento",
+          "label_hr": "Voda koja se kreće",
+          "label_cs": "Pohybující se voda",
+          "label_pl": "Poruszająca się woda",
+          "label_fi": "Liikkuva vesi",
+          "label_sk": "Pohybujúca sa voda",
+          "label_da": "Vand i bevægelse"
+        },
+        {
+          "id": "sand",
+          "label_en": "Sand",
+          "label_de": "Sand",
+          "label_it": "Sabbia",
+          "label_fr": "Du sable",
+          "label_es": "Arena",
+          "label_hr": "Pijesak",
+          "label_cs": "Písek",
+          "label_pl": "Piasek",
+          "label_fi": "Hiekka",
+          "label_sk": "Piesok",
+          "label_da": "Sand"
+        }
+      ]
+    },
+    {
+      "id": "power",
+      "correct": "electricity",
+      "question_en": "What can wind turbines make?",
+      "question_de": "Was können Windturbinen erzeugen?",
+      "question_it": "Cosa possono produrre le turbine eoliche?",
+      "question_fr": "Que peuvent produire les éoliennes ?",
+      "question_es": "¿Qué pueden producir los aerogeneradores?",
+      "question_hr": "Što mogu proizvesti vjetroturbine?",
+      "question_cs": "Co mohou vyrábět větrné turbíny?",
+      "question_pl": "Co mogą wytwarzać turbiny wiatrowe?",
+      "question_fi": "Mitä tuuliturbiinit voivat tuottaa?",
+      "question_sk": "Čo môžu vyrábať veterné turbíny?",
+      "question_da": "Hvad kan vindmøller lave?",
+      "options": [
+        {
+          "id": "electricity",
+          "label_en": "Electricity",
+          "label_de": "Strom",
+          "label_it": "Elettricità",
+          "label_fr": "De l'électricité",
+          "label_es": "Electricidad",
+          "label_hr": "Struju",
+          "label_cs": "Elektřinu",
+          "label_pl": "Prąd",
+          "label_fi": "Sähköä",
+          "label_sk": "Elektrinu",
+          "label_da": "Elektricitet"
+        },
+        {
+          "id": "food",
+          "label_en": "Food",
+          "label_de": "Essen",
+          "label_it": "Cibo",
+          "label_fr": "De la nourriture",
+          "label_es": "Comida",
+          "label_hr": "Hranu",
+          "label_cs": "Jídlo",
+          "label_pl": "Jedzenie",
+          "label_fi": "Ruokaa",
+          "label_sk": "Jedlo",
+          "label_da": "Mad"
+        },
+        {
+          "id": "rain",
+          "label_en": "Rain",
+          "label_de": "Regen",
+          "label_it": "Pioggia",
+          "label_fr": "De la pluie",
+          "label_es": "Lluvia",
+          "label_hr": "Kišu",
+          "label_cs": "Déšť",
+          "label_pl": "Deszcz",
+          "label_fi": "Sadetta",
+          "label_sk": "Dážď",
+          "label_da": "Regn"
+        }
+      ]
+    },
+    {
+      "id": "safe",
+      "correct": "open",
+      "question_en": "Where should you fly a kite?",
+      "question_de": "Wo sollte man einen Drachen steigen lassen?",
+      "question_it": "Dove dovresti far volare un aquilone?",
+      "question_fr": "Où faut-il faire voler un cerf-volant ?",
+      "question_es": "¿Dónde debes volar una cometa?",
+      "question_hr": "Gdje trebate puštati zmaja?",
+      "question_cs": "Kde máš pouštět draka?",
+      "question_pl": "Gdzie powinieneś puszczać latawiec?",
+      "question_fi": "Missä leijaa pitäisi lennättää?",
+      "question_sk": "Kde by si mal púšťať šarkana?",
+      "question_da": "Hvor skal du flyve en drage?",
+      "options": [
+        {
+          "id": "open",
+          "label_en": "In an open space away from power lines",
+          "label_de": "An einem offenen Ort fern von Stromleitungen",
+          "label_it": "In uno spazio aperto lontano dai cavi elettrici",
+          "label_fr": "Dans un espace ouvert loin des lignes électriques",
+          "label_es": "En un espacio abierto lejos de los cables eléctricos",
+          "label_hr": "Na otvorenom prostoru daleko od dalekovoda",
+          "label_cs": "Na otevřeném prostranství daleko od elektrického vedení",
+          "label_pl": "Na otwartej przestrzeni z dala od linii energetycznych",
+          "label_fi": "Avoimella alueella kaukana voimalinjoista",
+          "label_sk": "Na otvorenom priestranstve ďaleko od elektrického vedenia",
+          "label_da": "På et åbent sted væk fra elledninger"
+        },
+        {
+          "id": "road",
+          "label_en": "On a busy road",
+          "label_de": "Auf einer belebten Straße",
+          "label_it": "Su una strada trafficata",
+          "label_fr": "Sur une route fréquentée",
+          "label_es": "En una carretera concurrida",
+          "label_hr": "Na prometnoj cesti",
+          "label_cs": "Na rušné silnici",
+          "label_pl": "Na ruchliwej drodze",
+          "label_fi": "Vilikkaalla tiellä",
+          "label_sk": "Na rušnej ceste",
+          "label_da": "På en travl vej"
+        },
+        {
+          "id": "roof",
+          "label_en": "On a roof",
+          "label_de": "Auf einem Dach",
+          "label_it": "Su un tetto",
+          "label_fr": "Sur un toit",
+          "label_es": "En un tejado",
+          "label_hr": "Na krovu",
+          "label_cs": "Na střeše",
+          "label_pl": "Na dachu",
+          "label_fi": "Katolla",
+          "label_sk": "Na streche",
+          "label_da": "På et tag"
+        }
+      ]
+    }
+  ]
+}
