@@ -1,0 +1,293 @@
+{
+  "id": "cycling",
+  "category_id": "activities",
+  "symbol_id": "cycling",
+  "thumbnail": "cycling_thumb.webp",
+  "title_en": "Cycling",
+  "title_de": "Radfahren",
+  "title_it": "Ciclismo",
+  "title_fr": "Vélo",
+  "title_es": "Ciclismo",
+  "title_hr": "Biciklizam",
+  "title_cs": "Cyklistika",
+  "title_pl": "Kolarstwo",
+  "title_fi": "Pyöräily",
+  "title_sk": "Jazda na bicykli",
+  "title_da": "Cykling",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about cycling. Cycling is riding a bicycle for travel, exercise, or fun. It is a healthy way to move around without making pollution.",
+      "script_de": "Heute lernen wir etwas über Radfahren. Radfahren bedeutet, Fahrrad zu fahren, um zu reisen, Sport zu treiben oder Spaß zu haben. Es ist eine gesunde Art, sich fortzubewegen, ohne Umweltverschmutzung zu verursachen.",
+      "script_it": "Oggi impareremo a conoscere il ciclismo. Il ciclismo significa andare in bicicletta per viaggiare, fare esercizio o divertirsi. È un modo sano di spostarsi senza inquinare.",
+      "script_fr": "Aujourd'hui, nous allons découvrir le cyclisme. Faire du vélo, c'est faire du vélo pour voyager, faire de l'exercice ou s'amuser. C'est une façon saine de se déplacer sans polluer.",
+      "script_es": "Hoy vamos a aprender sobre ciclismo. Ciclismo es andar en bicicleta para viajar, hacer ejercicio o divertirse. Es una forma saludable de moverse sin contaminar.",
+      "script_hr": "Danas ćemo učiti o biciklizmu. Biciklizam je vožnja bicikla za putovanje, vježbanje ili zabavu. To je zdrav način kretanja bez zagađivanja.",
+      "script_cs": "Dnes se budeme učit o cyklistice. Cyklistika je jízda na kole pro cestování, cvičení nebo zábavu. Je to zdravý způsob, jak se pohybovat bez znečištění.",
+      "script_pl": "Dziś będziemy uczyć się o jeździe na rowerze. Jazda na rowerze to jazda na rowerze w celach podróżniczych, ćwiczeń lub dla zabawy. To zdrowy sposób poruszania się bez zanieczyszczania środowiska.",
+      "script_fi": "Tänään opimme pyöräilystä. Pyöräily on polkupyörällä ajamista matkoilla, liikunnalla tai huvin vuoksi. Se on terveellinen tapa liikkua ilman saastumista.",
+      "script_sk": "Dnes sa budeme učiť o cyklistike. Cyklistika je jazda na bicykli na cestovanie, cvičenie alebo zábavu. Je to zdravý spôsob, ako sa pohybovať bez znečistenia.",
+      "script_da": "I dag skal vi lære om cykling. Cykling er at cykle for at rejse, motionere eller hygge. Det er en sund måde at bevæge sig rundt på uden at lave forurening.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "gear",
+      "script_en": "A helmet protects your head, and lights help others see you. A bell warns people that you are coming. Check your brakes and tyres before you ride.",
+      "script_de": "Ein Helm schützt Ihren Kopf und Lichter helfen anderen, Sie zu sehen. Eine Glocke warnt die Leute vor Ihrem Kommen. Überprüfen Sie Ihre Bremsen und Reifen, bevor Sie losfahren.",
+      "script_it": "Un casco protegge la tua testa e le luci aiutano gli altri a vederti. Una campana avverte la gente del tuo arrivo. Controlla i freni e le gomme prima di guidare.",
+      "script_fr": "Un casque protège votre tête et les lumières aident les autres à vous voir. Une cloche prévient les gens de votre arrivée. Vérifiez vos freins et vos pneus avant de rouler.",
+      "script_es": "Un casco protege su cabeza y las luces ayudan a que otros lo vean. Una campana avisa a la gente de que vienes. Revise sus frenos y neumáticos antes de conducir.",
+      "script_hr": "Kaciga štiti vašu glavu, a svjetla pomažu drugima da vas vide. Zvono upozorava ljude da dolazite. Provjerite svoje kočnice i gume prije vožnje.",
+      "script_cs": "Přilba chrání vaši hlavu a světla pomáhají ostatním, aby vás viděli. Zvonek varuje lidi, že přicházíte. Před jízdou zkontrolujte brzdy a pneumatiky.",
+      "script_pl": "Kask chroni Twoją głowę, a światła pomagają innym Cię widzieć. Dzwonek ostrzega ludzi, że nadchodzisz. Przed jazdą sprawdź hamulce i opony.",
+      "script_fi": "Kypärä suojaa päätäsi ja valot auttavat muita näkemään sinut. Kello varoittaa ihmisiä, että olet tulossa. Tarkista jarrut ja renkaat ennen ajoon lähtöä.",
+      "script_sk": "Prilba chráni vašu hlavu a svetlá pomáhajú ostatným, aby vás videli. Zvonček varuje ľudí, že prichádzate. Pred jazdou si skontrolujte brzdy a pneumatiky.",
+      "script_da": "En hjelm beskytter dit hoved, og lys hjælper andre med at se dig. En klokke advarer folk om, at du kommer. Tjek dine bremser og dæk, før du kører.",
+      "images": [
+        "gear.webp",
+        "gear_2.webp",
+        "gear_3.webp"
+      ]
+    },
+    {
+      "id": "safety",
+      "script_en": "Follow the road rules and ride on the correct side. Use hand signals before turning, and watch for car doors opening. Stay visible and never ride too fast.",
+      "script_de": "Befolgen Sie die Verkehrsregeln und fahren Sie auf der richtigen Seite. Geben Sie vor dem Abbiegen Handzeichen und achten Sie darauf, dass sich die Autotüren öffnen. Bleiben Sie sichtbar und fahren Sie nie zu schnell.",
+      "script_it": "Rispettare le regole della strada e guidare dalla parte corretta. Usa i segnali manuali prima di svoltare e osserva l'apertura delle portiere dell'auto. Rimani visibile e non guidare mai troppo veloce.",
+      "script_fr": "Suivez le code de la route et roulez du bon côté. Utilisez des signaux manuels avant de tourner et surveillez l’ouverture des portes de la voiture. Restez visible et ne roulez jamais trop vite.",
+      "script_es": "Siga las reglas de tránsito y conduzca por el lado correcto. Utilice señales con las manos antes de girar y esté atento a si se abren las puertas del automóvil. Manténgase visible y nunca conduzca demasiado rápido.",
+      "script_hr": "Pridržavajte se prometnih pravila i vozite ispravnom stranom. Koristite ručne signale prije skretanja i gledajte otvaraju li se vrata automobila. Ostanite vidljivi i nikada ne vozite prebrzo.",
+      "script_cs": "Dodržujte pravidla silničního provozu a jezděte po správné straně. Před otočením použijte ruční signály a sledujte, zda se dveře auta neotvírají. Zůstaňte vidět a nikdy nejezděte příliš rychle.",
+      "script_pl": "Przestrzegaj przepisów drogowych i jedź właściwą stroną. Przed skrętem używaj sygnałów ręcznych i uważaj, czy drzwi samochodu się otwierają. Bądź widoczny i nigdy nie jedź za szybko.",
+      "script_fi": "Noudata liikennesääntöjä ja aja oikealla puolella. Käytä käsimerkkejä ennen kääntymistä ja tarkkaile auton ovien avautumista. Pysy näkyvissä äläkä koskaan aja liian nopeasti.",
+      "script_sk": "Dodržujte pravidlá cestnej premávky a jazdite na správnej strane. Pred odbočením použite ručné signály a sledujte, či sa dvere auta neotvárajú. Zostaňte viditeľný a nikdy nejazdite príliš rýchlo.",
+      "script_da": "Følg vejreglerne og kør på den rigtige side. Brug håndsignaler, før du drejer, og pas på bildørene, der åbner sig. Bliv synlig og kør aldrig for hurtigt.",
+      "images": [
+        "safety.webp",
+        "safety_2.webp",
+        "safety_3.webp"
+      ]
+    },
+    {
+      "id": "fitness",
+      "script_en": "Cycling strengthens your legs and heart and gives you fresh air. Start with short rides and take water breaks. Regular practice makes you more confident.",
+      "script_de": "Radfahren stärkt Beine und Herz und sorgt für frische Luft. Beginnen Sie mit kurzen Fahrten und machen Sie Wasserpausen. Regelmäßiges Üben macht Sie selbstbewusster.",
+      "script_it": "Andare in bicicletta rafforza le gambe e il cuore e ti dà aria fresca. Inizia con brevi pedalate e fai pause per l'acqua. La pratica regolare ti rende più sicuro.",
+      "script_fr": "Le vélo renforce vos jambes et votre cœur et vous donne de l'air frais. Commencez par de courtes balades et faites des pauses aquatiques. Une pratique régulière vous rend plus confiant.",
+      "script_es": "El ciclismo fortalece las piernas y el corazón y te da aire fresco. Comience con paseos cortos y tome descansos para tomar agua. La práctica regular te hace tener más confianza.",
+      "script_hr": "Vožnja biciklom jača noge i srce te daje svjež zrak. Počnite s kratkim vožnjama i uzmite stanke za vodu. Redovito vježbanje čini vas sigurnijim.",
+      "script_cs": "Jízda na kole posílí vaše nohy a srdce a dodá vám čerstvý vzduch. Začněte krátkými vyjížďkami a udělejte si vodní přestávky. Pravidelné cvičení vám dodá sebevědomí.",
+      "script_pl": "Jazda na rowerze wzmacnia nogi i serce oraz zapewnia świeże powietrze. Zacznij od krótkich przejażdżek i rób przerwy na wodę. Regularna praktyka dodaje Ci pewności siebie.",
+      "script_fi": "Pyöräily vahvistaa jalkojasi ja sydäntäsi sekä antaa raitista ilmaa. Aloita lyhyillä matkoilla ja pidä vesitaukoja. Säännöllinen harjoittelu tekee sinusta itsevarmemman.",
+      "script_sk": "Bicyklovanie posilní vaše nohy a srdce a dodá vám čerstvý vzduch. Začnite krátkymi jazdami a urobte si vodné prestávky. Pravidelné cvičenie vám dodá sebavedomie.",
+      "script_da": "Cykling styrker dine ben og hjerte og giver dig frisk luft. Start med korte ture og tag vandpauser. Regelmæssig træning gør dig mere selvsikker.",
+      "images": [
+        "fitness.webp",
+        "fitness_2.webp",
+        "fitness_3.webp"
+      ]
+    },
+    {
+      "id": "today",
+      "script_en": "Today many cities have safe bike lanes and shared bicycles. Cycling can replace short car trips and reduce traffic. Always park your bike so it does not block paths.",
+      "script_de": "Heutzutage gibt es in vielen Städten sichere Radwege und gemeinsame Fahrräder. Radfahren kann kurze Autofahrten ersetzen und den Verkehr reduzieren. Stellen Sie Ihr Fahrrad immer so ab, dass es den Weg nicht blockiert.",
+      "script_it": "Oggi molte città dispongono di piste ciclabili sicure e di biciclette condivise. La bicicletta può sostituire i brevi spostamenti in macchina e ridurre il traffico. Parcheggiare sempre la bicicletta in modo che non blocchi i percorsi.",
+      "script_fr": "Aujourd’hui, de nombreuses villes disposent de pistes cyclables sécurisées et de vélos partagés. Le vélo peut remplacer les courts trajets en voiture et réduire la circulation. Garez toujours votre vélo de manière à ce qu'il ne bloque pas les chemins.",
+      "script_es": "Hoy en día muchas ciudades cuentan con carriles bici seguros y bicicletas compartidas. La bicicleta puede sustituir los viajes cortos en coche y reducir el tráfico. Estaciona siempre tu bicicleta de manera que no bloquee los caminos.",
+      "script_hr": "Danas mnogi gradovi imaju sigurne biciklističke staze i zajedničke bicikle. Vožnja biciklom može zamijeniti kratka putovanja automobilom i smanjiti promet. Uvijek parkirajte svoj bicikl tako da ne blokira puteve.",
+      "script_cs": "Dnes má mnoho měst bezpečné cyklostezky a sdílená kola. Cyklistika může nahradit krátké cesty autem a snížit provoz. Vždy zaparkujte kolo tak, aby neblokovalo cesty.",
+      "script_pl": "Obecnie wiele miast posiada bezpieczne ścieżki rowerowe i wspólne rowery. Jazda na rowerze może zastąpić krótkie podróże samochodem i zmniejszyć ruch. Zawsze parkuj rower tak, aby nie blokował ścieżek.",
+      "script_fi": "Nykyään monissa kaupungeissa on turvallisia pyöräteitä ja yhteisiä polkupyöriä. Pyöräily voi korvata lyhyet automatkat ja vähentää liikennettä. Pysäköi pyöräsi aina niin, ettei se peitä polkuja.",
+      "script_sk": "Today many cities have safe bike lanes and shared bicycles. Cyklistika môže nahradiť krátke cesty autom a znížiť premávku. Always park your bike so it does not block paths.",
+      "script_da": "I dag har mange byer sikre cykelstier og fælles cykler. Cykling kan erstatte korte bilture og mindske trafikken. Parker altid din cykel, så den ikke spærrer stier.",
+      "images": [
+        "today.webp",
+        "today_2.webp",
+        "today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "gear",
+      "correct": "helmet",
+      "question_en": "What protects a cyclist's head?",
+      "question_de": "Was schützt den Kopf eines Radfahrers?",
+      "question_it": "Cosa protegge la testa di un ciclista?",
+      "question_fr": "Qu'est-ce qui protège la tête d'un cycliste ?",
+      "question_es": "¿Qué protege la cabeza de un ciclista?",
+      "question_hr": "Što štiti glavu biciklista?",
+      "question_cs": "Co chrání hlavu cyklisty?",
+      "question_pl": "Co chroni głowę rowerzysty?",
+      "question_fi": "Mikä suojaa pyöräilijän päätä?",
+      "question_sk": "Čo chráni hlavu cyklistu?",
+      "question_da": "Hvad beskytter en cyklists hoved?",
+      "options": [
+        {
+          "id": "helmet",
+          "label_en": "A helmet",
+          "label_de": "Ein Helm",
+          "label_it": "Un casco",
+          "label_fr": "Un casque",
+          "label_es": "un casco",
+          "label_hr": "Kaciga",
+          "label_cs": "Přilba",
+          "label_pl": "Hełm",
+          "label_fi": "Kypärä",
+          "label_sk": "Prilba",
+          "label_da": "En hjelm"
+        },
+        {
+          "id": "hat",
+          "label_en": "A sun hat",
+          "label_de": "Ein Sonnenhut",
+          "label_it": "Un cappello da sole",
+          "label_fr": "Un chapeau de soleil",
+          "label_es": "un sombrero para el sol",
+          "label_hr": "Šešir za sunce",
+          "label_cs": "Klobouk proti slunci",
+          "label_pl": "Kapelusz przeciwsłoneczny",
+          "label_fi": "Aurinkohattu",
+          "label_sk": "Klobúk proti slnku",
+          "label_da": "En solhat"
+        },
+        {
+          "id": "scarf",
+          "label_en": "A scarf",
+          "label_de": "Ein Schal",
+          "label_it": "Una sciarpa",
+          "label_fr": "Une écharpe",
+          "label_es": "una bufanda",
+          "label_hr": "šal",
+          "label_cs": "Šátek",
+          "label_pl": "Szalik",
+          "label_fi": "Huivi",
+          "label_sk": "Šál",
+          "label_da": "Et tørklæde"
+        }
+      ]
+    },
+    {
+      "id": "signal",
+      "correct": "hand",
+      "question_en": "What should you use before turning?",
+      "question_de": "Was sollten Sie vor dem Wenden verwenden?",
+      "question_it": "Cosa dovresti usare prima di girare?",
+      "question_fr": "Que faut-il utiliser avant de tourner ?",
+      "question_es": "¿Qué debes usar antes de girar?",
+      "question_hr": "Što biste trebali koristiti prije okretanja?",
+      "question_cs": "Co byste měli použít před otočením?",
+      "question_pl": "Czego użyć przed skrętem?",
+      "question_fi": "Mitä kannattaa käyttää ennen kääntämistä?",
+      "question_sk": "Čo by ste mali použiť pred otočením?",
+      "question_da": "Hvad skal du bruge før du vender?",
+      "options": [
+        {
+          "id": "hand",
+          "label_en": "A hand signal",
+          "label_de": "Ein Handzeichen",
+          "label_it": "Un segnale con la mano",
+          "label_fr": "Un signal de la main",
+          "label_es": "una señal con la mano",
+          "label_hr": "Znak rukom",
+          "label_cs": "Ruční signál",
+          "label_pl": "Sygnał dłoni",
+          "label_fi": "Käsimerkki",
+          "label_sk": "Ručný signál",
+          "label_da": "Et håndsignal"
+        },
+        {
+          "id": "horn",
+          "label_en": "A car horn",
+          "label_de": "Eine Autohupe",
+          "label_it": "Un clacson",
+          "label_fr": "Un klaxon de voiture",
+          "label_es": "la bocina de un auto",
+          "label_hr": "Automobilska sirena",
+          "label_cs": "Klakson auta",
+          "label_pl": "Klakson samochodowy",
+          "label_fi": "Auton äänitorvi",
+          "label_sk": "Klaksón auta",
+          "label_da": "Et bilhorn"
+        },
+        {
+          "id": "whistle",
+          "label_en": "A whistle",
+          "label_de": "Eine Pfeife",
+          "label_it": "Un fischio",
+          "label_fr": "Un sifflet",
+          "label_es": "un silbido",
+          "label_hr": "Zvižduk",
+          "label_cs": "Píšťalka",
+          "label_pl": "Gwizdek",
+          "label_fi": "Pilli",
+          "label_sk": "Píšťalka",
+          "label_da": "En fløjte"
+        }
+      ]
+    },
+    {
+      "id": "benefit",
+      "correct": "strong",
+      "question_en": "How does cycling help your body?",
+      "question_de": "Wie hilft Radfahren Ihrem Körper?",
+      "question_it": "In che modo il ciclismo aiuta il tuo corpo?",
+      "question_fr": "Comment le vélo aide-t-il votre corps ?",
+      "question_es": "¿Cómo ayuda el ciclismo a tu cuerpo?",
+      "question_hr": "Kako vožnja bicikla pomaže vašem tijelu?",
+      "question_cs": "Jak cyklistika pomáhá vašemu tělu?",
+      "question_pl": "Jak jazda na rowerze pomaga Twojemu organizmowi?",
+      "question_fi": "Miten pyöräily auttaa kehoasi?",
+      "question_sk": "Ako cyklistika pomáha vášmu telu?",
+      "question_da": "Hvordan hjælper cykling din krop?",
+      "options": [
+        {
+          "id": "strong",
+          "label_en": "It strengthens legs and heart",
+          "label_de": "Es stärkt Beine und Herz",
+          "label_it": "Rafforza le gambe e il cuore",
+          "label_fr": "Il renforce les jambes et le cœur",
+          "label_es": "Fortalece las piernas y el corazón.",
+          "label_hr": "Jača noge i srce",
+          "label_cs": "Posiluje nohy a srdce",
+          "label_pl": "Wzmacnia nogi i serce",
+          "label_fi": "Se vahvistaa jalkoja ja sydäntä",
+          "label_sk": "Posilňuje nohy a srdce",
+          "label_da": "Det styrker ben og hjerte"
+        },
+        {
+          "id": "sleep",
+          "label_en": "It makes you sleepy",
+          "label_de": "Es macht schläfrig",
+          "label_it": "Ti fa venire sonno",
+          "label_fr": "Ça te rend somnolent",
+          "label_es": "te da sueño",
+          "label_hr": "Čini te pospanim",
+          "label_cs": "Uspí vás to",
+          "label_pl": "To sprawia, że ​​jesteś śpiący",
+          "label_fi": "Se tekee sinut uneliaaksi",
+          "label_sk": "Uspáva vás",
+          "label_da": "Det gør dig søvnig"
+        },
+        {
+          "id": "cold",
+          "label_en": "It makes you cold",
+          "label_de": "Es macht dich kalt",
+          "label_it": "Ti fa freddo",
+          "label_fr": "Ça te fait froid",
+          "label_es": "te da frio",
+          "label_hr": "Hladno ti je",
+          "label_cs": "Je z toho zima",
+          "label_pl": "To sprawia, że ​​jest ci zimno",
+          "label_fi": "Se saa sinut kylmäksi",
+          "label_sk": "Je z toho zima",
+          "label_da": "Det gør dig kold"
+        }
+      ]
+    }
+  ]
+}

@@ -43,6 +43,27 @@
       "title_da": "Madlavning"
     },
     {
+      "id": "cycling",
+      "category_id": "activities",
+      "symbol_id": "cycling",
+      "thumbnail_url": "https://ljmatan.github.io/apps/communicator/lessons/cycling/cycling_thumb.webp",
+      "content_url": "https://ljmatan.github.io/apps/communicator/lessons/cycling/lesson.json",
+      "scene_count": 5,
+      "size_bytes": 2817847,
+      "version": 1,
+      "title_en": "Cycling",
+      "title_de": "Radfahren",
+      "title_it": "Ciclismo",
+      "title_fr": "Vélo",
+      "title_es": "Ciclismo",
+      "title_hr": "Biciklizam",
+      "title_cs": "Cyklistika",
+      "title_pl": "Kolarstwo",
+      "title_fi": "Pyöräily",
+      "title_sk": "Jazda na bicykli",
+      "title_da": "Cykling"
+    },
+    {
       "id": "dancing",
       "category_id": "activities",
       "symbol_id": "dancing",
