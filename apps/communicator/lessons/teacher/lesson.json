@@ -1,0 +1,293 @@
+{
+  "id": "teacher",
+  "category_id": "school",
+  "symbol_id": "teacher",
+  "thumbnail": "teacher_thumb.webp",
+  "title_en": "Teachers",
+  "title_de": "Lehrer",
+  "title_it": "Insegnanti",
+  "title_fr": "Enseignants",
+  "title_es": "Maestros",
+  "title_hr": "Učitelji",
+  "title_cs": "Učitelé",
+  "title_pl": "Nauczyciele",
+  "title_fi": "Opettajat",
+  "title_sk": "Učitelia",
+  "title_da": "Lærere",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about teachers. A teacher is a person who helps others learn. Teachers plan lessons, explain ideas, and encourage students to do their best.",
+      "script_de": "Heute lernen wir etwas über Lehrer. Ein Lehrer ist ein Mensch, der anderen beim Lernen hilft. Lehrer planen Unterricht, erklären Ideen und ermutigen Schüler, ihr Bestes zu geben.",
+      "script_it": "Oggi impareremo a conoscere gli insegnanti. Un insegnante è una persona che aiuta gli altri a imparare. Gli insegnanti preparano le lezioni, spiegano le idee e incoraggiano gli studenti a dare il meglio.",
+      "script_fr": "Aujourd'hui, nous allons découvrir les enseignants. Un enseignant est une personne qui aide les autres à apprendre. Les enseignants préparent des leçons, expliquent des idées et encouragent les élèves à faire de leur mieux.",
+      "script_es": "Hoy vamos a aprender sobre los maestros. Un maestro es una persona que ayuda a otros a aprender. Los maestros preparan lecciones, explican ideas y animan a los estudiantes a dar lo mejor de sí.",
+      "script_hr": "Danas ćemo učiti o učiteljima. Učitelj je osoba koja pomaže drugima učiti. Učitelji planiraju nastavu, objašnjavaju ideje i potiču učenike da daju sve od sebe.",
+      "script_cs": "Dnes se budeme učit o učitelích. Učitel je člověk, který pomáhá ostatním učit se. Učitelé plánují hodiny, vysvětlují myšlenky a povzbuzují žáky, aby dělali, co umí nejlépe.",
+      "script_pl": "Dziś dowiemy się czegoś o nauczycielach. Nauczyciel to osoba, która pomaga innym się uczyć. Nauczyciele planują lekcje, wyjaśniają idee i zachęcają uczniów, aby dawali z siebie wszystko.",
+      "script_fi": "Tänään opimme opettajista. Opettaja on henkilö, joka auttaa muita oppimaan. Opettajat suunnittelevat tunteja, selittävät asioita ja kannustavat oppilaita parhaimpaansa.",
+      "script_sk": "Dnes sa budeme učiť o učiteľoch. Učiteľ je človek, ktorý pomáha iným učiť sa. Učitelia plánujú hodiny, vysvetľujú myšlienky a povzbudzujú žiakov, aby robili, čo najlepšie vedia.",
+      "script_da": "I dag skal vi lære om lærere. En lærer er en person, der hjælper andre med at lære. Lærere planlægger undervisning, forklarer idéer og opmuntrer eleverne til at gøre deres bedste.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "plan",
+      "script_en": "Teachers prepare lessons before class. They choose activities that help students understand new ideas. They also check work and give helpful feedback.",
+      "script_de": "Lehrer bereiten den Unterricht vor der Stunde vor. Sie wählen Aktivitäten, die Schülern helfen, neue Ideen zu verstehen. Sie prüfen auch Arbeiten und geben hilfreiches Feedback.",
+      "script_it": "Gli insegnanti preparano le lezioni prima della classe. Scelgono attività che aiutano gli studenti a capire nuove idee. Controllano anche i compiti e danno un feedback utile.",
+      "script_fr": "Les enseignants préparent les leçons avant la classe. Ils choisissent des activités qui aident les élèves à comprendre de nouvelles idées. Ils vérifient aussi le travail et donnent des retours utiles.",
+      "script_es": "Los maestros preparan las lecciones antes de la clase. Eligen actividades que ayudan a los estudiantes a entender ideas nuevas. También revisan el trabajo y dan comentarios útiles.",
+      "script_hr": "Učitelji pripremaju nastavu prije sata. Odabiru aktivnosti koje pomažu učenicima razumjeti nove ideje. Također pregledavaju radove i daju korisne povratne informacije.",
+      "script_cs": "Učitelé připravují hodiny před výukou. Vybírají činnosti, které žákům pomáhají pochopit nové myšlenky. Také kontrolují práci a dávají užitečnou zpětnou vazbu.",
+      "script_pl": "Nauczyciele przygotowują lekcje przed zajęciami. Wybierają aktywności, które pomagają uczniom zrozumieć nowe idee. Sprawdzają też prace i udzielają pomocnych wskazówek.",
+      "script_fi": "Opettajat valmistelevat tunnit ennen oppituntia. He valitsevat tehtäviä, jotka auttavat oppilaita ymmärtämään uusia asioita. He myös tarkistavat töitä ja antavat hyödyllistä palautetta.",
+      "script_sk": "Učitelia pripravujú hodiny pred vyučovaním. Vybirajú činnosti, ktoré žiakom pomáhajú pochopiť nové myšlienky. Tiež kontrolujú prácu a dávajú užitočnú spätnú väzbu.",
+      "script_da": "Lærere forbereder undervisningen før timen. De vælger aktiviteter, der hjælper eleverne med at forstå nye idéer. De tjekker også arbejde og giver nyttig feedback.",
+      "images": [
+        "plan.webp",
+        "plan_2.webp",
+        "plan_3.webp"
+      ]
+    },
+    {
+      "id": "subjects",
+      "script_en": "Teachers teach many subjects, from reading and maths to art and physical education. Some teachers work with young children, and some teach older students or adults.",
+      "script_de": "Lehrer unterrichten viele Fächer, von Lesen und Mathematik bis Kunst und Sport. Manche Lehrer arbeiten mit kleinen Kindern, andere unterrichten ältere Schüler oder Erwachsene.",
+      "script_it": "Gli insegnanti insegnano molte materie, dalla lettura e matematica all'arte e all'educazione fisica. Alcuni lavorano con bambini piccoli, altri insegnano a studenti più grandi o ad adulti.",
+      "script_fr": "Les enseignants enseignent de nombreuses matières, de la lecture et des mathématiques à l'art et à l'éducation physique. Certains travaillent avec de jeunes enfants, d'autres enseignent à des élèves plus âgés ou à des adultes.",
+      "script_es": "Los maestros enseñan muchas materias, desde lectura y matemáticas hasta arte y educación física. Algunos trabajan con niños pequeños y otros enseñan a estudiantes mayores o a adultos.",
+      "script_hr": "Učitelji predaju mnoge predmete, od čitanja i matematike do umjetnosti i tjelesnog odgoja. Neki rade s malom djecom, a neki predaju starijim učenicima ili odraslima.",
+      "script_cs": "Učitelé učí mnoho předmětů, od čtení a matematiky po výtvarnou výchovu a tělocvik. Někteří pracují s malými dětmi, jiní učí starší žáky nebo dospělé.",
+      "script_pl": "Nauczyciele uczą wielu przedmiotów, od czytania i matematyki po plastykę i wychowanie fizyczne. Niektórzy pracują z małymi dziećmi, a inni uczą starszych uczniów lub dorosłych.",
+      "script_fi": "Opettajat opettavat monia aineita lukemisesta ja matematiikasta kuvataiteeseen ja liikuntaan. Jotkut työskentelevät pienten lasten kanssa, toiset opettavat vanhempia oppilaita tai aikuisia.",
+      "script_sk": "Učitelia učia mnoho predmetov, od čítania a matematiky po výtvarnú výchovu a telesnú výchovu. Niektorí pracujú s malými deťmi, iní učia starších žiakov alebo dospelých.",
+      "script_da": "Lærere underviser i mange fag, fra læsning og matematik til billedkunst og idræt. Nogle arbejder med små børn, andre underviser ældre elever eller voksne.",
+      "images": [
+        "subjects.webp",
+        "subjects_2.webp",
+        "subjects_3.webp"
+      ]
+    },
+    {
+      "id": "help",
+      "script_en": "Good teachers listen and ask questions. They explain things in different ways until a student understands. They also help students get along and feel included.",
+      "script_de": "Gute Lehrer hören zu und stellen Fragen. Sie erklären Dinge auf verschiedene Weise, bis ein Schüler versteht. Sie helfen auch dabei, dass Schüler gut miteinander auskommen und sich dazugehörig fühlen.",
+      "script_it": "I bravi insegnanti ascoltano e fanno domande. Spiegano le cose in modi diversi finché uno studente capisce. Aiutano anche gli studenti ad andare d'accordo e a sentirsi inclusi.",
+      "script_fr": "Les bons enseignants écoutent et posent des questions. Ils expliquent les choses de différentes façons jusqu'à ce qu'un élève comprenne. Ils aident aussi les élèves à s'entendre et à se sentir inclus.",
+      "script_es": "Los buenos maestros escuchan y hacen preguntas. Explican las cosas de distintas maneras hasta que un estudiante entiende. También ayudan a los estudiantes a llevarse bien y a sentirse incluidos.",
+      "script_hr": "Dobri učitelji slušaju i postavljaju pitanja. Objašnjavaju stvari na različite načine dok učenik ne razumije. Pomažu učenicima i da se slažu i da se osjećaju prihvaćeno.",
+      "script_cs": "Dobří učitelé naslouchají a kladou otázky. Vysvětlují věci různými způsoby, dokud žák nepochopí. Pomáhají žákům také vycházet spolu a cítit se součástí kolektivu.",
+      "script_pl": "Dobrzy nauczyciele słuchają i zadają pytania. Wyjaśniają rzeczy na różne sposoby, aż uczeń zrozumie. Pomagają też uczniom się dogadywać i czuć się częścią grupy.",
+      "script_fi": "Hyvät opettajat kuuntelevat ja kysyvät kysymyksiä. He selittävät asioita eri tavoin, kunnes oppilas ymmärtää. He auttavat oppilaita myös tulemaan toimeen ja tuntemaan kuuluvansa joukkoon.",
+      "script_sk": "Dobrí učitelia počúvajú a kladú otázky. Vysvetľujú veci rôznymi spôsobmi, kým žiak nepochopí. Pomáhajú žiakom aj vychádzať spolu a cítiť sa súčasťou kolektívu.",
+      "script_da": "Gode lærere lytter og stiller spørgsmål. De forklarer ting på forskellige måder, indtil en elev forstår. De hjælper også eleverne med at komme godt ud af det sammen og føle sig inkluderet.",
+      "images": [
+        "help.webp",
+        "help_2.webp",
+        "help_3.webp"
+      ]
+    },
+    {
+      "id": "respect",
+      "script_en": "Teachers work hard to help others grow. We can show respect by listening, following instructions, and saying thank you. One day you might even become a teacher yourself.",
+      "script_de": "Lehrer arbeiten hart daran, anderen beim Wachsen zu helfen. Wir können Respekt zeigen, indem wir zuhören, Anweisungen befolgen und Danke sagen. Eines Tages könntest du selbst Lehrer werden.",
+      "script_it": "Gli insegnanti lavorano sodo per aiutare gli altri a crescere. Possiamo mostrare rispetto ascoltando, seguendo le istruzioni e dicendo grazie. Un giorno potresti diventare anche tu un insegnante.",
+      "script_fr": "Les enseignants travaillent dur pour aider les autres à grandir. Nous pouvons montrer du respect en écoutant, en suivant les consignes et en disant merci. Un jour, tu pourrais toi aussi devenir enseignant.",
+      "script_es": "Los maestros trabajan duro para ayudar a otros a crecer. Podemos mostrar respeto escuchando, siguiendo instrucciones y dando las gracias. Algún día tú también podrías convertirte en maestro.",
+      "script_hr": "Učitelji marljivo rade kako bi pomogli drugima rasti. Poštovanje možemo pokazati slušanjem, slijeđenjem uputa i zahvaljivanjem. Jednog dana i sami biste mogli postati učitelj.",
+      "script_cs": "Učitelé tvrdě pracují, aby pomohli ostatním růst. Respekt můžeme ukázat tím, že posloucháme, dodržujeme pokyny a děkujeme. Jednou se i ty můžeš stát učitelem.",
+      "script_pl": "Nauczyciele ciężko pracują, aby pomóc innym się rozwijać. Szacunek możemy okazać, słuchając, przestrzegając poleceń i dziękując. Pewnego dnia ty też możesz zostać nauczycielem.",
+      "script_fi": "Opettajat tekevät kovasti työtä auttaakseen muita kasvamaan. Voimme osoittaa kunnioitusta kuuntelemalla, noudattamalla ohjeita ja sanomalla kiitos. Jonain päivänä sinustakin voi tulla opettaja.",
+      "script_sk": "Učitelia tvrdo pracujú, aby pomohli iným rásť. Rešpekt môžeme ukázať tým, že počúvame, dodržiavame pokyny a ďakujeme. Jedného dňa sa aj ty môžeš stať učiteľom.",
+      "script_da": "Lærere arbejder hårdt for at hjælpe andre med at vokse. Vi kan vise respekt ved at lytte, følge instruktioner og sige tak. En dag kan du måske selv blive lærer.",
+      "images": [
+        "respect.webp",
+        "respect_2.webp",
+        "respect_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "what",
+      "correct": "help",
+      "question_en": "What does a teacher do?",
+      "question_de": "Was macht ein Lehrer?",
+      "question_it": "Cosa fa un insegnante?",
+      "question_fr": "Que fait un enseignant ?",
+      "question_es": "¿Qué hace un maestro?",
+      "question_hr": "Što radi učitelj?",
+      "question_cs": "Co dělá učitel?",
+      "question_pl": "Co robi nauczyciel?",
+      "question_fi": "Mitä opettaja tekee?",
+      "question_sk": "Čo robí učiteľ?",
+      "question_da": "Hvad gør en lærer?",
+      "options": [
+        {
+          "id": "help",
+          "label_en": "Helps others learn",
+          "label_de": "Hilft anderen beim Lernen",
+          "label_it": "Aiuta gli altri a imparare",
+          "label_fr": "Aide les autres à apprendre",
+          "label_es": "Ayuda a otros a aprender",
+          "label_hr": "Pomaže drugima učiti",
+          "label_cs": "Pomáhá ostatním učit se",
+          "label_pl": "Pomaga innym się uczyć",
+          "label_fi": "Auttaa muita oppimaan",
+          "label_sk": "Pomáha iným učiť sa",
+          "label_da": "Hjælper andre med at lære"
+        },
+        {
+          "id": "cook",
+          "label_en": "Cooks in a restaurant",
+          "label_de": "Kocht in einem Restaurant",
+          "label_it": "Cucina in un ristorante",
+          "label_fr": "Cuisine dans un restaurant",
+          "label_es": "Cocina en un restaurante",
+          "label_hr": "Kuha u restoranu",
+          "label_cs": "Vaří v restauraci",
+          "label_pl": "Gotuje w restauracji",
+          "label_fi": "Kokkaa ravintolassa",
+          "label_sk": "Varí v reštaurácii",
+          "label_da": "Laver mad på en restaurant"
+        },
+        {
+          "id": "drive",
+          "label_en": "Drives a bus",
+          "label_de": "Fährt einen Bus",
+          "label_it": "Guida un autobus",
+          "label_fr": "Conduit un bus",
+          "label_es": "Conduce un autobús",
+          "label_hr": "Vozi autobus",
+          "label_cs": "Řídí autobus",
+          "label_pl": "Prowadzi autobus",
+          "label_fi": "Ajaa bussia",
+          "label_sk": "Šoféruje autobus",
+          "label_da": "Kører bus"
+        }
+      ]
+    },
+    {
+      "id": "plan",
+      "correct": "plan",
+      "question_en": "What do teachers do before class?",
+      "question_de": "Was machen Lehrer vor der Stunde?",
+      "question_it": "Cosa fanno gli insegnanti prima della classe?",
+      "question_fr": "Que font les enseignants avant la classe ?",
+      "question_es": "¿Qué hacen los maestros antes de la clase?",
+      "question_hr": "Što učitelji rade prije sata?",
+      "question_cs": "Co dělají učitelé před výukou?",
+      "question_pl": "Co robią nauczyciele przed zajęciami?",
+      "question_fi": "Mitä opettajat tekevät ennen oppituntia?",
+      "question_sk": "Čo robia učitelia pred vyučovaním?",
+      "question_da": "Hvad gør lærere før timen?",
+      "options": [
+        {
+          "id": "plan",
+          "label_en": "Plan lessons",
+          "label_de": "Unterricht planen",
+          "label_it": "Pianificare le lezioni",
+          "label_fr": "Préparer les leçons",
+          "label_es": "Planear las lecciones",
+          "label_hr": "Planiraju nastavu",
+          "label_cs": "Plánují hodiny",
+          "label_pl": "Planują lekcje",
+          "label_fi": "Suunnittelevat tunteja",
+          "label_sk": "Plánujú hodiny",
+          "label_da": "Planlægger undervisning"
+        },
+        {
+          "id": "sleep",
+          "label_en": "Go to sleep",
+          "label_de": "Schlafen gehen",
+          "label_it": "Andare a dormire",
+          "label_fr": "Aller dormir",
+          "label_es": "Ir a dormir",
+          "label_hr": "Idu spavati",
+          "label_cs": "Jdou spát",
+          "label_pl": "Idą spać",
+          "label_fi": "Menevät nukkumaan",
+          "label_sk": "Idú spať",
+          "label_da": "Går i seng"
+        },
+        {
+          "id": "shopping",
+          "label_en": "Go shopping",
+          "label_de": "Einkaufen gehen",
+          "label_it": "Andare a fare la spesa",
+          "label_fr": "Aller faire les courses",
+          "label_es": "Ir de compras",
+          "label_hr": "Idu u kupovinu",
+          "label_cs": "Jdou nakupovat",
+          "label_pl": "Idą na zakupy",
+          "label_fi": "Menevät ostoksille",
+          "label_sk": "Idú nakupovať",
+          "label_da": "Går på indkøb"
+        }
+      ]
+    },
+    {
+      "id": "respect",
+      "correct": "listen",
+      "question_en": "How can you show respect to a teacher?",
+      "question_de": "Wie kannst du einem Lehrer Respekt zeigen?",
+      "question_it": "Come puoi mostrare rispetto a un insegnante?",
+      "question_fr": "Comment peux-tu montrer du respect à un enseignant ?",
+      "question_es": "¿Cómo puedes mostrar respeto a un maestro?",
+      "question_hr": "Kako možete pokazati poštovanje prema učitelju?",
+      "question_cs": "Jak můžeš ukázat úctu učiteli?",
+      "question_pl": "Jak możesz okazać szacunek nauczycielowi?",
+      "question_fi": "Miten voit osoittaa kunnioitusta opettajalle?",
+      "question_sk": "Ako môžeš ukázať úctu učiteľovi?",
+      "question_da": "Hvordan kan du vise respekt for en lærer?",
+      "options": [
+        {
+          "id": "listen",
+          "label_en": "Listen and say thank you",
+          "label_de": "Zuhören und Danke sagen",
+          "label_it": "Ascoltare e dire grazie",
+          "label_fr": "Écouter et dire merci",
+          "label_es": "Escuchar y dar las gracias",
+          "label_hr": "Slušati i zahvaliti",
+          "label_cs": "Poslouchat a děkovat",
+          "label_pl": "Słuchać i dziękować",
+          "label_fi": "Kuunnella ja sanoa kiitos",
+          "label_sk": "Počúvať a ďakovať",
+          "label_da": "Lytte og sige tak"
+        },
+        {
+          "id": "shout",
+          "label_en": "Shout over them",
+          "label_de": "Ihn überschreien",
+          "label_it": "Gridare sopra di lui",
+          "label_fr": "Crier par-dessus lui",
+          "label_es": "Gritar por encima de él",
+          "label_hr": "Vikati preko njega",
+          "label_cs": "Křičet přes něj",
+          "label_pl": "Krzyczeć przez niego",
+          "label_fi": "Huutaa hänen päälleen",
+          "label_sk": "Kričať cez neho",
+          "label_da": "Råbe over dem"
+        },
+        {
+          "id": "ignore",
+          "label_en": "Ignore them",
+          "label_de": "Ihn ignorieren",
+          "label_it": "Ignorarlo",
+          "label_fr": "L'ignorer",
+          "label_es": "Ignorarlo",
+          "label_hr": "Ignorirati ga",
+          "label_cs": "Ignorovat ho",
+          "label_pl": "Ignorować go",
+          "label_fi": "Jättää hänet huomiotta",
+          "label_sk": "Ignorovať ho",
+          "label_da": "Ignorere dem"
+        }
+      ]
+    }
+  ]
+}

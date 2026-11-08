@@ -1,0 +1,293 @@
+{
+  "id": "thunderstorm",
+  "category_id": "nature",
+  "symbol_id": "thunderstorm",
+  "thumbnail": "thunderstorm_thumb.webp",
+  "title_en": "Thunderstorms",
+  "title_de": "Gewitter",
+  "title_it": "Temporali",
+  "title_fr": "Orages",
+  "title_es": "Tormentas eléctricas",
+  "title_hr": "Grmljavinske oluje",
+  "title_cs": "Bouřky",
+  "title_pl": "Burze",
+  "title_fi": "Ukkosmyrskyt",
+  "title_sk": "Búrky",
+  "title_da": "Tordenvejr",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about thunderstorms. A thunderstorm is a storm with heavy rain, lightning, and thunder. It usually forms in tall, dark clouds called cumulonimbus clouds.",
+      "script_de": "Heute lernen wir etwas über Gewitter. Ein Gewitter ist ein Sturm mit starkem Regen, Blitzen und Donner. Es entsteht meist in hohen, dunklen Wolken, den Cumulonimbuswolken.",
+      "script_it": "Oggi impareremo a conoscere i temporali. Un temporale è una tempesta con pioggia forte, fulmini e tuoni. Di solito si forma in nuvole alte e scure chiamate cumulonembi.",
+      "script_fr": "Aujourd'hui, nous allons découvrir les orages. Un orage est une tempête avec de fortes pluies, des éclairs et du tonnerre. Il se forme généralement dans de hauts nuages sombres appelés cumulonimbus.",
+      "script_es": "Hoy vamos a aprender sobre las tormentas eléctricas. Una tormenta eléctrica es una tempestad con lluvia fuerte, rayos y truenos. Suele formarse en nubes altas y oscuras llamadas cumulonimbos.",
+      "script_hr": "Danas ćemo učiti o grmljavinskim olujama. Grmljavinska oluja je nevrijeme s jakom kišom, munjama i grmljavinom. Obično nastaje u visokim, tamnim oblacima zvanima kumulonimbusi.",
+      "script_cs": "Dnes se budeme učit o bouřkách. Bouřka je bouře se silným deštěm, blesky a hromem. Obvykle vzniká ve vysokých tmavých oblacích zvaných cumulonimbus.",
+      "script_pl": "Dziś dowiemy się czegoś o burzach. Burza to nawałnica z ulewnym deszczem, błyskawicami i grzmotami. Zwykle tworzy się w wysokich, ciemnych chmurach zwanych cumulonimbusami.",
+      "script_fi": "Tänään opimme ukkosmyrskyistä. Ukkosmyrsky on myrsky, jossa on rankkaa sadetta, salamoita ja ukkosta. Se syntyy yleensä korkeisiin, tummiin pilviin, joita kutsutaan cumulonimbus-pilviksi.",
+      "script_sk": "Dnes sa budeme učiť o búrkach. Búrka je búrka so silným dažďom, bleskami a hrmením. Zvyčajne vzniká vo vysokých tmavých oblakoch nazývaných cumulonimbus.",
+      "script_da": "I dag skal vi lære om tordenvejr. Et tordenvejr er en storm med kraftig regn, lyn og torden. Det dannes normalt i høje, mørke skyer kaldet cumulonimbusskyer.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "lightning",
+      "script_en": "Lightning is a giant spark of electricity in the air. It happens when tiny ice and water particles bump together inside a cloud and build up electric charge. The spark jumps to another cloud or the ground.",
+      "script_de": "Blitze sind riesige elektrische Funken in der Luft. Sie entstehen, wenn winzige Eis- und Wasserteilchen in einer Wolke zusammenstoßen und elektrische Ladung aufbauen. Der Funke springt zu einer anderen Wolke oder zum Boden.",
+      "script_it": "I fulmini sono enormi scintille di elettricità nell'aria. Si verificano quando minuscole particelle di ghiaccio e acqua si urtano dentro una nuvola e accumulano carica elettrica. La scintilla salta verso un'altra nuvola o verso il suolo.",
+      "script_fr": "Les éclairs sont d'énormes étincelles d'électricité dans l'air. Ils se produisent quand de minuscules particules de glace et d'eau se heurtent dans un nuage et accumulent une charge électrique. L'étincelle saute vers un autre nuage ou vers le sol.",
+      "script_es": "Los rayos son enormes chispas de electricidad en el aire. Ocurren cuando diminutas partículas de hielo y agua chocan dentro de una nube y acumulan carga eléctrica. La chispa salta a otra nube o al suelo.",
+      "script_hr": "Munje su goleme iskre elektriciteta u zraku. Nastaju kad se sitne čestice leda i vode sudare unutar oblaka i nakupe električni naboj. Iskra preskoči na drugi oblak ili na tlo.",
+      "script_cs": "Blesky jsou obrovské elektrické jiskry ve vzduchu. Vznikají, když se drobné částice ledu a vody srazí uvnitř oblaku a nahromadí elektrický náboj. Jiskra přeskočí na jiný oblak nebo na zem.",
+      "script_pl": "Błyskawice to ogromne iskry elektryczności w powietrzu. Powstają, gdy drobne cząsteczki lodu i wody zderzają się wewnątrz chmury i gromadzą ładunek elektryczny. Iskra przeskakuje do innej chmury lub do ziemi.",
+      "script_fi": "Salamat ovat valtavia sähkökipinöitä ilmassa. Ne syntyvät, kun pienet jää- ja vesihiukkaset törmäävät pilven sisällä ja kerryttävät sähkövarausta. Kipinä hyppää toiseen pilveen tai maahan.",
+      "script_sk": "Blesky sú obrovské elektrické iskry vo vzduchu. Vznikajú, keď sa drobné častice ľadu a vody zrazia vnútri oblaku a nahromadia elektrický náboj. Iskra preskočí na iný oblak alebo na zem.",
+      "script_da": "Lyn er kæmpe elektriske gnister i luften. De opstår, når bittesmå is- og vandpartikler støder sammen inde i en sky og opbygger elektrisk ladning. Gnisten springer til en anden sky eller til jorden.",
+      "images": [
+        "lightning.webp",
+        "lightning_2.webp",
+        "lightning_3.webp"
+      ]
+    },
+    {
+      "id": "thunder",
+      "script_en": "Thunder is the sound that lightning makes. Light travels much faster than sound, so we see lightning before we hear thunder. Counting the seconds between them can tell you how far away the storm is.",
+      "script_de": "Donner ist das Geräusch, das ein Blitz erzeugt. Licht ist viel schneller als Schall, deshalb sehen wir den Blitz, bevor wir den Donner hören. Wenn du die Sekunden dazwischen zählst, kannst du abschätzen, wie weit das Gewitter entfernt ist.",
+      "script_it": "Il tuono è il suono prodotto dal fulmine. La luce viaggia molto più veloce del suono, quindi vediamo il fulmine prima di sentire il tuono. Contare i secondi tra i due ti dice quanto è lontano il temporale.",
+      "script_fr": "Le tonnerre est le bruit produit par l'éclair. La lumière voyage beaucoup plus vite que le son, c'est pourquoi on voit l'éclair avant d'entendre le tonnerre. Compter les secondes entre les deux permet de savoir à quelle distance est l'orage.",
+      "script_es": "El trueno es el sonido que produce el rayo. La luz viaja mucho más rápido que el sonido, por eso vemos el rayo antes de oír el trueno. Contar los segundos entre ambos te dice a qué distancia está la tormenta.",
+      "script_hr": "Grmljavina je zvuk koji stvara munja. Svjetlost putuje mnogo brže od zvuka, pa munju vidimo prije nego čujemo grmljavinu. Brojanje sekundi između njih pokazuje koliko je oluja daleko.",
+      "script_cs": "Hrom je zvuk, který vytváří blesk. Světlo cestuje mnohem rychleji než zvuk, a proto vidíme blesk dřív, než uslyšíme hrom. Počítání sekund mezi nimi ti prozradí, jak daleko je bouřka.",
+      "script_pl": "Grzmot to dźwięk, który powstaje od błyskawicy. Światło podróżuje znacznie szybciej niż dźwięk, dlatego widzimy błyskawicę, zanim usłyszymy grzmot. Liczenie sekund między nimi pozwala ocenić, jak daleko jest burza.",
+      "script_fi": "Ukkonen on ääni, jonka salama aiheuttaa. Valo kulkee paljon nopeammin kuin ääni, joten näemme salaman ennen kuin kuulemme ukkosen. Sekuntien laskeminen niiden välillä kertoo, miten kaukana myrsky on.",
+      "script_sk": "Hrom je zvuk, ktorý vytvára blesk. Svetlo cestuje oveľa rýchlejšie ako zvuk, a preto vidíme blesk skôr, než počujeme hrom. Počítanie sekúnd medzi nimi ti prezradí, ako ďaleko je búrka.",
+      "script_da": "Torden er den lyd, lynet laver. Lys rejser meget hurtigere end lyd, så vi ser lynet, før vi hører tordenen. Hvis du tæller sekunderne mellem dem, kan du se, hvor langt væk stormen er.",
+      "images": [
+        "thunder.webp",
+        "thunder_2.webp",
+        "thunder_3.webp"
+      ]
+    },
+    {
+      "id": "rain",
+      "script_en": "Thunderstorms can bring lots of rain in a short time. This can refill rivers and water gardens, but too much rain can cause flooding. Storm drains help water flow away safely.",
+      "script_de": "Gewitter können in kurzer Zeit viel Regen bringen. Das kann Flüsse wieder füllen und Gärten bewässern, aber zu viel Regen kann Überschwemmungen verursachen. Entwässerungskanäle helfen, das Wasser sicher abfließen zu lassen.",
+      "script_it": "I temporali possono portare molta pioggia in poco tempo. Questo può riempire i fiumi e innaffiare i giardini, ma troppa pioggia può causare inondazioni. I tombini aiutano l'acqua a defluire in sicurezza.",
+      "script_fr": "Les orages peuvent apporter beaucoup de pluie en peu de temps. Cela peut remplir les rivières et arroser les jardins, mais trop de pluie peut provoquer des inondations. Les évacuations d'eau aident l'eau à s'écouler en sécurité.",
+      "script_es": "Las tormentas eléctricas pueden traer mucha lluvia en poco tiempo. Esto puede llenar los ríos y regar los jardines, pero demasiada lluvia puede causar inundaciones. Los desagües ayudan a que el agua fluya de forma segura.",
+      "script_hr": "Grmljavinske oluje mogu donijeti mnogo kiše u kratkom vremenu. To može napuniti rijeke i zaliti vrtove, ali previše kiše može izazvati poplave. Odvodni kanali pomažu da voda sigurno otječe.",
+      "script_cs": "Bouřky mohou za krátkou dobu přinést hodně deště. Ten může naplnit řeky a zalít zahrady, ale příliš mnoho deště může způsobit záplavy. Kanály pomáhají vodě bezpečně odtékat.",
+      "script_pl": "Burze mogą przynieść dużo deszczu w krótkim czasie. To może napełnić rzeki i podlać ogrody, ale zbyt duży deszcz może powodować powodzie. Kanały burzowe pomagają wodzie bezpiecznie odpływać.",
+      "script_fi": "Ukkosmyrskyt voivat tuoda paljon sadetta lyhyessä ajassa. Se voi täyttää joet ja kastella puutarhat, mutta liiallinen sade voi aiheuttaa tulvia. Sadevesiviemärit auttavat veden virtaamaan turvallisesti pois.",
+      "script_sk": "Búrky môžu za krátky čas priniesť veľa dažďa. Ten môže naplniť rieky a poliať záhrady, ale príliš veľa dažďa môže spôsobiť záplavy. Kanalizácia pomáha vode bezpečne odtekať.",
+      "script_da": "Tordenvejr kan bringe meget regn på kort tid. Det kan fylde floderne og vande haverne, men for meget regn kan give oversvømmelser. Kanaler hjælper vandet med at løbe sikkert væk.",
+      "images": [
+        "rain.webp",
+        "rain_2.webp",
+        "rain_3.webp"
+      ]
+    },
+    {
+      "id": "safe",
+      "script_en": "During a thunderstorm, stay indoors away from windows. Do not use plugged-in electrical equipment if you can avoid it. If you are outside, get to a safe building or a car.",
+      "script_de": "Bleib während eines Gewitters drinnen und fern von Fenstern. Benutze nach Möglichkeit keine eingesteckten Elektrogeräte. Wenn du draußen bist, gehe in ein sicheres Gebäude oder in ein Auto.",
+      "script_it": "Durante un temporale, resta in casa lontano dalle finestre. Se puoi, non usare apparecchi elettrici collegati alla presa. Se sei fuori, raggiungi un edificio sicuro o un'auto.",
+      "script_fr": "Pendant un orage, reste à l'intérieur, loin des fenêtres. Si possible, n'utilise pas d'appareils électriques branchés. Si tu es dehors, rejoins un bâtiment sûr ou une voiture.",
+      "script_es": "Durante una tormenta eléctrica, quédate dentro y lejos de las ventanas. Si puedes, no uses aparatos eléctricos enchufados. Si estás fuera, entra en un edificio seguro o en un coche.",
+      "script_hr": "Tijekom grmljavinske oluje ostanite unutra, dalje od prozora. Ako je moguće, ne koristite priključene električne uređaje. Ako ste vani, dođite u sigurnu zgradu ili automobil.",
+      "script_cs": "Během bouřky zůstaň uvnitř, daleko od oken. Pokud můžeš, nepoužívej zapojené elektrické přístroje. Pokud jsi venku, jdi do bezpečné budovy nebo do auta.",
+      "script_pl": "Podczas burzy zostań w domu, z dala od okien. Jeśli możesz, nie używaj podłączonych urządzeń elektrycznych. Jeśli jesteś na zewnątrz, udaj się do bezpiecznego budynku lub samochodu.",
+      "script_fi": "Pysy ukkosmyrskyn aikana sisällä kaukana ikkunoista. Älä käytä pistorasiaan kytkettyjä sähkölaitteita, jos voit välttää sitä. Jos olet ulkona, mene turvalliseen rakennukseen tai autoon.",
+      "script_sk": "Počas búrky zostaň vnútri, ďaleko od okien. Ak môžeš, nepoužívaj zapojené elektrické prístroje. Ak si vonku, choď do bezpečnej budovy alebo do auta.",
+      "script_da": "Under et tordenvejr skal du blive indenfor, væk fra vinduerne. Undgå om muligt at bruge elektriske apparater, der er sat i stikkontakten. Hvis du er udenfor, så gå ind i en sikker bygning eller en bil.",
+      "images": [
+        "safe.webp",
+        "safe_2.webp",
+        "safe_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "what",
+      "correct": "sound",
+      "question_en": "What is thunder?",
+      "question_de": "Was ist Donner?",
+      "question_it": "Che cos'è il tuono?",
+      "question_fr": "Qu'est-ce que le tonnerre ?",
+      "question_es": "¿Qué es el trueno?",
+      "question_hr": "Što je grmljavina?",
+      "question_cs": "Co je hrom?",
+      "question_pl": "Czym jest grzmot?",
+      "question_fi": "Mikä ukkonen on?",
+      "question_sk": "Čo je hrom?",
+      "question_da": "Hvad er torden?",
+      "options": [
+        {
+          "id": "sound",
+          "label_en": "The sound made by lightning",
+          "label_de": "Das Geräusch, das ein Blitz macht",
+          "label_it": "Il suono prodotto dal fulmine",
+          "label_fr": "Le bruit produit par l'éclair",
+          "label_es": "El sonido que produce el rayo",
+          "label_hr": "Zvuk koji stvara munja",
+          "label_cs": "Zvuk, který vytváří blesk",
+          "label_pl": "Dźwiękiem powstającym od błyskawicy",
+          "label_fi": "Salaman aiheuttama ääni",
+          "label_sk": "Zvuk, ktorý vytvára blesk",
+          "label_da": "Den lyd, lynet laver"
+        },
+        {
+          "id": "rain",
+          "label_en": "A type of rain",
+          "label_de": "Eine Art Regen",
+          "label_it": "Un tipo di pioggia",
+          "label_fr": "Un type de pluie",
+          "label_es": "Un tipo de lluvia",
+          "label_hr": "Vrsta kiše",
+          "label_cs": "Druh deště",
+          "label_pl": "Rodzajem deszczu",
+          "label_fi": "Eräänlainen sade",
+          "label_sk": "Druh dažďa",
+          "label_da": "En slags regn"
+        },
+        {
+          "id": "cloud",
+          "label_en": "A cloud",
+          "label_de": "Eine Wolke",
+          "label_it": "Una nuvola",
+          "label_fr": "Un nuage",
+          "label_es": "Una nube",
+          "label_hr": "Oblak",
+          "label_cs": "Mrak",
+          "label_pl": "Chmurą",
+          "label_fi": "Pilvi",
+          "label_sk": "Oblak",
+          "label_da": "En sky"
+        }
+      ]
+    },
+    {
+      "id": "see",
+      "correct": "fast",
+      "question_en": "Why do we see lightning before hearing thunder?",
+      "question_de": "Warum sehen wir den Blitz vor dem Donner?",
+      "question_it": "Perché vediamo il fulmine prima di sentire il tuono?",
+      "question_fr": "Pourquoi voit-on l'éclair avant d'entendre le tonnerre ?",
+      "question_es": "¿Por qué vemos el rayo antes de oír el trueno?",
+      "question_hr": "Zašto vidimo munju prije nego čujemo grmljavinu?",
+      "question_cs": "Proč vidíme blesk dřív, než slyšíme hrom?",
+      "question_pl": "Dlaczego widzimy błyskawicę, zanim usłyszymy grzmot?",
+      "question_fi": "Miksi näemme salaman ennen kuin kuulemme ukkosen?",
+      "question_sk": "Prečo vidíme blesk skôr, než počujeme hrom?",
+      "question_da": "Hvorfor ser vi lynet, før vi hører tordenen?",
+      "options": [
+        {
+          "id": "fast",
+          "label_en": "Light travels faster than sound",
+          "label_de": "Licht ist schneller als Schall",
+          "label_it": "La luce viaggia più veloce del suono",
+          "label_fr": "La lumière voyage plus vite que le son",
+          "label_es": "La luz viaja más rápido que el sonido",
+          "label_hr": "Svjetlost putuje brže od zvuka",
+          "label_cs": "Světlo cestuje rychleji než zvuk",
+          "label_pl": "Światło podróżuje szybciej niż dźwięk",
+          "label_fi": "Valo kulkee nopeammin kuin ääni",
+          "label_sk": "Svetlo cestuje rýchlejšie ako zvuk",
+          "label_da": "Lys rejser hurtigere end lyd"
+        },
+        {
+          "id": "loud",
+          "label_en": "Lightning is louder",
+          "label_de": "Blitze sind lauter",
+          "label_it": "Il fulmine è più rumoroso",
+          "label_fr": "L'éclair est plus fort",
+          "label_es": "El rayo es más ruidoso",
+          "label_hr": "Munja je glasnija",
+          "label_cs": "Blesk je hlasitější",
+          "label_pl": "Błyskawica jest głośniejsza",
+          "label_fi": "Salama on äänekkäämpi",
+          "label_sk": "Blesk je hlasnejší",
+          "label_da": "Lynet er højere"
+        },
+        {
+          "id": "cold",
+          "label_en": "Thunder is cold",
+          "label_de": "Donner ist kalt",
+          "label_it": "Il tuono è freddo",
+          "label_fr": "Le tonnerre est froid",
+          "label_es": "El trueno es frío",
+          "label_hr": "Grmljavina je hladna",
+          "label_cs": "Hrom je studený",
+          "label_pl": "Grzmot jest zimny",
+          "label_fi": "Ukkonen on kylmä",
+          "label_sk": "Hrom je studený",
+          "label_da": "Torden er kold"
+        }
+      ]
+    },
+    {
+      "id": "safe",
+      "correct": "indoor",
+      "question_en": "Where should you be during a thunderstorm?",
+      "question_de": "Wo solltest du dich während eines Gewitters aufhalten?",
+      "question_it": "Dove dovresti stare durante un temporale?",
+      "question_fr": "Où faut-il rester pendant un orage ?",
+      "question_es": "¿Dónde debes estar durante una tormenta eléctrica?",
+      "question_hr": "Gdje trebate biti tijekom grmljavinske oluje?",
+      "question_cs": "Kde bys měl být během bouřky?",
+      "question_pl": "Gdzie powinieneś być podczas burzy?",
+      "question_fi": "Missä sinun pitäisi olla ukkosmyrskyn aikana?",
+      "question_sk": "Kde by si mal byť počas búrky?",
+      "question_da": "Hvor skal du være under et tordenvejr?",
+      "options": [
+        {
+          "id": "indoor",
+          "label_en": "Indoors, away from windows",
+          "label_de": "Drinnen, fern von Fenstern",
+          "label_it": "In casa, lontano dalle finestre",
+          "label_fr": "À l'intérieur, loin des fenêtres",
+          "label_es": "Dentro, lejos de las ventanas",
+          "label_hr": "Unutra, dalje od prozora",
+          "label_cs": "Uvnitř, daleko od oken",
+          "label_pl": "W domu, z dala od okien",
+          "label_fi": "Sisällä, kaukana ikkunoista",
+          "label_sk": "Vnútri, ďaleko od okien",
+          "label_da": "Indenfor, væk fra vinduerne"
+        },
+        {
+          "id": "tree",
+          "label_en": "Under a tall tree",
+          "label_de": "Unter einem hohen Baum",
+          "label_it": "Sotto un albero alto",
+          "label_fr": "Sous un grand arbre",
+          "label_es": "Debajo de un árbol alto",
+          "label_hr": "Ispod visokog drveta",
+          "label_cs": "Pod vysokým stromem",
+          "label_pl": "Pod wysokim drzewem",
+          "label_fi": "Korkean puun alla",
+          "label_sk": "Pod vysokým stromom",
+          "label_da": "Under et højt træ"
+        },
+        {
+          "id": "lake",
+          "label_en": "In a lake",
+          "label_de": "In einem See",
+          "label_it": "In un lago",
+          "label_fr": "Dans un lac",
+          "label_es": "En un lago",
+          "label_hr": "U jezeru",
+          "label_cs": "V jezeře",
+          "label_pl": "W jeziorze",
+          "label_fi": "Järvessä",
+          "label_sk": "V jazere",
+          "label_da": "I en sø"
+        }
+      ]
+    }
+  ]
+}
