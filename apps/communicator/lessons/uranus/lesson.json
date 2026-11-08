@@ -1,0 +1,293 @@
+{
+  "id": "uranus",
+  "category_id": "planets",
+  "symbol_id": "uranus",
+  "thumbnail": "uranus_thumb.webp",
+  "title_en": "Uranus",
+  "title_de": "Uranus",
+  "title_it": "Urano",
+  "title_fr": "Uranus",
+  "title_es": "Urano",
+  "title_hr": "Uran",
+  "title_cs": "Uran",
+  "title_pl": "Uran",
+  "title_fi": "Uranus",
+  "title_sk": "Urán",
+  "title_da": "Uranus",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about Uranus. Uranus is the seventh planet from the Sun and is an ice giant. Its pale blue-green colour comes from methane gas in its atmosphere.",
+      "script_de": "Heute lernen wir etwas über Uranus. Uranus ist der siebte Planet von der Sonne und ein Eisriese. Seine blass blaugrüne Farbe kommt vom Methangas in seiner Atmosphäre.",
+      "script_it": "Oggi impareremo a conoscere Urano. Urano è il settimo pianeta dal Sole ed è un gigante ghiacciato. Il suo colore verde-azzurro pallido deriva dal metano presente nella sua atmosfera.",
+      "script_fr": "Aujourd'hui, nous allons découvrir Uranus. Uranus est la septième planète à partir du Soleil et une géante de glace. Sa couleur vert bleu pâle vient du méthane présent dans son atmosphère.",
+      "script_es": "Hoy vamos a aprender sobre Urano. Urano es el séptimo planeta desde el Sol y es un gigante de hielo. Su color verde azulado pálido proviene del metano de su atmósfera.",
+      "script_hr": "Danas ćemo učiti o Uranu. Uran je sedmi planet od Sunca i ledeni div. Njegova blijedoplavozelena boja dolazi od metana u atmosferi.",
+      "script_cs": "Dnes se budeme učit o Uranu. Uran je sedmá planeta od Slunce a ledový obr. Jeho bledě modrozelená barva pochází z metanu v jeho atmosféře.",
+      "script_pl": "Dziś dowiemy się czegoś o Uranie. Uran to siódma planeta od Słońca i lodowy olbrzym. Jego bladoniebieskozielony kolor pochodzi od metanu w atmosferze.",
+      "script_fi": "Tänään opimme Uranuksesta. Uranus on seitsemäs planeetta Auringosta ja jääjättiläinen. Sen vaalean sinivihreä väri tulee ilmakehän metaanista.",
+      "script_sk": "Dnes sa budeme učiť o Uráne. Urán je siedma planéta od Slnka a ľadový obor. Jeho bledomodrozelená farba pochádza z metánu v jeho atmosfére.",
+      "script_da": "I dag skal vi lære om Uranus. Uranus er den syvende planet fra Solen og en iskæmpe. Dens blege blågrønne farve kommer fra metan i atmosfæren.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "tilt",
+      "script_en": "Uranus is unusual because it is tilted almost completely on its side. It may have been knocked over by a collision long ago. This means its seasons last for many years at a time.",
+      "script_de": "Uranus ist ungewöhnlich, weil er fast vollständig auf der Seite liegt. Vielleicht wurde er vor langer Zeit von einer Kollision umgestoßen. Dadurch dauern seine Jahreszeiten viele Jahre lang.",
+      "script_it": "Urano è insolito perché è inclinato quasi completamente su un fianco. Forse è stato ribaltato da una collisione molto tempo fa. Questo significa che le sue stagioni durano molti anni.",
+      "script_fr": "Uranus est inhabituelle car elle est inclinée presque complètement sur le côté. Elle a peut-être été renversée par une collision il y a longtemps. Cela signifie que ses saisons durent de nombreuses années.",
+      "script_es": "Urano es inusual porque está inclinado casi por completo de lado. Puede que una colisión lo volcara hace mucho tiempo. Eso hace que sus estaciones duren muchos años.",
+      "script_hr": "Uran je neobičan jer je nagnut gotovo potpuno na bok. Možda ga je davno prevrnula neka kolizija. Zato njegova godišnja doba traju mnogo godina.",
+      "script_cs": "Uran je neobvyklý, protože je nakloněný téměř úplně na bok. Možná ho kdysi převrátila srážka. Proto jeho roční období trvají mnoho let.",
+      "script_pl": "Uran jest nietypowy, ponieważ jest przechylony prawie całkowicie na bok. Być może dawno temu przewróciło go zderzenie. Dlatego jego pory roku trwają wiele lat.",
+      "script_fi": "Uranus on epätavallinen, koska se on kallistunut lähes kokonaan kyljelleen. Ehkä törmäys kaatoi sen kauan sitten. Siksi sen vuodenajat kestävät monta vuotta.",
+      "script_sk": "Urán je nezvyčajný, pretože je naklonený takmer úplne na bok. Možno ho kedysi prevrátila zrážka. Preto jeho ročné obdobia trvajú mnoho rokov.",
+      "script_da": "Uranus er usædvanlig, fordi den er vippet næsten helt om på siden. Måske blev den væltet af et sammenstød for længe siden. Derfor varer dens årstider i mange år ad gangen.",
+      "images": [
+        "tilt.webp",
+        "tilt_2.webp",
+        "tilt_3.webp"
+      ]
+    },
+    {
+      "id": "cold",
+      "script_en": "Uranus is one of the coldest planets in the solar system. It is very far from the Sun, so it receives little heat. Its atmosphere is made mostly of hydrogen, helium, and methane.",
+      "script_de": "Uranus ist einer der kältesten Planeten im Sonnensystem. Er ist sehr weit von der Sonne entfernt und bekommt deshalb wenig Wärme. Seine Atmosphäre besteht hauptsächlich aus Wasserstoff, Helium und Methan.",
+      "script_it": "Urano è uno dei pianeti più freddi del sistema solare. È molto lontano dal Sole, quindi riceve poco calore. La sua atmosfera è composta soprattutto da idrogeno, elio e metano.",
+      "script_fr": "Uranus est l'une des planètes les plus froides du système solaire. Elle est très loin du Soleil et reçoit donc peu de chaleur. Son atmosphère est composée principalement d'hydrogène, d'hélium et de méthane.",
+      "script_es": "Urano es uno de los planetas más fríos del sistema solar. Está muy lejos del Sol, así que recibe poco calor. Su atmósfera está formada sobre todo por hidrógeno, helio y metano.",
+      "script_hr": "Uran je jedan od najhladnijih planeta u Sunčevom sustavu. Vrlo je daleko od Sunca pa prima malo topline. Njegova atmosfera sastoji se uglavnom od vodika, helija i metana.",
+      "script_cs": "Uran je jedna z nejchladnějších planet ve sluneční soustavě. Je velmi daleko od Slunce, a proto dostává málo tepla. Jeho atmosféra se skládá hlavně z vodíku, helia a metanu.",
+      "script_pl": "Uran to jedna z najzimniejszych planet Układu Słonecznego. Jest bardzo daleko od Słońca, więc otrzymuje mało ciepła. Jego atmosfera składa się głównie z wodoru, helu i metanu.",
+      "script_fi": "Uranus on yksi aurinkokunnan kylmimmistä planeetoista. Se on hyvin kaukana Auringosta, joten se saa vähän lämpöä. Sen ilmakehä koostuu pääasiassa vedystä, heliumista ja metaanista.",
+      "script_sk": "Urán je jedna z najchladnejších planét slnečnej sústavy. Je veľmi ďaleko od Slnka, a preto dostáva málo tepla. Jeho atmosféra sa skladá hlavne z vodíka, hélia a metánu.",
+      "script_da": "Uranus er en af de koldeste planeter i solsystemet. Den er meget langt fra Solen og får derfor lidt varme. Dens atmosfære består mest af brint, helium og metan.",
+      "images": [
+        "cold.webp",
+        "cold_2.webp",
+        "cold_3.webp"
+      ]
+    },
+    {
+      "id": "rings",
+      "script_en": "Uranus has faint rings that are hard to see from Earth. They are made of dark particles of dust and rock. They were discovered only when a spacecraft passed close to the planet.",
+      "script_de": "Uranus hat schwache Ringe, die von der Erde aus schwer zu sehen sind. Sie bestehen aus dunklen Staub- und Gesteinspartikeln. Sie wurden erst entdeckt, als eine Raumsonde nahe am Planeten vorbeiflog.",
+      "script_it": "Urano ha anelli deboli difficili da vedere dalla Terra. Sono fatti di particelle scure di polvere e roccia. Sono stati scoperti solo quando una sonda spaziale è passata vicino al pianeta.",
+      "script_fr": "Uranus a des anneaux faibles, difficiles à voir depuis la Terre. Ils sont faits de particules sombres de poussière et de roche. Ils n'ont été découverts que lorsqu'une sonde spatiale est passée près de la planète.",
+      "script_es": "Urano tiene anillos tenues que son difíciles de ver desde la Tierra. Están hechos de partículas oscuras de polvo y roca. Solo se descubrieron cuando una nave espacial pasó cerca del planeta.",
+      "script_hr": "Uran ima slabe prstenove koje je teško vidjeti sa Zemlje. Sastoje se od tamnih čestica prašine i kamena. Otkriveni su tek kad je svemirska letjelica prošla blizu planeta.",
+      "script_cs": "Uran má slabé prstence, které je ze Země těžké vidět. Jsou tvořené tmavými částicemi prachu a hornin. Byly objeveny teprve tehdy, když kolem planety prolétla kosmická sonda.",
+      "script_pl": "Uran ma słabe pierścienie, które trudno zobaczyć z Ziemi. Składają się z ciemnych cząstek pyłu i skał. Odkryto je dopiero, gdy statek kosmiczny przeleciał blisko planety.",
+      "script_fi": "Uranuksella on heikot renkaat, joita on vaikea nähdä Maasta. Ne koostuvat tummista pöly- ja kivihiukkasista. Ne löydettiin vasta, kun avaruusalus lensi läheltä planeettaa.",
+      "script_sk": "Urán má slabé prstence, ktoré je zo Zeme ťažké vidieť. Sú tvorené tmavými časticami prachu a hornín. Boli objavené až vtedy, keď okolo planéty preletela kozmická sonda.",
+      "script_da": "Uranus har svage ringe, som er svære at se fra Jorden. De består af mørke støv- og stenpartikler. De blev først opdaget, da en rumsonde fløj forbi tæt på planeten.",
+      "images": [
+        "rings.webp",
+        "rings_2.webp",
+        "rings_3.webp"
+      ]
+    },
+    {
+      "id": "explore",
+      "script_en": "Only one spacecraft has visited Uranus so far. It was Voyager 2, which flew past in 1986. Scientists hope to send new missions to study this strange, tilted world.",
+      "script_de": "Bisher hat nur eine Raumsonde den Uranus besucht. Es war Voyager 2, die 1986 vorbeiflog. Wissenschaftler hoffen, neue Missionen zu schicken, um diese seltsame, gekippte Welt zu erforschen.",
+      "script_it": "Finora solo una sonda spaziale ha visitato Urano. Era Voyager 2, che è passata nel 1986. Gli scienziati sperano di inviare nuove missioni per studiare questo strano mondo inclinato.",
+      "script_fr": "Jusqu'à présent, une seule sonde spatiale a visité Uranus. C'était Voyager 2, qui est passée en 1986. Les scientifiques espèrent envoyer de nouvelles missions pour étudier ce monde étrange et incliné.",
+      "script_es": "Hasta ahora, solo una nave espacial ha visitado Urano. Fue la Voyager 2, que pasó en 1986. Los científicos esperan enviar nuevas misiones para estudiar este extraño mundo inclinado.",
+      "script_hr": "Do sada je Uran posjetila samo jedna svemirska letjelica. Bio je to Voyager 2, koji je prošao 1986. Znanstvenici se nadaju da će poslati nove misije za proučavanje ovog neobičnog, nagnutog svijeta.",
+      "script_cs": "Uran zatím navštívila jen jedna kosmická sonda. Byla to Voyager 2, která kolem planety prolétla v roce 1986. Vědci doufají, že vyšlou nové mise na průzkum tohoto zvláštního nakloněného světa.",
+      "script_pl": "Do tej pory tylko jedna sonda kosmiczna odwiedziła Urana. Był to Voyager 2, który przeleciał obok niego w 1986 roku. Naukowcy mają nadzieję wysłać nowe misje, aby zbadać ten dziwny, przechylony świat.",
+      "script_fi": "Toistaiseksi vain yksi avaruusalus on käynyt Uranuksella. Se oli Voyager 2, joka lensi ohi vuonna 1986. Tutkijat toivovat voivansa lähettää uusia tehtäviä tutkimaan tätä outoa, kallellaan olevaa maailmaa.",
+      "script_sk": "Urán zatiaľ navštívila len jedna kozmická sonda. Bol to Voyager 2, ktorý preletel okolo v roku 1986. Vedci dúfajú, že vyšlú nové misie na prieskum tohto zvláštneho nakloneného sveta.",
+      "script_da": "Indtil videre har kun én rumsonde besøgt Uranus. Det var Voyager 2, som fløj forbi i 1986. Forskere håber at sende nye missioner for at undersøge denne mærkelige, vippede verden.",
+      "images": [
+        "explore.webp",
+        "explore_2.webp",
+        "explore_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "order",
+      "correct": "seventh",
+      "question_en": "Which planet is Uranus from the Sun?",
+      "question_de": "Der wievielte Planet von der Sonne ist Uranus?",
+      "question_it": "Quale pianeta è Urano dal Sole?",
+      "question_fr": "Quelle est la position d'Uranus à partir du Soleil ?",
+      "question_es": "¿Qué número de planeta es Urano desde el Sol?",
+      "question_hr": "Koji je Uran planet od Sunca?",
+      "question_cs": "Kolikátá planeta od Slunce je Uran?",
+      "question_pl": "Którą planetą od Słońca jest Uran?",
+      "question_fi": "Monesko planeetta Auringosta Uranus on?",
+      "question_sk": "Ktorá planéta od Slnka je Urán?",
+      "question_da": "Hvilken planet er Uranus fra Solen?",
+      "options": [
+        {
+          "id": "seventh",
+          "label_en": "The seventh planet",
+          "label_de": "Der siebte Planet",
+          "label_it": "Il settimo pianeta",
+          "label_fr": "La septième planète",
+          "label_es": "El séptimo planeta",
+          "label_hr": "Sedmi planet",
+          "label_cs": "Sedmá planeta",
+          "label_pl": "Siódmą planetą",
+          "label_fi": "Seitsemäs planeetta",
+          "label_sk": "Siedma planéta",
+          "label_da": "Den syvende planet"
+        },
+        {
+          "id": "fifth",
+          "label_en": "The fifth planet",
+          "label_de": "Der fünfte Planet",
+          "label_it": "Il quinto pianeta",
+          "label_fr": "La cinquième planète",
+          "label_es": "El quinto planeta",
+          "label_hr": "Peti planet",
+          "label_cs": "Pátá planeta",
+          "label_pl": "Piątą planetą",
+          "label_fi": "Viides planeetta",
+          "label_sk": "Piata planéta",
+          "label_da": "Den femte planet"
+        },
+        {
+          "id": "eighth",
+          "label_en": "The eighth planet",
+          "label_de": "Der achte Planet",
+          "label_it": "L'ottavo pianeta",
+          "label_fr": "La huitième planète",
+          "label_es": "El octavo planeta",
+          "label_hr": "Osmi planet",
+          "label_cs": "Osmá planeta",
+          "label_pl": "Ósmą planetą",
+          "label_fi": "Kahdeksas planeetta",
+          "label_sk": "Ôsma planéta",
+          "label_da": "Den ottende planet"
+        }
+      ]
+    },
+    {
+      "id": "tilt",
+      "correct": "tilted",
+      "question_en": "What is unusual about Uranus?",
+      "question_de": "Was ist ungewöhnlich am Uranus?",
+      "question_it": "Cosa c'è di strano in Urano?",
+      "question_fr": "Qu'est-ce qui est inhabituel chez Uranus ?",
+      "question_es": "¿Qué tiene de inusual Urano?",
+      "question_hr": "Što je neobično na Uranu?",
+      "question_cs": "Co je na Uranu neobvyklé?",
+      "question_pl": "Co jest nietypowe w Uranie?",
+      "question_fi": "Mikä Uranuksessa on epätavallista?",
+      "question_sk": "Čo je na Uráne nezvyčajné?",
+      "question_da": "Hvad er usædvanligt ved Uranus?",
+      "options": [
+        {
+          "id": "tilted",
+          "label_en": "It is tilted on its side",
+          "label_de": "Er liegt auf der Seite",
+          "label_it": "È inclinato su un fianco",
+          "label_fr": "Elle est inclinée sur le côté",
+          "label_es": "Está inclinado de lado",
+          "label_hr": "Nagnut je na bok",
+          "label_cs": "Je nakloněný na bok",
+          "label_pl": "Jest przechylony na bok",
+          "label_fi": "Se on kallistunut kyljelleen",
+          "label_sk": "Je naklonený na bok",
+          "label_da": "Den er vippet om på siden"
+        },
+        {
+          "id": "square",
+          "label_en": "It has a square shape",
+          "label_de": "Er hat eine quadratische Form",
+          "label_it": "Ha una forma quadrata",
+          "label_fr": "Elle a une forme carrée",
+          "label_es": "Tiene forma cuadrada",
+          "label_hr": "Ima četvrtast oblik",
+          "label_cs": "Má čtvercový tvar",
+          "label_pl": "Ma kwadratowy kształt",
+          "label_fi": "Se on neliön muotoinen",
+          "label_sk": "Má štvorcový tvar",
+          "label_da": "Den har en firkantet form"
+        },
+        {
+          "id": "hot",
+          "label_en": "It is the hottest planet",
+          "label_de": "Er ist der heißeste Planet",
+          "label_it": "È il pianeta più caldo",
+          "label_fr": "C'est la planète la plus chaude",
+          "label_es": "Es el planeta más caliente",
+          "label_hr": "Najtopliji je planet",
+          "label_cs": "Je nejteplejší planeta",
+          "label_pl": "Jest najgorętszą planetą",
+          "label_fi": "Se on kuumin planeetta",
+          "label_sk": "Je najhorúcejšia planéta",
+          "label_da": "Det er den varmeste planet"
+        }
+      ]
+    },
+    {
+      "id": "colour",
+      "correct": "methane",
+      "question_en": "What gives Uranus its blue-green colour?",
+      "question_de": "Was gibt Uranus seine blaugrüne Farbe?",
+      "question_it": "Cosa dà a Urano il suo colore verde-azzurro?",
+      "question_fr": "Qu'est-ce qui donne à Uranus sa couleur vert bleu ?",
+      "question_es": "¿Qué le da a Urano su color verde azulado?",
+      "question_hr": "Što Uranu daje plavozelenu boju?",
+      "question_cs": "Co dává Uranu modrozelenou barvu?",
+      "question_pl": "Co daje Uranowi niebieskozielony kolor?",
+      "question_fi": "Mistä Uranuksen sinivihreä väri tulee?",
+      "question_sk": "Čo dáva Uránu modrozelenú farbu?",
+      "question_da": "Hvad giver Uranus dens blågrønne farve?",
+      "options": [
+        {
+          "id": "methane",
+          "label_en": "Methane gas",
+          "label_de": "Methangas",
+          "label_it": "Il gas metano",
+          "label_fr": "Le méthane",
+          "label_es": "El gas metano",
+          "label_hr": "Metan",
+          "label_cs": "Metan",
+          "label_pl": "Metan",
+          "label_fi": "Metaanista",
+          "label_sk": "Metán",
+          "label_da": "Metangas"
+        },
+        {
+          "id": "water",
+          "label_en": "Liquid water",
+          "label_de": "Flüssiges Wasser",
+          "label_it": "Acqua liquida",
+          "label_fr": "De l'eau liquide",
+          "label_es": "Agua líquida",
+          "label_hr": "Tekuća voda",
+          "label_cs": "Tekutá voda",
+          "label_pl": "Ciekła woda",
+          "label_fi": "Nestemäisestä vedestä",
+          "label_sk": "Tekutá voda",
+          "label_da": "Flydende vand"
+        },
+        {
+          "id": "grass",
+          "label_en": "Green plants",
+          "label_de": "Grüne Pflanzen",
+          "label_it": "Piante verdi",
+          "label_fr": "Des plantes vertes",
+          "label_es": "Plantas verdes",
+          "label_hr": "Zelene biljke",
+          "label_cs": "Zelené rostliny",
+          "label_pl": "Zielone rośliny",
+          "label_fi": "Vihreistä kasveista",
+          "label_sk": "Zelené rastliny",
+          "label_da": "Grønne planter"
+        }
+      ]
+    }
+  ]
+}

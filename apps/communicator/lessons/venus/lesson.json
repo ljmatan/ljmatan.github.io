@@ -1,0 +1,293 @@
+{
+  "id": "venus",
+  "category_id": "planets",
+  "symbol_id": "venus",
+  "thumbnail": "venus_thumb.webp",
+  "title_en": "Venus",
+  "title_de": "Venus",
+  "title_it": "Venere",
+  "title_fr": "Vénus",
+  "title_es": "Venus",
+  "title_hr": "Venera",
+  "title_cs": "Venuše",
+  "title_pl": "Wenus",
+  "title_fi": "Venus",
+  "title_sk": "Venuša",
+  "title_da": "Venus",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about Venus. Venus is the second planet from the Sun and about the same size as Earth. It is covered by thick clouds that make it shine brightly in our sky.",
+      "script_de": "Heute lernen wir etwas über Venus. Venus ist der zweite Planet von der Sonne und etwa so groß wie die Erde. Sie ist von dichten Wolken bedeckt, die sie hell am Himmel leuchten lassen.",
+      "script_it": "Oggi impareremo a conoscere Venere. Venere è il secondo pianeta dal Sole ed è più o meno grande quanto la Terra. È coperto da nubi spesse che lo fanno brillare luminoso nel nostro cielo.",
+      "script_fr": "Aujourd'hui, nous allons découvrir Vénus. Vénus est la deuxième planète à partir du Soleil et à peu près de la même taille que la Terre. Elle est couverte d'épais nuages qui la font briller dans notre ciel.",
+      "script_es": "Hoy vamos a aprender sobre Venus. Venus es el segundo planeta desde el Sol y tiene aproximadamente el mismo tamaño que la Tierra. Está cubierto por nubes espesas que lo hacen brillar en nuestro cielo.",
+      "script_hr": "Danas ćemo učiti o Veneri. Venera je drugi planet od Sunca i otprilike iste veličine kao Zemlja. Prekrivena je debelim oblacima zbog kojih sjaji na našem nebu.",
+      "script_cs": "Dnes se budeme učit o Venuši. Venuše je druhá planeta od Slunce a je přibližně stejně velká jako Země. Je pokrytá hustými mraky, které ji nechávají zářit na naší obloze.",
+      "script_pl": "Dziś dowiemy się czegoś o Wenus. Wenus to druga planeta od Słońca i ma rozmiar zbliżony do Ziemi. Jest pokryta grubymi chmurami, które sprawiają, że jasno świeci na naszym niebie.",
+      "script_fi": "Tänään opimme Venuksesta. Venus on toinen planeetta Auringosta ja suunnilleen saman kokoinen kuin Maa. Se on paksujen pilvien peitossa, jotka saavat sen loistamaan kirkkaasti taivaallamme.",
+      "script_sk": "Dnes sa budeme učiť o Venuši. Venuša je druhá planéta od Slnka a je približne rovnako veľká ako Zem. Je pokrytá hustými mrakmi, ktoré ju nechávajú žiariť na našej oblohe.",
+      "script_da": "I dag skal vi lære om Venus. Venus er den anden planet fra Solen og næsten lige så stor som Jorden. Den er dækket af tykke skyer, som får den til at lyse stærkt på vores himmel.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "hottest",
+      "script_en": "Venus is the hottest planet in our solar system. Its thick atmosphere traps heat like a blanket, keeping the surface hot enough to melt lead. Even though Mercury is closer to the Sun, Venus is hotter.",
+      "script_de": "Venus ist der heißeste Planet in unserem Sonnensystem. Ihre dichte Atmosphäre hält die Wärme wie eine Decke fest und hält die Oberfläche heiß genug, um Blei zu schmelzen. Obwohl Merkur näher an der Sonne ist, ist Venus heißer.",
+      "script_it": "Venere è il pianeta più caldo del nostro sistema solare. La sua atmosfera spessa trattiene il calore come una coperta, mantenendo la superficie abbastanza calda da fondere il piombo. Anche se Mercurio è più vicino al Sole, Venere è più caldo.",
+      "script_fr": "Vénus est la planète la plus chaude de notre système solaire. Son atmosphère épaisse retient la chaleur comme une couverture, gardant la surface assez chaude pour faire fondre le plomb. Même si Mercure est plus proche du Soleil, Vénus est plus chaude.",
+      "script_es": "Venus es el planeta más caliente de nuestro sistema solar. Su atmósfera espesa atrapa el calor como una manta y mantiene la superficie lo bastante caliente como para fundir el plomo. Aunque Mercurio está más cerca del Sol, Venus es más caliente.",
+      "script_hr": "Venera je najtopliji planet u našem Sunčevom sustavu. Njena debela atmosfera zadržava toplinu poput deke i održava površinu dovoljno vrućom da otopi olovo. Iako je Merkur bliže Suncu, Venera je toplija.",
+      "script_cs": "Venuše je nejteplejší planeta v naší sluneční soustavě. Její hustá atmosféra zachycuje teplo jako přikrývka a udržuje povrch tak horký, že by roztavil olovo. I když je Merkur blíže Slunci, Venuše je teplejší.",
+      "script_pl": "Wenus to najgorętsza planeta w naszym Układzie Słonecznym. Jej gęsta atmosfera zatrzymuje ciepło jak koc i utrzymuje powierzchnię tak gorącą, że stopiłaby ołów. Chociaż Merkury jest bliżej Słońca, Wenus jest gorętsza.",
+      "script_fi": "Venus on aurinkokuntamme kuumin planeetta. Sen paksu ilmakehä vangitsee lämpöä kuin peitto ja pitää pinnan niin kuumana, että se sulattaisi lyijyn. Vaikka Merkurius on lähempänä Aurinkoa, Venus on kuumempi.",
+      "script_sk": "Venuša je najhorúcejšia planéta v našej slnečnej sústave. Jej hustá atmosféra zachytáva teplo ako prikrývka a udržiava povrch taký horúci, že by roztavil olovo. Aj keď je Merkúr bližšie k Slnku, Venuša je horúcejšia.",
+      "script_da": "Venus er den varmeste planet i vores solsystem. Dens tykke atmosfære holder på varmen som et tæppe og gør overfladen varm nok til at smelte bly. Selvom Merkur er tættere på Solen, er Venus varmere.",
+      "images": [
+        "hottest.webp",
+        "hottest_2.webp",
+        "hottest_3.webp"
+      ]
+    },
+    {
+      "id": "clouds",
+      "script_en": "The clouds on Venus are made of tiny drops of acid. They hide the rocky surface below. Spacecraft need special cameras to see through the clouds to the ground.",
+      "script_de": "Die Wolken der Venus bestehen aus winzigen Säuretropfen. Sie verbergen die felsige Oberfläche darunter. Raumsonde brauchen spezielle Kameras, um durch die Wolken bis zum Boden zu sehen.",
+      "script_it": "Le nubi di Venere sono fatte di minuscole gocce di acido. Nascondono la superficie rocciosa sottostante. Le sonde spaziali hanno bisogno di telecamere speciali per vedere attraverso le nubi fino al suolo.",
+      "script_fr": "Les nuages de Vénus sont faits de minuscules gouttes d'acide. Ils cachent la surface rocheuse en dessous. Les sondes spatiales ont besoin de caméras spéciales pour voir à travers les nuages jusqu'au sol.",
+      "script_es": "Las nubes de Venus están hechas de diminutas gotas de ácido. Esconden la superficie rocosa que hay debajo. Las naves espaciales necesitan cámaras especiales para ver a través de las nubes hasta el suelo.",
+      "script_hr": "Oblaci Venere sastoje se od sitnih kapi kiseline. Skrivaju stjenovitu površinu ispod. Svemirske letjelice trebaju posebne kamere da vide kroz oblake do tla.",
+      "script_cs": "Mraky Venuše jsou tvořeny drobnými kapkami kyseliny. Skrývají skalnatý povrch pod sebou. Kosmické sondy potřebují speciální kamery, aby viděly skrz mraky až na zem.",
+      "script_pl": "Chmury Wenus składają się z drobnych kropli kwasu. Ukrywają skalistą powierzchnię pod nimi. Sondy kosmiczne potrzebują specjalnych kamer, aby zobaczyć przez chmury aż do gruntu.",
+      "script_fi": "Venuksen pilvet koostuvat pienistä happopisaroista. Ne peittävät alleen kivisen pinnan. Avaruusalusten täytyy käyttää erikoiskameroita nähdäkseen pilvien läpi maahan.",
+      "script_sk": "Mraky Venuše sú tvorené drobnými kvapkami kyseliny. Skrývajú skalnatý povrch pod sebou. Kozmické sondy potrebujú špeciálne kamery, aby videli cez mraky až na zem.",
+      "script_da": "Skyerne på Venus består af bittesmå dråber syre. De skjuler den klippefyldte overflade nedenunder. Rumsonder har brug for særlige kameraer for at se gennem skyerne ned til jorden.",
+      "images": [
+        "clouds.webp",
+        "clouds_2.webp",
+        "clouds_3.webp"
+      ]
+    },
+    {
+      "id": "star",
+      "script_en": "From Earth, Venus often looks like a bright star. It is sometimes called the morning star or the evening star because it appears near sunrise or sunset. It is one of the brightest objects in our night sky.",
+      "script_de": "Von der Erde aus sieht Venus oft wie ein heller Stern aus. Sie wird manchmal Morgenstern oder Abendstern genannt, weil sie nahe dem Sonnenaufgang oder Sonnenuntergang erscheint. Sie ist eines der hellsten Objekte an unserem Nachthimmel.",
+      "script_it": "Dalla Terra, Venere appare spesso come una stella luminosa. A volte è chiamato stella del mattino o stella della sera perché appare vicino all'alba o al tramonto. È uno degli oggetti più luminosi del nostro cielo notturno.",
+      "script_fr": "Depuis la Terre, Vénus ressemble souvent à une étoile brillante. On l'appelle parfois étoile du matin ou étoile du soir car elle apparaît près du lever ou du coucher du soleil. C'est l'un des objets les plus brillants de notre ciel nocturne.",
+      "script_es": "Desde la Tierra, Venus suele parecer una estrella brillante. A veces se le llama lucero del alba o lucero de la tarde porque aparece cerca del amanecer o del atardecer. Es uno de los objetos más brillantes de nuestro cielo nocturno.",
+      "script_hr": "Sa Zemlje Venera često izgleda kao sjajna zvijezda. Ponekad je nazivaju jutarnjom ili večernjom zvijezdom jer se pojavljuje blizu izlaska ili zalaska Sunca. Jedan je od najsjajnijih objekata na našem noćnom nebu.",
+      "script_cs": "Ze Země vypadá Venuše často jako jasná hvězda. Někdy se jí říká jitřenka nebo večernice, protože se objevuje blízko východu nebo západu Slunce. Je jedním z nejjasnějších objektů na naší noční obloze.",
+      "script_pl": "Z Ziemi Wenus często wygląda jak jasna gwiazda. Czasem nazywa się ją gwiazdą poranną lub wieczorną, ponieważ pojawia się blisko wschodu lub zachodu Słońca. To jeden z najjaśniejszych obiektów na naszym nocnym niebie.",
+      "script_fi": "Maasta Venus näyttää usein kirkkaalta tähdeltä. Sitä kutsutaan joskus aamutähdeksi tai iltatähdeksi, koska se näkyy lähellä auringonnousua tai -laskua. Se on yksi yötaivaamme kirkkaimmista kohteista.",
+      "script_sk": "Zo Zeme Venuša často vyzerá ako jasná hviezda. Niekedy ju nazývajú zornička alebo večernica, pretože sa objavuje blízko východu alebo západu Slnka. Je jedným z najjasnejších objektov na našej nočnej oblohe.",
+      "script_da": "Fra Jorden ser Venus ofte ud som en lys stjerne. Den kaldes nogle gange morgenstjerne eller aftenstjerne, fordi den vises nær solopgang eller solnedgang. Den er et af de klareste objekter på vores nathimmel.",
+      "images": [
+        "star.webp",
+        "star_2.webp",
+        "star_3.webp"
+      ]
+    },
+    {
+      "id": "explore",
+      "script_en": "Many spacecraft have studied Venus, and some have landed on its surface. They did not survive long because of the heat and pressure. Scientists want to understand why Venus became so different from Earth.",
+      "script_de": "Viele Raumsonde haben die Venus erforscht, und einige sind auf ihrer Oberfläche gelandet. Wegen der Hitze und des Drucks überlebten sie nicht lange. Wissenschaftler wollen verstehen, warum Venus so anders wurde als die Erde.",
+      "script_it": "Molte sonde spaziali hanno studiato Venere e alcune sono atterrate sulla sua superficie. Non sono sopravvissute a lungo a causa del calore e della pressione. Gli scienziati vogliono capire perché Venere è diventato così diverso dalla Terra.",
+      "script_fr": "De nombreuses sondes spatiales ont étudié Vénus, et certaines se sont posées sur sa surface. Elles n'ont pas survécu longtemps à cause de la chaleur et de la pression. Les scientifiques veulent comprendre pourquoi Vénus est devenue si différente de la Terre.",
+      "script_es": "Muchas naves espaciales han estudiado Venus y algunas han aterrizado en su superficie. No sobrevivieron mucho tiempo debido al calor y la presión. Los científicos quieren entender por qué Venus se volvió tan diferente de la Tierra.",
+      "script_hr": "Mnoge svemirske letjelice proučavale su Veneru, a neke su sletjele na njenu površinu. Nisu dugo preživjele zbog vrućine i pritiska. Znanstvenici žele razumjeti zašto je Venera postala tako različita od Zemlje.",
+      "script_cs": "Mnoho kosmických sond zkoumalo Venuši a některé přistály na jejím povrchu. Kvůli horku a tlaku nepřežily dlouho. Vědci chtějí pochopit, proč se Venuše stala tak odlišnou od Země.",
+      "script_pl": "Wiele sond kosmicznych badało Wenus, a niektóre wylądowały na jej powierzchni. Nie przetrwały długo z powodu gorąca i ciśnienia. Naukowcy chcą zrozumieć, dlaczego Wenus stała się tak różna od Ziemi.",
+      "script_fi": "Monet avaruusalukset ovat tutkineet Venusta, ja jotkut ovat laskeutuneet sen pinnalle. Ne eivät selvinneet kauan kuumuuden ja paineen takia. Tutkijat haluavat ymmärtää, miksi Venuksesta tuli niin erilainen kuin Maasta.",
+      "script_sk": "Mnoho kozmických sond skúmalo Venušu a niektoré pristáli na jej povrchu. Nevydržali dlho pre horúčavu a tlak. Vedci chcú pochopiť, prečo sa Venuša stala tak odlišnou od Zeme.",
+      "script_da": "Mange rumsonder har studeret Venus, og nogle er landet på dens overflade. De overlevede ikke længe på grund af varmen og trykket. Forskere vil forstå, hvorfor Venus blev så forskellig fra Jorden.",
+      "images": [
+        "explore.webp",
+        "explore_2.webp",
+        "explore_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "order",
+      "correct": "second",
+      "question_en": "Which planet is Venus from the Sun?",
+      "question_de": "Der wievielte Planet von der Sonne ist Venus?",
+      "question_it": "Quale pianeta è Venere dal Sole?",
+      "question_fr": "Quelle est la position de Vénus à partir du Soleil ?",
+      "question_es": "¿Qué número de planeta es Venus desde el Sol?",
+      "question_hr": "Koji je Venera planet od Sunca?",
+      "question_cs": "Kolikátá planeta od Slunce je Venuše?",
+      "question_pl": "Którą planetą od Słońca jest Wenus?",
+      "question_fi": "Monesko planeetta Auringosta Venus on?",
+      "question_sk": "Ktorá planéta od Slnka je Venuša?",
+      "question_da": "Hvilken planet er Venus fra Solen?",
+      "options": [
+        {
+          "id": "second",
+          "label_en": "The second planet",
+          "label_de": "Der zweite Planet",
+          "label_it": "Il secondo pianeta",
+          "label_fr": "La deuxième planète",
+          "label_es": "El segundo planeta",
+          "label_hr": "Drugi planet",
+          "label_cs": "Druhá planeta",
+          "label_pl": "Drugą planetą",
+          "label_fi": "Toinen planeetta",
+          "label_sk": "Druhá planéta",
+          "label_da": "Den anden planet"
+        },
+        {
+          "id": "third",
+          "label_en": "The third planet",
+          "label_de": "Der dritte Planet",
+          "label_it": "Il terzo pianeta",
+          "label_fr": "La troisième planète",
+          "label_es": "El tercer planeta",
+          "label_hr": "Treći planet",
+          "label_cs": "Třetí planeta",
+          "label_pl": "Trzecią planetą",
+          "label_fi": "Kolmas planeetta",
+          "label_sk": "Tretia planéta",
+          "label_da": "Den tredje planet"
+        },
+        {
+          "id": "first",
+          "label_en": "The first planet",
+          "label_de": "Der erste Planet",
+          "label_it": "Il primo pianeta",
+          "label_fr": "La première planète",
+          "label_es": "El primer planeta",
+          "label_hr": "Prvi planet",
+          "label_cs": "První planeta",
+          "label_pl": "Pierwszą planetą",
+          "label_fi": "Ensimmäinen planeetta",
+          "label_sk": "Prvá planéta",
+          "label_da": "Den første planet"
+        }
+      ]
+    },
+    {
+      "id": "hot",
+      "correct": "venus",
+      "question_en": "Which planet is the hottest?",
+      "question_de": "Welcher Planet ist der heißeste?",
+      "question_it": "Qual è il pianeta più caldo?",
+      "question_fr": "Quelle est la planète la plus chaude ?",
+      "question_es": "¿Cuál es el planeta más caliente?",
+      "question_hr": "Koji je najtopliji planet?",
+      "question_cs": "Která planeta je nejteplejší?",
+      "question_pl": "Która planeta jest najgorętsza?",
+      "question_fi": "Mikä planeetta on kuumin?",
+      "question_sk": "Ktorá planéta je najhorúcejšia?",
+      "question_da": "Hvilken planet er den varmeste?",
+      "options": [
+        {
+          "id": "venus",
+          "label_en": "Venus",
+          "label_de": "Venus",
+          "label_it": "Venere",
+          "label_fr": "Vénus",
+          "label_es": "Venus",
+          "label_hr": "Venera",
+          "label_cs": "Venuše",
+          "label_pl": "Wenus",
+          "label_fi": "Venus",
+          "label_sk": "Venuša",
+          "label_da": "Venus"
+        },
+        {
+          "id": "mercury",
+          "label_en": "Mercury",
+          "label_de": "Merkur",
+          "label_it": "Mercurio",
+          "label_fr": "Mercure",
+          "label_es": "Mercurio",
+          "label_hr": "Merkur",
+          "label_cs": "Merkur",
+          "label_pl": "Merkury",
+          "label_fi": "Merkurius",
+          "label_sk": "Merkúr",
+          "label_da": "Merkur"
+        },
+        {
+          "id": "mars",
+          "label_en": "Mars",
+          "label_de": "Mars",
+          "label_it": "Marte",
+          "label_fr": "Mars",
+          "label_es": "Marte",
+          "label_hr": "Mars",
+          "label_cs": "Mars",
+          "label_pl": "Mars",
+          "label_fi": "Mars",
+          "label_sk": "Mars",
+          "label_da": "Mars"
+        }
+      ]
+    },
+    {
+      "id": "clouds",
+      "correct": "clouds",
+      "question_en": "What makes Venus shine so brightly?",
+      "question_de": "Warum leuchtet Venus so hell?",
+      "question_it": "Cosa fa brillare Venere così tanto?",
+      "question_fr": "Pourquoi Vénus brille-t-elle autant ?",
+      "question_es": "¿Por qué brilla tanto Venus?",
+      "question_hr": "Zašto Venera tako jako sjaji?",
+      "question_cs": "Proč Venuše tak jasně září?",
+      "question_pl": "Dlaczego Wenus tak jasno świeci?",
+      "question_fi": "Miksi Venus loistaa niin kirkkaasti?",
+      "question_sk": "Prečo Venuša tak jasne žiari?",
+      "question_da": "Hvorfor skinner Venus så stærkt?",
+      "options": [
+        {
+          "id": "clouds",
+          "label_en": "Its thick reflective clouds",
+          "label_de": "Seine dichten, reflektierenden Wolken",
+          "label_it": "Le sue spesse nubi riflettenti",
+          "label_fr": "Ses épais nuages réfléchissants",
+          "label_es": "Sus espesas nubes reflectantes",
+          "label_hr": "Njegovi debeli oblaci koji reflektiraju svjetlost",
+          "label_cs": "Její husté odrazivé mraky",
+          "label_pl": "Jej gęste odbijające światło chmury",
+          "label_fi": "Sen paksut heijastavat pilvet",
+          "label_sk": "Jej husté odrazivé mraky",
+          "label_da": "Dens tykke reflekterende skyer"
+        },
+        {
+          "id": "fire",
+          "label_en": "It is on fire",
+          "label_de": "Er brennt",
+          "label_it": "È in fiamme",
+          "label_fr": "Elle est en feu",
+          "label_es": "Está en llamas",
+          "label_hr": "Gori",
+          "label_cs": "Hoří",
+          "label_pl": "Płonie",
+          "label_fi": "Se palaa",
+          "label_sk": "Horí",
+          "label_da": "Den brænder"
+        },
+        {
+          "id": "ice",
+          "label_en": "Its icy surface",
+          "label_de": "Seine eisige Oberfläche",
+          "label_it": "La sua superficie ghiacciata",
+          "label_fr": "Sa surface glacée",
+          "label_es": "Su superficie helada",
+          "label_hr": "Njegova ledena površina",
+          "label_cs": "Její ledový povrch",
+          "label_pl": "Jej lodowa powierzchnia",
+          "label_fi": "Sen jäinen pinta",
+          "label_sk": "Jej ľadový povrch",
+          "label_da": "Dens iskolde overflade"
+        }
+      ]
+    }
+  ]
+}
