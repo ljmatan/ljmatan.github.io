@@ -1,0 +1,293 @@
+{
+  "id": "ship",
+  "category_id": "transport",
+  "symbol_id": "ship",
+  "thumbnail": "ship_thumb.webp",
+  "title_en": "Ships",
+  "title_de": "Schiffe",
+  "title_it": "Navi",
+  "title_fr": "Navires",
+  "title_es": "Barcos",
+  "title_hr": "Brodovi",
+  "title_cs": "Lodě",
+  "title_pl": "Statki",
+  "title_fi": "Laivat",
+  "title_sk": "Lode",
+  "title_da": "Skibe",
+  "scenes": [
+    {
+      "id": "intro",
+      "script_en": "Today we are going to learn about ships. A ship is a large vehicle that travels on water. Ships carry people and goods across seas and oceans, often over very long distances.",
+      "script_de": "Heute lernen wir etwas über Schiffe. Ein Schiff ist ein großes Fahrzeug, das auf dem Wasser fährt. Schiffe befördern Menschen und Güter über Meere und Ozeane, oft über sehr weite Strecken.",
+      "script_it": "Oggi impareremo a conoscere le navi. Una nave è un grande veicolo che viaggia sull'acqua. Le navi trasportano persone e merci attraverso mari e oceani, spesso su distanze molto lunghe.",
+      "script_fr": "Aujourd'hui, nous allons découvrir les navires. Un navire est un grand véhicule qui se déplace sur l'eau. Les navires transportent des personnes et des marchandises à travers les mers et les océans, souvent sur de très longues distances.",
+      "script_es": "Hoy vamos a aprender sobre los barcos. Un barco es un vehículo grande que viaja sobre el agua. Los barcos transportan personas y mercancías a través de mares y océanos, a menudo a distancias muy largas.",
+      "script_hr": "Danas ćemo učiti o brodovima. Brod je veliko vozilo koje putuje po vodi. Brodovi prevoze ljude i robu preko mora i oceana, često na vrlo velikim udaljenostima.",
+      "script_cs": "Dnes se budeme učit o lodích. Loď je velké vozidlo, které se pohybuje po vodě. Lodě přepravují lidi a zboží přes moře a oceány, často na velmi dlouhé vzdálenosti.",
+      "script_pl": "Dziś dowiemy się czegoś o statkach. Statek to duży pojazd poruszający się po wodzie. Statki przewożą ludzi i towary przez morza i oceany, często na bardzo duże odległości.",
+      "script_fi": "Tänään opimme laivoista. Laiva on suuri vesi- tai merikulkuneuvo. Laivat kuljettavat ihmisiä ja tavaroita merten ja valtamerten halki, usein hyvin pitkiä matkoja.",
+      "script_sk": "Dnes sa budeme učiť o lodiach. Loď je veľké vozidlo, ktoré sa pohybuje po vode. Lode prepravujú ľudí a tovar cez moria a oceány, často na veľmi veľké vzdialenosti.",
+      "script_da": "I dag skal vi lære om skibe. Et skib er et stort køretøj, der sejler på vand. Skibe transporterer mennesker og varer over have og oceaner, ofte over meget lange afstande.",
+      "images": [
+        "intro.webp",
+        "intro_2.webp",
+        "intro_3.webp"
+      ]
+    },
+    {
+      "id": "cargo",
+      "script_en": "Many ships carry cargo in metal containers. The containers are stacked on deck and loaded by huge cranes at ports. One large ship can carry thousands of containers at once.",
+      "script_de": "Viele Schiffe befördern Fracht in Metallcontainern. Die Container werden an Deck gestapelt und in Häfen von riesigen Kränen beladen. Ein großes Schiff kann Tausende Container auf einmal tragen.",
+      "script_it": "Molte navi trasportano merci in container di metallo. I container vengono impilati sul ponte e caricati da enormi gru nei porti. Una grande nave può trasportare migliaia di container contemporaneamente.",
+      "script_fr": "De nombreux navires transportent des marchandises dans des conteneurs métalliques. Les conteneurs sont empilés sur le pont et chargés par d'énormes grues dans les ports. Un grand navire peut transporter des milliers de conteneurs à la fois.",
+      "script_es": "Muchos barcos transportan carga en contenedores metálicos. Los contenedores se apilan en cubierta y se cargan con enormes grúas en los puertos. Un barco grande puede llevar miles de contenedores a la vez.",
+      "script_hr": "Mnogi brodovi prevoze teret u metalnim kontejnerima. Kontejneri se slažu na palubu i utovaruju golemim dizalicama u lukama. Jedan veliki brod može odjednom prevesti tisuće kontejnera.",
+      "script_cs": "Mnoho lodí přepravuje náklad v kovových kontejnerech. Kontejnery se skládají na palubu a v přístavech je nakládají obrovské jeřáby. Jedna velká loď může najednou přepravit tisíce kontejnerů.",
+      "script_pl": "Wiele statków przewozi ładunki w metalowych kontenerach. Kontenery są układane na pokładzie i załadowywane przez ogromne dźwigi w portach. Jeden duży statek może naraz przewieźć tysiące kontenerów.",
+      "script_fi": "Monet laivat kuljettavat lastia metallikonttoreissa. Kontit pinotaan kannelle ja lastataan satamissa valtavilla nostureilla. Yksi suuri laiva voi kuljettaa tuhansia kontteja kerralla.",
+      "script_sk": "Mnohé lode prepravujú náklad v kovových kontajneroch. Kontajnery sa ukladajú na palubu a v prístavoch ich nakladajú obrovské žeriavy. Jedna veľká loď môže naraz prepraviť tisíce kontajnerov.",
+      "script_da": "Mange skibe transporterer gods i metalcontainere. Containerne stabler på dækket og læsses af enorme kraner i havnene. Et stort skib kan transportere tusindvis af containere på én gang.",
+      "images": [
+        "cargo.webp",
+        "cargo_2.webp",
+        "cargo_3.webp"
+      ]
+    },
+    {
+      "id": "port",
+      "script_en": "Ships travel between ports, where they load and unload goods. Tugboats help them move safely in crowded harbours. Port workers use cranes and computers to keep everything organised.",
+      "script_de": "Schiffe fahren zwischen Häfen, wo sie Güter be- und entladen. Schlepper helfen ihnen, sich in belebten Häfen sicher zu bewegen. Hafenarbeiter nutzen Kräne und Computer, um alles organisiert zu halten.",
+      "script_it": "Le navi viaggiano tra i porti, dove caricano e scaricano le merci. I rimorchiatori le aiutano a muoversi in sicurezza nei porti affollati. I lavoratori portuali usano gru e computer per tenere tutto organizzato.",
+      "script_fr": "Les navires voyagent entre les ports, où ils chargent et déchargent des marchandises. Les remorqueurs les aident à manœuvrer en sécurité dans les ports bondés. Les dockers utilisent des grues et des ordinateurs pour tout organiser.",
+      "script_es": "Los barcos viajan entre puertos, donde cargan y descargan mercancías. Los remolcadores les ayudan a moverse con seguridad en puertos concurridos. Los trabajadores portuarios usan grúas y computadoras para mantener todo organizado.",
+      "script_hr": "Brodovi putuju između luka, gdje utovaruju i istovaruju robu. Te gljače pomažu im sigurno se kretati u prometnim lukama. Lučki radnici koriste dizalice i računala kako bi sve ostalo organizirano.",
+      "script_cs": "Lodě jezdí mezi přístavy, kde nakládají a vykládají zboží. Remorkéry jim pomáhají bezpečně se pohybovat v rušných přístavech. Přístavní dělníci používají jeřáby a počítače, aby vše zůstalo uspořádané.",
+      "script_pl": "Statki pływają między portami, gdzie załadowują i rozładowują towary. Holowniki pomagają im bezpiecznie poruszać się w zatłoczonych portach. Pracownicy portu używają dźwigów i komputerów, aby wszystko było uporządkowane.",
+      "script_fi": "Laivat matkustavat satamien välillä, joissa ne lastaavat ja purkavat tavaroita. Hinaajat auttavat niitä liikkumaan turvallisesti ruuhkaisissa satamissa. Satamatyöntekijät käyttävät nostureita ja tietokoneita pitääkseen kaiken järjestyksessä.",
+      "script_sk": "Lode jazdia medzi prístavmi, kde nakladajú a vykladajú tovar. Remorkéry im pomáhajú bezpečne sa pohybovať v rušných prístavoch. Prístavní pracovníci používajú žeriavy a počítače, aby všetko zostalo usporiadané.",
+      "script_da": "Skibe sejler mellem havne, hvor de læsser og losser varer. Bugserbåde hjælper dem med at bevæge sig sikkert i travle havne. Havnearbejdere bruger kraner og computere til at holde alt organiseret.",
+      "images": [
+        "port.webp",
+        "port_2.webp",
+        "port_3.webp"
+      ]
+    },
+    {
+      "id": "navigation",
+      "script_en": "Captains and crews use maps, radar, and satellites to navigate. They watch the weather and keep in touch with other ships. Life jackets and lifeboats keep everyone safe in an emergency.",
+      "script_de": "Kapitäne und Besatzungen nutzen Karten, Radar und Satelliten zur Navigation. Sie beobachten das Wetter und bleiben mit anderen Schiffen in Kontakt. Rettungswesten und Rettungsboote halten alle in einem Notfall sicher.",
+      "script_it": "Capitani ed equipaggi usano mappe, radar e satelliti per navigare. Osservano il tempo e restano in contatto con le altre navi. Giubbotti salvagente e scialuppe tengono tutti al sicuro in caso di emergenza.",
+      "script_fr": "Les capitaines et les équipages utilisent des cartes, des radars et des satellites pour naviguer. Ils surveillent la météo et restent en contact avec les autres navires. Les gilets de sauvetage et les canots de sauvetage protègent tout le monde en cas d'urgence.",
+      "script_es": "Los capitanes y las tripulaciones usan mapas, radares y satélites para navegar. Vigilan el clima y se mantienen en contacto con otros barcos. Los chalecos salvavidas y los botes salvavidas mantienen a todos seguros en una emergencia.",
+      "script_hr": "Kapetani i posade koriste karte, radar i satelite za navigaciju. Promatraju vrijeme i održavaju kontakt s drugim brodovima. Prsluci za spašavanje i čamci za spašavanje drže sve na sigurnom u nuždi.",
+      "script_cs": "Kapitáni a posádky používají k navigaci mapy, radar a satelity. Sledují počasí a zůstávají v kontaktu s ostatními loděmi. Záchranné vesty a záchranné čluny udržují všechny v bezpečí při nouzi.",
+      "script_pl": "Kapitanowie i załogi nawigują za pomocą map, radarów i satelitów. Obserwują pogodę i utrzymują kontakt z innymi statkami. Kamizelki ratunkowe i łodzie ratunkowe zapewniają wszystkim bezpieczeństwo w nagłym wypadku.",
+      "script_fi": "Kapteenit ja miehistöt navigoivat karttojen, tutkan ja satelliittien avulla. He seuraavat säätä ja pitävät yhteyttä muihin laivoihin. Pelastusliivit ja pelastusveneet pitävät kaikki turvassa hätätilanteessa.",
+      "script_sk": "Kapitáni a posádky používajú na navigáciu mapy, radar a satelity. Sledujú počasie a zostávajú v kontakte s ostatnými loďami. Záchranné vesty a záchranné člny udržujú všetkých v bezpečí pri núdzi.",
+      "script_da": "Kaptajner og besætninger navigerer ved hjælp af kort, radar og satellitter. De holder øje med vejret og holder kontakt med andre skibe. Redningsveste og redningsbåde holder alle sikre i en nødsituation.",
+      "images": [
+        "navigation.webp",
+        "navigation_2.webp",
+        "navigation_3.webp"
+      ]
+    },
+    {
+      "id": "today",
+      "script_en": "Today ships are built to use less fuel and produce less pollution. Some use sails or electric power for short trips. Ships remain the main way that goods travel around the world.",
+      "script_de": "Heute werden Schiffe so gebaut, dass sie weniger Treibstoff verbrauchen und weniger Umweltverschmutzung verursachen. Manche nutzen Segel oder Elektrizität für kurze Fahrten. Schiffe bleiben der wichtigste Weg, auf dem Güter um die Welt reisen.",
+      "script_it": "Oggi le navi sono costruite per consumare meno carburante e produrre meno inquinamento. Alcune usano vele o energia elettrica per brevi tragitti. Le navi restano il principale modo in cui le merci viaggiano nel mondo.",
+      "script_fr": "Aujourd'hui, les navires sont construits pour consommer moins de carburant et polluer moins. Certains utilisent des voiles ou l'électricité pour de courts trajets. Les navires restent le principal moyen de transport des marchandises dans le monde.",
+      "script_es": "Hoy los barcos se construyen para consumir menos combustible y contaminar menos. Algunos usan velas o energía eléctrica para trayectos cortos. Los barcos siguen siendo la principal forma en que las mercancías viajan por el mundo.",
+      "script_hr": "Današnji brodovi grade se tako da troše manje goriva i stvaraju manje zagađenja. Neki koriste jedra ili električnu energiju za kratka putovanja. Brodovi ostaju glavni način na koji roba putuje svijetom.",
+      "script_cs": "Dnešní lodě se staví tak, aby spotřebovaly méně paliva a produkovaly méně znečištění. Některé pro krátké cesty používají plachty nebo elektřinu. Lodě zůstávají hlavním způsobem, jakým zboží cestuje po světě.",
+      "script_pl": "Dzisiejsze statki buduje się tak, aby zużywały mniej paliwa i powodowały mniej zanieczyszczeń. Niektóre używają żagli lub energii elektrycznej na krótkich trasach. Statki pozostają głównym sposobem podróżowania towarów po świecie.",
+      "script_fi": "Nykyiset laivat rakennetaan käyttämään vähemmän polttoainetta ja tuottamaan vähemmän saastetta. Jotkut käyttävät purjeita tai sähköä lyhyillä matkoilla. Laivat ovat edelleen tärkein tapa kuljettaa tavaroita ympäri maailmaa.",
+      "script_sk": "Dnešné lode sa stavajú tak, aby spotrebovali menej paliva a produkovali menej znečistenia. Niektoré na krátke cesty používajú plachty alebo elektrinu. Lode zostávajú hlavným spôsobom, akým tovar cestuje po svete.",
+      "script_da": "Nutidens skibe bygges til at bruge mindre brændstof og forurene mindre. Nogle bruger sejl eller elektricitet til korte ture. Skibe er stadig den vigtigste måde, varer rejser rundt i verden på.",
+      "images": [
+        "today.webp",
+        "today_2.webp",
+        "today_3.webp"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "where",
+      "correct": "water",
+      "question_en": "Where does a ship travel?",
+      "question_de": "Wo fährt ein Schiff?",
+      "question_it": "Dove viaggia una nave?",
+      "question_fr": "Où voyage un navire ?",
+      "question_es": "¿Dónde viaja un barco?",
+      "question_hr": "Gdje putuje brod?",
+      "question_cs": "Kde se loď pohybuje?",
+      "question_pl": "Gdzie porusza się statek?",
+      "question_fi": "Missä laiva liikkuu?",
+      "question_sk": "Kde sa loď pohybuje?",
+      "question_da": "Hvor sejler et skib?",
+      "options": [
+        {
+          "id": "water",
+          "label_en": "On water",
+          "label_de": "Auf dem Wasser",
+          "label_it": "Sull'acqua",
+          "label_fr": "Sur l'eau",
+          "label_es": "Sobre el agua",
+          "label_hr": "Po vodi",
+          "label_cs": "Po vodě",
+          "label_pl": "Po wodzie",
+          "label_fi": "Vedessä",
+          "label_sk": "Po vode",
+          "label_da": "På vand"
+        },
+        {
+          "id": "road",
+          "label_en": "On roads",
+          "label_de": "Auf Straßen",
+          "label_it": "Sulle strade",
+          "label_fr": "Sur les routes",
+          "label_es": "Por las carreteras",
+          "label_hr": "Po cestama",
+          "label_cs": "Po silnicích",
+          "label_pl": "Po drogach",
+          "label_fi": "Teillä",
+          "label_sk": "Po cestách",
+          "label_da": "På veje"
+        },
+        {
+          "id": "sky",
+          "label_en": "In the sky",
+          "label_de": "Im Himmel",
+          "label_it": "Nel cielo",
+          "label_fr": "Dans le ciel",
+          "label_es": "En el cielo",
+          "label_hr": "Na nebu",
+          "label_cs": "Na obloze",
+          "label_pl": "Na niebie",
+          "label_fi": "Taivaalla",
+          "label_sk": "Na oblohe",
+          "label_da": "På himlen"
+        }
+      ]
+    },
+    {
+      "id": "cargo",
+      "correct": "containers",
+      "question_en": "What do cargo ships carry?",
+      "question_de": "Was befördern Frachtschiffe?",
+      "question_it": "Cosa trasportano le navi cargo?",
+      "question_fr": "Que transportent les cargos ?",
+      "question_es": "¿Qué transportan los barcos de carga?",
+      "question_hr": "Što prevoze teretni brodovi?",
+      "question_cs": "Co přepravují nákladní lodě?",
+      "question_pl": "Co przewożą statki towarowe?",
+      "question_fi": "Mitä rahtilaivat kuljettavat?",
+      "question_sk": "Čo prepravujú nákladné lode?",
+      "question_da": "Hvad transporterer fragtskibe?",
+      "options": [
+        {
+          "id": "containers",
+          "label_en": "Containers of goods",
+          "label_de": "Container mit Waren",
+          "label_it": "Container di merci",
+          "label_fr": "Des conteneurs de marchandises",
+          "label_es": "Contenedores de mercancías",
+          "label_hr": "Kontejnere s robom",
+          "label_cs": "Kontejnery se zbožím",
+          "label_pl": "Kontenery z towarami",
+          "label_fi": "Kontteja, joissa on tavaraa",
+          "label_sk": "Kontajnery s tovarom",
+          "label_da": "Containere med varer"
+        },
+        {
+          "id": "only people",
+          "label_en": "Only people",
+          "label_de": "Nur Menschen",
+          "label_it": "Solo persone",
+          "label_fr": "Seulement des personnes",
+          "label_es": "Solo personas",
+          "label_hr": "Samo ljude",
+          "label_cs": "Jen lidi",
+          "label_pl": "Tylko ludzi",
+          "label_fi": "Vain ihmisiä",
+          "label_sk": "Len ľudí",
+          "label_da": "Kun mennesker"
+        },
+        {
+          "id": "animals",
+          "label_en": "Only animals",
+          "label_de": "Nur Tiere",
+          "label_it": "Solo animali",
+          "label_fr": "Seulement des animaux",
+          "label_es": "Solo animales",
+          "label_hr": "Samo životinje",
+          "label_cs": "Jen zvířata",
+          "label_pl": "Tylko zwierzęta",
+          "label_fi": "Vain eläimiä",
+          "label_sk": "Len zvieratá",
+          "label_da": "Kun dyr"
+        }
+      ]
+    },
+    {
+      "id": "port",
+      "correct": "port",
+      "question_en": "Where do ships load and unload?",
+      "question_de": "Wo be- und entladen Schiffe ihre Fracht?",
+      "question_it": "Dove caricano e scaricano le navi?",
+      "question_fr": "Où les navires chargent-ils et déchargent-ils ?",
+      "question_es": "¿Dónde cargan y descargan los barcos?",
+      "question_hr": "Gdje brodovi utovaruju i istovaruju?",
+      "question_cs": "Kde lodě nakládají a vykládají?",
+      "question_pl": "Gdzie statki załadowują i rozładowują towary?",
+      "question_fi": "Missä laivat lastaavat ja purkavat?",
+      "question_sk": "Kde lode nakladajú a vykladajú?",
+      "question_da": "Hvor læsser og losser skibe?",
+      "options": [
+        {
+          "id": "port",
+          "label_en": "At a port",
+          "label_de": "In einem Hafen",
+          "label_it": "In un porto",
+          "label_fr": "Dans un port",
+          "label_es": "En un puerto",
+          "label_hr": "U luci",
+          "label_cs": "V přístavu",
+          "label_pl": "W porcie",
+          "label_fi": "Satamassa",
+          "label_sk": "V prístave",
+          "label_da": "I en havn"
+        },
+        {
+          "id": "garage",
+          "label_en": "In a garage",
+          "label_de": "In einer Garage",
+          "label_it": "In un garage",
+          "label_fr": "Dans un garage",
+          "label_es": "En un garaje",
+          "label_hr": "U garaži",
+          "label_cs": "V garáži",
+          "label_pl": "W garażu",
+          "label_fi": "Autotallissa",
+          "label_sk": "V garáži",
+          "label_da": "I en garage"
+        },
+        {
+          "id": "forest",
+          "label_en": "In a forest",
+          "label_de": "In einem Wald",
+          "label_it": "In una foresta",
+          "label_fr": "Dans une forêt",
+          "label_es": "En un bosque",
+          "label_hr": "U šumi",
+          "label_cs": "V lese",
+          "label_pl": "W lesie",
+          "label_fi": "Metsässä",
+          "label_sk": "V lese",
+          "label_da": "I en skov"
+        }
+      ]
+    }
+  ]
+}
